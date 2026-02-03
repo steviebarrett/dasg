@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 1 8 14 -->
+<fieldworkDocument docId="AOHenley_SouthGlendaleMrandMrsJMacKaymisc" docType="wordlist" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>[1987-88]</date>
+  <fieldworker personId="ohenleya">A. O’Henley</fieldworker>
+  <note>[NOTES: some notes added (most probably by K. D. MacDonald?). See below for details.]</note>
+  <informant>
+    <nameEnglish>Mr and Mrs J. MacKay</nameEnglish>
+  </informant>
+  <location>South Uist, South Glendale</location>
+  <items>
+    <item>
+      <headword id="idm2982704">cuir is dlùth</headword>
+      <description>warp and weft.</description>
+    </item>
+    <item>
+      <headword id="idm3039656">inneadh (ch?)</headword>
+      <description>leftovers of wool.</description>
+    </item>
+    <item>
+      <headword id="idm2997608">fuigheagan</headword>
+      <description>threads which were left over at the end of a bit of cloth.</description>
+    </item>
+    <item>
+      <headword id="idm2986016">séicle</headword>
+      <description>the flyer on a spinning wheel.</description>
+    </item>
+    <item>
+      <headword id="idm2995520">pearta</headword>
+      <description>after carding this word could be applied to an amount of wool that had been carded. [NOTES: corrected to ‘peàrta’.]</description>
+    </item>
+    <item>
+      <headword id="idm2950952">crois iarna</headword>
+      <description>a wooden plank with legs. Had a pin in the middle of this plank, round which wool was wrapped until you had a hank of wool.</description>
+    </item>
+    <item>
+      <headword id="idm3020072">cairt locha</headword>
+      <description>tubers on the bottom of a loch. The root of this was used for black dye.</description>
+    </item>
+    <item>
+      <headword id="idm3053768">liaghra</headword>
+      <description>two bits of wood crossed together in the centre. There is a pin in the centre and on the ends of each bit of wood. The wool was wrapped round this until you had a hank. Unlike the ‘crois iarna’ [q.v.] this did not have legs.</description>
+    </item>
+    <item>
+      <headword id="idm3019208">rusg nan uinneanan</headword>
+      <description>onion peel, boiled with salt and used as a yellow dye. [NOTES: ‘rusg’ corrected to ‘rùsg’.]</description>
+    </item>
+    <item>
+      <headword id="idm2955632">cradhadh am beul na duilleig</headword>
+      <description>a pain / palpitation in the chest. The ‘duilleag’ was a certain part of the chest which the informant cannot specify. The pain was similar to indigestion but was more acute.</description>
+    </item>
+    <item>
+      <headword id="idm3041240">greim mór</headword>
+      <description>appendicitis.</description>
+    </item>
+    <item>
+      <headword id="idm3025616">galair an domalais</headword>
+      <description>gall stones.</description>
+    </item>
+    <item>
+      <headword id="idm3032312">lòinidh</headword>
+      <description>rheumatism / sciatica. Cured by seal’s oil which was either rubbed in or drunk.</description>
+    </item>
+    <item>
+      <headword id="idm2939792">greim maothain</headword>
+      <description>rupture.</description>
+    </item>
+    <item>
+      <headword id="idm2975288">sgeith feith</headword>
+      <description>a ruptured muscle, especially in the form of a lump on the back of a hand. Also applied as the term for varicose veins. [NOTES: ‘feith’ corrected to ‘fèith’.]</description>
+    </item>
+    <item>
+      <headword id="idm2950736">sgònnan</headword>
+      <description>a bit of wood on a dibble, on which pressure was applied when making a hole for the potato seed.</description>
+    </item>
+    <item>
+      <headword id="idm3015248">lothadh</headword>
+      <description>rotted.</description>
+    </item>
+    <item>
+      <headword id="idm2957504">[each]</headword>
+      <description>“Brollach an eich is màs na làir.” – a term used when buying horses. Whereas the strength of the male was the important criteria, the width of a mare’s shoulders was equally important.</description>
+    </item>
+    <item>
+      <headword id="idm2960672">an cruadhach</headword>
+      <description>the term applied to the seeds once they had dried.</description>
+    </item>
+    <item>
+      <headword id="idm3012224">gealabhan</headword>
+      <description>the fire in a kiln.</description>
+    </item>
+    <item>
+      <headword id="idm2993864">camhraich</headword>
+      <description>a form of gruel made from small oats.</description>
+    </item>
+    <item>
+      <headword id="idm2954912">sgioladh</headword>
+      <description>chaffing.</description>
+    </item>
+    <item>
+      <headword id="idm3010352">geilceinn</headword>
+      <description>an unsuitable, lumpy addition. For example this would be applied to a badly made mould board (bòrd-ùireach). [NOTES: corrected to ‘geilcein’.]</description>
+    </item>
+    <item>
+      <headword id="idm3036848">ceann</headword>
+      <description>reef.</description>
+    </item>
+    <item>
+      <headword id="idp2047904">marcadh sìne</headword>
+      <description>spindthrift [sic] [spindrift?].</description>
+    </item>
+    <item>
+      <headword id="idp2049416">lianadh</headword>
+      <description>swamp.</description>
+    </item>
+    <item>
+      <headword id="idp2050928">cròdan</headword>
+      <description>the gurnet.</description>
+    </item>
+    <item>
+      <headword id="idp2052440">gilleacha fionndrainn</headword>
+      <description>periwinkle.</description>
+    </item>
+  </items>
+</fieldworkDocument>
+

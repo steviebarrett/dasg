@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 26/10/15 -->
+<fieldworkDocument xmlns:php="http://php.net/xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_SkyeMMacDonaldslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>1988</date>
+  <informant>
+    <nameEnglish>Martin MacDonald</nameEnglish>
+  </informant>
+  <location>Skye</location>
+  <items>
+    <item>
+      <headword id="idp117057032">taifean</headword>
+      <description>Notes: small present. Cf. ciofan.</description>
+    </item>
+    <item>
+      <headword id="idp117058544">ùnas</headword>
+      <description>Notes: a rumour.</description>
+    </item>
+    <item>
+      <headword id="idp117060056">sgitheal</headword>
+      <description>Notes: used of demountable units at Portree High School. Cf. sgritheal. (Heard in Broadford.)</description>
+    </item>
+    <item>
+      <headword id="idp117061568">ciofan</headword>
+      <description>Notes: small present. Ciofanan ‘odds and ends’. (Said by Martin MacDonald to be Uist word.)</description>
+    </item>
+  </items>
+</fieldworkDocument>

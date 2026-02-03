@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 20 4 13 -->
+<fieldworkDocument docId="Ecclesiastical_DunoonJMacLeanbas" docType="questionnaire" subType="BàsIsAdhlachadh">
+  <title>Bàs is Adhlacadh / Death and Burial</title>
+  <fieldworker>[self]</fieldworker>
+  <informant>
+    <nameEnglish>John MacLean</nameEnglish>
+    <nameGaelic>Iain Mac ’Illeathain</nameGaelic>
+    <age>48</age>
+    <origin>Barra</origin>
+  </informant>
+  <location>Dunoon</location>
+  <items>
+    <item><headword id="d0e32" type="heading" level="h1">1. Ag ullachadh a’ chuirp</headword></item>
+    <item>
+      <headword id="d0e37">’ga nighe</headword>
+      <description>washing the body.</description>
+    </item>
+    <item>
+      <headword id="d0e46">a deanamh na leine</headword>
+      <description>preparing the shroud – always by the women.</description>
+    </item>
+    <item>
+      <headword id="d0e55">eiletrom</headword>
+      <description>the boards on which the body lies.</description>
+    </item>
+    <item>
+      <headword id="d0e64">an corp</headword>
+      <description>the body.</description>
+    </item>
+    <item>
+      <headword id="d0e73">am fear (te) nach maireann</headword>
+      <description>the deceased.</description>
+    </item>
+    <item>
+      <headword id="d0e82">Dh’eug e</headword>
+      <description>He died.</description>
+    </item>
+    <item>
+      <headword id="d0e91">Chaochail e</headword>
+      <description>He died.</description>
+    </item>
+    <item><headword id="d0e99" type="heading" level="h1">2. A’ chiste</headword></item>
+    <item>
+      <headword id="d0e104">a’ chiste</headword>
+    </item>
+    <item>
+      <headword id="d0e110">a’ chiste laighe</headword>
+    </item>
+    <item>
+      <headword id="d0e116">a ghiobag</headword>
+      <description>the cord.</description>
+    </item>
+    <item><headword id="d0e124" type="heading" level="h1">3. Faire</headword></item>
+    <item>
+      <headword id="d0e129">caithris</headword>
+      <description>wake.</description>
+    </item>
+    <item>
+      <headword id="d0e138">tigh na faire</headword>
+      <description>the house where the body lies.</description>
+    </item>
+    <item><headword id="d0e146" type="heading" level="h1">4. A’ giùlan na ciste</headword></item>
+    <item>
+      <headword id="d0e151">an giulan</headword>
+      <description>the funeral procession.</description>
+    </item>
+    <item>
+      <headword id="d0e160">a’ dol fo’n chistidh</headword>
+      <description>carrying the coffin.</description>
+    </item>
+    <item>
+      <headword id="d0e169">tòrradh</headword>
+      <description>funeral.</description>
+    </item>
+    <item>
+      <headword id="d0e178">tiodhlaigeadh</headword>
+      <description>funeral.</description>
+    </item>
+    <item>
+      <headword id="d0e187">cro-leab</headword>
+      <description>The wooden support for carrying the coffin. Three handles on each side.</description>
+    </item>
+    <item>
+      <headword id="d0e196">Seasamh a mach</headword>
+      <description>Calling the next to bear the coffin. In Barra male mourners walk in front of the coffin and the female mourners behind. Different on mainland.</description>
+    </item>
+    <item>
+      <headword id="d0e205">Seas ann a sin</headword>
+      <description>[See Seasamh a mach]</description>
+    </item>
+    <item><headword id="d0e213" type="heading" level="h1">5. An cladh agus an uaigh</headword></item>
+    <item>
+      <headword id="d0e218">amhlaig</headword>
+      <description>Chaidh amhlagadh.</description>
+    </item>
+    <item>
+      <headword id="d0e227">tiodhlaig</headword>
+      <description>Chaidh a thiodhlaigeadh.</description>
+    </item>
+    <item>
+      <headword id="d0e236">ag cladhach na h-uaghach</headword>
+      <description>digging the grave.</description>
+    </item>
+    <item>
+      <headword id="d0e245">a treachladh na h-uaghach</headword>
+      <description>digging the grave. (Not so often used.)</description>
+    </item>
+    <item>
+      <headword id="d0e254">an cladh</headword>
+      <description>the graveyard.</description>
+    </item>
+    <item>
+      <headword id="d0e263">siubhal sith fo thiodhlagadh</headword>
+      <description>difficult to catch up with a funeral procession.</description>
+    </item>
+    <item>
+      <headword id="d0e272">Uisge an deaghaidh tiodhlagadh / Grian an deaghaidh pòsadh</headword>
+      <description>a good augury.</description>
+    </item>
+    <item><headword id="d0e280" type="heading" level="h1">6. Cleachdaidhean sam bith co-cheangailte ri bàs no adhlacadh</headword></item>
+	<item>
+	  <headword id="idola97">[note]</headword>
+	  <description>[This page missing from the questionnaire.]</description>
+	</item>
+  </items>
+</fieldworkDocument>

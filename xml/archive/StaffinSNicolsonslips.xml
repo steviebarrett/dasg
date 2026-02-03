@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 27/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_StaffinSNicolsonslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>07/1970</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <informant>
+    <nameEnglish>Sam Nicolson</nameEnglish>
+  </informant>
+  <location>Skye, Staffin</location>
+  <items>
+    <item>
+      <headword id="idp115470848">lorg</headword>
+      <description>Notes: the handle of the flail.</description>
+    </item>
+    <item>
+      <headword id="idp115491296">ròp</headword>
+      <description>Quotation: ròp anairt. Notes: clothes line.</description>
+    </item>
+    <item>
+      <headword id="idp115447592">siol</headword>
+      <description>Quotation: deireadh an t-sìl. Notes: very poor seed which rose to the top when using the criathar. Lifted off with the hands.</description>
+    </item>
+    <item>
+      <headword id="idp115455008">niùsgach</headword>
+      <description>Notes: plant from which a brown dye was made.</description>
+    </item>
+    <item>
+      <headword id="idp118692544">plàta</headword>
+      <description>Quotation: plàta fasgnaidh.</description>
+    </item>
+    <item>
+      <headword id="idp118691248">simide</headword>
+      <description>[ʃĩmidʹə] Notes: potato masher.</description>
+    </item>
+    <item>
+      <headword id="idp118688656">spàr</headword>
+      <description>[spɑ:r] Notes: crosspiece in harrows.</description>
+    </item>
+    <item>
+      <headword id="idp118686928">stràc</headword>
+      <description>[st̪ɾɑ:xk] Notes: a swathe of corn or hay.</description>
+    </item>
+    <item>
+      <headword id="idp118685344">tòrr</headword>
+      <description>Notes: a fairly large collection of drying peats on the bank.</description>
+    </item>
+    <item>
+      <headword id="idp118684192">urlar-bualaidh</headword>
+      <description>[ɤu̜ɫɑɾbuɤɫi] Notes: platform of wood on which corn was threshed with the flail.</description>
+    </item>
+    <item>
+      <headword id="idp118682104">anart</headword>
+      <description>Quotation: ròp anairt. Notes: clothes line.</description>
+    </item>
+    <item>
+      <headword id="idp118788232">càrn</headword>
+      <description>Notes: a “hut” of corn.</description>
+    </item>
+    <item>
+      <headword id="idp118786720">ceannadach</headword>
+      <description>[cɛ̃n̪ɑd̪ɑx] Notes: end-rig.</description>
+    </item>
+    <item>
+      <headword id="idp118784992">cnaimh</headword>
+      <description>[kɾɛ̃:v] Notes: short piece of furrow left unturned by the plough.</description>
+    </item>
+    <item>
+      <headword id="idp118783336">damh</headword>
+      <description>Quotation: daimh [d̪ɛ̃f] – plural. Notes: main beam in harrows.</description>
+    </item>
+    <item>
+      <headword id="idp118781104">deasgainn</headword>
+      <description>Notes: made from the “caolan mór” of the rabbit. The “caolan” was put into a bottle and salt and water added.</description>
+    </item>
+    <item>
+      <headword id="idp118721344">deireadh</headword>
+      <description>Quotation: deireadh an t-sìl. Notes: very poor seed which rose to the top when using the criathar. Lifted off with the hands.</description>
+    </item>
+    <item>
+      <headword id="idp118776928">fòidear</headword>
+      <description>Notes: the person who turns pieces left unturned by the plough.</description>
+    </item>
+    <item>
+      <headword id="idp118776856">foidearachd</headword>
+      <description>Notes: turning the short pieces left unturned by the plough.</description>
+    </item>
+    <item>
+      <headword id="idp118775560">froigh-shnighe</headword>
+      <description>Notes: water seeping in at the top of the wall.</description>
+    </item>
+    <item>
+      <headword id="idp118774048">gath-drama</headword>
+      <description>[ɡɑd̪ɾɑ̃mə] Notes: ridge-pole.</description>
+    </item>
+    <item>
+      <headword id="idp118772608">gniomh</headword>
+      <description>Quotation: a’ gniomhadh a’ chruaich.</description>
+    </item>
+    <item>
+      <headword id="idp118770808">goc</headword>
+      <description>[ɡɔxk] Notes: used for water-tap.</description>
+    </item>
+  </items>
+</fieldworkDocument>

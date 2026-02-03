@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 20 4 13 -->
+<fieldworkDocument docId="Ecclesiastical_SiabostMJMacLeodbas" docType="questionnaire" subType="BàsIsAdhlachadh">
+  <title>Bàs is Adhlacadh / Death and Burial</title>
+  <fieldworker>[self]</fieldworker>
+  <note>[NOTES: the only details on the front page are the informant’s name and language (Gaelic) and the name of the school (Siabost).]</note>
+  <informant>
+    <nameEnglish>Miss M. J. MacLeod</nameEnglish>
+  </informant>
+  <location>[Lewis], Siabost</location>
+  <items>
+    <item><headword id="d0e26" type="heading" level="h1">1. Ag ullachadh a’ chuirp</headword></item>
+    <item>
+      <headword id="d0e31">aodach mairbh</headword>
+      <description>graveclothes.</description>
+    </item>
+    <item><headword id="d0e39" type="heading" level="h1">2. A’ chiste</headword></item>
+    <item>
+      <headword id="d0e44">ciste-laidhe</headword>
+      <description>coffin.</description>
+    </item>
+    <item>
+      <headword id="d0e53">bòrd-uachdair</headword>
+      <description>lid of coffin.</description>
+    </item>
+    <item><headword id="d0e61" type="heading" level="h1">3. Faire</headword></item>
+    <item>
+      <headword id="d0e66">tigh faire</headword>
+      <description>wake.</description>
+    </item>
+    <item><headword id="d0e74" type="heading" level="h1">4. A’ giùlan na ciste</headword></item>
+    <item>
+      <headword id="d0e79">giùlan</headword>
+      <description>bier.</description>
+    </item>
+    <item>
+      <headword id="d0e88">eilitriom</headword>
+      <description>bier.</description>
+    </item>
+    <item>
+      <headword id="d0e97">carbad mharbh</headword>
+      <description>hearse.</description>
+    </item>
+    <item><headword id="d0e105" type="heading" level="h1">5. An cladh agus an uaigh</headword></item>
+    <item>
+      <headword id="d0e110">cladh</headword>
+      <description>graveyard.</description>
+    </item>
+    <item>
+      <headword id="d0e119">cill</headword>
+      <description>graveyard.</description>
+    </item>
+    <item>
+      <headword id="d0e128">uaigh</headword>
+      <description>grave.</description>
+    </item>
+    <item>
+      <headword id="d0e137">clach-chuimhneachan</headword>
+      <description>monument.</description>
+    </item>
+    <item>
+      <headword id="d0e146">rath-thiodhlaic</headword>
+      <description>lair.</description>
+    </item>
+    <item><headword id="d0e154" type="heading" level="h1">6. Cleachdaidhean sam bith co-cheangailte ri bàs no adhlacadh</headword></item>
+  </items>
+</fieldworkDocument>

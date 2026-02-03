@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 6/8/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_BreakishMNicolsonslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>1979</date>
+  <informant>
+    <nameEnglish>Mrs M. Nicolson</nameEnglish>
+  </informant>
+  <location>Skye, Breakish</location>
+  <items>
+    <item>
+      <headword id="idp161830560">splocan</headword>
+      <description>Notes: ‘mumps’.</description>
+    </item>
+    <item>
+      <headword id="idp161832072">scobhsa</headword>
+      <description>Notes: stones at side of fire, sometimes whitened with lime.</description>
+    </item>
+    <item>
+      <headword id="idp161833656">toirbhsgil</headword>
+      <description>Notes: peat-cutter.</description>
+    </item>
+    <item>
+      <headword id="idp161835168">briogais-fhada</headword>
+      <description>Notes: full-length trousers.</description>
+    </item>
+    <item>
+      <headword id="idp161836680">briogais-ghlùin</headword>
+      <description>Notes: knee-breeches.</description>
+    </item>
+    <item>
+      <headword id="idp161838192">deise ghoirid</headword>
+      <description>Notes: ‘plus-fours.’</description>
+    </item>
+    <item>
+      <headword id="idp161839704">faochagan</headword>
+      <description>Notes: game involving five stones.</description>
+    </item>
+  </items>
+</fieldworkDocument>

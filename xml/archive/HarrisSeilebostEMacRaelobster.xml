@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 24 4 14 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="HarrisVarious_HarrisSeilebostEMacRaelobster" docType="questionnaire" subType="Lobster-fishing" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Iasgach a’ Ghiomaich / Lobster-Fishing</title>
+  <fieldworker>[anonymous D]</fieldworker>
+  <informant>
+    <nameEnglish>MacRae</nameEnglish>
+    <nameGaelic>Eoghainn MacRath</nameGaelic>
+    <age>mu [about] 60</age>
+    <origin>Taransay</origin>
+  </informant>
+  <location>Na Hearadh [Harris], Seilebost</location>
+  <items>
+    <item><headword id="d0e32" type="heading" level="h1">The Lobster</headword></item>
+    <item>
+      <headword id="d0e37">fireann</headword>
+      <description>male.</description>
+    </item>
+    <item>
+      <headword id="d0e46">boireann</headword>
+      <description>female.</description>
+    </item>
+    <item>
+      <headword id="d0e55">siosar</headword>
+      <description>large claws.</description>
+    </item>
+    <item>
+      <headword id="d0e64">baraile</headword>
+      <description>head.</description>
+    </item>
+    <item>
+      <headword id="d0e73">earball</headword>
+      <description>tail.</description>
+    </item>
+    <item>
+      <headword id="d0e82">giomach screigeag</headword>
+      <description>encrustations on back.</description>
+    </item>
+    <item>
+      <headword id="d0e91">uighean</headword>
+      <description>eggs.</description>
+    </item>
+    <item>
+      <headword id="d0e100">giomach bog</headword>
+      <description>soft-shelled lobster.</description>
+    </item>
+    <item>
+      <headword id="d0e109">a’ cath na slige</headword>
+      <description>shell-cast.</description>
+    </item>
+    <item>
+      <headword id="d0e118">giomach bochd</headword>
+      <description>lobster with claw missing.</description>
+    </item>
+    <item>
+      <headword id="d0e127">giomach beag</headword>
+      <description>immature lobster.</description>
+    </item>
+    <item><headword id="d0e135" type="heading" level="h1">The Creel</headword></item>
+    <item>
+      <headword id="d0e140">cliabh</headword>
+      <description>creel.</description>
+    </item>
+    <item>
+      <headword id="d0e149">bonn</headword>
+      <description>the base.</description>
+    </item>
+    <item>
+      <headword id="d0e158">boghannan</headword>
+      <description>rods, before and after bending and fitting to base.</description>
+    </item>
+    <item>
+      <headword id="d0e167">goban</headword>
+      <description>sharpened ends of rods.</description>
+    </item>
+    <item>
+      <headword id="d0e176">lion</headword>
+      <description>the netting, hand knitted.</description>
+    </item>
+    <item>
+      <headword id="d0e185">a cuir  lion air, srang</headword>
+      <description>[sic] netting a creel.</description>
+    </item>
+    <item>
+      <headword id="d0e194">an t-osan</headword>
+      <description>the eye.</description>
+    </item>
+    <item>
+      <headword id="d0e203">srang bhiathaidh</headword>
+      <description>bait-holder.</description>
+    </item>
+    <item>
+      <headword id="d0e212">putaichean</headword>
+      <description>floats, made of sheep skin an [and?] tar.</description>
+    </item>
+	<item>
+	  <headword id="idola146">[door]</headword>
+	  <description>(door for admitting hand – opening in net, and closed with string)</description>
+	</item>
+    <item>
+      <headword id="d0e230">srang chlèibh</headword>
+      <description>fleet of creels, when attached to a single line.</description>
+    </item>
+    <item>
+      <headword id="d0e239">gad</headword>
+      <description>fleet of creels, when attached to a single line.</description>
+    </item>
+    <item><headword id="d0e247" type="heading" level="h1">Fishing</headword></item>
+    <item>
+      <headword id="d0e252">a’ cur</headword>
+      <description>shooting a creel.</description>
+    </item>
+    <item>
+      <headword id="d0e261">a’ tarruing</headword>
+      <description>hauling a creel.</description>
+    </item>
+    <item>
+      <headword id="d0e270">biathadh</headword>
+      <description>bait.</description>
+    </item>
+    <item><headword id="d0e278" type="heading" level="h1">Kinds  used</headword><description>[of bait] </description></item>
+    <item>
+      <headword id="d0e283">rionnach</headword>
+      <description>(latterly)</description>
+    </item>
+    <item>
+      <headword id="d0e292">bioraich</headword>
+    </item>
+    <item>
+      <headword id="d0e298">sgadan</headword>
+    </item>
+    <item>
+      <headword id="d0e304">liabag</headword>
+    </item>
+    <item><headword id="d0e309" type="heading" level="h1">Cleaning a creel, what creatures found within</headword></item>
+    <item>
+      <headword id="d0e314">easgann</headword>
+    </item>
+    <item>
+      <headword id="d0e320">langa</headword>
+    </item>
+    <item>
+      <headword id="d0e326">crùbag</headword>
+    </item>
+    <item>
+      <headword id="d0e332">biast dhubh</headword>
+    </item>
+    <item>
+      <headword id="d0e338">dà sgarbh</headword>
+    </item>
+    <item>
+      <headword id="d0e344">crògan</headword>
+      <description>dog whelks.</description>
+    </item>
+    <item><headword id="d0e352" type="heading" level="h1">Natures of ground</headword></item>
+    <item>
+      <headword id="d0e357">roc</headword>
+      <description>hard ground.</description>
+    </item>
+    <item>
+      <headword id="d0e366">làthach</headword>
+      <description>soft ground, [?] clay.</description>
+    </item>
+    <item><headword id="d0e374" type="heading" level="h1">Other terms</headword></item>
+    <item>
+      <headword id="d0e379">rop briste</headword>
+      <description>broken rope.</description>
+    </item>
+	<item>
+	  <headword id="idola147">[tying claws of lobsters]</headword>
+	  <description>(device used for tying claws of lobsters – rubber bands)</description>
+	</item>
+    <item>
+      <headword id="d0e397">bocsa mor</headword>
+      <description>keep-box.</description>
+    </item>
+    <item>
+      <headword id="d0e406">ròp garbh</headword>
+      <description>moorings of keep box.</description>
+    </item>
+    <item>
+      <headword id="d0e415">cara</headword>
+      <description>pond.</description>
+    </item>
+  </items>
+</fieldworkDocument>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 1/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_FramboiseJMorrisonslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>05/1971</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <note>[NOTES: in IPA transcriptions, the fieldworker uses [w] for [ɯ].]</note>
+  <informant>
+    <nameEnglish>Jim Morrison</nameEnglish>
+  </informant>
+  <location>Canada, Cape Breton, Framboise</location>
+  <items>
+    <item>
+      <headword id="idp115444408">giodalan</headword>
+    <description>[ɡwd̪əɫɑṉ] </description></item>
+  </items>
+</fieldworkDocument>

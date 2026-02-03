@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 5/8/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_AchnahairdDMacLeodslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <date>10/1969</date>
+  <title>Measgaichte / Miscellaneous</title>
+  <fieldworker>[AJ Smith]</fieldworker>
+  <informant>
+    <nameEnglish>Donald MacLeod (“Domhnall Shìm”)</nameEnglish>
+  </informant>
+  <location>Ross-shire, Achnahaird</location>
+  <items>
+    <item>
+      <headword id="idp167340936">lìrean</headword>
+      <description>[lʹi:ɾɑṉ] Notes: (1) slimy green grass growing in wells. (2) brownish version grows in the sea – caught in nets.</description>
+    </item>
+    <item>
+      <headword id="idp167337408">lugas</headword>
+      <description>[ɫu̜ɡəs] Notes: lugworm.</description>
+    </item>
+    <item>
+      <headword id="idp167333664">mathachdainn</headword>
+      <description>Notes: manure.</description>
+    </item>
+    <item>
+      <headword id="idp167355336">ploc</headword>
+      <description>Notes: liver fluke.</description>
+    </item>
+    <item>
+      <headword id="idp167356848">saidhle</headword>
+      <description>[s[ɤı]lə] Notes: sheep-tick.</description>
+    </item>
+    <item>
+      <headword id="idp167359008">sanndag</headword>
+      <description>Notes: sand-eel.</description>
+    </item>
+    <item>
+      <headword id="idp167360520">seillean</headword>
+      <description>[ʃelʹɑ̃ṉ] Notes: honey bee.</description>
+    </item>
+    <item>
+      <headword id="idp167362248">sgolldair</headword>
+      <description>[sɡ[ɤu̜]ɫd̪əɾ] Notes: jelly-fish.</description>
+    </item>
+    <item>
+      <headword id="idp167364408">sliseag</headword>
+      <description>Notes: earmark. <illustration src="AchnahairdDMacLeodslipsillust1.jpg" width="250"/></description>
+    </item>
+    <item>
+      <headword id="idp167365920">smeigead</headword>
+      <description>[smɛɡʹəd̪] Notes: chin.</description>
+    </item>
+    <item>
+      <headword id="idp167367648">anait</headword>
+      <description>[ɑ̃ṉɑtʹ] Notes: two-year-old heifer which hasn’t calved.</description>
+    </item>
+    <item>
+      <headword id="idp167369376">cladhan</headword>
+      <description>Notes: byre drain.</description>
+    </item>
+    <item>
+      <headword id="idp167370888">connspriach</headword>
+      <description>Notes: wasp.</description>
+    </item>
+    <item>
+      <headword id="idp167372400">corra-sgreadhach</headword>
+      <description>[kɔrəsɡɾɛɑx] Notes: heron.</description>
+    </item>
+    <item>
+      <headword id="idp167374128">déadhann</headword>
+      <description>[dʹe:ən̪] Notes: hobble between two front legs of a horse.</description>
+    </item>
+    <item>
+      <headword id="idp167375856">fochaid</headword>
+      <description>Quotation: a’ fochaid. Notes: mocking.</description>
+    </item>
+    <item>
+      <headword id="idp167377512">gàmalan</headword>
+      <description>[ɡɑ̃:mᵊɫɑ̃ṉ] Notes: applied to a very young bird [?].</description>
+    </item>
+    <item>
+      <headword id="idp167379240">gobhlachan</headword>
+      <description>Notes: earwig.</description>
+    </item>
+  </items>
+</fieldworkDocument>

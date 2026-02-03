@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 13 4 14 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="WoolworkingandFishing_LionelJuniorSecondarymaorach" docType="questionnaire" subType="Maorach" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Maorach / Shellfish</title>
+  <date>[1967 – the date on page 6 of the questionnaire: ‘tha e nis 1967’.]</date>
+  <fieldworker>[school]</fieldworker>
+  <informant>
+    <nameEnglish>Lionel Junior Secondary</nameEnglish>
+    <nameGaelic>Lional</nameGaelic>
+  </informant>
+  <location>Lewis, Port of Ness, Lionel</location>
+  <items>
+    <item><headword id="d0e29" type="heading" level="h1">1. Maorach</headword></item>
+	<item>
+	  <headword id="idola256">[maorach]</headword>
+	  <description>Tha oir-thir Sgìre Nis cho fosgailte do thonnan móra a’ Chuain a’ Siar is na creagan cho cas, is nach fhaigh móran maoraich cothrom fàs orra; Suas an Taobh Siar, gu h-àraidh mu Bhorgh, ’se creagan iosal briste a tha ann, is bidh an tràigh a’ fagail lùin móra a measg nan sgeirean sin a bheir fasgadh do mhaorach cladaich.</description>
+	</item>
+    <item>
+      <headword id="d0e43">maorach</headword>
+      <description>’Se ‘limpets’ a tha so a’ ciallachadh ann an Nis, air an Taobh Siar, is anns an Rudha. Ann an Sgìre nan Loch, Ràinis co dhiù, ’se bàirnich a chanas iad ri ‘limpets’ agus maorach ri ‘shellfish’ gu h-iomlan.</description>
+    </item>
+    <item>
+      <headword id="d0e52">bàirneach</headword>
+      <description>‘Limpet’. ’S e bàirneach a bhiodh againn anns an Rudha air a’ bhàirnich bhig a gheibheadh sinn ann an gucaig carraic stamh is dh’itheadh sinn amh i. (Tha mi faicinn gur e ‘Coparran Muire’ a tha aig Father Allan air a’ bhàirnich bhig so ann an ‘Gaelic Words from South Uist’ page 62.) ’Se biadh a’ bhàirnich a bhiodh sinne a’ cleachdadh daonnan air a’ chreagach gus glacadh iasg ’sam bith a thadhaileadh a’ chreag. Cha bhiodh sinn ach ga slaopadh, bhiodh iad ro chruaidh le am bruiche. Bhiodh sinn a’ cagnadh a’ bhiadhaidh agus a’ cur a’ chagnaidh so, no pàirt dheth, ’na bhoite air an dubhan. ’Se gaorr a’ mhaoraich, no cac a’ mhaoraich, a theirte ri broinn bog na bàirnich. Gle bhlasda.</description>
+    </item>
+    <item>
+      <headword id="d0e61">breamag</headword>
+      <description>Common acorn barnacle. Cha bhi iad so a’ siubhal mar bàirnich nan sgeir idir. Gheibhear iad ann an lùin gle fhaisg air an tiùrr. ’S ann geall geal a tha am biadhadh aca, agus uaireanan buidhe. ’Se an éigin a bheireadh air iasgair an toirt chun a’ chreagaich, agus is ann glamhach a bhiodh an t-iasg a shluigeadh iad. Cha bhiodh sinn ’gan itheadh.</description>
+    </item>
+    <item>
+      <headword id="d0e70">sgreagag(an)</headword>
+      <description>Tiny acorn barnacles that grow side by side on all rocks. Tha miltean ann dhuibh [sic] ri taobh a cheile. Gort air do chasan luirmeachd.</description>
+    </item>
+    <item>
+      <headword id="d0e79">sgrum</headword>
+      <description>So an t-ainm a tha aig na Nisich air na feusgain bheaga a tha fàs ’na miltean ri taobh a cheile air na sgeirean. Cha chuala mi an t-ainm so ann an àite ach an Nis. Bidh na Nisich a’ buain nam peileachan dhuibh [sic] le bhith cur spaid fodhpa, agus pronnaidh iad iad ’na lite airson pronna-bhiadhadh gus na cudaigean a thàladh far an ruig an tigh-thàbhaidh orra.</description>
+    </item>
+    <item>
+      <headword id="d0e88">fiasgan</headword>
+      <description>Mussel. Tha pailteas de dh’fhiasgain gun taisealadh airson biadhaidh ann an Nis, air an Taobh Siar is anns an Rudha. ’S ann air na Lochan ’san Uig a tha fiasgain a ni biadhadh lin bheaga. Nuair a bhiodh moran eathraichean ag iasgach nan adag a mach a Port-nan-guran le lion bheaga bhiodh na h-iasgairean a’ dol le na h-eathraichean gu Tir Mór, chun na Lochan is do’n Eilean Sgitheanach air tòir luchd fhiasgan a chumadh a’ dol iad fad a’ gheamhraidh ’san Earraich. Bhiodh iad gan cumail ann an lùin anns an tràigh.</description>
+    </item>
+    <item>
+      <headword id="d0e97">fiasgan geal</headword>
+      <description>’Se slige bhòidheach ghorm shleamhuinn a tha air an fhiasgan gheal, ach is e biadh geal a th’annta. Tha am biadh so blasda agus is ann am miosan an t-samhraidh a bhitear ga ithe. Tha e pailt ann an Uig, air na h-eileanan beaga am beul Loch Roag.</description>
+    </item>
+    <item>
+      <headword id="d0e106">sgilidh fhiasgan</headword>
+      <description>Fosgladh an fhiasgain le sgian is a’ toirt a’ bhiadh as. Bha cutagan clannighean an sgadain gle fhreagarrach airson na h-oibreach so.</description>
+    </item>
+    <item>
+      <headword id="d0e115">fiasag an fhiasgain</headword>
+      <description>Tha an fhiasag so a’ ceangal an fhiasgain ri na sgeirean is tha e doirbh a bhuain.</description>
+    </item>
+    <item>
+      <headword id="d0e124">madadh</headword>
+      <description>Horse mussel. A large overgrown mussel, but they don’t grow in big clumps like the mussels. Tha iad math ri ’n itheadh. Bidh muinntir Uig a’ toirt dhachaidh nan cléibh dhuibh [sic], ga slaopadh, is an deidh sin ga ròsdadh an geir air a’ phana. Chan eil iad anns an Rudha no ’n Nis, is e cor fhear a gheibhear suas an Taobh Siar.</description>
+    </item>
+    <item>
+      <headword id="d0e133">crosgag</headword>
+      <description>Starfish. Chan eil fios agam an e iasg no maorach a tha so. Chunna mi iad air a’ chula cladach a thadhail mi riamh, bàn, is dearg is pinc, ach chan fhaca mi duine riamh gan cur gu feum. Cha mhotha a thainig mi tarsainn orra ann an goile éisg.</description>
+    </item>
+    <item>
+      <headword id="d0e142">faochag dhubh</headword>
+      <description>The black edible periwinkle. Gheibhear anns gach geòdha fasgach iad. <illustration src="LionelJuniorSecondarymaorachillust1.jpg" width="200"/></description>
+    </item>
+    <item>
+      <headword id="d0e152">faochag bhan no faochag gheal</headword>
+      <description>White inedible dog whelk.</description>
+    </item>
+    <item>
+      <headword id="d0e161">conocag</headword>
+      <description>Large whelks, generally white, or white and pink. Chan eil iad an Nis idir, ged a gheibhear corra shlige air a tilgeil aig a’ mhuir air an traigh. Tha iad a’ fàs gu pailt air na Lochan ’san Uig ’sam biadh anabarrach laidir. <illustration src="LionelJuniorSecondarymaorachillust2.jpg" width="200"/></description>
+    </item>
+    <item>
+      <headword id="d0e171">gnogan</headword>
+      <description>’Se gnogan an t-ainm a tha aca ann an Nis air conocag [q.v.], ach ’se conocag a chanas iad an ceann shios an Rudha is air na Lochan. Ciur [sic] ri do chluais te is cluinnidh tu fuaim na mara innte.</description>
+    </item>
+    <item>
+      <headword id="d0e180">maighdealag</headword>
+      <description>Chan eil moran an Nis. Corra the [sic] air an Taobh Siar ach tha iad na’s pailte air taobh a’ tuath a’ Bhràighe anns an Rudha, ach chan eil iad pailt an àite ’sam bith as aithne dhomsa. Leanaidh rath riut ma gheibh thu tri ri taobh a cheile. ’S e ‘boidealag’ no ‘boitealag’ a chanadh sinne riu an Ard an Rudha.</description>
+    </item>
+    <item>
+      <headword id="d0e189">partan</headword>
+      <description>Green shore crab. Pailt anns a’ chula h-àite.</description>
+    </item>
+    <item>
+      <headword id="d0e198">partan-céire</headword>
+      <description>Partan leis an uichair no spana (spawn) fo apran. Tha na h-uighean so gle mhath amh.</description>
+    </item>
+    <item>
+      <headword id="d0e207">partan tuathalan</headword>
+      <description>Tha iad so pailt far am bheil gainmheach bhàn no airgeadach (silvery). Brittle white crab. Tha gath ann a tha nimheil, is leanaidh an goirteas uine mhor. Tha mi a’ creidsinn gur e sin a dh’aobharaich an sean-fhacal – ’S fheàrr am partan tuathalan na bhith gun duine (Nicolson’s Proverbs). Tha na partain so pailt anns na geòdhaichean gainmhich deas air Ceann an Tiumpain.</description>
+    </item>
+    <item>
+      <headword id="d0e216">deisneag</headword>
+      <description>The swimming crab, or fiddler crab. Inedible. Gheibh thu deisneag, cha mhór, ann an sgor air gach cladach ach ’s ann an comhnuidh ’na h-aonar, mar gum biodh iad a’ dleasadh ‘territorial rights’.</description>
+    </item>
+    <item>
+      <headword id="d0e225">buigneag (partan no crùbag)</headword>
+      <description>Crùbag no partan a tha air tilgeil na slige. Gheibh thu iad so ann an sgoran cho fada stigh ’sa gheibh iad. Chan fhiach iad an itheadh.</description>
+    </item>
+    <item>
+      <headword id="d0e234">crùbag</headword>
+      <description>The edible crab. Tha iad so pailt an Nis. Tha iad ri’m faighinn anns na sgeirean mun Phort, agus b’àbhaist do dhaoine a bhith deanamh feum dhiubh, ach an diugh, bho chuir Comunn na Siorrachd pìoban salachair a’ bhaile chun na mara aig a’ Phort chan eil duine gan toirt dhachaidh. Thachair a leithid so an iomadh àite anns an eilean so. Bidh na h-iasgairean a’ faighean moran chrùbagan anns na lin-leóbag, rud nach toigh leo idir, agus tha iad ag innse dhomh gur e an aon dòigh air bàs obann a thoirt do chrùbaig, spìc iaruinn a chur troimh druim bho thaobh gu taobh. Aithnich tu air dath na crùbaig ma ’s fhiach i a toirt dhachaidh – bidh a slige dealrach ruadh.</description>
+    </item>
+    <item>
+      <headword id="d0e243">crùbag eathair</headword>
+      <description>’S e crùbag eathair a chanas muinntir ceann shios an Rudha ri crùbaig mhor ’sam bith, eadhon ged a gheibheadh iad ann an sgor creige i.</description>
+    </item>
+    <item>
+      <headword id="d0e252">crùbag sgor</headword>
+      <description>’Se crùbag sgor a chanas iad (Rudhaich) ri te mheadhonach no ri te bhig ged a gheibheadh iad air an eathar i.</description>
+    </item>
+    <item>
+      <headword id="d0e261">crùbag bhoireann</headword>
+      <description>Crùbag le apran leathainn is car cruinn. <illustration src="LionelJuniorSecondarymaorachillust3.jpg" width="200"/></description>
+    </item>
+    <item>
+      <headword id="d0e271">crùbag fhireann</headword>
+      <description>Crùbag le apran caol is na cliathaichean rudeigin dìreach. <illustration src="LionelJuniorSecondarymaorachillust4.jpg" width="200"/></description>
+    </item>
+    <item>
+      <headword id="d0e281">céir crùbaig</headword>
+      <description>The edible red or yellow wax inside the crab. ’S e ceir dhearg as fheàrr is nuair a bhios i lan dheth tha an t-slige aice dealrach ruadh. Bidh a’ chéir so ’na bhiadhadh aca air a’ chreagach le slait is le tigh-thabhaidh.</description>
+    </item>
+    <item>
+      <headword id="d0e290">ìonga mhór</headword>
+      <description>The big claw. Brod na pìob cheothaidh le còsach do bhalach.</description>
+    </item>
+    <item>
+      <headword id="d0e299">ìongnan beaga</headword>
+      <description>The small claws. Tha iad so blasda gan cagnadh ma tha d’ fhiaclan fhein agad.</description>
+    </item>
+    <item>
+      <headword id="d0e308">miolan crùbaig</headword>
+      <description>Gàilleach no sgamhan na crùbaig. Tha iad eadar a’ chéir is an t-slige gheal a tha stigh. So an aon phairt do’n chrùbaig ach an t-slige nach fhiach itheadh.</description>
+    </item>
+    <item>
+      <headword id="d0e317">ròsdadh crùbaig</headword>
+      <description>Cuir ris an teine i mar gun cuireadh tu fad air; tionndaidh i an dràsda ’sa ris gus am faic thu a’ chéir chruaidh dhonn a’ nochdadh. Thoir dhith an t-apran mus cuir thu ris an teine i.</description>
+    </item>
+    <item>
+      <headword id="d0e326">an duine deàrrsach</headword>
+      <description>An t-ainm a tha aca ann an Gabhsunn air crùbag mhor a tha am feabhas mhath.</description>
+    </item>
+    <item>
+      <headword id="d0e335">seidhig</headword>
+      <description>“’S ann agad-sa tha an t-seidhig.” Ainm a tha aca ann an Dail-o-Dheas air crubaig mhór mhath.</description>
+    </item>
+    <item>
+      <headword id="d0e344">cragan-tràghad</headword>
+      <description>Sea urchin. Chan eil iad an Nis idir is cha mhotha thachras slige dhuibh [sic] ri duine air an tràigh. Tha iad pailt ri cladaichean Rudha an Tiumpain. Is ann le tràigh reodhart a chithear iad an crochadh ri na sgeirean. Is ann ainneamh a chi thu fear beò os cionn uachdair na mara – bidh iad ris an sgeir mu oirleach no dha fo’n uachdair. Mus tàinig na h-‘ornaments’ gu bhith cho pailt bhiodh cuid a’ toirt dhachaidh feadhainn aca, gan glanadh a mach, a’ suathadh dhuibh [sic] nan gathan is gam peantadh. Rachadh lus a chur annta, gu h-àraidh lus mar seamrag a dh’fhàsadh sios ceithir thimchioll orra agus is minig a chunna mi tri dhuibh [sic] troimh uinneig crochaid mar tri ballaichean ‘pawn-shop’. Chleachd fear mór dhuibh [sic] air a ghlanadh a bhith aig Fuaran Cladach a’ Bhàta, far an togadh tu deoch leis nuair nach ruigeadh tu le do bhus air an uisge.</description>
+    </item>
+    <item>
+      <headword id="d0e353">creachan</headword>
+      <description>Clam. ’S e maorach muir domhain a tha so, agus gheibhear cor fhear dhuibh [sic] air an lion-bheag ceithir thimchioll an eilein, ach bidh muinntir Uig agus muinntir nan Loch gan togail le sgumairean ’nan dusain do na h-eathraichean aca aig top reodhart is gan còcaireachd an aon doigh ris a’ mhadadh. Bidh muinntir Uig ga fàgail ann an luin anns a’ chladach agus a’ dol air an tòir as a sin mar a bhios feum orra. As deidh a’ chogaidh mu dheireadh bha campa R.A.F. ann an Ard Uig is bhiodh balaich a’ champa so a’ togail nan creachan na’n ceudan comhdaichte ann an ‘aqua-lungs’ agus ga reic an Steòrnabhagh. Cha robh so a’ còrdadh ri muinntir Uig idir. Bha eagal orra gu gun glanadh iad an grunnd buileach glan, agus mar sin bha iad taingeil gun tug na balaich so an casan leotha nuair a chaidh an campa a dhùnadh bho chionn da bhliadhna. Anns an Rudha na’n togte creachan air lion beag bha an duine leis an robh an lion ga dhleasadh ga fhein. Co dhiù, anns an Rudha bha an creachan ga ithe amh cho luath ’sa thigeadh e air bòrd. Chan fhaca mise iad a’ bruiche chreachan a riamh gus an deacha mi chun na Lochan. Tha e fada na’s blasda amh. ’S e slige a’ chreachain an t-inneal as fheàrr a fhuaireadh fhathast gus an t-uachdair a thogail bho bhainne togalaich.</description>
+    </item>
+    <item>
+      <headword id="d0e362">flodag</headword>
+      <description>Fhuair mi an t-ainm so a Cros, Dail-o-Thuath is Eòropaidh, ach ’se daoine a Cros a phòs sios do Eòropaidh aig a bheil e sin. ’S e flodag an t-ainm a bhiodh aca air an t-slige chreachain leis am biodh iad a’ togail an uachdair bho’n bhainne.</description>
+    </item>
+    <item>
+      <headword id="d0e371">rùidean dubha (Eoropaidh)</headword>
+      <description>Faochagan mora dubha. Nuair a bhios clannighean Eòropaidh a deanamh bhothagan theid iad do’n tràigh a thogail ‘ruidean dubha’ a bhios aca annta.</description>
+    </item>
+    <item>
+      <headword id="d0e380">beul cam</headword>
+      <description>Cowrie shell. So an t-ainm a tha aca ann an Dail-o-Dheas agus ann am bailtean eile an Nis air ‘maighdealag’ [q.v.]. Cha chuala mi an àite eile a mach air Nis e. Gheibhear corra ‘bheul cam’ air Traigh Dhail.</description>
+    </item>
+    <item>
+      <headword id="d0e389">giùran</headword>
+      <description>Wood barnacle. Nuair a bhios pios fiodha fada a’ seoladh anns a’ chuan bidh giùrain a’ fàs air. Sin an t-ainm a th’aca orra an Nis. Bha daoine a’ smaoineachadh gum biodh iad a’ fàs na’n geòidh, a chionn gu bheil an t-slige aca air chumadh gob geòidh agus is e ‘na geòidh’ a bhiodh againn orra an ceann shios an Rudha. Chanadh fear shios an sin, “Cha tug mi dhachaidh am maide a thàinig air tir oir bha e air itheadh aig na geòidh.”</description>
+    </item>
+    <item>
+      <headword id="d0e398">na geòidh</headword>
+      <description>[See giùran.]</description>
+    </item>
+    <item>
+      <headword id="d0e407">faochag smeòraich</headword>
+      <description>Faochag iomadh dhathach mu mheud faochag dhubh mhor, ach nach eil i cho cruinn ri faochag dhubh – dealrach mar ‘mother of pearl’. Cha chuala mi an t-ainm air na Lochan no an Uig, ach chuala mi anns an Rudha e, agus thug na Nisich dhomh e. Tha iad fearasda am briseadh is bidh na smeòraich gan togail ’s gam briseadh le’n guib is gan itheadh. <illustration src="LionelJuniorSecondarymaorachillust5.jpg" width="150"/></description>
+    </item>
+	<item>
+	  <headword id="idola257">[note]</headword>
+	  <description>Sin na fhuair mi fhathast bho sgoileirean sgoil Lionail is bho bhodaich is boireannaich ann an Nis. ’So maorach gainmhich is laghaich air an robh mi eòlach nuair a bha mi an Uig is air na Lochan (Rainis) air mo thigheadas.</description>
+	</item>
+    <item>
+      <headword id="d0e426">breallach</headword>
+      <description>Spout fish. Tha e so furasda fhaighinn. Bidh e anns a’ ghainmhich agus cha teid e domhain.</description>
+    </item>
+    <item>
+      <headword id="d0e435">eachan</headword>
+      <description>Spout fish eile. Gheibhear e anns an làghaich is theid e cho domhain aig amannan ’s gun caill thu e.</description>
+    </item>
+    <item>
+      <headword id="d0e444">munan</headword>
+      <description>Spout fish eile coltach ri eachan [q.v.]. Steallaidh e do’n adhar ma shuathas tu ann.</description>
+    </item>
+    <item>
+      <headword id="d0e453">coilleag</headword>
+      <description>Cockle.</description>
+    </item>
+    <item>
+      <headword id="d0e462">dearbhallach</headword>
+      <description>Cha chuir mise Beurla air an te so. Tha i na’s motha na coilleag [q.v.] ach chan e an aon cumadh a tha oirre. ’S ann aig Ràinis a bhithinn ga faighinn, is bha muinntir Ràinis uamhasach déidheil orra. ’S e bodach as Ràinis a thug dhomh, ‘Dearbhallach amh le aran corc, Cumaidh giulan latha dol’. <illustration src="LionelJuniorSecondarymaorachillust6.jpg" width="200"/></description>
+    </item>
+    <item>
+      <headword id="d0e472">geallaraich</headword>
+      <description>(Name from the Kershader, Lochs area.) Pullet shells. Tha iad so faisg air cumadh na coilleige [q.v.], ach fada na’s motha agus tha an da t-slige aca sleamhuinn.</description>
+    </item>
+    <item>
+      <headword id="d0e481">cluasag no donnach</headword>
+      <description>Tha iad so na’s motha na na geallaraich [q.v.] le da shlige shleamhuinn ghlas ghorm. ’S ann an Uig a chunnaic mi iad so, is tha na sligean aca pailt air cladaichean Ghesiadar is Charaisiadar. Mar maoraich eile na slige shleamhuinn ’s ann air an uachdair ri na sgeirean is air a’ ghainmhich a gheibhear iad.</description>
+    </item>
+    <item>
+      <headword id="d0e490">eisir</headword>
+      <description>Oyster. Chan fhaca mi iad so air na Lochan ach bha iad ri’m faighinn aig bun amhainn Ghiosla an Uig nuair a bha mise ann.</description>
+    </item>
+    <item>
+      <headword id="d0e499">eisir oir</headword>
+      <description>Inedible oyster. Tha pailteas dhuibh-san [sic] air cladaichean Uig. Tha iad na’n doigh gle choltach ri na breamagan [q.v.], cha ghluais iad.</description>
+    </item>
+    <item>
+      <headword id="d0e508">muirsgean</headword>
+      <description>(Muirsig – muirsigean anns an Rudha, muisgean ann an Nis.) Razor fish. Chan eil iad an Nis ach gheibhear moran dhuibh [sic]  air na Lochan, ann an Uig, is tha iad pailt pailt [sic] an gainmheach an Loch a Tuath mu Mhealbost is Stéinis is air an taobh a deas aig Tolm. Chi thu an t-srùp aca aig amannan os cionn na gainmhich agus ma bheireas tu air gun greimeachadh air an t-slige fàgaidh e an t-srup ’na do laimh is ni e fhein gu doimhne. Aig amannan bidh tràigh an Loch a Tuath a’ bristeadh is theid mìltean dhuibh [sic] a thilgeil gu tir. Tha iad ag radh gum brist i a chula seachd bliadhna, ach cha do bhrist i mór bho 1953 – tha e nis 1967. Chaidh innse dhomh – ge bi air bith a bheil e ceart -  gur e gaoth làidir is tide mhara lionaidh làidir an aghaidh a’ cheile a tha sluaisreadh na gainmhich ’sa toirt na muirsgean chun an uachdair is tha na suailichean gan tilgeil gu tìr.</description>
+    </item>
+    <item><headword id="d0e516" type="heading" level="h1">2. A’ tional maorach</headword></item>
+    <item>
+      <headword id="d0e521">buain bhàirneach</headword>
+      <description>Le òrd maoraich. A chipping knife for knocking limpets off the rocks. Sgian bhùird làidir, le pios air a’ ghearradh bhon ghob, is luideag air a suaineadh mun laimh aice, is air a réileadh le pios sreang lin bhig gus nach sleamhnuich e ’na laimh nuair a bhios e fliuch. <illustration src="LionelJuniorSecondarymaorachillust7.jpg" width="200"/></description>
+    </item>
+    <item>
+      <headword id="d0e531">togail chreachan</headword>
+      <description>Le sgumair. Small spoon net. Slat no maide fada, is cearcall iaruinn le lion ’na phoca ceangailte ri bàrr na slaite. <illustration src="LionelJuniorSecondarymaorachillust8.jpg" width="400"/></description>
+    </item>
+    <item>
+      <headword id="d0e541">anns an tràigh shiol</headword>
+      <description>Gràpa is corran. Bidh na siolan fodha anns a’ ghainmhich, agus gu faighinn biadhadh lion beag theid a’ ghainmheach a tionndadh le gràpa. Ruithidh a’ ghainmheach troimh spàgan a’ ghràpa a’ fàgail na siolan a’ placail air an uachdair. Nuair a bhios a ghainmheach cho fliuch, no nuair a bhios muir tana a’ ruith oirre, le bhith ruith troimh ’n ghainmhich le corran, fairichidh tu an t-siol ris a’ chorran is cladhaichidh tu an àirde le do laimh i. Gheibheadh tu air an dòigh so na dh’fhóghnadh airson a’ chreagaich.</description>
+    </item>
+    <item>
+      <headword id="d0e550">anns an tràigh luga</headword>
+      <description>Gan tionndadh gu uachdair na gainmhich le spaid.</description>
+    </item>
+    <item>
+      <headword id="d0e559">anns an tràigh mhaoraich an gainmhich ’sa’ làghach</headword>
+      <description>Croman is spaid. Tha breallaich, coilleagan, dearbhallaich, agus am maorach nach bi dol ro dhomhain air an cladhach le croman. Nuair a bhios a’ ghrian a’ deàrrsadh air a’ ghainmhich no air an làghaich chi thu srùpan a’ mhaoraich mar gum biodh iad ag gabhail na gréine. Mar a faic thu so cuir do chorraig do’n toll shéididh aca agus ma dh’fhairicheas tu i ga sùghadh sios bidh maorach anns an toll sin. Theid an t-eachan is gu h-àraidh am muirsgean anabarrach domhain nuair a theid dragh a chur orra. Ma shaoileas tu gum bi maorach anns an toll sàth an spaid sios air siobhadh gus am brùth thu am maorach ri cliathaich a thuill fhein is chan fhaigh e air ruith. Cladhaich le do laimh no le croman e.</description>
+    </item>
+    <item>
+      <headword id="d0e568">anns an tràigh chrùbaig is ghiomach</headword>
+      <description>Sgrìoban. Gu crùbag no giomach a thoirt as sgor ’se sgrioban t-inneal. Bata, no maide caol le dubhan lin mhóir, no spàg sean ghràpa air a bhiorachadh agus an cumadh dubhain, air a réileadh r’a cheann. <illustration src="LionelJuniorSecondarymaorachillust9.jpg" width="150"/></description>
+    </item>
+    <item>
+      <headword id="d0e578">togail sgrum</headword>
+      <description>Croman air a gheurachadh gus na feusgain bheaga sgrìobadh bhon sgeir. Ni an ceann iaruinn òrd gu pronnadh an sgruim gu pronna-bhiadhadh a dheanamh dheth.</description>
+    </item>
+    <item>
+      <headword id="d0e587">anns an tràigh fhaochag</headword>
+      <description>Peile no poca is caol druim supail.</description>
+    </item>
+    <item><headword id="d0e595" type="heading" level="h1">3. Beathaichean eile a gheibhear ’sa’ chladach</headword></item>
+    <item>
+      <headword id="d0e600">daolag tràghad</headword>
+      <description>Common sandhopper. Cha thuig mi carson is e ‘sandhopper’ a’ Bheurla a tha air an daolag tràghad, oir cha leum iad is chan ann tric a gheibhear an gainmhich iad. Tog clach, is chi thu iad a’ ruith na’n dusain, mu chairteal an oirlich a dh’fhad is coltach ri ‘shrimps’.</description>
+    </item>
+    <item>
+      <headword id="d0e609">leumachan</headword>
+      <description>So cuileag dhubh agus is e fior ‘hopper’ a th’innte. Bidh iad na’n ceudan anns an tiùrr a’ leum am measg gach dreamlach a bhios an sin. Tha iad gràineil nuair a bhios tu airson thu fhein a bhlianadh anns a’ ghréin.</description>
+    </item>
+    <item>
+      <headword id="d0e618">eisg lòintean</headword>
+      <description>Butterfish – inedible.</description>
+    </item>
+    <item>
+      <headword id="d0e627">cloimheag</headword>
+      <description>[See eisg lòintean.]</description>
+    </item>
+    <item>
+      <headword id="d0e636">cat dubh</headword>
+      <description>Blenny – inedible.</description>
+    </item>
+    <item>
+      <headword id="d0e645">carran creige</headword>
+      <description>Lump fish or sea porcupine. Thig e so gu biadhadh ’sam bith ged nach fhiach e fhein itheadh. Gheibh thu cloimheag [q.v.], cat dubh [q.v.], is carran creige ann an luin gle fhaisg air tir.</description>
+    </item>
+    <item>
+      <headword id="d0e654">donnag</headword>
+      <description>Young ling. ’S ann le traigh mhor a gheibh thu donnagan as fhiach an toirt dhachaidh, ged a chi thu feadhainn bheaga dhuibh [sic] ann an lointean a’ chontraigh. Bidh feadhainn aca anns am bi suas ri da throigh fo chlachan agus ann an sgoran anns am bi sàl. Tha an fheadhainn mhóra so pailt fada muigh air cladaichean Dhail.</description>
+    </item>
+    <item>
+      <headword id="d0e663">geàrr sgadan</headword>
+      <description>Sprat. Gheibhear beagan dhuibh-san [sic] anns gach lon mara.</description>
+    </item>
+    <item>
+      <headword id="d0e672">garbhag(an)</headword>
+      <description>Sprats about the size of medium cuddies. Aig amannan chleachd sgaothan dhuibh [sic] a bhith tighinn as t-fhoghar gu cladaichean Uig is gan tilgeil fhein air tir anns an fheamuinn. Chleachd na h-Uigich a bhith toirt dhachaidh nam pocannan dhuibh [sic]; gan ithe ùr, is ga sailleadh.</description>
+    </item>
+    <item>
+      <headword id="d0e681">siol</headword>
+      <description>Bidh iad so gan tiodhlaiceadh fhein anns a’ ghainmhich nuair a theid am muir a mach. Togar iad le gràpa no le corran airson biadhadh lion beag no creagach. Bidh na Nisich gan itheadh.</description>
+    </item>
+    <item>
+      <headword id="d0e690">luga</headword>
+      <description>Lug worm. Bidh iad so fodha anns a’ ghainmhich nuair a tha am muir a muigh. Bidh tuill shéididh aca, agus chi thu a’ ghainmheach no an làghach a chladhaich iad a mach as na tuill, nam buaileagan cruinn timchioll nan toll. ’Se biadhadh math lin bheaga a tha annta.</description>
+    </item>
+    <item>
+      <headword id="d0e699">bó-tiachd</headword>
+      <description>Small jellyfish. Bidh iad so aig amannan ’nam mìltean anns a’ mhuir is air a’ chladach. Loisgidh iad thu, agus is iomadh la a chum iad sinne bho shnàmh.</description>
+    </item>
+    <item>
+      <headword id="d0e708">sgiolltaire</headword>
+      <description>Large jellyfish. Bidh cuid dhuibh-san [sic] bho dha gu tri troighean a leud (diameter) agus cuid na’s motha ’na sin, le stiallan fada sia gu deich troighean, no corr a dh’fhad slaoidhte riu. Tha iad so nimheil.</description>
+    </item>
+    <item>
+      <headword id="d0e717">gibneach</headword>
+      <description>Common octopus. Chan eil iad so pailt ann an lòintean a’ chladaich, ach thig thu tarsainn air feadhainn aca le tràigh mhor. Tha ochd spàgan fada orra agus na spàgan sin lan dheocadairean, agus ma ghreimicheas iad air do bhriogais bidh e na’s fhasa na spagan a ghearradh dhuibh [sic] na slaodadh dhiot. Bidh iad gan itheadh air na Lochan.</description>
+    </item>
+    <item>
+      <headword id="d0e726">faobhag</headword>
+      <description>Common squid. Tha deich spàgan orra-san no dha a muigh na’s motha na càch is an gob aig na dha sin na’s leotha. Nuair a bhios sgaoth dhuibh-san [sic] timchioll nan creag chan fhaigh an t-iasgair moran éisg.</description>
+    </item>
+    <item>
+      <headword id="d0e735">cioch na mna sidhe</headword>
+      <description>Beadlet anemone. Sin an t-ainm a tha aca orra anns an Rudha. ’S e ‘cioch nam ban shìdh’ a chanas iad ann an Nis, agus is e sin a chanas iad ris a chula seorsa, beag is mór.</description>
+    </item>
+    <item>
+      <headword id="d0e744">cioch na maighdinn mhara</headword>
+      <description>(Rudha.) Large anemone with varied coloured fronds. (Dahlia Anemone?)</description>
+    </item>
+    <item>
+      <headword id="d0e753">cioch na muice mara</headword>
+      <description>(Rudha.) Anemone which is larger still. (Plumose?) Ach tha ainm na’s cumanta aig na fir orra ’na measg fhein – am freagairt a thug fear seachad nuair a chaidh foighneachd dha gu de thug air tuiteam anns a’ chladach: “Shleamhnuich mi air pit fhliuch.”</description>
+    </item>
+  </items>
+</fieldworkDocument>

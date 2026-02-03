@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 5/8/15 -->
+<!-- illustrations -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_BenMeadhonachAKennedyslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>10/1970</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <informant>
+    <nameEnglish>Angus Kennedy</nameEnglish>
+  </informant>
+  <location>Coll, Ben Meadhonach</location>
+  <items>
+    <item>
+      <headword id="idp162135848">ladair</headword>
+      <description>[ɫɑd̪əɾ] Notes: ladle.</description>
+    </item>
+    <item>
+      <headword id="idp162137576">leac</headword>
+      <description>Quotation: leac-an-teinnich.</description>
+    </item>
+    <item>
+      <headword id="idp162139088">lunnachan (pl)</headword>
+      <description>Notes: for carrying the coffin – three sticks cross-wise under it.</description>
+    </item>
+    <item>
+      <headword id="idp162140600">mathair-shiomain</headword>
+      <description>Notes: <illustration src="BenMeadhonachAKennedyslipsillust1.jpg" width="300"/></description>
+    </item>
+    <item>
+      <headword id="idp162142112">mulan</headword>
+      <description>[mũ̜ɫɑṉ] Notes: a round stack.</description>
+    </item>
+    <item>
+      <headword id="idp162143840">iomaire-cinn</headword>
+      <description>Notes: end-rig.</description>
+    </item>
+    <item>
+      <headword id="idp162145352">pàirc</headword>
+      <description>[pɑ:ɾiçc] [sic] Notes: a field; can be used of an open field.</description>
+    </item>
+    <item>
+      <headword id="idp162147152">pollag</headword>
+      <description>Quotation: pollag buntàta. Notes: potato pit.</description>
+    </item>
+    <item>
+      <headword id="idp162148808">sgealbadh</headword>
+      <description>Quotation: a’ sgealbadh a’ bhuntàta.</description>
+    </item>
+    <item>
+      <headword id="idp162150320">sleadhan</headword>
+      <description>[slɛɑṉ] Notes: spurtle.</description>
+    </item>
+    <item>
+      <headword id="idp162152048">smuiseal</headword>
+      <description>Notes: muzzle of the plough.</description>
+    </item>
+    <item>
+      <headword id="idp162153560">spreigean</headword>
+      <description>[spɾeɡʹɑṉ] Notes: a match.</description>
+    </item>
+    <item>
+      <headword id="idp162155288">talamh</headword>
+      <description>Quotation: talamh connlaich. Notes: stubble land.</description>
+    </item>
+    <item>
+      <headword id="idp162156944">taobh-shlat</headword>
+      <description>[t̪w:ɫɑd̪] Notes: strap on which boat seats rest.</description>
+    </item>
+    <item>
+      <headword id="idp162158672">teine</headword>
+      <description>Quotation: leac-an-teinnich [tʹɛ̃nʹıç].</description>
+    </item>
+    <item>
+      <headword id="idp162160400">ùireachair</headword>
+      <description>[u̜:ɾɑxəɾ] Notes: mould-board.</description>
+    </item>
+    <item>
+      <headword id="idp162162128">urrachdag</headword>
+      <description>Notes: thole-pin.</description>
+    </item>
+    <item>
+      <headword id="idp162163640">bàrr</headword>
+      <description>Quotation: bàrr fuadain. Notes: the shoots of potatoes left in the ground and growing the following year.</description>
+    </item>
+    <item>
+      <headword id="idp162165296">beinge</headword>
+      <description>Quotation: beinge na leapa. Notes: the edge of the bed.</description>
+    </item>
+    <item>
+      <headword id="idp162166952">brochan</headword>
+      <description>Quotation: brochan feanntaig. Notes: nettle soup.</description>
+    </item>
+    <item>
+      <headword id="idp162168608">buntàta</headword>
+      <description>Quotation: buntàta fuadain. Notes: potatoes left in the ground and growing the following year.</description>
+    </item>
+    <item>
+      <headword id="idp162170264">buthal</headword>
+      <description>[ˈbu̜əɫ] Quotation: buthal na poite. Notes: pot handle.</description>
+    </item>
+    <item>
+      <headword id="idp162172136">càth</headword>
+      <description>Notes: winnow.</description>
+    </item>
+    <item>
+      <headword id="idp162173648">ceannag</headword>
+      <description>Notes: a bundle of threshed corn.</description>
+    </item>
+    <item>
+      <headword id="idp162175160">connlach</headword>
+      <description>Quotation: talamh connlaich.</description>
+    </item>
+    <item>
+      <headword id="idp162176672">cosgais</headword>
+      <description>Notes: whisky, biscuits and cheese at a funeral.</description>
+    </item>
+    <item>
+      <headword id="idp162178184">crot</headword>
+      <description>Notes: short pieces of wood nailed to the oar where it rests between the tholepins. Prevents chafing.</description>
+    </item>
+    <item>
+      <headword id="idp162179696">cruach</headword>
+      <description>Notes: loaf-shaped stack.</description>
+    </item>
+    <item>
+      <headword id="idp162181208">difir</headword>
+      <description>Quotation: Chuireadh iad difir air a bhith a treothadh le crann is paidhir làmh ris na cruinn ’s na tractors a th’ac an diugh.</description>
+    </item>
+    <item>
+      <headword id="idp162182720">feanntag</headword>
+      <description>Quotation: brochan feanntaig. Notes: nettle soup.</description>
+    </item>
+    <item>
+      <headword id="idp162184376">fuadan</headword>
+      <description>Quotation: buntàta fuadain.</description>
+    </item>
+    <item>
+      <headword id="idp162185888">glutadh</headword>
+      <description>Notes: packing between double walls.</description>
+    </item>
+    <item>
+      <headword id="idp162187400">goillean</headword>
+      <description>[ɡɤlʹɑṉ] Notes: a taper.</description>
+    </item>
+    <item>
+      <headword id="idp162189128">gualachan</headword>
+      <description>Notes: cart drag-chain.</description>
+    </item>
+  </items>
+</fieldworkDocument>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 24 7 14 -->
+<fieldworkDocument docId="AOHenley_SollasCMacLeanmisc" docType="wordlist" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>[1987-88]</date>
+  <fieldworker personId="ohenleya">A. O’Henley</fieldworker>
+  <note>[NOTES: some notes in pencil most probably added by K. D. MacDonald. See below for details.]</note>
+  <informant>
+    <nameEnglish>Mrs Chrissie MacLean</nameEnglish>
+  </informant>
+  <location>North Uist, Sollas</location>
+  <items>
+    <item>
+      <headword id="idp112468288">giadach</headword>
+      <description>a wife or female partner suspecting her partner of seeing another woman behind her back. [NOTES: note added in pencil: ’g eudach.]</description>
+    </item>
+    <item>
+      <headword id="idp112543456">sogan</headword>
+      <description>used when someone is in good fettle. “Bha sogan math air an diugh.”</description>
+    </item>
+    <item>
+      <headword id="idp112543024">ruagadh</headword>
+      <description>to gather, e.g. a dog gathering sheep or hens.</description>
+    </item>
+    <item>
+      <headword id="idp112546552">sìnteag</headword>
+      <description>a wick in a lamp. Also heard as ‘sinneag’.</description>
+    </item>
+    <item>
+      <headword id="idp112463392">miothlaint</headword>
+      <description>a nuisance or pest. “Tha miothlaint a’ tighinn thugainn an diugh.”</description>
+    </item>
+    <item>
+      <headword id="idp112493344">dosan</headword>
+      <description>Do dhosan – your fringe or forelock. Think this is a Lewis word in origin for most people in Southern Isles use ‘logaidh’ for fringe or forelock.</description>
+    </item>
+    <item>
+      <headword id="idp112451296">uireasach</headword>
+      <description>being restricted or limited to do anything due to an irritating pain for example. “Chan urrainn dhomh sin a dheanamh an diugh oir tha mi uireasach le’m chois.”</description>
+    </item>
+    <item>
+      <headword id="idp112470448">bun na h-asaid</headword>
+      <description>a term used in childbirth to mean that the woman is near delivery.</description>
+    </item>
+    <item>
+      <headword id="idp112461304">saothair</headword>
+      <description>used to mean labour pains. “Bha i pulla mór ann an saothair.”</description>
+    </item>
+    <item>
+      <headword id="idp112458640">plamaranda</headword>
+      <description>a haymaking term meaning that the hay is in between being wet and dry, but not dry enough to be made into ricks. “O chan eil e ach plamaranda gu leòr an diugh fhathast.”</description>
+    </item>
+    <item>
+      <headword id="idp112482544">ag abhsadh</headword>
+      <description>not caring, not bothered. “O chan eil iad sin ag abhsadh dè a thachras co-dhiu.”</description>
+    </item>
+    <item>
+      <headword id="idp112475560">rapall</headword>
+      <description>a rough craftsman.</description>
+    </item>
+    <item>
+      <headword id="idp112452016">rinneachadh</headword>
+      <description>means a long drawn out walk. As in the saying: “Rinneachadh bò chaol a’ tighinn gu baile feasgar fann foghair, rinneachadh bò chaol a’ tighinn gu baile.” Implies casualness, paying no attention to time, etc. [NOTES: note added in pencil: ?righinneachadh.]</description>
+    </item>
+    <item>
+      <headword id="idp112506376">bàirligeadh</headword>
+      <description>to force out, evict.</description>
+    </item>
+    <item>
+      <headword id="idp112446040">sgàth fhras</headword>
+      <description>a brief shower of rain lasting for a few minutes only.</description>
+    </item>
+    <item>
+      <headword id="idp112474480">muabradh</headword>
+      <description>mumbling kind of conversation which is difficult to understand.</description>
+    </item>
+    <item>
+      <headword id="idp112441144">air an òirlich</headword>
+      <description>an expression which would be used of a regular visitor. “Bhiodh e an taigh Sheonaidh air an oirlich [sic].”</description>
+    </item>
+  </items>
+</fieldworkDocument>
+

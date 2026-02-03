@@ -1,0 +1,691 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 5 2 15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="DRMorrisonetal_ScalpayDRMorrisonmisc23" docType="wordlist" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>1975</date>
+  <fieldworker>[self]</fieldworker>
+  <note>[NOTES: six word-lists paper-clipped together. See below for details.]</note>
+  <note>[NOTES: the words have been slipped and therefore, apart from the definitions provided by Mr Morrison, the definitions as they appear on the slips have also been included (unless the two were the same).]</note>
+  <informant>
+    <nameEnglish>Donald R. Morrison</nameEnglish>
+    <age>[55]</age>
+  </informant>
+  <location>Na Hearadh, Scalpaigh [Harris, Scalpay]</location>
+  <items>
+    <item>
+      <headword id="idola394" type="heading" level="h1">1. Word-list (‘Cruinneachadh de dh’fhaclan’)</headword>
+    </item>
+    <item>
+      <headword id="idp116766608">riasglaich</headword>
+      <description>barren land.</description>
+    </item>
+    <item>
+      <headword id="idp116763296">easgaich</headword>
+      <description>danger spot in the ground not showing, boglach. [SLIP: Danger spot in a bog which is not at first apparent.]</description>
+    </item>
+    <item>
+      <headword id="idp116786912">cura</headword>
+      <description>support. Deag [sic] charaid agus deagh chura. (Scalpay)</description>
+    </item>
+    <item>
+      <headword id="idp116788784">fuadh</headword>
+      <description>something to frighten, in other words bòcan. [SLIP: Something to frighten a person. – similar to ‘bòcan’.]</description>
+    </item>
+    <item>
+      <headword id="idp116790512">fàisniche</headword>
+      <description>an object that makes you shirk, move with fright. [SLIP: Something which sends shivers down a person’s spine.]</description>
+    </item>
+    <item>
+      <headword id="idp116792312">aislinn</headword>
+      <description>shadow. Vanity of life sometimes or always referred to as aislinn, perhaps another form of aisling (aislinn, Scalpay).</description>
+    </item>
+    <item>
+      <headword id="idp116794040">aisneis</headword>
+      <description>report. Cha chuala mi aisneis. (Scalpay, old phrase)</description>
+    </item>
+    <item>
+      <headword id="idp116795912">bàrdainn</headword>
+      <description>advice. Fo bhàrdainn – under an advice given to leave a house, as say eviction. [SLIP: Advice; (example) – having been ‘advised’ to vacate a house – equivalent of an eviction order.]</description>
+    </item>
+    <item>
+      <headword id="idp116797784">geadhail</headword>
+      <description>field.</description>
+    </item>
+    <item>
+      <headword id="idp116799512">iomchoir</headword>
+      <description>malice, droch rùn. (Scalpay) (I think it’s a dying word.)</description>
+    </item>
+    <item>
+      <headword id="idp116801312">giulan</headword>
+      <description>coffin and bearers. (Scalpay)</description>
+    </item>
+    <item>
+      <headword id="idp116802824">stocan</headword>
+      <description>cabbage. Stocan càil. (Scalpay)</description>
+    </item>
+    <item>
+      <headword id="idp116804552">taosgach</headword>
+      <description>half measure.</description>
+    </item>
+    <item>
+      <headword id="idp116806064">piosdal</headword>
+      <description>disrespected person. [SLIP: A person who does not command respect.]</description>
+    </item>
+    <item>
+      <headword id="idp116807792">coinnean</headword>
+      <description>wee ember, éibhleag bheag theine.</description>
+    </item>
+    <item>
+      <headword id="idp116809520">ràmhaichean</headword>
+      <description>oarsmen. [NOTES: slipped under ‘ràmhaiche’ with plural: ràmhaichean. Definition: Oarsman.]</description>
+    </item>
+    <item>
+      <headword id="idp116811248">talc ùr</headword>
+      <description>brand new, or newly done thing. [NOTES: slipped under ‘talc-ùr’. Definition: Brand-new, or something newly done.]</description>
+    </item>
+    <item>
+      <headword id="idp116813264">gràin an aman</headword>
+      <description>[sic] extreme hate (in connection with the soul). [NOTES: slipped under ‘gràin’ with a note ‘in phrase:–’ gràin an aman (sic – ‘anam’ meant?)’. Definition: Extreme hate.]</description>
+    </item>
+    <item>
+      <headword id="idp116814992">grain-cuirp</headword>
+      <description>[sic] [hatred] of a milder form [than gràin an aman [sic] q.v.]. [NOTES: slipped under ‘gràin-cuirp’. Definition: Extreme hate – but milder than ‘gràin an anma [sic]’ qv.]</description>
+    </item>
+    <item>
+      <headword id="idola395" type="heading" level="h1">2. Word-list (‘Cruinneachadh de dh’fhaclan’) dated 1975</headword>
+    </item>
+    <item>
+      <headword id="idp116818016">mailleadh</headword>
+      <description>early morning. Obair mhailleadh. (Ann am facail eile neo ann am facal eile – moch-thràth.)</description>
+    </item>
+    <item>
+      <headword id="idp116820320">conghair</headword>
+      <description>heavy seas breaking against a rocky shore, roaring billows. (Scalpay, old)</description>
+    </item>
+    <item>
+      <headword id="idp116822048">gruimean</headword>
+      <description>‘prick’. Gruimean grànnda. (Scalpay)</description>
+    </item>
+    <item>
+      <headword id="idp116823920">earnach</headword>
+      <description>galair cruith (black disease?). (old)</description>
+    </item>
+    <item>
+      <headword id="idp116825648">tairig</headword>
+      <description>nail. (Scalpay) [NOTES: slipped under ‘tarag’.]</description>
+    </item>
+    <item>
+      <headword id="idp116827376">creachadh</headword>
+      <description>robbing. A’ creachadh nan nead.</description>
+    </item>
+    <item>
+      <headword id="idp116829104">créicheadh</headword>
+      <description>Galair mo chréicheadh! – leaving me completely void. (Not a too heavy a stress on the accent.) [NOTES: the accent on ‘e’ is in brackets.]</description>
+    </item>
+    <item>
+      <headword id="idp116831120">robhas</headword>
+      <description>sign. Cha robh robhas air – not a sign of him (he is lost). (Scalpay)</description>
+    </item>
+    <item>
+      <headword id="idp116832992">caoirnean</headword>
+      <description>a flash of sparks, or sparks in the dark. Na chaoirneanan dearga.</description>
+    </item>
+    <item>
+      <headword id="idp116834864">rotadh</headword>
+      <description>forced. Cha [sic] a rotadh a mach ás an tigh. [NOTES: the quotation on the slip has ‘Chaidh…’.]</description>
+    </item>
+    <item>
+      <headword id="idp116836808">eitig</headword>
+      <description>skeleton form, a disease effect, disease (Scalpay). Derived or another form of eitigh. [SLIP: Like a skeleton, caused by disease. (uncertain as to whether this is an adjectival or nominal form or both)]</description>
+    </item>
+    <item>
+      <headword id="idp116838536">coinnleag</headword>
+      <description>scum of thick fat on broth. Nach ann air a tha choinnleag. (Scalpay) [NOTES: the quotation on the slip has ‘…a tha a’ choinnleag.’]</description>
+    </item>
+    <item>
+      <headword id="idp116840408">làr-an-latha</headword>
+      <description>daybreak, (or at) sunrise.</description>
+    </item>
+    <item>
+      <headword id="idp116842136">gàin’-an-latha</headword>
+      <description>daybreak, (or at) sunrise. [See làr-an-latha.] Perhaps the two terms originated from one another. (Unheard now in Scalpay, old terms.) [SLIP: Prob. &lt; gainnead an latha – ‘scarcity of day’. &gt; daybreak, sunrise.]</description>
+    </item>
+    <item>
+      <headword id="idola396" type="heading" level="h1">3. Word-list (‘Cruinneachadh de dh’fhaclan’) dated 25/06/1975</headword>
+    </item>
+    <item>
+      <headword id="idp116844944">siathaire</headword>
+      <description>a person of ill repute.</description>
+    </item>
+    <item>
+      <headword id="idp116846456">siachaire</headword>
+      <description>a person of ill repute. [See siathaire.]</description>
+    </item>
+    <item>
+      <headword id="idp116847968">molltair</headword>
+      <description>mould. Cumaidh sin ’na mholltair e. – That will keep him in his frame of mind. (Scalpay) [SLIP: Mould. Ex: That will keep him in his “frame of mind” (calm?).]</description>
+    </item>
+    <item>
+      <headword id="idp116850704">gàin’-an-latha</headword>
+      <description>already noted but to define it was pronounced accented. But the definition point is: gainne-an-latha, gainnead-an-latha – scarcity of day is my definition of it. Lànachd an latha – làn-neairt – deireadh an latha.</description>
+    </item>
+    <item>
+      <headword id="idp116852648">aithneachadh-an-latha</headword>
+      <description>literally knowing the day. [NOTES: slipped under ‘aithneachadh’. Quotation: aithneachadh an latha.]</description>
+    </item>
+    <item>
+      <headword id="idp116854376">bradag</headword>
+      <description>(also) hazy sun.</description>
+    </item>
+    <item>
+      <headword id="idp116855888">diocla</headword>
+      <description>an exceptional [sic] heavy downfall of rain.</description>
+    </item>
+    <item>
+      <headword id="idp116857616">liathas</headword>
+      <description>an item received free like wood on the shore (say) and set aside for to be taken some other time: thence someone else coming and taking it. [SLIP: When an item has been in a place freely for the taking (eg. wood on the shore) and set aside to be picked up at a later date – and then someone else comes along and takes it!]</description>
+    </item>
+    <item>
+      <headword id="idp116859344">cur-thairis</headword>
+      <description>overflow.</description>
+    </item>
+    <item>
+      <headword id="idp116860856">slabhraidh-ceannsaich</headword>
+      <description>control chain as a chain running from the wheel house of a vessel to control the rudder. [NOTES: slipped under ‘slabhraidh’ with ‘slabhraidh-ceannsaich’ as the quotation. Definition: Control chain – eg. which runs from a boat’s wheel-house to control the rudder.]</description>
+    </item>
+    <item>
+      <headword id="idola397" type="heading" level="h1">4. Word-list (‘Cruinneachadh de dh’fhaclan’) dated 27/06/1975</headword>
+    </item>
+    <item>
+      <headword id="idp116863448">iarball-stùach</headword>
+      <description>a dragging annoyance. [SLIP: A “dragging annoyance” (a worrying annoyance?).]</description>
+    </item>
+    <item>
+      <headword id="idp116865248">earachaol</headword>
+      <description>I am not definitely sure of this word. I haven’t heard the word now since years. I take it to mean leanness of spring. I remember hearing it something thus: anns an earachaol – in the leanness of spring, referring to cattle or cow or sheep, beasts in particular.</description>
+    </item>
+    <item>
+      <headword id="idp116866976">earrachaol</headword>
+      <description>[See earachaol] leanness. Taking into account the bare tail [?] etc. showing signs of the leanness. Check from other sources. I can remember hearing the word used once on Scalpay, but since: no.</description>
+    </item>
+    <item>
+      <headword id="idp116868704">àmhuilt</headword>
+      <description>temperature. Another word I remember hearing but as to its true definition, I am afraid I cannot tell but with one definition as noted above, I think you may insert likewise unless you will find a contrary version, or you may have the meaning already. Doesn’t it show or sound to the effect of words or the word or one of the word groups of the ember family – but in this case Tha e fo àmhuilt, when referring to the sick person or patient.</description>
+    </item>
+    <item>
+      <headword id="idp116870576">tuamtaisean</headword>
+      <description>coma. Again I am not really sure of this one, but its own context perhaps explains: tuam – tomb, taisean – bones. Cha’n ’eil ann ach na taisean.</description>
+    </item>
+    <item>
+      <headword id="idola398" type="heading" level="h1">5. Word-list (‘Cruinneachadh de dh’fhaclan’) dated 27/06/1975</headword>
+    </item>
+    <item>
+      <headword id="idp118805184">taisean</headword>
+      <description>coma. I think this word also denoted ‘coma’, perhaps tuam-taisean – a heavy coma if it’s quite in order to express it likewise?</description>
+    </item>
+    <item>
+      <headword id="idp118805904">conachair</headword>
+      <description>long lingering illness, or patient under such condition. [SLIP: Long, lingering illness or a patient suffering from one.]</description>
+    </item>
+    <item>
+      <headword id="idp118836720">dìle-bhàite</headword>
+      <description>unusual heavy shower. [SLIP: Unusually heavy shower of rain.]</description>
+    </item>
+    <item>
+      <headword id="idp118815696">dearg</headword>
+      <description>‘witness’. Cha do dhearg mi air nì ri itheadh. [SLIP: To witness.]</description>
+    </item>
+    <item>
+      <headword id="idp118818936">deargadh</headword>
+      <description>press? Cha deargadh fhiacail air dad. (I find words indicating meaning likewise. Don’t you?)</description>
+    </item>
+    <item>
+      <headword id="idp118813104">malcadh</headword>
+      <description>pressing with the hands. [NOTES: Slipped under ‘malc’. Quotation: a’ malcadh. Definition: To press with the hands.]</description>
+    </item>
+    <item>
+      <headword id="idp118845936">ganogs</headword>
+      <description>an iron crosswise fixed over a basket full of herring, with a hook on each end which is inserted into both handles of the basket, a ring in the middle of the bar into which a rope is tied or spliced, thus the basket full of herring being hoisted from the hold of the boat on to the pier – a common portrait years back – the word for this ‘contraption’ is unheard of now, I think; which was ‘ganogs’. Illustration or diagram (the diagram is not too good, it will give you an idea): <illustration src="ScalpayDRMorrisonmisc23illust1.jpg" width="600px"/></description>
+    </item>
+    <item>
+      <headword id="idp118807776">basgaid-sgadain</headword>
+      <description>herring basket.</description>
+    </item>
+    <item>
+      <headword id="idp118807344">burton</headword>
+      <description>the rope for hoisting or heaving the basket, hoisting rope. [SLIP: Hoisting rope (particularly for herring baskets?).]</description>
+    </item>
+    <item>
+      <headword id="idp118802808">dubhain</headword>
+      <description>hooks.</description>
+    </item>
+    <item>
+      <headword id="idp118835712">sùil</headword>
+      <description>ring. [SLIP: Ring (as in ‘iron ring’ etc).]</description>
+    </item>
+    <item>
+      <headword id="idp118815048">carabost</headword>
+      <description>jaws.</description>
+    </item>
+    <item>
+      <headword id="idp118836216">sgitear</headword>
+      <description>soft mess, as of a soft mixture of clay etc, spilling, or mud being squelched. [SLIP: Soft mess, eg. mud being squelched in or soft mixture of clay spilling.]</description>
+    </item>
+    <item>
+      <headword id="idp118849608">isteic</headword>
+      <description>gullet.</description>
+    </item>
+    <item>
+      <headword id="idp118854144">steic-bhraghad</headword>
+      <description>vocal cord. [NOTES: the slip has ‘steic-bhràghad’.]</description>
+    </item>
+    <item>
+      <headword id="idp118853424">gille-baile</headword>
+      <description>factotum.</description>
+    </item>
+    <item>
+      <headword id="idp118853136">talach</headword>
+      <description>displeased.</description>
+    </item>
+    <item>
+      <headword id="idp118856232">cainleanta</headword>
+      <description>(of) enormous (stature). A chainleantachd – having all his faculties, and of unusual proportion. [SLIP 1: Cainleanta. Definition: Of enormous stature.] [SLIP 2: Cainleantachd. Definition: Being in possession of all one’s faculties and being of great stature.]</description>
+    </item>
+    <item>
+      <headword id="idp118858896">cluais</headword>
+      <description>(also) handle. Cluais na bascaid – as the herring basket already referred to. [NOTES: the slip has ‘cluais na basgaid’. Definition: Handle.]</description>
+    </item>
+    <item>
+      <headword id="idp118859040">glogain</headword>
+      <description>restlessness. Glogain na mara.</description>
+    </item>
+    <item>
+      <headword id="idp118860552">ciomboll</headword>
+      <description>a collection of heather, burden amount tied collectively. Ciomboll fraoich. [SLIP: Bundle of heather – the amount tied collectively.]</description>
+    </item>
+    <item>
+      <headword id="idp118862928">geamlag</headword>
+      <description>iron bar, lever, used in quarrying stones.</description>
+    </item>
+    <item>
+      <headword id="idp118866744">aileiridh</headword>
+      <description>night wake, ‘for the dead’.</description>
+    </item>
+    <item>
+      <headword id="idp118869264">garach</headword>
+      <description>a young raven.</description>
+    </item>
+    <item>
+      <headword id="idp118868400">maide-froise</headword>
+      <description>a bar of wood used to strike corn with for to remove the seed.</description>
+    </item>
+    <item>
+      <headword id="idp118868472">palla-tarsainn</headword>
+      <description>dividing wall.</description>
+    </item>
+    <item>
+      <headword id="idp118770264">bun-stice-nan-stiall</headword>
+      <description>to the very foundation.</description>
+    </item>
+    <item>
+      <headword id="idp118886688">neipeige (pl. neipeigin)</headword>
+      <description>handkerchief.</description>
+    </item>
+    <item>
+      <headword id="idp118889856">neiprige</headword>
+      <description>handkerchief.</description>
+    </item>
+    <item>
+      <headword id="idp118887264">sgiolta</headword>
+      <description>trembling with a sense of merriment, or emotional joy. [SLIP: Trembling with merriment or emotional joy.]</description>
+    </item>
+    <item>
+      <headword id="idp118880928">guirmean</headword>
+      <description>blue [sic] used to whiten linen.</description>
+    </item>
+    <item>
+      <headword id="idp118883664">croislich</headword>
+      <description>disagreement or quarrel between two persons.</description>
+    </item>
+    <item>
+      <headword id="idp118874736">roileisg</headword>
+      <description>confused orally, uninterested ‘gabble’. [SLIP: Confused gabbling.]</description>
+    </item>
+    <item>
+      <headword id="idp118825776">pacaid</headword>
+      <description>ferry boat.</description>
+    </item>
+    <item>
+      <headword id="idp118834848">crois</headword>
+      <description>(also) cumbersome.</description>
+    </item>
+    <item>
+      <headword id="idp118797624">baitse</headword>
+      <description>batch. A batch of cement. [SLIP: Batch (eg. of cement).]</description>
+    </item>
+    <item>
+      <headword id="idp118800216">bàidse</headword>
+      <description>batch. [sic] [badge?] A batch [sic] in the lapel of a jacket. [SLIP: Patch (in the lapel of a jacket).]</description>
+    </item>
+    <item>
+      <headword id="idp118811664">càirnein</headword>
+      <description>empty-headed, or empty skull. Càirnein Dhòmhnaill, bhuail an còmhradh air càirnein Dhòmhnaill – on his empty skull, showing no effect. Old term.</description>
+    </item>
+    <item>
+      <headword id="idp115366616">càirean</headword>
+      <description>roof of the mouth.</description>
+    </item>
+    <item>
+      <headword id="idp115362008">starabhaigheadh</headword>
+      <description>chipping off parts so as to fit the required thing. So to speak ‘starving’, to me it could have derived from such word by its sound. It is colloquial star a… [NOTES: second ‘a’ underlined.] [SLIP: Chipping off parts of an object so that it can fit into the container.]</description>
+    </item>
+    <item>
+      <headword id="idp115359632">raoighseid (pl. raoigseidean )</headword>
+      <description>[sic] raisin.</description>
+    </item>
+    <item>
+      <headword id="idp115353080">curan (pl. curans)</headword>
+      <description>currant.</description>
+    </item>
+    <item>
+      <headword id="idp115355240">ciochan-tràghad</headword>
+      <description>seen on the rocks of a pale reddish colour. [SLIP: Seaweed (?) – of a pale reddish colour and found on rocks.]</description>
+    </item>
+    <item>
+      <headword id="idp115274024">cupal</headword>
+      <description>couple.</description>
+    </item>
+    <item>
+      <headword id="idp115272512">crotag</headword>
+      <description>a bent female, small.</description>
+    </item>
+    <item>
+      <headword id="idp115271072">cnaganach</headword>
+      <description>hard nut of a man.</description>
+    </item>
+    <item>
+      <headword id="idp115269920">cleit</headword>
+      <description>(also) wooden piece nailed to the inside part of a gunwale of a boat for fastening rope to – wooden rope fastener. In English – cleat. I may have given this definition of it somewhere else but it doesn’t matter. [SLIP: A piece of wood nailed to the inside of the gunwale of a boat – to which a rope is fastened. A cleat.]</description>
+    </item>
+    <item>
+      <headword id="idp115267904">labhrach</headword>
+      <description>talkative.</description>
+    </item>
+    <item>
+      <headword id="idp115267256">durag or durrag</headword>
+      <description>young pig.</description>
+    </item>
+    <item>
+      <headword id="idp115381232">moineis</headword>
+      <description>modest.</description>
+    </item>
+    <item>
+      <headword id="idp115379216">bràigh-cill</headword>
+      <description>security. Cuir fo bhràigh-cill e.</description>
+    </item>
+    <item>
+      <headword id="idp115382240">cartadh</headword>
+      <description>‘carting’, cleaning (and ‘carting’ the ‘manure’ from) the byre.</description>
+    </item>
+    <item>
+      <headword id="idp161208904">cairteadh</headword>
+      <description>barking nets. [NOTES: originally slipped under ‘cairteadh’ but then changed to ‘cartadh’ with ‘cairteadh’ as the quotation.]</description>
+    </item>
+    <item>
+      <headword id="idp161210632">tearrachail</headword>
+      <description>a h-iomaghain tearrchail [sic] – of a dun colour (female), not the same as earachol already noted. I do not think it’s the very same although there may be slight connections.</description>
+    </item>
+    <item>
+      <headword id="idp161212360">riabaid</headword>
+      <description>slice.</description>
+    </item>
+    <item>
+      <headword id="idp161213944">teò</headword>
+      <description>sided. Cha do theò e riamh ris. – to the person who caused the hurt, or hurt him. [SLIP: ‘He never sided with him’ (with the person who caused him hurt).]</description>
+    </item>
+    <item>
+      <headword id="idola399" type="heading" level="h1">6. Word-list (‘Cruinneachadh de dh’fhaclan’) dated 1975</headword>
+    </item>
+    <item>
+      <headword id="idp161217616">bàrr-ròc</headword>
+      <description>(also) seaweed nearest the surface. [SLIP: Seaweed nearest surface of sea.]</description>
+    </item>
+    <item>
+      <headword id="idp161219344">plop</headword>
+      <description>imitating word for the sound of a cork pushed out or pulled out of a bottle. [SLIP: To express the sound of a cork being pulled out of a bottle.]</description>
+    </item>
+    <item>
+      <headword id="idp161221072">dad-dad!</headword>
+      <description>interj., hold on! hold on!</description>
+    </item>
+    <item>
+      <headword id="idp161222800">h-aoigh! h-aoigh!</headword>
+      <description>interj., hold on! hold on! Also: word of warning. [NOTES: slipped under ‘haoigh’ with ‘Haoigh-haoigh!’ as the quotation.]</description>
+    </item>
+    <item>
+      <headword id="idp161224528">geard</headword>
+      <description>pocket watch-chain, watch chain, from the breast pocket, worn by the male folk. Cha [sic] fhac thu duine riamh cho eireachdail ris, le geard òir. (old phrase) [NOTES: the slip has ‘Chan fhaca thu…’. Definition: Watch-chain, worn from the breast pocket. Word no longer used.]</description>
+    </item>
+    <item>
+      <headword id="idp161226400">logaid</headword>
+      <description>locket, chain locket of a pocket watch.</description>
+    </item>
+    <item>
+      <headword id="idp161228128">prìne-banaltrum</headword>
+      <description>nurse pin.</description>
+    </item>
+    <item>
+      <headword id="idp161229640">bròineag</headword>
+      <description>poor creature, termed to a female, word expressing sympathy.</description>
+    </item>
+    <item>
+      <headword id="idp161231440">praoidhteadh</headword>
+      <description>piecing together in a temporary fashion.</description>
+    </item>
+    <item>
+      <headword id="idp161232952">garabhaidh</headword>
+      <description>(also) boyfriend. (old term)</description>
+    </item>
+    <item>
+      <headword id="idp161234680">carabhaidh</headword>
+      <description>caraway seed (already referred to is spelt with the ‘c’ but colloquially there is the distinction).</description>
+    </item>
+    <item>
+      <headword id="idp161236408">sgoltadh</headword>
+      <description>disembowelling (fish) but Cha ’eil sgoltadh aige de a their e – he does seem to break apart from telling such ‘fictitious’ matter or untrue verbal matter. [NOTES: the quotation on the slip reads ‘Chan eil sgoltadh aige dé their e.’ Definition: 1. Disembowelling of fish. 2. (above) “he does seem to break apart from telling such ‘fictitious’ matters”!]</description>
+    </item>
+    <item>
+      <headword id="idp161238280">diùthaidh</headword>
+      <description>harmful person.</description>
+    </item>
+    <item>
+      <headword id="idp161239792">tat-tat!</headword>
+      <description>interj., wait! wait!</description>
+    </item>
+    <item>
+      <headword id="idp161242240">tut-tut!</headword>
+      <description>nothing! nothing!</description>
+    </item>
+    <item>
+      <headword id="idp161243968">od-od!</headword>
+      <description>now! now!</description>
+    </item>
+    <item>
+      <headword id="idp161245696">h-o-ho!</headword>
+      <description>a converse impression.</description>
+    </item>
+    <item>
+      <headword id="idp161248216">ai! ai!</headword>
+      <description>showing interest, or indication [of] appreciation from what is heard.</description>
+    </item>
+    <item>
+      <headword id="idp161249944">och! och!</headword>
+      <description>expression, or words collaborating with sadness etc. = series. [SLIP: Interj. conveying sadness.]</description>
+    </item>
+    <item>
+      <headword id="idp161252608">stàpladh</headword>
+      <description>stampeding.</description>
+    </item>
+    <item>
+      <headword id="idp161254120">roladh</headword>
+      <description>rolling.</description>
+    </item>
+    <item>
+      <headword id="idp161255632">rauladh</headword>
+      <description>rolling. (rauladh – colloquially spelt) [SLIP: Rolling (phonetically spelt).]</description>
+    </item>
+    <item>
+      <headword id="idp161257360">pipreachadh</headword>
+      <description>enticing.</description>
+    </item>
+    <item>
+      <headword id="idp161258872">pipear</headword>
+      <description>pepper.</description>
+    </item>
+    <item>
+      <headword id="idp161260384">ceip</headword>
+      <description>cap.</description>
+    </item>
+    <item>
+      <headword id="idp161261896">sgiol</headword>
+      <description>sense. Cha’n ’eil sgiol sgur aige.</description>
+    </item>
+    <item>
+      <headword id="idp161263768">cuachag</headword>
+      <description>(also) wee dish.</description>
+    </item>
+    <item>
+      <headword id="idp161265496">goileaman</headword>
+      <description>tell-tale.</description>
+    </item>
+    <item>
+      <headword id="idp161267008">tuaim-adhlaic</headword>
+      <description>burying tomb.</description>
+    </item>
+    <item>
+      <headword id="idp161268520">sàillaibh</headword>
+      <description>for the sake. Cha [sic] mi ann air sàillaibh m’athar. (Scalpay) [NOTES:  slipped under ‘sàillibh’. Quotation: Chaidh mi ann air sàillibh m’athar. Definition: For the sake of.]</description>
+    </item>
+    <item>
+      <headword id="idp161270392">poit-dhubh</headword>
+      <description>still towards the production of whisky.</description>
+    </item>
+    <item>
+      <headword id="idp161272120">scràbag</headword>
+      <description>lot. Abair thusa scràbag.</description>
+    </item>
+    <item>
+      <headword id="idp165255392">crotaiche</headword>
+      <description>humped back.</description>
+    </item>
+    <item>
+      <headword id="idp165257120">crùbaiche</headword>
+      <description>pliable to bends [sic]. [SLIP: Humped back. [sic]]</description>
+    </item>
+    <item>
+      <headword id="idp165258848">sgrothach</headword>
+      <description>ruggedness. Aodann sgrothach. [SLIP: Rugged.]</description>
+    </item>
+    <item>
+      <headword id="idp165260720">sgraitseach</headword>
+      <description>‘telling off’, rebuke. Thug mi sgraitseach air or Thug mi sgraitseach dha.</description>
+    </item>
+    <item>
+      <headword id="idp165262592">steic</headword>
+      <description>steak.</description>
+    </item>
+    <item>
+      <headword id="idp165264320">stóthadh</headword>
+      <description>stowing, packing.</description>
+    </item>
+    <item>
+      <headword id="idp165265832">stiom</headword>
+      <description>strip. Stiom anairt. [SLIP: Strip (of cloth).]</description>
+    </item>
+    <item>
+      <headword id="idp165267704">àit’-acrachaidh</headword>
+      <description>anchorage.</description>
+    </item>
+    <item>
+      <headword id="idp165269216">stùrs</headword>
+      <description>(also) ‘chivers’ [sic] [shivers?].</description>
+    </item>
+    <item>
+      <headword id="idp165270944">sgaoirt</headword>
+      <description>squash. Cha [sic] e na sgaoirt. [NOTES: the quotation on the slip reads ‘Chaidh e ’na sgaoirt’.]</description>
+    </item>
+    <item>
+      <headword id="idp165273032">giarag</headword>
+      <description>witty.</description>
+    </item>
+    <item>
+      <headword id="idp165274544">fraochan</headword>
+      <description>the leather ornamental or decorated impression strip across the toe of a shoe. [SLIP: Leather cap across toe of shoe.]</description>
+    </item>
+    <item>
+      <headword id="idp165277136">tungaid</headword>
+      <description>tankard.</description>
+    </item>
+    <item>
+      <headword id="idp165278648">francas</headword>
+      <description>(also) rumpus.</description>
+    </item>
+    <item>
+      <headword id="idp165280160">buicean</headword>
+      <description>(also) little bag. Buicean cloimhe – little bag of wool. [NOTES: the slip has ‘buicean clòimhe’. Definition: Little bag (eg. of wool).]</description>
+    </item>
+    <item>
+      <headword id="idp165282032">bracsaidh</headword>
+      <description>a disease, sheep disease. [NOTES: slipped under ‘bragsaidh’ with ‘bracsaidh’ as the quotation. Definition: Braxy.]</description>
+    </item>
+    <item>
+      <headword id="idp165283760">tinneas-caitheamh</headword>
+      <description>wasting disease. [SLIP: A “wasting disease” – prob. T.B.]</description>
+    </item>
+    <item>
+      <headword id="idp165285488">tàradh</headword>
+      <description>chance. ’N uair a gheibh mi tàradh. (Scalpay)</description>
+    </item>
+    <item>
+      <headword id="idp165287576">pucail</headword>
+      <description>buckles.</description>
+    </item>
+    <item>
+      <headword id="idp165289520">briogais-ghlùineadh</headword>
+      <description>knee breeches.</description>
+    </item>
+    <item>
+      <headword id="idp165291464">briosgais-mhòisglin</headword>
+      <description>[sic] ‘muslin’ trousers. [NOTES: slipped under ‘briogais-mhòisglin’. Definition: Moleskin trousers.]</description>
+    </item>
+    <item>
+      <headword id="idp165293408">dongalaid</headword>
+      <description>big, exceptionally big. Fhuair e dongalaid mhor. – in connection with stones. (Scalpay) [NOTES: the slip has ‘mhòr’. Definition: Big stone.]</description>
+    </item>
+    <item>
+      <headword id="idp165295352">shumpair</headword>
+      <description>jumper, drill. Do ghiaraich e ’n shumpair ud. – hand drill. (Scalpay) [NOTES: slipped under ‘shumpair (sic)’ but the slip also suggests ‘tumpair (?)’. Definition: Jumper, drill.]</description>
+    </item>
+    <item>
+      <headword id="idp165297512">seàrsach</headword>
+      <description>interesting amount. Fhuair e seàrsach mhath dhe. [SLIP: A good amount.]</description>
+    </item>
+    <item>
+      <headword id="idp165299384">scàrsach</headword>
+      <description>interesting amount. [See seàrsach.]</description>
+    </item>
+    <item>
+      <headword id="idp165301112">suithean-cruaidhte</headword>
+      <description>[?] preserved sillock, salted and then dried hard. [NOTES: slipped under saithean-cruaidhte. The first vowel in the first word is a bit unclear but it could be ‘u’ rather than ‘a’.]</description>
+    </item>
+    <item>
+      <headword id="idp165302840">casa-góblaigean</headword>
+      <description>open legged, as riding a horse. Bha e casa-goblagain [sic] air a mhuin. [NOTES : slipped under ‘casa-góbhlagan’. Quotation: Bha e casa-góbhlaigean [sic] air a mhuin. Definition: Astride.]</description>
+    </item>
+    <item>
+      <headword id="idp165304928">suids</headword>
+      <description>encouragement. Bha e cur suids ris. (Scalpay)</description>
+    </item>
+  </items>
+</fieldworkDocument>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 1/4/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Word-lists_NethyBridgeNSmithmisc2" docType="wordlist" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>21/12/19??</date>
+  <fieldworker>self</fieldworker>
+  <informant>
+    <nameEnglish>Noel Smith</nameEnglish>
+    <age>[38]</age>
+    <origin>[Inverness-shire, Nethy Bridge]</origin>
+  </informant>
+  <location>Inverness-shire, Nethy Bridge</location>
+  <items>
+    <item>
+	  <headword id="idola455">[note]</headword>
+	  <description>(...) se sin cuid de dh’fhaclan a chula [sic] mi bho chionn beagan bhlidhnachan [sic] air ais ’nuair a bha m’Athair is na coimhearsnaich mun chuairt an so a’ bruidhinn a’ Ghaidhlig ged is ainneamh a tha i air a’ bruidhinn aig an làtha an diugh.</description>
+	</item>  
+    <item>
+      <headword id="idp161202824">tuineal</headword>
+      <description>this word was usually applied to any young animal or child which showed great energy and very active when playing.</description>
+    </item>
+    <item>
+      <headword id="idp161199872">torr-nead</headword>
+      <description>this was the smallest pig or pup in the litter and it usually implied being a weakling.</description>
+    </item>
+    <item>
+      <headword id="idp161217008">strùlag</headword>
+      <description>a volume of water coming from a pipe usually where the water was got for the house.</description>
+    </item>
+    <item>
+      <headword id="idp161218520">creineag</headword>
+      <description>a very dry bit of peat broken off the main peat.</description>
+    </item>
+    <item>
+      <headword id="idp161220032">chridheanan</headword>
+      <description>the bit of ground or the lair where the peats were spread out to dry.</description>
+    </item>
+    <item>
+      <headword id="idp161221544">folach</headword>
+      <description>although this word meaning (hide) in in [sic] Gaelic was used about here when a person was getting any little odds and ends for nothing and very often applied if the ghillie got anything home out of the larder during the stalking season.</description>
+    </item>
+    <item>
+      <headword id="idp161223056">cachd</headword>
+      <description>animal manure. Same meaning as ‘buachair’.</description>
+    </item>
+    <item>
+      <headword id="idp161224568">bùrrmor</headword>
+      <description>this was applied to a person who was in the huff and was not speaking.</description>
+    </item>
+    <item>
+      <headword id="idp161226080">lochgairsguit</headword>
+      <description>the chase or pursuit or the nearest other Gaelic word I can think of being ‘ruaig’.</description>
+    </item>
+    <item>
+      <headword id="idp161227592">ciòpan</headword>
+      <description>a hen’s gizzard or crop.</description>
+    </item>
+    <item>
+      <headword id="idp161229104">mòrlan</headword>
+      <description>a person of low or humble position.</description>
+    </item>
+    <item>
+      <headword id="idp161230616">mòchlinn</headword>
+      <description>wandering about aimlessly.</description>
+    </item>
+	<item>
+	  <headword id="idola456">[note]</headword>
+	  <description>This is my own idea of spelling these words as I have never seen them written.</description>
+	</item>
+  </items>
+</fieldworkDocument>

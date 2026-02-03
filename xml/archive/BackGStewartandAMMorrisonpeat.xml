@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 24 4 13 -->
+<fieldworkDocument docId="Peat_BackGStewartandAMMorrisonpeat" docType="wordlist" subType="Peat">
+  <title>Mòine / Peat-Working</title>
+  <date>April 1962</date>
+  <fieldworker>I. M. Morrison</fieldworker>
+  <note>[NOTES: the original title of the list is “Terminology Associated with Peat-Cutting and Drying”.]</note>
+  <informant>
+    <nameEnglish>George Stewart</nameEnglish>
+	<age>45</age>
+	<origin>Lewis, Back</origin>
+  </informant>
+  <informant>
+    <nameEnglish>Alex M. Morrison</nameEnglish>
+	<age>60</age>
+	<origin>Lewis, Back</origin>
+  </informant>
+  <location>Lewis, Back</location>
+  <items>
+    <item>
+      <headword id="d0e48">poll-mònach</headword>
+      <description>fairly long peat bank.</description>
+    </item>
+    <item>
+      <headword id="d0e57">grabhag</headword>
+      <description>short peat bank.</description>
+    </item>
+    <item>
+      <headword id="d0e66">ath-bhlàr</headword>
+      <description>a peat bank cut after the original surface layer of peat has been used, i.e. a second layer of peats.</description>
+    </item>
+    <item>
+      <headword id="d0e75">riasg</headword>
+      <description>peat as it is in the peat-bank before being cut.</description>
+    </item>
+    <item>
+      <headword id="d0e84">ceap</headword>
+      <description>turf, cut sometimes where it is thin with some peat attached to it and cured for burning at the back of the fire to save the peats during the winter.</description>
+    </item>
+    <item>
+      <headword id="d0e93">fàd</headword>
+      <description>an individual peat, i.e. a slab cut out of the peat-bank.</description>
+    </item>
+    <item>
+      <headword id="d0e102">corr-fhad</headword>
+      <description>the first peat so cut, i.e. the peat on the face of the bank exposed to the weather.</description>
+    </item>
+    <item>
+      <headword id="d0e111">barr-fhàd</headword>
+      <description>the first layer of peats next to the turf.</description>
+    </item>
+    <item>
+      <headword id="d0e120">caoran</headword>
+      <description>the layer next to the back formation. Also small broken peats.</description>
+    </item>
+    <item>
+      <headword id="d0e129">poll trì fòid</headword>
+      <description>a peat bank out of which three layers of peat can be cut.</description>
+    </item>
+    <item>
+      <headword id="d0e138">tairsgeir</headword>
+      <description>the cutting iron.</description>
+    </item>
+    <item>
+      <headword id="d0e147">smeachan</headword>
+      <description>a wedge like piece of wood which served the dual purpose of attaching the shaft to the blade and of providing a place for the foot to exert pressure on the blade to force it through the peat.</description>
+    </item>
+    <item>
+      <headword id="d0e156">sgiabadh</headword>
+      <description>peat-cutting crew.</description>
+    </item>
+    <item>
+      <headword id="d0e165">tairsgeir</headword>
+      <description>the two people comprising the team involved in cutting and laying out the peat.</description>
+    </item>
+    <item>
+      <headword id="d0e174">a’ gearradh na mònach</headword>
+      <description>cutting the peat.</description>
+    </item>
+    <item>
+      <headword id="d0e183">fear/té tha a’ gearradh</headword>
+      <description>the individual who cuts the peat.</description>
+    </item>
+    <item>
+      <headword id="d0e192">fear/té tha cur a mach</headword>
+      <description>[?] the person who throws out the peat.</description>
+    </item>
+    <item>
+      <headword id="d0e201">leabaidh laighe</headword>
+      <description>the moor-bed on which the peats are thrown out for drying.</description>
+    </item>
+    <item>
+      <headword id="d0e210">rìachadh</headword>
+      <description>the initial cutting through out the bank preparatory to skinning the turf.</description>
+    </item>
+    <item>
+      <headword id="d0e219">rùsgadh</headword>
+      <description>skinning the turf of the peat bank.</description>
+    </item>
+    <item>
+      <headword id="d0e228">togail</headword>
+      <description>lifting the peats and putting four or five together on end two or three weeks after cutting.</description>
+    </item>
+    <item>
+      <headword id="d0e237">rùdhadh</headword>
+      <description>turning the peats again and making bigger piles of them in a cairn-like group. ‘Rùdhan beag’ and ‘rùdhan mór’ so produced.</description>
+    </item>
+    <item>
+      <headword id="d0e246">dùn</headword>
+      <description>peat piled at the road preparatory to being hauled home.</description>
+    </item>
+    <item>
+      <headword id="d0e255">cruach</headword>
+      <description>peat stack made when the peats are brought home.</description>
+    </item>
+    <item>
+      <headword id="d0e264">stéigheadh</headword>
+      <description>constructing the outer walls of the peat stack in layers.</description>
+    </item>
+    <item>
+      <headword id="d0e273">mòine-bhàn</headword>
+      <description>generally the first two or three layers of peat next to the virgin moorland.</description>
+    </item>
+    <item>
+      <headword id="d0e282">mòine-chalcais</headword>
+      <description>peat in which there is a certain amount of moorland grass and heather fibres.</description>
+    </item>
+    <item>
+      <headword id="d0e291">mòine fhraoich</headword>
+      <description>peat which is made up of undecomposed heather fibres.</description>
+    </item>
+    <item>
+      <headword id="d0e300">mòine-fhiadhe</headword>
+      <description>peat in which there is decayed wood embodied.</description>
+    </item>
+    <item>
+      <headword id="d0e309">mòine dhubh</headword>
+      <description>generally the last strata of peat next to the rock-formation.</description>
+    </item>
+    <item>
+      <headword id="d0e318">afoinn</headword>
+      <description>cured peat of such an absorbent texture that it soaks in water to such an extent that it will not burn until it is dried again. [NOTES: ‘ath-mhòin?’ in second hand added in the margin.]</description> 
+    </item>
+    <item>
+      <headword id="d0e327">cliabh</headword>
+      <description>wicker-work basket supported by a rope or band round the chest and shoulders.</description>
+    </item>
+    <item>
+      <headword id="d0e336">iris</headword>
+      <description>the band which supports the creel.</description>
+    </item>
+    <item>
+      <headword id="d0e345">dronnag</headword>
+      <description>an old skirt folded several times into a saddle on the small of the back.</description>
+    </item>
+    <item>
+      <headword id="d0e354">bodach</headword>
+      <description>three legged wooden structure on which the creel is rested thus holding it level with the carrier’s back.</description>
+    </item>
+    <item>
+      <headword id="d0e363">sorachan</headword>
+      <description>a pile of peats on which the people sat at any interval.</description>
+    </item>
+    <item>
+      <headword id="d0e372">smùr</headword>
+      <description>peat-dust, i.e. peat that gets broken into very small particles due to exposure to the weather or through rough handling.</description>
+    </item>
+    <item>
+      <headword id="d0e381">spaid</headword>
+      <description>spade, used usually for turfing the peat-bank.</description>
+    </item>
+    <item>
+      <headword id="d0e390">cuir na mònach chun a’ rathad</headword>
+      <description>taking the peats to a convenient road ready for hauling home.</description>
+    </item>
+    <item>
+      <headword id="d0e399">cuir na mònach gu tìr</headword>
+      <description>taking the peats to a convenient road ready for hauling home.</description>
+    </item>
+    <item>
+      <headword id="d0e408">a’ tarruing na mònach</headword>
+      <description>either taking the peats to the road or taking them home.</description>
+    </item>
+    <item>
+      <headword id="d0e417">bara</headword>
+      <description>a wheel-barrow in which the peats are taken to the road.</description>
+    </item>
+  </items>
+</fieldworkDocument>

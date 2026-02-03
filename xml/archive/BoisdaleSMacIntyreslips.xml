@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 5/8/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_BoisdaleSMacIntyreslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>05/1971</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <informant>
+    <nameEnglish>Sadie MacIntyre</nameEnglish>
+  </informant>
+  <location>Canada, Cape Breton, Boisdale</location>
+  <items>
+    <item>
+      <headword id="idp115444136">pócais</headword>
+      <description>Notes: bedbug.</description>
+    </item>
+  </items>
+</fieldworkDocument>

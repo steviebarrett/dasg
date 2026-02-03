@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 7/10/15 -->
+<!-- illustrations -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_KinlochbervieJCorbettslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>10/1969</date>
+  <fieldworker>[AJ Smith]</fieldworker>
+  <note>[NOTES: in IPA transcriptions, the fieldworker uses [w] for [ɯ].]</note>
+  <informant>
+    <nameEnglish>John Corbett</nameEnglish>
+    <age>c. 80</age>
+  </informant>
+  <location>Sutherland, Kinlochbervie</location>
+  <items>
+    <item>
+      <headword id="idp115475584">ladhar</headword>
+      <description>[ɫɤɣəɾ] Notes: hoof. Pl. [ɫ[ɤu̜]ɾəṉ].</description>
+    </item>
+    <item>
+      <headword id="idp115464280">laimhdal</headword>
+      <description>[ɫ[ɑ̃ĩ]dəl] Notes: a kind of tangle.</description>
+    </item>
+    <item>
+      <headword id="idp115447648">mèineanaich</headword>
+      <description>[mɛ̃:ṉɑṉiç] Notes: yawning.</description>
+    </item>
+    <item>
+      <headword id="idp118885392">mial</headword>
+      <description>Quotation: a’ mhial. Notes: disease in horses. Upper gum extends downwards; can be cut.</description>
+    </item>
+    <item>
+      <headword id="idp118883160">muirsginn</headword>
+      <description>[mũ̜ʴsɡʹw̃ṉ] [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+    <item>
+      <headword id="idp118881360">rùbhag</headword>
+      <description>Notes: crab.</description>
+    </item>
+    <item>
+      <headword id="idp118879632">iarunn-tàillean</headword>
+      <description>[iɤʴṉt̪ɑ:lʹɑṉ] Notes: heard an old woman say this for “goffering iron”. (?) [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+    <item>
+      <headword id="idp118877760">isean</headword>
+      <description>Quotation: isean cait. Notes: kitten.</description>
+    </item>
+    <item>
+      <headword id="idp118948392">sgalldair</headword>
+      <description>[sɡɤu̜ɫd̪əɾ] Notes: jellyfish.</description>
+    </item>
+    <item>
+      <headword id="idp118946952">sgar</headword>
+      <description>Notes: swathe.</description>
+    </item>
+    <item>
+      <headword id="idp118944360">sgeallag</headword>
+      <description>[sɡʹoɫɑɡ] Notes: yellow flower which grows in corn.</description>
+    </item>
+    <item>
+      <headword id="idp118942776">sglèatag</headword>
+      <description>[sɡlɛ:t̪ɑɡ] Notes: slater.</description>
+    </item>
+    <item>
+      <headword id="idp118941264">sgleubadh</headword>
+      <description>[sɡle:bu̜] Quotation: a’ sgleubadh, a’ toirt sgleubadh air an duin’. Notes: scolding, ticking off.</description>
+    </item>
+    <item>
+      <headword id="idp118939896">sgoltadh</headword>
+      <description>[sɡoɫt̪u̜] Notes: earmark. </description>
+    </item>
+    <item>
+      <headword id="idp118937880">sliasd</headword>
+      <description>[ʃlʹıɤsd̪] Notes: thigh.</description>
+    </item>
+    <item>
+      <headword id="idp118936296">spaid-riachaidh</headword>
+      <description>[spɤdʹriɑxi] Notes: a rutting spade.</description>
+    </item>
+    <item>
+      <headword id="idp118934856">streathardaich</headword>
+      <description>[st̪ɾɛhɑʴḏiç] Notes: sneezing. [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+    <item>
+      <headword id="idp118932552">taod</headword>
+      <description>Notes: halter for cow or horse.</description>
+    </item>
+    <item>
+      <headword id="idp118931328">triuth-chasd</headword>
+      <description>Notes: whooping cough.</description>
+    </item>
+    <item>
+      <headword id="idp118929240">urchall</headword>
+      <description>[wɾwxwɫ] Notes: hobble put on two front legs of a horse.</description>
+    </item>
+    <item>
+      <headword id="idp118927512">abhrad</headword>
+      <description>[ɤu̜rəd̪] Notes: eyelash.</description>
+    </item>
+    <item>
+      <headword id="idp118925784">adha</headword>
+      <description>[ɑə] Notes: liver.</description>
+    </item>
+    <item>
+      <headword id="idp118903176">aobrann</headword>
+      <description>[ɤ:bɤʴṉ] Notes: ankle. [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+    <item>
+      <headword id="idp118906560">àirne</headword>
+      <description>Notes: kidney.</description>
+    </item>
+    <item>
+      <headword id="idp118910664">aisinn</headword>
+      <description>[ɑʃəṉ] Notes: rib.</description>
+    </item>
+    <item>
+      <headword id="idp118913400">bàitheach</headword>
+      <description>[bɑ:iɑx] Notes: byre.</description>
+    </item>
+    <item>
+      <headword id="idp118918224">biathag</headword>
+      <description>[biɤhɑɡ] Quotation: a’ bhiathag. Notes: earthworm.</description>
+    </item>
+    <item>
+      <headword id="idp118921248">brucach</headword>
+      <description>Quotation: caora bhrucach. Notes: a black-faced sheep.</description>
+    </item>
+    <item>
+      <headword id="idp166426016">buailidh</headword>
+      <description>[bu̜ɤli] Notes: stall.</description>
+    </item>
+    <item>
+      <headword id="idp166427744">biorach</headword>
+      <description>Notes: spiked calf muzzle.</description>
+    </item>
+    <item>
+      <headword id="idp166429256">caora</headword>
+      <description>Quotation: caora bhrucach [kw:ɾəvɾu̟kɑx]. Notes: black faced sheep.</description>
+    </item>
+    <item>
+      <headword id="idp166431128">casd</headword>
+      <description>[kɑsd̪] Notes: cough.</description>
+    </item>
+    <item>
+      <headword id="idp166432856">casdail</headword>
+      <description>Quotation: a’ casdail [əkɑsd̪ıl]. Notes: coughing.</description>
+    </item>
+    <item>
+      <headword id="idp166434728">clàisteachd</headword>
+      <description>Notes: sense of hearing.</description>
+    </item>
+    <item>
+      <headword id="idp166436240">cluaran</headword>
+      <description>Notes: thistle.</description>
+    </item>
+    <item>
+      <headword id="idp166437752">comhrad</headword>
+      <description>Notes: level.</description>
+    </item>
+    <item>
+      <headword id="idp166439264">craicinneach</headword>
+      <description>[kɾɑkĩnʹɑx] Quotation: a’ chraicinneach. Notes: “hidebound” in cattle. Very dry skin. Often occurred in cattle after a poor wintering.</description>
+    </item>
+    <item>
+      <headword id="idp166441136">crasgan</headword>
+      <description>Notes: starfish.</description>
+    </item>
+    <item>
+      <headword id="idp166442648">crib</headword>
+      <description>[kɾib] Notes: manger.</description>
+    </item>
+    <item>
+      <headword id="idp166444376">crùbag</headword>
+      <description>Notes: saddle for panniers.</description>
+    </item>
+    <item>
+      <headword id="idp166445888">currachd</headword>
+      <description>Quotation: currachd a’ rìgh [ku̜rəxkəri:]. [NOTES: slipped under ‘currac’.]</description>
+    </item>
+    <item>
+      <headword id="idp166447760">dàmhan-ollaidh</headword>
+      <description>[d̪ɑ:vɑṉoɫi] Notes: for dàmhan-allaidh.</description>
+    </item>
+    <item>
+      <headword id="idp166449488">dearc-luarach</headword>
+      <description>[dʹɛɾkɫu̜ɤɾɑx] Notes: a type of lizard (for dearc-luachrach).</description>
+    </item>
+    <item>
+      <headword id="idp166451216">dom</headword>
+      <description>[d̪ɤu̜m] Notes: gall-bladder.</description>
+    </item>
+    <item>
+      <headword id="idp166452944">duilisg</headword>
+      <description>Notes: dulse.</description>
+    </item>
+    <item>
+      <headword id="idp166454456">fàldair</headword>
+      <description>Notes: scythe.</description>
+    </item>
+    <item>
+      <headword id="idp166455968">feàrtan</headword>
+      <description>[fjɑ:ʴsṯɑṉ] Notes: warble fly. [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+    <item>
+      <headword id="idp166457840">galar</headword>
+      <description>Quotation: an galar [ɡɾɤɣ]. Notes: “strangles” in horses. Infectious.</description>
+    </item>
+    <item>
+      <headword id="idp166459712">galar</headword>
+      <description>Quotation: an galar buidhe [bu̜i]. Notes: disease in lambs occurring during dry summers and on some types of ground. Scabs round eyes and ears. Sometimes lambs went blind.</description>
+    </item>
+    <item>
+      <headword id="idp166461584">gart</headword>
+      <description>Quotation: Tha a’ ghart a’ tighinn a mach. Notes: young shoots of corn.</description>
+    </item>
+    <item>
+      <headword id="idp166463240">gath-muing</headword>
+      <description>[ɡɑmũ̜ĩ] Notes: mane.</description>
+    </item>
+    <item>
+      <headword id="idp166464968">Hearrach</headword>
+    <description>[ɛɾu̜ɑx] </description></item>
+  </items>
+</fieldworkDocument>

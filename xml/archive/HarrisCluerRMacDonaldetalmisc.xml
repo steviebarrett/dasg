@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 23 4 14 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="HarrisVarious_HarrisCluerRMacDonaldetalmisc" docType="wordlist" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <fieldworker>[anonymous D]</fieldworker>
+  <informant>
+    <nameEnglish>Roderick MacDonald</nameEnglish>
+    <age>80</age>
+  </informant>
+  <informant>
+    <nameEnglish>Bannantyne and Jessie MacLeod</nameEnglish>
+    <age>early 40's</age>
+  </informant>
+  <informant>
+    <nameEnglish>Rachel MacLeod</nameEnglish>
+    <age>mid 60's</age>
+  </informant>
+  <location>Harris, Cluer</location>
+  <items>
+    <item>
+      <headword id="d0e45">staoin</headword>
+      <description>infusion of leaves, used for bone complaints.</description>
+    </item>
+    <item>
+      <headword id="d0e54">roid</headword>
+      <description>duilleagan beaga.</description>
+    </item>
+    <item>
+      <headword id="d0e63">seancach</headword>
+      <description>weed, small leaves.</description>
+    </item>
+    <item>
+      <headword id="d0e72">piund</headword>
+      <description>mint.</description>
+    </item>
+    <item>
+      <headword id="d0e81">sac</headword>
+      <description>asthma; old cure – drying a dead mouse over an open fire, grinding it into a powder and sprinkling it on milk, to be drunk.</description>
+    </item>
+    <item>
+      <headword id="d0e90">caora bheannach</headword>
+      <description>a three horned sheep.</description>
+    </item>
+    <item>
+      <headword id="d0e99">fiabhras a bhainne</headword>
+      <description>milk fever.</description>
+    </item>
+    <item>
+      <headword id="d0e108">greim lòn</headword>
+      <description>lumbago.</description>
+    </item>
+    <item>
+      <headword id="d0e117">a coimhead air d’ fhiaradh</headword>
+      <description>angry look.</description>
+    </item>
+    <item>
+      <headword id="d0e126">sùil chabhagach</headword>
+      <description>glancing look.</description>
+    </item>
+    <item>
+      <headword id="d0e135">sturaichd</headword>
+      <description>frown.</description>
+    </item>
+    <item>
+      <headword id="d0e144">sgraing</headword>
+      <description>frown.</description>
+    </item>
+    <item>
+      <headword id="d0e153">tursach</headword>
+      <description>sad, sorrowful.</description>
+    </item>
+    <item>
+      <headword id="d0e162">Thug mi droch bheul air</headword>
+      <description>I scolded him.</description>
+    </item>
+    <item>
+      <headword id="d0e171">Thug mi ridalaidhs air</headword>
+      <description>I scolded him.</description>
+    </item>
+    <item>
+      <headword id="d0e180">breac stiallach</headword>
+      <description>multi-coloured.</description>
+    </item>
+    <item>
+      <headword id="d0e189">buallan</headword>
+      <description>ragwort.</description>
+    </item>
+  </items>
+</fieldworkDocument>

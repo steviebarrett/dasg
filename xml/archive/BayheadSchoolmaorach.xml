@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 5 4 14 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="WoolworkingandFishing_BayheadSchoolmaorach" docType="questionnaire" subType="Maorach" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Maorach / Shellfish</title>
+  <fieldworker>[school]</fieldworker>
+  <informant>
+    <nameEnglish>Bayhead School</nameEnglish>
+    <nameGaelic>Sgoil Cheann-a’-Bhàigh</nameGaelic>
+  </informant>
+  <location>Uibhist a Tuath, Ceann a Bhàigh [North Uist, Bayhead]</location>
+  <items>
+    <item><headword id="d0e26" type="heading" level="h1">1. Maorach</headword></item>
+    <item>
+      <headword id="d0e31">bàirneach</headword>
+      <description>limpet.</description>
+    </item>
+    <item>
+      <headword id="d0e40">faochag</headword>
+      <description>whelk.</description>
+    </item>
+    <item>
+      <headword id="d0e49">cnomhagan</headword>
+      <description>periwinkle, conch.</description>
+    </item>
+    <item>
+      <headword id="d0e58">eisir</headword>
+      <description>oyster.</description>
+    </item>
+    <item>
+      <headword id="d0e67">strùban</headword>
+      <description>cockle.</description>
+    </item>
+    <item>
+      <headword id="d0e76">muirsgian</headword>
+      <description>razor fish.</description>
+    </item>
+    <item>
+      <headword id="d0e85">mùsgan</headword>
+      <description>hose fish.</description>
+    </item>
+    <item>
+      <headword id="d0e94">creachann</headword>
+      <description>clam, scallop.</description>
+    </item>
+    <item>
+      <headword id="d0e103">fiasgann</headword>
+      <description>mussle.</description>
+    </item>
+    <item>
+      <headword id="d0e112">gibearnach</headword>
+      <description>cuttle fish.</description>
+    </item>
+    <item>
+      <headword id="d0e121">gibneach</headword>
+      <description>squid, ink-fish.</description>
+    </item>
+    <item>
+      <headword id="d0e130">giùran</headword>
+      <description>barnacle.</description>
+    </item>
+    <item>
+      <headword id="d0e139">crogan-feannaig</headword>
+      <description>sea-urchin.</description>
+    </item>
+    <item>
+      <headword id="d0e148">faoiteag</headword>
+      <description>cowrie.</description>
+    </item>
+    <item>
+      <headword id="d0e157">sporan-feannaig</headword>
+      <description>egg of skate or dogfish.</description>
+    </item>
+    <item>
+      <headword id="d0e166">maorach</headword>
+      <description>limpet (used in Tiree).</description>
+    </item>
+    <item>
+      <headword id="d0e175">madadh</headword>
+      <description>large mussel.</description>
+    </item>
+    <item><headword id="d0e183" type="heading" level="h1">2. A’ tional maorach</headword><description>[page missing] </description></item>
+    <item><headword id="d0e187" type="heading" level="h1">3. Beathaichean eile a gheibhear ’sa’ chladach</headword></item>
+    <item>
+      <headword id="d0e192">luga</headword>
+      <description>lugworm.</description>
+    </item>
+    <item>
+      <headword id="d0e201">easgann</headword>
+      <description>eel.</description>
+    </item>
+    <item>
+      <headword id="d0e210">cluaimheag</headword>
+      <description>butter-fish.</description>
+    </item>
+    <item>
+      <headword id="d0e219">cloimheag</headword>
+      <description>[See cluaimheag.]</description>
+    </item>
+    <item>
+      <headword id="d0e228">caran-creige</headword>
+      <description>sea-porcupine.</description>
+    </item>
+    <item>
+      <headword id="d0e237">muc-chreige</headword>
+      <description>wrasse.</description>
+    </item>
+    <item>
+      <headword id="d0e246">giomach</headword>
+      <description>lobster.</description>
+    </item>
+    <item>
+      <headword id="d0e255">partan</headword>
+      <description>crab.</description>
+    </item>
+    <item>
+      <headword id="d0e264">crùbag</headword>
+      <description>edible crab.</description>
+    </item>
+    <item>
+      <headword id="d0e273">muir-teachd</headword>
+      <description>jelly-fish.</description>
+    </item>
+    <item>
+      <headword id="d0e282">crosgag-thràghad</headword>
+      <description>star fish.</description>
+    </item>
+    <item>
+      <headword id="d0e291">sgait</headword>
+      <description>skate.</description>
+    </item>
+    <item>
+      <headword id="d0e300">sòrnan</headword>
+      <description>small skate.</description>
+    </item>
+    <item>
+      <headword id="d0e309">siolag</headword>
+      <description>sand eel.</description>
+    </item>
+    <item>
+      <headword id="d0e318">liabag</headword>
+      <description>flounder.</description>
+    </item>
+    <item>
+      <headword id="d0e327">caran-creige</headword>
+      <description>stickleback.</description>
+    </item>
+  </items>
+</fieldworkDocument>

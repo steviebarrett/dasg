@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 25 4 13 -->
+<fieldworkDocument docId="CattleandSheep_anonymouscattle" docType="questionnaire" subType="Cattle">
+  <title>Crodh / Cattle</title>
+  <date>January 1969 [?]</date>
+  <note>[NOTES: the only information on the first page: Sent [?] January 1969, 1st List.]</note>
+  <informant>
+    <nameEnglish>anonymous</nameEnglish>
+  </informant>
+  <items>
+    <item><headword id="d0e23" type="heading" level="h1">1. Different stages in the growth of cattle</headword></item>
+    <item>
+      <headword id="d0e28">damh</headword>
+      <description>bullock.</description>
+    </item>
+    <item>
+      <headword id="d0e37">gamhainn</headword>
+      <description>year old stirk.</description>
+    </item>
+    <item><headword id="d0e45" type="heading" level="h1">2. Breeds of cattle</headword></item>
+    <item><headword id="d0e49" type="heading" level="h1">3. Outward appearance of cattle</headword></item>
+    <item><headword id="d0e53" type="heading" level="h1">4. Names for certain beasts, e.g. an animal on which the owner bestows particular attention</headword></item>
+    <item><headword id="d0e57" type="heading" level="h1">5. Parts of the body</headword></item>
+    <item>
+      <headword id="d0e62">ceann</headword>
+      <description>head.</description>
+    </item>
+    <item>
+      <headword id="d0e71">muineal</headword>
+      <description>neck.</description>
+    </item>
+    <item>
+      <headword id="d0e80">adharc</headword>
+      <description>horns.</description>
+    </item>
+    <item>
+      <headword id="d0e89">beul</headword>
+      <description>mouth.</description>
+    </item>
+    <item>
+      <headword id="d0e98">gruaidh</headword>
+      <description>hair.</description>
+    </item>
+    <item>
+      <headword id="d0e107">guaillan</headword>
+      <description>shoulder.</description>
+    </item>
+    <item>
+      <headword id="d0e116">broillach</headword>
+      <description>breast.</description>
+    </item>
+    <item>
+      <headword id="d0e125">casan thosaich</headword>
+      <description>forelegs.</description>
+    </item>
+    <item>
+      <headword id="d0e134">cnaimh-dhruim</headword>
+      <description>backbone.</description>
+    </item>
+    <item>
+      <headword id="d0e143">toin</headword>
+      <description>hind quarters.</description>
+    </item>
+    <item>
+      <headword id="d0e152">earball</headword>
+      <description>tail.</description>
+    </item>
+    <item>
+      <headword id="d0e161">ballan</headword>
+      <description>teats.</description>
+    </item>
+    <item>
+      <headword id="d0e170">gruainn</headword>
+      <description>liver.</description>
+    </item>
+    <item>
+      <headword id="d0e179">sgoirnan</headword>
+      <description>gullet.</description>
+    </item>
+    <item><headword id="d0e187" type="heading" level="h1">6. Calving</headword></item>
+    <item><headword id="d0e191" type="heading" level="h1">7. Milking</headword></item>
+    <item>
+      <headword id="d0e196">bleoghann</headword>
+      <description>milking.</description>
+    </item>
+    <item>
+      <headword id="d0e205">goagan</headword>
+      <description>luggie.</description>
+    </item>
+    <item><headword id="d0e213" type="heading" level="h1">8. Feeding</headword></item>
+    <item>
+      <headword id="d0e218">biadhadh</headword>
+      <description>feeding.</description>
+    </item>
+    <item>
+      <headword id="d0e227">dha dhorna</headword>
+      <description>hand feeding.</description>
+    </item>
+    <item>
+      <headword id="d0e236">ionnaltradh</headword>
+      <description>grazing.</description>
+    </item>
+    <item>
+      <headword id="d0e245">buaichelle</headword>
+      <description>herdsman.</description>
+    </item>
+    <item><headword id="d0e253" type="heading" level="h1">9. Apparatus</headword></item>
+    <item>
+      <headword id="d0e258">teadhair</headword>
+      <description>tether.</description>
+    </item>
+    <item>
+      <headword id="d0e267">brangus</headword>
+      <description>tether.</description>
+    </item>
+    <item><headword id="d0e275" type="heading" level="h1">10. Diseases</headword></item>
+    <item><headword id="d0e279" type="heading" level="h1">11. Miscellaneous</headword><description>[misnumbered as 12] </description></item>
+    <item>
+      <headword id="d0e284">spreidh</headword>
+      <description>collection of animals.</description>
+    </item>
+    <item>
+      <headword id="d0e293">Thuith i anns an suil chrith</headword>
+      <description>cow stuck in bog.</description>
+    </item>
+  </items>
+</fieldworkDocument>

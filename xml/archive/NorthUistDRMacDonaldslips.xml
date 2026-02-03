@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 7/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_NorthUistDRMacDonaldslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>1980</date>
+  <informant>
+    <nameEnglish>D. R. MacDonald</nameEnglish>
+  </informant>
+  <location>North Uist</location>
+  <items>
+    <item>
+      <headword id="idp115490976">pasaidh</headword>
+      <description>Notes: basin.</description>
+    </item>
+    <item>
+      <headword id="idp115471032">còmhla-bhigein</headword>
+      <description>Notes: board for trapping birds – held on stick, stick pulled by string when birds had gone underneath board for seed.</description>
+    </item>
+  </items>
+</fieldworkDocument>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 20 4 13 -->
+<fieldworkDocument docId="Ecclesiastical_GlasgowMMacLeodbas" docType="questionnaire" subType="BàsIsAdhlachadh">
+  <title>Bàs is Adhlacadh / Death and Burial</title>
+  <date>[3/1968 on the slips]</date>
+  <fieldworker>[self]</fieldworker>
+  <note>[NOTES: the informant uses E and I to mark the gender of the nouns, masculine and feminine respectively. He explains on the first page: ‘È agus Ì airson boirionn agus firionn.’]</note>
+  <note>[NOTES: the words have been slipped and therefore, apart from the definitions provided by Mr MacLeod, the definitions as they appear on the slips have also been included (unless the two were the same).]</note>
+  <informant>
+    <nameEnglish>Murdo MacLeod</nameEnglish>
+    <nameGaelic>Murchadh MacLeòid</nameGaelic>
+    <age>56 1/2</age>
+    <origin>Leòdhas [Lewis], Uig an Iar</origin>
+  </informant>
+  <location>Glaschu [Glasgow]</location>
+  <!-- ILLUSTRATION -->
+  <items>
+    <item><headword id="d0e43" type="heading" level="h1">1. Ag ullachadh a’ chuirp</headword></item>
+    <item>
+      <headword id="d0e48">ruigheadh (E)</headword>
+      <description>(‘righeadh’ as fheàrr) An corp air a righeadh ’s air a shuidheachadh mus fuaraicheadh e. [NOTES: slipped under ‘ruigheadh or righeadh’.]</description>
+    </item>
+    <item>
+      <headword id="d0e57">lìon-aodach (E)</headword>
+      <description>An corp air a ghlanadh, tha an lìon-aodach air a chur air. [NOTES: slipped under ‘lion-aodach (masc).]</description>
+    </item>
+    <item>
+      <headword id="d0e66">càradh (E)</headword>
+      <description>Air a chàradh. Bha a h-uile nì deiseil an uair sin a thaobh a’ chuirp gu’n deadh a chur do an chiste – tha e air a chàradh. Air a chàradh a mach air bord cruaidh, làidir a bha air a ghleidheadh airson an aobhair. (Am bòrd mar còmhla chaol.)</description>
+    </item>
+    <item>
+      <headword id="d0e75">islig (I)</headword>
+      <description>Anns an islig. Cha b’ e “air an islig” a chanadh sinn idir. Cha chreid mi nach canadh iad “anns an islig” mu an duine air a’ bhòrd-sa mu’n deadh e do an chiste agus nuair a bhiodh è anns a’ chiste, fhad ’s a bhiodh e a stigh.</description>
+    </item>
+    <item>
+      <headword id="d0e84">[bòrd]</headword>
+      <description>Fo an bhòrd. An duine anns a’ chiste roimh an tiodhlacadh, bha e “fo an bhòrd”. [NOTES: slipped under ’bòrd’ with ’Bha e fo an bhòrd’ as the quotation.]</description>
+    </item>
+    <item><headword id="d0e92" type="heading" level="h1">2. A’ chiste</headword></item>
+    <item>
+      <headword id="d0e97">a’ chiste (I)</headword>
+      <description>[NOTES: slipped under ‘ciste’ with ‘ciste-laighe’ as the quotation.]</description>
+    </item>
+    <item>
+      <headword id="d0e106">ciste laighe</headword>
+    </item>
+    <item>
+      <headword id="d0e112">bord  uachdair na ciste (E)</headword>
+      <description>[sic] [NOTES: slipped under ‘bòrd (masc)’ with ‘bord uachdair na ciste’ as the quotation.]</description>
+    </item>
+    <item>
+      <headword id="d0e121">ceann na ciste (E)</headword>
+      <description>[NOTES: slipped under ‘ceann’ with ‘ceann na ciste’ as the quotation.]</description>
+    </item>
+    <item>
+      <headword id="d0e130">casan na ciste</headword>
+      <description>[NOTES: slipped under ‘cas’ with ‘casan na ciste’ as the quotation.]</description>
+    </item>
+    <item>
+      <headword id="d0e139">na làmhan</headword>
+      <description>[NOTES: slipped under ‘làmhan’ with ‘na làmhan’ as the quotation. Definition: Parts of coffin.]</description>
+    </item>
+    <item>
+      <headword id="d0e148">còrd (E), na cùird</headword>
+      <description>[NOTES: slipped under ‘cùird (pl) cord (s)’ with ‘na cùird’ as the quotation. Definition: Part of coffin.]</description>
+    </item>
+    <item>
+      <headword id="d0e157">tosal (E), na tosals, no na tosailean</headword>
+      <description>(t. cruaidh) [NOTES: slipped under ‘tosals (pl)’ with ‘na tosals no na tosailean’ as the quotation. Definition: Parts of coffin (tassels?).]</description>
+    </item>
+    <item>
+      <headword id="d0e166">am plate (E)</headword>
+      <description>(air am biodh an t-ainm) [NOTES: slipped under ‘plate’ with ‘am plate’ as the quotation. Definition: Am plate air am biodh an ainm [sic].]</description>
+    </item>
+    <item>
+      <headword id="d0e175">an t-aodach dubh, an t-aodach (E)</headword>
+      <description>[NOTES: slip not found.]</description>
+    </item>
+    <item>
+      <headword id="d0e184">sgeadachadh (E)</headword>
+      <description>Chan eil ainm sam bith agam airson an sgeadachaidh a bhiodh a’ dol air taobh a muigh na ciste air muin an aodaich dhuibh ri oirean na ciste.</description>
+    </item>
+    <item><headword id="d0e192" type="heading" level="h1">3. Faire</headword></item>
+    <item>
+      <headword id="d0e197">faire (I)</headword>
+      <description>[NOTES: slip not found.]</description>
+    </item>
+    <item>
+      <headword id="d0e206">an tigh faire (E)</headword>
+      <description>Far an robh an fhaire air a dèanamh. “Anns an tigh-fhaire”. Bhiodh an dusd (I) a stigh dà oidhche agus daoine ri caithris an dà oidhche. An diugh, cò dhiù air taobh an ear an eilein, chan eil caithris, no faire ’ga dhèanamh. [NOTES: slipped under ‘tigh faire’. Definition: Bhiodh an dusd a stigh dà oidhche agus daoine ri caithris an dà oidhche.]</description>
+    </item>
+    <item><headword id="d0e214" type="heading" level="h1">4. A’ giùlan na ciste</headword></item>
+    <item>
+      <headword id="d0e219">eilitriom (E)</headword>
+      <description>Bha a’ chiste air a cur air eilitriom. Bha i air a ceangal ris an eilitriom le na cùird.</description>
+    </item>
+    <item>
+      <headword id="d0e228">giùlan (E)</headword>
+      <description>“Chaidh iad fo an ghiulan [sic].” Dheadh ochdnar fo an ghiùlan air an eilitriom. Bha an t-eilitriom mar bara-làimhe mór, fada.
+        <illustration src="GlasgowMMacLeodbasillust1.jpg" width="400"/>
+      </description>
+    </item>
+    <item><headword id="d0e238" type="heading" level="h1">5. An cladh agus an uaigh</headword></item>
+    <item>
+      <headword id="d0e243">rath-thiodhlaic (I)</headword>
+      <description>Chanainn gur h-e “réilig” a bhios anns a’ chuid mhór de dh’àiteachan.</description>
+    </item>
+    <item>
+      <headword id="d0e252">a’ cladhach na h-uaghach</headword>
+      <description>[NOTES: slipped under ‘cladhaich’ with ‘a’ cladhach na h-uaighe’ as the quotation.]</description>
+    </item>
+    <item>
+      <headword id="d0e261">a’ leigeil sìos na ciste</headword>
+      <description>[NOTES: slip not found.]</description>
+    </item>
+    <item>
+      <headword id="d0e270">an sgrath (I)</headword>
+      <description>Bhithist a’ gearradh sgrath, fàd na spàide air thiuighead bharr na h-uaghach. Bha maide cruinn air a chur am broinn na sgratha agus an sgrath air a rolaigeadh gu casan na h-uaghach. Nuair a bha a h-uile cùis deiseil bha an sgrath air a rolaigeadh air ais agus an uaigh air a crìochnachadh ’s air gabhail aice. [NOTES: slipped under ‘sgrath (fem)’.]</description>
+    </item>
+    <item>
+      <headword id="d0e279">leac (I)</headword>
+      <description>(Tuigidh sibh fhèin.) “Chuir iad leac air Tarmod Fhionnlaigh.”</description>
+    </item>
+    <item>
+      <headword id="d0e288">clach (I)</headword>
+      <description>(Tuigidh sibh fhèin.) “Tha clach bhrèagha air Dòmhnull Ruadh.” [NOTES: slip not found.]</description>
+    </item>
+    <item><headword id="d0e296" type="heading" level="h1">6. Cleachdaidhean sam bith co-cheangailte ri bàs no adhlacadh</headword></item>
+    <item>
+      <headword id="d0e301">tombaca (E)</headword>
+      <description>Bha cuimhne fad as aig m’ athair (1860-1947) air an tombaca aig a’ chladh. [NOTES: slip not found.]</description>
+    </item>
+    <item>
+      <headword id="d0e310">falair (I)</headword>
+      <description>(’Se “alair” a chanadh iadsan.) Bha an fhalair air sgur mus robh cuimhne aig m’ athair. Bha lorg aige air bodadh Uigeach a bha ag radh ri a mhac a’ dol a mach do an t-saoghal air a cheann fhéin a’ cheud uair, “A nise ma thig duine ort a thaobh athar no màthar, biodh mart na h-alair agad”. Bha cuimhne aig m’ athair uair no dhà nuair a bha e ’na dhuine òg, a bhìth aig tiodhlacadh agus biodh ’ga thoirt seachad.</description>
+    </item>
+    <item>
+      <headword id="d0e319">tiodhlacadh (E)</headword>
+    </item>
+  </items>
+</fieldworkDocument>

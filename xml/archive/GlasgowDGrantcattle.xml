@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 1 5 13 -->
+<fieldworkDocument docId="CattleandSheep_GlasgowDGrantcattle" docType="questionnaire" subType="Cattle">
+  <title>Crodh / Cattle</title>
+  <fieldworker>[self]</fieldworker>
+  <informant>
+    <nameEnglish>Donald Grant</nameEnglish>
+    <nameGaelic>Domhnall Grannd</nameGaelic>
+    <age>66</age>
+    <origin>[Skye, Camus Chroise]</origin>
+  </informant>
+  <location>Glasgow</location>
+  <items>
+    <item><headword id="d0e29" type="heading" level="h1">1. Different stages in the growth of cattle</headword></item>
+    <item>
+      <headword id="d0e34">crodh</headword>
+    </item>
+    <item>
+      <headword id="d0e40">laogh (m)</headword>
+      <description>male/female.</description>
+    </item>
+    <item>
+      <headword id="d0e49">gamhainn (m)</headword>
+      <description>male/female. (“Oidhche Shamhna theirear gamhna ris na laoigh.”)</description>
+    </item>
+    <item>
+      <headword id="d0e58">dòi(bh)lianach (m)</headword>
+      <description>two-year old.</description>
+    </item>
+    <item>
+      <headword id="d0e67">agh (m)</headword>
+      <description>heifer, female (?).</description>
+    </item>
+    <item><headword id="d0e75" type="heading" level="h1">2. Breeds of cattle</headword></item>
+    <item><headword id="d0e79" type="heading" level="h1">3. Outward appearance of cattle</headword></item>
+    <item>
+      <headword id="d0e84">ruadh</headword>
+      <description>ruddy.</description>
+    </item>
+    <item>
+      <headword id="d0e93">glas</headword>
+    </item>
+    <item>
+      <headword id="d0e99">dubh</headword>
+    </item>
+    <item>
+      <headword id="d0e105">riabhach</headword>
+      <description>greyish brown.</description>
+    </item>
+    <item>
+      <headword id="d0e114">grìseann</headword>
+      <description>applied as name: dun.</description>
+    </item>
+    <item>
+      <headword id="d0e123">maol</headword>
+      <description>hornless or shorthorn.</description>
+    </item>
+    <item>
+      <headword id="d0e132">culaidh</headword>
+      <description>good condition.</description>
+    </item>
+    <item><headword id="d0e140" type="heading" level="h1">4. Names for certain beasts, e.g. an animal on which the owner bestows particular attention</headword></item>
+    <item><headword id="d0e144" type="heading" level="h1">5. Parts of the body</headword></item>
+    <item>
+      <headword id="d0e149">gaosaid (f)</headword>
+      <description>hair.</description>
+    </item>
+    <item>
+      <headword id="d0e158">craiceann (m)</headword>
+      <description>hide.</description>
+    </item>
+    <item>
+      <headword id="d0e167">ùgh (m)</headword>
+      <description>udder.</description>
+    </item>
+    <item>
+      <headword id="d0e176">sithne (m)</headword>
+      <description>teat.</description>
+    </item>
+    <item>
+      <headword id="d0e185">sgamhan (m)</headword>
+      <description>lungs.</description>
+    </item>
+    <item>
+      <headword id="d0e194">griùthan (m)</headword>
+      <description>liver.</description>
+    </item>
+    <item>
+      <headword id="d0e203">àirnean</headword>
+      <description>kidneys.</description>
+    </item>
+    <item>
+      <headword id="d0e212">geir (m)</headword>
+      <description>fat.</description>
+    </item>
+    <item>
+      <headword id="d0e221">caolannan</headword>
+      <description>colon.</description>
+    </item>
+    <item>
+      <headword id="d0e230">an dubh-liath</headword>
+      <description>pancreas (?).</description>
+    </item>
+    <item><headword id="d0e238" type="heading" level="h1">6. Calving</headword></item>
+    <item>
+      <headword id="d0e243">dàir</headword>
+      <description>heat. Chaidh i a dhàir. – … has been served.</description>
+    </item>
+    <item><headword id="d0e251" type="heading" level="h1">7. Milking</headword></item>
+    <item>
+      <headword id="d0e256">a’ bleoghann</headword>
+      <description>milking.</description>
+    </item>
+    <item>
+      <headword id="d0e265">ciad-bhainne</headword>
+      <description>first milk (after calving).</description>
+    </item>
+    <item>
+      <headword id="d0e274">cuman (m)</headword>
+      <description>coggie (?), milk-pail.</description>
+    </item>
+    <item><headword id="d0e282" type="heading" level="h1">8. Feeding</headword></item>
+    <item>
+      <headword id="d0e287">a’ biathadh na boine (bà)</headword>
+      <description>feeding [cows].</description>
+    </item>
+    <item>
+      <headword id="d0e296">ultach (m)</headword>
+      <description>bundle, fairly large, of hay etc.</description>
+    </item>
+    <item>
+      <headword id="d0e305">greimean (m)</headword>
+      <description>a little bite.</description>
+    </item>
+    <item>
+      <headword id="d0e314">a’ fiarach</headword>
+      <description>grazing.</description>
+    </item>
+    <item>
+      <headword id="d0e323">a’ bhuaile</headword>
+      <description>the milking-place.</description>
+    </item>
+    <item><headword id="d0e331" type="heading" level="h1">9. Apparatus</headword></item>
+    <item>
+      <headword id="d0e336">teadhair (f)</headword>
+      <description>tether.</description>
+    </item>
+    <item>
+      <headword id="d0e345">cipean (m)</headword>
+      <description>tether stake.</description>
+    </item>
+    <item><headword id="d0e353" type="heading" level="h1">10. Diseases</headword></item>
+    <item>
+      <headword id="d0e358">spùt (m)</headword>
+      <description>diarrhoea.</description>
+    </item>
+    <item><headword id="d0e366" type="heading" level="h1">11. Miscellaneous</headword><description>[misnumbered as 12] </description></item>
+    <item>
+      <headword id="d0e371">saogan</headword>
+      <description>call to a calf.</description>
+    </item>
+    <item>
+      <headword id="d0e380">taorais</headword>
+      <description>stop call to a cow.</description>
+    </item>
+  </items>
+</fieldworkDocument>

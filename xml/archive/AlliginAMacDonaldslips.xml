@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 5/8/15 -->
+<!-- illustration -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_AlliginAMacDonaldslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>12/1969</date>
+  <fieldworker>[AJ Smith]</fieldworker>
+  <note>[NOTES: in IPA transcriptions, the fieldworker uses [w] for [ɯ].]</note>
+  <informant>
+    <nameEnglish>Angus MacDonald</nameEnglish>
+  </informant>
+  <location>Ross-shire, Torridon, Alligin</location>
+  <items>
+    <item>
+      <headword id="idp167348792">maide-raingis</headword>
+      <description>[mɑ̃dʹər[ɑ̃ĩ]ɡɑʃ] Notes: wooden slat running along sides of a boat. Seats rest on it.</description>
+    </item>
+    <item>
+      <headword id="idp167344688">màsach</headword>
+      <description>Quotation: “De a’ seorsa eathar a th’ann?” “Tha te deireadh màsach.” Notes: square-sterned boat.</description>
+    </item>
+    <item>
+      <headword id="idp167341232">màsach</headword>
+      <description>Quotation: eathar màsach. Notes: a square-sterned boat.</description>
+    </item>
+    <item>
+      <headword id="idp167363480">mogan</headword>
+      <description>Quotation: Tha fhios gun do dh’fhàg e sud mogan. Notes: said of a person who would be likely to have left quite a bit of money. (mogan – a purse)</description>
+    </item>
+    <item>
+      <headword id="idp167365136">móine</headword>
+      <description>Quotation: móine chopach. Notes: spongy peat.</description>
+    </item>
+    <item>
+      <headword id="idp167366792">rapadaich</headword>
+      <description>Quotation: rapadaich aimsir. Notes: wet and squally weather.</description>
+    </item>
+    <item>
+      <headword id="idp167368448">riaghailteach</headword>
+      <description>Quotation: Tha sin riaghailteach math. Notes: That is reasonably good.</description>
+    </item>
+    <item>
+      <headword id="idp167370104">ròp</headword>
+      <description>Quotation: ròp barraich. Notes: a rope made from plaited strips of birch (prob. “thatching rope”).</description>
+    </item>
+    <item>
+      <headword id="idp167371760">slat-chabrach</headword>
+      <description>Notes: stag with no points on its antlers.</description>
+    </item>
+    <item>
+      <headword id="idp167373272">tobhtag</headword>
+      <description>Notes: a stackyard.</description>
+    </item>
+    <item>
+      <headword id="idp167374784">treasg</headword>
+      <description>Notes: the draff in whisky distilling.</description>
+    </item>
+    <item>
+      <headword id="idp167376296">baide</headword>
+      <description>[bɑdʹə] Quotation: Bha baide againn còmhladh. Notes: There was a group of us together.</description>
+    </item>
+    <item>
+      <headword id="idp167378168">barrach</headword>
+      <description>Quotation: ròp barraich. Notes: a rope made from plaited strips of birch. (prob. “thatching rope”)</description>
+    </item>
+    <item>
+      <headword id="idp167379824">barradh</headword>
+      <description>Quotation: a’ cur barradh air a’ chliabh. Notes: stacking of peats above the mouth of the creel.</description>
+    </item>
+    <item>
+      <headword id="idp167381480">ceann-uiread</headword>
+      <description>Quotation: ceann-uiread na leap. Notes: the “head” of the bed.</description>
+    </item>
+    <item>
+      <headword id="idp167383136">copach</headword>
+      <description>Quotation: móine chopach. Notes: spongy peat.</description>
+    </item>
+    <item>
+      <headword id="idp167384792">cual</headword>
+      <description>Quotation: cual fhraoich. Notes: a bundle.</description>
+    </item>
+    <item>
+      <headword id="idp167386448">deireadh</headword>
+      <description>Quotation: “De seòrsa eathar a th’ann?” “Tha, te [?] deireadh màsach.” Notes: a square-sterned boat.</description>
+    </item>
+    <item>
+      <headword id="idp167388104">dothach</headword>
+      <description>[d̪ɔɔx] Notes: wooden vat which contained the mash in whisky distilling.</description>
+    </item>
+    <item>
+      <headword id="idp167389832">dothach</headword>
+      <description>Notes: large barrel-like vessel.</description>
+    </item>
+    <item>
+      <headword id="idp167391344">eathar</headword>
+      <description>Quotation: eathar màsach. Notes: square-sterned boat.</description>
+    </item>
+    <item>
+      <headword id="idp167393000">fothallan</headword>
+      <description>[fɔhwɫɑṉ] Notes: a polecat.</description>
+    </item>
+    <item>
+      <headword id="idp167394728">gaoirdean</headword>
+      <description>[ɡw:ʴḏɑ̃ṉ] Notes: the arm extending from the head of the “poit-dhubh”. [NOTES: the turned r used for the symbol which is unclear in the original.] </description>
+    </item>
+  </items>
+</fieldworkDocument>

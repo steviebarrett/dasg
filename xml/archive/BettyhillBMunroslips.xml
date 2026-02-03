@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 5/8/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_BettyhillBMunroslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>1969</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <informant>
+    <nameEnglish>Betty Munro</nameEnglish>
+  </informant>
+  <location>Sutherland, Bettyhill</location>
+  <items>
+    <item>
+      <headword id="idp117939024">miotan</headword>
+      <description>[mĩt̪ɑ̃ṉ] Notes: glove.</description>
+    </item>
+    <item>
+      <headword id="idp117940752">iunnlar</headword>
+      <description>[jũ̜:ɫɑɾ] Notes: floor.</description>
+    </item>
+    <item>
+      <headword id="idp117942480">neapaig</headword>
+      <description>[nʹɛ̃piɡʹ] Notes: handkerchief.</description>
+    </item>
+    <item>
+      <headword id="idp117944208">plangaid</headword>
+      <description>[pɫɑŋɡɑdʹ] Notes: blanket.</description>
+    </item>
+    <item>
+      <headword id="idp117945936">tubhailt</headword>
+      <description>[t̪u̜ɑtʹʃ] Notes: towel.</description>
+    </item>
+    <item>
+      <headword id="idp117947664">briuthas</headword>
+      <description>[bɾu̟əs] Notes: broth.</description>
+    </item>
+    <item>
+      <headword id="idp117949392">ceann-chropaidh</headword>
+      <description>[cw̃ṉxɾɔpi] Notes: “ceann-cropaic”.</description>
+    </item>
+    <item>
+      <headword id="idp117951120">griogag</headword>
+      <description>[ɡɾıɤɡɑɡ] Notes: bead.</description>
+    </item>
+  </items>
+</fieldworkDocument>

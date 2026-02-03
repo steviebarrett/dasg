@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 27/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_Sutherlandslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>1967-68</date>
+  <fieldworker>Nancy Dorian?</fieldworker>
+  <informant>
+    <nameEnglish>see below</nameEnglish>
+    <nameGaelic>various </nameGaelic>
+  </informant>
+  <location>Sutherland [see below]</location>
+  <items>
+    <item>
+      <headword id="idp118708624">stràc</headword>
+      <description>Quotation: [strɑ:k/strɑ:x mur/ə vur ɫɔ̃:n] – the mark of the high tide. Notes: used both of the literal high-tide mark on the seashore, and also humorously of the mark on a boy’s neck where he stopped washing. Usually [strɑ:k], younger speakers varying to [strɑ:x]. Common to Golspie and Embo, probably also Barra, though my two principal (aged) Barra informants didn’t come up with it. Source: Mr and Mrs Kenneth MacKay, 16 Gate Street, Embo. Date: spring 1968.</description>
+    </item>
+    <item>
+      <headword id="idp118703296">suibheag</headword>
+      <description>[si:ɑɡ] Notes: a sign of bad weather. A column of reddish light, shaped like the lower half of a rainbow, over the water, ending in the water just as a rainbow would. Common to Barra, Golspie and Embo. Though each speaker varies the description slightly, all agree that it’s a column of coloured light ending in the water and that it marks bad weather to come. N.B. there is a homophonous word in Embo only, which means ‘very red cheeks’ – possibly an extension of meaning for same word? e.g. [de: nə si:ɑɡən ǯerəɡ] ‘what red cheeks!’ Source: John MacRae, 12 Moray Terrace, Brora.</description>
+    </item>
+    <item>
+      <headword id="idp118698976">tràill</headword>
+      <description>[trɑ:lʹ] Quotation: [hɑ nə rɑ:lʹ] ‘He’s a nuisance.’ Notes: Brora – untidy person. Embo – a rascal, a nuisance. The meaning has evidently shifted in Embo. Kenneth MacKay, Gate St., Embo, gave ‘rascal’ as the translation. Source: Sandy MacKay, Hall St., Embo. Date: spring 1968.</description>
+    </item>
+    <item>
+      <headword id="idp118719496">ìobaidh</headword>
+      <description>Quotation: Brora: [i:bi], Embo: [hibɑɡ] – a push, a swing. [hor dɔ̃ i:bi/hibɑɡ] ‘Give me a push (on the swing), give me a swing (on the arm).” Notes: Embo people don’t know the form without h-, Brora vice versa. Source: Mrs John MacRae, 12 Moray Terrace, Brora and Kenneth MacKay, 16 Gate Street., Embo. Date: spring 1968.</description>
+    </item>
+    <item>
+      <headword id="idp118722232">[nʹɤxk]</headword>
+      <description>Quotation: [nʹɤxk] – ghost. [hũniɡ mi nʹɤxk iɡ ...] ‘I saw …’s ghost.’ Notes: common to Brora, Golspie and Embo. Source: Mrs M. MacKay, “Gairlochy”, Main Street, Golspie. Date: 17 March 1968.</description>
+    </item>
+    <item>
+      <headword id="idp118724824">[oʃ]</headword>
+      <description>Quotation: [oʃ] – baldness. [hɑ oʃ er] ‘He’s bald.’ Notes: common to Brora, Golspie and Embo. Also [oʃɑx], Adj. ‘balding’. Source: Mrs M. MacKay, “Gairlochy”, Main Street, Golspie, Sutherland. Date: 17 March 1968.</description>
+    </item>
+    <item>
+      <headword id="idp118727704">barr-a-cùg</headword>
+      <description>[bərəˈk̚u:kᶜ] Notes: the flower of the potato plant. Only Embo speakers know and use this word; unknown in Golspie and Brora. Source: Sandy MacKay, Hall St., Embo. Date: spring 1968.</description>
+    </item>
+    <item>
+      <headword id="idp118729648">[bri:ǯɑɡ]</headword>
+      <description>Quotation: [bri:ǯɑɡ] – blackhead. [brũ:nə mĩ ə vri:ǯɑɡ ɑ də rõ:n] “I’ll press the blackhead in your nose.” Notes: common to Brora, Golspie, and Embo. Source: Mrs Margaret MacKay, “Gairlochy”, Main St., Golspie, Sutherland. Date: 17 March 1968.</description>
+    </item>
+    <item>
+      <headword id="idp118732240">[biəɡɑx]</headword>
+      <description>Quotation: [strõ:nʹɑɡ biəɡɑx!] – “wee nosie!” (said by grandmother to grandchild on her lap). Notes: [biəɡɑx] is smaller than [beɡ], probably “tiny”. Common to Brora, Golspie, and Embo. Source: Mrs Jessie Anne Fraser, 210 Burrage Road, Plumstead, London (native of Embo, Sutherland). Date: 18 February 1968.</description>
+    </item>
+    <item>
+      <headword id="idp118735120">brac</headword>
+      <description>[brɑk] Notes: a fine form of sea-weed growth that attached itself to lines and nets in the early summer and was a great trial to the fishermen. Common to Golspie, and Embo (probably also to Brora, although the old couple I asked didn’t remember it – the man only fished for one season and wasn’t so well up on his fishing terminology as the Embo and Golspie men). Source: Sandy MacKay, 8 Hall St., Embo. Date: spring 1968.</description>
+    </item>
+    <item>
+      <headword id="idp118736992">buidhneach</headword>
+      <description>Quotation: [ɤ wĩ:nɑx] ‘the jaundice’. [hɑ ɤ wĩ:nɑx er] ‘He has the jaundice’. Notes: common to Brora, Golspie, and Embo in this form. Source: Mrs John MacRae, 12 Moray Terrace, Brora. Date: spring 1968.</description>
+    </item>
+    <item>
+      <headword id="idp118739656">[kɑbɤri]</headword>
+      <description>Quotation: [kɑbɤri] – resin. [hɑ pols kɑbɤri ɑs ɤ vɛ̃ǯ] – “There’s a lot of resin in the stick”. Notes: common to Brora, Golspie, and Embo. Resinous sticks were especially sought as fire-kindlers.</description>
+    </item>
+    <item>
+      <headword id="idp118742104">cearcall</headword>
+      <description>[kɛrkɤɫ] [?] Notes: square wooden frame for carrying 2 pails of water; the frame kept the pails from bumping against the carrier’s sides. Common to Embo, Golspie, and Brora. Source: Mr and Mrs Kenneth MacKay, 16 Gate St., Embo. Date: autumn 1967.</description>
+    </item>
+    <item>
+      <headword id="idp118744048">[ɛ̃niɡ]</headword>
+      <description>Quotation: [de: n ɛ̃niɡ iɡ ə ǯe: šɤn!] “What spite that one has.” Notes: common to Brora, Golspie, and Embo. (Not the only word for “spite”, but a common one.) Source: Mrs M. MacKay, “Gairlochy”, Main Street, Golspie, Sutherland. Date: 17 March 1968.</description>
+    </item>
+    <item>
+      <headword id="idp118746280">fotan</headword>
+      <description>Quotation: fotan (fallain). Notes: seaworthy. Fotan is used to mean ‘healthy’, too, but is the term regularly applied in Brora, Golspie, and Embo for a seaworthy boat. Source: Mrs Margaret MacKay, “Gairlochy”, Main Street, Golspie. Date: winter 1968.</description>
+    </item>
+    <item>
+      <headword id="idp118748224">frachd</headword>
+      <description>[frɑxk] Quotation: [hɑ mi dut gɤs ən uɑrɑn ɔrn frɑxk bu:rn] “I’m going to the spring for a load of water.” Notes: a cearcall-load of water, i.e. 2 pails. Still well-remembered in Embo; recognized as an old-fashioned word in Golspie. Source: Mr and Mrs Kenneth MacKay, 16 Gate St., Embo. Date: spring 1968.</description>
+    </item>
+    <item>
+      <headword id="idp118750456">fraoidh</headword>
+      <description>[frɤi] Quotation: [xɔ fošk ri frɤi] used to mean “wide open”, but no one knows what [frɤi] is, or how to use it in any other context. Notes: common to Brora, Golspie, and Embo. Source: Mr and Mrs Kenneth MacKay, 16 Gate St., Embo. Date: spring 1968.</description>
+    </item>
+    <item>
+      <headword id="idp118752976">gòrdag</headword>
+      <description>[ɡɔ:rdɑɡ] Quotation: [ɡɔ:rdɑɡ fe:r] ‘an armload of hay, grass’. Notes: Common to Brora, Golspie, and Embo. (Presumably &lt;gàrrdeag&gt; [?] ‘an armload’.) Source: Mr and Mrs Kenneth MacKay, 16 Gate St., Embo. Date: winter 1968.</description>
+    </item>
+  </items>
+</fieldworkDocument>

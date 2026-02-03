@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?><!-- checked by MM on 3 6 14 --><!-- illustrations! --><fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="AOHenley_GlasgowIandMrsRMacDonaldbiadh" docType="questionnaire" subType="BiadhIsDeoch" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Biadh is Deoch / Food and Drink</title>
+  <date>[1987-88]</date>
+  <fieldworker personId="ohenleya">A. O’Henley</fieldworker>
+  <informant>
+    <nameEnglish>Ishbel and Mrs R. MacDonald</nameEnglish>
+    <origin>Uibhist a’ Deas [South Uist]</origin>
+  </informant>
+  <location>Glasgow</location>
+  <items>
+    <item><headword id="d0e30" type="heading" level="h1">1. Na tràthan</headword></item>
+    <item>
+      <headword id="idp112423352">bròs</headword>
+      <description>form of porridge made with corn. Taken for breakfast.</description>
+    </item>
+    <item><headword id="d0e43" type="heading" level="h1">2. Am biadh a bhidhte gabhail aig gach tràth</headword></item>
+    <item>
+      <headword id="idp112429040">lìte</headword>
+      <description>taken at supper time. Made with oatmeal or Indian meal.</description>
+    </item>
+    <item>
+      <headword id="idp112528544">falaraidh</headword>
+      <description>word associated with funeral costs and expenses. “A’ dol a dh’iarraidh falaraidh.” Also used for the cheese, biscuits and drink available after a funeral.</description>
+    </item>
+    <item>
+      <headword id="idp112523720">easair</headword>
+      <description>an oatmeal orientated drink likely to be used to quench the thirst.</description>
+    </item>
+    <item><headword id="d0e74" type="heading" level="h1">Biadh aig amanan sonraichte ’sa bhliadhna</headword></item>
+    <item>
+      <headword id="idp112444088">strùthan</headword>
+      <description>aig Feill Mhicheil.</description>
+    </item>
+    <item>
+      <headword id="idp112535024">caora nollag [sic]</headword>
+    </item>
+    <item><headword id="d0e93" type="heading" level="h1">3. Dòighean air biadh a dheasachadh</headword></item>
+    <item>
+	  <headword id="idola10">hearth</headword>
+	  <description><illustration src="GlasgowIandMrsRMacDonaldbiadhillust1.jpg" width="300"/>baking placed in hot alcoves (could not remember the word for this).</description>
+    </item>
+	<item><headword id="d0e107" type="heading" level="h1">4. Fuine</headword></item>
+    <item>
+      <headword id="idp112508816">clàr fuinne</headword>
+      <description>sloped so that the flour would not fall off.<illustration src="GlasgowIandMrsRMacDonaldbiadhillust2.jpg" width="300"/></description>
+    </item>
+    <item>
+      <headword id="idp112493336">aran corc</headword>
+    </item>
+    <item>
+      <headword id="idp112506152">aran eorna</headword>
+    </item>
+    <item>
+      <headword id="idp112506296">aran Innsainneach</headword>
+    </item>
+    <item>
+      <headword id="idp112500968">taois</headword>
+      <description>dough.</description>
+    </item>
+    <item>
+      <headword id="idp112492904">ga thoinneamh</headword>
+      <description>kneading.</description>
+    </item>
+    <item>
+      <headword id="idp112499744">breacag arain</headword>
+    </item>
+    <item><headword id="d0e163" type="heading" level="h1">5. Deochan dhe gach seòrsa</headword></item>
+    <item>
+      <headword id="idp112527680">leann nan biastan</headword>
+      <description>hops which are put in a bottle with sugar and water left to ferment and used to quench the thirst.</description>
+    </item>
+    <item>
+      <headword id="idp112539560">blàthach</headword>
+      <description>excess juice left after making butter.</description>
+    </item>
+    <item>
+      <headword id="idp112523792">mùig</headword>
+      <description>liquid that is left after making cheese.</description>
+    </item>
+    <item>
+      <headword id="idp112513928">deisgeann</headword>
+      <description>rennet.</description>
+    </item>
+    <item>
+      <headword id="idp112466768">gruth</headword>
+      <description>crowdie.</description>
+    </item>
+    <item>
+      <headword id="idp112458056">na riuchd fhein</headword>
+      <description>in its own right.</description>
+    </item>
+    <item><headword id="d0e221" type="heading" level="h1">6. Biadh no deoch a bhidhte deanamh gu sònraichte do luchd euslan</headword></item>
+    <item>
+      <headword id="idp112439336">càmhraich</headword>
+      <description>oatmeal and gruel steeped in water to be used to alleviate colds. To be found in ‘port a beul’ Ann a Bodaich na ho.</description>
+    </item>
+    <item>
+      <headword id="idp112489088">fualaid</headword>
+      <description>poultice made with bread.</description>
+    </item>
+    <item>
+      <headword id="idp112046664">gob-a’-choillich</headword>
+      <description>salted butter which is heated and used for the same purpose as a poultice.</description>
+    </item>
+    <item><headword id="d0e252" type="heading" level="h1">7. Nithean a bhiodh ann nuair a rachadh beathach a mharbhadh (missing)</headword></item>
+    <item><headword id="d0e256" type="heading" level="h1">8. Faclan sam bith eile (missing)</headword></item>
+  </items>
+</fieldworkDocument>

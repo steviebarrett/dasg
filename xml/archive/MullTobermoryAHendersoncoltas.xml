@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 13 4 14 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="TireeandMull_MullTobermoryAHendersoncoltas" docType="questionnaire" subType="ColtasAnDuine" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Coltas an Duine / Personal Appearance</title>
+  <fieldworker>[Alan Boyd]</fieldworker>
+  <informant>
+    <nameEnglish>Angus Henderson</nameEnglish>
+    <nameGaelic>Aonghas MacEanruig </nameGaelic>
+    <age>79</age>
+    <origin>Muile (ceann a tuath) [Mull (the north side)]</origin>
+  </informant>
+  <location>Muile, Tobar Mhoire [Mull, Tobermory]</location>
+  <items>
+    <item><headword id="d0e32" type="heading" level="h1">Shapes and general appearance</headword></item>
+    <item>
+      <headword id="d0e37">slaodaire</headword>
+      <description>large clumsy person.</description>
+    </item>
+    <item>
+      <headword id="d0e46">spliutaire</headword>
+      <description>untidy person (duine luideach).</description>
+    </item>
+    <item>
+      <headword id="d0e55">spleadhach</headword>
+      <description>splay-footed.</description>
+    </item>
+    <item>
+      <headword id="d0e64">fear splioch</headword>
+      <description>one with splay feet.</description>
+    </item>
+    <item>
+      <headword id="d0e73">cuagach</headword>
+      <description>hen-toed.</description>
+    </item>
+    <item><headword id="d0e81" type="heading" level="h1">Deformities, blemishes, scars</headword></item>
+    <item>
+      <headword id="d0e86">lòt</headword>
+      <description>wound.</description>
+    </item>
+    <item>
+      <headword id="d0e95">larach a’ bhric</headword>
+      <description>pox marks.</description>
+    </item>
+    <item>
+      <headword id="d0e104">mìann (f)</headword>
+      <description>birthmark, mole.</description>
+    </item>
+    <item><headword id="d0e112" type="heading" level="h1">Beauty and ugliness</headword></item>
+    <item>
+      <headword id="d0e117">caileag eireachdail</headword>
+      <description>a good looker.</description>
+    </item>
+    <item>
+      <headword id="d0e126">’ga deanadh fhéin a suas</headword>
+      <description>dolling up.</description>
+    </item>
+    <item>
+      <headword id="d0e135">[cachd]</headword>
+      <description>Nach eil thu cho briagach ri cù cèaird agus cachd air a thon!!</description>
+    </item>
+    <item>
+      <headword id="d0e144">[salchar]</headword>
+      <description>Chan eil annad ach salchar cachdach!!</description>
+    </item>
+    <item>
+      <headword id="d0e153">Duine breun bruideil!</headword>
+    </item>
+    <item>
+      <headword id="d0e159">Fear gun feum .</headword>
+    <description>[sic] </description></item>
+    <item>
+      <headword id="d0e165">Chan eil feum annad.</headword>
+    </item>
+    <item><headword id="d0e170" type="heading" level="h1">Strength, fitness and the opposite</headword></item>
+    <item>
+      <headword id="d0e175">neart</headword>
+      <description>strength.</description>
+    </item>
+    <item>
+      <headword id="d0e184">luige</headword>
+      <description>weakness.</description>
+    </item>
+    <item>
+      <headword id="d0e193">sgairt</headword>
+      <description>fitness.</description>
+    </item>
+    <item>
+      <headword id="d0e202">duine sgairteil</headword>
+      <description>a fit man.</description>
+    </item>
+    <item>
+      <headword id="d0e211">duine anamhin</headword>
+      <description>an unfit man.</description>
+    </item>
+    <item>
+      <headword id="d0e220">anamhidheachd</headword>
+      <description>unfitness.</description>
+    </item>
+    <item>
+      <headword id="d0e229">fear bruidhneach</headword>
+      <description>a talkative man.</description>
+    </item>
+    <item><headword id="d0e237" type="heading" level="h1">Ways of walking, sitting, lying</headword></item>
+    <item>
+      <headword id="d0e242">clìobach</headword>
+      <description>clumsy. Duine clìobach – a clumsy man.</description>
+    </item>
+    <item>
+      <headword id="d0e251">fifeanach</headword>
+      <description>figity [sic] [fidgety?].</description>
+    </item>
+    <item>
+      <headword id="d0e260">[slaod]</headword>
+      <description>Chan eil ann ach slaod a dhuine – he’s only a slouch.</description>
+    </item>
+    <item>
+      <headword id="d0e269">a’ coiseachd sgairteil</headword>
+      <description>walking smartly.</description>
+    </item>
+    <item>
+      <headword id="d0e278">[gasda]</headword>
+      <description>A’ suidhe gu gasda anns a’ chathair – sitting up straight.</description>
+    </item>
+    <item><headword id="d0e286" type="heading" level="h1">Pulling faces, frowns, other expressions</headword></item>
+    <item>
+      <headword id="d0e291">cur còrraigean air t’aodainn</headword>
+      <description>pulling faces.</description>
+    </item>
+    <item>
+      <headword id="d0e300">duine mùgach</headword>
+      <description>sullen-faced person.</description>
+    </item>
+    <item>
+      <headword id="d0e309">fiamh a’ ghaire</headword>
+      <description>smile.</description>
+    </item>
+    <item>
+      <headword id="d0e318">a’ caogadh</headword>
+      <description>winking.</description>
+    </item>
+    <item>
+      <headword id="d0e327">a’ priopadh</headword>
+      <description>blinking.</description>
+    </item>
+    <item><headword id="d0e335" type="heading" level="h1">Clean and untidy</headword></item>
+    <item>
+      <headword id="d0e340">hùb-hàb</headword>
+      <description>in turmoil – not in Mull. [NOTES: this word was provided as an example by the authors of the questionnaire. Mr Boyd crossed it out and added the note ‘not in Mull’.]</description> 
+    </item>
+    <item>
+      <headword id="d0e349">luideach</headword>
+      <description>untidy.</description>
+    </item>
+    <item>
+      <headword id="d0e358">ropach</headword>
+      <description>untidy.</description>
+    </item>
+    <item>
+      <headword id="d0e367">salach</headword>
+    </item>
+    <item>
+      <headword id="d0e373">glan</headword>
+    </item>
+  </items>
+</fieldworkDocument>

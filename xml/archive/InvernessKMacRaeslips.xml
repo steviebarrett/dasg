@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 1/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_InvernessKMacRaeslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>05/1969</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <informant>
+    <nameEnglish>Kenneth MacRae</nameEnglish>
+    <age>c. 65?</age>
+    <origin>Applecross</origin>
+  </informant>
+  <location>Inverness</location>
+  <items>
+    <item>
+      <headword id="idp115749160">meanbh-chuileag</headword>
+      <description>[mɛ̃ṉɛxu̟lɑɡ] Notes: midge.</description>
+    </item>
+    <item>
+      <headword id="idp115750888">sneangan</headword>
+      <description>[ʃnʹɛ̃ɣɑ̃ṉ] Notes: ant.</description>
+    </item>
+    <item>
+      <headword id="idp115752616">sonasan</headword>
+      <description>[sɔ̃ṉɑsɑṉ] Notes: a frog.</description>
+    </item>
+    <item>
+      <headword id="idp115754344">tarbh-mór-nathair-neimh</headword>
+      <description>Notes: dragonfly.</description>
+    </item>
+    <item>
+      <headword id="idp115755856">umhag</headword>
+      <description>[ũ̜ɑ̃ɡ] Notes: sheep-tick.</description>
+    </item>
+    <item>
+      <headword id="idp115757584">ceanna-phollan</headword>
+      <description>[cɑ̃n̪ɑfoɫɑṉ] Notes: a tadpole.</description>
+    </item>
+    <item>
+      <headword id="idp115759312">corra-chòsag</headword>
+      <description>Notes: slater.</description>
+    </item>
+    <item>
+      <headword id="idp115760824">creileag</headword>
+      <description>[kɾɛlɑɡ] Notes: cleg.</description>
+    </item>
+    <item>
+      <headword id="idp115762552">gràbas</headword>
+      <description>[ɡɾɑ:bəs] Notes: “crab-louse”.</description>
+    </item>
+  </items>
+</fieldworkDocument>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 24 4 13 -->
+<fieldworkDocument docId="Peat_BerneraNCampbellpeat" docType="wordlist" subType="Peat">
+  <title>Mòine / Peat-Working</title>
+  <date>April 1962</date>
+  <fieldworker>John A. Morrison</fieldworker>
+  <note>[NOTES: the original title of the list is “Peat-Cutting and Handling”.]</note>
+  <informant>
+    <nameEnglish>Neil Campbell</nameEnglish>
+    <age>48</age>
+    <origin>Harris, Bernera</origin>
+  </informant>
+  <location>Harris, Bernera</location>
+  <!-- illustrations -->
+  <items>
+    <item>
+      <headword id="d0e38">feanntach</headword>
+      <description>turf.</description>
+    </item>
+    <item>
+      <headword id="d0e47">a’ feannadh</headword>
+      <description>taking off the turf.</description>
+    </item>
+    <item>
+      <headword id="d0e56">a’ glanadh</headword>
+      <description>cutting off the remaining turf.</description>
+    </item>
+    <item>
+      <headword id="d0e65">am barrad (bàrr fhàd)</headword>
+      <description>first tier of peat in the bog.</description>
+    </item>
+    <item>
+      <headword id="d0e74">an gàradh</headword>
+      <description>second tier of peat in the bog.</description>
+    </item>
+    <item>
+      <headword id="d0e83">an caoran</headword>
+      <description>third row of peat in the bog.</description>
+    </item>
+    <item>
+      <headword id="d0e92">an colfhad (cùl fhad)</headword>
+      <description>the first peat cut in the tier.</description>
+    </item>
+    <item>
+      <headword id="d0e101">gàradh</headword>
+      <description>arrangement used to dry the peat.
+        <illustration src="BerneraNCampbellpeatillust1.jpg" width="300"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e112">sgaoilteach</headword>
+      <description>the ground on which the peat is dried.</description>
+    </item>
+    <item>
+      <headword id="d0e121">rùghan</headword>
+      <description>the first heap made of the peats when lifting them.</description>
+    </item>
+    <item>
+      <headword id="d0e130">cruach</headword>
+      <description>the second heap made of the peats when lifting them (this one is bigger [than ‘rùghan’ (q.v.)]).</description>
+    </item>
+    <item>
+      <headword id="d0e139">an t-iaran mònadh (truimhsgeir)</headword>
+      <description>peat cutting iron. 
+        <illustration src="BerneraNCampbellpeatillust2.jpg" width="200"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e150">cliabh monadh</headword>
+      <description>the creel used for carrying the peats.</description>
+    </item>
+    <item>
+      <headword id="d0e159">slat bheoil</headword>
+      <description>the rod round the top of the creel.</description>
+    </item>
+    <item>
+      <headword id="d0e168">breagan</headword>
+      <description>the rectangular holes half-way up the creel.</description>
+    </item>
+    <item>
+      <headword id="d0e177">tadhaiste</headword>
+      <description>bottom of the creel. ??</description>
+    </item>
+    <item>
+      <headword id="d0e186">iris</headword>
+      <description>rope for fastening it [the creel] on your shoulder.</description>
+    </item>
+  </items>
+</fieldworkDocument>

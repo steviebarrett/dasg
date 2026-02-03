@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 1/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_GolspieMrandMrsMacRaeslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>1969</date>
+  <fieldworker>[AJ Smith]</fieldworker>
+  <informant>
+    <nameEnglish>Mr and Mrs Angus MacRae</nameEnglish>
+    <origin>Assynt (Mr MacRae) and Achiltibuie (Mrs MacRae)</origin>
+  </informant>
+  <location>Sutherland, Golspie</location>
+  <items>
+    <item>
+      <headword id="idp166437368">làir-mhaide</headword>
+      <description>Notes: see-saw.</description>
+    </item>
+    <item>
+      <headword id="idp166438880">leamhnad</headword>
+      <description>[lʹɛ̃ũ̟ṉəd̪] Notes: sty.</description>
+    </item>
+    <item>
+      <headword id="idp166440608">maide-ri-froigh</headword>
+      <description>[mɑ̃dʹəɾifɾɤi] Notes: horizontal piece of wood going down the length of the stalls to which the cow’s halter is tied.</description>
+    </item>
+    <item>
+      <headword id="idp166442336">nasg</headword>
+      <description>[n̪ɑ̃sɡ] Notes: rope securing a cow in a stall.</description>
+    </item>
+    <item>
+      <headword id="idp166444064">starrach</headword>
+      <description>[st̪ɑrɑx] Notes: cunning, full of guile.</description>
+    </item>
+    <item>
+      <headword id="idp166445792">crambag</headword>
+      <description>[kɾɑ̃ũ̟bɑɡ] Notes: pancake.</description>
+    </item>
+    <item>
+      <headword id="idp166447520">fudalan</headword>
+      <description>Notes: swivel.</description>
+    </item>
+    <item>
+      <headword id="idp166449032">glain’-amhairc</headword>
+      <description>[ɡɫɑ̃nʹɑu̟ɾıc] Notes: binoculars.</description>
+    </item>
+  </items>
+</fieldworkDocument>

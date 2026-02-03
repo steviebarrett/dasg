@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 27/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_StrathCMacRaeslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>12/1969</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <informant>
+    <nameEnglish>Catherine MacRae</nameEnglish>
+    <origin>Harris [?]</origin>
+  </informant>
+  <location>Ross-shire, Gairloch, Strath</location>
+  <items>
+    <item>
+      <headword id="idp115456808">snàth</headword>
+      <description>Quotation: snàth cuthaigidh. Notes: marl wool.</description>
+    </item>
+    <item>
+      <headword id="idp115481504">cuthaigeadh</headword>
+      <description>Quotation: snàth cuthaigidh. Notes: marl wool.</description>
+    </item>
+  </items>
+</fieldworkDocument>

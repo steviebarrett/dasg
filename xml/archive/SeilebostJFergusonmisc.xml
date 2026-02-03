@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 11 9 14 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="AJSmith_SeilebostJFergusonmisc" docType="wordlist" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>June 1970</date>
+  <fieldworker>A. J. Smith</fieldworker>
+  <note>[NOTES: in IPA transcriptions, the fieldworker uses [w] for [ɯ].]</note>
+
+  <informant>
+    <nameEnglish>John Ferguson</nameEnglish>
+    <origin>Harris, Bays</origin>
+  </informant>
+  <location>Harris, Seilebost, P.O.</location>
+  <items>
+    <item>
+      <headword id="idp118714520">peirceall</headword>
+      <description>[peɾcəɫ] Quot.: “peirceall poll mónach”. Note: sometimes used for the face of a peat bank.</description>
+    </item>
+    <item>
+      <headword id="idp118734968">fàl</headword>
+      <description>Quot.: “Tha’n tigh aige ri fàl a’ rathaid.” Note: His house is beside the road.</description>
+    </item>
+    <item>
+      <headword id="idp118735040">fideach</headword>
+      <description>[fidʹɑx] Note: tidal flats. (Covered by very high tides. Short, very green grass grows on it and is very good for sheep and cattle.)</description>
+    </item>
+    <item>
+      <headword id="idp118748792">dìthean</headword>
+      <description>Note: a flower.</description>
+    </item>
+    <item>
+      <headword id="idp118713224">sèicle</headword>
+      <description>[ʃɛ:clə] Note: the flyer of the spinning wheel.</description>
+    </item>
+    <item>
+      <headword id="idp118752896">biùirne</headword>
+      <description>[bȷu̜:ʴnʹə] Note: pirn. [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+    <item>
+      <headword id="idp118715240">roileir</headword>
+      <description>[rɔlɛð] Note: a roller on the spinning wheel (holding the “bann beag”).</description>
+    </item>
+    <item>
+      <headword id="idp118765784">siol-coise</headword>
+      <description>[ʃwɫkɔʃə] Note: the foot-board of the spinning wheel.</description>
+    </item>
+    <item>
+      <headword id="idp118822664">slifeag</headword>
+      <description>[ʃlʹifɑɡ] Note: the arm from the foot-board of the spinning wheel to the wheel itself.</description>
+    </item>
+    <item>
+      <headword id="idp118721432">rollag</headword>
+      <description>[rɔɫɑɡ] Note: strip of carded wool.</description>
+    </item>
+    <item>
+      <headword id="idp118808480">gualainn</headword>
+      <description>Quot.: “na guaillean”. Note: the two uprights on the spinning [wheel] on which the ends of the wheel axle rest.</description>
+    </item>
+    <item>
+      <headword id="idp118718768">feannag</headword>
+      <description>[fȷɑ̃n̪ɑɡ] Note: a lazy-bed.</description>
+    </item>
+    <item>
+      <headword id="idp118824896">leoba</headword>
+      <description>[lʹɤu̜bə] Note: a fair-sized field.</description>
+    </item>
+    <item>
+      <headword id="idp118742888">batal</headword>
+      <description>[bɑt̪əɫ] Quot.: “batal fhaoileag”. Note: a flock of seagulls, usually when on the ground.</description>
+    </item>
+    <item>
+      <headword id="idp118831016">cabhach</headword>
+      <description>[kɑvɑx] Quot.: “cabhach ruadh”, “cabhach dubh”. Note: used of a colour when it is faded, or a slight admixture of another colour in it, making it look less attractive.</description>
+    </item>
+    <item>
+      <headword id="idp118799120">eitneach</headword>
+      <description>[etʹnʹɔx] Note: stumps of heather left in a place which had been burnt.</description>
+    </item>
+    <item>
+      <headword id="idp118718840">falaisg</headword>
+      <description>[fɑɫiʃɡʹ] Note: heather fire.</description>
+    </item>
+    <item>
+      <headword id="idp118786664">fraoch-sgriach</headword>
+      <description>[fɾw:xsɡɾiɑx] Note: type of heather with a purple flower which burns quickly and very noisily.</description>
+    </item>
+    <item>
+      <headword id="idp118726040">calcaire</headword>
+      <description>[kɑɫkəðə] Note: plug of string mixed with tar put into air hole of fishing buoy.</description>
+    </item>
+    <item>
+      <headword id="idp118781336">feanntach</headword>
+      <description>[fȷɑ̃ũ̜n̪t̪ɑx] Note: turf on peat.</description>
+    </item>
+    <item>
+      <headword id="idp118721288">tolm</headword>
+      <description>[t̪ɔlɔm] Note: a small hillock – 2-3 ft high.</description>
+    </item>
+    <item>
+      <headword id="idp118744976">cnèabailt</headword>
+      <description>[kɾɛ̃:bılʹtʹ] Note: garter.</description>
+    </item>
+    <item>
+      <headword id="idp118771184">sprùilleach</headword>
+      <description>Note: fragments, crumbs.</description>
+    </item>
+  </items>
+</fieldworkDocument>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 7/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_KilmichaelMacKeithslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>04/1968</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <note>[NOTES: according to the card index of informants: MacKeich (Brothers – one called John).]</note>
+  <informant>
+    <nameEnglish>MacKeith</nameEnglish>
+    <age>70s</age>
+    <origin>Carradale area</origin>
+  </informant>
+  <location>Argyll, Carradale, Kilmichael Farm</location>
+  <items>
+    <item>
+      <headword id="idp118885752">pollag</headword>
+      <description>Notes: potato pit. (Moidart)</description>
+    </item>
+    <item>
+      <headword id="idp118887264">sluasaid</headword>
+      <description>Notes: long handled shovel, for cleaning bottom of drain.</description>
+    </item>
+    <item>
+      <headword id="idp118888848">beairt</headword>
+      <description>Notes: plough.</description>
+    </item>
+    <item>
+      <headword id="idp118890360">caibe</headword>
+      <description>Quotation: caibe-mór. Notes: drainage shovel.</description>
+    </item>
+  </items>
+</fieldworkDocument>

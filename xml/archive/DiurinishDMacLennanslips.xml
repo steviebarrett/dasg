@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 10/8/15 -->
+<!-- illustrations -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_DiurinishDMacLennanslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>03/1970</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <informant>
+    <nameEnglish>Donald MacLennan</nameEnglish>
+  </informant>
+  <location>Ross-shire, Plockton, Diurinish</location>
+  <items>
+    <item>
+      <headword id="idp162334328">rùbhan</headword>
+      <description>Quotation: rùbhan mòine.</description>
+    </item>
+    <item>
+      <headword id="idp162331664">slat</headword>
+      <description>Quotation: cabar-slatach.</description>
+    </item>
+    <item>
+      <headword id="idp162348368">pùlas</headword>
+      <description>Notes: pail or pot handle.</description>
+    </item>
+    <item>
+      <headword id="idp162349880">toirsginn</headword>
+    <description>[t̪ɔʴsɡʹĩnʹ] </description></item>
+    <item>
+      <headword id="idp162351608">ùrlar</headword>
+      <description>Quotation: ùrlar a’ bhaic. Notes: cut area of peat.</description>
+    </item>
+    <item>
+      <headword id="idp162353264">bainne</headword>
+      <description>Quotation: bainne slaman. Notes: curdled milk (rennet added to warm milk).</description>
+    </item>
+    <item>
+      <headword id="idp162354920">cìrean</headword>
+      <description>Notes: ridging on a thatched roof. <illustration src="DiurinishDMaclennanslipsillust1.jpg" width="200"/></description>
+    </item>
+    <item>
+      <headword id="idp162356432">còmhrad</headword>
+      <description>[kɔ̃:rəd̪] Notes: straight.</description>
+    </item>
+    <item>
+      <headword id="idp162358160">cròic</headword>
+      <description>Notes: muzzle put on calves to prevent them suckling.</description>
+    </item>
+    <item>
+      <headword id="idp162359672">diaball</headword>
+      <description>[dʹiɤbəɫ] Notes: eaves, the thatch projecting over the top of the wall.</description>
+    </item>
+    <item>
+      <headword id="idp162361472">dlòdhan</headword>
+      <description>Quotation: dlòdhan sneachd. Notes: snowflake.</description>
+    </item>
+    <item>
+      <headword id="idp162363128">fairich</headword>
+      <description>Notes: always used for “hear”.</description>
+    </item>
+    <item>
+      <headword id="idp162364640">fir-chlisnich</headword>
+      <description>Notes: aurora borealis.</description>
+    </item>
+    <item>
+      <headword id="idp162366152">fluichneadh</headword>
+      <description>[flıçṉəɣ] Quotation: fluichneadh shneachd. Notes: sleet.</description>
+    </item>
+  </items>
+</fieldworkDocument>

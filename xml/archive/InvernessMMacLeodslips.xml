@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 1/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_InvernessMMacLeodslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>02/1969</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <informant>
+    <nameEnglish>M. MacLeod</nameEnglish>
+  </informant>
+  <location>Inverness (Gaelic Supervisor)</location>
+  <items>
+    <item>
+      <headword id="idp115451296">ceannan</headword>
+      <description>Notes: measure used in Barra.</description>
+    </item>
+  </items>
+</fieldworkDocument>

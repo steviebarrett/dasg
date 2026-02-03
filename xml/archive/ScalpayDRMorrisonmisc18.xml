@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 5 2 15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="DRMorrisonetal_ScalpayDRMorrisonmisc18" docType="wordlist" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>1975</date>
+  <fieldworker>[self]</fieldworker>
+  <note>[NOTES: the words have been slipped and therefore, apart from the definitions provided by Mr Morrison, the definitions as they appear on the slips have also been included (unless the two were the same).]</note>
+  <informant>
+    <nameEnglish>D.R. Morrison</nameEnglish>
+    <nameGaelic>D.R. Moireasdan </nameGaelic>
+    <age>[55]</age>
+  </informant>
+  <location>Na Hearadh, Scalpaigh [Harris, Scalpay]</location>
+  <items>
+    <item>
+      <headword id="idola389" type="heading" level="h1">Word-list (‘Cruinneachadh de dh’fhaclan’)</headword>
+    </item>
+    <item>
+      <headword id="idp120784016">òrd-tollaidh</headword>
+      <description>an eight pound hammer for striking the hand drill.</description>
+    </item>
+    <item>
+      <headword id="idp120780344">òrd-ladhrach</headword>
+      <description>claw hammer.</description>
+    </item>
+    <item>
+      <headword id="idp120802088">mart-làmhaig</headword>
+      <description>a cow for the slaughter, or a cow for slaughtering.</description>
+    </item>
+    <item>
+      <headword id="idp120803888">luidreadh</headword>
+      <description>wallowed. Air a luidreadh anns a’ pholl. [SLIP: Wallowing.]</description>
+    </item>
+    <item>
+      <headword id="idp120806048">smèiteadh</headword>
+      <description>waving to a person (colloquially spelt). Perhaps you may spell it smèideadh. I spelt it here the way it is pronounced on Scalpay. [SLIP: Phonetic spelling of ‘smèideadh’ – waving.]</description>
+    </item>
+    <item>
+      <headword id="idp120807704">snagadaich</headword>
+      <description>a movement of teeth, striking against one another as in the cold. [SLIP: Chattering (of teeth with the cold).]</description>
+    </item>
+    <item>
+      <headword id="idp120809000">plathart</headword>
+      <description>slab [slap?], slab [slap?] in the face.</description>
+    </item>
+    <item>
+      <headword id="idp120811952">fuaradh</headword>
+      <description>non stop, very talkative person. Cha deachaidh fuaradh air o thàinig sinn an seo an diugh – referring to a talkative person. (Scalpay)</description>
+    </item>
+    <item>
+      <headword id="idp120813968">greim</headword>
+      <description>stitch.</description>
+    </item>
+    <item>
+      <headword id="idp120815048">greimich</headword>
+      <description>hold on. Greimich ris.</description>
+    </item>
+    <item>
+      <headword id="idp120815984">greim</headword>
+      <description>pain. Greim ’na thaobh. (Scalpay)</description>
+    </item>
+    <item>
+      <headword id="idp120875960">sgrudadh</headword>
+      <description>swearing. Rinn e ’n sgrùdadh sin dha. (Scalpay)</description>
+    </item>
+    <item>
+      <headword id="idp120873728">cleitreach</headword>
+      <description>(also) a flighty female.</description>
+    </item>
+    <item>
+      <headword id="idp120870992">lasgan</headword>
+      <description>laugh, loud laugh, guffaw.</description>
+    </item>
+    <item>
+      <headword id="idp120870344">lasganaich</headword>
+      <description>laughing loudly, convulsive laughing. (Scalpay)</description>
+    </item>
+    <item>
+      <headword id="idp120868904">cha tiochd</headword>
+      <description>wasn’t enough seen, without going any further, Scalpay version.</description>
+    </item>
+    <item>
+      <headword id="idp120867248">di-bhearsain</headword>
+      <description>fun. [NOTES: the slip has ‘dibhearsain’.]</description>
+    </item>
+    <item>
+      <headword id="idp120865088">fàs-dhiobhairt</headword>
+      <description>nausea, feeling sea-sick.</description>
+    </item>
+    <item>
+      <headword id="idp120863648">farcluais</headword>
+      <description>peeping.</description>
+    </item>
+    <item>
+      <headword id="idp120860912">sgearb</headword>
+      <description>beam, ray, ray of sunshine.</description>
+    </item>
+    <item>
+      <headword id="idp120861776">sgiofadh</headword>
+      <description>Cha do gheàrr e sgiobhadh [sic] – he didn’t move a limb. (Scalpay) [SLIP: ‘He didn’t move a muscle’.]</description>
+    </item>
+    <item>
+      <headword id="idp120858608">sgiobhadh</headword>
+      <description>tremble, alternative perhaps [see sgiofadh]. Cha do gheàrr e crith.</description>
+    </item>
+    <item>
+      <headword id="idp120855584">sgiorrag</headword>
+      <description>little time. Cha dean thu sin ann an sgiorraig. (Scalpay)</description>
+    </item>
+    <item>
+      <headword id="idp120852776">fiochd</headword>
+      <description>bite, bit. Cha d’fhuair sinn fiochd. [SLIP: Bite.]</description>
+    </item>
+    <item>
+      <headword id="idp120851768">piochd</headword>
+      <description>[See fiochd] but perhaps not quite, as fiochd may have developed from fiach etc. Piochd of the nibbling portion, morsel size. [SLIP: See ‘fiochd’. Also nibble, morsel, portion.]</description>
+    </item>
+    <item>
+      <headword id="idp120849536">pléistireachd</headword>
+      <description>pleasuring, boating or boating for pleasure.</description>
+    </item>
+    <item>
+      <headword id="idp120847736">placadh</headword>
+      <description>plating, plaster. Phlac e air a mhuin e. (Scalpay) [NOTES: slipped under ‘placadh’ and ‘plac’.]</description>
+    </item>
+    <item>
+      <headword id="idp120846152">flodach</headword>
+      <description>lukewarm (Scalpay). Burn flodach. [NOTES: the slip has ‘bùrn flodach’.]</description>
+    </item>
+    <item>
+      <headword id="idp120844712">fracais</headword>
+      <description>wreckage.</description>
+    </item>
+    <item>
+      <headword id="idp120842480">fàgail</headword>
+      <description>deficiency. Tha ’n fhàgail sin air.</description>
+    </item>
+    <item>
+      <headword id="idp120840824">piocadh</headword>
+      <description>picking.</description>
+    </item>
+    <item>
+      <headword id="idp120839024">rup</headword>
+      <description>sale. Tha e dha rup – putting it on sale, or offering it for sale. [SLIP: Up for sale.]</description>
+    </item>
+    <item>
+      <headword id="idp120838376">rablach</headword>
+      <description>untidy. Tha e neo i cho rablach – so untidy.</description>
+    </item>
+    <item>
+      <headword id="idp120835712">raoidhse</headword>
+      <description>race. Raoidhs aice ’dol seachad air an uinneig.</description>
+    </item>
+    <item>
+      <headword id="idp120833264">fiaite</headword>
+      <description>quietly. Chaidh e stigh cho fiaite (spelt colloquially) ’s a b’ urrain dha. I doubt if it’s the same as fiata?</description>
+    </item>
+  </items>
+</fieldworkDocument>

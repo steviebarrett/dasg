@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 23 4 13 -->
+<fieldworkDocument docId="Games_NethyBridgeNSmithgames" docType="questionnaire" subType="RecreationToysGamesContests">
+  <title>Cur-seachadan: Dèideagan, Geamaichean is Farpaisean / Recreation: Toys, Games, Contests</title>
+  <fieldworker>self</fieldworker>
+  <informant>
+    <nameEnglish>Noel Smith</nameEnglish>
+    <age>38</age>
+    <origin>Inverness-shire, Nethy Bridge</origin>
+  </informant>
+  <location>Inverness-shire, Nethy Bridge</location>
+  <items>
+    <item><headword id="d0e29" type="heading" level="h1">1. Toys</headword></item>
+    <item><headword id="d0e33" type="heading" level="h1">2. Swings, see-saws</headword></item>
+    <item><headword id="d0e37" type="heading" level="h1">3. Games played indoors</headword></item>
+    <item><headword id="d0e41" type="heading" level="h1">4. Outdoor games not involving a ball or puck</headword></item>
+    <item><headword id="d0e45" type="heading" level="h1">5. Ball games</headword></item>
+    <item><headword id="d0e49" type="heading" level="h1">6. Athletics</headword></item>
+    <item><headword id="d0e53" type="heading" level="h1">7. Heavy events</headword></item>
+    <item><headword id="d0e57" type="heading" level="h1">8. Contests involving pulling or pushing</headword></item>
+    <item><headword id="d0e61" type="heading" level="h1">9. Boxing and wrestling</headword></item>
+    <item><headword id="d0e65" type="heading" level="h1">10. Blows in general</headword></item>
+    <item>
+      <headword id="d0e70">sglabhart</headword>
+      <description>[blow.] The ‘abh’ was sounded the same as ‘abh’ in ‘sàbhailte’.</description>
+    </item>
+    <item>
+      <headword id="d0e79">ciolp</headword>
+      <description>[blow.] ‘ci’ as in ‘cinnteach’ and the ‘o’ silent, sounded as ‘cilip’. There was a difference between a ‘ciolp’ and the other two [i.e. ‘sglabhart’ and ‘sgailt’ (q.v.)] in that it could be delivered with a stick or the fist or a kick from an animal and was a much more severe knock than the other two.</description>
+    </item>
+    <item>
+      <headword id="d0e88">sgailt</headword>
+      <description>[blow.] ‘sgail’ same as in ‘sgail’, the ‘t’ ending like ‘itch’.</description>
+    </item>
+    <item><headword id="d0e96" type="heading" level="h1">11. Injury and exhaustion</headword></item>
+  </items>
+</fieldworkDocument>

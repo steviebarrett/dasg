@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 21 8 14 -->
+<!-- illustrations -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="AJSmith_Harrismiscellaneousmisc" docType="wordlist" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>July 1972</date>
+  <fieldworker>A. J. Smith</fieldworker>
+  <note>[NOTES: in IPA transcriptions, the fieldworker uses [w] for [ɯ].]</note>
+
+  <informant>
+    <nameEnglish>miscellaneous [see below for details]</nameEnglish>
+  </informant>
+  <location>Harris</location>
+  <items>
+    <item><headword id="d0e27" type="heading" level="h1">George MacLeod, Ardhasaig</headword></item>
+    <item>
+      <headword id="idm37683808">cròicean</headword>
+      <description>[kɾɔ:cɑṉ] Note: potato hook.</description>
+    </item>
+    <item>
+      <headword id="idm37633192">bòtunn</headword>
+      <description>[bɔ:t̪ən̪] Quot.: bòtunnan móra. Note: originally leather thigh boots worn by fishermen.</description>
+    </item>
+    <item>
+      <headword id="idm37678120">ceap-bhròg</headword>
+      <description>[cɑpvɾɔ:ɡ] Note: cobbler’s last.</description>
+    </item>
+    <item>
+      <headword id="idm37655152">crith</headword>
+      <description>Quot.: a’ chrith. Note: illness in sheep. Shaking.</description>
+    </item>
+    <item>
+      <headword id="idm37660696">sultail</headword>
+      <description>[su̜ɫt̪ɑl] Note: having a lot of flesh on one’s body.</description>
+    </item>
+    <item>
+      <headword id="idm37637080">cuileag-ghorm</headword>
+      <description>Quot.: a’ chuileag-ghorm. Note: blue fly. Said by GMcL to be cause of “a’ chloimh” (sheep scab).</description>
+    </item>
+    <item><headword id="d0e85" type="heading" level="h1">D. MacLeod, Ardhasaig</headword></item>
+	<item>
+      <headword id="idm37612744">omhan</headword>
+      <description>[ɔ̃hɔ̃n̪] Note: whey whipped up till it foamed.</description>
+    </item>
+    <item>
+      <headword id="idm37616776">bac-chliabh</headword>
+      <description>[bɑxkləv] Note: a child’s creel.</description>
+    </item>
+    <item>
+      <headword id="idm37682440">àtha-cheilpeadh</headword>
+      <description>Note: kelp kiln.</description>
+    </item>
+    <item>
+      <headword id="idm37653712">leig</headword>
+      <description>Quot.: a’ leigeil fiodh na chéile. Note: splicing wood.</description>
+    </item>
+    <item>
+      <headword id="idm37677040">snaidhm-cruaidhmean</headword>
+      <description>[sn̪ɑmkɾu̟ɤmɑṉ] Note: granny knot.</description>
+    </item>
+    <item>
+      <headword id="idm37658176">urchair</headword>
+      <description>Note: shot in weaving.</description>
+    </item>
+    <item>
+      <headword id="idm37617424">mill-eàrraidh</headword>
+      <description>[mĩlʹɑ:ɾi] Note:  two pieces of wood separate but tied together with string, can be arched at the point where string is attached, the nails at each end put through edges of cloth in loom, then pieces of wood flattened. To keep cloth stretched. “Mìr-earraidh” in S. Lochs.</description>
+    </item>
+    <item>
+      <headword id="idm37713760">teannachadh</headword>
+      <description>Quot.: an teannachadh. Note: the tension in the cloth when weaving.</description>
+    </item>
+    <item>
+      <headword id="idm37683448">casachan</headword>
+      <description>Quot.: na casachain ìseal; na casachain àrd. Note: (1) the lower pedals working the heddles in a loom. (2) the arms working the heddles from above.</description>
+    </item>
+    <item>
+      <headword id="idm37632256">cliath</headword>
+      <description>[kliɤ] Quot.: “Dean cliathan beag.” Note: in weaving, the amount of cloth woven at the one time without releasing the tension and pulling the cloth back to allow room for the sley-board to go back and fore.</description>
+    </item>
+	<item><headword id="d0e181" type="heading" level="h1">Murdo MacDiarmid, Maaruig</headword></item>
+    <item>
+      <headword id="idm37719088">sùradh</headword>
+      <description>[su̟:ɾɑɣ] Note: backwash (sea).</description>
+    </item>
+    <item>
+      <headword id="idm37721392">steòrn</headword>
+      <description>[ʃtʹɔ:ʴṉ] Quot.: “Chunnaic mi cuideigin ga steòrnadh sios chun an tigh agam.” Note: guiding. [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+    <item>
+      <headword id="idm37696192">boinneachdainn</headword>
+      <description>[bonʹɑxkĩnʹ] Quot.: “Cha robh e a’ boinneachdainn dha’n deoch.” Note: same as “beantainn” or “buntainn”.</description>
+    </item>
+    <item>
+      <headword id="idm37670848">slabhairc</headword>
+      <description>[sɫɑvɑðc] Note: live core inside a horn.</description>
+    </item>
+    <item>
+      <headword id="idm37692088">tinneas-critheanach</headword>
+      <description>Quot.: an tinneas-critheanach. Note: louping-ill in sheep.</description>
+    </item>
+    <item>
+      <headword id="idm37627576">staoig-an-amadain</headword>
+      <description>[st̪w:ɡʹən̪ɑməd̪ɑ̃nʹ] Note: cartilaginous piece in the breast of sheep between the ribs. (Some call it “slig’-an-amadain”.)</description>
+    </item>
+    <item>
+      <headword id="idm37716784">spòg-dhubh</headword>
+      <description>Note: disease in sheep. Flesh goes black and animal dies.</description>
+    </item>
+	<item><headword id="d0e248" type="heading" level="h1">Neil MacLeod, Tarbert</headword></item>
+    <item>
+      <headword id="idm37721320">slinntear</headword>
+      <description>[ʃlʹɤ̃ĩnʹɛð] Note: lintel.</description>
+    </item>
+    <item>
+      <headword id="idm37619080">cràgaisg</headword>
+      <description>[kɾɑ:ɡıʃɡʹ] Note: what he calls the stick jutting up from the end of the black-house roof, round which the rope to hold the end-thatch is put.</description>
+    </item>
+    <item>
+      <headword id="idm39034208">glutarnadh</headword>
+      <description>[ɡɫu̜t̪əʴṉəɣ] Quot.: “glutarnadh a’ bhalla”. Note: earth packing between walls in a black-house. [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+    <item>
+      <headword id="idm39032120">stiall</headword>
+      <description>[ʃtʹıɤɫ] Note: wooden post in a byre to which cow is tied.</description>
+    </item>
+    <item>
+      <headword id="idm39030392">maide-marbh</headword>
+      <description>Note: deadwood in a boat.</description>
+    </item>
+    <item>
+      <headword id="idm39028880">maothan</headword>
+      <description>[mw̃:hɑṉ] Note: spliced joint in wood.</description>
+    </item>
+    <item>
+      <headword id="idm39027152">bùileasg</headword>
+      <description>[bu̟:lʹəsɡ] Quot.: bùileasg a’ chruinn. Note: traveller on the mast of a sailboat.</description>
+    </item>
+    <item>
+      <headword id="idm39025208">sgùid</headword>
+      <description>[sɡu̟:dʹ] Quot.: “sgùid an t-sùil”. Note: sheet of a sail.</description>
+    </item>
+    <item>
+      <headword id="idm39023264">foighteach</headword>
+      <description>[fɤıtʹɑx] Note: low-tide channel between rocks.</description>
+    </item>
+	<item><headword id="d0e333" type="heading" level="h1">W. MacLeod, Maaruig</headword></item>
+    <item>
+      <headword id="idm39019808">clostair</headword>
+      <description>[kɫɔst̪əɾ] Quot.: “clostair” de dhuine. Note: big hulking man. Can also be used of a beast.</description>
+    </item>
+    <item>
+      <headword id="idm39017864">slat-chabrach</headword>
+      <description>Note: a deer with pointless antlers.</description>
+    </item>
+    <item>
+      <headword id="idm39016352">slat-chabar</headword>
+      <description>Note: a pointless deer antler.</description>
+    </item>
+    <item>
+      <headword id="idm39014840">meur</headword>
+      <description>Note: point on an antler.</description>
+    </item>
+    <item>
+      <headword id="idm39013328">damhair</headword>
+      <description>Note: rutting season.</description>
+    </item>
+	<item><headword id="d0e382" type="heading" level="h1">Donald MacLennan, Govaig</headword></item>
+    <item>
+      <headword id="idm39010952">clupad-choinnleach</headword>
+      <description>[kɫu̜pəd̪xɤ̃ĩlʹɑx] Quot.: a’ chlupad-choinnleach. Note: swayback in sheep.</description>
+    </item>
+    <item>
+      <headword id="idm39009008">laigh</headword>
+      <description>Quot.: “Tha e na laighe.” Note: used of somebody who is ill and confined to bed.</description>
+    </item>
+    <item>
+      <headword id="idm39007280">àmhailt</headword>
+      <description>[ɑ̃:ılʹtʹ] Note: a half-burnt peat.</description>
+    </item>
+    <item>
+      <headword id="idm39005552">lamhach</headword>
+      <description>[ɫɑ̃vɑx] Note: bold, forward.</description>
+    </item>
+    <item>
+      <headword id="idm39003824">leimhich</headword>
+      <description>[lʹɛ̃viç] Quot.: “Bha mi air mo [lɛ̃vɑxəɣ] ag eisdeachd ris.” Note: wearied, bored stiff, sick tired of something.</description>
+    </item>
+    <item>
+      <headword id="idm39001592">ath-dionag</headword>
+      <description>[ɑdʹw̃ṉɑɡ] Note: 3-year-old sheep.</description>
+    </item>
+    <item>
+      <headword id="idm38999864">amhallach</headword>
+      <description>[ɑ̃vəɫɑx] Note: an unsavoury character. “Bad stick”.</description>
+    </item>
+    <item>
+      <headword id="idm38998136">clamair</headword>
+      <description>[kɫɑ̃mɛð] Note: male lamb with only one testicle. ([rwɡʹɛ̃nʹ] also used.)</description>
+    </item>
+    <item>
+      <headword id="idm38996120">tiarainneach</headword>
+      <description>[tʹıɑɾĩnʹɑx] Note: 1½ year old sheep.</description>
+    </item>
+    <item>
+      <headword id="idm38993528">neo-chlabhsach</headword>
+      <description>[nʹɔxɫɤu̜sɑx] Quot.: “Nochd e gu neo-chlabhsach.” Note: casually.</description>
+    </item>
+	<item><headword id="d0e476" type="heading" level="h1">MacLennans (Duncan and Donald), Quidinish</headword></item>
+    <item>
+      <headword id="idm38990720">faiche</headword>
+      <description>[fɑıçcə] Note: lobster hole among rocks.</description>
+    </item>
+    <item>
+      <headword id="idm38988992">baraill</headword>
+      <description>Quot.: “baraill a’ ròin”. Note: the back of the lobster.</description>
+    </item>
+    <item>
+      <headword id="idm38987264">poca-buidhe</headword>
+      <description>Note: fat on the “maodal” of the deer.</description>
+    </item>
+    <item>
+      <headword id="idm38985752">snaidhm</headword>
+      <description>[sṉɑ̃ĩm] Quot.: “snaidhm-ceann-na-h-òrdaig”. Note: overhang knot.</description>
+    </item>
+    <item>
+      <headword id="idm38983808">snaidhm-an-acaire</headword>
+      <description>Note: fisherman’s bend – used on anchors, also on driftnets when “beartachadh a lìn”.</description>
+    </item>
+    <item>
+      <headword id="idm38982296">snaidhm-na-bana-bhreabadair</headword>
+      <description>Note: rolling hitch? Used in tying, in tweed.</description>
+    </item>
+    <item>
+      <headword id="idm38980784">sgriogal</headword>
+      <description>[sɡɾıɡəɫ] Quot.: “Tha i air a dhol na sgriogal grannda.”</description>
+    </item>
+    <item>
+      <headword id="idm38979056">stireach</headword>
+      <description>[ʃtʹıðɑx] Quot.: falt stireach. Note: straight, limp hair.</description>
+    </item>
+    <item>
+      <headword id="idm37304872">preasach</headword>
+      <description>[pðesɑx] Quot.: “craicionn phreasach”. Note: wrinkled skin.</description>
+    </item>
+  </items>
+</fieldworkDocument>

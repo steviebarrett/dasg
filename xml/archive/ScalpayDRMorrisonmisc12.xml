@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 5 2 15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="DRMorrisonetal_ScalpayDRMorrisonmisc12" docType="wordlist" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>[1975?]</date>
+  <fieldworker>[self]</fieldworker>
+  <informant>
+    <nameEnglish>D.R. Morrison</nameEnglish>
+    <nameGaelic>D.R. Moireasdan </nameGaelic>
+    <age>[55?]</age>
+  </informant>
+  <location>Scalpaigh [Harris, Scalpay]</location>
+  <items>
+    <item>
+      <headword id="idola375" type="heading" level="h1">Word-list (‘Faclan’)</headword>
+    </item>
+    <item>
+      <headword id="idp118817592">dais</headword>
+      <description>cruach feòir (hay stack).</description>
+    </item>
+    <item>
+      <headword id="idp118814352">sgot</headword>
+      <description>ciall (sense). Cha’n eil sgot agad.</description>
+    </item>
+    <item>
+      <headword id="idp118837176">leabaidh-tuime</headword>
+      <description>a chuid sin ann an deireadh luinge anns a bi taoim a laighe.</description>
+    </item>
+    <item>
+      <headword id="idp118838760">cronan-bleoghainn</headword>
+      <description>duan neo rann air a ghabhail ’s bleoghainn a’ chruidh (milking croon).</description>
+    </item>
+    <item>
+      <headword id="idp118840272">spàrr-ghaoithe</headword>
+      <description>[NOTES: see below.]</description>
+    </item>
+    <item>
+      <headword id="idp118841784">gàinne</headword>
+      <description>gàine [sic] an dubhain (barb of the hook).</description>
+    </item>
+    <item>
+      <headword id="idp118843296">balg-saighid</headword>
+      <description>poca anns a biodhta a cumail na saighdean (i [?]).</description>
+    </item>
+    <item>
+      <headword id="idp118844808">sgoic</headword>
+      <description>théid thu ann agus (frown) sgoic ort (Harris expression).</description>
+    </item>
+    <item>
+      <headword id="idp118846392">spluc</headword>
+      <description>of the same class of words, similar [to sgoic?].</description>
+    </item>
+    <item>
+      <headword id="idp118848768">sirig</headword>
+      <description>decay, a person losing weight thus. Tha sirig air tighinn ann. (Harris)</description>
+    </item>
+    <item>
+      <headword id="idp118850496">silc</headword>
+      <description>a drop. An tug thu bainne o’n bhoin: cha tug silc.</description>
+    </item>
+    <item>
+      <headword id="idp118852224">sine</headword>
+      <description>sine bà.</description>
+    </item>
+    <item>
+      <headword id="idp118854168">giobal</headword>
+      <description>gill’òg (giullan).</description>
+    </item>
+    <item>
+      <headword id="idp118856112">talamh-toll</headword>
+      <description>talamh bristeach ’na thuill.</description>
+    </item>
+    <item>
+      <headword id="idp118857624">troc</headword>
+      <description>neach air a dhol gu mi-dhiu – ’s e troc th’ann.</description>
+    </item>
+    <item>
+      <headword id="idp118859136">bleiream</headword>
+      <description>ciall mar: Cha’n eil bleiream agad. (Harris)</description>
+    </item>
+    <item>
+      <headword id="idp118860864">siomal</headword>
+      <description>not an iota of a difference as: gun siomal a dh’atharrachadh (Harris expression).</description>
+    </item>
+    <item>
+      <headword id="idp118862592">siablaich</headword>
+      <description>ag iasgach le slait.</description>
+    </item>
+    <item>
+      <headword id="idp118864104">deimeadh</headword>
+      <description>Thuit e gun deimeadh. “down for the count [?]”.</description>
+    </item>
+    <item>
+      <headword id="idp118866480">trealabhaid</headword>
+      <description>stuth air a chruinneachadh de sheòrsa measgaichte anns nach eil mor fheum. Bha trealabhaid dhe. I think it’s an invented form of a word, perhaps originating or derived from the English word “trawling”.</description>
+    </item>
+    <item>
+      <headword id="idp118868352">ball-dóbhrain</headword>
+      <description>spot, comharra air a chraiceann (beauty spot).</description>
+    </item>
+    <item>
+      <headword id="idp118869864">conablach</headword>
+      <description>dà leth. Rinn mi conablach dhe.</description>
+    </item>
+    <item>
+      <headword id="idp118871592">sòla</headword>
+      <description>fiodh air urlar eitheir, pios fiodha fo chasan neach ann an direadh neo toiseachd, eithear beag. Air a bithear a seasamh mar leac-fiodha.</description>
+    </item>
+    <item>
+      <headword id="idp118873104">bial-mòr</headword>
+      <description>bial eithir air a bheil timchioll àrd suidhichte.</description>
+    </item>
+    <item>
+      <headword id="idp118874688">smuig</headword>
+      <description>uisg’ as an t-sròin. Bha smuig as an t-sròin aice, neo aige.</description>
+    </item>
+    <item>
+      <headword id="idp118877352">seid</headword>
+      <description>leabaidh de chamhlach air an làr – aodach leabadh air a chuir air a lar, neo faodaidh camlach [sic] a bhi foidhe gu cadal air.</description>
+    </item>
+    <item>
+      <headword id="idp118878864">buidheag</headword>
+      <description>dìthean (buttercup).</description>
+    </item>
+    <item>
+      <headword id="idp118880376">corra-ghlas</headword>
+      <description>ean (corncrake).</description>
+    </item>
+    <item>
+      <headword id="idp118881888">boga-nid</headword>
+      <description>already referred to previously, is I think a tit bird not any particular one – I know for certain it’s a bird, a tit bird – very likely any tit bird or any of the tit bird family, a general term. I remember hearing the term used years back. This is my definition – perhaps someone else has some other or can have a further definition.</description>
+    </item>
+    <item>
+      <headword id="idp118884264">tioma-taisean?</headword>
+      <description>fannachadh laige (1 [?]) le bhi do timchioll: bi e tighinn air caoradh? taisean? – explanation? – tuathalan, luairean. [?]</description>
+    </item>
+    <item>
+      <headword id="idp118885992">paiseanadh</headword>
+      <description>(into a faint). Chuir mi ann am paiseanadh e.</description>
+    </item>
+    <item>
+      <headword id="idp118887936">tinne</headword>
+      <description>link of a chain. Sometimes pronounced “teinne”. Dul de shlabhraidh.</description>
+    </item>
+    <item>
+      <headword id="idp118889448">arspag</headword>
+      <description>ean, faoileag theirear anns na Hearadh: Farspach. Black backed gull.</description>
+    </item>
+    <item>
+      <headword id="idp118890960">taisean</headword>
+      <description>(bones) as: Cha’n eil annad ach na taisean (bare bones).</description>
+    </item>
+    <item>
+      <headword id="idp118892688">grimire</headword>
+      <description>fear a bhios a grimeadh air falbh rudan, a criomadh piosan arain. From greim. [NOTES: the last piece of information added on one of the following pages, see below.]</description>
+    </item>
+    <item>
+      <headword id="idp118894416">criomaire</headword>
+      <description>[See grimire.]</description>
+    </item>
+    <item>
+      <headword id="idp118895928">murragan</headword>
+      <description>rudan a thig air a mhuir gu tir – rud ’s a bith. An t’fhuair thu murragan an diugh air a’ chladach?</description>
+    </item>
+    <item>
+      <headword id="idp119930416">sliuchdadan</headword>
+      <description>ni air a thilgeal pios de sglart [?] (slate) gu bhi srucadh air uachdar na mara neo air an uisge.</description>
+    </item>
+    <item>
+      <headword id="idp119913928">spliongag</headword>
+      <description>pios leathair anns a bi clach air a cur s an leathar sin le da thraing as air a shuaibeadh gu bhi tilgeal na cloiche (sling).</description>
+    </item>
+    <item>
+      <headword id="idp119894848">spidean</headword>
+      <description>cleasachd, dòigh cur seachad am measg na balach sgoile.</description>
+    </item>
+    <item>
+      <headword id="idp119895784">clonstar</headword>
+      <description>(large or extra large). Clonstar mhor cloiche. Bha e lorg clach mhor ’s fhuair e ’n sin clonstar, a thilg e.</description>
+    </item>
+    <item>
+      <headword id="idp119957344">clapanaich</headword>
+      <description>Bha e dha clapanaich (clapping her on the shoulder).</description>
+    </item>
+    <item>
+      <headword id="idp119927320">cùlaisd</headword>
+      <description>ceann shuas tigh tubhaidh, pairt shuas an tighe etc.</description>
+    </item>
+    <item>
+      <headword id="idp119906656">talan</headword>
+      <description>(division) part of a house, a dividing wall: bhiodhta cleachdadh an fhacail gu h-àraidh anns na seann tighe – tighe tubhaidh.</description>
+    </item>
+    <item>
+      <headword id="idp119923864">làr-puill</headword>
+      <description>lar, seòrsa lair a bhiodhadh ann an tigh – ‘taigh’ tubhaidh.</description>
+    </item>
+    <item>
+      <headword id="idp119927248">starragan?</headword>
+      <description>here (bunan fhiaclan grota) anns a bhanas or crows. Perhaps there is a proper rendering. I am not quite sure if this is exactly? I am doubtful. I know there is such a word for bunan fhiaclan grota anns a bhanas?</description>
+    </item>
+    <item>
+      <headword id="idp119960152">seiceil</headword>
+      <description>seiceil ann an cuibheal shniomh (from shackle).</description>
+    </item>
+    <item>
+      <headword id="idp119986000">sichd</headword>
+      <description>aghaidh nach ann air tha an aghaidh, sichd (cheek [?]).</description>
+    </item>
+    <item>
+      <headword id="idp119907304">dràbhag</headword>
+      <description>druthag uisge air ùrlar shoithich.</description>
+    </item>
+    <item>
+      <headword id="idp119960656">caomhag</headword>
+      <description>an endearing female, kind, well-liked etc., nighean òg chaomh.</description>
+    </item>
+    <item>
+      <headword id="idp119899816">calaisteach</headword>
+      <description>dripeil, trang (busy).</description>
+    </item>
+    <item>
+      <headword id="idp119976496">comhachag</headword>
+      <description>ean cailleach oidhche (another name for it).</description>
+    </item>
+    <item>
+      <headword id="idp120010480">galahad</headword>
+      <description>An tu tha sud a ghalahad (referring to a female).</description>
+    </item>
+    <item>
+      <headword id="idp120012496">pannt?</headword>
+      <description>Tha e cho math dhuit chuir dh’an phannt, pawn (pawn shop).</description>
+    </item>
+    <item>
+      <headword id="idp120009040">lannsa</headword>
+      <description>sgian lighiche (lance).</description>
+    </item>
+    <item>
+      <headword id="idp119982256">siola</headword>
+      <description>siola na h-easgainn. Part of the entrails of an eel. From siol.</description>
+    </item>
+    <item>
+      <headword id="idp119902192">cuis-bhùird</headword>
+      <description>a laughing stock, cuis mhagaidh.</description>
+    </item>
+    <item>
+      <headword id="idp119981392">piocas</headword>
+      <description>galair (chicken pox).</description>
+    </item>
+    <item>
+      <headword id="idp119982832">piocach</headword>
+      <description>theirear anns na Hearadh smalag (nach e?).</description>
+    </item>
+    <item>
+      <headword id="idp119906080">bloudaire</headword>
+      <description>a halfwit person (duine caran bharr a bhi ceart).</description>
+    </item>
+    <item>
+      <headword id="idp119979376">spàrr-gaoithe or -ghaoithe</headword>
+      <description>sparr ann an tigh dubh (parting).</description>
+    </item>
+    <item>
+      <headword id="idp119917528">spàrr-bhochd</headword>
+      <description>beggar’s roost. Cha urrain dhomh a radha gu firinneachd an e bochduinn mar a theirte “poor house” seo mar a shaoileas mi e?</description>
+    </item>
+    <item>
+      <headword id="idp119892616">spiolag</headword>
+      <description>’Se spiolag (naughty girl) th’innte.</description>
+    </item>
+    <item>
+      <headword id="idp119956840">fiolag</headword>
+      <description>[See spiolag.]</description>
+    </item>
+    <item>
+      <headword id="idp119943160">grimire</headword>
+      <description>from greim (previously noted) on a former page. I forgot to explain. [NOTES: see ‘grimire’ above.]</description>
+    </item>
+    <item>
+      <headword id="idp119885056">crimire</headword>
+      <description>from crimeag.</description>
+    </item>
+    <item>
+      <headword id="idp119960800">crùcan</headword>
+      <description>(a child’s palm). Cum do chrùcan.</description>
+    </item>
+    <item>
+      <headword id="idp119930992">treallaich-catha</headword>
+      <description>aftermath, ni de’n h-uile rud air fhagail a deighidh sabaist neo cath ’s a bith.</description>
+    </item>
+    <item>
+      <headword id="idp119935888">sos</headword>
+      <description>quite a portion. Fhuair e sòs [sic] math, cuibhrionn mhath.</description>
+    </item>
+    <item>
+      <headword id="idp119995792">gànrachadh</headword>
+      <description>(complete mess) Tha thu (mi) air do ghrànrachadh [sic] leis.</description>
+    </item>
+    <item>
+      <headword id="idp119911120">spitheag</headword>
+      <description>(missile) spitheag cloiche.</description>
+    </item>
+    <item>
+      <headword id="idp119980528">bob-bò</headword>
+      <description>da fhacal cuideachd gu bhi air a chleachdadh gu eagail a chuir air leanabh ma bhios e dol a àite nach saoilear a bhi freagarrach.</description>
+    </item>
+    <item>
+      <headword id="idp119959792">duileasg</headword>
+      <description>nàduir feamainn (dulse).</description>
+    </item>
+    <item>
+      <headword id="idp119924224">putan-croinn</headword>
+      <description>(button on the top of a mast) anns na soithichean móra, air mullach a chrionn, putan air mullach crann gu bhi cumail an uisg ás.</description>
+    </item>
+    <item>
+      <headword id="idp119976856">iap</headword>
+      <description>’S e dh’iap tha sud. Yob from yob – a current expression.</description>
+    </item>
+    <item>
+      <headword id="idp119975200">balg-meadhainn</headword>
+      <description>Rug e air bhalg meadhoinn [sic] air (belly bulge). Meadhainn – middle.</description>
+    </item>
+    <item>
+      <headword id="idp119981608">fuaine</headword>
+      <description>bior fiodha (peg).</description>
+    </item>
+    <item>
+      <headword id="idp119980888">liath-fàil</headword>
+      <description>air son cul an dùirn, bracelet.</description>
+    </item>
+    <item>
+      <headword id="idp119995720">ceann-criche (Lewis)</headword>
+      <description>ciste-laighe. (Harris)</description>
+    </item>
+    <item>
+      <headword id="idp119962240">caoirnean</headword>
+      <description>(small amount) caoirnean dhe a’ cliucheadh (sgadan).</description>
+    </item>
+    <item>
+      <headword id="idp119885128">dealg</headword>
+      <description>prìne (pin).</description>
+    </item>
+    <item>
+      <headword id="idp119884984">camaràd</headword>
+      <description>companach (from comrade).</description>
+    </item>
+    <item>
+      <headword id="idp119942728">garbhag</headword>
+      <description>iasg (sprat).</description>
+    </item>
+    <item>
+      <headword id="idp119890528">feocallan</headword>
+      <description>beathach (ferret).</description>
+    </item>
+    <item>
+      <headword id="idp119895064">còmhla</headword>
+      <description>dorus. Cul na còmhla.</description>
+    </item>
+    <item>
+      <headword id="idp119886064">ball-seirc</headword>
+      <description>beauty spot. “More associated with a beautify expression than ball-dobhrain” mark on the skin.</description>
+    </item>
+    <item>
+      <headword id="idp119929912">suaigean</headword>
+      <description>rud beag de dh’aoraich aithneachadh: bha suaigean air (happy).</description>
+    </item>
+    <item>
+      <headword id="idp119906296">seannsal</headword>
+      <description>buile, droch bhuille. Fhuair e seannsal.</description>
+    </item>
+    <item>
+      <headword id="idp115761440">soic</headword>
+      <description>sròn mar a mach. Bha soic a mach oirre (protruding nose).</description>
+    </item>
+    <item>
+      <headword id="idp115763600">tuaim-thàmh</headword>
+      <description>cho marbh anns an tuaim: neo thainig tuaim-thàmh – death sleep, rest.</description>
+    </item>
+    <item>
+      <headword id="idp115765112">cearbadan</headword>
+      <description>insect of the beetle family.</description>
+    </item>
+    <item>
+      <headword id="idp115767488">sonc</headword>
+      <description>from sank. Chaidh e sonc.</description>
+    </item>
+    <item>
+      <headword id="idp115769216">rebeanach</headword>
+      <description>iasg (bodach ruadh beag).</description>
+    </item>
+    <item>
+      <headword id="idp115770728">linn-chlach</headword>
+      <description>linn air a cur le clachan gu a toirt fodha (with stone sinkers).</description>
+    </item>
+    <item>
+      <headword id="idp115772240">amhras</headword>
+      <description>amhras an linn: thoir thugad an t-amhras chuid dhe air fhidheadh.</description>
+    </item>
+    <item>
+      <headword id="idp115773752">crois-iarna</headword>
+      <description>gu bhi deanamh iarnachan de shnath.</description>
+    </item>
+    <item>
+      <headword id="idp115775264">boiseag</headword>
+      <description>làn duirn bheag mar boiseag mhine (wee handful).</description>
+    </item>
+    <item>
+      <headword id="idp115776776">brigeadh</headword>
+      <description>a deanamh striochd le oisean na spaide ’g bualadh air an talamh mar a bhios neach a bhios a’ cur buntàta ni e striochd air meud a cheap… brig an toiseachd e.</description>
+    </item>
+    <item>
+      <headword id="idp115779152">suitseach</headword>
+      <description>(force) wind blowing to a force as: Tha suitseach oirre.</description>
+    </item>
+    <item>
+      <headword id="idp115780880">srulais</headword>
+      <description>mixture of material of a distasteful approach: Cha’n eil an sud ach srulais. Srulais gu leoir aige (gossip).</description>
+    </item>
+    <item>
+      <headword id="idp115782968">drein-a-charois</headword>
+      <description>scowl on the face with the mouth to reveal it. Drein a’ cur a bheòil ann an cruth.</description>
+    </item>
+    <item>
+      <headword id="idp115784480">teasd</headword>
+      <description>(death) an old expression. “Theasd e” confined to the Mainland area: Perthshire and perhaps Argyllshire.</description>
+    </item>
+    <item>
+      <headword id="idp115785992">rudan</headword>
+      <description>substitutional [sic] term. Fac thu rudan.</description>
+    </item>
+    <item>
+      <headword id="idp115787720">plang</headword>
+      <description>planca (plank in English).</description>
+    </item>
+    <item>
+      <headword id="idp115789232">planca</headword>
+      <description>[See plang.]</description>
+    </item>
+    <item>
+      <headword id="idp115791608">gothadh</headword>
+      <description>a jerk forward. Thug e gothadh as – referring to a person falling from a pier or wall into the sea – ’s chaidh e, neo thuit e mach air a’ mhuir (1). (2) there is the word “goth” – judging.</description>
+    </item>
+    <item>
+      <headword id="idp115793480">drabhs</headword>
+      <description>Tha drabhs aig air an teine (fuaim mar a bhios ag geir ’n uair a thilgear pios dhi dh’an teine).</description>
+    </item>
+    <item>
+      <headword id="idp115794992">sgiuch</headword>
+      <description>Fhuair e sgiuch mhath ann – he got a good portion there. Thug e sgiuch bhuaipe.</description>
+    </item>
+    <item>
+      <headword id="idp115796792">gidseog</headword>
+      <description>Cè gidseog tombaca – a wee cut of tobacco.</description>
+    </item>
+    <item>
+      <headword id="idp115798304">shóa</headword>
+      <description>pios tombaca air son a chagnadh (chewing).</description>
+    </item>
+    <item>
+      <headword id="idp115799816">sòrnach</headword>
+      <description>àit air son preis dhath, ait [sic] air bi preis dhath air a suidheachadh.</description>
+    </item>
+  </items>
+</fieldworkDocument>

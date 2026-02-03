@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 6 11 14 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="DRMorrison_ScalpayDRMorrison2misc6" docType="wordlist" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>[?]</date>
+  <fieldworker>[self]</fieldworker>
+  <informant>
+    <nameEnglish>D.R. Morrison</nameEnglish>
+    <age>[?]</age>
+  </informant>
+  <location>[Harris], Scalpay</location>
+  <items>
+    <item>
+      <headword>crann-tarrain</headword>
+      <description>wooden nails for boat.</description>
+    </item>
+    <item>
+      <headword>giomach-tuathalan</headword>
+      <description>a lobster inside a whelk.</description>
+    </item>
+    <item>
+      <headword>giomach tuathal</headword>
+      <description>[See giomach-tuathalan.]</description>
+    </item>
+    <item>
+      <headword>sgigean</headword>
+      <description>small, very small portion.</description>
+    </item>
+    <item>
+      <headword>fàireag</headword>
+      <description>a swelling on a gland.</description>
+    </item>
+    <item>
+      <headword>truthaire</headword>
+      <description>convulsion.</description>
+    </item>
+    <item>
+      <headword>batal</headword>
+      <description>flock. Batal-ean – flock of birds.</description>
+    </item>
+    <item>
+      <headword>smealamas</headword>
+      <description>sweetmeat.</description>
+    </item>
+    <item>
+      <headword>tharchair</headword>
+      <description>met.</description>
+    </item>
+    <item>
+      <headword>gibilis</headword>
+      <description>gibberish talk.</description>
+    </item>
+    <item>
+      <headword>braoist</headword>
+      <description>a stone wall in front of a house.</description>
+    </item>
+    <item>
+      <headword>amhalach</headword>
+      <description>a boorish character, person.</description>
+    </item>
+    <item>
+      <headword>bitchigeadh</headword>
+      <description>bitching.</description>
+    </item>
+    <item>
+      <headword>glamharsaich</headword>
+      <description>barking attitude.</description>
+    </item>
+    <item>
+      <headword>bràisde</headword>
+      <description>badge.</description>
+    </item>
+    <item>
+      <headword>bumalair</headword>
+      <description>a raw clumsy person.</description>
+    </item>
+    <item>
+      <headword>clipeadh</headword>
+      <description>clipping, reference to ‘small’ pilfering.</description>
+    </item>
+  </items>
+</fieldworkDocument>

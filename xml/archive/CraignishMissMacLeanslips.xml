@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 10/8/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_CraignishMissMacLeanslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>04/1968</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <informant>
+    <nameEnglish>Miss Maclean</nameEnglish>
+  </informant>
+  <location>Craignish</location>
+  <items>
+    <item>
+      <headword id="idp166269136">smàladh</headword>
+      <description>Quotation: “smàladh an teine”. Notes: same as “tasgadh” in Lewis.</description>
+    </item>
+    <item>
+      <headword id="idp166270792">splug</headword>
+      <description>Quotation: “Nach ann oirre bha splug.” “A splugadaich ’s a caoineadh.” Notes: sobbing.</description>
+    </item>
+    <item>
+      <headword id="idp166272448">splugan (pl)</headword>
+      <description>Notes: wattles on a hen or cock.</description>
+    </item>
+    <item>
+      <headword id="idp166273960">duisleach</headword>
+      <description>Quotation: duisleach móine. Notes: peat dross.</description>
+    </item>
+  </items>
+</fieldworkDocument>

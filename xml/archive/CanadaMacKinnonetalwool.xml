@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 3 5 13 -->
+<fieldworkDocument docId="Canada_CanadaMacKinnonetalwool" docType="questionnaire" subType="Woolworking">
+  <title>Obair na Clòimhe / Wool-Working</title>
+  <date>1969</date>
+  <fieldworker>Susan Norwood</fieldworker>
+  <informant>
+    <nameEnglish>S.J. MacKinnon</nameEnglish>
+    <origin>([Canada], Inverness Co., Lochaber)</origin>
+  </informant>
+  <informant>
+    <nameEnglish>James MacKay</nameEnglish>
+    <origin>([Canada], Inverness Co., Lochaber dialect)</origin>
+  </informant>
+  <informant>
+    <nameEnglish>Alec Beaton</nameEnglish>
+    <origin>([Canada], Inverness Co., Lochaber)</origin>
+  </informant>
+  <location>Canada</location>
+  <!-- illustrations -->
+  <items>
+    <item><headword id="d0e46" type="heading" level="h1">1. Raw wool</headword></item>
+    <item>
+      <headword id="d0e51">clòimh</headword>
+      <description>wool.</description>
+    </item>
+    <item>
+      <headword id="d0e60">rùsg ~ rùisg</headword>
+      <description>fleece.</description>
+    </item>
+    <item>
+      <headword id="d0e69">marbhrachan</headword>
+      <description>fleece of a dead sheep.</description>
+    </item>
+    <item>
+      <headword id="d0e78">ceideag</headword>
+      <description>tuft of wool.</description>
+    </item>
+    <item><headword id="d0e86" type="heading" level="h1">2. Oil or grease put on wool before carding</headword></item>
+    <item>
+      <headword id="d0e91">smearadh</headword>
+      <description>putting oil on wool.</description>
+    </item>
+    <item><headword id="d0e99" type="heading" level="h1">3. Carding</headword></item>
+    <item>
+      <headword id="d0e104">cardadh</headword>
+      <description>carding.</description>
+    </item>
+    <item>
+      <headword id="d0e113">cairt</headword>
+      <description>[pl] cairtean – cards.</description>
+    </item>
+    <item>
+      <headword id="d0e122">cìridh</headword>
+      <description>combing.</description>
+    </item>
+    <item>
+      <headword id="d0e131">rollag</headword>
+      <description>roll of wool.</description>
+    </item>
+    <item><headword id="d0e139" type="heading" level="h1">4. Spinning</headword></item>
+    <item>
+      <headword id="d0e144">snìomh</headword>
+      <description>spinning.</description>
+    </item>
+    <item>
+      <headword id="d0e153">snàth caol</headword>
+      <description>thin thread.</description>
+    </item>
+    <item>
+      <headword id="d0e162">snàth meadhonach</headword>
+      <description>medium thread.</description>
+    </item>
+    <item>
+      <headword id="d0e171">snàth reamhar</headword>
+      <description>thick thread.</description>
+    </item>
+    <item>
+      <headword id="d0e180">snàth garbh</headword>
+      <description>thick thread.</description>
+    </item>
+    <item><headword id="d0e188" type="heading" level="h1">5. Parts of the spinning wheel</headword></item>
+    <item>
+      <headword id="d0e193">cuidheall</headword>
+      <description>spinning-wheel.</description>
+    </item>
+    <item>
+      <headword id="d0e202">rèim</headword>
+      <description>rim.</description>
+    </item>
+    <item>
+      <headword id="d0e211">bonn</headword>
+      <description>[sic] band or belt.</description>
+    </item>
+    <item>
+      <headword id="d0e220">na h-eich</headword>
+      <description>sticks supporting wheel.</description>
+    </item>
+    <item>
+      <headword id="d0e229">maide siubhal</headword>
+      <description>stick going up from treadle.</description>
+    </item>
+    <item>
+      <headword id="d0e238">claidheamh</headword>
+      <description>stick going up from treadle.</description>
+    </item>
+    <item>
+      <headword id="d0e247">piùrna</headword>
+      <description> bobbin (sometimes pirnea).</description>
+    </item>
+    <item>
+      <headword id="d0e256">cìr</headword>
+      <description>comb.</description>
+    </item>
+    <item>
+      <headword id="d0e265">iuchair</headword>
+      <description>to tighten cìr [q.v.].</description>
+    </item>
+    <item>
+      <headword id="d0e274">maighdeannan</headword>
+      <description>spokes.</description>
+    </item>
+    <item>
+      <headword id="d0e283">iteachan</headword>
+      <description>bobbin.</description>
+    </item>
+    <item>
+      <headword id="d0e292">casachan</headword>
+      <description>treadle.</description>
+    </item>
+    <item>
+      <headword id="d0e301">cuigeal</headword>
+      <description>distaff.</description>
+    </item>
+    <item><headword id="d0e309" type="heading" level="h1">6. Yarn and associated apparatus</headword></item>
+    <item>
+      <headword id="d0e314">cearsla ~ ceirsle</headword>
+      <description>ball of yarn.</description>
+    </item>
+    <item>
+      <headword id="d0e323">bunnag</headword>
+      <description>ball of yarn.</description>
+    </item>
+    <item>
+      <headword id="d0e332">iarna</headword>
+      <description>hank.</description>
+    </item>
+    <item>
+      <headword id="d0e341">crois-iarna</headword>
+      <description>winding-wheel.
+        <illustration src="CanadaMacKinnonetalwoolillust1.jpg" width="200"/>
+      </description>
+    </item>
+	<item>
+      <headword id="d0e352">liùrag</headword>
+      <description>[Cf. tachrasan]
+        <illustration src="CanadaMacKinnonetalwoolillust2.jpg" width="200"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e363">tachrasan</headword>
+      <description>(sometimes tacharsan) [Cf. liùrag]
+        <illustration src="CanadaMacKinnonetalwoolillust2.jpg" width="200"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e374">dealgan</headword>
+      <description>spindle.</description>
+    </item>
+    <item>
+      <headword id="d0e383">dealgan fersaid</headword>
+      <description>[sic] to double thread.</description>
+    </item>
+    <item>
+      <headword id="d0e392">(an t-) seic</headword>
+      <description>bar with hooks to shift thread.</description>
+    </item>
+    <item><headword id="d0e400" type="heading" level="h1">7. Dyeing</headword></item>
+    <item>
+      <headword id="d0e405">dathadh</headword>
+      <description>dyeing.</description>
+    </item>
+    <item>
+      <headword id="d0e414">guirmean</headword>
+      <description>blueing; blue dye (store dye).</description>
+    </item>
+    <item>
+      <headword id="d0e423">cnotail</headword>
+      <description>lichen. (onion skin used also)</description>
+    </item>
+    <item>
+      <headword id="d0e432">mùin</headword>
+      <description>urine.</description>
+    </item>
+    <item><headword id="d0e440" type="heading" level="h1">8. Washing after dyeing</headword></item>
+    <item><headword id="d0e444" type="heading" level="h1">9. Warping</headword></item>
+    <item>
+      <headword id="d0e449">crann dealbh</headword>
+      <description>warping frame.</description>
+    </item>
+    <item><headword id="d0e457" type="heading" level="h1">10. Beaming and tying</headword></item>
+    <item>
+      <headword id="d0e462">riaghailt</headword>
+      <description>tying (onto frame).</description>
+    </item>
+    <item>
+      <headword id="d0e471">brochan</headword>
+      <description>starch for warp threads.</description>
+    </item>
+    <item><headword id="d0e479" type="heading" level="h1">11. Weaving</headword></item>
+    <item>
+      <headword id="d0e484">figheadaireachd</headword>
+      <description>weaving.</description>
+    </item>
+    <item>
+      <headword id="d0e493">dluth</headword>
+      <description>warp.</description>
+    </item>
+    <item>
+      <headword id="d0e502">uachdar</headword>
+      <description>woof.</description>
+    </item>
+    <item>
+      <headword id="d0e511">(an t-) aodach</headword>
+      <description>cloth.</description>
+    </item>
+    <item><headword id="d0e519" type="heading" level="h1">12. Parts of the weaving loom</headword></item>
+    <item>
+      <headword id="d0e524">beart</headword>
+      <description>loom, frame.</description>
+    </item>
+    <item>
+      <headword id="d0e533">bocsa na dealbh</headword>
+      <description>box for balls of yarn.</description>
+    </item>
+    <item>
+      <headword id="d0e542">casachan</headword>
+      <description>treadle.</description>
+    </item>
+    <item>
+      <headword id="d0e551">imalan</headword>
+      <description>heddle.</description>
+    </item>
+    <item>
+      <headword id="d0e560">slinn</headword>
+      <description>comb(s).</description>
+    </item>
+    <item>
+      <headword id="d0e569">spàl</headword>
+      <description>shuttle.</description>
+    </item>
+    <item>
+      <headword id="d0e578">spalag</headword>
+      <description>shuttle.</description>
+    </item>
+    <item>
+      <headword id="d0e587">iteachan</headword>
+      <description>bobbin.</description>
+    </item>
+    <item>
+      <headword id="d0e596">drumannach</headword>
+      <description>wood (us. cattail) which can be cored to make bobbin.</description>
+    </item>
+    <item><headword id="d0e604" type="heading" level="h1">13. Finishing</headword></item>
+	<item>
+	  <headword id="idola56">[washing cloth]</headword>
+	  <description>(Cloth washed in a brook and spread to dry, or taken to loft to dry.)</description>
+	</item>
+    <item>
+      <headword id="d0e618">luadhadh</headword>
+      <description>waulking.</description>
+    </item>
+  </items>
+</fieldworkDocument>

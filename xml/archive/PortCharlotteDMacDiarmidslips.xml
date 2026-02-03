@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 23/10/15 -->
+<!-- illustrations -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_PortCharlotteDMacDiarmidslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>12/1968</date>
+  <fieldworker>[AJ Smith]</fieldworker>
+  <informant>
+    <nameEnglish>Donald MacDiarmid</nameEnglish>
+    <age>c. 70</age>
+  </informant>
+  <location>Islay, Port Charlotte</location>
+  <items>
+    <item>
+      <headword id="idp115494784">marag</headword>
+      <description>Quotation: ’S e [fjoʔəs] na maraig a feuchainn. Notes: see fiùthas.</description>
+    </item>
+    <item>
+      <headword id="idp115459000">mearcadan</headword>
+      <description>Quotation: pl. na mearcadain. Notes: eggs laid on the hair of horse’s legs; licked by the horse; lodge on the wall of stomach until fully fed. Seems to be eggs of the horse bot fly. Horse sometimes given “bralais” and then purged with a mixture of turpentine and linseed oil.</description>
+    </item>
+    <item>
+      <headword id="idp115484632">mór</headword>
+      <description>Quotation: cas mhór. Notes: see cas.</description>
+    </item>
+    <item>
+      <headword id="idp115451440">muc</headword>
+      <description>Quotation: gnos muice. Notes: sow-mouth. In sheep, cattle and horses where the lower jaw is short.</description>
+    </item>
+    <item>
+      <headword id="idp167451744">poit</headword>
+      <description>Quotation: Cha tig as a’ phoit ach an toit a th’ innte.</description>
+    </item>
+    <item>
+      <headword id="idp167451168">salach</headword>
+      <description>Quotation: beul salach. Notes: see “beul”.</description>
+    </item>
+    <item>
+      <headword id="idp167454120">sgàire</headword>
+      <description>[sɡɑ:ɾə] Notes: a cutting tool for trimming a horse’s hooves.</description>
+    </item>
+    <item>
+      <headword id="idp167456136">sònraich</headword>
+      <description>Quotation: Na bith ’gad [hɔ:ɾɑxəɣ] (ɔ not nasalised) fhéin. Notes: Don’t be putting yourself on a pedestal.</description>
+    </item>
+    <item>
+      <headword id="idp167458008">spòg</headword>
+      <description>Quotation: a’ spòg dhubh. Notes: disease peculiar to sheep whereby the skin becomes like jelly and turns black. The animal becomes blown up.</description>
+    </item>
+    <item>
+      <headword id="idp167356992">stùrt</headword>
+      <description>[st̪u̜:rt̪] Quotation: a’ stùrt. Notes: blindness in sheep caused by eating grass which grew among dog droppings. The parasite was to be found in a small bag of fluid on the brain. If this bag was on the right side the animal turned right; on the left, turned left; on both sides, went forward. Attracted by water.</description>
+    </item>
+    <item>
+      <headword id="idp167358576">teineachar</headword>
+      <description>Notes: a pair of pliers used by blacksmith. <illustration src="PortCharlotteDMacDiarmidslipsillust1.jpg" width="250"/></description>
+    </item>
+    <item>
+      <headword id="idp167360448">toit</headword>
+      <description>Quotation: Cha tig as a’ phoit ach an toit a th’innte.</description>
+    </item>
+    <item>
+      <headword id="idp167362320">beul</headword>
+      <description>Quotation: beul salach. Notes: swelling of the gums in horses, usually the top gum extending downwards and the horse couldn’t eat. Cut out, sometimes with a hot iron.</description>
+    </item>
+    <item>
+      <headword id="idp167364408">bó</headword>
+      <description>Quotation: Tha na bà a stigh. Notes: The cattle are in.</description>
+    </item>
+    <item>
+      <headword id="idp167366208">cas</headword>
+      <description>Quotation: cas mhór. Notes: one of the horse’s hind legs swelled up.</description>
+    </item>
+    <item>
+      <headword id="idp167369232">claimh</headword>
+      <description>Quotation: a’ chlaimh [əxɫɑif]. Notes: scabs. Loss of wool in sheep. Contagious.</description>
+    </item>
+    <item>
+      <headword id="idp167370096">clòimh</headword>
+      <description>[kɫɔ̃:i] Notes: used of a hen’s feathers.</description>
+    </item>
+    <item>
+      <headword id="idp167371608">clupaid</headword>
+      <description>Quotation: a’ chlupaid [əxɫu̜ʰpidʹʒ]. Notes: swelling of the neck in sheep and cattle (liver fluke?).</description>
+    </item>
+    <item>
+      <headword id="idp167373624">cràgair</headword>
+      <description>[kɾɑ:ɡɑɾ] Notes: the part at the back of the horseshoe which is turned down.</description>
+    </item>
+    <item>
+      <headword id="idp167374848">critheanach</headword>
+      <description>Quotation: a’ chritheanach. Notes: in both cattle and sheep. Water on the brain. The animal went blind and went round in circles. (Cf. an critheanach – AMI, Islay.)</description>
+    </item>
+    <item>
+      <headword id="idp167376792">dubh</headword>
+      <description>Quotation: a’ spòg dhubh. Notes: see spòg.</description>
+    </item>
+    <item>
+      <headword id="idp167378232">fiùthas (?)</headword>
+      <description>Quotation: ’S e [fjoʔəs] na maraig a feuchainn.</description>
+    </item>
+    <item>
+      <headword id="idp167379888">galair</headword>
+      <description>Quotation: galair nan cearc.</description>
+    </item>
+    <item>
+      <headword id="idp167381976">gnos</headword>
+      <description>Quotation: gnos muice. Notes: sow-mouth: in sheep, cattle, horses, where the lower jaw is short.</description>
+    </item>
+    <item>
+      <headword id="idp167382480">gruth</headword>
+      <description>Notes: curds. Made from fresh warm milk with rennet added.</description>
+    </item>
+  </items>
+</fieldworkDocument>

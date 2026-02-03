@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 20 8 14 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="AJSmith_BarvasSmithmisc1" docType="wordlist" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>April 1972</date>
+  <fieldworker>A. J. Smith</fieldworker>
+  <informant>
+    <nameEnglish>Smith</nameEnglish>
+    <origin>Barvas</origin>
+  </informant>
+  <location>Lewis, Lower Barvas</location>
+  <items>
+    <item>
+      <headword id="idp118735408">atach</headword>
+      <description>[ɑt̪ɑx] Note: the remains of a dead beast, e.g. a sheep’s skeleton found on the moor. Also applied to other things, e.g. clothes, shoes which are beyond repair: “atach bhrògan”, “atach còta”. Could also be used of ruins – “atach airigh”.</description>
+    </item>
+    <item>
+      <headword id="idp118827856">drabhcail</headword>
+      <description>[d̪ɾɑu̜kəl] Quot.: “drabhcail beag uisge”. Note: fine, drizzly rain. Drabhcraich also used. A’ drabhcail (verb).</description>
+    </item>
+    <item>
+      <headword id="idp118754776">siúbhag</headword>
+      <description>[ʃu̟:ɑɡ] Note: a person (usually a woman) who is always on visiting rounds. Pronounced [ʃo:ɑɡ] – seóbhag by some. (Slip for “seóbhag” as well, mentioning “siúbhag”.)</description>
+    </item>
+    <item>
+      <headword id="idp118777528">turalach</headword>
+      <description>[t̪u̜rəɫɑx] Note: a large, stout woman.</description>
+    </item>
+    <item>
+      <headword id="idp118814320">teóthadh</headword>
+      <description>[tʹo:əɣ] Quot.: a’ teóthadh air an teine. Note: warming, getting warm.</description>
+    </item>
+    <item>
+      <headword id="idp118734616">treathail</headword>
+      <description>[t̪ɾɛhəl] Quot.: Tha i ’na treathail ag ullachadh biadh mas tig iad. Note: in a flurry, all hot and bothered with all she has to do.</description>
+    </item>
+    <item>
+      <headword id="idp118801216">coire</headword>
+      <description>Quot.: “Tha e ’n cómhnaidh ’na cumail ann an coire teth.” Note: het up, excited, “on pins”.</description>
+    </item>
+    <item>
+      <headword id="idp118791352">mulcach</headword>
+      <description>[mũ̜ɫkɑx] Quot.: “Tha e air fàs gu math mulcach.” Note: He has grown stout, become well-rounded.</description>
+    </item>
+    <item>
+      <headword id="idp118734112">mulcadh</headword>
+      <description>Note: a’ mulcadh also used when a person is so wrapped up in clothes that one gets the feeling he is about to suffocate. Quot.: Bha e air a’ mhulcadh le aodach.</description>
+    </item>
+    <item>
+      <headword id="idp118724248">lanaig</headword>
+      <description>[ɫɑ̃ṉiɡʹ] Quot.: Bha a’ leanabh air an “Teddy Bear” a’ lanaigeadh gu math. Note: it had been so often mis-handled that it became dilapidated and worn.</description>
+    </item>
+    <item>
+      <headword id="idp118815256">ceum-letha</headword>
+      <description>Quot.: “Nuair a bha e a’ feuchainn an dòrnaig thug e ceum-letha.” Note: when putting the shot he stepped over the limiting mark. Also used of a person telling an exaggerated story or who is wont to tell them. “Tha ‘ceum-letha’ ann.”</description>
+    </item>
+  </items>
+</fieldworkDocument>

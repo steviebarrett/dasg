@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 23 5 14 -->
+<fieldworkDocument docId="AOHenley_BearsdenNMacDonaldmisc" docType="wordlist"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>[1987-88]</date>
+  <fieldworker personId="ohenleya">A. O’Henley</fieldworker>
+  <note>[NOTES: some notes added (most probably by K. D. MacDonald?). See below for details.]</note>
+  <informant>
+    <nameEnglish>Neil MacDonald</nameEnglish>
+    <origin>[Harris]</origin>
+  </informant>
+  <location>[Glasgow], Bearsden</location>
+  <items>
+    <item>
+      <headword id="idm228504">atharrais obrach</headword>
+      <description>hotch potch job. “Dè an atharrais obrach a tha sin?”</description>
+    </item>
+    <item>
+      <headword id="idm231888">taigh-earr</headword>
+      <description>an iron band to protect the keel of a boat. [NOTES: ‘earr’ corrected to ‘eàrr’.]</description>
+    </item>
+    <item>
+      <headword id="idm211368">maide-starraig</headword>
+      <description>at each end of the roof of a thatched cottage.</description>
+    </item>
+    <item>
+      <headword id="idm209856">fàthachd</headword>
+      <description>shelter. “Fhuair e fàthachd.”</description>
+    </item>
+    <item>
+      <headword id="idm208200">coinnean</headword>
+      <description>kindle a fire.</description>
+    </item>
+    <item>
+      <headword id="idm206688">piosdal</headword>
+      <description>a useless young man.</description>
+    </item>
+    <item>
+      <headword id="idm205176">peasan</headword>
+      <description>a mischievous young lad.</description>
+    </item>
+    <item>
+      <headword id="idm203664">liotraigeadh</headword>
+      <description>a thrashing, beating. “Fhuair e liotraigeadh.” [NOTES: corrected to ‘liodraigeadh’.]</description>
+    </item>
+    <item>
+      <headword id="idm201000">glutraigeadh</headword>
+      <description>clay and stones packed between the inner and outer walls of a thatched house.</description>
+    </item>
+    <item>
+      <headword id="idm199488">làr an latha</headword>
+      <description>daybreak.</description>
+    </item>
+    <item>
+      <headword id="idm197976">ròtadh</headword>
+      <description>rooted out. “Chaidh a rhòtadh a mach as an taigh.” [NOTES: corrected to ‘rotadh’]</description>
+    </item>
+    <item>
+      <headword id="idm196176">faradhruim</headword>
+      <description>extra support for the keel.</description>
+    </item>
+    <item>
+      <headword id="idm194664">spùngag</headword>
+      <description>sling. Also known as ‘crann tabhuill’. <illustration src="BearsdenNMacDonaldmiscillust1.jpg" width="400"/></description>
+      <note>[NOTES: corrected to ‘spungag’.]</note>
+    </item>
+    <item>
+      <headword id="idm192936">biathadh na h-aona chorraig</headword>
+      <description>tarred with the same brush.</description>
+    </item>
+    <item>
+      <headword id="idm191424">feithichean</headword>
+      <description>not sure of meaning but used in song context – “Pabaidh ged a dh’fhàg sibh e bu mhath e ceann na feithichean.”</description>
+    </item>
+    <item>
+      <headword id="idm189048">speilean</headword>
+      <description>a game like cricket. A hole a few inches deep was dug with heel and a stump was placed there. The ball was made with cow’s hair being rubbed on the cow’s back till a sufficient size was attained. Hereafter the ball was placed in the aforementioned hole. Now with ten people on each side the stump was hit by a ‘caman’, a process which caused the ball to shoot up out of the hole. Once this happened the ball was met on the volley with the ‘caman’ and hit as far as possible. Play continued like this until the ball was caught.</description>
+    </item>
+    <item>
+      <headword id="idm187248">figeach</headword>
+      <description>a plain where the game [i.e. speilean (q.v.)] was played.</description>
+    </item>
+    <item>
+      <headword id="idm184800">deile-bhogan</headword>
+      <description>not sure of precise meaning, only that it was a plank of wood placed on the wall. [NOTES: ‘deile’ corrected to ‘dèile’.]</description>
+    </item>
+    <item>
+      <headword id="idm183144">tuathall</headword>
+      <description>left-handed. [NOTES: corrected to ‘tuathal’.]</description>
+    </item>
+    <item>
+      <headword id="idm181488">maor shìteagan</headword>
+      <description>sanitary inspector. [NOTES: corrected to ‘maor shiteagan’.]</description>
+    </item>
+    <item>
+      <headword id="idm179832">luid</headword>
+      <description>clumsy woman.</description>
+    </item>
+    <item>
+      <headword id="idm337976">rianach</headword>
+      <description>clumsy woman.</description>
+    </item>
+    <item>
+      <headword id="idm336464">clout sgùraidh</headword>
+      <description>someone who is being taken advantage of, e.g. “Tha thu ’nad chlout sgùraidh aig an sin.” [NOTES: ‘clout’ corrected to ‘clobhd’.]</description>
+    </item>
+    <item>
+      <headword id="idm334808">deile-bhogain</headword>
+      <description>meaning is now more precise – a sea-saw.</description>
+    </item>
+    <item>
+      <headword id="idm333296">caisean-uchd</headword>
+      <description>breast of a sheep.</description>
+    </item>
+    <item>
+      <headword id="idm331784">ciambal/ciumbal? fraoich</headword>
+      <description>bundle of heather. [NOTES: corrected to ‘ciombal’.]</description>
+    </item>
+    <item>
+      <headword id="idm329264">sgriobadh nam preasan</headword>
+      <description>phrase that was used if it rained on a wedding day.</description>
+    </item>
+    <item>
+      <headword id="idm327752">Ruith aig peilear dearg a bheatha</headword>
+      <description>running as fast as he could.</description>
+    </item>
+  </items>
+</fieldworkDocument>
+

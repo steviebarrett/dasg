@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 23/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_PointCFergusonslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>1980</date>
+  <informant>
+    <nameEnglish>C. Ferguson</nameEnglish>
+  </informant>
+  <location>Lewis, Point</location>
+  <items>
+    <item>
+      <headword id="idp115455040">deàrnag-muire</headword>
+      <description>Notes: ‘bonnach le grùthan ga phruich ris an teine’.</description>
+    </item>
+    <item>
+      <headword id="idp115439848">deisneag</headword>
+      <description>Notes: swimming crab with hairy legs.</description>
+    </item>
+  </items>
+</fieldworkDocument>

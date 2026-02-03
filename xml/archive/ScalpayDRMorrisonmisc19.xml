@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 5 2 15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="DRMorrisonetal_ScalpayDRMorrisonmisc19" docType="wordlist" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>1975</date>
+  <fieldworker>[self]</fieldworker>
+  <note>[NOTES: the words have been slipped and therefore, apart from the definitions provided by Mr Morrison, the definitions as they appear on the slips have also been included (unless the two were the same).]</note>
+  <informant>
+    <nameEnglish>D.R. Morrison</nameEnglish>
+    <nameGaelic>D.R. Moireasdan </nameGaelic>
+    <age>[55]</age>
+  </informant>
+  <location>Na Hearadh, Scalpaigh [Harris, Scalpay]</location>
+  <items>
+    <item>
+      <headword id="idola390" type="heading" level="h1">Word-list (‘Cruinneachadh de dh’fhaclan’)</headword>
+    </item>
+    <item>
+      <headword id="idp2168720">sticeadh</headword>
+      <description>(also) stuffing.</description>
+    </item>
+    <item>
+      <headword id="idp2185784">deòin-bhàigh</headword>
+      <description>‘kind desire’. Tha deòin-bhàigh agam ris. (Scalpay)</description>
+    </item>
+    <item>
+      <headword id="idp2121776">sgànraichaidh</headword>
+      <description>plaster. Sgànraicheadh e ’m baile – ‘paint the town’ equivalent. (Scalpay)</description>
+    </item>
+    <item>
+      <headword id="idp2136392">gànrachadh</headword>
+      <description>(also) plastered. Tha e air a ghànrachadh leis. – as in the case of a wee boy and paint. [SLIP: Plastered; e.g. of a small boy and paint.]</description>
+    </item>
+    <item>
+      <headword id="idp2227400">grioglaidean</headword>
+      <description>an assortment of fancy ware, china material etc, cups and saucers, pins and needles (so to speak). [SLIP: Grioglaidean (plural). Assortment of fancy ware; china.]</description>
+    </item>
+    <item>
+      <headword id="idp2144672">glomadh</headword>
+      <description>swelling. Bha shùilean a’ glomadh ’na cheann.</description>
+    </item>
+    <item>
+      <headword id="idp2240072">circleis</headword>
+      <description>pecking. De a chircleis a th’ort. (Scalpay) Derived perhaps from hen pecking. [NOTES: the slip has ‘Dé a’ chircleis a th’ort? Definition: Pecking.]</description>
+    </item>
+    <item>
+      <headword id="idp2243240">sgàth-fhras</headword>
+      <description>very mild form of a shower of rain.</description>
+    </item>
+    <item>
+      <headword id="idp2243600">sgà fhras</headword>
+      <description>[See sgàth-fhras.] (colloquial).</description>
+    </item>
+    <item>
+      <headword id="idp2245976">rapag</headword>
+      <description>untidy female (diminutive case).</description>
+    </item>
+    <item>
+      <headword id="idp4111160">rapach</headword>
+      <description>untidy.</description>
+    </item>
+    <item>
+      <headword id="idp4112672">ramalair</headword>
+      <description>rambler.</description>
+    </item>
+    <item>
+      <headword id="idp4114184">ròic</headword>
+      <description>luxuriously feeding. Perhaps derived from roast.</description>
+    </item>
+    <item>
+      <headword id="idp4115912">prìb</headword>
+      <description>bribe.</description>
+    </item>
+    <item>
+      <headword id="idp4117424">plian</headword>
+      <description>face downwards. Chaidh e air a phlian. (Scalpay)</description>
+    </item>
+    <item>
+      <headword id="idp4119152">plion</headword>
+      <description>[See plian.]</description>
+    </item>
+    <item>
+      <headword id="idp4120880">h-eip</headword>
+      <description>almost. [NOTES: originally slipped under ‘h-eip’ but then changed to ‘theab’.]</description>
+    </item>
+    <item>
+      <headword id="idp4122608">dà-da</headword>
+      <description>child addressing his father. [SLIP: Daddy (child addressing father).]</description>
+    </item>
+    <item>
+      <headword id="idp4124336">loirean</headword>
+      <description>untidy baby. A baby when crawling into some mess is referred to as a ‘loirein bhig’. May have derived from ‘loireach’. [NOTES: the quotation on the slip reads ‘a loirein bhig’. Definition: A baby is referred to as such when it crawls into some mess.]</description>
+    </item>
+    <item>
+      <headword id="idp4126208">maoidh</headword>
+      <description>threaten.</description>
+    </item>
+    <item>
+      <headword id="idp4127720">feithe-gàire</headword>
+      <description>little smile.</description>
+    </item>
+    <item>
+      <headword id="idp4129232">goisdne</headword>
+      <description>hair. Goisdne de dh’fhalt. (Scalpay)</description>
+    </item>
+    <item>
+      <headword id="idp4131824">sùileachadh</headword>
+      <description>expecting.</description>
+    </item>
+    <item>
+      <headword id="idp4133552">iorram</headword>
+      <description>(also) complaint. Th’an [sic] aon iorram air a h-uile turus a chì mi e. [NOTES: the slip has ‘Tha ’n aon…’]</description>
+    </item>
+    <item>
+      <headword id="idp4135496">spotag</headword>
+      <description>a wee spot.</description>
+    </item>
+    <item>
+      <headword id="idp4137224">dólas</headword>
+      <description>worse. Rinn sin an dólas air – that made matters worse.</description>
+    </item>
+    <item>
+      <headword id="idp4138952">ceatadh</headword>
+      <description>breaking. Na neòil cheataidh – broken clouds, ‘old word’. [NOTES: originally slipped under ‘ceatadh’ but then corrected to ‘ceataidh’ as in the quotation.]</description>
+    </item>
+    <item>
+      <headword id="idp4140824">drasadh</headword>
+      <description>drizzling.</description>
+    </item>
+    <item>
+      <headword id="idp4142336">drannsadh</headword>
+      <description>drizzling.</description>
+    </item>
+    <item>
+      <headword id="idp4143848">cailin-frithealaidh</headword>
+      <description>servant.</description>
+    </item>
+    <item>
+      <headword id="idp4145360">searbhanta</headword>
+      <description>servant.</description>
+    </item>
+    <item>
+      <headword id="idp4146872">steòirneadh</headword>
+      <description>(also) forcing.</description>
+    </item>
+    <item>
+      <headword id="idp4148384">reiteach-beag</headword>
+      <description>light entertainment, a prelude to a reiteach mór in Scottish Highland Circles of wedding entertainment.</description>
+    </item>
+    <item>
+      <headword id="idp4149896">reiteach-mór</headword>
+      <description>wedding entertainment (Highlands of Scotland).</description>
+    </item>
+    <item>
+      <headword id="idp4151624">rag-mhuinealach</headword>
+      <description>stubbornness. [SLIP: Stubborn.]</description>
+    </item>
+    <item>
+      <headword id="idp4153352">sos</headword>
+      <description>good share, more than enough.</description>
+    </item>
+    <item>
+      <headword id="idp4154864">riabhail</headword>
+      <description>untidy person.</description>
+    </item>
+    <item>
+      <headword id="idp4156376">raolaigean</headword>
+      <description>a toy item made to roll, or something made to roll. Chaidh e ’na raolaigean sios am bruthach. [SLIP: A toy which rolls – extended to anything that rolls.]</description>
+    </item>
+  </items>
+</fieldworkDocument>

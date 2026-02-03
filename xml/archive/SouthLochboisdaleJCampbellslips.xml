@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 27/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_SouthLochboisdaleJCampbellslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>02/1969</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <informant>
+    <nameEnglish>James Campbell</nameEnglish>
+    <origin>South Uist</origin>
+  </informant>
+  <location>South Uist, South Lochboisdale</location>
+  <items>
+    <item>
+      <headword id="idp115456152">làthach</headword>
+      <description>[ɫɑ:hɑx] Notes: mud on the bottom of the sea or a loch.</description>
+    </item>
+    <item>
+      <headword id="idp115475304">osan</headword>
+      <description>[ɔsɑ̃ṉ] Notes: (1) hole in lobster. (2) trouser leg.</description>
+    </item>
+    <item>
+      <headword id="idp115473144">poit</headword>
+      <description>Quotation: a’ poiteadh [pɔitʹəɣ]. Notes: used when talking about mending ragged old clothes; “patching up”.</description>
+    </item>
+    <item>
+      <headword id="idp115468608">cuaran</headword>
+      <description>Quotation: pl. [ku̜əɾɑ̃nʹ]. Notes: bandages on hands or feet. Also used of wrapping on hands when gutting herring.</description>
+    </item>
+  </items>
+</fieldworkDocument>

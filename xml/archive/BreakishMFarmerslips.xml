@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 6/8/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_BreakishMFarmerslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>1980</date>
+  <fieldworker/>
+  <informant>
+    <nameEnglish>Margaret Farmer</nameEnglish>
+  </informant>
+  <location>Skye, Breakish</location>
+  <items>
+    <item>
+      <headword id="idp115445904">creimisg</headword>
+      <description>Notes: bits left when fat rendered down. Also in sense of ‘wrinkled old woman’.</description>
+    </item>
+    <item>
+      <headword id="idp115474992">creinnseag</headword>
+      <description>Notes: bits left when fat rendered down. = creimisg.</description>
+    </item>
+  </items>
+</fieldworkDocument>

@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 13 4 14 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="TireeandMull_MullJGibsonandAHendersoncattle" docType="questionnaire" subType="Cattle" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Crodh / Cattle</title>
+  <fieldworker>Ailean Boyd [Alan Boyd]</fieldworker>
+  <note>[NOTES: Mr Boyd uses two colours of ink to distinguish the two informants. In this file, in order to preserve the distinction, the informants’ names have been inserted before the sections they contributed.]</note>
+  <informant>
+    <nameEnglish>Jeannie Gibson</nameEnglish>
+    <age>69</age>
+    <origin>Mull, Bunessan, Ardtun</origin>
+  </informant>
+  <informant>
+    <nameEnglish>Angus Henderson</nameEnglish>
+    <age>79</age>
+    <origin>Mull, Tobermory</origin> 
+  </informant>
+  <location>Mull</location>
+  <items>
+    <item><headword id="d0e41" type="heading" level="h1">1. Different stages in the growth of cattle</headword></item>
+    <item><headword id="d0e45" type="heading" level="h2">[Jeannie Gibson]</headword></item>
+    <item><headword id="d0e49" type="heading" level="h3">Male</headword></item>
+    <item>
+      <headword id="d0e54">laogh</headword>
+    </item>
+    <item>
+      <headword id="d0e60">geamhainn (gamhainn)</headword>
+    </item>
+    <item>
+      <headword id="d0e66">’gan spo aig 6 mìosan</headword>
+      <description>castrating.</description>
+    </item>
+    <item>
+      <headword id="d0e75">dàmh</headword>
+    </item>
+    <item>
+      <headword id="d0e81">do-bhliadhnach (dàmh)</headword>
+    </item>
+    <item>
+      <headword id="d0e87">trì-bliadhnach (dàmh)</headword>
+    </item>
+    <item>
+      <headword id="d0e93">Nuairsin ’gam marbhadh.</headword>
+    </item>
+    <item>
+      <headword id="d0e99">laogh-tairbh</headword>
+    </item>
+    <item>
+      <headword id="d0e105">geamhainn</headword>
+    </item>
+    <item>
+      <headword id="d0e111">tarbh</headword>
+    </item>
+    <item><headword id="d0e116" type="heading" level="h3">Female</headword></item>
+    <item>
+      <headword id="d0e121">laogh</headword>
+      <description>(for a year)</description>
+    </item>
+    <item>
+      <headword id="d0e130">agh, aighean (pl)</headword>
+      <description>heifer. Tha i dà bhliadhna na h-agh.</description>
+    </item>
+    <item>
+      <headword id="d0e139">mart</headword>
+      <description>after 3 years once 1st calf born. Tha i ’na mart airson an corr de ’beatha.</description>
+    </item>
+    <item><headword id="d0e147" type="heading" level="h1">2. Breeds of cattle</headword></item>
+    <item><headword id="d0e151" type="heading" level="h2">[Angus Henderson]</headword></item>
+    <item>
+      <headword id="d0e156">crodh Gàidhealach</headword>
+      <description>Highland cattle.</description>
+    </item>
+    <item>
+      <headword id="d0e165">crodh Gallda</headword>
+      <description>Ayrshire cattle.</description>
+    </item>
+    <item>
+      <headword id="d0e174">crodh dubh</headword>
+      <description>Aberdeen; Angus; Galloway.</description>
+    </item>
+    <item><headword id="d0e182" type="heading" level="h1">3. Outward appearance of cattle</headword></item>
+    <item><headword id="d0e186" type="heading" level="h2">[Angus Henderson]</headword></item>
+    <item>
+      <headword id="d0e191">bian bhriagha</headword>
+      <description>[sic] a beautiful coat.</description>
+    </item>
+    <item><headword id="d0e199" type="heading" level="h2">[Jeannie Gibson]</headword></item>
+    <item>
+      <headword id="d0e204">gris-fhionn</headword>
+      <description>brindled.</description>
+    </item>
+    <item>
+      <headword id="d0e213">odhar</headword>
+      <description>dun.</description>
+    </item>
+    <item>
+      <headword id="d0e222">breac</headword>
+      <description>brown and white.</description>
+    </item>
+    <item>
+      <headword id="d0e231">riabhach</headword>
+      <description>darkish brown with rough coat.</description>
+    </item>
+    <item>
+      <headword id="d0e240">bian math</headword>
+      <description>a good coat.</description>
+    </item>
+    <item>
+      <headword id="d0e249">saill (f)</headword>
+      <description>fat.</description>
+    </item>
+    <item>
+      <headword id="d0e258">mart ann a(n) laogh</headword>
+      <description>cow in calf.</description>
+    </item>
+    <item>
+      <headword id="d0e267">mart tana</headword>
+      <description>a thin cow.</description>
+    </item>
+    <item>
+      <headword id="d0e276">mart bochd</headword>
+      <description>an unwell cow.</description>
+    </item>
+    <item><headword id="d0e284" type="heading" level="h1">4. Names for certain beasts, e.g. an animal on which the owner bestows particular attention</headword></item>
+    <item><headword id="d0e288" type="heading" level="h2">[Jeannie Gibson]</headword></item>
+    <item>
+      <headword id="d0e293">mart fiuchail (fiughail)</headword>
+      <description>a worthy beast.</description>
+    </item>
+    <item>
+      <headword id="d0e302">tarbh fiuchail</headword>
+    </item>
+    <item><headword id="d0e307" type="heading" level="h1">5. Parts of the body</headword></item>
+	<item>
+	  <headword id="idola204">[note]</headword>
+	  <description>[NOTES: the whole section is in blue, i.e. Mr Henderson’s colour, but Mr Henderson’s name appears only next to some of the words while Ms Gibson’s name appears next to some of the others, which seems to suggest that the terms without a name were shared by both informants.]</description>
+    </item>
+	<item>
+      <headword id="d0e321">ceann</headword>
+      <description>head.</description>
+    </item>
+    <item>
+      <headword id="d0e330">amhach</headword>
+      <description>neck.</description>
+    </item>
+    <item>
+      <headword id="d0e339">adhaircean</headword>
+      <description>horns.</description>
+    </item>
+    <item>
+      <headword id="d0e348">bathais (f)</headword>
+      <description>forehead.</description>
+    </item>
+    <item>
+      <headword id="d0e357">bial</headword>
+      <description>mouth.</description>
+    </item>
+    <item>
+      <headword id="d0e366">fionnadh (m)</headword>
+      <description>hair.</description>
+    </item>
+    <item>
+      <headword id="d0e375">bian (m)</headword>
+      <description>hide.</description>
+    </item>
+    <item>
+      <headword id="d0e384">seiche (f)</headword>
+      <description>hide.</description>
+    </item>
+    <item>
+      <headword id="d0e393">gualainn (f)</headword>
+      <description>shoulder.</description>
+    </item>
+    <item>
+      <headword id="d0e402">broilleach (m)</headword>
+      <description>breast.</description>
+    </item>
+    <item>
+      <headword id="d0e411">uchd (m)</headword>
+      <description>breast.</description>
+    </item>
+    <item>
+      <headword id="d0e420">casan-toisich</headword>
+      <description>forelegs.</description>
+    </item>
+    <item>
+      <headword id="d0e429">glùinean</headword>
+      <description>knees.</description>
+    </item>
+    <item>
+      <headword id="d0e438">druim</headword>
+      <description>backbone.</description>
+    </item>
+    <item>
+      <headword id="d0e447">cnaimh-droma</headword>
+      <description>backbone.</description>
+    </item>
+    <item>
+      <headword id="d0e456">smear-caillich</headword>
+      <description>spinal cord.</description>
+    </item>
+    <item>
+      <headword id="d0e465">an ceathramh deirich (dh)</headword>
+      <description>hindquarters.</description>
+    </item>
+    <item>
+      <headword id="d0e474">casan deirich (dh)</headword>
+      <description>hind legs.</description>
+    </item>
+    <item>
+      <headword id="d0e483">speur, speuran</headword>
+      <description>[pl] joints in back legs.</description>
+    </item>
+    <item>
+      <headword id="d0e492">crodhan (m), croidheanan (pl)</headword>
+      <description>hoofs.</description>
+    </item>
+    <item>
+      <headword id="d0e501">cruachann (f), cruachainn</headword>
+      <description>[pl] hips.</description>
+    </item>
+    <item>
+      <headword id="d0e510">loch-lian (m)</headword>
+      <description>rump. (Jeannie Gibson)</description>
+    </item>
+    <item>
+      <headword id="d0e519">urball</headword>
+      <description>tail.</description>
+    </item>
+    <item>
+      <headword id="d0e528">ùgh (m)</headword>
+      <description>udder.</description>
+    </item>
+    <item>
+      <headword id="d0e537">sine (f), sinean (pl)</headword>
+      <description>teats.</description>
+    </item>
+    <item>
+      <headword id="d0e546">allt (m), uillt (pl)</headword>
+      <description>muscles. (Jeannie Gibson)</description>
+    </item>
+    <item>
+      <headword id="d0e555">muiseal</headword>
+      <description>muscles. (Angus Henderson)</description>
+    </item>
+    <item>
+      <headword id="d0e564">giorragan</headword>
+      <description>nerves. (Angus Henderson)</description>
+    </item>
+    <item>
+      <headword id="d0e573">farasg (m)</headword>
+      <description>ligament.</description>
+    </item>
+    <item>
+      <headword id="d0e582">cridhe</headword>
+      <description>heart.</description>
+    </item>
+    <item>
+      <headword id="d0e591">féith (f), féithean</headword>
+      <description>[pl] vein.</description>
+    </item>
+    <item>
+      <headword id="d0e600">sgeith féin</headword>
+      <description>varicose vein. (Angus Henderson)</description>
+    </item>
+    <item>
+      <headword id="d0e609">cuisle (f), cuislean</headword>
+      <description>[pl] artery.</description>
+    </item>
+    <item>
+      <headword id="d0e618">sgamhan</headword>
+      <description>lungs.</description>
+    </item>
+    <item>
+      <headword id="d0e627">pìob analach</headword>
+      <description>windpipe.</description>
+    </item>
+    <item>
+      <headword id="d0e636">ubhal-sgornan</headword>
+      <description>larynx. (Jean Gibson)</description>
+    </item>
+    <item>
+      <headword id="d0e645">ubhal na sgornan</headword>
+      <description>larynx. (Angus Henderson)</description>
+    </item>
+    <item>
+      <headword id="d0e654">sgamhan</headword>
+      <description>liver. (Jeannie Gibson)</description>
+    </item>
+    <item>
+      <headword id="d0e663">gruthann (m)</headword>
+      <description>liver. (Angus Henderson)</description>
+    </item>
+    <item>
+      <headword id="d0e672">airne (m), airneanan (pl)</headword>
+      <description>kidney.</description>
+    </item>
+    <item>
+      <headword id="d0e681">aotraman (m)</headword>
+      <description>gallbladder. (Jeannie Gibson)</description>
+    </item>
+    <item>
+      <headword id="d0e690">feithean na h-amhaich</headword>
+      <description>glands. (Jeannie Gibson)</description>
+    </item>
+    <item>
+      <headword id="d0e699">maodal (m)</headword>
+      <description>stomachs. (Angus Henderson)</description>
+    </item>
+    <item>
+      <headword id="d0e708">mionach</headword>
+      <description>intestines.</description>
+    </item>
+    <item>
+      <headword id="d0e717">gir</headword>
+      <description>fat. (Angus Henderson)</description>
+    </item>
+    <item><headword id="d0e725" type="heading" level="h1">6. Calving</headword></item>
+    <item><headword id="d0e729" type="heading" level="h2">[Angus Henderson]</headword></item>
+    <item>
+      <headword id="d0e734">Tha i air dàil</headword>
+      <description>cow at the bull (in heat).</description>
+    </item>
+    <item>
+      <headword id="d0e743">saothach a’ laoigh</headword>
+      <description>afterbirth.</description>
+    </item>
+    <item><headword id="d0e751" type="heading" level="h1">7. Milking</headword></item>
+    <item><headword id="d0e755" type="heading" level="h2">[Angus Henderson]</headword></item>
+    <item>
+      <headword id="d0e760">bleoghann</headword>
+    </item>
+    <item>
+      <headword id="d0e766">a’ leigeil a’ mhairt</headword>
+      <description>milking.</description>
+    </item>
+    <item>
+      <headword id="d0e775">a’ leigeil na bó</headword>
+      <description>milking.</description>
+    </item>
+    <item>
+      <headword id="d0e784">mart</headword>
+      <description>cattle in general.</description>
+    </item>
+    <item>
+      <headword id="d0e793">bó</headword>
+      <description>milking cow having given birth.</description>
+    </item>
+    <item>
+      <headword id="d0e802">’ga tioramachadh</headword>
+      <description>milking to last drop.</description>
+    </item>
+    <item>
+      <headword id="d0e811">deoghal</headword>
+      <description>suckling.</description>
+    </item>
+    <item>
+      <headword id="d0e820">a’ chiad bhainne</headword>
+      <description>milk yielded first 2 or 3 days after calving (not for drinking, only for calf or for making scones).</description>
+    </item>
+    <item>
+      <headword id="d0e829">am na bleoghainn</headword>
+      <description>milking time.</description>
+    </item>
+    <item>
+      <headword id="d0e838">cuman (m)</headword>
+      <description>milking pail.</description>
+    </item>
+    <item>
+      <headword id="d0e847">curasan (m), curasain (pl)</headword>
+      <description>milking pail.</description>
+    </item>
+    <item><headword id="d0e855" type="heading" level="h1">8. Feeding</headword></item>
+    <item><headword id="d0e859" type="heading" level="h2">[Angus Henderson]</headword></item>
+    <item>
+      <headword id="d0e864">biathadh nam beothaichean</headword>
+    </item>
+    <item>
+      <headword id="d0e870">’gam biathadh le làimh</headword>
+    </item>
+    <item>
+      <headword id="d0e876">uisge</headword>
+      <description>bhiodh iad a’ cur salann is min innseanach ann.</description>
+    </item>
+    <item>
+      <headword id="d0e885">ionaltradh</headword>
+      <description>grazing.</description>
+    </item>
+    <item>
+      <headword id="d0e894">fiarach</headword>
+      <description>grazing gun bheothaichean.</description>
+    </item>
+    <item>
+      <headword id="d0e903">caitcheann</headword>
+      <description>common grazing.</description>
+    </item>
+    <item>
+      <headword id="d0e912">ban</headword>
+      <description>fallow.</description>
+    </item>
+    <item>
+      <headword id="d0e921">bó ghannach</headword>
+      <description>cow not in calf.</description>
+    </item>
+    <item>
+      <headword id="d0e930">buachailleadh</headword>
+      <description>tending.</description>
+    </item>
+	<item><headword id="d0e938" type="heading" level="h3">Food</headword></item>
+    <item>
+      <headword id="d0e943">ceannag de dh’fhiar</headword>
+      <description>(2½'-3' long)</description>
+    </item>
+    <item>
+      <headword id="d0e952">sguab de dh’arbhair</headword>
+      <description>(smaller, ach tuilleadh biadh ann)</description>
+    </item>
+    <item>
+      <headword id="d0e961">buntàta</headword>
+      <description>math do’n chrodh.</description>
+    </item>
+    <item>
+      <headword id="d0e970">tuirneip</headword>
+    </item>
+    <item>
+      <headword id="d0e976">feamainn cìrean</headword>
+    </item>
+    <item><headword id="d0e981" type="heading" level="h1">9. Apparatus</headword></item>
+    <item><headword id="d0e985" type="heading" level="h2">[Angus Henderson]</headword></item>
+    <item>
+      <headword id="d0e990">slabhraidh</headword>
+      <description>neck rope.</description>
+    </item>
+    <item>
+      <headword id="d0e999">teaghair</headword>
+      <description>tether.</description>
+    </item>
+    <item>
+      <headword id="d0e1008">cìochban</headword>
+      <description>tether stake.</description>
+    </item>
+    <item>
+      <headword id="d0e1017">buarach</headword>
+      <description>fetter for milking.</description>
+    </item>
+    <item>
+      <headword id="d0e1026">cas bheag</headword>
+      <description>fetter joining fore-leg and hind-leg to prevent the animal from jumping over dykes etc.</description>
+    </item>
+    <item>
+      <headword id="d0e1035">clach (air na reitheachan)</headword>
+      <description>weight tied to an animal to prevent its escape.</description>
+    </item>
+    <item>
+      <headword id="d0e1044">cròchdan (m)</headword>
+      <description>instrument, usually spiked, attached to a calf’s mouth to prevent its sucking its mother.</description>
+    </item>
+    <item>
+      <headword id="d0e1053">luairchean</headword>
+      <description>calf-skin stuffed, to induce the cow to give milk.</description>
+    </item>
+    <item><headword id="d0e1061" type="heading" level="h1">10. Diseases</headword></item>
+    <item><headword id="d0e1065" type="heading" level="h2">[Angus Henderson]</headword></item>
+	<item><headword id="d0e1069" type="heading" level="h3">(a) diseases of the skin; warts, swellings, spots; ticks, worms</headword></item>
+    <item>
+      <headword id="d0e1074">cloimh</headword>
+      <description>scab.</description>
+    </item>
+    <item>
+      <headword id="d0e1083">feursag</headword>
+      <description>worm in hide.</description>
+    </item>
+    <item>
+      <headword id="d0e1092">foinne, foinneachan</headword>
+      <description>[pl] wart.</description>
+    </item>
+    <item>
+      <headword id="d0e1101">cartan, cartanan</headword>
+      <description>[pl] tick.</description>
+    </item>
+    <item><headword id="d0e1109" type="heading" level="h3">(b) diseases of the head and neck</headword></item>
+	<item><headword id="d0e1113" type="heading" level="h3">(c) diseases of the bone structure</headword></item>
+    <item>
+      <headword id="d0e1118">loinidh</headword>
+      <description>rheumatics – in old cattle after having been inside all winter.</description>
+    </item>
+    <item><headword id="d0e1126" type="heading" level="h3">(d) diseases of the internal organs</headword></item>
+    <item>
+      <headword id="d0e1131">an tart</headword>
+      <description>constipation. Cure – ula lìn (raw linseed oil).</description>
+    </item>
+    <item><headword id="d0e1139" type="heading" level="h3">(e) diseases affecting the udder and milk production</headword></item>
+    <item>
+      <headword id="d0e1144">[buidheachan]</headword>
+      <description>’Se buidheachan a rinn i – cow losing milk.</description>
+    </item>
+	<item><headword id="d0e1152" type="heading" level="h3">(f) injury of any kind</headword></item>
+    <item><headword id="d0e1156" type="heading" level="h1">11. Miscellaneous</headword><description>[misnumbered as 12] </description></item>
+    <item><headword id="d0e1160" type="heading" level="h2">[Angus Henderson]</headword></item>
+    <item>
+      <headword id="d0e1165">dùnan</headword>
+      <description>dunghill.</description>
+    </item>
+  </items>
+</fieldworkDocument>

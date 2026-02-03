@@ -1,0 +1,975 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?><!-- checked by MM on 3 6 14 --><fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="AOHenley_DaliburghJAMacDonaldeaglais" docType="questionnaire" subType="AnEaglaisChaitligeach" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>An Eaglais / Ecclesiastical Terms</title>
+  <date>[1987-88]</date>
+  <fieldworker personId="ohenleya">[A. O’Henley/self?]</fieldworker>
+  <note>[NOTES: the original title of the questionnaire is “An Eaglais Chaitligeach”]</note>
+  <note>[NOTES: there is a note attached to the list by the informant – ‘pp. 6-9 – still working on them’. The list is typed. Accents were added by hand but only on the first two pages.]</note>
+  <informant>
+    <nameEnglish>Rev. John A. MacDonald</nameEnglish>
+  </informant>
+  <location>South Uist, Daliburgh</location>
+  <items>
+    <item><headword id="d0e32" type="heading" level="h1">1. Dreuchdan na h-eaglais</headword></item>
+    <item>
+      <headword id="idm109571888">Am Pàpa</headword>
+      <description>The Pope.</description>
+    </item>
+    <item>
+      <headword id="idm109568648">An Cardinal</headword>
+      <description>Cardinal.</description>
+    </item>
+    <item>
+      <headword id="idm109565696">An t-easbuig</headword>
+      <description>Bishop.</description>
+    </item>
+    <item>
+      <headword id="idm109586936">An t-Àrd easbuig</headword>
+      <description>Archbishop.</description>
+    </item>
+    <item>
+      <headword id="idm109588448">Colaisde nan Easbuigean</headword>
+      <description>Episcopal College, College of Bishops.</description>
+    </item>
+    <item>
+      <headword id="idm109589960">a’ Churia</headword>
+      <description>Curia (Vatican Department).</description>
+    </item>
+    <item>
+      <headword id="idm109591544">Ball dhen Churia</headword>
+      <description>Member of Curia.</description>
+    </item>
+    <item>
+      <headword id="idm109592408">Comhairle nan Easbuigean</headword>
+      <description>Episcopal Conference.</description>
+    </item>
+    <item>
+      <headword id="idm109593488">Comhairle Easbuigean Alba</headword>
+      <description>Scottish Episcopal Conference.</description>
+    </item>
+    <item>
+      <headword id="idm109595720">Fear-cathrach Comhairle nan Easbuigean</headword>
+      <description>President of Episcopal Conference.</description>
+    </item>
+    <item>
+      <headword id="idm109596944">Runaire Comhairle nan Easbuigean</headword>
+      <description>Secretary of Episcopal Conference.</description>
+    </item>
+    <item>
+      <headword id="idm109599320">Deadhan</headword>
+      <description>Dean.</description>
+    </item>
+    <item>
+      <headword id="idm109599536">An Canon</headword>
+      <description>Canon.</description>
+    </item>
+    <item>
+      <headword id="idm109601048">An Sagart</headword>
+      <description>Priest.</description>
+    </item>
+    <item>
+      <headword id="idm109602632">An Deucon</headword>
+      <description>Deacon.</description>
+    </item>
+    <item>
+      <headword id="idm109604216">An Leughadair</headword>
+      <description>Lector/Reader.</description>
+    </item>
+    <item>
+      <headword id="idm109605728">An Clèireach</headword>
+      <description>Acolyte.</description>
+    </item>
+    <item>
+      <headword id="idm109607816">Am Manach</headword>
+      <description>Monk.</description>
+    </item>
+    <item>
+      <headword id="idm109609544">Am Bràthair</headword>
+      <description>Brother.</description>
+    </item>
+    <item>
+      <headword id="idm109610912">A’ Mhnà Chrabhaidh</headword>
+      <description>Nun.</description>
+    </item>
+    <item>
+      <headword id="idp165560">An Clèireach</headword>
+      <description>Altar Server.</description>
+    </item>
+    <item>
+      <headword id="idp167072">An Sgìr Easbuig</headword>
+      <description>Diocese.</description>
+    </item>
+    <item>
+      <headword id="idp168584">Am Parraisde</headword>
+      <description>Parish.</description>
+    </item>
+    <item>
+      <headword id="idp170096">Curia na Sgìr Easbuig</headword>
+      <description>Diocesan Curia.</description>
+    </item>
+    <item>
+      <headword id="idp171608">Am Fear Ionad</headword>
+      <description>Vicar.</description>
+    </item>
+    <item>
+      <headword id="idp173120">Fear-Ionad an Easbuig</headword>
+      <description>Episcopal Vicar.</description>
+    </item>
+    <item>
+      <headword id="idp174632">A’ Chomhairle</headword>
+      <description>College of Consultors.</description>
+    </item>
+    <item>
+      <headword id="idp176144">Comhairle na Sagart</headword>
+      <description>Council of Priests.</description>
+    </item>
+    <item>
+      <headword id="idp177656">Comhairle a’ Pharraisde</headword>
+      <description>Parish Council.</description>
+    </item>
+    <item>
+      <headword id="idp179168">Ordugh Naomh</headword>
+      <description>Holy Order(s).</description>
+    </item>
+    <item>
+      <headword id="idp180680">Ministear</headword>
+      <description>Minister.</description>
+    </item>
+    <item>
+      <headword id="idp182192">Manachain</headword>
+      <description>Monastery.</description>
+    </item>
+    <item>
+      <headword id="idp183704">Manaistear</headword>
+      <description>Monastery.</description>
+    </item>
+    <item>
+      <headword id="idp185216">Clochar</headword>
+      <description>Convent.</description>
+    </item>
+    <item>
+      <headword id="idp186728">Pears’ Eaglais</headword>
+      <description>Clergyman.</description>
+    </item>
+    <item>
+      <headword id="idp188240">Ceisdear</headword>
+      <description>Catechist.</description>
+    </item>
+    <item>
+      <headword id="idp190616">Muime</headword>
+      <description>Godmother.</description>
+    </item>
+    <item>
+      <headword id="idp192128">Oide</headword>
+      <description>Godfather.</description>
+    </item>
+    <item>
+      <headword id="idp193640">Goistidh</headword>
+      <description>Sponsor (Confirmation).</description>
+    </item>
+    <item>
+      <headword id="idp195152">Fear na Bainnse</headword>
+      <description>Groom.</description>
+    </item>
+    <item>
+      <headword id="idp196664">Bean na Bainnse</headword>
+      <description>Bride.</description>
+    </item>
+    <item>
+      <headword id="idp198176">Fleasgach</headword>
+      <description>Best man.</description>
+    </item>
+    <item>
+      <headword id="idp199688">Maighdean</headword>
+      <description>Bridesmaid.</description>
+    </item>
+    <item>
+      <headword id="idp202064">Iosanach</headword>
+      <description>Jesuit.</description>
+    </item>
+    <item><headword id="d0e432" type="heading" level="h1">2. Aodaichean sagairt, easbuig, etc.</headword></item>
+    <item>
+      <headword id="idp204440">An Coilear</headword>
+      <description>Collar.</description>
+    </item>
+    <item>
+      <headword id="idp205952">An Deise Dhubh</headword>
+      <description>Black suit, clerical suit.</description>
+    </item>
+    <item>
+      <headword id="idp207464">A’ Pheiteag</headword>
+      <description>Vest stock.</description>
+    </item>
+    <item>
+      <headword id="idp208976">An t-Seacaid Mhòr</headword>
+      <description>Tonsure coat.</description>
+    </item>
+    <item>
+      <headword id="idp211352">A’ Chulaidh-Aifreinn</headword>
+      <description>Mass vestments.</description>
+    </item>
+    <item>
+      <headword id="idp212864">An t-Anart</headword>
+      <description>Amice.</description>
+    </item>
+    <item>
+      <headword id="idp214376">An t-Eideadh Geal</headword>
+      <description>Alb.</description>
+    </item>
+    <item>
+      <headword id="idp215888">An Crios</headword>
+      <description>Cinture.</description>
+    </item>
+    <item>
+      <headword id="idp217400">An Stòl</headword>
+      <description>Stole.</description>
+    </item>
+    <item>
+      <headword id="idp218912">An Fhalluinn Uachdarach</headword>
+      <description>Chasuble.</description>
+    </item>
+    <item>
+      <headword id="idp220424">A’ Chulaidh (Uachdarach)</headword>
+      <description>Chasuble.</description>
+    </item>
+    <item>
+      <headword id="idp222800">Ad an Easbuig</headword>
+      <description>Mitre.</description>
+    </item>
+    <item>
+      <headword id="idp224312">Fàinn’ an Easbuig</headword>
+      <description>Episcopal Ring.</description>
+    </item>
+    <item>
+      <headword id="idp225824">Cromag an Easbuig</headword>
+      <description>Crozier.</description>
+    </item>
+    <item>
+      <headword id="idp227336">Crois an Easbuig</headword>
+      <description>Pectoral Cross.</description>
+    </item>
+    <item>
+      <headword id="idp228848">Currac an Easbuig</headword>
+      <description>Skull-cap, Zucchetto.</description>
+    </item>
+    <item>
+      <headword id="idp230360">Cleòc’ an Easbuig</headword>
+      <description>Capa Magna (Bishop’s Cloak).</description>
+    </item>
+    <item>
+      <headword id="idp232736">Casag</headword>
+      <description>Cassock.</description>
+    </item>
+    <item>
+      <headword id="idp234248">Am Mullach Geal</headword>
+      <description>Surplice, Cotta.</description>
+    </item>
+    <item>
+      <headword id="idp237272">Guailleachan</headword>
+      <description>Humeral Veil.</description>
+    </item>
+    <item>
+      <headword id="idp238784">Culaidh Mhòr</headword>
+      <description>Cope.</description>
+    </item>
+    <item>
+      <headword id="idp241160">Ciste na Culaidh</headword>
+      <description>Vestments’ Chest.</description>
+    </item>
+    <item><headword id="d0e634" type="heading" level="h1">3. Laithean fèille na bliadhna agus cleachdaidhean co-cheangailte rui</headword></item>
+    <item>
+      <headword id="idp243536">An Aidbhean</headword>
+      <description>Advent.</description>
+    </item>
+    <item>
+      <headword id="idp245048">An Nollaig</headword>
+      <description>Christmas.</description>
+    </item>
+    <item>
+      <headword id="idp246560">Aifreann Mheadhon-Oidhche</headword>
+      <description>Midnight Mass.</description>
+    </item>
+    <item>
+      <headword id="idp248072">Oidhche Nollaig</headword>
+      <description>Christmas Eve.</description>
+    </item>
+    <item>
+      <headword id="idp249584">Oidhche na h-Aifreinn</headword>
+      <description>Christmas Eve.</description>
+    </item>
+    <item>
+      <headword id="idp251096">La nan Tri Righrean</headword>
+      <description>The Epiphany.</description>
+    </item>
+    <item>
+      <headword id="idp252608">La Feill an Teaghlaich Naoimh</headword>
+      <description>Feast of the Holy Family (Sunday in Octave of Christmas).</description>
+    </item>
+    <item>
+      <headword id="idp254192">La Feill Moire Mathair Dhe</headword>
+      <description>Feast of Motherhood of Our Lady (January 1st).</description>
+    </item>
+    <item>
+      <headword id="idp255920">La na Bliadhn’ Uire</headword>
+      <description>New Year’s Day.</description>
+    </item>
+    <item>
+      <headword id="idp257432">La Feill Baisteadh an Tighearna</headword>
+      <description>Baptism of the Lord (Sunday after 6th January).</description>
+    </item>
+    <item>
+      <headword id="idp259160">Dimairt na h-Inide</headword>
+      <description>Shrove Tuesday.</description>
+    </item>
+    <item>
+      <headword id="idp260672">Diciadain na Luatha</headword>
+      <description>Ash Wednesday.</description>
+    </item>
+    <item>
+      <headword id="idp262184">An Carghus</headword>
+      <description>Lent.</description>
+    </item>
+    <item>
+      <headword id="idp264560">Trasg, Trasgadh</headword>
+      <description>Fasting.</description>
+    </item>
+    <item>
+      <headword id="idp266072">Cadamh</headword>
+      <description>Abstinence.</description>
+    </item>
+    <item>
+      <headword id="idp269096">Seachdainn na Ceusadh</headword>
+      <description>Holy Week.</description>
+    </item>
+    <item>
+      <headword id="idp270608">Didomhnaich Turnuis</headword>
+      <description>Palm Sunday.</description>
+    </item>
+    <item>
+      <headword id="idp272120">Didomhnaich Slat Pailme</headword>
+      <description>Palm Sunday.</description>
+    </item>
+    <item>
+      <headword id="idp273632">Diardaoin Bangaid</headword>
+      <description>Holy Thursday.</description>
+    </item>
+    <item>
+      <headword id="idp275144">Dihaoine na Ceusda</headword>
+      <description>Good Friday.</description>
+    </item>
+    <item>
+      <headword id="idp276656">Disathurna na Casga</headword>
+      <description>Holy Saturday.</description>
+    </item>
+    <item>
+      <headword id="idp278168">Didomhnaich Casg</headword>
+      <description>Easter Sunday.</description>
+    </item>
+    <item>
+      <headword id="idp279680">Seachdainn na Casga</headword>
+      <description>Easter Week.</description>
+    </item>
+    <item>
+      <headword id="idp281192">Didomhnaich Min-Chasg</headword>
+      <description>Low Sunday (Second Sunday of Easter).</description>
+    </item>
+    <item>
+      <headword id="idp283568">Diardaoin Deasghabhail</headword>
+      <description>Ascension Thursday.</description>
+    </item>
+    <item>
+      <headword id="idp285080">Didomhnaich Caingis</headword>
+      <description>Pentecost (Whit) Sunday.</description>
+    </item>
+    <item>
+      <headword id="idp286592">Didomhnaich na Trionaid</headword>
+      <description>Trinity Sunday.</description>
+    </item>
+    <item>
+      <headword id="idp288104">Feill Corp Chriosda</headword>
+      <description>Corpus Christi (Thursday after Trinity Sunday).</description>
+    </item>
+    <item>
+      <headword id="idp289616">Feill Cridh’ Uile Naomh Iosa</headword>
+      <description>Feast of Sacred Heart (Friday after second Sunday after Pentecost).</description>
+    </item>
+    <item>
+      <headword id="idp291128">Domhnach Cumanta na Bliadhna</headword>
+      <description>Ordinary Sunday of the Year.</description>
+    </item>
+    <item>
+      <headword id="idp292640">Feill Naomh Iosaph</headword>
+      <description>St. Joseph’s Feast (19th March).</description>
+    </item>
+    <item>
+      <headword id="idp294368">La Fheill Peadair</headword>
+      <description>St. Peter and Paul (29th June).</description>
+    </item>
+    <item>
+      <headword id="idp296096">La Fheill Moire</headword>
+      <description>Assumption of Our Lady (15th August).</description>
+    </item>
+    <item>
+      <headword id="idp412544">La Fheill Ardachadh Moire</headword>
+      <description>Assumption.</description>
+    </item>
+    <item>
+      <headword id="idp414056">La Fheill Chriosda an Righ</headword>
+      <description>Feast of Christ the King (last Sunday before Advent).</description>
+    </item>
+    <item>
+      <headword id="idp415568">La nam Marbh</headword>
+      <description>1st November – All Souls’ Day.</description>
+    </item>
+    <item>
+      <headword id="idp417296">La Feill [sic] nan Naomh Uile</headword>
+      <description>All Saints (2nd November).</description>
+    </item>
+    <item>
+      <headword id="idp419024">La Fheill Moire a Ghineadh gun Smal</headword>
+      <description>Feast of Immaculate Conception (8th December).</description>
+    </item>
+    <item>
+      <headword id="idp420752">La Fheill Moire nan Coinnlean</headword>
+      <description>Candlemas (2nd February).</description>
+    </item>
+    <item><headword id="d0e989" type="heading" level="h1">4. Gach pàirt dhen eaglais agus àiteachan sonraichte am broinn na h-eaglais</headword></item>
+    <item>
+      <headword id="idp423344">Am Poirte</headword>
+      <description>Porch (main entrance).</description>
+    </item>
+    <item>
+      <headword id="idp424856">Cul na h-Eaglaise</headword>
+      <description>Entrance area.</description>
+    </item>
+    <item>
+      <headword id="idp426368">Tobar an Uisge Choisrigte</headword>
+      <description>Holy water stoup.</description>
+    </item>
+    <item>
+      <headword id="idp427880">Tobar a’ Bhaistidh</headword>
+      <description>Baptismal font.</description>
+    </item>
+    <item>
+      <headword id="idp429392">An Altair</headword>
+      <description>The altar.</description>
+    </item>
+    <item>
+      <headword id="idp430904">A’ Bheastraidh</headword>
+      <description>The vestry.</description>
+    </item>
+    <item>
+      <headword id="idp432416">A’ Chubaid</headword>
+      <description>The pulpit.</description>
+    </item>
+    <item>
+      <headword id="idp433928">Aite na h-Eisdeachd</headword>
+      <description>Confessional.</description>
+    </item>
+    <item>
+      <headword id="idp435440">Ionad a’ Leughaidh</headword>
+      <description>Lectern.</description>
+    </item>
+    <item>
+      <headword id="idp436952">A’ Chathair</headword>
+      <description>Presidential chair.</description>
+    </item>
+    <item>
+      <headword id="idp438464">Aghaidh na h-Eaglaise</headword>
+      <description>Front area in church.</description>
+    </item>
+    <item>
+      <headword id="idp439976">Slighe na Croise</headword>
+      <description>The stations of the cross.</description>
+    </item>
+    <item>
+      <headword id="idp441488">An Ceusadh</headword>
+      <description>The crucifix.</description>
+    </item>
+    <item>
+      <headword id="idp443000">Iomhaigh</headword>
+      <description>Statue.</description>
+    </item>
+    <item>
+      <headword id="idp444512">Dorus na Beastraidh</headword>
+      <description>Vestry door.</description>
+    </item>
+    <item><headword id="d0e1128" type="heading" level="h1">5. Nìthean a tha air a cleachdadh ann a bhith deanamh aifreann neo seirbheis</headword></item>
+    <item>
+      <headword id="idp446888">Buill na h-Altarach</headword>
+      <description>Altar furnishings (in Sanctuary).</description>
+    </item>
+    <item>
+      <headword id="idp448400">Uidheam na h-Altarach</headword>
+      <description>Altar furnishings (on actual Altar).</description>
+    </item>
+    <item>
+      <headword id="idp449912">Na h-Annartan</headword>
+      <description>Altar cloths.</description>
+    </item>
+    <item>
+      <headword id="idp451424">A’ Choinneal</headword>
+      <description>Candle.</description>
+    </item>
+    <item>
+      <headword id="idp452936">A’ Choinneal Mhor</headword>
+      <description>Paschal candle.</description>
+    </item>
+    <item>
+      <headword id="idp454448">An Crann Ceusaidh</headword>
+      <description>Crucifix.</description>
+    </item>
+    <item>
+      <headword id="idp455960">An Ceusadh</headword>
+      <description>Crucifix.</description>
+    </item>
+    <item>
+      <headword id="idp457472">A’ Chrois</headword>
+      <description>Cross.</description>
+    </item>
+    <item>
+      <headword id="idp458984">A’ Chailis</headword>
+      <description>Chalice.</description>
+    </item>
+    <item>
+      <headword id="idp460496">Am Paten</headword>
+      <description>Paten.</description>
+    </item>
+    <item>
+      <headword id="idp462008">Uisge Coisrigte</headword>
+      <description>Holy Water.</description>
+    </item>
+    <item>
+      <headword id="idp463520">Tuis</headword>
+      <description>Incense.</description>
+    </item>
+    <item>
+      <headword id="idp465032">Tuisear</headword>
+      <description>Censer.</description>
+    </item>
+    <item>
+      <headword id="idp466544">Soitheach na Tuise</headword>
+      <description>Incense boat.</description>
+    </item>
+    <item>
+      <headword id="idp468920">Leabhar na Leughaidhean</headword>
+      <description>Lectionary.</description>
+    </item>
+    <item>
+      <headword id="idp470432">Leabhar na h-Altarach</headword>
+      <description>Missal; Sacramentary.</description>
+    </item>
+    <item>
+      <headword id="idp472808">Soitheach an Uisge Choisrigte</headword>
+      <description>Holy Water dish.</description>
+    </item>
+    <item>
+      <headword id="idp475184">Fion</headword>
+      <description>Wine.</description>
+    </item>
+    <item>
+      <headword id="idp476696">Uisge</headword>
+      <description>Water.</description>
+    </item>
+    <item>
+      <headword id="idp478208">Aran (na h-Aifreinn)</headword>
+      <description>Altar bread.</description>
+    </item>
+    <item>
+      <headword id="idp479720">Na Soithichean</headword>
+      <description>Cruets.</description>
+    </item>
+    <item>
+      <headword id="idp482096">Ola</headword>
+      <description>Oil.</description>
+    </item>
+    <item>
+      <headword id="idp483608">Ola a’ Bhaistidh</headword>
+      <description>Baptismal oil; Oil of Catechumens.</description>
+    </item>
+    <item>
+      <headword id="idp485120">Ola a’ Chrism</headword>
+      <description>Oil of Chrism (used in Baptism and Confirmation).</description>
+    </item>
+    <item>
+      <headword id="idp486632">Ola an Ungaidh Naoimh</headword>
+      <description>Oil of the Sacrament of the Sick; Oleum Infirmorum.</description>
+    </item>
+    <item><headword id="d0e1357" type="heading" level="h1">10. Seòrsachan ùrnaigh agus cleachdaidhean co-cheangailte rui</headword></item>
+    <item>
+      <headword id="idp489080">An Urnaigh</headword>
+      <description>Prayer.</description>
+    </item>
+    <item>
+      <headword id="idp490592">Dean urnaigh</headword>
+      <description>To pray.</description>
+    </item>
+    <item>
+      <headword id="idp492104">Urnaigh an Tighearna</headword>
+      <description>The Lord’s Prayer.</description>
+    </item>
+    <item>
+      <headword id="idp493616">A’ Phaidir</headword>
+      <description>The Lord’s Prayer, The Pater Noster.</description>
+    </item>
+    <item>
+      <headword id="idp495128">Am Beannachadh Moire</headword>
+      <description>The Ave Maria, The Hail Mary.</description>
+    </item>
+    <item>
+      <headword id="idp496640">A’ Chreud</headword>
+      <description>The Creed, The Credo.</description>
+    </item>
+    <item>
+      <headword id="idp498152">Creud nan Abstol</headword>
+      <description>The Apostles’ Creed.</description>
+    </item>
+    <item>
+      <headword id="idp499664">An t-Aideachadh</headword>
+      <description>The Confiteor.</description>
+    </item>
+    <item>
+      <headword id="idp501176">Urnaigh Mhaidne</headword>
+      <description>Morning Prayer.</description>
+    </item>
+    <item>
+      <headword id="idp502688">Urnaigh Oidhche</headword>
+      <description>Night Prayer.</description>
+    </item>
+    <item>
+      <headword id="idp504200">An Oifis</headword>
+      <description>The Office, The Breviary.</description>
+    </item>
+    <item>
+      <headword id="idp505712">An Oifis Bheag</headword>
+      <description>The Officium Parvulum.</description>
+    </item>
+    <item>
+      <headword id="idp507224">Oifis na h-Oighe Bheannaichte</headword>
+      <description>The Office of Our Lady.</description>
+    </item>
+    <item>
+      <headword id="idp508736">Oifis na Marbh</headword>
+      <description>The Office for the Dead.</description>
+    </item>
+    <item>
+      <headword id="idp510248">Tabhartas Maidne</headword>
+      <description>Morning Offering.</description>
+    </item>
+    <item>
+      <headword id="idp511760">Urnaigh an Aingil Choimhdich</headword>
+      <description>Prayer to Guardian Angel.</description>
+    </item>
+    <item>
+      <headword id="idp513272">Comharradh na Croise</headword>
+      <description>Sign of the Cross.</description>
+    </item>
+    <item>
+      <headword id="idp514784">An t-Altachadh</headword>
+      <description>Grace.</description>
+    </item>
+    <item>
+      <headword id="idp516296">Altachadh roimh Bhiadh</headword>
+      <description>Grace before meals.</description>
+    </item>
+    <item>
+      <headword id="idp517808">Altachadh an deidh Bidh</headword>
+      <description>Grace after meals.</description>
+    </item>
+    <item>
+      <headword id="idp519320">Achanaich</headword>
+      <description>Prayer of petition.</description>
+    </item>
+    <item>
+      <headword id="idp520832">Gniomh Creidimh</headword>
+      <description>Act of Faith.</description>
+    </item>
+    <item>
+      <headword id="idp522344">Gniomh Dochais</headword>
+      <description>Act of Hope.</description>
+    </item>
+    <item>
+      <headword id="idp523856">Gniomh Graidh</headword>
+      <description>Act of Love/Charity.</description>
+    </item>
+    <item>
+      <headword id="idp525368">Gniomh Aithricheas</headword>
+      <description>Act of Contrition.</description>
+    </item>
+    <item>
+      <headword id="idp526880">An Urnaigh “Cuimhnich a’ Mhoire”</headword>
+      <description>The Memorare.</description>
+    </item>
+    <item>
+      <headword id="idp528392">An Urnaigh “Failte dhuit, a Bhanruinn”</headword>
+      <description>The Salve Regina.</description>
+    </item>
+    <item>
+      <headword id="idp529904">An Urnaigh “Failt’ an Aingil”</headword>
+      <description>The Angelus.</description>
+    </item>
+    <item>
+      <headword id="idp531416">An Urnaigh “A Bhanruinn nam Flaitheas”</headword>
+      <description>Regina Coeli.</description>
+    </item>
+    <item>
+      <headword id="idp532928">An Urnaigh “Gloir don Athair”</headword>
+      <description>Gloria (Patri).</description>
+    </item>
+    <item>
+      <headword id="idp534440">Urnaigh a’ Spioraid Naoimh</headword>
+      <description>Veni Sancte Spiritus.</description>
+    </item>
+    <item>
+      <headword id="idp535952">A’ Chonair Mhoire</headword>
+      <description>Rosary.</description>
+    </item>
+    <item>
+      <headword id="idp537464">Slighe na Croise</headword>
+      <description>Way of the Cross, Via Crucis.</description>
+    </item>
+    <item>
+      <headword id="idp538976">Stad</headword>
+      <description>Station (of the Cross).</description>
+    </item>
+    <item>
+      <headword id="idp540488">Leadan</headword>
+      <description>Litany.</description>
+    </item>
+    <item>
+      <headword id="idp681296">Leadan Moire</headword>
+      <description>Litany of Our Lady.</description>
+    </item>
+    <item>
+      <headword id="idp682808">Earrann (dhen Chonair Mhoire)</headword>
+      <description>Third (section of the Rosary).</description>
+    </item>
+    <item>
+      <headword id="idp684320">Na Coig Ruin Aoibhneach</headword>
+      <description>Five Joyful Mysteries of Rosary.</description>
+    </item>
+    <item>
+      <headword id="idp685832">Na Coig Ruin Dhoruinneach</headword>
+      <description>Five Sorrowful Mysteries of Rosary.</description>
+    </item>
+    <item>
+      <headword id="idp687344">Na Coig Ruin Glormhor</headword>
+      <description>Five Glorious Mysteries of Rosary.</description>
+    </item>
+    <item>
+      <headword id="idp688856">Urnaigh ri Ban-Tighearna nan Eileannan</headword>
+      <description>Prayer to Our Lady of the Isles.</description>
+    </item>
+    <item>
+      <headword id="idp690368">Crabhadh</headword>
+      <description>Prayer.</description>
+    </item>
+    <item>
+      <headword id="idp691880">Anam Chriosda</headword>
+      <description>Anima Christi.</description>
+    </item>
+    <item>
+      <headword id="idp693392">Gniomh Molaidh</headword>
+      <description>The Divine Praises.</description>
+    </item>
+    <item>
+      <headword id="idp695768">An Aifreann</headword>
+      <description>The Mass.</description>
+    </item>
+    <item>
+      <headword id="idp697280">An Iobairt Naomh</headword>
+      <description>The Holy Sacrifice (of the Mass).</description>
+    </item>
+    <item>
+      <headword id="idp698792">Na Modhannan</headword>
+      <description>The Rubrics (of the Liturgy).</description>
+    </item>
+    <item>
+      <headword id="idp700304">Luinneag na h-Introit</headword>
+      <description>Entrance (Introit), Antiphon.</description>
+    </item>
+    <item>
+      <headword id="idp701816">An Gloria</headword>
+      <description>The Gloria.</description>
+    </item>
+    <item>
+      <headword id="idp703328">An Gloir do Dhia</headword>
+      <description>The Gloria.</description>
+    </item>
+    <item>
+      <headword id="idp704840">An t-Aideachadh</headword>
+      <description>The Confiteor.</description>
+    </item>
+    <item>
+      <headword id="idp706352">Freagairt</headword>
+      <description>The Response.</description>
+    </item>
+    <item>
+      <headword id="idp707864">Urnaigh na h-Aifreinn</headword>
+      <description>Collect.</description>
+    </item>
+    <item>
+      <headword id="idp709376">A’ Cheud Urnaigh</headword>
+      <description>Collect.</description>
+    </item>
+    <item>
+      <headword id="idp710888">A’ Cheud Leughadh</headword>
+      <description>First reading.</description>
+    </item>
+    <item>
+      <headword id="idp712400">An Darna Leughadh</headword>
+      <description>Second Reading.</description>
+    </item>
+    <item>
+      <headword id="idp713912">A’ Salm</headword>
+      <description>Psalm.</description>
+    </item>
+    <item>
+      <headword id="idp715424">Freagairt na Sailme</headword>
+      <description>Response to the Psalm.</description>
+    </item>
+    <item>
+      <headword id="idp716936">Luinneag an t-Soisgeil</headword>
+      <description>Gospel Acclamation.</description>
+    </item>
+    <item>
+      <headword id="idp718448">An Soisgeul</headword>
+      <description>Gospel (Reading).</description>
+    </item>
+    <item>
+      <headword id="idp719960">A’ Leughadh bhon t-Soisgeul</headword>
+      <description>Gospel Reading.</description>
+    </item>
+    <item>
+      <headword id="idp721472">A’ Searmon</headword>
+      <description>Homily, Sermon.</description>
+    </item>
+    <item>
+      <headword id="idp722984">A’ Chreud</headword>
+      <description>Creed.</description>
+    </item>
+    <item>
+      <headword id="idp724496">Urnaigh nan Creideach</headword>
+      <description>Bidding Prayers.</description>
+    </item>
+    <item>
+      <headword id="idp726008">An Tabhartas</headword>
+      <description>The Offertory.</description>
+    </item>
+    <item>
+      <headword id="idp727520">An Tairgse</headword>
+      <description>The Offering.</description>
+    </item>
+    <item>
+      <headword id="idp729032">Urnaigh an Tabhartais</headword>
+      <description>Offertory Prayer.</description>
+    </item>
+    <item>
+      <headword id="idp730544">An Roimh-radh</headword>
+      <description>The Preface.</description>
+    </item>
+    <item>
+      <headword id="idp732056">An Coisrigeadh</headword>
+      <description>The Consecration.</description>
+    </item>
+    <item>
+      <headword id="idp733568">Urnaigh a’ Choisrigidh</headword>
+      <description>The Eucharistic Prayer.</description>
+    </item>
+    <item>
+      <headword id="idp735080">A’ Phaidir</headword>
+      <description>The Pater Noster.</description>
+    </item>
+    <item>
+      <headword id="idp736592">’Uain Dhe</headword>
+      <description>Agnus Dei.</description>
+    </item>
+    <item>
+      <headword id="idp738104">A’ Chomain</headword>
+      <description>Communion (Part of Mass or Sacred Species).</description>
+    </item>
+    <item>
+      <headword id="idp739616">An Comanachadh</headword>
+      <description>Communion (Distribution and Reception of Sacrament).</description>
+    </item>
+    <item>
+      <headword id="idp741128">An t-Sacramaid Naomh</headword>
+      <description>Holy Communion, the Blessed Sacrament.</description>
+    </item>
+    <item>
+      <headword id="idp742640">A’ gabhail Comain</headword>
+      <description>Receiving Holy Communion.</description>
+    </item>
+    <item>
+      <headword id="idp744152">A’ toirt seachad Comain</headword>
+      <description>Distributing Holy Communion.</description>
+    </item>
+    <item>
+      <headword id="idp745664">Comharradh na Sithe</headword>
+      <description>Sign of Peace.</description>
+    </item>
+    <item>
+      <headword id="idp747176">Ionnlad na Cailise</headword>
+      <description>Purification of Chalice.</description>
+    </item>
+    <item>
+      <headword id="idp748688">Luinneag na Comain</headword>
+      <description>Communion Antiphon.</description>
+    </item>
+    <item>
+      <headword id="idp750200">Urnaigh an deidh Comain</headword>
+      <description>Postcommunion Prayer.</description>
+    </item>
+    <item>
+      <headword id="idp751712">Am Beannachadh</headword>
+      <description>The Blessing.</description>
+    </item>
+    <item>
+      <headword id="idp754088">An Leughadair</headword>
+      <description>The Reader.</description>
+    </item>
+    <item>
+      <headword id="idp755600">An Seinneadair</headword>
+      <description>The Cantor.</description>
+    </item>
+    <item>
+      <headword id="idp757112">A’ Choisir</headword>
+      <description>The Choir.</description>
+    </item>
+    <item>
+      <headword id="idp758624">An Laoidh</headword>
+      <description>The Hymn.</description>
+    </item>
+    <item>
+      <headword id="idp760136">An Cleireach</headword>
+      <description>The Server, Altar Boy.</description>
+    </item>
+    <item>
+      <headword id="idp761648">Togail an Airgid</headword>
+      <description>Collection.</description>
+    </item>
+    <item>
+      <headword id="idp763160">Togail Araid</headword>
+      <description>Special Collection.</description>
+    </item>
+    <item>
+      <headword id="idp765536">Clar nam Marbh</headword>
+      <description>List of the Dead (remembered during Bidding Prayer).</description>
+    </item>
+    <item>
+      <headword id="idp767048">Ceann Bliadhna</headword>
+      <description>Anniversary (of death).</description>
+    </item>
+    <item>
+      <headword id="idp768560">Na h-Easlaintich</headword>
+      <description>The Sick.</description>
+    </item>
+    <item>
+      <headword id="idp770072">Bannan Posaidh</headword>
+      <description>Banns of Marriage.</description>
+    </item>
+    <item>
+      <headword id="idp771584">Air eughach anns an Eaglais</headword>
+      <description>Announced in Church.</description>
+    </item>
+  </items>
+</fieldworkDocument>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 6/8/15 -->
+<!-- illustrations -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_BruernishRMacPhersonslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>02/1969</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <informant>
+    <nameEnglish>Roderick MacPherson</nameEnglish>
+  </informant>
+  <location>Barra, Bruernish</location>
+  <items>
+    <item>
+      <headword id="idp161830992">màirnealaich</headword>
+      <description>Quotation: a’ màirnealachadh. Notes: weather forecasting.</description>
+    </item>
+    <item>
+      <headword id="idp161832648">saor-dubh</headword>
+      <description>Notes: carpenter.</description>
+    </item>
+    <item>
+      <headword id="idp161834160">saothair</headword>
+      <description>Quotation: saothair an [dɤhə]. Notes: a pointless task, “obair gun fheum”.</description>
+    </item>
+    <item>
+      <headword id="idp161836032">brionglaid</headword>
+      <description>Quotation: Chaidh e ’na bhrionglaid. Notes: It got all mixed up, e.g. fishing lines getting entangled in one another.</description>
+    </item>
+	<item>
+	  <headword id="idola995">corran</headword>
+	  <description>Notes: earmark. [Cf. corran-clipeach.] <illustration src="BruernishRMacPhersonslipsillust2.jpg" width="200"/></description>
+	</item>
+    <item>
+      <headword id="idp161837688">corran-clipeach</headword>
+      <description>Notes: earmark. [Cf. corran.] <illustration src="BruernishRMacPhersonslipsillust1.jpg" width="200"/></description>
+    </item>
+    <item>
+      <headword id="idp161839272">dubh-char</headword>
+      <description>Quotation: ’S fheàrr dhomh ’n dubh-char a chuir as an neo-chàs. (RMP also heard “neo-char”.) Notes: I’d better do the heaviest, dirtiest, most unpleasant task first.</description>
+    </item>
+  </items>
+</fieldworkDocument>

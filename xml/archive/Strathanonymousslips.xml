@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 27/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_Strathanonymousslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <informant>
+    <nameEnglish>anonymous</nameEnglish>
+  </informant>
+  <location>Skye, Strath</location>
+  <items>
+    <item>
+      <headword id="idp118689576">là</headword>
+      <description>Quotation: là do dhunaich. Notes: the day of your disaster.</description>
+    </item>
+    <item>
+      <headword id="idp118791240">lòineag</headword>
+      <description>Notes: a snowflake.</description>
+    </item>
+    <item>
+      <headword id="idp118794696">miolair(e)</headword>
+      <description>Notes: watercress.</description>
+    </item>
+    <item>
+      <headword id="idp118755744">mulla-mhàgag</headword>
+      <description>Notes: a frog.</description>
+    </item>
+    <item>
+      <headword id="idp118692528">singilte</headword>
+      <description>Quotation: Nach tu tha singilte! Notes: thin.</description>
+    </item>
+    <item>
+      <headword id="idp118810752">pruchag!</headword>
+      <description>Notes: a call to a pony.</description>
+    </item>
+    <item>
+      <headword id="idp118808808">sleamhnagan</headword>
+      <description>Notes: a sty.</description>
+    </item>
+    <item>
+      <headword id="idp118807296">straoine</headword>
+      <description>Quotation: dorus s.-fosgailte = wide open.</description>
+    </item>
+    <item>
+      <headword id="idp118806216">sgot</headword>
+      <description>Quotation: Chan eil sgot aige. Notes: He hasn’t a clue. (sgot, or scot)</description>
+    </item>
+    <item>
+      <headword id="idp118804992">toirt</headword>
+      <description>Quotation: a’ toirt lionaidh, a’ toirt tràghaidh. Notes: beginning of the ebb, and the flow of tide.</description>
+    </item>
+    <item>
+      <headword id="idp118801392">tulla-bhriagan</headword>
+      <description>Quotation: na tulla-bhriagan. Notes: utter lies.</description>
+    </item>
+    <item>
+      <headword id="idp118800528">tungaidh</headword>
+      <description>Notes: damp.</description>
+    </item>
+    <item>
+      <headword id="idp118800312">urra-laimhe</headword>
+      <description>Quotation: Nach tu a fhuair an t-urra-laimhe. Notes: sarcastic remark to a person who bullied a much smaller and weaker person.</description>
+    </item>
+    <item>
+      <headword id="idp118798368">ailbhinn-dubh</headword>
+      <description>Quotation: Cho dorcha ris an ailbhinn-dubh. Notes: ? the dark abyss. [NOTES: in second hand – as dark as the pit.]</description>
+    </item>
+    <item>
+      <headword id="idp118728240">as</headword>
+      <description>Quotation: as a thomadach tàmh – all of a sudden.</description>
+    </item>
+    <item>
+      <headword id="idp118729968">bailc</headword>
+      <description>Quotation: bailc na Bealltuin. Notes: flood.</description>
+    </item>
+    <item>
+      <headword id="idp118726008">barr laomaidh</headword>
+      <description>Notes: very heavy shaws on potatoes.</description>
+    </item>
+    <item>
+      <headword id="idp118723488">a Bhrian, a Bhrian</headword>
+      <description>Notes: asseveration.</description>
+    </item>
+    <item>
+      <headword id="idp118718304">blas</headword>
+      <description>Quotation: blas a’ chrogain. Notes: distaste.</description>
+    </item>
+    <item>
+      <headword id="idp118716432">blasad</headword>
+      <description>Notes: a small thing.</description>
+    </item>
+    <item>
+      <headword id="idp118713480">bùileasg</headword>
+      <description>Notes: pot handle.</description>
+    </item>
+    <item>
+      <headword id="idp118708584">a chaoit!</headword>
+      <description>Quotation: calling ducks.</description>
+    </item>
+    <item>
+      <headword id="idp118732128">cinn-dhearga</headword>
+      <description>Notes: dogtooth rainbows.</description>
+    </item>
+    <item>
+      <headword id="idp118732704">ciuchar</headword>
+      <description>Quotation: ciuchar uisge. Notes: fine rain.</description>
+    </item>
+    <item>
+      <headword id="idp118734792">cloimheag</headword>
+      <description>Notes: disparaging term used for a small pony.</description>
+    </item>
+    <item>
+      <headword id="idp118736880">cnòid</headword>
+      <description>Notes: a luxury; (Dw) splendid present.</description>
+    </item>
+    <item>
+      <headword id="idp118738680">cuail-chnàmh</headword>
+      <description>Quotation: Tha e ’na ch.-ch. – It is reduced to dust (or atoms).</description>
+    </item>
+    <item>
+      <headword id="idp118740192">culaidh</headword>
+      <description>Quotation: Nach ann air a tha a’ chulaidh. Notes: fatness.</description>
+    </item>
+    <item>
+      <headword id="idp118741848">deileann</headword>
+      <description>Notes: pleading.</description>
+    </item>
+    <item>
+      <headword id="idp118742712">dias</headword>
+      <description>Quotation: Dias againn eòrna! Notes: an exclamation avoiding taking the name of the Lord in vain.</description>
+    </item>
+    <item>
+      <headword id="idp118743936">dìobradh</headword>
+      <description>Quotation: uisge gun (d)ìobradh. Notes: unceasing rain.</description>
+    </item>
+    <item>
+      <headword id="idp118745664">domhs</headword>
+      <description>Notes: a safe place for a boat above the tide mark.</description>
+    </item>
+    <item>
+      <headword id="idp118747176">dorainn</headword>
+      <description>Quotation: Nach tu tha ’nad dhorainn. Notes: panic.</description>
+    </item>
+    <item>
+      <headword id="idp118748688">dòrn fuar</headword>
+      <description>Notes: fhuar in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp118751928">dràibh</headword>
+      <description>Notes: an untidy worker (a long è sound).</description>
+    </item>
+    <item>
+      <headword id="idp118751640">droll</headword>
+      <description>Notes: the wire hoop used by tinkers for carrying their pails and jugs on.</description>
+    </item>
+    <item>
+      <headword id="idp118753656">drola</headword>
+      <description>See droll.</description>
+    </item>
+    <item>
+      <headword id="idp118755312">druiteag</headword>
+      <description>Notes: a small load (peats, etc.).</description>
+    </item>
+    <item>
+      <headword id="idp118720536">each seabhaid</headword>
+      <description>Notes: a stray horse. Adj. sea(bh)dail/seo(bh)dail.</description>
+    </item>
+    <item>
+      <headword id="idp118721472">failmse</headword>
+      <description>Notes: chance, accident.</description>
+    </item>
+    <item>
+      <headword id="idp118693752">finn</headword>
+      <description>Quotation: fad finn shuaineach an latha. Notes: the live-long day.</description>
+    </item>
+    <item>
+      <headword id="idp118696560">gàdruisg</headword>
+      <description>Notes: a rabble of children.</description>
+    </item>
+    <item>
+      <headword id="idp118699656">gathan-ganaisg</headword>
+      <description>Notes: rough sedge grass. On Halloween night the young men went around with torches of g-g or put them under women’s skirts – where they could! Supposed to bring fertility.</description>
+    </item>
+    <item>
+      <headword id="idp118702752">giodalan</headword>
+      <description>Notes: a small disreputable boy. ? Cf. Welsh Gwyddelan = a little Irishman.</description>
+    </item>
+    <item>
+      <headword id="idp118704120">giors</headword>
+      <description>Notes: “furious annoyance”. Dw. giorsadh.</description>
+    </item>
+  </items>
+</fieldworkDocument>

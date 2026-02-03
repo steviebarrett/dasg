@@ -1,0 +1,1098 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 16 1 15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="DRMorrisonetal_ScalpayDRMorrisoncoltas" docType="questionnaire" subType="ColtasAnDuine" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Coltas an Duine / Personal Appearance</title>
+  <date>[1975?]</date>
+  <fieldworker>[self]</fieldworker>
+  <note>[NOTES: the questionnaire has a slip filled in by Mr Morrison attached to it (see below).]</note>
+  <informant>
+    <nameEnglish>Donald R. Morrison</nameEnglish>
+    <nameGaelic>Dòmhnall R. Moireasdan</nameGaelic>
+    <age>55</age>
+  </informant>
+  <location>Na Hearadh, Scalpaigh [Harris, Scalpay]</location>
+  <items>
+    <item>
+      <headword id="idola355" type="heading" level="h1">Slip</headword>
+    </item>
+    <item>
+      <headword id="idp119939448">[mùn]</headword>
+      <description>Quotation: Faodaidh i mùn an aghaidh na gaoth tuath air mo shon-sa. (Forgive me! if this is rather distasteful.) Source: Traditional. Notes: Reference to a girl who jilted a gentleman, him saying she may do likewise in coldness for him.</description>
+    </item>
+    <item>
+      <headword id="idola356" type="heading" level="h1">Coltas an duine (Personal Appearance)</headword>
+    </item>
+	<item>
+      <headword id="idp119915544">duine le ra-spars</headword>
+      <description>[?] showy.</description>
+    </item>
+    <item>
+      <headword id="idp119910216">susbainteach</headword>
+      <description>purposeful, substance, of substance.</description>
+    </item>
+    <item>
+      <headword id="idp119946504">purpasach</headword>
+      <description>purposeful, business character.</description>
+    </item>
+    <item>
+      <headword id="idp119971704">greannach</headword>
+      <description>irritable, unpleasant.</description>
+    </item>
+    <item>
+      <headword id="idp119924760">spàgach</headword>
+      <description>splayfooted.</description>
+    </item>
+    <item>
+      <headword id="idp119908272">magail</headword>
+      <description>scoffing.</description>
+    </item>
+    <item>
+      <headword id="idp119981424">cuireideach</headword>
+      <description>entertaining.</description>
+    </item>
+    <item>
+      <headword id="idp119979264">borb</headword>
+      <description>wild, fierce.</description>
+    </item>
+    <item>
+      <headword id="idp120009576">fiadhaich</headword>
+      <description>wild, distant.</description>
+    </item>
+    <item>
+      <headword id="idp120008784">upraideach</headword>
+      <description>busy character.</description>
+    </item>
+    <item>
+      <headword id="idp119992080">ceannsgalach</headword>
+      <description>authoritative.</description>
+    </item>
+    <item>
+      <headword id="idp119987400">carach</headword>
+      <description>fly, ...</description>
+    </item>
+    <item>
+      <headword id="idp119980272">saoghalta</headword>
+      <description>worldly.</description>
+    </item>
+    <item>
+      <headword id="idp120002088">duin’-an-t-saoghail</headword>
+      <description>man of the world.</description>
+    </item>
+    <item>
+      <headword id="idp120000576">còmhraiteach</headword>
+      <description>talkative.</description>
+    </item>
+    <item>
+      <headword id="idp120001152">cianail</headword>
+      <description>a sad man, destructive to cause sadness.</description>
+    </item>
+    <item>
+      <headword id="idp120008640">cùbach</headword>
+      <description>hiding in a crouching way.</description>
+    </item>
+    <item>
+      <headword id="idp119994312">ballaisteach</headword>
+      <description>solid.</description>
+    </item>
+    <item>
+      <headword id="idp120005976">grùnndail</headword>
+      <description>well-founded, of stability.</description>
+    </item>
+    <item>
+      <headword id="idp119966592">faiceallach</headword>
+      <description>careful.</description>
+    </item>
+    <item>
+      <headword id="idp119970912">dibhearsaineach</headword>
+      <description>jokingly.</description>
+    </item>
+    <item>
+      <headword id="idp119970264">taingeil</headword>
+      <description>thankful.</description>
+    </item>
+    <item>
+      <headword id="idp119970768">diorrasach</headword>
+      <description>obstinate.</description>
+    </item>
+    <item>
+      <headword id="idp119971056">dealasach</headword>
+      <description>loyal.</description>
+    </item>
+    <item>
+      <headword id="idp119911800">cumhachdach</headword>
+      <description>powerful.</description>
+    </item>
+    <item>
+      <headword id="idp119987760">grànnda</headword>
+      <description>ugly, distasteful.</description>
+    </item>
+    <item>
+      <headword id="idp119992296">lagail</headword>
+      <description>[sic] lawful, lawful in speech.</description>
+    </item>
+    <item>
+      <headword id="idp120014112">neo-àbhaisdeach</headword>
+      <description>uncommon, no ordinary, unique.</description>
+    </item>
+    <item>
+      <headword id="idp119979192">duilich</headword>
+      <description>causing grievances.</description>
+    </item>
+    <item>
+      <headword id="idp119973792">cacach</headword>
+      <description>difficult to keep up with.</description>
+    </item>
+    <item>
+      <headword id="idp119906688">uamhasach</headword>
+      <description>terrible.</description>
+    </item>
+    <item>
+      <headword id="idp119918424">sturaicheachd</headword>
+      <description>sulky.</description>
+    </item>
+    <item>
+      <headword id="idp120009504">staoin</headword>
+      <description>shallow.</description>
+    </item>
+    <item>
+      <headword id="idp119942040">mhialachd</headword>
+      <description>(uncommon word) harmless.</description>
+    </item>
+    <item>
+      <headword id="idp119979408">caraideach</headword>
+      <description>industrious.</description>
+    </item>
+    <item>
+      <headword id="idp120010656">graingealach</headword>
+      <description>complainer, ‘especially in the way of sickness’.</description>
+    </item>
+    <item>
+      <headword id="idp119917056">drabhag</headword>
+      <description>hardly a drop.</description>
+    </item>
+    <item>
+      <headword id="idp119920008">druthag</headword>
+      <description>wee drop.</description>
+    </item>
+    <item>
+      <headword id="idp119910432">siochaire-builg</headword>
+      <description>pithless puffed up character.</description>
+    </item>
+    <item>
+      <headword id="idp119974656">fail</headword>
+      <description>untidy female, dirty female.</description>
+    </item>
+    <item>
+      <headword id="idp119983440">maide-ramasagaidh</headword>
+      <description>(yes) battering ram.</description>
+    </item>
+    <item>
+      <headword id="idp119984808">fiolcadh</headword>
+      <description>tampering.</description>
+    </item>
+    <item>
+      <headword id="idp119945568">sgeileid</headword>
+      <description>talkative female.</description>
+    </item>
+    <item>
+      <headword id="idp163813640">plunndraigeadh</headword>
+      <description>foundered.</description>
+    </item>
+    <item>
+      <headword id="idp163815152">sainnsearachd</headword>
+      <description>whispering.</description>
+    </item>
+    <item>
+      <headword id="idp163816664">pliob, pliob</headword>
+      <description>sop, sop [sic] [sob, sob?].</description>
+    </item>
+    <item>
+      <headword id="idp163818176">pliobail</headword>
+      <description>sobbing.</description>
+    </item>
+    <item>
+      <headword id="idp163819688">bliob, bliob</headword>
+      <description>soft second motion rhythm noise of the satellite on its journey (in) to space.</description>
+    </item>
+    <item>
+      <headword id="idp163821200">diog, diog</headword>
+      <description>sound of the clock.</description>
+    </item>
+    <item>
+      <headword id="idp163822712">falchan</headword>
+      <description>whisky in hiding.</description>
+    </item>
+    <item>
+      <headword id="idp163824224">sgarbh</headword>
+      <description>half bottle of whisky.</description>
+    </item>
+    <item>
+      <headword id="idp163825736">sgarbh</headword>
+      <description>cormorant.</description>
+    </item>
+    <item>
+      <headword id="idp163827248">casan-cloimhe</headword>
+      <description>pussy-foot – reference to the softness of death.</description>
+    </item>
+    <item>
+      <headword id="idp163828760">sgriogal</headword>
+      <description>old character, oldish appearance.</description>
+    </item>
+    <item>
+      <headword id="idp163830272">sgiolagadh</headword>
+      <description>‘withdrawing food from whelks’.</description>
+    </item>
+    <item>
+      <headword id="idp163831784">sùilean</headword>
+      <description>tubers (potatoes).</description>
+    </item>
+    <item>
+      <headword id="idp163833296">claoidhean</headword>
+      <description>[?] part of the potato. Claodhan – sing. Plural – claodhain.</description>
+    </item>
+    <item>
+      <headword id="idp163835024">callan</headword>
+      <description>continuity.</description>
+    </item>
+    <item>
+      <headword id="idp163836536">singealadh</headword>
+      <description>setting the tubers (potatoes) in the drill.</description>
+    </item>
+    <item>
+      <headword id="idp163838048">cothachadh</headword>
+      <description>pacing against a gale of wind.</description>
+    </item>
+    <item>
+      <headword id="idp163839560">spitheid</headword>
+      <description>plug pin, or wooden pin from a wooden cask or bottle.</description>
+    </item>
+    <item>
+      <headword id="idp163841072">sgulgaireachd</headword>
+      <description>skulling [sic], loafing.</description>
+    </item>
+    <item>
+      <headword id="idp163842584">muc-bhreac</headword>
+      <description>Roqual [sic] [Rorqual?] whale.</description>
+    </item>
+    <item>
+      <headword id="idp163844096">cuiteag-ghorm</headword>
+      <description>blue whiting.</description>
+    </item>
+    <item>
+      <headword id="idp163845608">sgìlleagan</headword>
+      <description>plaster from the contents of an egg, breaking an egg, spilling.</description>
+    </item>
+    <item>
+      <headword id="idp163847192">ròic</headword>
+      <description>roast (mutton).</description>
+    </item>
+    <item>
+      <headword id="idp163848704">rothlag</headword>
+      <description>rowlock; roll of wool.</description>
+    </item>
+    <item>
+      <headword id="idp163850216">sleightig</headword>
+      <description>slither, sliding.</description>
+    </item>
+    <item>
+      <headword id="idp163851728">liuthraig</headword>
+      <description>delivered.</description>
+    </item>
+    <item>
+      <headword id="idp163853240">sgailc</headword>
+      <description>broken apart.</description>
+    </item>
+    <item>
+      <headword id="idp163854752">lion-sgriobaidh</headword>
+      <description>trawl.</description>
+    </item>
+    <item>
+      <headword id="idp163856264">gràn-innseanach</headword>
+      <description>maize (meal) grain. They used to give such to hens (Scalpay).</description>
+    </item>
+    <item>
+      <headword id="idp163857848">moglachadh</headword>
+      <description>meshed.</description>
+    </item>
+    <item>
+      <headword id="idp163859360">aghaidh</headword>
+      <description>cheeky.</description>
+    </item>
+    <item>
+      <headword id="idp163860872">cliong</headword>
+      <description>clink.</description>
+    </item>
+    <item>
+      <headword id="idp163862384">cleitreach</headword>
+      <description>female exhibiting unwanted talk, unmannerly female.</description>
+    </item>
+    <item>
+      <headword id="idp163863896">deiseag</headword>
+      <description>crab.</description>
+    </item>
+    <item>
+      <headword id="idp163865408">crabhag</headword>
+      <description>miniature peat bank.</description>
+    </item>
+    <item>
+      <headword id="idp163866920">sùil-chruthaich</headword>
+      <description>quagmire.</description>
+    </item>
+    <item>
+      <headword id="idp163868432">sibeal</headword>
+      <description>tall man.</description>
+    </item>
+    <item>
+      <headword id="idp163869944">gorradaireachd</headword>
+      <description>peeping.</description>
+    </item>
+    <item>
+      <headword id="idp163871456">goradh</headword>
+      <description>sudden jerk.</description>
+    </item>
+    <item>
+      <headword id="idp163872968">smuglaigeadh</headword>
+      <description>smuggling.</description>
+    </item>
+    <item>
+      <headword id="idp163874480">sumanadh</headword>
+      <description>unusual dress, unusual clothes, coat (also summons). C’a ’n d’fhuair thu sumanadh. Still in use, etc.</description>
+    </item>
+    <item>
+      <headword id="idp163876568">craiteachan</headword>
+      <description>(also) sprinkle.</description>
+    </item>
+    <item>
+      <headword id="idp118702120">spoileagadh</headword>
+      <description>operation.</description>
+    </item>
+    <item>
+      <headword id="idp118703632">cnàmhaire</headword>
+      <description>bony, bony character.</description>
+    </item>
+    <item>
+      <headword id="idp118705144">ringealadh</headword>
+      <description>delay, delaying.</description>
+    </item>
+    <item>
+      <headword id="idp118706656">stuttara</headword>
+      <description>on your wits. Bi air do stuttara – be on your wits, intact.</description>
+    </item>
+    <item>
+      <headword id="idp118708384">sguitlireachd</headword>
+      <description>scullery work.</description>
+    </item>
+    <item>
+      <headword id="idola357" type="heading" level="h1">Shapes and general appearance</headword>
+    </item>
+    <item>
+      <headword id="idp118710760">cho fada ri gu siorruidh</headword>
+      <description>as long as ‘for ever’.</description>
+    </item>
+    <item>
+      <headword id="idp118712272">cho caol ri minidh</headword>
+      <description>as thin as an augaur [sic] [auger?].</description>
+    </item>
+    <item>
+      <headword id="idp118713784">cho grànnda ris a’ pheacadh</headword>
+      <description>as ugly as sin.</description>
+    </item>
+    <item>
+      <headword id="idp118715296">deanta</headword>
+      <description>well-built.</description>
+    </item>
+    <item>
+      <headword id="idp118716808">piollagach</headword>
+      <description>shabby, in tattered clothes.</description>
+    </item>
+    <item>
+      <headword id="idp118718320">cho reamhar ri ròin</headword>
+      <description>as fat as a seal.</description>
+    </item>
+    <item>
+      <headword id="idp118719832">plosg de dhuine</headword>
+      <description>a wobbly fat man.</description>
+    </item>
+    <item>
+      <headword id="idp118721344">cailleach de dhuine</headword>
+      <description>clumsy man, scary.</description>
+    </item>
+    <item>
+      <headword id="idp118722856">duine subailte</headword>
+      <description>flexible man.</description>
+    </item>
+    <item>
+      <headword id="idp118724800">le craiceann gairtidh</headword>
+      <description>with a withering look of a skin.</description>
+    </item>
+    <item>
+      <headword id="idp118726312">dearg bhusach</headword>
+      <description>ruddy cheeks.</description>
+    </item>
+    <item>
+      <headword id="idp118727824">dearg air an aghaidh</headword>
+      <description>fresh-complexioned.</description>
+    </item>
+    <item>
+      <headword id="idp118729336">cha ’eil eanchainn circe aige</headword>
+      <description>void of ‘brains’, intelligence.</description>
+    </item>
+    <item>
+      <headword id="idp118731280">miaraitteadh</headword>
+      <description>[sic] a weakling of a man.</description>
+    </item>
+    <item>
+      <headword id="idp118732792">colas  a bhidhidh</headword>
+      <description>[sic] well-fed.</description>
+    </item>
+    <item>
+      <headword id="idp118734304">cù duine</headword>
+      <description>unpopular character.</description>
+    </item>
+    <item>
+      <headword id="idp118735816">nach b’e ’n cù e</headword>
+      <description>mean, careless behaviour.</description>
+    </item>
+    <item>
+      <headword id="idp118737328">mac-na-striopaich</headword>
+      <description>[?] personifying.</description>
+    </item>
+    <item>
+      <headword id="idp118738840">colas a’ chealgaire dhubh</headword>
+      <description>black deceiver.</description>
+    </item>
+    <item>
+      <headword id="idp118740352">colas a’ chealgaire</headword>
+      <description>the appearance of a deceiver.</description>
+    </item>
+    <item>
+      <headword id="idp118741864">colas na muice</headword>
+      <description>the appearance (snout) of a sow.</description>
+    </item>
+    <item>
+      <headword id="idp118743376">colas an t-sàtain</headword>
+      <description>the appearance of Satan.</description>
+    </item>
+    <item>
+      <headword id="idp118744888">cha robh colas a chaochlaidh air</headword>
+      <description>there was no variation.</description>
+    </item>
+    <item>
+      <headword id="idp118746400">duine ceòlmhor</headword>
+      <description>of musical talent.</description>
+    </item>
+    <item>
+      <headword id="idp118747912">mar muc le feòil</headword>
+      <description>as fat as a pig.</description>
+    </item>
+    <item>
+      <headword id="idp118749424">sùilean cam</headword>
+      <description>squint-eyed.</description>
+    </item>
+    <item>
+      <headword id="idp118750936">le bial a’ tuiteam</headword>
+      <description>the bottom lip giving this impression.</description>
+    </item>
+    <item>
+      <headword id="idp118752448">(colas) duine air mullach nan teud</headword>
+      <description>[?] at the height of his jollity or enjoyment.</description>
+    </item>
+    <item>
+      <headword id="idp118753960">duine cròcach</headword>
+      <description>having big hand [sic].</description>
+    </item>
+    <item>
+      <headword id="idp118755472">duine meiteadh e  meata</headword>
+    <description>[?] [no?] </description></item>
+    <item>
+      <headword id="idp118757416">sliomaire de dhuine</headword>
+      <description>slimy.</description>
+    </item>
+    <item>
+      <headword id="idp118759360">casan camachdach</headword>
+      <description>bow [sic] legs.</description>
+    </item>
+    <item>
+      <headword id="idola358" type="heading" level="h1">Deformities, blemishes, scars</headword>
+    </item>
+    <item>
+      <headword id="idp118761952">foine ribeach air a sròin</headword>
+      <description>a ... wart on her nose.</description>
+    </item>
+    <item>
+      <headword id="idp118763464">ball-dorain</headword>
+      <description>mole.</description>
+    </item>
+    <item>
+      <headword id="idp118764976">spuir-eòin</headword>
+      <description>I am not sure of this as being a birthmark at the moment. I think you could be quite safe in noting likewise, that is if you haven’t any other definition.</description>
+    </item>
+    <item>
+      <headword id="idp118766488">breac-sianain</headword>
+      <description>freckles.</description>
+    </item>
+    <item>
+      <headword id="idp165254944">bial-cam</headword>
+      <description>a twist in the mouth.</description>
+    </item>
+    <item>
+      <headword id="idp165256456">suil-bheag</headword>
+      <description>one eye smaller than the other.</description>
+    </item>
+    <item>
+      <headword id="idp165257968">làrach-at-a-bhuinn-duibh</headword>
+      <description>a mark left after the disappearance of the swelling, festering wound.</description>
+    </item>
+    <item>
+      <headword id="idp165259480">fearstan</headword>
+      <description>a small wart of a blackish nature on the skin. (The word is not in use on Scalpay today, but perhaps in other places?)</description>
+    </item>
+    <item>
+      <headword id="idp165260992">rùsgadh</headword>
+      <description>parched skin.</description>
+    </item>
+    <item>
+      <headword id="idp165262504">marteannan</headword>
+      <description>dried skin in the wind, and effected through the movement of cloth next to the skin.</description>
+    </item>
+    <item>
+      <headword id="idp165264016">struichdain  srùichdain</headword>
+      <description>[?] oir [or?] gàgan [q.v.], crevices or breakings between the fingers.</description>
+    </item>
+    <item>
+      <headword id="idp165265528">gàgan</headword>
+      <description>‘skin breaks’.</description>
+    </item>
+    <item>
+      <headword id="idp165267040">làrach-na-banachaig</headword>
+      <description>mark left after inoculation.</description>
+    </item>
+    <item>
+      <headword id="idp165268552">cas-an-fhithich</headword>
+      <description>this is an old term, it’s out of use here now but it may have survived somewhere else. I think it means a mark of a scar on the face or hands, the scriabadh form as if a bird (raven) scratched the face with its claws. A permanent mark. If you haven’t any other definition, I think you are quite safe with this.</description>
+    </item>
+    <item>
+      <headword id="idp165270064">sgriabadh</headword>
+      <description>scratch, at the moment but eventually the mark disappears.</description>
+    </item>
+    <item>
+      <headword id="idp165271648">cailin fiar-shùileach</headword>
+      <description>a squint-eyed girl.</description>
+    </item>
+    <item>
+      <headword id="idp165273160">spot-tachais</headword>
+      <description>itch spot.</description>
+    </item>
+    <item>
+      <headword id="idola359" type="heading" level="h1">Beauty and ugliness</headword>
+    </item>
+    <item>
+      <headword id="idp165275536">sliobadh</headword>
+      <description>stroking as of a gentleman combing (continually) his hair.</description>
+    </item>
+    <item>
+      <headword id="idp165277120">dha phonaigeadh</headword>
+      <description>perhaps from the word padding, a lady powdering herself. It may have derived from the old folk’s attempt at describing the first recollection of Powder.</description>
+    </item>
+    <item>
+      <headword id="idp165278632">bruisigeadh</headword>
+      <description>brushing.</description>
+    </item>
+    <item>
+      <headword id="idp165280144">cuir fùdar oirre</headword>
+      <description>I have heard this used by an old man once (Powder).</description>
+    </item>
+    <item>
+      <headword id="idp165281656">sgnodadh a’ bhoineid</headword>
+      <description>doffing his bonnet.</description>
+    </item>
+    <item>
+      <headword id="idp165283168">ite-na-h-aid</headword>
+      <description>feather in her cap (literally) and (mentally).</description>
+    </item>
+    <item>
+      <headword id="idp165284680">[diachainn]</headword>
+      <description>rud-a-dh’fhagad[sic]-a-muir leis-an-diachainn – what the sea unobserved to carry as not considered valid... and still sorry in doing [?] so when we have: diachainn = dichuimhn’ [?] – forgetfulness.</description>
+    </item>
+    <item>
+      <headword id="idp165286192">bu tu ’n diachainn</headword>
+      <description>a lady causing illusionment [sic].</description>
+    </item>
+    <item>
+      <headword id="idp165287704">cur sgolapaigeadh</headword>
+      <description>putting embroidery on cloth. Cus sgolapaigeadh – too much embroidery.</description>
+    </item>
+    <item>
+      <headword id="idp165289432">sgioblachadh</headword>
+      <description>tidying.</description>
+    </item>
+    <item>
+      <headword id="idp165290944">dha teannachadh fhéin</headword>
+      <description>tightening herself her clothes being too loose.</description>
+    </item>
+    <item>
+      <headword id="idp165292456">s dha truimmigeadh</headword>
+      <description>trimming.</description>
+    </item>
+    <item>
+      <headword id="idp165293968">dha smonaigeadh</headword>
+      <description>putting up exemptional [sic] [exceptional?] smoke.</description>
+    </item>
+    <item>
+      <headword id="idola360" type="heading" level="h1">Strength, fitness and the opposite</headword>
+    </item>
+    <item>
+      <headword id="idp165296344">cho làidir ris an leomhainn</headword>
+      <description>as strong as a lion.</description>
+    </item>
+    <item>
+      <headword id="idp165297856">cho fallain ri fiadh</headword>
+      <description>healthy as a deer.</description>
+    </item>
+    <item>
+      <headword id="idp165299368">mar fiadh na beinne</headword>
+      <description>healthy as deer, as healthy as the deer of the hill.</description>
+    </item>
+    <item>
+      <headword id="idp165300880">cho làidir ri Samson</headword>
+      <description>as strong as Samson.</description>
+    </item>
+    <item>
+      <headword id="idp165302392">cho ruighinn ris an teàrr</headword>
+      <description>as tough as tar.</description>
+    </item>
+    <item>
+      <headword id="idp165303904">cho lag ris a’ chuileig</headword>
+      <description>as weak as a fly.</description>
+    </item>
+    <item>
+      <headword id="idp165305416">marbh ri sgadan</headword>
+      <description>an dead as a herring.</description>
+    </item>
+    <item>
+      <headword id="idp165306928">geal ri sneachda</headword>
+      <description>as white as snow.</description>
+    </item>
+    <item>
+      <headword id="idp165308440">cho fuar ris a’ bhàs</headword>
+      <description>as cold as death.</description>
+    </item>
+    <item>
+      <headword id="idp165309952">luath ris an neas</headword>
+      <description>as fast as weasel.</description>
+    </item>
+    <item>
+      <headword id="idp165311464">luath ri geàrr</headword>
+      <description>as fast as a hare.</description>
+    </item>
+    <item>
+      <headword id="idp165312976">dubh mar am fitheach</headword>
+      <description>black as the raven.</description>
+    </item>
+    <item>
+      <headword id="idp165314488">cho buan ris an darach</headword>
+      <description>as lasting as the oak.</description>
+    </item>
+    <item>
+      <headword id="idp165316000">cho balbh ris an uaigh</headword>
+      <description>as quiet as the grave.</description>
+    </item>
+    <item>
+      <headword id="idp165317512">cho sona ris an rìgh</headword>
+      <description>as happy as the king.</description>
+    </item>
+    <item>
+      <headword id="idp165319024">cho fada ris an t-siorruidheachd</headword>
+      <description>as long as eternity.</description>
+    </item>
+    <item>
+      <headword id="idp161208240">cho carach ris a’ mhadadh ruadh</headword>
+      <description>as cunning as a fox.</description>
+    </item>
+    <item>
+      <headword id="idp161210184">cho amaideach ri na h-eòin</headword>
+      <description>as ‘foolish’ as the birds.</description>
+    </item>
+	<item>
+	  <headword id="idola364">[note]</headword>
+	  <description>(I am not sure if this is the way you want it done? I’ll better leave this as it is until I hear from you again.)</description>
+	</item>
+    <item>
+      <headword id="idola361" type="heading" level="h1">Ways of walking, sitting, lying; words for ‘clumsy’, ‘fidgety’ and so on</headword>
+    </item>
+    <item>
+      <headword id="idp161213424">air a chorra-bid</headword>
+      <description>tip-toe.</description>
+    </item>
+    <item>
+      <headword id="idp161214936">na shuidh air a leth-tharsainn</headword>
+      <description>sitting half-sided.</description>
+    </item>
+    <item>
+      <headword id="idp161216448">calleachail</headword>
+      <description>clumsy.</description>
+    </item>
+    <item>
+      <headword id="idp161217960">luaiseanach</headword>
+      <description>[sic] fidgety.</description>
+    </item>
+    <item>
+      <headword id="idp161219472">critheanach</headword>
+      <description>shaky.</description>
+    </item>
+    <item>
+      <headword id="idp161220984">coiseachd spàgaire</headword>
+      <description>a splay-footed walk.</description>
+    </item>
+    <item>
+      <headword id="idp161222496">coiseachd slaodach</headword>
+      <description>a drawling walk.</description>
+    </item>
+    <item>
+      <headword id="idp161224008">coiseachd aotram</headword>
+      <description>light walk.</description>
+    </item>
+    <item>
+      <headword id="idp161225520">coiseachd sgiobalta</headword>
+      <description>tidy walk.</description>
+    </item>
+    <item>
+      <headword id="idp161227032">coiseachd throm</headword>
+      <description>throbbing movement.</description>
+    </item>
+    <item>
+      <headword id="idp161228544">coiseachd spliadhach</headword>
+      <description>splay-footed walk.</description>
+    </item>
+    <item>
+      <headword id="idp161230056">a’ coiseachd air a chorra-bid</headword>
+      <description>walking tip-toed.</description>
+    </item>
+    <item>
+      <headword id="idp161231568">a’ coiseachd cho stopach</headword>
+      <description>straight and perpendicular (army fashion).</description>
+    </item>
+    <item>
+      <headword id="idp161233080">a’ stabhdail</headword>
+      <description>slithering, or ‘stamping’ slightly.</description>
+    </item>
+    <item>
+      <headword id="idp161234592">a’ slaodadh a chasan</headword>
+      <description>pulling his feet.</description>
+    </item>
+    <item>
+      <headword id="idp161236104">a’ coiseachd caran stadach</headword>
+      <description>irregular walk.</description>
+    </item>
+    <item>
+      <headword id="idp161237616">a’ coiseachd critheanach</headword>
+      <description>a shaky walk.</description>
+    </item>
+    <item>
+      <headword id="idp161239128">a’ stampadh</headword>
+      <description>stampeding.</description>
+    </item>
+    <item>
+      <headword id="idp161240640">a’ stalcadh a chas(an)</headword>
+      <description>putting pressure on his feet in a striking movement.</description>
+    </item>
+    <item>
+      <headword id="idp161242152">coiseachd-bheò</headword>
+      <description>lively steps.</description>
+    </item>
+    <item>
+      <headword id="idp161243664">coiseachd thuige is bhuaithe</headword>
+      <description>backwards and forward.</description>
+    </item>
+    <item>
+      <headword id="idp161245176">e  beiteadh an rathaid</headword>
+      <description>[sic] a drunkard’s walk.</description>
+    </item>
+    <item>
+      <headword id="idp161246688">siubhail air astar</headword>
+      <description>fast on a journey.</description>
+    </item>
+    <item>
+      <headword id="idp161248200">le mall cheum</headword>
+      <description>with a slow step.</description>
+    </item>
+    <item>
+      <headword id="idp161249712">trotan</headword>
+      <description>slow carefree movement.</description>
+    </item>
+    <item>
+      <headword id="idp161251224">trotan</headword>
+      <description>small steps.</description>
+    </item>
+    <item>
+      <headword id="idp161252736">le ceumannan mora fada</headword>
+      <description>long big steps.</description>
+    </item>
+    <item>
+      <headword id="idp161254248">na shuidh air a mhàs</headword>
+      <description>sitting on his buttock.</description>
+    </item>
+    <item>
+      <headword id="idp161255760">coiseachd dhion</headword>
+      <description>a continual pace.</description>
+    </item>
+    <item>
+      <headword id="idola362" type="heading" level="h1">Pulling faces, frowns, other expressions; also gestures</headword>
+    </item>
+    <item>
+      <headword id="idp161258136">slugadh an t-sùlaire</headword>
+      <description>the swallowing of the solan goose (lit.).</description>
+    </item>
+    <item>
+      <headword id="idp161259648">aodann-fada</headword>
+      <description>long-faced.</description>
+    </item>
+    <item>
+      <headword id="idp161261160">scraing</headword>
+      <description>frown.</description>
+    </item>
+    <item>
+      <headword id="idp161262672">dùr</headword>
+      <description>obstinate.</description>
+    </item>
+    <item>
+      <headword id="idp161264184">aodann-seimh</headword>
+      <description>peaceful face.</description>
+    </item>
+    <item>
+      <headword id="idp161265696">aghaidh-aingil</headword>
+      <description>angel-faced.</description>
+    </item>
+    <item>
+      <headword id="idp161267640">mar aingeal</headword>
+      <description>like an angel, comeliness, innocence.</description>
+    </item>
+    <item>
+      <headword id="idp161269152">mar an easgann</headword>
+      <description>as pliable as an eel, wriggles himself like an eel.</description>
+    </item>
+    <item>
+      <headword id="idp161270664">nàrach</headword>
+      <description>modest, shy.</description>
+    </item>
+    <item>
+      <headword id="idp161272176">banail</headword>
+      <description>womanly.</description>
+    </item>
+    <item>
+      <headword id="idp163092312">aghaidh neo aodann sgreabach</headword>
+      <description>scabby.</description>
+    </item>
+    <item>
+      <headword id="idp163093824">aodann claiseach</headword>
+      <description>furrowed face.</description>
+    </item>
+    <item>
+      <headword id="idp163095336">[craiceann]</headword>
+      <description>Tha ’n craiceann th’air aodann a’ coimhead aosda – the skin of his face depicts age.</description>
+    </item>
+    <item>
+      <headword id="idp163096848">sùilean-biorach</headword>
+      <description>staring eyes.</description>
+    </item>
+    <item>
+      <headword id="idp163098360">sùilean-ciùin</headword>
+      <description>mild eyes, eyes of endearment.</description>
+    </item>
+    <item>
+      <headword id="idp163099872">droch-shiùil</headword>
+      <description>[sic] evil eye.</description>
+    </item>
+    <item>
+      <headword id="idp163101384">colas-millidh</headword>
+      <description>look of destruction.</description>
+    </item>
+    <item>
+      <headword id="idp163102896">mullach-na-leisge</headword>
+      <description>the height of laziness.</description>
+    </item>
+    <item>
+      <headword id="idp163104408">colas-an-uilc</headword>
+      <description>the appearance of evil.</description>
+    </item>
+    <item>
+      <headword id="idp163105920">tha ’m bhochdainn na h-aodann</headword>
+      <description>there is the ‘poorness’ in his face (literally), showing sign of illness, etc. etc.</description>
+    </item>
+    <item>
+      <headword id="idp163107432">nach ann air a tha tuar eagallach</headword>
+      <description>off colour, frightful look.</description>
+    </item>
+    <item>
+      <headword id="idp163108944">aodann air mar puta</headword>
+      <description>swelled [sic].</description>
+    </item>
+    <item>
+      <headword id="idp163110456">ghearradh a leth-cheann an càis</headword>
+      <description>the thinness of his cheeks, cheek bones could cut cheese (literally).</description>
+    </item>
+    <item>
+      <headword id="idp163111968">[eagal]</headword>
+      <description>Chuir e eagail air an dearg mheirleach – ‘at seeing him, his face, a stealer, a ‘real stealer’, would collapse’ (putting it this way to make it more easily understood), one rendering.</description>
+    </item>
+    <item>
+      <headword id="idp163113480">[tachais]</headword>
+      <description>Cha mhor nach ’eil e dha thachais fhéin le fhiaclan – expressing his ignorance.</description>
+    </item>
+    <item>
+      <headword id="idp163114992">cur charan dhe air an ùrlar</headword>
+      <description>somersaulting.</description>
+    </item>
+    <item>
+      <headword id="idp163116504">dath a’ bhàis air</headword>
+      <description>colour of death.</description>
+    </item>
+    <item>
+      <headword id="idp163118016">dol timchioll ’na charan</headword>
+      <description>going round in circles.</description>
+    </item>
+    <item>
+      <headword id="idp163119528">nach b’e’n craoisire e</headword>
+      <description>glutton.</description>
+    </item>
+    <item>
+      <headword id="idp163121040">a cholas le fallais</headword>
+      <description>sweating freely.</description>
+    </item>
+    <item>
+      <headword id="idp163122552">[leac]</headword>
+      <description>Leac fo mo mhiaran [sic], cha toigh leam sud idir – a person feeling such says it depicts the disease of cancer, in some instances.</description>
+    </item>
+    <item>
+      <headword id="idp163124064">cnap fo mo mheòir</headword>
+      <description>lump under my thumb, a character denoting some unusual diagnosis.</description>
+    </item>
+    <item>
+      <headword id="idp163125576">tha craiceann odhar air</headword>
+      <description>a dun skin (colour).</description>
+    </item>
+    <item>
+      <headword id="idp163127520">[sùil]</headword>
+      <description>a shùilean a’ dearg lasadh ’na cheann – his eyes show signs of extremity of anger or perhaps pain.</description>
+    </item>
+    <item>
+      <headword id="idp163129032">[each-uisge]</headword>
+      <description>Cha chreid or [?] chunnaic mi na fhac e t’each-uisge – phantom fright or unusual fright, etc.</description>
+    </item>
+    <item>
+      <headword id="idp163130544">[greannach]</headword>
+      <description>cho greannach ri biast-dhubh ann an càrn – as irritable as an otter in a ‘cairn’.</description>
+    </item>
+    <item>
+      <headword id="idp163132056">t’eile chait ach feòil</headword>
+      <description>what else but luxury, etc.</description>
+    </item>
+    <item>
+      <headword id="idp163133568">leig an dorgha leis</headword>
+      <description>let him to his own.</description>
+    </item>
+    <item>
+      <headword id="idola363" type="heading" level="h1">Clean and untidy</headword>
+    </item>
+    <item>
+      <headword id="idp163135944">loireach</headword>
+      <description>drab, murky, muddy, discoloured.</description>
+    </item>
+    <item>
+      <headword id="idp163137456">faileach</headword>
+      <description>of a smelly filth.</description>
+    </item>
+    <item>
+      <headword id="idp163138968">drabhach</headword>
+      <description>leaving the scrubbing process partly undried.</description>
+    </item>
+    <item>
+      <headword id="idp163140480">aon-mhàl</headword>
+      <description>one mess, complete mess.</description>
+    </item>
+    <item>
+      <headword id="idp163141992">mar fail-mhuc</headword>
+      <description>like the (smelly) filth of pigs. (See the word faileach = fàile -ach.) (drabhach = drabh (dregs) -ach.) etc. etc.</description>
+    </item>
+    <item>
+      <headword id="idp163144080">drabhas</headword>
+      <description>segs, dirt.</description>
+    </item>
+    <item>
+      <headword id="idp163146024">drabhag</headword>
+      <description>‘little drop’.</description>
+    </item>
+    <item>
+      <headword id="idp163147968">a ghiadh!</headword>
+      <description>interjection in the event of approaching putrified substance.</description>
+    </item>
+    <item>
+      <headword id="idp163149552">trusdaireachd</headword>
+      <description>filthy language.</description>
+    </item>
+    <item>
+      <headword id="idp163151064">salachaireachd</headword>
+      <description>dirtiness.</description>
+    </item>
+    <item>
+      <headword id="idp163152576">luideireachd</headword>
+      <description>shabbiness.</description>
+    </item>
+    <item>
+      <headword id="idp163154088">druaip</headword>
+      <description>lees.</description>
+    </item>
+    <item>
+      <headword id="idp163155600">drabasdachd</headword>
+      <description>filthy language, filthy talk.</description>
+    </item>
+    <item>
+      <headword id="idp115266304">foileach</headword>
+      <description>another form of faileach [q.v.].</description>
+    </item>
+    <item>
+      <headword id="idp115267816">suaitheanta</headword>
+      <description>ridiqilous [sic] [ridiculous?].</description>
+    </item>
+    <item>
+      <headword id="idp115269328">mar an t-uabhal</headword>
+      <description>clean [?] like an apple.</description>
+    </item>
+    <item>
+      <headword id="idp115270840">mar chnaimh</headword>
+      <description>white as a bone.</description>
+    </item>
+    <item>
+      <headword id="idp115272352">mar sneachd</headword>
+      <description>[white?] as snow.</description>
+    </item>
+    <item>
+      <headword id="idp115273864">mar cailc</headword>
+      <description>[white?] as chalk.</description>
+    </item>
+    <item>
+      <headword id="idp115275376">cho soilleir ris a’ ghréin</headword>
+    </item>
+    <item>
+      <headword id="idp115276888">tigh càilmhor or càlor</headword>
+      <description>some say thus or use this form in the material sense.</description>
+    </item>
+    <item>
+      <headword id="idp115278400">mar an daoimean</headword>
+      <description>like diomand [sic] [diamond?].</description>
+    </item>
+	<item>
+	  <headword id="idola365">[poit-mhùin]</headword>
+	  <description>(uile càil na àite fhéin ’s a’ phoit mhùin air an dreasair – have you ever heard it?)</description>
+	</item>
+    <item>
+      <headword id="idp115280776">[glanadh]</headword>
+      <description>a’ sior ghlanadh a rud a tha glan mar a tha – cleaning what is clean already, in other words a daily routine.</description>
+    </item>
+    <item>
+      <headword id="idp115282288">glan mar an t-òr</headword>
+      <description>clean as gold.</description>
+    </item>
+  </items>
+</fieldworkDocument>

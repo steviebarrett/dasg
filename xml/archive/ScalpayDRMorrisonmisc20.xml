@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 5 2 15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="DRMorrisonetal_ScalpayDRMorrisonmisc20" docType="wordlist" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>1975</date>
+  <fieldworker>[self]</fieldworker>
+  <note>[NOTES: the words have been slipped and therefore, apart from the definitions provided by Mr Morrison, the definitions as they appear on the slips have also been included (unless the two were the same).]</note>
+  <informant>
+    <nameEnglish>Donald R. Morrison</nameEnglish>
+    <age>[55]</age>
+  </informant>
+  <location>Na Hearadh, Scalpaigh [Harris, Scalpay]</location>
+  <items>
+    <item>
+      <headword id="idola391" type="heading" level="h1">Word-list (‘Cruinneachadh de dh’fhaclan’)</headword>
+    </item>
+    <item>
+      <headword id="idp2232424">coileach-dubh</headword>
+      <description>down for the count. Rinn e coileach-dubh dhe. [NOTES: the slip has ‘Rinn e coileach-dubh dheth.’]</description>
+    </item>
+    <item>
+      <headword id="idp2246392">deabhal</headword>
+      <description>doll.</description>
+    </item>
+    <item>
+      <headword id="idp2132344">cab</headword>
+      <description>mouth.</description>
+    </item>
+    <item>
+      <headword id="idp2180728">broitseadh</headword>
+      <description>pilfered. [SLIP: Pilfer.]</description>
+    </item>
+    <item>
+      <headword id="idp2122192">teud-slabhraidh</headword>
+      <description>a hooked iron rod attached to a chain.</description>
+    </item>
+    <item>
+      <headword id="idp2192392">sgaoidhlear</headword>
+      <description>flighty female.</description>
+    </item>
+    <item>
+      <headword id="idp2121472">monaids</headword>
+      <description>moorings boat. [SLIP: Boat mooring.]</description>
+    </item>
+    <item>
+      <headword id="idp2232280">flùrans</headword>
+      <description>floorings boat [boat floorings?].</description>
+    </item>
+    <item>
+      <headword id="idp2146528">dabhdail</headword>
+      <description>staggering, stepping irregularly.</description>
+    </item>
+    <item>
+      <headword id="idp2139544">coran feòir</headword>
+      <description>sickle for cutting hay, smaller.</description>
+    </item>
+    <item>
+      <headword id="idp2131912">coran mor</headword>
+      <description>[sickle] for cutting corn, bigger size.</description>
+    </item>
+    <item>
+      <headword id="idm1375344">coran-na-feamainn</headword>
+      <description>the cutting face of the blade is notched or toothed, same as the coran feòir [q.v.] but for cutting side of the blade.</description>
+    </item>
+    <item>
+      <headword id="idm1373184">càbhail</headword>
+      <description>panting.</description>
+    </item>
+    <item>
+      <headword id="idm1371672">càbhadh</headword>
+      <description>caving. Bha ’n dà thaobh a’ càbhadh a stigh. [SLIP: Cave in.]</description>
+    </item>
+    <item>
+      <headword id="idm1369800">sgaoilteach-lion</headword>
+      <description>fishing nets spread one on the top of the other on the ground.</description>
+    </item>
+    <item>
+      <headword id="idm1368000">lus-analach</headword>
+      <description>short-breathed. [SLIP: Short of breath.]</description>
+    </item>
+    <item>
+      <headword id="idm1366272">casan</headword>
+      <description>wooden poles, or wooden uprights to keep a boat on a beach, on even keel.</description>
+    </item>
+    <item>
+      <headword id="idm1363680">Cliamhainn or Cliamhan</headword>
+      <description>Clement, personal name. St Clement. St Clement Church, Rodel, Harris.</description>
+    </item>
+    <item>
+      <headword id="idm1361808">àbhacas</headword>
+      <description>jovial. [NOTES: the slip has ‘jovial’ corrected to ‘joviality’.]</description>
+    </item>
+    <item>
+      <headword id="idm1360080">aonairt</headword>
+      <description>co-operated. An an [sic] aonairt. [NOTES: the slip has ‘ann an aonairt’. Definition: Agreement, co-operation.]</description>
+    </item>
+    <item>
+      <headword id="idm1358208">peihire</headword>
+      <description>[?] thunder bolt (colloquially spelt).</description>
+    </item>
+    <item>
+      <headword id="idm1356480">aimrid</headword>
+      <description>unfruitful.</description>
+    </item>
+    <item>
+      <headword id="idm1354968">farraid</headword>
+      <description>(also) enquiring. A’ foighneachd ’s a’ farraid. (Scalpay)</description>
+    </item>
+    <item>
+      <headword id="idm1353240">sacan</headword>
+      <description>small bag.</description>
+    </item>
+    <item>
+      <headword id="idm1351728">torcadh</headword>
+      <description>forking. Faodadh [sic] tu toiseachadh air torcadh tuilleadh – in connection with the potatoes, when in flower, digging the potatoes. [NOTES: the slip has ‘Faodaidh…’ Definition: Forking the potatoes when in flower.]</description>
+    </item>
+    <item>
+      <headword id="idm1349856">diogadaich</headword>
+      <description>ticking. [SLIP: To tick.]</description>
+    </item>
+    <item>
+      <headword id="idm1348128">diog</headword>
+      <description>(also) void of motion. Cha’n eil diog agad!</description>
+    </item>
+    <item>
+      <headword id="idm1346256">diogachadh</headword>
+      <description>immovable.</description>
+    </item>
+    <item>
+      <headword id="idm1344744">miashlàinte</headword>
+      <description>unhealth [sic] (colloquially spelt). [SLIP: Ill-health.]</description>
+    </item>
+    <item>
+      <headword id="idm1343016">aileort</headword>
+      <description>halyard, rope for hoisting a sail (boat).</description>
+    </item>
+    <item>
+      <headword id="idm1341288">fàireachas</headword>
+      <description>peeping.</description>
+    </item>
+    <item>
+      <headword id="idm1339776">tuireannach</headword>
+      <description>bleared (eyes). [SLIP: Bleary (of eyes).]</description>
+    </item>
+    <item>
+      <headword id="idm1336752">tùm-tam</headword>
+      <description>complete repose.</description>
+    </item>
+    <item>
+      <headword id="idm1334808">tum-tàmh</headword>
+      <description>complete repose.</description>
+    </item>
+    <item>
+      <headword id="idm1333296">thùm-thàmh</headword>
+      <description>complete silence. I take this to be the same word [as ‘tùm-tam’ and ‘tum-tàmh’?] but of a different rendering without hum ha. Versions vary.</description>
+    </item>
+    <item>
+      <headword id="idm1331568">lunn-lann</headword>
+      <description>easy-going person.</description>
+    </item>
+    <item>
+      <headword id="idm1330056">deargan-tràghad</headword>
+      <description>‘ebb flea(s)’. Perhaps this is not the right English for them. They jump in the same way (I know you have seen them) on removing a stone and among seaweed, they belong to the marine species. [SLIP: Fleas [sic] which are found among seaweed.]</description>
+    </item>
+    <item>
+      <headword id="idm1328184">sgreap</headword>
+      <description>scab.</description>
+    </item>
+    <item>
+      <headword id="idm1325808">acuinn-suathaidh</headword>
+      <description>rubbing ointment.</description>
+    </item>
+    <item>
+      <headword id="idm1324296">drug</headword>
+      <description>[See dreig] (spelt colloquially, Scalpay).</description>
+    </item>
+    <item>
+      <headword id="idm1322568">dreig</headword>
+      <description>meteor. Denoting the approach of death, according to legends of the superstitious nature, or relative to the like subjects. [SLIP: Meteor denoting the approach of death.]</description>
+    </item>
+    <item>
+      <headword id="idm1320840">crotanach</headword>
+      <description>a wee bent ‘man’.</description>
+    </item>
+    <item>
+      <headword id="idm1319112">stiallag</headword>
+      <description>small strip.</description>
+    </item>
+    <item>
+      <headword id="idm1317600">t(h)illtin</headword>
+      <description>return(ed). E tilltin. [sic] [NOTES: Slipped under ‘tilltin’. No quotation. Definition: Return.]</description>
+    </item>
+    <item>
+      <headword id="idm1315728">còineach</headword>
+      <description>moss. Nach e chuir a chòinneach [sic] ort – didn’t it make you rich. [NOTES: slipped under ‘coinneach’.]</description>
+    </item>
+    <item>
+      <headword id="idm1313856">coigleadh</headword>
+      <description>fondling.</description>
+    </item>
+    <item>
+      <headword id="idm1312344">curac</headword>
+      <description>headgear. Thàinig e air o chùl a’ churaic – blows towards the use of a sledgehammer. [SLIP: a. Headgear. b. [i.e. the quote] blows from the use of a sledgehammer.]</description>
+    </item>
+    <item>
+      <headword id="idm1310472">curaidh</headword>
+      <description>[See curac.]</description>
+    </item>
+    <item>
+      <headword id="idm1308960">magaid</headword>
+      <description>false thought.</description>
+    </item>
+    <item>
+      <headword id="idm1307448">striochdan</headword>
+      <description>lines.</description>
+    </item>
+    <item>
+      <headword id="idm1305720">stragalairean</headword>
+      <description>‘stragglers’, visitors, tourists. [NOTES: the slip has ‘stragalairean (plural)’.]</description>
+    </item>
+    <item>
+      <headword id="idm1303992">crotachan</headword>
+      <description>a wee bent male.</description>
+    </item>
+    <item>
+      <headword id="idm1302264">sgurabhaidh</headword>
+      <description>scurvy.</description>
+    </item>
+    <item>
+      <headword id="idm1300752">francas</headword>
+      <description>frank talk. I heard the word used, I cannot say now if there is another meaning. I can vaguely remember it being used thus: abair thusa francas.</description>
+    </item>
+    <item>
+      <headword id="idm1299024">corra-chnàmh</headword>
+      <description>sitting on the fully bent knees and the torso etc. in a straight posture. [SLIP: Crouched position, sitting on fully bent knees.]</description>
+    </item>
+    <item>
+      <headword id="idm1297224">meigeach</headword>
+      <description>not exactly stable, putting his chin out, his voice or cry not causing interest, his personality or features. Duine meigeach.</description>
+    </item>
+    <item>
+      <headword id="idm1295136">neo-scrùbail</headword>
+      <description>liberal.</description>
+    </item>
+    <item>
+      <headword id="idm1293192">stug</headword>
+      <description>stab, post (‘stook’). ’Na do sheasamh ann a fhein [sic] ’na do stug.</description>
+    </item>
+    <item>
+      <headword id="idm1290600">stengeir</headword>
+      <description>stancher boat.</description>
+    </item>
+    <item>
+      <headword id="idm1289088">bhòichnich</headword>
+      <description>swelled. [NOTES: slipped under ‘bòichnich’. Definition: Swell.]</description>
+    </item>
+    <item>
+      <headword id="idm1287288">cùmhlachadh</headword>
+      <description>close.</description>
+    </item>
+  </items>
+</fieldworkDocument>

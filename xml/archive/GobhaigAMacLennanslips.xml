@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 1/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_GobhaigAMacLennanslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>1983, 1985</date>
+  <informant>
+    <nameEnglish>Angus MacLennan</nameEnglish>
+  </informant>
+  <location>Harris, Gobhaig (Govig on the slips)</location>
+  <items>
+    <item>
+      <headword id="idp115436480">don-gnothaich</headword>
+      <description>Quotation: Don-gnothaich ort! Notes: imprecation.</description>
+    </item>
+    <item>
+      <headword id="idp115490336">spiol-mhé(idh?)</headword>
+      <description>Quotation: Cuiridh mi tron an spìol-mhé sibh. Notes: threat used by old woman to children…</description>
+    </item>
+    <item>
+      <headword id="idp115459088">spreigeach</headword>
+      <description>Notes: given to divulging secrets, confidences.</description>
+    </item>
+    <item>
+      <headword id="idp115480112">gràgalas</headword>
+      <description>Quotation: ’S ann le fìor ghràgalas a rinn thu siod. Notes: querulous reluctance.</description>
+    </item>
+  </items>
+</fieldworkDocument>

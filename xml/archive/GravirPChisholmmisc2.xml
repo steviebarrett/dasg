@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 21 8 14 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="AJSmith_GravirPChisholmmisc2" docType="wordlist" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>October 1972</date>
+  <fieldworker>A. J. Smith</fieldworker>
+  <note>[NOTES: in IPA transcriptions, the fieldworker uses [w] for [ɯ].]</note>
+
+  <informant>
+    <nameEnglish>Peter Chisholm</nameEnglish>
+  </informant>
+  <location>[Lewis], [S.] Lochs, Gravir</location>
+  <items>
+    <item>
+      <headword id="idm37701912">sgeit-bhàn</headword>
+      <description>Note: a type of skate which, he says, has a tail with no spikes on it. Very good to eat.</description>
+    </item>
+    <item>
+      <headword id="idm37663320">muc-chreige</headword>
+      <description>Note: ballan wrasse.</description>
+    </item>
+    <item>
+      <headword id="idm37707672">cat-dubh</headword>
+      <description>Note: fish similar to the “garran-creige” [q.v.] but larger. Prominent teeth. (Variety called “cat-dearg” also found.)</description>
+    </item>
+    <item>
+      <headword id="idm37673760">garran-creige</headword>
+      <description>Note: small, ugly rock-fish.</description>
+    </item>
+    <item>
+      <headword id="idm37656624">sgrothair</headword>
+      <description>[sɡɾɔhəð] Note: farthest out of the tangles. (1) Bàrr-liagh (2) Stamh (3) Sgrothair (farthest out).</description>
+    </item>
+    <item>
+      <headword id="idm37725816">barr-liagh</headword>
+      <description>[bɑ:rlʹıɤɣ] Note: a kind of tangle.</description>
+    </item>
+    <item>
+      <headword id="idm37690536">splang</headword>
+      <description>[spɫɑɣ:] Quot.: splang a mhionaich. Note: the skin on the stomach of a sheep.</description>
+    </item>
+    <item>
+      <headword id="idm37606872">feannadh-balgain</headword>
+      <description>[fȷɑ̃n̪əbɑɫɑɡɑ̃nʹ] Note: removing a calf-skin as whole as possible, without cutting down the underside.</description>
+    </item>
+    <item>
+      <headword id="idm37638480">clamair</headword>
+      <description>[klɑmɑɾ] Note: tup lamb with only one testicle.</description>
+    </item>
+    <item>
+      <headword id="idm37695648">clamaigeadh</headword>
+      <description>Note: type of castration without actually removing the testicles. Bag put on the edge of something and the cord severed by hitting with a hard instrument.</description>
+    </item>
+    <item>
+      <headword id="idm37717536">drèibheilear</headword>
+      <description>[d̪ɾɛ:vəlɑð] Note: traveller, on a mast.</description>
+    </item>
+    <item>
+      <headword id="idm37641360">riobh-éirin</headword>
+      <description>[rwfe:ɾəṉ] Note: short piece of sheet used for shortening the sail. Reef-earing.</description>
+    </item>
+    <item>
+      <headword id="idm37657200">di-theallaidh</headword>
+      <description>[dʹiˈhɑɫi] Note: iron bar whose tip was heated in the fire for making a hole in wood. (Says it’s called “bior-chrith” in Skye.)</description>
+    </item>
+  </items>
+</fieldworkDocument>

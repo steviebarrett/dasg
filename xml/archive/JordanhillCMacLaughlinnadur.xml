@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?><!-- checked by MM on 28 6 14 --><fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="AOHenley_JordanhillCMacLaughlinnadur" docType="questionnaire" subType="NadurAnDuine" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Nàdur an Duine / Personality</title>
+  <date>[1987-88]</date>
+  <fieldworker personId="ohenleya">A. O’Henley</fieldworker>
+  <note>[NOTES: under each heading, the author of the questionnaire has included some examples of words and their meanings as a way of prompting the informants. Therefore, in the few cases where Ms MacLaughlin used one of the suggested words, Mr O’Henley did not include a definition as it could be found above. In this file, the relevant definitions have been copied from under the headings and put next to the headwords.]</note>
+  <note>[NOTES: some notes added (most probably by K. D. MacDonald?). See below for details.]</note>
+  <informant>
+    <nameEnglish>Catriona MacLaughlin</nameEnglish>
+    <origin>Skye</origin>
+  </informant>
+  <location>[Glasgow], Jordanhill</location>
+  <items>
+    <item><headword id="d0e35" type="heading" level="h1">Nadur an duine (Personality)</headword></item>
+    <item>
+      <headword id="idp2525416">ludaire</headword>
+      <description>shoogily. [NOTES: corrected to ‘lùdaire’.]</description>
+    </item>
+    <item>
+      <headword id="idp2521888">gliogach</headword>
+      <description>splay-footed.</description>
+    </item>
+    <item>
+      <headword id="idp2518576">ràbair</headword>
+      <description>homely but also a bit untidy.</description>
+    </item>
+    <item>
+      <headword id="idp2541904">teò chidheach [sic]</headword>
+      <description>warm-hearted.</description>
+    </item>
+    <item>
+      <headword id="idp2543416">sgeigeil</headword>
+      <description>sarcastic.</description>
+    </item>
+    <item>
+      <headword id="idp2544928">ròcach</headword>
+      <description>rugged. [NOTES: corrected to ‘rocach’.]</description>
+    </item>
+    <item>
+      <headword id="idp2546584">slinneineach</headword>
+    </item>
+    <item>
+      <headword id="idp2548096">budhta</headword>
+      <description>a fat woman.</description>
+    </item>
+    <item>
+      <headword id="idp2549608">tomatach</headword>
+      <description>well-built, stocky. [NOTES: corrected to ‘tomadach’.]</description>
+    </item>
+    <item><headword id="d0e117" type="heading" level="h1">Seorsaichean Duine</headword></item>
+    <item>
+      <headword id="idp2552128">sliomach</headword>
+      <description>sly person.</description>
+    </item>
+    <item>
+      <headword id="idp2553640">guineach</headword>
+      <description>greedy. [NOTES: note added above ‘ui’ (in Mr O’Henley’s hand) – ea.]</description>
+    </item>
+    <item>
+      <headword id="idp2555296">bumulair</headword>
+      <description>fool.</description>
+    </item>
+    <item>
+      <headword id="idp2556808">unid [?]</headword>
+      <description>[NOTES: two question marks added.]</description>
+    </item>
+    <item>
+      <headword id="idp2558320">adhartach</headword>
+      <description>ambitious.</description>
+    </item>
+    <item>
+      <headword id="idp2559832">làghail</headword>
+      <description>knowing their rights, argumentative. [NOTES: corrected to ‘laghail’.]</description>
+    </item>
+    <item>
+      <headword id="idp112459200">sgeigeire</headword>
+      <description>gander (male goose).</description>
+    </item>
+    <item><headword id="d0e184" type="heading" level="h1">Good company / Bad company</headword></item>
+    <item>
+      <headword id="idp112503840">spòrsail</headword>
+      <description>sporting.</description>
+    </item>
+    <item>
+      <headword id="idp112515576">eirmseach</headword>
+      <description>witty.</description>
+    </item>
+    <item>
+      <headword id="idp112455384">geur</headword>
+      <description>witty.</description>
+    </item>
+    <item>
+      <headword id="idp112542720">laghach</headword>
+      <description>kind.</description>
+    </item>
+    <item>
+      <headword id="idp112548984">cruaidh</headword>
+      <description>mean.</description>
+    </item>
+    <item>
+      <headword id="idp112551864">fuar</headword>
+      <description>cold-hearted.</description>
+    </item>
+    <item>
+      <headword id="idp112546680">marbh</headword>
+      <description>boring.</description>
+    </item>
+    <item>
+      <headword id="idp112508448">solta</headword>
+      <description>placid.</description>
+    </item>
+    <item>
+      <headword id="idp112426728">blaudaire</headword>
+      <description>speaks before thinking. [NOTES: corrected to ‘blabhdaire’.]</description>
+    </item>
+    <item>
+      <headword id="idp112500816">[feannadh]</headword>
+      <description>“Thug mi feannadh air.” – I gave him a tongue-lashing.</description>
+    </item>
+    <item>
+      <headword id="idp112436880">[dall]</headword>
+      <description>“Dhall mi air.” – in physical sense.</description>
+    </item>
+    <item><headword id="d0e287" type="heading" level="h1">Cheerful / Gloomy</headword></item>
+    <item>
+      <headword id="idp112516944">solta</headword>
+      <description>patient.</description>
+    </item>
+    <item>
+      <headword id="idp112456176">smachdail</headword>
+      <description>self control.</description>
+    </item>
+    <item>
+      <headword id="idp112551720">crabhanach</headword>
+      <description>moaning, grumbling. [NOTES: note added above – cnàmhanach.]</description>
+    </item>
+    <item>
+      <headword id="idp112488144">air bhioran</headword>
+      <description>on tenterhooks. In anticipation.</description>
+    </item>
+    <item>
+      <headword id="idp112463304">luasganach</headword>
+      <description>restless.</description>
+    </item>
+    <item>
+      <headword id="idp112532352">griseach</headword>
+      <description>cold, chilled. [NOTES: corrected to ‘grìseach’.]</description>
+    </item>
+    <item>
+      <headword id="idp112514136">prabach</headword>
+    </item>
+    <item>
+      <headword id="idp112430256">gruamach</headword>
+      <description>moody.</description>
+    </item>
+    <item>
+      <headword id="idp112526232">greannach</headword>
+      <description>surly.</description>
+    </item>
+    <item>
+      <headword id="idp112472232">grobaire</headword>
+      <description>someone who was not good at knitting.</description>
+    </item>
+    <item>
+      <headword id="idp112530480">grogaire</headword>
+      <description>a bad tradesman.</description>
+    </item>
+    <item>
+      <headword id="idp112433856">rubh-radh</headword>
+      <description>rough and ready. [NOTES: corrected to ‘rùbh-ràdh’.]</description>
+    </item>
+    <item>
+      <headword id="idp112521984">puthaill ’sa peadhaill</headword>
+      <description>puffing and panting.</description>
+    </item>
+    <item><headword id="d0e405" type="heading" level="h1">A good man / A bad man</headword></item>
+    <item><headword id="d0e409" type="heading" level="h1">A successful man / A failure</headword></item>
+    <item>
+      <headword id="idp112526520">comasach</headword>
+    </item>
+    <item>
+      <headword id="idp112482384">easgaidh</headword>
+    </item>
+    <item>
+      <headword id="idp112450200">air a thuc fhein</headword>
+      <description>own initiative.</description>
+    </item>
+    <item>
+      <headword id="idp112423560">beothail</headword>
+      <description>lively.</description>
+    </item>
+    <item>
+      <headword id="idp112513632">aighearrach</headword>
+    </item>
+    <item>
+      <headword id="idp112446456">maosgaideach</headword>
+      <description>incompetent.</description>
+    </item>
+    <item>
+      <headword id="idp112510320">rabach</headword>
+      <description>untidy, dirty.</description>
+    </item>
+    <item><headword id="d0e467" type="heading" level="h1">A wise man / Foolish</headword></item>
+    <item>
+      <headword id="idp112497648">emaid</headword>
+      <description>foolish woman. [NOTES: note added above – amaid.]</description>
+    </item>
+    <item>
+      <headword id="idp112470648">goralaisg</headword>
+      <description>foolish chatter.</description>
+    </item>
+    <item><headword id="d0e489" type="heading" level="h1">Bold / Timid</headword></item>
+    <item>
+      <headword id="idp112583472">adhach</headword>
+      <description>forward.</description>
+    </item>
+    <item>
+      <headword id="idp112581960">ladarna</headword>
+      <description>forward.</description>
+    </item>
+    <item>
+      <headword id="idp112580448">straiceil</headword>
+      <description>bossy. [NOTES: corrected to ‘stràiceil’.]</description>
+    </item>
+    <item><headword id="d0e520" type="heading" level="h1">Proud / Humble</headword></item>
+    <item>
+      <headword id="idp112577928">proiseil</headword>
+      <description>proud. [NOTES: corrected to ‘pròiseil’.]</description>
+    </item>
+    <item>
+      <headword id="idp112576848">mór as fhein</headword>
+    </item>
+    <item>
+      <headword id="idp112575336">bòstail</headword>
+    </item>
+    <item>
+      <headword id="idp112573248">sgeigeil</headword>
+      <description>sneering.</description>
+    </item>
+    <item>
+      <headword id="idp112571448">iriosal</headword>
+      <description>humble.</description>
+    </item>
+    <item><headword id="d0e563" type="heading" level="h1">Polite / Coarse</headword></item>
+    <item>
+      <headword id="idp3196600">cruinn</headword>
+      <description>neat, tidy.</description>
+    </item>
+    <item>
+      <headword id="idp3198112">sgiobalta</headword>
+    </item>
+    <item>
+      <headword id="idp3199624">meata</headword>
+      <description>finely built.</description>
+    </item>
+    <item>
+      <headword id="idp3201136">duine suairc</headword>
+      <description>handsome man.</description>
+    </item>
+    <item>
+      <headword id="idp3202648">cursa</headword>
+      <description>rough.</description>
+    </item>
+    <item>
+      <headword id="idp3204160">mi mhodhail</headword>
+      <description>badly-behaved.</description>
+    </item>
+    <item>
+      <headword id="idp3205672">daimheil</headword>
+      <description>warm-hearted. [NOTES: corrected to ‘dàimheil’.]</description>
+    </item>
+    <item><headword id="d0e627" type="heading" level="h1">Bad types</headword></item>
+    <item>
+      <headword id="idp3208192">buaireasach</headword>
+      <description>troublemaker.</description>
+    </item>
+    <item>
+      <headword id="idp3209704">biorag</headword>
+      <description>[an acid-tongued woman.]</description>
+    </item>
+    <item>
+      <headword id="idp3211216">rag</headword>
+      <description>stubborn.</description>
+    </item>
+    <item>
+      <headword id="idp3212728">buraidh</headword>
+      <description>bully. [NOTES: corrected to ‘burraidh’.]</description>
+    </item>
+    <item><headword id="d0e667" type="heading" level="h1">Young / Old</headword></item>
+    <item>
+      <headword id="idp3215248">pocan</headword>
+      <description>[tubby, cheeky boy.]</description>
+    </item>
+    <item>
+      <headword id="idp3216760">[gnogadh]</headword>
+      <description>Cha deach gnogadh air. – [he hasn’t grown an inch.]</description>
+    </item>
+    <item>
+      <headword id="idp3218272">siogada sìdh seanarach</headword>
+    </item>
+    <item><headword id="d0e695" type="heading" level="h1">Agus faclan sam bith eile</headword></item>
+  </items>
+</fieldworkDocument>

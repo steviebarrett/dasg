@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 1/4/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="PersonalFiles_TarbertGCampbellHaypersonalmisc" docType="wordlist" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>1976 and 1983 [see below for details]</date>
+  <fieldworker>[self]</fieldworker>
+  <informant>
+    <nameEnglish>George Campbell Hay</nameEnglish>
+    <origin>[Kintyre, Tarbert]</origin>
+  </informant>
+  <location>Edinburgh</location>
+  <items>
+    <item>
+	  <headword id="idola980" type="heading" level="h1">Word-list dated 01/05/1976: Airson an fhaclair</headword>
+    </item>
+	<item>
+      <headword id="idp115580568">murabhlach (m.)</headword>
+      <description>muirbhuachaill, great northern diver. (Tarbert)</description>
+    </item>
+    <item>
+      <headword id="idp115577544">fuireachan (sg.)</headword>
+      <description>àite còmhnaidh, taigh, togail, bothan. Am fuireachan àite sin shìos.</description>
+    </item>
+    <item>
+      <headword id="idp115574160">dudrachain (pl.)</headword>
+      <description>aodach sracte, luidean. Sc. dudds, duddies.</description>
+    </item>
+    <item>
+      <headword id="idp115595112">sràbhail (f.)</headword>
+      <description>beagan sgadain sgapte. A strawing. Sràbhail bheag sgadain ris a’ chladach.</description>
+    </item>
+    <item>
+      <headword id="idp115596768">àrd</headword>
+      <description>àrd amach, fada amach anns a’ mhuir.</description>
+    </item>
+    <item>
+      <headword id="idp115598280">ròramach</headword>
+      <description>extravagant. (Ìle) Tha e ròramach (ròromach) le cuid dhaoine eile. &lt; ro + rùm?</description>
+    </item>
+    <item>
+      <headword id="idp115599792">dalmarra</headword>
+      <description>peasanta, peasanach. (Tarbert)</description>
+    </item>
+    <item>
+      <headword id="idp115601304">dàicheil</headword>
+      <description>big and imposing. Tha i dàicheil gu leòir air son a’ ghunna: she’s big and imposing enough to shoulder a rifle.</description>
+    </item>
+    <item>
+      <headword id="idp115602960">gleus</headword>
+      <description>trim. Dé’n gleus a th’ort = Dé’n trim a th’ort?</description>
+    </item>
+    <item>
+      <headword id="idp115604616">bachall (m.)</headword>
+      <description>a slipper. &gt; Sc. bauchle? Sean bhachall bàta.</description>
+    </item>
+    <item>
+      <headword id="idp115606272">gràbhat</headword>
+      <description>a fisherman’s neck scarf. Gràbhat beag lìn.</description>
+    </item>
+    <item>
+      <headword id="idp115607928">reòtach</headword>
+      <description>herring scales on the sides and deck of a boat (giving an impression of reodhadh). Fhuair iad sgadan – tha reòtach oirre.</description>
+    </item>
+    <item>
+      <headword id="idp115609584">clacharan tràigh</headword>
+      <description>stonechats assembling on the rocks on the shore in the autumn are called this.</description>
+    </item>
+    <item>
+      <headword id="idp115611096">greimeal</headword>
+      <description>a grapnel.</description>
+    </item>
+    <item>
+      <headword id="idp115612608">barra-rotha</headword>
+      <description>barra-cuibhle. (Tarbert)</description>
+    </item>
+    <item>
+      <headword id="idp115614120">flan gaoithe</headword>
+      <description>adhar beag gaoithe – a waft.</description>
+    </item>
+	<item>
+	  <headword id="idola981" type="heading" level="h1">Letter and word-list dated 06/05/1976: Air son an fhaclair</headword>
+    </item>
+	<item>
+	  <headword id="idola982">[note]</headword>
+	  <description>“Tha mi’n dòchas gu’m bi am beagan beag fhacal a tha mi ’cur gu’d ionnsaigh a chum feuma. Tha corra fhacal agam o Chinntàile. ’S e Tàileach d’am b’ainm Crìsdein MacRath a bu phrìomh charaid dhomh nuair a bha mi ’san oilthigh.”</description>
+	</item>
+	<item>
+	  <headword id="idola983">[note]</headword>
+	  <description>(Mur eil ainm ceàrnaidh no dùthcha ’ga thoirt seachad is ann o’n Tairbeart Loch Fìne a thà na facail seo.)</description>
+	</item>
+    <item>
+      <headword id="idp115619088">bodach ruadh</headword>
+      <description>a roch [sic] cod.</description>
+    </item>
+    <item>
+      <headword id="idp115620600">crùbag</headword>
+      <description>a large crab.</description>
+    </item>
+    <item>
+      <headword id="idp159134464">breallach (m.)</headword>
+      <description>a clam.</description>
+    </item>
+    <item>
+      <headword id="idp159135976">gas</headword>
+      <description>dad, càil. Cha d’fhuair mi gas.</description>
+    </item>
+    <item>
+      <headword id="idp159137632">sgadan-gréine</headword>
+      <description>herring split and laid out to dry on a rock in the sun. Roc An Sgadain-Ghréin’: an underwater rock. The markings on it resemble split herring.</description>
+    </item>
+    <item>
+      <headword id="idp159139144">cuir</headword>
+      <description>shoot (a met [sic] [net?]). An do chuir sibh, ’fheara? Iomair mu thuath agus cuir mu dheas (proverb): Row north and shoot south.</description>
+    </item>
+    <item>
+      <headword id="idp159140944">cur</headword>
+      <description>Tha cur an tsneachda [sic] trom. (Islay)</description>
+    </item>
+    <item>
+      <headword id="idp159142456">car-a’-mhuiltein</headword>
+      <description>punning slang for a tumbler to drink out of.</description>
+    </item>
+    <item>
+      <headword id="idp159143968">claba-dubh</headword>
+      <description>a kind of shellfish.</description>
+    </item>
+    <item>
+      <headword id="idp159145480">clabadh-dubh</headword>
+      <description>[See claba-dubh.]</description>
+    </item>
+    <item>
+      <headword id="idp159146992">gibeirneach</headword>
+      <description>a squid. (‘Ink fish’ in the dialect of the East Coast.) If I remember, this word occurs in MacPhaidein.</description>
+    </item>
+    <item>
+      <headword id="idp159148504">amhsan</headword>
+      <description>a gannet, solan goose, solan.</description>
+    </item>
+    <item>
+      <headword id="idp159150016">càrsan</headword>
+      <description>[kɛ:rsɑN] the hoarse sound of rising sea and wind. Tha càrsan beag ann anochd.</description>
+    </item>
+    <item>
+      <headword id="idp159151672">cruit (f.)</headword>
+      <description>a hump back.</description>
+    </item>
+    <item>
+      <headword id="idp159153184">cruiteach</headword>
+      <description>humpbacked.</description>
+    </item>
+    <item>
+      <headword id="idp159154696">budagoc</headword>
+      <description>a snipe.</description>
+    </item>
+    <item>
+      <headword id="idp159156208">mògan (pl. mòganan)</headword>
+      <description>slang for hand – ‘mitt’. Bheil do mhòganan fuar? Are your mitts cold?</description>
+    </item>
+    <item>
+      <headword id="idp159157864">sgoldrach (m.)</headword>
+      <description>a Medusa, kind of jellyfish. &lt; O.N. skjöldur, skjöld; a shield?</description>
+    </item>
+    <item>
+      <headword id="idp159159376">spàg</headword>
+      <description>slang for a foot. Tha mi ’dol a shìneadh mo spàgan: I’m going for a walk.</description>
+    </item>
+    <item>
+      <headword id="idp159161104">croich or croichean (pl.)</headword>
+      <description>poles on the shore for drying nets. Cuiridh sinn an lìon air a’ chroich. (They have all disappeared.) ‘Crochans’ in English.</description>
+    </item>
+    <item>
+      <headword id="idp159162760">creagdhubh</headword>
+      <description>[sic] an angler fish.</description>
+    </item>
+    <item>
+      <headword id="idp159164272">ceannair</headword>
+      <description>a net rope (ring net).</description>
+    </item>
+    <item>
+      <headword id="idp159165784">clàrach</headword>
+      <description>the planking at the stern.</description>
+    </item>
+    <item>
+      <headword id="idp159167296">ràtach (&lt; ràdhtach?)</headword>
+      <description>bigmouthed, boastful, a blow. Ràiteach occurs in Dwelly, I think.</description>
+    </item>
+    <item>
+      <headword id="idp159168952">coltas</headword>
+      <description>‘appearance’ in English. Signs of herring. Cha n-eil coltas ann idir. This word occurs in MacPhaidein (A’ ruith nan coltas feadh nan cuantan).</description>
+    </item>
+    <item>
+      <headword id="idp159170752">losgadh</headword>
+      <description>phosphorescence. (Burning, the burning in Tarbert English.) This reveals the presence of herring at night, hence ‘Gheobh sinn iad ’san losgadh.’</description>
+    </item>
+    <item>
+      <headword id="idp159172264">toman</headword>
+      <description>an extension of the meaning ‘clump’. A small clump of herring. Tha toman dhiubh fodhainn.</description>
+    </item>
+    <item>
+      <headword id="idp159173920">leus</headword>
+      <description>of a blind or shortsighted man – Cha n-fhaic e leus.</description>
+    </item>
+    <item>
+      <headword id="idp159175432">deò</headword>
+      <description>of a deaf man – Cha chluinn e deò.</description>
+    </item>
+    <item>
+      <headword id="idp159176944">moineach (f.)</headword>
+      <description>a hare.</description>
+    </item>
+    <item>
+      <headword id="idp159178456">Bhaltar</headword>
+      <description>Walter. Uaimh Bhaltair, Rudha Bhaltair, Pàra Bhaltair.</description>
+    </item>
+    <item>
+      <headword id="idp159180112">cairidh (f.)</headword>
+      <description>a fish weir. There are the remains of one in a level bay north of Tarbert.</description>
+    </item>
+    <item>
+      <headword id="idp159181624">glàm</headword>
+      <description>a gorge of food. Ghabhainn glàm dhiubh sin.</description>
+    </item>
+    <item>
+      <headword id="idp159183280">glaisean</headword>
+      <description>a white-throated diver.</description>
+    </item>
+    <item>
+      <headword id="idp159184792">fèathail</headword>
+      <description>calm. Ma bhìos e fèathail mochthrath.</description>
+    </item>
+    <item>
+      <headword id="idp159186448">pongail</headword>
+      <description>punctilious, exact, careful of one’s appearance.</description>
+    </item>
+    <item>
+      <headword id="idp159187960">giullan</headword>
+      <description>gille.</description>
+    </item>
+    <item>
+      <headword id="idp159189472">cnùdan</headword>
+      <description>a gurnet. A man’s nickname.</description>
+    </item>
+    <item>
+      <headword id="idp159190984">mochthrath (m.)</headword>
+      <description>Mochrath [sic] maith dhuit = madainn mhaith dhuit. Thà mi dol a chur mo cheann far am faigh mi e mochthrath.</description>
+    </item>
+    <item>
+      <headword id="idp159192712">raspars</headword>
+      <description>(with the accent on the second syllable) (ro + ? ?) overbearing behaviour. (Kintail)</description>
+    </item>
+    <item>
+      <headword id="idp159194224">stàirn</headword>
+      <description>violent, overbearing behaviour. (Kintail)</description>
+    </item>
+    <item>
+      <headword id="idp159195736">glàmag</headword>
+      <description>a tivking [sic] [ticking?] off. (Kintail)</description>
+    </item>
+    <item>
+      <headword id="idp159197248">sùileachan</headword>
+      <description>an eye-opener. (Kintail – in Dwelly)</description>
+    </item>
+    <item>
+      <headword id="idp159198760">lios</headword>
+      <description>a garden. (Kintail) Nuair a bha mi ag obair anns an lios ud thall.</description>
+    </item>
+    <item>
+      <headword id="idp119239704">sùil-chruthach</headword>
+      <description>(&lt; -chriothach?) a quagmire. Sùil-chrith in Islay, I was told a long time ago.</description>
+    </item>
+    <item>
+      <headword id="idp119241216">bù, bùi</headword>
+      <description>a buoy. Equally a sea-mark or a buoy on a net.</description>
+    </item>
+    <item>
+      <headword id="idola984" type="heading" level="h1">Letter dated 04/10/1983 (slips)</headword>
+	</item>
+    <item>
+      <headword id="idp119244528">smùrach</headword>
+      <description>Notes: ‘smirr, drizzle, small rain’. Tarbert Argyll and Islay usage. ‘Baile na Smùrach’ used as fisherman’s slang for Ardrossan (‘dross’).</description>
+    </item>
+    <item>
+      <headword id="idp119246040">uair</headword>
+      <description>Quotation: uair mhath. Notes: ‘good weather’. Tarbert and Islay usage.</description>
+    </item>
+  </items>
+</fieldworkDocument>

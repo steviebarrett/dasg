@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 13 4 14 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="WoolworkingandFishing_PortreeHighmaorach" docType="questionnaire" subType="Maorach" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Maorach / Shellfish</title>
+  <date>[02/1968 on the slips]</date>
+  <fieldworker>[school]</fieldworker>
+  <note>[NOTES: the words have been slipped and therefore in this file, apart from the definitions provided in the questionnaire, the definitions as they appear on the slips have also been included (unless the two were the same).]</note>
+  <informant>
+    <nameEnglish>Portree High</nameEnglish>
+    <nameGaelic>Ard Sgoil Phortrìgh</nameGaelic>
+  </informant>
+  <location>An t-Eilean Sgiathanach, Portrìgh [Skye, Portree]</location>
+  <items>
+    <item><headword id="d0e32" type="heading" level="h1">1. Maorach</headword></item>
+    <item>
+      <headword id="d0e37">muirsgian</headword>
+      <description>a razor-fish.</description>
+    </item>
+    <item>
+      <headword id="d0e46">bàirneach</headword>
+      <description>limpet.</description>
+    </item>
+    <item>
+      <headword id="d0e55">strùban</headword>
+      <description>cockle. [NOTES: slip not found.]</description>
+    </item>
+    <item>
+      <headword id="d0e64">fiasgan</headword>
+      <description>mussel.</description>
+    </item>
+    <item>
+      <headword id="d0e73">creachan</headword>
+      <description>clam, scallop.</description>
+    </item>
+    <item>
+      <headword id="d0e82">faochag</headword>
+      <description>periwinkle (Uist and Harris), whelk (Skye).</description>
+    </item>
+    <item>
+      <headword id="d0e91">mùsgan</headword>
+      <description>prawn.</description>
+    </item>
+    <item>
+      <headword id="d0e100">slige</headword>
+      <description>shell.</description>
+    </item>
+    <item>
+      <headword id="d0e109">am biadh</headword>
+      <description>food-part. [SLIP: Food part of shellfish.]</description>
+    </item>
+    <item>
+      <headword id="d0e118">cnògan</headword>
+      <description>whelk.</description>
+    </item>
+    <item>
+      <headword id="d0e127">eisir</headword>
+      <description>oyster.</description>
+    </item>
+    <item>
+      <headword id="d0e136">madaidh</headword>
+      <description>horse-mussel.</description>
+    </item>
+    <item>
+      <headword id="d0e145">giùrain</headword>
+      <description>barnacles. [NOTES: slipped under ‘giùrain (pl)’.]</description>
+    </item>
+    <item>
+      <headword id="d0e154">coilleag</headword>
+      <description>cockle (Skye).</description>
+    </item>
+    <item>
+      <headword id="d0e163">gille-fionn</headword>
+      <description>large periwinkle.</description>
+    </item>
+    <item><headword id="d0e171" type="heading" level="h1">2. A’ tional maorach</headword></item>
+    <item>
+      <headword id="d0e176">a’ togail fhaochag</headword>
+      <description>gathering whelks. [NOTES: slipped under ‘faochag’ with ‘a’ togail fhaochag’ as the quotation.]</description>
+    </item>
+    <item>
+      <headword id="d0e185">a’ buain bhàirneach</headword>
+      <description>gathering limpets. [NOTES: slipped under ‘bàirneach’ with ‘a’ buain bhàirneach’ as the quotation.]</description>
+    </item>
+    <item>
+      <headword id="d0e194">a’ buain fhiasgan</headword>
+      <description>gathering mussels. [NOTES: slipped under ‘fiasgan’ with ‘a’ buain fhiasgan’ as the quotation.]</description>
+    </item>
+    <item>
+      <headword id="d0e203">ag iasgach ghiomach</headword>
+      <description>lobster-fishing. [NOTES: slipped under ‘giomach’ with ‘ag iasgach ghiomach’ as the quotation.]</description>
+    </item>
+    <item>
+      <headword id="d0e212">cliabh</headword>
+      <description>creel.</description>
+    </item>
+    <item><headword id="d0e220" type="heading" level="h1">3. Beathaichean eile a gheibhear ’sa’ chladach</headword></item>
+    <item>
+      <headword id="d0e225">crùbag</headword>
+      <description>crab.</description>
+    </item>
+    <item>
+      <headword id="d0e234">portan</headword>
+      <description>small crab.</description>
+    </item>
+    <item>
+      <headword id="d0e243">siolag</headword>
+      <description>sand eel.</description>
+    </item>
+    <item>
+      <headword id="d0e252">luga</headword>
+      <description>sand worm.</description>
+    </item>
+    <item>
+      <headword id="d0e261">deargannan tràghad</headword>
+      <description>shore lice. [NOTES: slipped under ‘deargan tràghad’ with ‘deargannan tràghad’ as the quotation.]</description>
+    </item>
+    <item>
+      <headword id="d0e270">crosgag</headword>
+      <description>star-fish. [SLIP: Starfish, also crosgag-traghad [sic].]</description>
+    </item>
+    <item>
+      <headword id="d0e279">crosgag-tràghad</headword>
+      <description>star-fish.</description>
+    </item>
+    <item>
+      <headword id="d0e288">muir-teachd</headword>
+      <description>jelly-fish.</description>
+    </item>
+    <item>
+      <headword id="d0e297">cadalan-tràghad</headword>
+      <description>? (said of slow-moving or indolent person.) [NOTES: slipped under ‘cadalan’ with ‘cadalan-tràghad’ as the quotation.]</description>
+    </item>
+    <item>
+      <headword id="d0e306">sgeolltar</headword>
+      <description>type of jelly-fish found clinging to fishing nets (Scalpay, Harris). (“o” as “ow” in “how”)</description>
+    </item>
+    <item>
+      <headword id="d0e315">sporan-feannaig</headword>
+      <description>mermaid’s purse.</description>
+    </item>
+    <item>
+      <headword id="d0e324">cnagan-feannaig</headword>
+      <description>sea-urchin.</description>
+    </item>
+  </items>
+</fieldworkDocument>

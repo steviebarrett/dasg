@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 5 4 14 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="WoolworkingandFishing_CarlowayAandMMacKillopiasgach" docType="questionnaire" subType="AcfhuinnIasgaich" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Acfhuinn Iasgaich / Fishing Tackle</title>
+  <fieldworker>[self]</fieldworker>
+  <informant>
+    <nameEnglish>Angus and Margaret MacKillop</nameEnglish>
+    <nameGaelic>Aonghas is Mairead ’icIllip</nameGaelic>
+    <age>còrr is leth cheud [over 50]</age>
+    <origin>Eileanaich [natives of Lewis]</origin>
+  </informant>
+  <location>Leodhas, Carlobhadh [Lewis, Carloway]</location>
+  <items>
+    <item><headword id="d0e32" type="heading" level="h1">1. Lìon-mór</headword></item>
+    <item>
+      <headword id="d0e37">bascaid</headword>
+    </item>
+    <item>
+      <headword id="d0e43">streang</headword>
+    </item>
+    <item>
+      <headword id="d0e49">dubhan</headword>
+    </item>
+    <item>
+      <headword id="d0e55">druim</headword>
+    </item>
+    <item><headword id="d0e60" type="heading" level="h1">2. Lìon-beag</headword></item>
+    <item>
+      <headword id="d0e65">scùil</headword>
+      <description>the wickerwork container.</description>
+    </item>
+    <item>
+      <headword id="d0e74">streang</headword>
+      <description>the long lengths of twine which made up the line. I think one line would consist of ‘trì streangan’ usually.</description>
+    </item>
+    <item>
+      <headword id="d0e83">snòt</headword>
+      <description>the gut by which the hook was fixed.</description>
+    </item>
+    <item>
+      <headword id="d0e92">calp</headword>
+      <description>the short length of ‘còrd mìn’ [q.v.] from the main line to the hook gut.</description>
+    </item>
+    <item>
+      <headword id="d0e101">beartaich</headword>
+      <description>fitting out the line with gut, hooks etc.</description>
+    </item>
+    <item>
+      <headword id="d0e110">còrd mìn</headword>
+      <description>fine cord.</description>
+    </item>
+    <item>
+      <headword id="d0e119">còrd garbh</headword>
+      <description>coarse cord.</description>
+    </item>
+    <item>
+      <headword id="d0e128">dubhan</headword>
+      <description>hook.</description>
+    </item>
+    <item>
+      <headword id="d0e137">riobhag</headword>
+      <description>the barb of the hook.</description>
+    </item>
+    <item>
+      <headword id="d0e146">druim</headword>
+      <description>the main line.</description>
+    </item>
+    <item>
+      <headword id="d0e155">biathadh</headword>
+      <description>baiting.</description>
+    </item>
+    <item>
+      <headword id="d0e164">reiteachadh</headword>
+      <description>cleaning and unravelling as preparation for the next baiting.</description>
+    </item>
+    <item>
+      <headword id="d0e173">sgròbadh</headword>
+      <description>taking off the fish.</description>
+    </item>
+    <item><headword id="d0e181" type="heading" level="h1">3. Lìon-sgadanach</headword></item>
+    <item>
+      <headword id="d0e186">magul</headword>
+      <description>mesh.</description>
+    </item>
+    <item>
+      <headword id="d0e195">snath càraidh</headword>
+      <description>mending twine.</description>
+    </item>
+    <item>
+      <headword id="d0e204">snath còcrach</headword>
+    </item>
+    <item>
+      <headword id="d0e210">snath mìn</headword>
+      <description>fine mending twine.</description>
+    </item>
+    <item>
+      <headword id="d0e219">snath garbh</headword>
+      <description>coarse mending twine.</description>
+    </item>
+    <item>
+      <headword id="d0e228">àrc</headword>
+      <description>cork.</description>
+    </item>
+    <item>
+      <headword id="d0e237">ball</headword>
+      <description>thick main rope.</description>
+    </item>
+    <item>
+      <headword id="d0e246">rioba</headword>
+      <description>the finer rope to which the corks were attached.</description>
+    </item>
+    <item>
+      <headword id="d0e255">daifin</headword>
+      <description>this sounded like an English word – ‘daffins’. The short lengths of thick twine fixing the body of the net to the rope framework.</description>
+    </item>
+    <item>
+      <headword id="d0e264">druim</headword>
+    </item>
+    <item>
+      <headword id="d0e270">cuir ri druim</headword>
+    </item>
+    <item>
+      <headword id="d0e276">beartachadh</headword>
+      <description>fitting out.</description>
+    </item>
+    <item>
+      <headword id="d0e285">càradh</headword>
+      <description>mending.</description>
+    </item>
+    <item>
+      <headword id="d0e294">puta</headword>
+      <description>buoy.</description>
+    </item>
+    <item>
+      <headword id="d0e303">cuibhle puta</headword>
+      <description>the wooden disc in the top of the buoy.</description>
+    </item>
+    <item>
+      <headword id="d0e312">snathad chàiridh</headword>
+      <description>the mending needle.</description>
+    </item>
+    <item>
+      <headword id="d0e321">cairt</headword>
+      <description>the bark.</description>
+    </item>
+    <item>
+      <headword id="d0e330">ag cairteadh</headword>
+      <description>barking.</description>
+    </item>
+    <item><headword id="d0e338" type="heading" level="h1">4. Lìon sam bith eile</headword></item>
+    <item><headword id="d0e342" type="heading" level="h1">5. Duirgh, slatan, driamlaichean</headword></item>
+    <item>
+      <headword id="d0e347">stiodhaidh</headword>
+      <description>a steep path down the cliffs to the shore below – the only access to the shore.</description>
+    </item>
+    <item>
+      <headword id="d0e356">maorach</headword>
+      <description>this in Bayble, Lewis meant limpets only. These were the commonest bait for the small line.</description>
+    </item>
+    <item>
+      <headword id="d0e365">a’ buain maoraich</headword>
+      <description>knocking the limpets off the rocks.</description>
+    </item>
+    <item>
+      <headword id="d0e374">òrd maoraich</headword>
+      <description>the short strong knife used for the above [knocking limpets off the rocks] – usually a worn down shortened kitchen knife.</description>
+    </item>
+    <item>
+      <headword id="d0e383">slaopadh a’ mhaoraich</headword>
+      <description>covering [limpets] with water and heating sufficiently – and only just – to loosen the shells.</description>
+    </item>
+    <item>
+      <headword id="d0e392">èibheis éisg</headword>
+      <description>a welcome catch of fish.</description>
+    </item>
+    <item><headword id="d0e400" type="heading" level="h1">6. Acfhuinn sam bith eile</headword></item>
+  </items>
+</fieldworkDocument>

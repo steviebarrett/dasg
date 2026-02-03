@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 5 2 15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="DRMorrisonetal_Tireeanonymousmisc" docType="wordlist" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <fieldworker>[Duncan] MacGregor Whyte</fieldworker>
+  <note>[NOTES: a typed list with a handwritten note on the first page reading ‘List of words etc. mainly from Tiree, collected by MacGregor Whyte, the artist. [? unclear initial] Maclean’. Some corrections in black ink, which may have been added by the fieldworker himself (see below for details).]</note>
+  <informant>
+    <nameEnglish>?</nameEnglish>
+  </informant>
+  <location>Tiree</location>
+  <items>
+    <item>
+      <headword id="idola409" type="heading" level="h1">Gaelic Words and Phrases, etc.</headword>
+    </item>
+    <item>
+      <headword id="idp116298552">[balg]</headword>
+      <description>Tha mi’ a choir a chorran cum balg a rathaid mhoir. [NOTES: originally ‘balgarathaid’, corrected to ‘balg a rathaid’.]</description>
+    </item>
+    <item>
+      <headword id="idp116300280">dlutheadh</headword>
+      <description>making corn stacks.</description>
+    </item>
+    <item>
+      <headword id="idp116301792">gasenachd</headword>
+      <description>impudence. (Lorn)</description>
+    </item>
+    <item>
+      <headword id="idp116303304">bideachachd an duileach’</headword>
+      <description>(perhaps biodachadh an duilias) – budding time. (Lorn)</description>
+    </item>
+    <item>
+      <headword id="idp116304888">glaodh nan corr</headword>
+      <description>loud shout.</description>
+    </item>
+    <item>
+      <headword id="idp116306400">mothar</headword>
+      <description>sound of voice.</description>
+    </item>
+    <item>
+      <headword id="idp116307912">brathadair</headword>
+      <description>red embers of fire. (A kindler.)</description>
+    </item>
+    <item>
+      <headword id="idp116309424">Tha leom orra shis</headword>
+      <description>high-minded.</description>
+    </item>
+    <item>
+      <headword id="idp116310936">tuathach lion tatha</headword>
+      <description>binding, as lime in structure.</description>
+    </item>
+    <item>
+      <headword id="idp116312448">clenagach</headword>
+      <description>curly bunch of hair.</description>
+    </item>
+    <item>
+      <headword id="idp116313960">giragach</headword>
+      <description>short hair.</description>
+    </item>
+    <item>
+      <headword id="idp116315472">iuthuchan</headword>
+      <description>cramp.</description>
+    </item>
+    <item>
+      <headword id="idp116316984">Ruin iad am bith ud</headword>
+      <description>They made that rule.</description>
+    </item>
+    <item>
+      <headword id="idp116318712">An t-ullach na drocharach</headword>
+      <description>height of misfortune.</description>
+    </item>
+    <item>
+      <headword id="idp116320224">airbhasun</headword>
+      <description>certainty.</description>
+    </item>
+    <item>
+      <headword id="idp116321736">suithe</headword>
+      <description>water from roof.</description>
+    </item>
+    <item>
+      <headword id="idp116323248">froigne</headword>
+      <description>water from wall.</description>
+    </item>
+    <item>
+      <headword id="idp116324760">tighinn fobha</headword>
+      <description>water uprising.</description>
+    </item>
+    <item>
+      <headword id="idp116326272">an ratha dorcha</headword>
+      <description>dark quarter, no moon.</description>
+    </item>
+    <item>
+      <headword id="idp116327784">glaiceain</headword>
+      <description>wedge or pin.</description>
+    </item>
+    <item>
+      <headword id="idp116329296">deoch reidh iadach</headword>
+      <description>jealousy between husband and wife.</description>
+    </item>
+    <item>
+      <headword id="idp116330808">buil bheur</headword>
+      <description>entire, ‘lock, stock and barrel’.</description>
+    </item>
+    <item>
+      <headword id="idp116332320">aichbhal</headword>
+      <description>suffer for wrong done.</description>
+    </item>
+    <item>
+      <headword id="idola410" type="heading" level="h2">Parts of the Spinning Wheel</headword>
+    </item>
+    <item>
+      <headword id="idp116334696">roth</headword>
+      <description>the wheel.</description>
+    </item>
+    <item>
+      <headword id="idp116336208">goch</headword>
+      <description>the hub.</description>
+    </item>
+    <item>
+      <headword id="idp116337720">na h’eich</headword>
+      <description>wheel supports.</description>
+    </item>
+    <item>
+      <headword id="idp116339232">cir</headword>
+      <description>bobbin (?).</description>
+    </item>
+    <item>
+      <headword id="idp116340744">iùran</headword>
+      <description>the bobbin spindle. [NOTES: the accent added.]</description>
+    </item>
+    <item>
+      <headword id="idp116342472">cròdh</headword>
+      <description>the hole in the bobbin spindle. [NOTES: the accent added.]</description>
+    </item>
+    <item>
+      <headword id="idp116344200">maighdeagan</headword>
+      <description>the bobbin supports.</description>
+    </item>
+    <item>
+      <headword id="idp116345928">gruagach</headword>
+      <description>horizontal piece joining the feet of the maighdeagan [q.v.].</description>
+    </item>
+    <item>
+      <headword id="idp116347728">stoc</headword>
+      <description>the base.</description>
+    </item>
+    <item>
+      <headword id="idp116349240">cran gleusaidh</headword>
+      <description>the adjusting screw in the base.</description>
+    </item>
+    <item>
+      <headword id="idp116350752">casan</headword>
+      <description>the legs.</description>
+    </item>
+    <item>
+      <headword id="idp116352264">caslachan</headword>
+      <description>the treadle.</description>
+    </item>
+    <item>
+      <headword id="idp116353776">claidh damh (?)</headword>
+      <description>the connecting rod (?).</description>
+    </item>
+    <item>
+      <headword id="idp116356152">a seisibh air a ceann totadh</headword>
+      <description>on her beam ends.</description>
+    </item>
+    <item>
+      <headword id="idola411" type="heading" level="h1">Gaelic Words and Phrases, etc. Contd. Page Two.</headword>
+    </item>
+    <item>
+      <headword id="idp116358528">faobhairt</headword>
+      <description>tempering steel.</description>
+    </item>
+    <item>
+      <headword id="idp116360040">balagan</headword>
+      <description>clothes already worn.</description>
+    </item>
+    <item>
+      <headword id="idp116361552">aitichean</headword>
+      <description>clothes already worn.</description>
+    </item>
+    <item>
+      <headword id="idp116363064">falbhaiteach</headword>
+      <description>gad about from place to place.</description>
+    </item>
+    <item>
+      <headword id="idp116364576">fiodhrach tarsuinn</headword>
+      <description>timbers of ship.</description>
+    </item>
+    <item>
+      <headword id="idp116366088">blaradh an fhiodhrach tarsuinn</headword>
+      <description>taking rough off timbers.</description>
+    </item>
+    <item>
+      <headword id="idp116367600">deob</headword>
+      <description>talk, clatter.</description>
+    </item>
+    <item>
+      <headword id="idp116369112">fuisanach, fuisan</headword>
+      <description>restless, moving about.</description>
+    </item>
+    <item>
+      <headword id="idp116370624">rimbal</headword>
+      <description>circle.</description>
+    </item>
+    <item>
+      <headword id="idp116372136">rongais tarsalan</headword>
+      <description>step of ladder.</description>
+    </item>
+    <item>
+      <headword id="idp116373648">oidhche nam banag</headword>
+      <description>Christmas Eve.</description>
+    </item>
+    <item>
+      <headword id="idp116375160">milleadh fine</headword>
+      <description>a small useless man.</description>
+    </item>
+    <item>
+      <headword id="idp116376672">[goillear]</headword>
+      <description>Ma bha a grinn bu naireach dha fear a ghoillear. Mu’n fhear aig an robh aodan mor goilleach. [NOTES: space inserted between ‘bu’ and ‘naireach’. The word ‘dha’ added.]</description>
+    </item>
+    <item>
+      <headword id="idp116378400">[ceann]</headword>
+      <description>Thainig moran nach do thog ceann idir. …did not succeed.</description>
+    </item>
+    <item>
+      <headword id="idp116379984">sgeamhaltradh</headword>
+      <description>noisy excitement.</description>
+    </item>
+    <item>
+      <headword id="idp116381496">amairt</headword>
+      <description>stiff neck after sleep.</description>
+    </item>
+    <item>
+      <headword id="idp116383008">cas mar iteag</headword>
+      <description>upside down.</description>
+    </item>
+    <item>
+      <headword id="idp116384520">Tha e na dhithean</headword>
+      <description>e.g. potatoes good and bad in patches.</description>
+    </item>
+    <item>
+      <headword id="idp116386032">ga’n gabhail thar a cheile</headword>
+      <description>taking them one by one. [NOTES: originally ‘that’, corrected to ‘thar’.]</description>
+    </item>
+    <item>
+      <headword id="idp116387832">[amaladh]</headword>
+      <description>Tha e air amaladh air ais ’s air aghaidh. About piucaich getting mixed about in heavy weather.</description>
+    </item>
+    <item>
+      <headword id="idp116389344">a spiorachadh air</headword>
+      <description>as a cat coming in on a bird.</description>
+    </item>
+    <item>
+      <headword id="idp116390856">runaga smuidean</headword>
+      <description>a comet.</description>
+    </item>
+    <item>
+      <headword id="idp116392368">goir teas</headword>
+      <description>heat haze over the land.</description>
+    </item>
+    <item>
+      <headword id="idp116393880">Theid do chuin ris na talabardean</headword>
+      <description>Keep a man to his promise. [NOTES: originally ‘n a’, corrected to ‘na’.]</description>
+    </item>
+    <item>
+      <headword id="idp116395608">moineasach</headword>
+      <description>slow. [NOTES: originally ‘moineaseach’, corrected to ‘moineasach’.]</description>
+    </item>
+  </items>
+</fieldworkDocument>

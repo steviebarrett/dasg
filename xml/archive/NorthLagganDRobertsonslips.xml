@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 7/10/15 -->
+<!-- illustrations -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_NorthLagganDRobertsonslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>04/1969</date>
+  <fieldworker>[AJ Smith]</fieldworker>
+  <note>[NOTES: in IPA transcriptions, the fieldworker uses [w] for [ɯ].]</note>
+  <informant>
+    <nameEnglish>Donald Robertson</nameEnglish>
+  </informant>
+  <location>Invergarry, North Laggan</location>
+  <items>
+    <item>
+      <headword id="idp165177440">là</headword>
+      <description>Quotation: La [sic] na sàcramaid. Notes: Communion Sunday.</description>
+    </item>
+    <item>
+      <headword id="idp165179096">là</headword>
+      <description>Quotation: Là traisg. Notes: Communion Thursday.</description>
+    </item>
+    <item>
+      <headword id="idp165180752">làireag</headword>
+      <description>Notes: larch-tree.</description>
+    </item>
+    <item>
+      <headword id="idp165182264">làmh</headword>
+      <description>Quotation: làmhan a’ chruinn.</description>
+    </item>
+    <item>
+      <headword id="idp165183776">leabaidh-mhuill</headword>
+      <description>Notes: chaff bed.</description>
+    </item>
+    <item>
+      <headword id="idp165185288">leamhnagan</headword>
+      <description>[lʹ[ɛ̃ũ]ṉəɡɑṉ] Notes: sty.</description>
+    </item>
+    <item>
+      <headword id="idp165187448">léine-bhàis</headword>
+      <description>Notes: winding shroud.</description>
+    </item>
+    <item>
+      <headword id="idp165188960">leth-tìthich</headword>
+      <description>[lʹɛtʹi:iç] Notes: gullet.</description>
+    </item>
+    <item>
+      <headword id="idp165190688">leum-chruinn</headword>
+      <description>Notes: standing jump with both feet together.</description>
+    </item>
+    <item>
+      <headword id="idp165192200">liotach</headword>
+      <description>[lʹit̪ɑx] Notes: lisping.</description>
+    </item>
+    <item>
+      <headword id="idp165193928">lòn-dubh-an-éisg</headword>
+      <description>Notes: the dipper. (Or gobhar-dubh-an-éisg, according to Farquhar MacRae, Invergarry.)</description>
+    </item>
+    <item>
+      <headword id="idp165195440">mèile</headword>
+      <description>[mɛ̃:lə] Notes: the bleat of a sheep or lamb.</description>
+    </item>
+    <item>
+      <headword id="idp165197168">meile</headword>
+      <description>[mɛ̃lə] Notes: eyebrow.</description>
+    </item>
+    <item>
+      <headword id="idp165198896">mèilich</headword>
+      <description>Quotation: a’ mèilich. Notes: bleating.</description>
+    </item>
+    <item>
+      <headword id="idp165200552">miananaich</headword>
+      <description>Notes: yawning.</description>
+    </item>
+    <item>
+      <headword id="idp165202064">morghath</headword>
+      <description>[mɔrɔ] Notes: morghath in Dw. for fishing spear, trident. D.R. says it is a triple hook for catching salmon. </description>
+    </item>
+    <item>
+      <headword id="idp165203792">riabhachan</headword>
+      <description>[riɤxɑṉ] Notes: hedge sparrow.</description>
+    </item>
+    <item>
+      <headword id="idp165205520">cop</headword>
+      <description>Quotation: cairt-choip [kɑʴsṯxop]. Notes: couping cart. [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+    <item>
+      <headword id="idp165207536">dòrn</headword>
+      <description>Quotation: caol-dùirn. Notes: wrist.</description>
+    </item>
+    <item>
+      <headword id="idp165209192">innear</headword>
+      <description>Quotation: a’ cur a mach an innear; a’ sgaoileadh an innear.</description>
+    </item>
+    <item>
+      <headword id="idp165210704">nèabaig</headword>
+      <description>[nʹɛ̃:biɡʹ] Notes: handkerchief.</description>
+    </item>
+    <item>
+      <headword id="idp165212432">òlainn</headword>
+      <description>[ɔ:ɫĩnʹ] Notes: wool.</description>
+    </item>
+    <item>
+      <headword id="idp165214160">peilistear</headword>
+      <description>[peliʃtʹɛɾ] Quotation: a’ cluich pheilistearan. Notes: playing quoits.</description>
+    </item>
+    <item>
+      <headword id="idp165216032">peurtag</headword>
+      <description>[piɑʴst̪ɑɡ] Notes: partridge. [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+    <item>
+      <headword id="idp165217904">planndais</headword>
+      <description>[pɫɑ̃ũn̪d̪iʃ] Quotation: planndais de chàl. Notes: young plants.</description>
+    </item>
+    <item>
+      <headword id="idp165219776">pollag</headword>
+      <description>Quotation: pollag buntàt. Notes: potato pit.</description>
+    </item>
+    <item>
+      <headword id="idp165221432">sabhal</headword>
+      <description>[sɑu̜ɫ] Notes: barn.</description>
+    </item>
+    <item>
+      <headword id="idp165223160">sac</headword>
+      <description>[sɑxk] Notes: load on a cart.</description>
+    </item>
+    <item>
+      <headword id="idp165224888">sàcramaid</headword>
+      <description>Quotation: Là na sàcramaid. Notes: Communion Sunday.</description>
+    </item>
+    <item>
+      <headword id="idp165226544">sgailc</headword>
+      <description>Notes: a bald head.</description>
+    </item>
+    <item>
+      <headword id="idp165228056">sgarbhlach</headword>
+      <description>[sɡɑɾɑɫɑx] Notes: rough, stony ground. Fox dens often found in among it.</description>
+    </item>
+    <item>
+      <headword id="idp165229856">sgrìodan</headword>
+      <description>Notes: landslide. (See Dw.)</description>
+    </item>
+    <item>
+      <headword id="idp165231368">similear</headword>
+    <description>[ʃĩməlɑɾ] </description></item>
+    <item>
+      <headword id="idp165233096">similear-chrochaidh</headword>
+    </item>
+    <item>
+      <headword id="idp165234608">siolla</headword>
+      <description>Quotation: na siollaichean. Notes: haimes.</description>
+    </item>
+    <item>
+      <headword id="idp165236264">smeig</headword>
+      <description>[smɛ̃ɡʹ] Notes: chin.</description>
+    </item>
+    <item>
+      <headword id="idp165237992">smugaid</headword>
+      <description>[smũ̜ɡidʹ] Notes: spit.</description>
+    </item>
+    <item>
+      <headword id="idp165239720">spagh</headword>
+      <description>[spɤɣ] Notes: a swathe.</description>
+    </item>
+    <item>
+      <headword id="idp165241448">speubhaidh</headword>
+      <description>Notes: lameness in horses.</description>
+    </item>
+    <item>
+      <headword id="idp165242960">sreot</headword>
+      <description>[sɾɔt̪] Notes: sneeze.</description>
+    </item>
+    <item>
+      <headword id="idp165244688">sreotnaich</headword>
+      <description>[sɾɔt̪ṉiç] Quotation: a’ sreotnaich. Notes: sneezing.</description>
+    </item>
+    <item>
+      <headword id="idp165246560">strap-broinn</headword>
+      <description>Notes: belly-band of a horse.</description>
+    </item>
+    <item>
+      <headword id="idp165248072">stùirdean</headword>
+      <description>[st̪u̜:ʴdʹɛ̃ṉ] Notes: water on the brain, in sheep. Lost sense of direction. Could be operated on and water sac removed. [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+    <item>
+      <headword id="idp165249944">taigeas</headword>
+      <description>[t̪ɑɡʹəs] Notes: haggis.</description>
+    </item>
+    <item>
+      <headword id="idp165251672">tigh-caithris</headword>
+      <description>[t̪[ɔi]kɑɾiʃ] Notes: house in which a deceased person is lying.</description>
+    </item>
+    <item>
+      <headword id="idp165253832">tionndan</headword>
+      <description>Quotation: a’ tionndan a’ chabair. Notes: tossing the caber.</description>
+    </item>
+    <item>
+      <headword id="idp165255488">tiormachd</headword>
+      <description>Notes: “dryness” in cattle and sheep.</description>
+    </item>
+    <item>
+      <headword id="idp165257000">trama</headword>
+      <description>Quotation: na tramaichean aig a’ chairt.</description>
+    </item>
+    <item>
+      <headword id="idp165258512">tubhailt</headword>
+      <description>[t̪u̜ɑlʹtʹ] Notes: towel</description>
+    </item>
+    <item>
+      <headword id="idp119244080">adharcan</headword>
+      <description>Notes: lapwing.</description>
+    </item>
+    <item>
+      <headword id="idp119242280">aisinn</headword>
+      <description>[ɑʃĩnʹ] Notes: rib.</description>
+    </item>
+    <item>
+      <headword id="idp119240552">aonraich</headword>
+      <description>Quotation: Bha e ga [w̃:ṉɾɑɡəɣ] fhéin. Notes: horse wallowing on its back on the ground.</description>
+    </item>
+    <item>
+      <headword id="idp119239472">bacan</headword>
+      <description>[bɑxkɑ̃ṉ] Quotation: bacan cùil, bacan aghaidh. Notes: earmarks. </description>
+    </item>
+    <item>
+      <headword id="idp119237600">barra-gùg</headword>
+      <description>Notes: potato blossoms.</description>
+    </item>
+    <item>
+      <headword id="idp119235944">beum-sléibhe</headword>
+      <description>[be:mʃlʹe:] Notes: meaning given as “landslide”. (See Dw.)</description>
+    </item>
+    <item>
+      <headword id="idp119234000">biorsamaid</headword>
+      <description>[bjwʴsəmɑdʹ] Notes: spring balance. [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+    <item>
+      <headword id="idp115444368">bodach</headword>
+      <description>Notes: three sheaves standing. <illustration src="NorthLagganDRobertsonslipsillust3.jpg" width="250"/></description>
+    </item>
+    <item>
+      <headword id="idp115453728">bota-móine</headword>
+      <description>[bɔt̪əmõ:ṉə] Notes: peat bog.</description>
+    </item>
+    <item>
+      <headword id="idp115473600">brat</headword>
+      <description>Notes: bedcover.</description>
+    </item>
+    <item>
+      <headword id="idp115456464">bus-muic</headword>
+      <description>Notes: sow-mouth.</description>
+    </item>
+    <item>
+      <headword id="idp115483896">cabar</headword>
+      <description>Quotation: a’ tionndan a’ chabair. Notes: tossing the caber.</description>
+    </item>
+    <item>
+      <headword id="idp164975880">caol</headword>
+      <description>Quotation: caol-dùirn. Notes: wrist.</description>
+    </item>
+    <item>
+      <headword id="idp164977536">cabar-coille</headword>
+      <description>[kɑbəɾkɤlʹə] Notes: capercailzie. [NOTES: slipped under ‘capall-coille’.]</description>
+    </item>
+    <item>
+      <headword id="idp164979408">carran</headword>
+      <description>[kɑɾɑṉ] Notes: a white flower that grows among potatoes. (See carran – Dw.)</description>
+    </item>
+    <item>
+      <headword id="idp164981136">clach-neirt</headword>
+      <description>Quotation: a’ chlach-neirt; a’ cur a’ chlach-neirt. Notes: putting stone.</description>
+    </item>
+    <item>
+      <headword id="idp164982864">claon-shuileach</headword>
+      <description>[kɫw̃:ṉ hu̜:lɑx] Notes: squint-eyed. Bha e claon – he had a squint.</description>
+    </item>
+    <item>
+      <headword id="idp164984592">cluaran</headword>
+      <description>Notes: thistle.</description>
+    </item>
+    <item>
+      <headword id="idp164986104">cluich-bhall</headword>
+      <description>[kɫu̜iv[ɑu]ɫ] Quotation: A’ bheil thu dol a’ choimhead air a’ chluich-bhall an diugh.</description>
+    </item>
+    <item>
+      <headword id="idp164988264">comhachag</headword>
+      <description>Notes: owl. (or cailleach oidhch’)</description>
+    </item>
+    <item>
+      <headword id="idp164989776">copagach</headword>
+      <description>Notes: docken.</description>
+    </item>
+    <item>
+      <headword id="idp164991288">corra-ria(bha)ch</headword>
+      <description>[kɔɾəriɔx] Notes: heron.</description>
+    </item>
+    <item>
+      <headword id="idp164993016">corra-sioman (sic)</headword>
+      <description>Notes: rope-making tool.</description>
+    </item>
+    <item>
+      <headword id="idp164994528">crann-sgrìobaidh</headword>
+      <description>Notes: drill harrow (angle could be adjusted). <illustration src="NorthLagganDRobertsonslipsillust4.jpg" width="250"/></description>
+    </item>
+    <item>
+      <headword id="idp164996112">crith</headword>
+      <description>Quotation: a’ chrith. Notes: trembling disease in cattle and sheep.</description>
+    </item>
+    <item>
+      <headword id="idp164997768">crùban</headword>
+      <description>Quotation: an crùban. Notes: illness in sheep and cattle said to be caused by cold and damp. Rendered them almost immobile.</description>
+    </item>
+    <item>
+      <headword id="idp164999424">crubh</headword>
+      <description>[kɾu̜] Notes: a hoof. Pl. cruibhean [kɾ[ɤı]əṉ].</description>
+    </item>
+    <item>
+      <headword id="idp165001800">cruachainn</headword>
+      <description>[kɾu̟ɤxĩnʹ] Notes: hip.</description>
+    </item>
+    <item>
+      <headword id="idp165003528">cuileag-iasgaich</headword>
+      <description>Notes: fishing fly.</description>
+    </item>
+    <item>
+      <headword id="idp165005040">cùlag</headword>
+      <description>[ku̜:ɫɑɡ] Notes: turf divot, the bottom part of which was usually peat, dried and used as fuel at the back of the fire.</description>
+    </item>
+    <item>
+      <headword id="idp165006768">deamhais</headword>
+      <description>[dʹɛ̃iʃ] Notes: sheep-shears.</description>
+    </item>
+    <item>
+      <headword id="idp165008496">deanntag</headword>
+      <description>[dʹ[ɛ̃ũ̜]n̪t̪ɑɡ] Notes: nettle.</description>
+    </item>
+    <item>
+      <headword id="idp165010656">dromach</headword>
+      <description>Notes: the rigwoodie.</description>
+    </item>
+    <item>
+      <headword id="idp165012168">dubh-bhreac</headword>
+      <description>[d̪u̜vɾɛxk] Notes: “black trout.”</description>
+    </item>
+    <item>
+      <headword id="idp165013896">éilteag</headword>
+      <description>Notes: ember.</description>
+    </item>
+    <item>
+      <headword id="idp165015408">feang</headword>
+      <description>[fɛ̃ŋɡ] Notes: enclosure.</description>
+    </item>
+    <item>
+      <headword id="idp165017136">feurstan</headword>
+      <description>[fe:ʴsṯɑṉ] Notes: warble-fly. [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+    <item>
+      <headword id="idp165019008">froiseag</headword>
+      <description>[fɾɔʃɑɡ] Notes: a small potato. Usually used in the pl.</description>
+    </item>
+    <item>
+      <headword id="idp165020736">fuar-leabaidh</headword>
+      <description>[fuɤɾlʹɛbi] Notes: boards on which body was laid.</description>
+    </item>
+    <item>
+      <headword id="idp165022464">gagach</headword>
+      <description>Notes: stammering.</description>
+    </item>
+    <item>
+      <headword id="idp165023976">galar</headword>
+      <description>Quotation: galar a’ bhuntàt. Notes: blight.</description>
+    </item>
+    <item>
+      <headword id="idp165025632">gath-muinge</headword>
+      <description>[ɡɑmũ̜ṉə] Notes: horse’s mane.</description>
+    </item>
+    <item>
+      <headword id="idp165027360">geadas</headword>
+      <description>[ɡed̪əs] Notes: pike.</description>
+    </item>
+    <item>
+      <headword id="idp165029088">geumraich</headword>
+      <description>[ɡe:məɾıç] Quotation: Tha a’ bhó a’ geumraich.</description>
+    </item>
+    <item>
+      <headword id="idp165030816">glàir</headword>
+      <description>[ɡɫɑ:ɾ] Notes: muddy ground, as when trampled underfoot by animals.</description>
+    </item>
+    <item>
+      <headword id="idp165032616">glaoghan</headword>
+      <description>[ɡɫw:ɣɑṉ] Notes: part cut off potato and having no eye.</description>
+    </item>
+    <item>
+      <headword id="idp165034344">góbhlachan</headword>
+      <description>Notes: earwig.</description>
+    </item>
+    <item>
+      <headword id="idp165035856">gogadaich</headword>
+      <description>Quotation: a’ chearc a’ gogadaich.</description>
+    </item>
+    <item>
+      <headword id="idp165037368">gràb</headword>
+      <description>[ɡɾɑ:b] Notes: grape.</description>
+    </item>
+    <item>
+      <headword id="idp165039096">grùthan</headword>
+      <description>Quotation: an grùthan. Notes: the liver.</description>
+    </item>
+  </items>
+</fieldworkDocument>

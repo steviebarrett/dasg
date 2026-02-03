@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 1 5 13 -->
+<fieldworkDocument docId="CattleandSheep_GlasgowDGrantsheep" docType="questionnaire" subType="Sheep">
+  <title>Caoraich / Sheep</title>
+  <fieldworker>[self]</fieldworker>
+  <informant>
+    <nameEnglish>Donald Grant</nameEnglish>
+    <nameGaelic>Domhnall Grannd</nameGaelic>
+    <age>66</age>
+    <origin>[Skye, Camus Chroise]</origin>
+  </informant>
+  <location>Glasgow</location>
+  <items>
+    <item><headword id="d0e32" type="heading" level="h1">1. Different stages in the growth of sheep (female)</headword></item>
+	<item>
+	  <headword id="idola63">[caora]</headword>
+	  <description>Cha robh caoraich aig croitearan Chamaschros, anns an Eilean Sgiathanach. Chuala mi cuid dhe na faclan timcheall air caoraich, ach cha b’ urrainn domh an cur an òrdugh.</description>
+	</item>
+    <item>
+      <headword id="d0e46">uan fireann</headword>
+    </item>
+    <item>
+      <headword id="d0e52">uan boireann</headword>
+    </item>
+    <item>
+      <headword id="d0e58">othaisg (f)</headword>
+      <description>yearling.</description>
+    </item>
+    <item>
+      <headword id="d0e67">reithe (m)</headword>
+      <description>ram.</description>
+    </item>
+    <item>
+      <headword id="d0e76">sgrog</headword>
+      <description>old sheep.</description>
+    </item>
+    <item>
+      <headword id="d0e85">croga</headword>
+    </item>
+    <item><headword id="d0e90" type="heading" level="h1">2. Different stages in the growth of sheep (male)</headword></item>
+    <item><headword id="d0e94" type="heading" level="h1">3. Different stages in the growth of the castrated male</headword></item>
+    <item><headword id="d0e98" type="heading" level="h1">4. Sheep’s appearance</headword></item>
+    <item>
+      <headword id="d0e103">caora dhubh-cheannach</headword>
+    </item>
+    <item>
+      <headword id="d0e109">caora mhaol</headword>
+    </item>
+    <item>
+      <headword id="d0e115">caora reamhar</headword>
+    </item>
+    <item><headword id="d0e120" type="heading" level="h1">5. Miscellaneous</headword></item>
+    <item>
+      <headword id="d0e125">peata uain</headword>
+    </item>
+    <item>
+      <headword id="d0e131">uan càraid</headword>
+      <description>twin lamb.</description>
+    </item>
+    <item><headword id="d0e139" type="heading" level="h1">6. Feeding and grazing</headword></item>
+    <item><headword id="d0e143" type="heading" level="h1">7. Handling of sheep</headword></item>
+    <item>
+      <headword id="d0e148">cire, cire</headword>
+      <description>call to sheep.</description>
+    </item>
+    <item>
+      <headword id="d0e157">cirean, cirean</headword>
+      <description>call to lamb.</description>
+    </item>
+    <item><headword id="d0e165" type="heading" level="h1">8. Apparatus</headword></item>
+    <item>
+      <headword id="d0e170">an t-udalan</headword>
+      <description>swivel.</description>
+    </item>
+    <item><headword id="d0e178" type="heading" level="h1">9. Diseases</headword></item>
+    <item><headword id="d0e182" type="heading" level="h1">10. Parts of the body</headword></item>
+    <item>
+      <headword id="d0e187">rùsg (m)</headword>
+      <description>hide.</description>
+    </item>
+    <item><headword id="d0e195" type="heading" level="h1">11. Lambing</headword></item>
+    <item><headword id="d0e199" type="heading" level="h1">12. Miscellaneous</headword></item>
+  </items>
+</fieldworkDocument>

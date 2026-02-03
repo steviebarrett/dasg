@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 29/9/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_EoligarryCJohnstonslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>02/1969</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <informant>
+    <nameEnglish>Calum Johnston</nameEnglish>
+    <origin>Barra</origin>
+  </informant>
+  <location>Barra, Eoligarry</location>
+  <items>
+    <item>
+      <headword id="idp166272504">[spɑilʹəx ɑ̃ŋɡǝð]</headword>
+      <description>[?] Notes: an obstacle.</description>
+    </item>
+    <item>
+      <headword id="idp166274232">mabailte</headword>
+      <description>[mɑ̃bılʹtʹə] Quotation: iasg mabailte. Notes: on the turn, going bad.</description>
+    </item>
+    <item>
+      <headword id="idp166276104">spreig</headword>
+      <description>Quotation: a’ spreigeadh [əspɾeɡʹəɣ]. Notes: to spur something on.</description>
+    </item>
+    <item>
+      <headword id="idp166277976">saothadh</headword>
+      <description>[sɤ:həɣ] Quotation: 1. “Chaneil saothadh ’s an duine a tha so.” 2. Gu de a’ saothadh a th’aige sin? Notes: 1. drive, vigour, strength. 2. essence.</description>
+    </item>
+    <item>
+      <headword id="idp166279848">caithinnich</headword>
+      <description>Quotation: Nach ann oirre a tha a’ chaithinnich! Notes: said when a boat is under full sail with a good wind and making good progress. In a letter to J. L. Campbell explaining word “ceàrnaich” page 6, 7 lines from bottom, in “Story of Conall Gulbann”.</description>
+    </item>
+    <item>
+      <headword id="idp166281504">clabhsail</headword>
+      <description>[kɫɑu̟sɑl] Notes: windy, blustery.</description>
+    </item>
+    <item>
+      <headword id="idp166283232">grùthan</headword>
+      <description>Quotation: Thàinig an grùthan ann. Notes: He grew tired.</description>
+    </item>
+  </items>
+</fieldworkDocument>

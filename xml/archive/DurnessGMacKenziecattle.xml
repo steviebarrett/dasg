@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 15 1 15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="DRMorrisonetal_DurnessGMacKenziecattle" docType="questionnaire" subType="Cattle" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Crodh / Cattle</title>
+  <date>[1970]</date>
+  <fieldworker>[self]</fieldworker>
+  <informant>
+    <nameEnglish>George MacKenzie</nameEnglish>
+    <age>67</age>
+    <origin>Assynt, Stoer</origin>
+  </informant>
+  <location>Sutherland, Lairg, Durness</location>
+  <items>
+    <item>
+      <headword id="d0e33" type="heading" level="h1">1. Different stages in the growth of cattle</headword>
+    </item>
+    <item>
+      <headword id="d0e39" type="heading" level="h1">2. Breeds of cattle</headword>
+    </item>
+    <item>
+      <headword id="d0e45" type="heading" level="h1">3. Outward appearance of cattle</headword>
+    </item>
+    <item>
+      <headword id="idp119929032">bo duith</headword>
+      <description>black cow. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp119910960">bo ruadh</headword>
+      <description>red cow. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp119918376">cro duith</headword>
+      <description>black cattle. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp119947824">cro ruadh</headword>
+      <description>red cattle. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp119948688">bo odhar</headword>
+      <description>dun cow. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp119917728">bo bhreck</headword>
+      <description>speckled cow, usually Ayrshire. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp119906352">cro Ghaidhealach</headword>
+      <description>Highland cattle (now very rare in Assynt). (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp119910456">mart</headword>
+      <description>seldom if ever used, except in relation to beef: “marstal”. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="d0e123" type="heading" level="h1">4. Names for certain beasts, e.g. an animal on which the owner bestows particular attention</headword>
+    </item>
+    <item>
+      <headword id="d0e129" type="heading" level="h1">5. Parts of the body</headword>
+    </item>
+    <item>
+      <headword id="d0e135" type="heading" level="h1">6. Calving</headword>
+    </item>
+    <item>
+      <headword id="idp119919384">tha bho fo gar</headword>
+      <description>cow bulling. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp119913840">tha dar air a’ bho</headword>
+      <description>cow bulling. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp119924784">cur laogh</headword>
+      <description>cow calving. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp119923632">salachar</headword>
+      <description>afterbirth. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="d0e177" type="heading" level="h1">7. Milking</headword>
+    </item>
+    <item>
+      <headword id="idp119892240">bloin</headword>
+      <description>milking. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp119893320">crav</headword>
+      <description>suckling. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp119894760">noose</headword>
+      <description>first milking. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="d0e210" type="heading" level="h1">8. Feeding</headword>
+    </item>
+    <item>
+      <headword id="idp119896992">buachalach</headword>
+      <description>herding. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp119899872">buachaille</headword>
+      <description>herd. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp119901168">“hor foddar dan a chro”</headword>
+      <description>give the cows straw. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="d0e243" type="heading" level="h1">9. Apparatus</headword>
+    </item>
+    <item>
+      <headword id="idp119903760">nask</headword>
+      <description>neck rope or chain on cows in stall. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp114529896">burrach</headword>
+      <description>fetter for milking. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp116286120">spaerach</headword>
+      <description>[sic] fetter to prevent jumping. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="d0e276" type="heading" level="h1">10. Diseases</headword>
+    </item>
+    <item>
+      <headword id="idp116288496">rooia</headword>
+      <description>inflammation of the udder. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="d0e291" type="heading" level="h1">11. Miscellaneous</headword>
+    <description>[misnumbered as 12] </description></item>
+    <item>
+      <headword id="idp116290872">trobhad “merag”</headword>
+      <description>calling a cow. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp116292384">treud</headword>
+      <description>herd of cattle. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp116293896">buachar</headword>
+      <description>dung. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp116295408">clughan</headword>
+      <description>dung strand or channel. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp116296920">tol a’ gédan</headword>
+      <description>hole in byre wall through which the urine flows. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp116298432">boolie</headword>
+      <description>stall. (Stoer, Assynt)</description>
+    </item>
+  </items>
+</fieldworkDocument>

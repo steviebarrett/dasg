@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 23 4 13 -->
+<fieldworkDocument docId="HouseandFurnishings_StornowayAUrquharttaigh" docType="questionnaire" subType="TaighGaidhealach">
+  <title>Taigh Gàidhealach / House and Furnishings</title>
+  <date>[3/1968 on the slips]</date>
+  <fieldworker>[self]</fieldworker>
+  <note>[NOTES: after some of the nouns the informant uses such adjectives as ‘beag’ and ‘math’ most probably to show their gender but as it is not clear in all cases, they have been left unchanged.]</note>
+  <informant>
+    <nameEnglish>Urquhart</nameEnglish>
+    <nameGaelic>A. Urchardan </nameGaelic>
+    <age>73</age>
+    <origin>Geàrrloch (Loch Iubh) [Gairloch (Loch Ewe)]</origin>
+  </informant>
+  <location>[Lewis], Steòrnabhagh [Stornoway]</location>
+  <!-- ILLUSTRATIONS -->
+  <items>
+    <item><headword id="d0e40" type="heading" level="h1">1. An stéidh is am balla</headword></item>
+    <item>
+      <headword id="d0e45">bonn ...</headword>
+      <description>an stéidh</description>
+    </item>
+    <item>
+      <headword id="d0e54">cuairt (dhìreach)</headword>
+      <description>àirde aon chloich ceithir thimchioll am balla.</description>
+    </item>
+    <item>
+      <headword id="d0e63">“dhà air aonan is aonan air a dhà”</headword>
+      <description>an doigh togail.</description>
+    </item>
+    <item>
+      <headword id="d0e72">dùsgadh chlach</headword>
+      <description>cladhach chlachan fhreagarrach</description>
+    </item>
+    <item>
+      <headword id="d0e81">àrd-dorus</headword>
+      <description>lintel.</description>
+    </item>
+    <item>
+      <headword id="d0e90">leac-an-doruis</headword>
+    </item>
+    <item>
+      <headword id="d0e96">leac an teine</headword>
+    </item>
+    <item>
+      <headword id="d0e102">tulchainn (gheal)</headword>
+      <description>gable.</description>
+    </item>
+    <item>
+      <headword id="d0e111">bràigh a’ bhalla</headword>
+      <description>an annainn (eaves).</description>
+    </item>
+    <item>
+      <headword id="d0e120">an cadha</headword>
+      <description>am balla tarsuing eadar an ceann shìos is an ceann shuas.</description>
+    </item>
+    <item>
+      <headword id="d0e129">cat criadhaich</headword>
+      <description>balla-tarsuing air a dhèanamh de mhaidean ’nan seasamh, siamain fodair air am fighe eatorra agus sin air a chòmhdach le criadhach (cré). (Thàinig seo bho sheann duine á Mealabhaig.)</description>
+    </item>
+    <item>
+      <headword id="d0e138">am faradh</headword>
+      <description>shuas air na sparran far an robh maidean fiodha sìnte. Dad nach robh ’ga chur gu feum a’ cheud ghreis rachadh a chur “air an fharadh” as an rathad.</description>
+    </item>
+    <item>
+      <headword id="d0e147">fàrlus</headword>
+      <description>an luidhear.</description>
+    </item>
+    <item>
+      <headword id="d0e156">lathus</headword>
+      <description>maidean fada caola air uachdar an tughaidh.</description>
+    </item>
+    <item><headword id="d0e164" type="heading" level="h1">2. Am mullach ’s an tughadh</headword></item>
+    <item>
+      <headword id="d0e169">maide-ceangail</headword>
+    </item>
+    <item>
+      <headword id="d0e175">ceangal (math)</headword>
+      <description>(couples).</description>
+    </item>
+    <item>
+      <headword id="d0e184">casan-ceangail</headword>
+      <description>anns a’ bhalla. Bha iad crom aig a’ cheann shuas, eag mhath air a ghearradh annta far am freagradh ceann iosal a cheangail, air a chumail ann le da chrann daraich. Chan’eil cuimhne agam an ann air an taobh a muigh no stigh a bha an eag. Bha na croinn có dhiùbh a stigh. Is iomadh balach diomhain thug cnag orra.
+        <illustration src="StornowayAUrquharttaighillust1.jpg" width="150"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e195">saile</headword>
+      <description>beam. Cha bhiodh seo ach an tigh mór.</description>
+    </item>
+    <item>
+      <headword id="d0e204">cabair</headword>
+      <description>purlings. Bha dà sheòrsa ann. 1. Feadhainn fhada air an cur gu math dlùth air a chéile air na ceangail – air fad an tighe, air uachdar sin sgrathan is tughadh. 2. Tri cabair fhada ’nan laighe air na ceangail (tùbhan), taobhan recte [?], agus na cabair a bhàn is an àirde (sios is suas) air sin. Cha robhas ag cumadh no a rùsgadh nan cabair.
+        <illustration src="StornowayAUrquharttaighillust2.jpg" width="400"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e215">spàrr mór</headword>
+    </item>
+    <item>
+      <headword id="d0e221">spàrr beag</headword>
+      <description>an té a b’àirde.</description>
+    </item>
+    <item>
+      <headword id="d0e230">cath-droma</headword>
+      <description>ridge pole.</description>
+    </item>
+    <item>
+      <headword id="d0e239">gath-droma</headword>
+      <description>ridge pole</description>
+    </item>
+    <item>
+      <headword id="d0e248">sgrath (mhór)</headword>
+      <description>air a buain le caibe-làir.</description>
+    </item>
+    <item>
+      <headword id="d0e257">fàl</headword>
+      <description>cip ceithir-cheàrnach air son gàradh no balla thogail no chur air mullach balla, mu 24" x 12" x 10".</description>
+    </item>
+    <item>
+      <headword id="d0e266">tughadh fraoich</headword>
+    </item>
+    <item>
+      <headword id="d0e272">cual (mhór)</headword>
+      <description>pasgan fraoich air a bhuain ’na ghiùlaineadh tu furasda air do dhruim (2½' no 3' troimhe). Thomhaiseadh am fear-tughaidh le shùil có meud cual a dh’fheumadh an tigh agus cha bhiodh e fada ceàrr.</description>
+    </item>
+    <item>
+      <headword id="d0e281">siaman-barraich</headword>
+      <description>gus na cuail a cheangal, slatagan beaga caoil (’se sin barrach beithe). Dà dhual mar bu trice.</description>
+    </item>
+    <item>
+      <headword id="d0e290">feasradh</headword>
+      <description>fraoch goirid ’ga bhuain air son leapannan. B’e am facal ‘buain’ ach ghlacadh tu bad ’nad dhà làimh car a chur ann ceàrr (no deas a rèir do làimhe) is le grad spìonadh thigeadh e leat.</description>
+    </item>
+    <item>
+      <headword id="d0e299">dromanach (caol)</headword>
+      <description>slatan caola seilich ùr no calltuinn mu 3' am fad. Bha thu ’gan dèanamh biorach air an dà cheann, ’gan dathadh ’sa’ mheadhon le dreiseag air an teine, ’gan lùbadh gu cumadh prine-fuilt, ’gan cur eadar rungas cathrach ’gan cumail crom. Bha iad aig an tughdair ag cumail an fhraoich ’na àite. Thogadh e gus an ath bhreth iad mar a bha e ag obair. Rachadh am fagail ’sa’ mhullach. Bha thu ’gan dathadh is ’gan toinneamh an seo [see the arrow in the picture] mus bristeadh iad anns an lùbadh.
+        <illustration src="StornowayAUrquharttaighillust3.jpg" width="100"/>
+      </description>
+    </item>
+    <item><headword id="d0e309" type="heading" level="h1">3. Dorsan is uinneagan</headword></item>
+    <item><headword id="d0e313" type="heading" level="h1">4. An broinn an taighe: na sèamraichean</headword></item>
+    <item>
+      <headword id="d0e318">ceann-shios</headword>
+    </item>
+    <item>
+      <headword id="d0e324">ceann shuas</headword>
+    </item>
+    <item>
+      <headword id="d0e330">an cùlaist</headword>
+      <description>againne an rùm a b’fheàrr.</description>
+    </item>
+    <item>
+      <headword id="d0e339">closaid (bheag)</headword>
+    </item>
+    <item>
+      <headword id="d0e345">aig an teine</headword>
+    </item>
+    <item>
+      <headword id="d0e351">cagailt (bheag)</headword>
+      <description>àite-teine (air a thogail).</description>
+    </item>
+    <item>
+      <headword id="d0e360">na teinnteanan</headword>
+      <description>an dà thaobh.</description>
+    </item>
+    <item>
+      <headword id="d0e369">an teallach</headword>
+      <description>anns a’ cheàrdaich a mhàin.</description>
+    </item>
+    <item>
+      <headword id="d0e378">leac an teine</headword>
+    </item>
+    <item>
+      <headword id="d0e384">maide-slabhraidh</headword>
+    </item>
+    <item>
+      <headword id="d0e390">slabhraidh</headword>
+    </item>
+    <item>
+      <headword id="d0e396">an dubhan</headword>
+    </item>
+    <item>
+      <headword id="d0e402">lannsaid (fhada)</headword>
+      <description>bha cùl rithe, agus mar bu trice brat air chor-eigin.</description>
+    </item>
+    <item>
+      <headword id="d0e411">fuirm (fada)</headword>
+      <description>fiodh a mhàin.</description>
+    </item>
+    <item>
+      <headword id="d0e420">tuba</headword>
+    </item>
+    <item>
+      <headword id="d0e426">cùdainn</headword>
+    </item>
+    <item>
+      <headword id="d0e432">siuga-seapain</headword>
+      <description>chopin.</description>
+    </item>
+    <item>
+      <headword id="d0e441">stòlan</headword>
+      <description>an t-uachdar de fhodar air fhighe. Theireadh cuid “na Stòlanan” ri daoine bha fuireach air a’ Chóigeach (a réir seann duine as aithne dhomh).</description>
+    </item>
+    <item>
+      <headword id="d0e450">amar fuail</headword>
+      <description>ag gleidheadh seo (maighistir) airson nighe is còmhla ri dath. Chunna mi maighistir ann an stabull, ’ga shuathadh ri guilleann nan each ’san earrach (a’ dèanamh a’ chraicinn làidir).</description>
+    </item>
+    <item><headword id="d0e458" type="heading" level="h1">5. An t-àite-teine</headword></item>
+    <item>
+      <headword id="d0e463">leid (mhór)</headword>
+      <description>àite-teine a muigh ri taobh a’ ghàraidh na leithid sin nam biodh tu nighe. “Tha phoit-mhór air an leid.”</description>
+    </item>
+    <item>
+      <headword id="d0e472">cat-griosaich</headword>
+      <description>fear a bha glé dhéidheil air a bhith ’ga gharadh.</description>
+    </item>
+    <item>
+      <headword id="d0e481">pùlas</headword>
+      <description>pùlas na poite.</description>
+    </item>
+    <item>
+      <headword id="d0e490">maide-coire</headword>
+      <description>spurtle, airson lite.</description>
+    </item>
+    <item><headword id="d0e498" type="heading" level="h1">6. Airneis an taighe</headword></item>
+    <item><headword id="d0e502" type="heading" level="h1">7. Sobhal, bàthach, no bothanan sam bith eile</headword></item>
+    <item>
+      <headword id="d0e507">acair</headword>
+      <description>am meall mór feoir anns an t-sobhal an déidh a sgamhnadh.</description>
+    </item>
+    <item>
+      <headword id="d0e516">mìr</headword>
+      <description>aghaidh na h’acrach sin.</description>
+    </item>
+    <item>
+      <headword id="d0e525">làr-bualaidh</headword>
+      <description>de fhiodh (tha e beò).</description>
+    </item>
+    <item>
+      <headword id="d0e534">sùist</headword>
+      <description>chaidh e as roimh mo latha-san.</description>
+    </item>
+    <item>
+      <headword id="d0e543">maide-bualaidh</headword>
+      <description>bhiodh tu air do ghlùinean ris.</description>
+    </item>
+    <item>
+      <headword id="d0e552">siolpan</headword>
+      <description>maide goirid leis an toireadh tu frathadh air sguaib (gun ach beagan sìl a thoirt dhith).</description>
+    </item>
+    <item>
+      <headword id="d0e561">criathar</headword>
+    </item>
+    <item>
+      <headword id="d0e567">cailleach-fhasgnaidh</headword>
+      <description>muilinn beag (làmh is chas) gu fasgnadh.</description>
+    </item>
+    <item>
+      <headword id="d0e576">[glas is iuchair]</headword>
+      <description>a’ cheud toimhseachan a chuala mi riamh: Bó odhar, bó odhar / An dorus an t-sobhail / I cnàmh a cìr / Is laogh ’na gobhal. (Glas is iuchair)</description>
+    </item>
+    <item>
+      <headword id="d0e585">[am bàitheach]</headword>
+      <description>Sgìre Gheàrrloch: am bàitheach, bàitheach blàth, ceann a’ bhàithich.</description>
+    </item>
+    <item>
+      <headword id="d0e594">buaile</headword>
+      <description>stall, a stigh. [Cf. buaileag]</description>
+    </item>
+    <item>
+      <headword id="d0e603">buaileag</headword>
+      <description>a muigh is gàradh timchioll air. [Cf. buaile]</description>
+    </item>
+    <item>
+      <headword id="d0e612">[cas bheag]</headword>
+      <description>an doigh togail cas-bheag, clachan ag gach taobh fad bho chéile gu h-iosal agus a’ buntainn ri chéile gu h-àrd. Sgrathan is talamh air muin nan clach.
+        <illustration src="StornowayAUrquharttaighillust5.jpg" width="200"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e623">carcair</headword>
+      <description>far an tuiteadh am buachair. Bha seòrsa de dhìg chaol dhùinte a’ ruith bho’n charcair.
+        <illustration src="StornowayAUrquharttaighillust4.jpg" width="400"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e634">imeach (?) (f)</headword>
+      <description>eadar an dà charcair [q.v.] ach their cuid againn gur e th’ann (a) [refers to the illustration under ‘carcair’]. Chan’eil e agamsa ach “air an imich” agus mar thubhairt mi ’n toiseach.</description>
+    </item>
+    <item>
+      <headword id="d0e643">nasg</headword>
+      <description>chan’eil am facal againn a nis ach ann “air an nasg” i.e. ceangailte gun bhiadh fad an latha.</description>
+    </item>
+    <item>
+      <headword id="d0e652">frasach</headword>
+      <description>praiseach (le stiall): an crodh Gàidhealach leis na h-adhaircean móra.</description>
+    </item>
+    <item>
+      <headword id="d0e661">ceannach (math)</headword>
+      <description>biadh-meallaidh, blasadan beag (gle thric sgadan saillte) gus an toireadh i am bainne.</description>
+    </item>
+    <item>
+      <headword id="d0e670">faradh</headword>
+      <description>nam biodh cearcan os cionn a’ chruidh mar bu tric a bha iad “air an fharadh”.</description>
+    </item>
+    <item>
+      <headword id="d0e679">iris</headword>
+      <description>nam biodh iad [i.e. cearcan] gu h-àrd an tigh nan cearc bha iad “air an iris”.</description>
+    </item>
+    <item>
+      <headword id="d0e688">eadradh</headword>
+      <description>bleoghann. Bha seo aig seann duine ach thubhairt e gur ann an Srath-Eireann a thog e e ’na òige. [NOTES: it is not clear if the above comment refers to ‘eadradh’ or ‘buarach’.]</description> 
+    </item>
+    <item>
+      <headword id="d0e697">buarach</headword>
+    </item>
+    <item>
+      <headword id="d0e703">deubhann</headword>
+      <description>’s ann de bharrach beithe rinn sinn seo (eich).</description>
+    </item>
+  </items>
+</fieldworkDocument>

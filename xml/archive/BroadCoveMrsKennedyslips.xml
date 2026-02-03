@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 6/8/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_BroadCoveMrsKennedyslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>05/1971</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <informant>
+    <nameEnglish>Mrs Archie Kennedy</nameEnglish>
+  </informant>
+  <location>Canada, Cape Breton, Broad Cove</location>
+  <items>
+    <item>
+      <headword id="idp161831264">muilleachadh</headword>
+      <description>[m[ɔi]lʹɑxəɣ] Notes: mill dues. (Word used by her mother – she herself would use ‘dolla’ (?).)</description>
+    </item>
+    <item>
+      <headword id="idp161833424">sluisearachd</headword>
+      <description>[sɫuʃəɾɑxk] Notes: area of muddy water.</description>
+    </item>
+    <item>
+      <headword id="idp161835152">bragair</headword>
+      <description>[bɾɑɡəɾ] Quotation: bragairean de sgeulachan. Notes: stones without much to them.</description>
+    </item>
+    <item>
+      <headword id="idp161837024">droighneach</headword>
+      <description>[d̪ɾ[ɤı]nʹɑx] Quotation: droighneach de dhuine. Notes: worthless person.</description>
+    </item>
+    <item>
+      <headword id="idp161839328">duilich</headword>
+      <description>Notes: meaning difficult.</description>
+    </item>
+    <item>
+      <headword id="idp161840840">gàbhaidh</headword>
+      <description>Notes: on its own means awful. Can say: Tha e gàbhaidh math, fliuch, etc. Common in Ins Co.</description>
+    </item>
+  </items>
+</fieldworkDocument>

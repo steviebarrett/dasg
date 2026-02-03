@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 13 4 14 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="WoolworkingandFishing_ShawbostJuniorSecondarymaorach" docType="questionnaire" subType="Maorach" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Maorach / Shellfish</title>
+  <fieldworker>[school]</fieldworker>
+  <informant>
+    <nameEnglish>Shawbost Junior Secondary</nameEnglish>
+  </informant>
+  <location>Isle-of-Lewis, Shawbost</location>
+  <items>
+    <item><headword id="d0e23" type="heading" level="h1">1. Maorach</headword></item>
+    <item>
+      <headword id="d0e28">feusgan</headword>
+      <description>mussel.</description>
+    </item>
+    <item>
+      <headword id="d0e37">faochag</headword>
+      <description>whelk.</description>
+    </item>
+    <item>
+      <headword id="d0e46">beàrnach</headword>
+      <description>limpet.</description>
+    </item>
+    <item>
+      <headword id="d0e55">partan</headword>
+      <description>crab.</description>
+    </item>
+    <item>
+      <headword id="d0e64">giomach</headword>
+      <description>lobster.</description>
+    </item>
+    <item>
+      <headword id="d0e73">muirsgian</headword>
+      <description>razor fish.</description>
+    </item>
+    <item>
+      <headword id="d0e82">creachan</headword>
+      <description>clam.</description>
+    </item>
+    <item>
+      <headword id="d0e91">faochag bhàn</headword>
+      <description>dog whelk.</description>
+    </item>
+    <item>
+      <headword id="d0e100">madadh</headword>
+      <description>horse mussel.</description>
+    </item>
+    <item>
+      <headword id="d0e109">eisir</headword>
+      <description>oyster.</description>
+    </item>
+    <item>
+      <headword id="d0e118">coilleag</headword>
+      <description>cockle.</description>
+    </item>
+    <item>
+      <headword id="d0e127">brallach</headword>
+      <description>hose-fish.</description>
+    </item>
+    <item>
+      <headword id="d0e136">crùbag</headword>
+      <description>crab.</description>
+    </item>
+    <item>
+      <headword id="d0e145">muir-tèachd</headword>
+      <description>jellyfish.</description>
+    </item>
+    <item>
+      <headword id="d0e154">cnogan tràghad</headword>
+      <description>sea urchin.</description>
+    </item>
+    <item>
+      <headword id="d0e163">cnogan feannaig</headword>
+      <description>sea urchin.</description>
+    </item>
+    <item>
+      <headword id="d0e172">cnogan starraig</headword>
+      <description>sea urchin.</description>
+    </item>
+    <item>
+      <headword id="d0e181">cnogan grunna</headword>
+      <description>sea urchin.</description>
+    </item>
+    <item>
+      <headword id="d0e190">cluasag</headword>
+      <description>variegated clam.</description>
+    </item>
+    <item>
+      <headword id="d0e199">maorach geal</headword>
+      <description>pullet shell.</description>
+    </item>
+    <item>
+      <headword id="d0e208">gnogan</headword>
+      <description>large whelk.</description>
+    </item>
+    <item>
+      <headword id="d0e217">giuran</headword>
+      <description>barnacle.</description>
+    </item>
+    <item>
+      <headword id="d0e226">muasgan-caol</headword>
+      <description>prawn.</description>
+    </item>
+    <item>
+      <headword id="d0e235">crosgag</headword>
+      <description>starfish.</description>
+    </item>
+    <item><headword id="d0e243" type="heading" level="h1">2. A’ tional maorach</headword></item>
+	<item>
+	   <headword id="idola268">[note]</headword>
+       <description>[page missing]</description>
+	 </item>
+    <item><headword id="d0e256" type="heading" level="h1">3. Beathaichean eile a gheibhear ’sa’ chladach</headword></item>
+    <item>
+	   <headword id="idola269">[note]</headword>
+       <description>[page missing]</description>
+	 </item>
+  </items>
+</fieldworkDocument>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 27/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_TalmineGGowslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>1969</date>
+  <fieldworker>[AJ Smith]</fieldworker>
+  <informant>
+    <nameEnglish>George Gow</nameEnglish>
+  </informant>
+  <location>Sutherland, Talmine</location>
+  <items>
+    <item>
+      <headword id="idp117238032">lideadh</headword>
+      <description>[lʹidʹʒu̜] Quotation: Cha chluinn mi [lʹidʹʒu̜] Gàidhlig. Notes: I don’t hear a word of Gaelic.</description>
+    </item>
+    <item>
+      <headword id="idp117240192">treabh-eòrna</headword>
+      <description>[t̪ɾɑvjɔʴṉ] Quotation: Na rinn thu [n̪t̪ɾɑvjɔʴṉ] agad fhathast? Notes: Have you sown your barley yet? [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+    <item>
+      <headword id="idp117242712">ceabar</headword>
+      <description>[cɛbəɾ] Quotation: ceabar de dh’aran. Notes: ½ bannock with butter and crowdie on it.</description>
+    </item>
+  </items>
+</fieldworkDocument>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 13 4 14 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="WoolworkingandFishing_TobermoryIRobertsonmaorach" docType="questionnaire" subType="Maorach" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Maorach / Shellfish</title>
+  <fieldworker>[self]</fieldworker>
+  <informant>
+    <nameEnglish>Iain Robertson</nameEnglish>
+    <nameGaelic>Iain Robesdan (MacDhonnachaidh)</nameGaelic>
+  </informant>
+  <location>[Mull], Tobermory</location>
+  <items>
+    <item><headword id="d0e26" type="heading" level="h1">1. Maorach</headword></item>
+    <item>
+      <headword id="d0e31">lunga, lungaich</headword>
+      <description>lug worms.</description>
+    </item>
+    <item>
+      <headword id="d0e40">breallach, breallaich</headword>
+      <description>oval shaped fish, hole in sand. <illustration src="TobermoryIRobertsonmaorachillust1.jpg" width="150"/></description>
+    </item>
+    <item>
+      <headword id="d0e50">sput fish</headword>
+      <description>razorfish.</description>
+    </item>
+    <item>
+      <headword id="d0e59">cockles</headword>
+    </item>
+    <item>
+      <headword id="d0e65">fiasgain</headword>
+      <description>mussels.</description>
+    </item>
+    <item>
+      <headword id="d0e74">faochag</headword>
+      <description>whelk.</description>
+    </item>
+    <item>
+      <headword id="d0e83">na gilleacha(n) geala</headword>
+      <description>dogwhelk.</description>
+    </item>
+    <item>
+      <headword id="d0e92">a’ bhàirneach</headword>
+      <description>limpet.</description>
+    </item>
+    <item>
+      <headword id="d0e101">barnacles</headword>
+      <description>[NOTES: in pencil.]</description>
+    </item>
+    <item>
+      <headword id="d0e110">duileasg</headword>
+      <description>dulse.</description>
+    </item>
+    <item>
+      <headword id="d0e119">an slaman</headword>
+      <description>cabbage like bag air a’ mhuir traigh.</description>
+    </item>
+    <item>
+      <headword id="d0e128">an fheamainn dhubh</headword>
+      <description>a’ chuir air fearann, tha i goirid + sinks [?].</description>
+    </item>
+    <item>
+      <headword id="d0e137">an fheamain  bhuidhe</headword>
+      <description>[sic] bolgan orra is plodadh i.</description>
+    </item>
+    <item>
+      <headword id="d0e146">feamainn chirein</headword>
+      <description>serrated wrack.</description>
+    </item>
+    <item>
+      <headword id="d0e155">eisearan</headword>
+      <description>oyster.</description>
+    </item>
+    <item>
+      <headword id="d0e164">creachan</headword>
+      <description>clams. Slige chreachain.</description>
+    </item>
+    <item>
+      <headword id="d0e173">roc, ruic</headword>
+    </item>
+    <item>
+      <headword id="d0e179">am bàrr dearg</headword>
+      <description>barr a ruic. Leasachadh cho math ’s ghabhas, cur air grunnd [?] gu sonraichte dar tha e lethghrod.</description>
+    </item>
+    <item><headword id="d0e187" type="heading" level="h1">2. A’ tional maorach</headword></item>
+	<item>
+	  <headword id="idola273">[a’ tional maorach]</headword>
+	  <description>A reir de cho pailte s’ atha iad than giomach ri bhith air iasgach le cliabh ’s a chum fharlainn pailte a leabag mar bhiadh. Tha an crùban gaolach air iasg ùr, mar is bitheanta sòrnan is fhearr, air neo cudainn. A reir a pailteas air a’ ghrunnd b’e doigh(ch) a b’fhearr far a biodh faochaig pailte gach clach is feamann air neo roc a ghlanadh air fala as do rathad air thaobhs gu faodach leisinn [?] air an togail le’d dha làmh ’s gan cur anns a phail an triseach, sin do’m phoca. Fagaig an sin a fhaochaig, fiasgain ’s fhearr am fasgann dar a bhios i eadar an da luinn dluth air uisge fresh s mur a s bitheanta far am bith iad pailte mar sin gheobh thu pearls annta chionn tha iad nas mutha. ’S doich air a bhairneach darna cuid clach ma dha phùing le oir car giar agus a bualadh a sios a rathad le oir na cloicheadh [?], a bualladh [?] le cabhag. Bu [?] sput fish daonnan a miosg geineich gheal agus far a feic thu i spùtadh tha thu gan grapadh as a gheinich gus a bith do bos agad am breallach air an aon (àn) doigh[.] Tha esan a sputadh cuideach le cabhag a dheanadh tha ga fhaotain[.] Far am bith na cockles pailte tha iad air barr a ghrunnd le muir traigh (Càn a mach). Slige chreachain fheamadh tu a togail far a ghrunnd far a feicedh tu a ach gu math bitheanta tha i ’sa làthaich a bharrachd air a bhith ’s a gheinich[.] Lungaich chi thu uraball air barr na criadh, tha thu ga glaochach [?] mar gum bith [?] buain buntata ’s am piocadh a mach. Se buain lungaich a chanas iad. Feama tu an fheamainn dhubh a ghearradh far na creigeadh le corran. ’S an fhior aire a thuibhairt (a thoirbhairt) gum bith toll taomaich anns a bhata bhios ’ga giùlan[.] An doigh a bh’aig na seanna Ghàidheal b’e basgaid sgadain bhi shios mu dheireadh air urlar a bhàta ma biodh i luchdaichte chionns nach phlod (plod) an fheamainn dhubh[.] Phlodaich gach roc is gach feamann eile gad a bhiodh bata a stealladh dorlach uisge. Fear a bheil faiche ghiomaich na pairce beag de ghaineach air beulaibh an tuil agus dar a dh’itheas e am biadh tha e ’g ithe beagan de’n ghaineach. (tiomalaich [?])</description>
+	</item>
+    <item><headword id="d0e200" type="heading" level="h1">3. Beathaichean eile a gheibhear ’sa’ chladach</headword></item>
+    <item>
+      <headword id="d0e205">giomach</headword>
+    </item>
+    <item>
+      <headword id="d0e211">giomach-ciuil</headword>
+      <description>[?] crayfish.</description>
+    </item>
+    <item>
+      <headword id="d0e220">cruban</headword>
+      <description>(male)</description>
+    </item>
+    <item>
+      <headword id="d0e229">partan</headword>
+      <description>(female)</description>
+    </item>
+    <item>
+      <headword id="d0e238">banag</headword>
+      <description>(female)</description>
+    </item>
+  </items>
+</fieldworkDocument>

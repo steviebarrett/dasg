@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 5 2 15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="DRMorrisonetal_ScalpayDRMorrisonmisc6" docType="wordlist" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>[1975 on the slips]</date>
+  <fieldworker>[self]</fieldworker>
+  <note>[NOTES: the words have been slipped and therefore, apart from the definitions provided by Mr Morrison, the definitions as they appear on the slips have also been included (unless the two were the same).]</note>
+  <informant>
+    <nameEnglish>Donald R. Morrison</nameEnglish>
+    <nameGaelic>Dòmhnall R. Moireasdan</nameGaelic>
+    <age>[55]</age>
+  </informant>
+  <location>Na Hearadh, Scalpaigh [Harris, Scalpay]</location>
+  <items>
+    <item>
+      <headword id="idola366" type="heading" level="h1">Word-list (‘Cruinneachadh de dh’fhaclan’)</headword>
+    </item>
+    <item>
+      <headword id="idp118791728">feothaich</headword>
+      <description>semi-conscious. Bha e ’na shìneadh fuar, feothaich. (A common expression on Scalpay. I am not sure of the word being recorded in a dictionary.) [SLIP: Semi-conscious. Common on Scalpay.]</description>
+    </item>
+    <item>
+      <headword id="idp118839608">gàinneag</headword>
+      <description>a bit of tobacco. [SLIP: A bit of tobacco. Vid ‘giteog’ [sic].]</description>
+    </item>
+    <item>
+      <headword id="idp118822760">gitseog</headword>
+      <description>a bit of tobacco. (Perhaps both [i.e. gàinneag and gitseog] differ slightly in the size of the bit, likely.) [NOTES: the slip has ‘giteog’. Definition: A bit of tobacco. Vid. gàinneag.]</description>
+    </item>
+    <item>
+      <headword id="idp118795760">seobha</headword>
+      <description>chew. [SLIP: Chew (tobacco?).]</description>
+    </item>
+    <item>
+      <headword id="idp118842488">pìcear</headword>
+      <description>a mean character.</description>
+    </item>
+    <item>
+      <headword id="idp118796120">plùsgadh</headword>
+      <description>pressing.</description>
+    </item>
+    <item>
+      <headword id="idp118781648">cloimh an domail</headword>
+      <description>this is exactly the correct version, whereas I noted previously dombail. Change it to ‘m’ instead of ‘b’. Delete ‘b’. The loose wool on the heather – remember. [NOTES: the spelling with ‘b’ appeared in another word-list sent in by Mr Morrison. There are two slips: one with ‘dombail’ (no mention of the mistake) and the other with ‘domail’ (the mistake mentioned).] [SLIP: Loose wool on the heather. Previously had: dombail – should omit ‘d’.]</description>
+    </item>
+    <item>
+      <headword id="idp118878632">girgeasaich</headword>
+      <description>pricking.</description>
+    </item>
+    <item>
+      <headword id="idp118876112">soideanach</headword>
+      <description>large (size). Abair soideanach. Or oversized, uncommon size. [SLIP: Large-sized or over-sized.]</description>
+    </item>
+    <item>
+      <headword id="idp118853720">strap</headword>
+      <description>strap.</description>
+    </item>
+    <item>
+      <headword id="idp118798208">strapag</headword>
+      <description>a cut short length of leather, wee strap.</description>
+    </item>
+    <item>
+      <headword id="idp118835576">cnamharsaich</headword>
+      <description>origin, original material. Fhuair mi cnamharsaich. [SLIP: Original material.]</description>
+    </item>
+    <item>
+      <headword id="idp118799792">grinneal</headword>
+      <description>gravel. ’S a ghrinneal ghorm – ‘blue bottom of the sea’. [SLIP: Gravel; (above [i.e. the quotation]:) blue (?) bottom of the sea.]</description>
+    </item>
+    <item>
+      <headword id="idp118888352">greibheal</headword>
+      <description>gravel.</description>
+    </item>
+    <item>
+      <headword id="idp118886192">tàirneach</headword>
+      <description>a good blow.</description>
+    </item>
+    <item>
+      <headword id="idp118889936">sàileagan</headword>
+      <description>gastric from the stomach.</description>
+    </item>
+    <item>
+      <headword id="idp118821608">losgadh-bràthad</headword>
+      <description>heartburn.</description>
+    </item>
+    <item>
+      <headword id="idp118794968">stopag!</headword>
+      <description>interjection for a wee girl.</description>
+    </item>
+    <item>
+      <headword id="idp118828952">conn</headword>
+      <description>the string or thread round a hank of yarn, ‘stability’. Duine gun chonn.</description>
+    </item>
+    <item>
+      <headword id="idp118799072">sgriogal</headword>
+      <description>(also) shabby, oldish. (I may have noted this word formerly.)</description>
+    </item>
+    <item>
+      <headword id="idp118810376">strang-anairt</headword>
+      <description>clothes line.</description>
+    </item>
+    <item>
+      <headword id="idp118828088">gaoithean</headword>
+      <description>a giddy fellow. Nach b’e ’n gaoithean e. [SLIP: Wasn’t he a giddy fellow.]</description>
+    </item>
+    <item>
+      <headword id="idp118812320">min-saibh</headword>
+      <description>saw-dust.</description>
+    </item>
+    <item>
+      <headword id="idp118844576">spiontagan</headword>
+      <description>(also) ‘flakes’ or particles from wool. (I may have noted this word also.) [NOTES: slipped under ‘spiontag’ – pl. spiontagan.]</description>
+    </item>
+    <item>
+      <headword id="idp118812896">min-phreasrach</headword>
+      <description>brose meal.</description>
+    </item>
+    <item>
+      <headword id="idp118808576">taosgnadh</headword>
+      <description>the movement of the hands on dough when baking. [SLIP: Movement of hands on dough when baking. Knead (?).]</description>
+    </item>
+    <item>
+      <headword id="idp118805624">sgleimh</headword>
+      <description>disgust, vomit. Cha mhor nach tug e sgleimh orm. (was common)</description>
+    </item>
+    <item>
+      <headword id="idp118809872">cleamh</headword>
+      <description>(causing some) nausea, nausea. Thug e chleamh orm, dha éisteachd. (was common)</description>
+    </item>
+    <item>
+      <headword id="idp118831616">grùgan</headword>
+      <description>palm of the hand of a wee boy. (Perhaps more associated with a boy.)</description>
+    </item>
+    <item>
+      <headword id="idp118828016">cròcag</headword>
+      <description>palm of a hand of a wee boy or girl.</description>
+    </item>
+    <item>
+      <headword id="idp118846952">gnùthan</headword>
+      <description>humming. Tha gnùthan agad. Perhaps also the low whining of a dog. Yes! This is right too. [SLIP: Humming. Also – low whining of a dog.]</description>
+    </item>
+    <item>
+      <headword id="idp118847024">cnagag</headword>
+      <description>a wee wooden pin.</description>
+    </item>
+    <item>
+      <headword id="idp118852856">peallan</headword>
+      <description>puny boy. (Other sources: tar mop).</description>
+    </item>
+    <item>
+      <headword id="idp118874888">cribheal</headword>
+      <description>a thin bony person.</description>
+    </item>
+    <item>
+      <headword id="idp118869560">megilean</headword>
+      <description>a wee cheeky small person. Megilean grànnda. (common)</description>
+    </item>
+    <item>
+      <headword id="idp118886336">bòrd-uachdair</headword>
+      <description>lid of a coffin.</description>
+    </item>
+    <item>
+      <headword id="idp118885112">spreodag</headword>
+      <description>splinter. [NOTES: the slip has ‘spreòdag’.]</description>
+    </item>
+    <item>
+      <headword id="idp118872080">sgrobag</headword>
+      <description>a wee cut or scratch on the skin.</description>
+    </item>
+    <item>
+      <headword id="idp118825640">thóbag!</headword>
+      <description>interjection when lifting a child from the floor. “A rhythm sort of word.” [NOTES: slipped under ‘thòbag’ with ‘thòbag!’ as a quotation. Definition: (hòbag?) Interjection when lifting a child from the floor.]</description>
+    </item>
+    <item>
+      <headword id="idp118835288">sgàrsach</headword>
+      <description>lot. Fhuair e sgàrsach dhuibh [sic].</description>
+    </item>
+    <item>
+      <headword id="idp118890584">gànrachadh</headword>
+      <description>mess, all in a mess, plastered (with paint etc.) Air a ghrànrachadh [sic] leis. [SLIP: “All in a mess, plastered as with paint”.]</description>
+    </item>
+    <item>
+      <headword id="idp118857104">augaid</headword>
+      <description>amusement.</description>
+    </item>
+    <item>
+      <headword id="idp118857968">augaideach</headword>
+      <description>amusing, ‘gabbling way of fun’.</description>
+    </item>
+    <item>
+      <headword id="idp118861640">catadh</headword>
+      <description>attracting. (Perhaps from other sources: tatadh.)</description>
+    </item>
+    <item>
+      <headword id="idp118863584">sgibiteadh</headword>
+      <description>skipping.</description>
+    </item>
+    <item>
+      <headword id="idp118864232">sgibiteag</headword>
+      <description>hint.</description>
+    </item>
+    <item>
+      <headword id="idp118863440">cnot</headword>
+      <description>bow tie.</description>
+    </item>
+    <item>
+      <headword id="idp118867184">rachd</headword>
+      <description>disappointment. Fhuair e rachd.</description>
+    </item>
+    <item>
+      <headword id="idp118869848">reachd</headword>
+      <description>sound done as when clearing the throat. [SLIP: Sound as if clearing the throat.]</description>
+    </item>
+    <item>
+      <headword id="idp116814640">rabhd</headword>
+      <description>untidy fellow. Nach b’e rabhd e. (Scalpay)</description>
+    </item>
+    <item>
+      <headword id="idp116812984">rangas</headword>
+      <description>a boat rib or part. (Scalpay) [SLIP: A boat rib or part (?).]</description>
+    </item>
+    <item>
+      <headword id="idp116810896">ma’-sgoile</headword>
+      <description>school master. (Perhaps short for maighstir-sgoile.)</description>
+    </item>
+    <item>
+      <headword id="idp116809312">snuigh</headword>
+      <description>snid [sic]. (Spelling: or snaodh?) [NOTES: slipped under ‘snuigh’ with ‘or: snaodh (D. Morrison unsure)’. Definition: ‘Snide’. (DM had ‘snid’ – presumably ‘snide’ is meant.)]</description>
+    </item>
+    <item>
+      <headword id="idp116807656">snoitearachd</headword>
+      <description>sniffing. (Scalpay)</description>
+    </item>
+    <item>
+      <headword id="idp116806072">peasan</headword>
+      <description>unimportant, unresourceful person, mischievous. [SLIP: Unimportant, unresourceful, mischievous person. Also: pessimist (?).]</description>
+    </item>
+    <item>
+      <headword id="idp116804272">preasan</headword>
+      <description>a wonderful person if I may say as a word of unappreciated sense. The two words [i.e. peasan and preasan] meaning something similar perhaps, pessimists. [SLIP: A wonderful person “of unappreciated sense”. Also: pessimist (?).]</description>
+    </item>
+    <item>
+      <headword id="idp116802184">splaids</headword>
+      <description>splash.</description>
+    </item>
+    <item>
+      <headword id="idp116801032">sglèap</headword>
+      <description>phlegmatic. [SLIP: “Phlegmatic” – phlegm?]</description>
+    </item>
+    <item>
+      <headword id="idp116799736">sgleapaid</headword>
+      <description>phlegmatic substance, like phlegmatic liquid. [SLIP: “Phlegmatic substance”. Does he mean ‘phlegm’?]</description>
+    </item>
+    <item>
+      <headword id="idp116797432">feala</headword>
+      <description>goal. An old reference to a goal, the word isn’t in use now. It was used by boys when engaged in the ‘iomain’ sport or shinty to signify a goal. [SLIP: Goal – used to be used by boys playing shinty.]</description>
+    </item>
+    <item>
+      <headword id="idp116794552">baibeag</headword>
+      <description>baby.</description>
+    </item>
+    <item>
+      <headword id="idp116793328">boula</headword>
+      <description>bowl.</description>
+    </item>
+    <item>
+      <headword id="idp116791744">dorus-cùil</headword>
+      <description>back-door.</description>
+    </item>
+    <item>
+      <headword id="idp116790232">dorus-an-tallain</headword>
+      <description>partion [sic] [partition?] door.</description>
+    </item>
+    <item>
+      <headword id="idp116788216">sgluis</headword>
+      <description>mixture, soft mixture.</description>
+    </item>
+    <item>
+      <headword id="idp116786560">plodraigeadh</headword>
+      <description>bubbling, plodding.</description>
+    </item>
+    <item>
+      <headword id="idp116785336">lubhadh</headword>
+      <description>loafing.</description>
+    </item>
+    <item>
+      <headword id="idp116783752">pràbladh</headword>
+      <description>probing into work.</description>
+    </item>
+    <item>
+      <headword id="idp116782744">slaghtraigheadh</headword>
+      <description>labouring.</description>
+    </item>
+    <item>
+      <headword id="idp116781016">culag-mhor</headword>
+      <description>bluebottle.</description>
+    </item>
+    <item>
+      <headword id="idp116779432">creithlag</headword>
+      <description>bluebottle. [NOTES: the slip has ‘creithleag’.]</description>
+    </item>
+    <item>
+      <headword id="idp116776696">sgiorraghail</headword>
+      <description>crying.</description>
+    </item>
+    <item>
+      <headword id="idp116775184">tanca-cairtidh</headword>
+      <description>barking tank. (fishermen) [SLIP: Fisherman’s ’barking tank’ – ?]</description>
+    </item>
+    <item>
+      <headword id="idp116773960">tuba-cloithe</headword>
+      <description>tub for soaking wool. [NOTES: the slip has ‘tuba-clòimhe’.]</description>
+    </item>
+    <item>
+      <headword id="idp116771944">luchd</headword>
+      <description>cargo.</description>
+    </item>
+    <item>
+      <headword id="idp116770072">lèagadh</headword>
+      <description>(also) pressing to spread, like putty,</description>
+    </item>
+    <item>
+      <headword id="idp116768488">planndachadh</headword>
+      <description>planting. [NOTES: the slip has ‘planntachadh’.]</description>
+    </item>
+    <item>
+      <headword id="idp116766832">aran-donn</headword>
+      <description>brown bread.</description>
+    </item>
+    <item>
+      <headword id="idp116765104">altraigeadh</headword>
+      <description>alter.</description>
+    </item>
+    <item>
+      <headword id="idp116763160">sgumair</headword>
+      <description>sgummer, spoon-net.</description>
+    </item>
+    <item>
+      <headword id="idp116760208">léine-gheal</headword>
+      <description>layer of an egg. [SLIP: ‘Layer’ of an egg. – ?]</description>
+    </item>
+    <item>
+      <headword id="idp116759128">tiachdadh</headword>
+      <description>drying (white) as sea-water. [SLIP: Drying white as if brine had soaked the thing.]</description>
+    </item>
+    <item>
+      <headword id="idp116755816">stèiceadh</headword>
+      <description>striking.</description>
+    </item>
+    <item>
+      <headword id="idp116754088">stupadaich</headword>
+      <description>bobbing.</description>
+    </item>
+    <item>
+      <headword id="idp116754664">màilich</headword>
+      <description>overpowering. Thug e màilich air.</description>
+    </item>
+    <item>
+      <headword id="idp116750632">stailigeadh</headword>
+      <description>mixing.</description>
+    </item>
+    <item>
+      <headword id="idp116749768">migsigeadh</headword>
+      <description>mixing.</description>
+    </item>
+    <item>
+      <headword id="idp116747176">spitsigeadh</headword>
+      <description>speech(ing), talking. [SLIP: Speechify, talk.]</description>
+    </item>
+    <item>
+      <headword id="idp116745448">sàbh-iaruinn</headword>
+      <description>axe-saw.</description>
+    </item>
+    <item>
+      <headword id="idp116743720">eithear-beag</headword>
+      <description>wee boat.</description>
+    </item>
+    <item>
+      <headword id="idp116743648">eithear-mor</headword>
+      <description>big boat.</description>
+    </item>
+    <item>
+      <headword id="idp115891960">long</headword>
+      <description>model (version of a ship).</description>
+    </item>
+    <item>
+      <headword id="idp115888216">crannag</headword>
+      <description>masts, small masts. Long nan crannag. [SLIP: Small masts.]</description>
+    </item>
+    <item>
+      <headword id="idp115884544">smoitse</headword>
+      <description>(also) smoking. Dha smoitse gun fheum.</description>
+    </item>
+    <item>
+      <headword id="idp115880656">smiach</headword>
+      <description>(also) breath (note). Cha’n’eil smiach aige.</description>
+    </item>
+    <item>
+      <headword id="idp115877272">planntais</headword>
+      <description>plant.</description>
+    </item>
+    <item>
+      <headword id="idp115874248">sgineachan</headword>
+      <description>bits.</description>
+    </item>
+    <item>
+      <headword id="idp115870576">sgroblaigeadh</headword>
+      <description>scribble.</description>
+    </item>
+    <item>
+      <headword id="idp159470944">scràbag</headword>
+      <description>scraping.</description>
+    </item>
+  </items>
+</fieldworkDocument>

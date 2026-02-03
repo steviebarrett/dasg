@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 5/8/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_BernerayRMacLeodslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>1967, 1978</date>
+  <fieldworker/>
+  <informant/>
+  <location>Berneray</location>
+  <items>
+    <item>
+      <headword id="idp117933896">thoir</headword>
+      <description>Quotation: Thoir a-mach. An toir e mach falt? Notes: “Does he cut hair?”</description>
+    </item>
+    <item>
+      <headword id="idp117935552">cur</headword>
+      <description>Quotation: A bheil e doirbh a chur? Notes: of a bicycle: to pedal.</description>
+    </item>
+    <item>
+      <headword id="idp117937208">fileanta</headword>
+      <description>Notes: skilled in a general sense.</description>
+    </item>
+  </items>
+</fieldworkDocument>

@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 21 8 14 -->
+<!-- illustrations -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="AJSmith_CrowlistaCandPMacDonaldmisc1" docType="wordlist" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>May 1972</date>
+  <fieldworker>A. J. Smith</fieldworker>
+  <note>[NOTES: in IPA transcriptions, the fieldworker uses [w] for [ɯ].]</note>
+
+  <informant>
+    <nameEnglish>Calum and Peggy MacDonald</nameEnglish>
+  </informant>
+  <location>Lewis, Uig, Crowlista</location>
+  <items>
+    <item>
+      <headword id="idm40437216">suath</headword>
+      <description>Quot.: a’ suathadh an eòrna. Note: grain removed from barley by rolling the heat [?] of the sheaf (opened) under foot.</description>
+    </item>
+    <item>
+      <headword id="idm40438584">toll-fhasgnaidh</headword>
+      <description>Note: low door in the barn, opened to create a draught for winnowing.</description>
+    </item>
+    <item>
+      <headword id="idm40440456">moighlean</headword>
+      <description>[m[ɔ̃ĩ]lʹɑṉ] Quot.: “moighlean coirc” or “moighlean fodair”. Note: a bundle, as given to a cow.</description>
+    </item>
+    <item>
+      <headword id="idm40416264">ciomball</headword>
+      <description>[c[ɤ̃ũ̟]mbəɫ] Quot.: “ciomball fraoich”. Note: a bundle, an armful.</description>
+    </item>
+    <item>
+      <headword id="idm40419144">teinne</headword>
+      <description>[tʹenʹə] Note: one link of chain in “strabhlaidh” [q.v.].</description>
+    </item>
+    <item>
+      <headword id="idm40420080">strabhlaidh</headword>
+      <description>[st̪ɾɑu̜ɫi] Note: pronunciation for [sɫɑu̟ɾi].</description>
+    </item>
+    <item>
+      <headword id="idm37319512">dorus</headword>
+      <description>Quot.: an dorus iadht [iɤt̪]. Note: one of two doors in a shieling.</description>
+    </item>
+    <item>
+      <headword id="idm37311160">ceap</headword>
+      <description>Quot.: “ceap na h-àirigh”. Note: shieling seat. Built of stones with a turf divot on top, then curtain cloth on top and front to hide it.</description>
+    </item>
+    <item>
+      <headword id="idm37289272">fianach</headword>
+      <description>[fĩɤ̃ṉɑx] Note: a type of moor grass.</description>
+    </item>
+    <item>
+      <headword id="idm37321312">fidean</headword>
+      <description>Quot.: na fidean. Note: tidal flats, with a short grass growing on them. Sheep often caught by tide when grazing on them.</description>
+    </item>
+    <item>
+      <headword id="idm37294960">stiall</headword>
+      <description>[ʃtʹıɤɫ] Note: the wooden post in the byre to which the cow was tied.</description>
+    </item>
+    <item>
+      <headword id="idm37320448">smidheag</headword>
+      <description>[ˈsmĩɑɡ] Note: the piece of rope round the cow’s neck in the byre. (“Dòrnan” [q.v.] – the part attached to the “stiall” [q.v.].)</description>
+    </item>
+    <item>
+      <headword id="idm37319584">dòrnan</headword>
+      <description>Note: the piece of rope round the “stiall” [q.v.] in the byre, for tying cattle. (“Smidheag” [q.v.] – the part round the beast’s neck.)</description>
+    </item>
+    <item>
+      <headword id="idm37309360">bual</headword>
+      <description>[bu̜ɤɫ] Quot.: “bual na bà”. Note: where the cow was tied in the byre. Its stance, before stalls were built.</description>
+    </item>
+    <item>
+      <headword id="idm37342768">corrathann</headword>
+      <description>[kɔrɑhən̪] Note: a wooden home-made swivel put on an animal’s tether rope. </description>
+    </item>
+    <item>
+      <headword id="idm37314040">caigeann</headword>
+      <description>Note: two animals on the one tether.</description>
+    </item>
+    <item>
+      <headword id="idm37289056">ciora</headword>
+      <description>[ciɾə] Note: motherless lamb brought up with a bottle. Also [ciɾə] [ciɾə] – call to a sheep.</description>
+    </item>
+    <item>
+      <headword id="idm37294240">piatan</headword>
+      <description>[pıɑt̪ɑṉ] Note: a young calf reared on the bottle or given milk in some way other than by suckling.</description>
+    </item>
+    <item>
+      <headword id="idm37333480">cotan</headword>
+      <description>[kɔt̪ɑṉ] Quot.: cotan a’ laoigh. Note: a small enclosure at the shieling for a young calf born there.</description>
+    </item>
+    <item>
+      <headword id="idm37303312">cas-ladhrach</headword>
+      <description>Note: usually in the plural “casan-ladhrach”. On the hooves of calves when born.</description>
+    </item>
+    <item>
+      <headword id="idm37339960">tiarainneach</headword>
+      <description>[tʹiɑɾĩnʹɑx] Note: sheep 1-2 years old.</description>
+    </item>
+    <item>
+      <headword id="idm37335424">uan-reith</headword>
+      <description>[ũ̜ɑ̃rɛ] Note: a tup lamb.</description>
+    </item>
+    <item>
+      <headword id="idm37291648">croga</headword>
+      <description>[kɾɔɡə] Note: old sheep, past bearing stage.</description>
+    </item>
+    <item>
+      <headword id="idm37336144">liabhach</headword>
+      <description>[lʹıɑvɑx] Quot.: “caora liabhach” [kw:ɾəliɑvɑx]. Note: a sheep whose horns sweep out away from the head.</description>
+    </item>
+    <item>
+      <headword id="idm37288048">niùlach</headword>
+      <description>[nʹũ̜:ɫɑx] Quot.: “caora niùlach”. Note: a sheep with very short stumps of horns.</description>
+    </item>
+    <item>
+      <headword id="idm37326064">spreodach</headword>
+      <description>[spɾɔd̪ɑx] Quot.: “caora spreodach”. Note: a sheep with short straight horns (but not as short as these of a “caora niùlach” [q.v.]).</description>
+    </item>
+    <item>
+      <headword id="idm37337224">drola  (sic)</headword>
+      <description>[d̪ɾɔlə] Quot.: Na chuir thu drola dha na h-osanan? Note: the loop under two of the middle toes to keep the “osanan” down on the feet.</description>
+    </item>
+    <item>
+      <headword id="idm37331536">bachailiu</headword>
+      <description>[bɑxəlu̟] Note: a small size of creel for a teenager using one for the first time. (No idea where word came from.)</description>
+    </item>
+    <item>
+      <headword id="idm37300360">spriot</headword>
+      <description>[spɾit̪] Note: “na spriotan” are the ends of the wands round the mouth of the creel.</description>
+    </item>
+    <item>
+      <headword id="idm37308784">cabar</headword>
+      <description>[kɑbəɾ] Quot.: “cabair a’ chléibh”. Note: the main (vertical) wands in a creel.</description>
+    </item>
+    <item>
+      <headword id="idm37298128">ceap</headword>
+      <description>[cɛp] Quot.: “ceap chliabh”. Note: wooden frame with holes in it for creel-making. </description>
+    </item>
+    <item>
+      <headword id="idm37291576">cuire</headword>
+      <description>[ku̟ɾə] Note: the “weft” of thin willow wands in creel-making.</description>
+    </item>
+    <item>
+      <headword id="idm37331104">dubhcheannach</headword>
+      <description>Quot.: “caora dhubhcheannach”. Note: “blackface sheep”.</description>
+    </item>
+    <item>
+      <headword id="idm37316560">cìleach</headword>
+      <description>[cı:lɑx] Quot.: “caora chìleach” or “bó chìleach”. Note: greyish effect due to a mixture of black and white hairs.</description>
+    </item>
+    <item>
+      <headword id="idm37326928">calg</headword>
+      <description>[kɑɫɑɡ] Quot.: “calg mairt”. Note: hair on cattle.</description>
+    </item>
+    <item>
+      <headword id="idm154553992">ar-chloimh</headword>
+      <description>Note: layer of new wool in sheep.</description>
+    </item>
+    <item>
+      <headword id="idm154548448">ruige</headword>
+      <description>[riɡʹə] Note: male sheep with only one testicle.</description>
+    </item>
+    <item>
+      <headword id="idm154550464">cuthaigeadh</headword>
+      <description>[ku̟hıɡʹəɣ] Note: the mixing of different coloured wools together after carding.</description>
+    </item>
+    <item>
+      <headword id="idm154555288">peàrd</headword>
+      <description>[pjɑ:ʴḏ] Note: strip of carded wool. [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+    <item>
+      <headword id="idm40577096">stòl-cois</headword>
+      <description>Note: spinning-wheel treadle.</description>
+    </item>
+    <item>
+      <headword id="idm40580552">maide-siubhail</headword>
+      <description>Note: the arm between the treadle of the spinning-wheel and the hook on the wheel axle.</description>
+    </item>
+    <item>
+      <headword id="idm40582208">each</headword>
+      <description>Quot.: “na h-eich”. Note: the two uprights on a spinning-wheel on which the wheel axle rests.</description>
+    </item>
+    <item>
+      <headword id="idm40585232">tèic</headword>
+      <description>[ṯɛ:c] Note: the spinning-wheel flyer.</description>
+    </item>
+    <item>
+      <headword id="idm37710976">cluasag</headword>
+      <description>Quot.: “na cluasagan”. Note: where the two ends of the flyer axle in a spinning-wheel rest.</description>
+    </item>
+    <item>
+      <headword id="idm37619608">piurna</headword>
+      <description>[pȷu̜ʴṉə] Note: the pirn in a spinning-wheel. [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+    <item>
+      <headword id="idm37706224">roileagan</headword>
+      <description>[rɔləɡɑṉ] Note: the small wheel on which runs the “bann beag” [q.v.].</description>
+    </item>
+    <item>
+      <headword id="idm35474176">bann</headword>
+      <description>Quot.: (1) am bann mór. (2) am bann beag. Note: (1) big band on a spinning-wheel. (2) small band on a spinning-wheel.</description>
+    </item>
+    <item>
+      <headword id="idm35471296">cas</headword>
+      <description>Quot.: casan-gòrach. Note: stilts.</description>
+    </item>
+    <item>
+      <headword id="idm35469568">luadh-chas</headword>
+      <description>Note: waulking with the feet.</description>
+    </item>
+    <item>
+      <headword id="idm35468056">lamp</headword>
+      <description>Quot.: “lamp a’ cheàrd”. Note: <illustration src="CrowlistaCandPMacDonaldmisc1illust3.jpg" width="400"/></description>
+    </item>
+    <item>
+      <headword id="idm35466328">luga</headword>
+      <description>Note: lugworm. Used for bait on small-lines.</description>
+    </item>
+    <item>
+      <headword id="idm35464816">siol</headword>
+      <description>Note: sand-eel.</description>
+    </item>
+    <item>
+      <headword id="idm35463304">iongna</headword>
+      <description>[ĩ:ṉə] Note: a crab or lobster’s claw.</description>
+    </item>
+    <item>
+      <headword id="idm35461576">snòt</headword>
+      <description>[sn̪ɔ̃:t̪] Note: the piece of line attaching the hook to the “druim” of the small-line or great-line.</description>
+    </item>
+    <item>
+      <headword id="idm35459848">troille</headword>
+      <description>Note: torsk.</description>
+    </item>
+    <item>
+      <headword id="idm35458336">tàbh</headword>
+      <description>[t̪ɑ:v] Note: a hand-net.</description>
+    </item>
+    <item>
+      <headword id="idm35456608">soll</headword>
+      <description>Note: bait thrown out to attract cuddies when rock fishing. Boiled potatoes, mashed, often used.</description>
+    </item>
+    <item>
+      <headword id="idm35455096">botag</headword>
+      <description>[ˈbɔṯɑɡ] Note: landing hook. (Boat-hook?)</description>
+    </item>
+    <item>
+      <headword id="idm35453368">bradan</headword>
+      <description>Note: halibut.</description>
+    </item>
+    <item>
+      <headword id="idm35451856">leóbag</headword>
+      <description>Note: used generally for plaice, lemons, etc.</description>
+    </item>
+    <item>
+      <headword id="idm35449480">sòrnan</headword>
+      <description>Note: small skate.</description>
+    </item>
+    <item>
+      <headword id="idm35447968">sporan</headword>
+      <description>Note: mermaid’s purse.</description>
+    </item>
+    <item>
+      <headword id="idm35446456">buirtiachd</headword>
+      <description>[bu̜ʴˈṯiɑk] Note: jellyfish. [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+    <item>
+      <headword id="idm35444584">cioch</headword>
+      <description>Quot.: cioch-na-gruagaich. Note: sea anemone.</description>
+    </item>
+    <item>
+      <headword id="idm35442856">stamh</headword>
+      <description>Quot.: “stamh dubh nan each”. Note: black and not as thick as ordinary tangle. Edible.</description>
+    </item>
+    <item>
+      <headword id="idm35441056">earball-sàile</headword>
+      <description>[wɾwbəɫsɑ:lə] Note: the part of the “muircean” nearest the rock. End part. Not so good for eating.</description>
+    </item>
+    <item>
+      <headword id="idm35439328">brùchd</headword>
+      <description>Note: seaweed driven ashore.</description>
+    </item>
+    <item>
+      <headword id="idm35437816">tiùrr</headword>
+      <description>Quot.: “Tha tiùrrachan brùchd [q.v.] air a’ chladach.”</description>
+    </item>
+    <item>
+      <headword id="idm35436232">feamainn</headword>
+      <description>Quot.: feamainn-bhulgach [vu̜ɫu̜ɡɑx]. Note: seaweed with bubbles on it.</description>
+    </item>
+    <item>
+      <headword id="idm35434216">feamainn</headword>
+      <description>Quot.: “feamainn chìreanach”.</description>
+    </item>
+    <item>
+      <headword id="idm35432704">feamainn</headword>
+      <description>Quot.: “feamainn charraichgeach”. Note: seaweed used as manure.</description>
+    </item>
+    <item>
+      <headword id="idm35430976">gàilleach</headword>
+      <description>Quot.: a’ ghàilleach. Note: gills of a fish.</description>
+    </item>
+    <item>
+      <headword id="idm35429248">triubhais</headword>
+      <description>[t̪ɾuiʃ] Note: cod roe.</description>
+    </item>
+    <item>
+      <headword id="idm35426656">breac</headword>
+      <description>Note: a salmon.</description>
+    </item>
+    <item>
+      <headword id="idm35425144">balg-snàimh</headword>
+      <description>[bɑɫɑɡsn̪ɑ̃:v] Note: air-sac inside a fish.</description>
+    </item>
+    <item>
+      <headword id="idm35423416">meilg</headword>
+      <description>[meleɡʹ] Note: milt.</description>
+    </item>
+    <item>
+      <headword id="idm35421688">niuchar</headword>
+      <description>[nʹu̜xəð] Note: herring roe.</description>
+    </item>
+    <item>
+      <headword id="idm35419960">goile</headword>
+      <description>[ɡɤlə] Note: fish’s stomach, entrails.</description>
+    </item>
+    <item>
+      <headword id="idm35418232">sgiath</headword>
+      <description>Quot.: sgiath éisg. Note: fish’s fin.</description>
+    </item>
+    <item>
+      <headword id="idm35416504">ceann-cropaic</headword>
+      <description>Note: mixture of fish’s liver, oatmeal, onions and seasoning boiled in the fish’s head.</description>
+    </item>
+    <item>
+      <headword id="idm35414992">smeachan</headword>
+      <description>[smɛ̃xɑṉ] Note: foot rest of the peat-cutting iron.</description>
+    </item>
+    <item>
+      <headword id="idm35413264">carcaire</headword>
+      <description>[kɑɾkəðə] Note: the width of peatbank turfed for cutting.</description>
+    </item>
+    <item>
+      <headword id="idm35411536">barr-fhad</headword>
+      <description>[bɑrɑd̪] Note: the top peat.</description>
+    </item>
+    <item>
+      <headword id="idm35409808">corr-fhad</headword>
+      <description>[kɔrɑd̪] Note: the outside, weathered, peat in a bank.</description>
+    </item>
+    <item>
+      <headword id="idm35408080">rùbhadh</headword>
+      <description>[ru̜:əɣ] Note: first lifting of peats. [NOTES: corrected to ‘rùghan’ on the slip.]</description>
+    </item>
+    <item>
+      <headword id="idm35406208">rùbhan</headword>
+      <description>[ru̜:ɑṉ] Note: 4-5 peats lifted into the one small structure.</description>
+    </item>
+    <item>
+      <headword id="idm35404480">ath-rubhadh</headword>
+      <description>Note: shifting the peats after the first lifting for further drying.</description>
+    </item>
+    <item>
+      <headword id="idm35402968">maodal</headword>
+      <description>Quot.: a’ mhaodal mhór; a’ mhaodal bheag. Note: stomachs in a sheep.</description>
+    </item>
+    <item>
+      <headword id="idm35400376">ceap</headword>
+      <description>[cɛp] Quot.: an ceap. Note: small round piece of a sheep’s stomach.</description>
+    </item>
+    <item>
+      <headword id="idm35398432">brailein (sic)</headword>
+      <description>[bɾɑlɛ̃ṉ] Note: sheep’s stomach with flaps in it.</description>
+    </item>
+    <item>
+      <headword id="idm35396704">glas</headword>
+      <description>Quot.: an glas mhór. Note: part of a sheep’s stomach. Thin at one end, getting wider towards the other end.</description>
+    </item>
+    <item>
+      <headword id="idm35394976">snàithle</headword>
+      <description>[sn̪ɑ̃:lə] Note: the anal passage in a sheep.</description>
+    </item>
+    <item>
+      <headword id="idm35393248">dubh-liath</headword>
+      <description>Note: spleen or pancreas. (?)</description>
+    </item>
+    <item>
+      <headword id="idm35391736">smior</headword>
+      <description>Quot.: smior-cailleach. Note: used in connection with the backbone.</description>
+    </item>
+    <item>
+      <headword id="idm35390008">splang</headword>
+      <description>[spɫɑ̃ŋɡ] Note: flank.</description>
+    </item>
+    <item>
+      <headword id="idm35388280">loch-bhlian</headword>
+      <description>Note: flank.</description>
+    </item>
+    <item>
+      <headword id="idm35386768">lòineachan</headword>
+      <description>Quot.: “na lòineachan”. Note: the suet round the kidneys in a sheep.</description>
+    </item>
+    <item>
+      <headword id="idm35385040">dubhag</headword>
+      <description>Note: kidney.</description>
+    </item>
+    <item>
+      <headword id="idm35383528">adha</headword>
+      <description>Note: liver.</description>
+    </item>
+    <item>
+      <headword id="idm35382016">dumalas</headword>
+      <description>Note: gall-bladder.</description>
+    </item>
+    <item>
+      <headword id="idm35380504">sgarrach</headword>
+      <description>Note: the inner skin covering the entrails of a beast, according to C. The peritoneum.</description>
+    </item>
+    <item>
+      <headword id="idm35378128">feannadh-builg</headword>
+      <description>[fȷɑ̃n̪əɣbu̟liɡʹ] Note: method of skinning a rabbit by cutting the skin on the leg and blowing through the hole. The skin separates from the flesh.</description>
+    </item>
+    <item>
+      <headword id="idm35376400">fidig</headword>
+      <description>[fidʹiɡʹ] Quot.: “Gheibh thu ma na fidigean e.” Note: the backs of the thighs.</description>
+    </item>
+    <item>
+      <headword id="idm35374456">buidheach</headword>
+      <description>Quot.: a’ bhuidheach. Note: jaundice.</description>
+    </item>
+    <item>
+      <headword id="idm35372728">piocas</headword>
+      <description>[pıkəs] Quot.: am piocas. Note: chickenpox.</description>
+    </item>
+    <item>
+      <headword id="idm35370784">grùlach</headword>
+      <description>Quot.: a’ ghrùlach.</description>
+    </item>
+    <item>
+      <headword id="idm35369272">teasach-dhearg</headword>
+      <description>Note: scarlet fever.</description>
+    </item>
+    <item>
+      <headword id="idm35367760">triuthach</headword>
+      <description>Note: whooping cough.</description>
+    </item>
+    <item>
+      <headword id="idm35366248">glacaich-bhràghad</headword>
+      <description>Quot.: “an glacaich-bhràghad”.</description>
+    </item>
+    <item>
+      <headword id="idm35364736">glacaich</headword>
+      <description>Quot.: “na glacaichean-cléibh”. Note: something out of position round about the collarbone. Put right by placing one hand under the person’s chin, the other behind his head, just above the neck and thus lifting him off his feet.</description>
+    </item>
+    <item>
+      <headword id="idm35363008">uga</headword>
+      <description>[u̟ɡə] Note: collarbone.</description>
+    </item>
+    <item>
+      <headword id="idm35361280">teine-dé</headword>
+      <description>Note: shingles.</description>
+    </item>
+    <item>
+      <headword id="idm35359768">broth</headword>
+      <description>[bɾɔ] Note: rash.</description>
+    </item>
+    <item>
+      <headword id="idm35357176">losgadh-bràghad</headword>
+      <description>Note: heartburn.</description>
+    </item>
+    <item>
+      <headword id="idm35355664">sàileagan</headword>
+      <description>[sɑ:ləɡɑṉ] Note: waterbrash.</description>
+    </item>
+    <item>
+      <headword id="idm35353936">mialan-crion</headword>
+      <description>[mȷɑɫəṉkɾĩɤ̃ṉ] Note: chilblains.</description>
+    </item>
+    <item>
+      <headword id="idm35352208">cadal-deilgneach</headword>
+      <description>Note: pins and needles.</description>
+    </item>
+    <item>
+      <headword id="idm35350696">trom-laighe</headword>
+      <description>[t̪ɾɤ̃mɫɑiə] Note: nightmare.</description>
+    </item>
+    <item>
+      <headword id="idm35348968">ball-dóbhrainn</headword>
+      <description>[bɑɫd̪o:ɾĩnʹ] Note: mole (on the skin).</description>
+    </item>
+    <item>
+      <headword id="idm35347240">leamhnagan</headword>
+      <description>[lʹɛu̟ṉəɡɑṉ] Note: sty.</description>
+    </item>
+    <item>
+      <headword id="idm35345512">fuinne</headword>
+      <description>[fũ̟nʹə] Note: wart.</description>
+    </item>
+    <item>
+      <headword id="idm41848088">fàireag</headword>
+      <description>[fɑ:ðɑɡ] Note: gland under the armpit (usually referred to when swollen).</description>
+    </item>
+    <item>
+      <headword id="idm41846360">bonnan-cnàmh</headword>
+      <description>Quot.: “Bha e na shuidhe air a bhonnan-cnàmh.” Note: sitting on one’s heels (in a crouching position).</description>
+    </item>
+    <item>
+      <headword id="idm41844560">niosgaid</headword>
+      <description>[nʹw̃sɡɑdʹ] Note: a boil.</description>
+    </item>
+    <item>
+      <headword id="idm41842832">felemean</headword>
+      <description>[fɛlɛmɑṉ] Note: kneecap.</description>
+    </item>
+    <item>
+      <headword id="idm41841104">sùil</headword>
+      <description>Quot.: “sùil na leis”. Note: hip joint.</description>
+    </item>
+    <item>
+      <headword id="idm41838512">uilinn</headword>
+      <description>Quot.: “Chaidh e as uilinn.” Note: elbow out of joint.</description>
+    </item>
+    <item>
+      <headword id="idm41836784">gualainn</headword>
+      <description>Quot.: Chaidh e as a ghualainn. Note: dislocated shoulder.</description>
+    </item>
+    <item>
+      <headword id="idm41835056">mobhsgaideach</headword>
+      <description>[mɤu̟sɡɑdʹɑx] Quot.: duine mobhsgaideach. Note: a person who doesn’t take his responsibilities seriously. Tends to try and evade them.</description>
+    </item>
+    <item>
+      <headword id="idm41833112">màirnealach</headword>
+      <description>[mɑ̃ʴnʹɑɫɑx] Quot.: duine màirnealach. Note: as above for “mobhsgaideach”. [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+    <item>
+      <headword id="idm41831024">copan</headword>
+      <description>Quot.: “An gabh thu tea?” “Gabhaidh mi copan falamh.” Note: commonly for a cup of tea with nothing to eat with it.</description>
+    </item>
+    <item>
+      <headword id="idm41828936">strùpan</headword>
+      <description>[st̪ɾu̟:pɑ̃ṉ] Note: cockle.</description>
+    </item>
+    <item>
+      <headword id="idm41827208">dallag</headword>
+      <description>[d̪ɑɫɑɡ] Note: type of dogfish smaller than the “biorach”.</description>
+    </item>
+    <item>
+      <headword id="idm41825480">gocaman</headword>
+      <description>Note: the bird which accompanies the cuckoo.</description>
+    </item>
+    <item>
+      <headword id="idm41823968">starrag</headword>
+      <description>Note: hoodie crow.</description>
+    </item>
+    <item>
+      <headword id="idm41822456">ùs</headword>
+      <description>[ũ̟:s] Note: cow’s first milk after calving.</description>
+    </item>
+  </items>
+</fieldworkDocument>

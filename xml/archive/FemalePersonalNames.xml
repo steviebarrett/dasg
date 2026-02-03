@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 17/11/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Word-lists_FemalePersonalNames" docType="questionnaire" subType="GaelicAndEnglishPersonalNamesEquivalents" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Ainmean Pearsanta Bhoireannach / Female Personal Names</title>
+  <fieldworker>Mr J. Ross</fieldworker>
+  <note>
+    “Attached is a list of Gaelic and English personal name equivalents prepared in 1930/32 by Mr. J. Ross, District Examiner in the Registrar General’s Office. The task was undertaken in response to a request by the Registrar General at that time, Mr. A. Froude, with the object of obtaining additional information about actual practice in the use of equivalents in the North and West of Scotland.
+    Mr. Ross seems as a rule to have started with the English name (this being the form ordinarily inserted in the statutory registers) and then to have sought the Gaelic equivalent, together with any local variation of the English name which he may have found in use. In his lists, however, he gives the Gaelic names in his first column and the English equivalents in two subsequent columns – the full equivalent in the second column and variations of the full name in a third.
+    He indicates that he used MacAlpine’s Gaelic Dictionary for the spelling of the Gaelic forms. An extract from his commentary on the lists is also attached.”
+  </note>
+  <informant>
+    <nameEnglish>various</nameEnglish>
+  </informant>
+  <items>
+    <item><headword id="idola1002" type="heading" level="h1">Extract from commentary of Mr. J. Ross on Lists of Gaelic and English Name Equivalents, 31st Dec. 1932.</headword></item>
+    <item>
+      <headword id="idp156000104">[note]</headword>
+      <description>Many of the Equivalents appearing in these lists are doubtless already well-known, but I have endeavoured, from personal inquiries made mainly in Zetland and other insular parts of Northern Scotland, to furnish some fresh information on the matter. For facility of reference the English Christian names are set down in alphabetical order; and against them are shown (1) the Gaelic equivalents and (2) the English equivalents, including those which are in use in certain specified regions – together with occasional explanatory notes. In the list “Male Personal Names” the patronymics are also given – not that they may serve much useful, practical purpose, but because patronymics figure largely in our Scottish nomenclature and are interesting as derivatives from our common Christian names. From a close survey of the lists certain main inferences may be drawn: 1. The correctness of the Registrar-General’s surmise “that some names have no doubt a significance differing according to locality” is demonstrated by the following examples:– (a) Ewen and Hugh. In Lewis these two names are distinct and have separate Gaelic equivalents. (Ewen = G. Eòghann; Hugh = G. Uisdean). But in the South Isles of the Outer Hebrides the two names are interchangeable and have a common Gaelic equivalent, (both Ewen and Hugh = G. Eòghann). This fact was first brought to my notice in South Uist and I subsequently got verification of it elsewhere; one instance being that of a boy from Uist attending school at Dornie, who was known as “Hugh” at home and as “Ewen” in school. (b) Effie and Henrietta. So far as the mainland of Scotland is concerned there is, I think, no connection between these two names; yet I find in Lewis they are interchangeable, the common Gaelic equivalent being “Eighrig”. I have corroboration of this from two schoolmasters who are natives of Lewis; and I found a practical example in the case of a Lewis lady resident in Skye, whose husband calls her “Effie” but who signs her name as “Henrietta”. 2. Many of our Personal Names are merely Anglicised forms of Gaelic Names, for example: Gillespie = Archibald (from G. Gill-easbuig), Donachie = Duncan (from G. Donnchadh), Murachie = Murdoch (from G. Muireach), Ailie = Helen (from G. Eilidh), etc. etc. 3. Some of the other names are not what might be termed exact equivalents, but are distorted forms given to foreign names by Ministers who were unacquainted with the foreign language. In this class is the name “Haki” or “Hakon” which has been transformed into “Hercules”; just as “Osla” has been twisted into “Ursula” and thence into “Cecilia”. It should be understood that my inquiries have been comparatively limited and that consequently the information given here cannot be anything like exhaustive on the subject of name equivalents. But the examples given are sufficient to illustrate that many odd equivalents do exist, and that the identity of a person with whose name we are furnished may be found under an alternative name.</description>
+    </item>
+    <item><headword id="idp155970728" type="heading" level="h1">Female Personal Names</headword></item>
+    <item>
+      <headword id="idp156003776">[Agnes]</headword>
+      <description>Name: Agnes. Equivalents: Agnus (Papa Stour); Aggie, Nannie and Nancy (Zetland).</description>
+    </item>
+    <item>
+      <headword id="idp155968640">[Ailie]</headword>
+      <description>Name: Ailie. Equivalents: (See Helen).</description>
+    </item>
+    <item>
+      <headword id="idp155996144">[Alexanderina]</headword>
+      <description>Name: Alexanderina. Equivalents: Alexina (Zetland); Lexy (S. Harris B 21/1928).</description>
+    </item>
+    <item>
+      <headword id="idp155992760">[Alexina]</headword>
+      <description>Name: Alexina. Equivalents: Cina (Stornoway M 39/1928).</description>
+    </item>
+    <item>
+      <headword id="idp155993840">Ailis</headword>
+      <description>Name: Alice.</description>
+    </item>
+    <item>
+      <headword id="idp155980232">[Allan-Ina]</headword>
+      <description>Name: Allan-Ina. Equivalents: Alina or Alena (Lewis) – dim. Lina.</description>
+    </item>
+    <item>
+      <headword id="idp155966192">Aimil</headword>
+      <description>Name: Amelia. Equivalents: Emily; Melly (Zetland). Note: The two names Amelia and Gormelia (G. Gormall) are distinct, but are sometimes confused in Lewis where Gormelia is very common.</description>
+    </item>
+    <item>
+      <headword id="idp155947688">Aingealag</headword>
+      <description>Name: Angelica.</description>
+    </item>
+    <item>
+      <headword id="idp155948048">Anna; Annag</headword>
+      <description>Name: Anna. Equivalents: Ann, Anne, Annie.</description>
+    </item>
+    <item>
+      <headword id="idp155970800">Anabal (Skye); Barabal (Lewis)</headword>
+      <description>Name: Annabella. Equivalents: (See note under Isabella).</description>
+    </item>
+    <item>
+      <headword id="idp155997440">Barabla</headword>
+      <description>Name: Barbara. Equivalents: Babby and Babsy (Zetland).</description>
+    </item>
+    <item>
+      <headword id="idp155953952">Beitris</headword>
+      <description>Name: Beatrice.</description>
+    </item>
+    <item>
+      <headword id="idp155950640">[Beenie]</headword>
+      <description>Name: Beenie. Equivalents: (See Robina).</description>
+    </item>
+    <item>
+      <headword id="idp118408280">[Bekky]</headword>
+      <description>Name: Bekky, Beksie. Equivalents: (See Rebecca).</description>
+    </item>
+    <item>
+      <headword id="idp118405976">[Bellag]</headword>
+      <description>Name: Bellag. Equivalents: (See Isabella).</description>
+    </item>
+    <item>
+      <headword id="idp118404176">[Bess]</headword>
+      <description>Name: Bess, Bessie. Equivalents: (See Elizabeth).</description>
+    </item>
+    <item>
+      <headword id="idp118401800">Beathag</headword>
+      <description>Name: Bethia. Equivalents: Sophia.</description>
+    </item>
+    <item>
+      <headword id="idp118400576">Beitidh</headword>
+      <description>Name: Betsy. Equivalents: (See Elizabeth).</description>
+    </item>
+    <item>
+      <headword id="idp118397912">[Betty]</headword>
+      <description>Name: Betty. Equivalents: (See Elizabeth and Isabella).</description>
+    </item>
+    <item>
+      <headword id="idp118396544">Brighde</headword>
+      <description>Name: Bridget.</description>
+    </item>
+    <item>
+      <headword id="idp118394600">[Caroline]</headword>
+      <description>Name: Caroline. Equivalents: Carrie (Zetland).</description>
+    </item>
+    <item>
+      <headword id="idp118392368">Caitir; Catriona</headword>
+      <description>Name: Catherine. Equivalents: Kit, Kitty and Katrine (Zetland); Kate and Katrina (Lewis); Ketty (N. Harris B 41/1928); Catriona (Skye).</description>
+    </item>
+    <item>
+      <headword id="idp118390568">Sileas</headword>
+      <description>Name: Cecilia. Equivalents: Celie, Osla and Ursula (Zetland). (See Julia). Note: In Zetland a woman may begin life as “Ursula” and end as “Cecilia”. In the old days Ursula was Osla and these two became Cecilia. Osla was the old Norse name Aslaug: the Scots ministers did not know Osla and changed it to Ursula.</description>
+    </item>
+    <item>
+      <headword id="idp118388192">[Chirsty]</headword>
+      <description>Name: Chirsty. Equivalents: (See Kirsty).</description>
+    </item>
+    <item>
+      <headword id="idp118386968">Cairistiona</headword>
+      <description>Name: Christina. Equivalents: Christian, Kirsty, Teenie, and for an old woman Kirstin (Zetland); Chirstina and Chirsty (Lewis); Christian, Chirsty and Chrissy (Skye).</description>
+    </item>
+    <item>
+      <headword id="idp118384304">Silis</headword>
+      <description>Name: Cicely. Equivalents: (See Julia).</description>
+    </item>
+    <item>
+      <headword id="idp118382936">[Cina]</headword>
+      <description>Name: Cina. Equivalents: (See Alexina).</description>
+    </item>
+    <item>
+      <headword id="idp116178864">Sorcha</headword>
+      <description>Name: Clara, Clare. Equivalents: Sarah.</description>
+    </item>
+    <item>
+      <headword id="idp116174616">Caitir</headword>
+      <description>Name: Clarissa.</description>
+    </item>
+    <item>
+      <headword id="idp156081136">[Davida]</headword>
+      <description>Name: Davida. Equivalents: (See Davina).</description>
+    </item>
+    <item>
+      <headword id="idp156083080">[Davidina]</headword>
+      <description>Name: Davidina. Equivalents: In Zetland the diminutives Ina and Ena are commonly used.</description>
+    </item>
+    <item>
+      <headword id="idp156085024">[Davina]</headword>
+      <description>Name: Davina. Equivalents: Davida (Zetland) – dims. being Vina and Vida.</description>
+    </item>
+    <item>
+      <headword id="idp156086968">Diana</headword>
+      <description>Name: Diana.</description>
+    </item>
+    <item>
+      <headword id="idp156088912">[Dinah]</headword>
+      <description>Name: Dinah. Equivalents: Donaldina (Lewis).</description>
+    </item>
+    <item>
+      <headword id="idp156090856">[Donella]</headword>
+      <description>Name: Donella. Equivalents: Ella (Lewis). Note: In Lewis “Ella” usually denotes Donella.</description>
+    </item>
+    <item>
+      <headword id="idp156092800">Dior-bhorgail</headword>
+      <description>Name: Dorothy. Equivalents: Dora (Lewis).</description>
+    </item>
+    <item>
+      <headword id="idp156094744">Deòiridh</headword>
+      <description>Name: Dorcas.</description>
+    </item>
+    <item>
+      <headword id="idp156096688">Eilginn</headword>
+      <description>Name: Elgin.</description>
+    </item>
+    <item>
+      <headword id="idp156098632">Eighrig</headword>
+      <description>Name: Effie. Equivalents: Henrietta (Lewis). (See Euphemia). Note. It is important to note that in Lewis G. Eighrig stands for both Effie and Henrietta.</description>
+    </item>
+    <item>
+      <headword id="idp156100576">[Eiurice]</headword>
+      <description>Name: Eiurice. Equivalents: (See Euphemia).</description>
+    </item>
+    <item>
+      <headword id="idp156102520">Ealasaid; Beathag (Lochs); Slaine (Hebrides and Skye)</headword>
+      <description>Name: Elizabeth. Equivalents: Bessie, Betsy, Betty, Leeby, Leezie, Liza and Eliza (Zetland); Eppy and Ibby (Papa Stour); Betty, Bess and Betsy (Hebrides); Sophia and Salvia (Lochs). Note: In the Lochs district of Lewis Sophia and Salvia are the same as Elizabeth. Salvia is the pet-name for the Gaelic name Slaine (pronounced “Slaunya”). Slaine is also used for Julia in Harris and for Sophia in Skye.</description>
+    </item>
+    <item>
+      <headword id="idp156104464">[Ella]</headword>
+      <description>Name: Ella. Equivalents: (See Donella).</description>
+    </item>
+    <item>
+      <headword id="idp156106408">[Ellen]</headword>
+      <description>Name: Ellen, Ellie. Equivalents: (See Helen).</description>
+    </item>
+    <item>
+      <headword id="idp156108352">[Elspeth]</headword>
+      <description>Name: Elspeth. Equivalents: Eppie (Zetland).</description>
+    </item>
+    <item>
+      <headword id="idp156110296">[Emily]</headword>
+      <description>Name: Emily. Equivalents: (See Amelia).</description>
+    </item>
+    <item>
+      <headword id="idp156112240">[Ena]</headword>
+      <description>Name: Ena. Equivalents: (See Davidina and Georgina).</description>
+    </item>
+    <item>
+      <headword id="idp114683216">[Engo]</headword>
+      <description>Name: Engo. Equivalents: (See Inga).</description>
+    </item>
+    <item>
+      <headword id="idp114685160">[Eppy]</headword>
+      <description>Name: Eppy. Equivalents: (See Elizabeth).</description>
+    </item>
+    <item>
+      <headword id="idp114687104">[Ester]</headword>
+      <description>Name: Ester. Equivalents: (See Hester).</description>
+    </item>
+    <item>
+      <headword id="idp114689048">[Eunice]</headword>
+      <description>Name: Eunice. Equivalents: (See Winifred).</description>
+    </item>
+    <item>
+      <headword id="idp114690992">Oighrig; Eighrig</headword>
+      <description>Name: Euphemia. Equivalents: Effie and Henrietta (Lewis); Effy and Phemie (Zetland); Eiurice (Bernera, Harris). (See Effie).</description>
+    </item>
+    <item>
+      <headword id="idp114692936">Fionnghal; Florag (Harris)</headword>
+      <description>Name: Flora. Equivalents: Florence (Zetland).</description>
+    </item>
+    <item>
+      <headword id="idp114694880">Frangag</headword>
+      <description>Name: Frances. Equivalents: Fanny.</description>
+    </item>
+    <item>
+      <headword id="idp114696824">Shordag (Lewis); Sèoras (Harris and Skye)</headword>
+      <description>Name: Georgina. Equivalents: The dims. Ina, Ena and Neenie are used in Zetland.</description>
+    </item>
+    <item>
+      <headword id="idp114699344">Giorsal</headword>
+      <description>Name: Grace. Equivalents: Grizzel; Grizelda; Girzie (Zetland).</description>
+    </item>
+    <item>
+      <headword id="idp114701360">[Hannah]</headword>
+      <description>Name: Hannah. Equivalents: (See Johanna).</description>
+    </item>
+    <item>
+      <headword id="idp114703304">Eighrig</headword>
+      <description>Name: Harriet. Equivalents: (See Henrietta).</description>
+    </item>
+    <item>
+      <headword id="idp114705248">Eilidh</headword>
+      <description>Name: Helen. Equivalents: Ellie, Ellen and Nell (Zetland); Ailie (Lewis); Ellie (Skye).</description>
+    </item>
+    <item>
+      <headword id="idp114707192">Eighrig</headword>
+      <description>Name: Henrietta. Equivalents: Harriet; Euphemia. (See Effie and Euphemia).</description>
+    </item>
+    <item>
+      <headword id="idp114709136">[Hester]</headword>
+      <description>Name: Hester. Equivalents: Ester (Zetland).</description>
+    </item>
+    <item>
+      <headword id="idp114711080">[Ibby]</headword>
+      <description>Name: Ibby. Equivalents: (See Elizabeth and Isabella).</description>
+    </item>
+    <item>
+      <headword id="idp114713024">[Ina]</headword>
+      <description>Name: Ina. Equivalents: (See Davidina, Georgina and Williamina).</description>
+    </item>
+    <item>
+      <headword id="idp114714968">[Inga]</headword>
+      <description>Name: Inga. Equivalents: Engo (Zetland). (Example Sandness B 3/1928).</description>
+    </item>
+    <item>
+      <headword id="idp114716912">Iseabal; Ishbel</headword>
+      <description>Name: Isabella. Equivalents: Betty (young folks) and Ibby (old folks) in Zetland; Ishbel (Lewis); Bellag (Harris); Sybil. Note: Lewis people often confuse Isabella with Annabella when speaking English. Registrar of Stornoway finds the best way out is to ask the Gaelic (G. Ishbel = Isabella; G. Barabal = Annabella).</description>
+    </item>
+    <item>
+      <headword id="idp114718856">Sine</headword>
+      <description>Name: Jane. Equivalents: Jean; Janie and Janet or Jessie (Zetland); Sheena (Lewis and Skye). Note: In Zetland Janie may mean Jane, Jean, Janet or Jessie. An old woman “Janie” may have been either Jane or Janet at birth.</description>
+    </item>
+    <item>
+      <headword id="idp114720800">Seònaid</headword>
+      <description>Name: Janet. Equivalents: Janeta; Jane or Jessie (Skye). (See Jane). Note. In Skye G. Seònaid = Jane, Janet or Jessie.</description>
+    </item>
+    <item>
+      <headword id="idp114722744">[Janney]</headword>
+      <description>Name: Janney. Equivalents: (See Jessie).</description>
+    </item>
+    <item>
+      <headword id="idp114724688">[Jean]</headword>
+      <description>Name: Jean. Equivalents: (See Jane).</description>
+    </item>
+    <item>
+      <headword id="idp114726632">[Jeanette]</headword>
+      <description>Name: Jeanette. Equivalents: Nettie (Zetland).</description>
+    </item>
+    <item>
+      <headword id="idp114728576">[Jemima]</headword>
+      <description>Name: Jemima. Equivalents: Meena, Mimie, Mima and Minnie (Zetland); Mima (Lewis).</description>
+    </item>
+    <item>
+      <headword id="idp114730520">[Jessie]</headword>
+      <description>Name: Jessie. Equivalents: Janet and Janney (Zetland). (See Jane and Janet).</description>
+    </item>
+    <item>
+      <headword id="idp114732464">Siubhan</headword>
+      <description>Name: Johann. Equivalents: Joann and Johann (Zetland): both give diminutive “Joey”.</description>
+    </item>
+    <item>
+      <headword id="idp114734768">Seonag; Hannag</headword>
+      <description>Name: Johanna. Equivalents: Hannah.</description>
+    </item>
+    <item>
+      <headword id="idp114736712">Silis; Sileas; Slaine</headword>
+      <description>Name: Julia. Equivalents: Cicely or Cecilia; Sheila (Lewis and Harris); Salvia (Harris).</description>
+    </item>
+    <item>
+      <headword id="idp114738656">Siùbhan</headword>
+      <description>Name: Judith.</description>
+    </item>
+    <item>
+      <headword id="idp114741176">Ceit</headword>
+      <description>Name: Kate. Equivalents: Kitty (Zetland). (See Catherine).</description>
+    </item>
+    <item>
+      <headword id="idp114743192">[Katrina]</headword>
+      <description>Name: Katrina, Katrine, Ketty. Equivalents: (See Catherine).</description>
+    </item>
+    <item>
+      <headword id="idp114745208">Ciorstan</headword>
+      <description>Name: Kirsty, Kirstin. Equivalents: Chirsty. (See Christina).</description>
+    </item>
+    <item>
+      <headword id="idp114747224">[Kit]</headword>
+      <description>Name: Kit, Kitty. Equivalents: (See Catherine and Kate).</description>
+    </item>
+    <item>
+      <headword id="idp114749240">[Laura]</headword>
+      <description>Name: Laura. Equivalents: Lowrina (Zetland).</description>
+    </item>
+    <item>
+      <headword id="idp114751184">[Leeby]</headword>
+      <description>Name: Leeby, Leezie. Equivalents: (See Elizabeth).</description>
+    </item>
+    <item>
+      <headword id="idp114753128">[Lena]</headword>
+      <description>Name: Lena. Equivalents: (See Madeline).</description>
+    </item>
+    <item>
+      <headword id="idp114755072">Leitis</headword>
+      <description>Name: Letitia.</description>
+    </item>
+    <item>
+      <headword id="idp114757016">[Lexy]</headword>
+      <description>Name: Lexy. Equivalents: (See Alexanderina).</description>
+    </item>
+    <item>
+      <headword id="idp114758960">Lili</headword>
+      <description>Name: Lilias.</description>
+    </item>
+    <item>
+      <headword id="idp114760904">[Lina]</headword>
+      <description>Name: Lina. Equivalents: (See Allan-Ina).</description>
+    </item>
+    <item>
+      <headword id="idp114762848">[Liza]</headword>
+      <description>Name: Liza. Equivalents: (See Elizabeth).</description>
+    </item>
+    <item>
+      <headword id="idp114764792">Liùsaidh</headword>
+      <description>Name: Louisa.</description>
+    </item>
+    <item>
+      <headword id="idp114767024">[Lowrina]</headword>
+      <description>Name: Lowrina. Equivalents: (See Laura).</description>
+    </item>
+    <item>
+      <headword id="idp114768968">Lucrais</headword>
+      <description>Name: Lucretia.</description>
+    </item>
+    <item>
+      <headword id="idp114770912">Moibeal</headword>
+      <description>Name: Mabel.</description>
+    </item>
+    <item>
+      <headword id="idp114772856">[Madeline]</headword>
+      <description>Name: Madeline. Equivalents: Magdaline, Meggaline and Matilda (Lewis); Maidlin (Walls, Zetland); Maidly or Lena (Moray).</description>
+    </item>
+    <item>
+      <headword id="idp114774800">[Maejie]</headword>
+      <description>Name: Maejie. Equivalents: (See Marjory).</description>
+    </item>
+    <item>
+      <headword id="idp114776744">Maireardol</headword>
+      <description>Name: Maggie. Equivalents: (See Margaret).</description>
+    </item>
+    <item>
+      <headword id="idp114778688">[Maisie]</headword>
+      <description>Name: Maisie. Equivalents: (See Mary).</description>
+    </item>
+    <item>
+      <headword id="idp114780632">[Malcolmina]</headword>
+      <description>Name: Malcolmina. Equivalents: Malina (Raasay B 2/1928).</description>
+    </item>
+    <item>
+      <headword id="idp114782648">[Mally]</headword>
+      <description>Name: Mally. Equivalents: (See Marion and Mary).</description>
+    </item>
+    <item>
+      <headword id="idp114784592">Malamhin</headword>
+      <description>Name: Malvena.</description>
+    </item>
+    <item>
+      <headword id="idp114786536">[Marcella]</headword>
+      <description>Name: Marcella. Equivalents: (See Marjory).</description>
+    </item>
+    <item>
+      <headword id="idp114788480">Mairghread</headword>
+      <description>Name: Margaret. Equivalents: Meggie, Maggie, Marget and Margot (Zetland); Marlat and Peggy (Lewis); Merat (Skye); Mairot – when speaking in jest (Boisdale, S. Uist).</description>
+    </item>
+    <item>
+      <headword id="idp114791144">Mor; Mairean</headword>
+      <description>Name: Marion. Equivalents: Miriam, Merrin and Mally (Zetland). (See also Sarah).</description>
+    </item>
+    <item>
+      <headword id="idp114793088">Marsali</headword>
+      <description>Name: Marjory. Equivalents: May and Maejie (Zetland); Marcella (Strath, Skye).</description>
+    </item>
+    <item>
+      <headword id="idp114795032">[Marlat]</headword>
+      <description>Name: Marlat. Equivalents: (See Margaret).</description>
+    </item>
+    <item>
+      <headword id="idp114796976">Marta</headword>
+      <description>Name: Martha. Equivalents: Marta and Matty (Zetland).</description>
+    </item>
+    <item>
+      <headword id="idp114798920">Mairi</headword>
+      <description>Name: Mary. Equivalents: Mally, Maisie and May (Zetland).</description>
+    </item>
+    <item>
+      <headword id="idp114800936">[Matilda]</headword>
+      <description>Name: Matilda. Equivalents: Matty (Zetland). (See Madeline).</description>
+    </item>
+    <item>
+      <headword id="idp114802952">[Matty]</headword>
+      <description>Name: Matty. Equivalents: (See Martha and Matilda).</description>
+    </item>
+    <item>
+      <headword id="idp114804896">[May]</headword>
+      <description>Name: May. Equivalents: (See Marjory and Mary).</description>
+    </item>
+    <item>
+      <headword id="idp114806840">[Meena]</headword>
+      <description>Name: Meena. Equivalents: (See Jemima and Williamina).</description>
+    </item>
+    <item>
+      <headword id="idp114808784">[Meggie]</headword>
+      <description>Name: Meggie. Equivalents: (See Margaret).</description>
+    </item>
+    <item>
+      <headword id="idp114810728">[Melly]</headword>
+      <description>Name: Melly. Equivalents: (See Amelia).</description>
+    </item>
+    <item>
+      <headword id="idp113541312">[Merat]</headword>
+      <description>Name: Merat. Equivalents: (See Margaret).</description>
+    </item>
+    <item>
+      <headword id="idp113543256">[Merrin]</headword>
+      <description>Name: Merrin. Equivalents: (See Marion and Miriam).</description>
+    </item>
+    <item>
+      <headword id="idp113545200">Milread</headword>
+      <description>Name: Mildred.</description>
+    </item>
+    <item>
+      <headword id="idp113547144">[Mimie]</headword>
+      <description>Name: Mimie, Mima. Equivalents: (See Jemima).</description>
+    </item>
+    <item>
+      <headword id="idp113549088">[Minnie]</headword>
+      <description>Name: Minnie. Equivalents: (See Jemima and Williamina).</description>
+    </item>
+    <item>
+      <headword id="idp113551032">[Miriam]</headword>
+      <description>Name: Miriam. Equivalents: Merrin (Zetland). (See Marion).</description>
+    </item>
+    <item>
+      <headword id="idp113553048">[Morag]</headword>
+      <description>Name: Morag. Equivalents: (See Sarah).</description>
+    </item>
+    <item>
+      <headword id="idp113554992">Muireall</headword>
+      <description>Name: Muriel.</description>
+    </item>
+    <item>
+      <headword id="idp113556936">[Nancy]</headword>
+      <description>Name: Nancy, Nannie. Equivalents: (See Agnes).</description>
+    </item>
+    <item>
+      <headword id="idp113558880">[Neenie]</headword>
+      <description>Name: Neenie. Equivalents: (See Georgina).</description>
+    </item>
+    <item>
+      <headword id="idp113560824">[Nellie]</headword>
+      <description>Name: Nellie. Equivalents: Nell (See Helen).</description>
+    </item>
+    <item>
+      <headword id="idp113562768">[Osla]</headword>
+      <description>Name: Osla. Equivalents: Ursula. (See Cecilia).</description>
+    </item>
+    <item>
+      <headword id="idp113564712">[Phemie]</headword>
+      <description>Name: Phemie. Equivalents: (See Euphemia).</description>
+    </item>
+    <item>
+      <headword id="idp113566656">[Philadelphia]</headword>
+      <description>Name: Philadelphia. Equivalents: Phyllis. These two are interchangeable in Zetland.</description>
+    </item>
+    <item>
+      <headword id="idp113568600">Raonaid; Raonailt</headword>
+      <description>Name: Rachel. Equivalents: Rachel (the ‘ch’ guttural as in ‘Loch’ on the west side of Zetland).</description>
+    </item>
+    <item>
+      <headword id="idp113570904">Beathag</headword>
+      <description>Name: Rebecca. Equivalents: Bekky and Beksie (Zetland); Bekky (Lewis). Note. ‘Beathag’ is also a Gaelic equivalent for Sophia and Bethia.</description>
+    </item>
+    <item>
+      <headword id="idp113573208">[Robina]</headword>
+      <description>Name: Robina. Equivalents: Ruby; Beenie (Zetland).</description>
+    </item>
+    <item>
+      <headword id="idp113575152">[Sally]</headword>
+      <description>Name: Sally. Equivalents: (See Sarah).</description>
+    </item>
+    <item>
+      <headword id="idp113577096">[Salvia]</headword>
+      <description>Name: Salvia. Equivalents: (See Elizabeth and Julia).</description>
+    </item>
+    <item>
+      <headword id="idp113579040">Mor; Sorcha</headword>
+      <description>Name: Sarah. Equivalents: Sara (Zetland); Sally (Harris); Marion; Morag (See Clara). Note. ‘Morag’ is the diminutive of Mor.</description>
+    </item>
+    <item>
+      <headword id="idp113581344">[Sheena]</headword>
+      <description>Name: Sheena. Equivalents: (See Jane).</description>
+    </item>
+    <item>
+      <headword id="idp113583288">[Sheila]</headword>
+      <description>Name: Sheila. Equivalents: (See Julia).</description>
+    </item>
+    <item>
+      <headword id="idp113585232">[Sibyl]</headword>
+      <description>Name: Sibyl. Equivalents: (See Sybil).</description>
+    </item>
+    <item>
+      <headword id="idp113587176">Beathag; Slaine</headword>
+      <description>Name: Sophia. Equivalents: Soffie and Suffie (Zetland); Elizabeth (Lochs). (See Bethia, Elizabeth and Rebecca (note).)</description>
+    </item>
+    <item>
+      <headword id="idp113589120">[Sunniva]</headword>
+      <description>Name: Sunniva. Equivalents: Sinnie and in one instance lately Sunnivoe (Zetland). Note. The name Sunniva has practically gone out of use in Zetland as the pet-name ‘Sinnie’ is not liked, and yet in its original form it was a pretty name.</description>
+    </item>
+    <item>
+      <headword id="idp113591424">Siùsan; Suisaidh</headword>
+      <description>Name: Susan. Equivalents: Susie (Zetland).</description>
+    </item>
+    <item>
+      <headword id="idp113593656">Iseabal</headword>
+      <description>Name: Sybil. Equivalents: Sibyl. (See Isabella).</description>
+    </item>
+    <item>
+      <headword id="idp113595600">[Tamar]</headword>
+      <description>Name: Tamar. Equivalents: Támar (Zetland). Note. Dagmar (pron. ‘Damar’) is the old Norse form. The Scots ministers did not know ‘Dagmar’ and twined it into Tamar.</description>
+    </item>
+    <item>
+      <headword id="idp113598480">[Teenie]</headword>
+      <description>Name: Teenie. Equivalents: (See Christina).</description>
+    </item>
+    <item>
+      <headword id="idp113600424">[Una]</headword>
+      <description>Name: Una. Equivalents: (See Winifred).</description>
+    </item>
+    <item>
+      <headword id="idp113602368">[Ursula]</headword>
+      <description>Name: Ursula. Equivalents: Osla. (See Cecilia).</description>
+    </item>
+    <item>
+      <headword id="idp113604312">[Vida]</headword>
+      <description>Name: Vida, Vina. Equivalents: (See Davina).</description>
+    </item>
+    <item>
+      <headword id="idp113606256">Bhorgach</headword>
+      <description>Name: Virginia.</description>
+    </item>
+    <item>
+      <headword id="idp113608200">[Williamina]</headword>
+      <description>Name: Williamina. Equivalents: Wilhelmina; Minnie, Meena, Wilma, Ina and Willa (Zetland).</description>
+    </item>
+    <item>
+      <headword id="idp113610144">Una</headword>
+      <description>Name: Winifred. Equivalents: Una (Hebrides); Eunice.</description>
+    </item>
+  </items>
+</fieldworkDocument>

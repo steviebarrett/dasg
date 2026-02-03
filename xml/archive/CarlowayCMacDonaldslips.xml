@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 10/8/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_CarlowayCMacDonaldslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>1966-67</date>
+  <informant>
+    <nameEnglish>Miss Catherine MacDonald</nameEnglish>
+  </informant>
+  <location>Lewis, Carloway</location>
+  <items>
+    <item>
+      <headword id="idp161832240">maide-prop</headword>
+      <description>Quotation: Tha e cho righinn ris a’ mhaide-prop.</description>
+    </item>
+    <item>
+      <headword id="idp161833752">mircean</headword>
+      <description>[miðkʹɑn] Quotation: stamh earrach, duileasg samhraidh, mircean fobhair, dulach geamhraidh. Notes: kind of seaweed.</description>
+    </item>
+    <item>
+      <headword id="idp161835624">stamh</headword>
+      <description>Quotation: stamh earrach; duileasg samhraidh; mircean fobhair; dulach geamhraidh. Notes: kind of seaweed.</description>
+    </item>
+    <item>
+      <headword id="idp161837280">agaphort</headword>
+      <description>Quotation: Tha e cho righinn (stubborn) ris an agaphort. [NOTES: a note in second hand – ‘See agafors.’]</description>
+    </item>
+    <item>
+      <headword id="idp161839008">cainean</headword>
+      <description>Quotation: cainnean. Notes: a paper spill.</description>
+    </item>
+    <item>
+      <headword id="idp161840664">duileasg</headword>
+      <description>Quotation: stamh earrach, duileasg samhraidh, mircean fobhair, dulach geamhraidh. Notes: kind of seaweed.</description>
+    </item>
+    <item>
+      <headword id="idp161842320">dulach</headword>
+      <description>Quotation: stamh earrach, duileasg samhraidh, mircean fobhair, dulach geamhraidh. Notes: kind of seaweed.</description>
+    </item>
+    <item>
+      <headword id="idp161843976">goilean</headword>
+      <description>Notes: a paper spill. (Eriskay)</description>
+    </item>
+  </items>
+</fieldworkDocument>

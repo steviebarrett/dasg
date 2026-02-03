@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 27/10/15 -->
+<!-- illustrations -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_variousslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>[see below]</date>
+  <fieldworker>[see below]</fieldworker>
+  <informant>
+    <nameEnglish>various [see below]</nameEnglish>
+  </informant>
+  <location>[see below]</location>
+  <items>
+    <item>
+      <headword id="idp118757160">lunn (pl. lunnan)</headword>
+      <description>Notes: a support for carrying coffin. One fixed at each end.  <illustration src="variousslipsillust1.jpg" width="250"/> Source: Tiree. Date: 1974.</description>
+    </item>
+    <item>
+      <headword id="idp118754136">brangas</headword>
+      <description>[brɑnɡəs] Notes: Tiree form of a halter made of oak with rope above and below the nose and across the back of the neck.   Source: Tiree. Date: 08/1967.</description>
+    </item>
+    <item>
+      <headword id="idp118750176">maide</headword>
+      <description>Quotation: a’ dol mar am mhaide. Notes: going in full swing. (?) Source: C. Robertson, Skye. Date: 1967.</description>
+    </item>
+    <item>
+      <headword id="idp118746360">mar fhéin!</headword>
+      <description>Notes: exclamation of wonder/surprise. Source: Mrs Nicolson, Sleat. Date: 1970.</description>
+    </item>
+    <item>
+      <headword id="idp118769832">iarann-biorach</headword>
+      <description>Notes: gophering-iron for putting wavy edge on dress mutch. Source: Mrs Nicolson, Sgullamas, Skye. Date: 1978.</description>
+    </item>
+    <item>
+      <headword id="idp118771560">rionnach clabach</headword>
+      <description>Notes: = cnàmh-rionnach. Source: John MacInnes, Daliburgh, South Uist. Date: 1978.</description>
+    </item>
+    <item>
+      <headword id="idp118773288">sgàinteag</headword>
+      <description>Notes: of ‘pats’ of cow-dung, used in Tiree for fuel for fires. Source: Mrs Mabel MacArthur (of Tiree origin). Date: 1971.</description>
+    </item>
+    <item>
+      <headword id="idp118775016">sgart</headword>
+      <description>Quotation: briseadh-sgart. Notes: hernia. Source: Murdo Morrison, Paisley.</description>
+    </item>
+    <item>
+      <headword id="idp118776816">sgitheag</headword>
+      <description>Notes: Islay word for droigheann-dubh ‘blackthorn’. Source: Neil Thomson, Muasdale. Date: 1987.</description>
+    </item>
+    <item>
+      <headword id="idp118778472">treasg</headword>
+      <description>Quotation: ’Si a’ mhuc shàmhach as motha dh’itheas dhe’n treasg. Notes: draff, refuse of malt. Source: reported by Willie Matheson – used by his mother (Ness). Date: 1969.</description>
+    </item>
+    <item>
+      <headword id="idp118780272">feasgar</headword>
+      <description>Quotation: … air na feasgraichean blàth samhraidh. Notes: see MacLennan’s Dictionary for this plural form. Source: Agnes MacLeod, Tolsta Chaolais. Date: 1979.</description>
+    </item>
+    <item>
+      <headword id="idp118782144">[ɡɔwuməs]</headword>
+      <description>Notes: rubbish, nonsense. (Phonetics as sent in by correspondent.) Source: W. Thomson, Kinlocheil. Date: 1974.</description>
+    </item>
+    <item>
+      <headword id="idp118783944">ial</headword>
+      <description>Quotation: Chan eil ial sìth eadar iad. Source: R. MacKinnon, Harris. Date: 1967.</description>
+    </item>
+    <item>
+      <headword id="idp118785600">ògan</headword>
+      <description>Quotation: “Tha ògan aige.” Notes: used of a person who has a hole in his trousers, with his shirt showing. Source: Lulag MacLean, Barra. Date: September 1969.</description>
+    </item>
+    <item>
+      <headword id="idp118787400">sgleòtag</headword>
+      <description>Notes: a variety of fish. Source: Mrs Margaret MacLeod, Point, Lewis. Date: 1989.</description>
+    </item>
+    <item>
+      <headword id="idp118789128">priosgadh</headword>
+      <description>Quotation: Ma bheir thu priosgadh air na calmain. Notes: an act of startling. Var. of briosgadh. Source: Rev. D. MacRae, Tarbert (Uig, Lewis). Date: 1979.</description>
+    </item>
+    <item>
+      <headword id="idp118791000">seòsag</headword>
+      <description>Quotation: seòsag de chat. Notes: “a little wizened creature” – animal or human. Source: Sister Margaret MacDonnell. Date: 1977.</description>
+    </item>
+    <item>
+      <headword id="idp118792872">stampail</headword>
+      <description>Notes: a person who has a very erect posture; &lt; Eng stamp.</description>
+    </item>
+    <item>
+      <headword id="idp118794456">sglàir</headword>
+      <description>Quotation: sglàir dhaoine. Notes: a crowd of people. Source: A. MacLeod, Ness. Date: 1973.</description>
+    </item>
+    <item>
+      <headword id="idp118796256">sgolpan</headword>
+      <description>Notes: in winnowing context = moll? Source: Rev. W. MacLeod, Uig, Lewis (Barvas). Date: 1979.</description>
+    </item>
+    <item>
+      <headword id="idp118797984">slinnteach</headword>
+      <description>[ʃlʹɤ̃ĩnʹtʹɑx] Notes: long thin pieces of wood laid on top of the taobhain going from the tobhta to the gath-droma. Source: D. MacLeod, Lemreway, Lewis. Date: 1972.</description>
+    </item>
+    <item>
+      <headword id="idp118799856">smealamas</headword>
+      <description>Notes: titbits of food; also (slangily?) used of courting. Source: M. A. MacLennan, Scalpay, Harris. Date: 1970.</description>
+    </item>
+    <item>
+      <headword id="idp118801584">spàlag</headword>
+      <description>Notes: spirtle, or stick used for digging shellfish. Source: Mr. W. MacLeod, Glenelg. Date: 1970.</description>
+    </item>
+    <item>
+      <headword id="idp118803240">streallachan</headword>
+      <description>Notes: toy made with string and button.  <illustration src="variousslipsillust2.jpg" width="300"/> Source: Rev. D. MacInnes, Kinloch, Lewis. Date: 1971.</description>
+    </item>
+    <item>
+      <headword id="idp118804896">sùil-dhìleas</headword>
+      <description>Notes: housekeeper (Barra). Source: Rev. J. Campbell, Drumnadrochit. Date: 6/1971.</description>
+    </item>
+    <item>
+      <headword id="idp118806552">susamailt</headword>
+      <description>Quotation: B’e am facal “susamailt” – sùgh nam measan air a bhruich le siùcar, mar a their sinn ’sa Bheurla, jelly. Notes: Mrs. MacFarlane heard the above word from her father, Mr. John MacCallum of Taynuilt. Source: letter from Mrs. Mary MacFarlane, Taynuilt. Date: 20/11/1966.</description>
+    </item>
+    <item>
+      <headword id="idp118808352">steamhag</headword>
+      <description>Notes: used to translate ‘switch’ (of bramble) in exam. [?] prose. Dw. steafag. (?Eng. staff) Source: Agnes MacLeod, Tolsta Chaolais, Lewis. Date: 1979.</description>
+    </item>
+    <item>
+      <headword id="idp118810080">toirbhsginn</headword>
+      <description>Notes: peat-knife. Source: Douglas MacMillan, Ardnamurchan. Date: 1975.</description>
+    </item>
+    <item>
+      <headword id="idp117927032">treathal</headword>
+      <description>Quotation: Bidh i ’na treathal. Source: Mrs Macdonald (Uig, Lewis). Date: 1967.</description>
+    </item>
+    <item>
+      <headword id="idp117928688">ùpag</headword>
+      <description>Notes: gust of wind. Source: C. Buchanan, Barra. Date: 1967.</description>
+    </item>
+    <item>
+      <headword id="idp117930344">bideanach</headword>
+      <description>Quotation: Tha e cho bideanach. Notes: fidgety, unsettled. Source: Mrs Catherine MacLeod, Ness, Lewis. Date: 1982.</description>
+    </item>
+    <item>
+      <headword id="idp117932216">bodach-peachd</headword>
+      <description>Quotation: bodach-peachd (or pheachd). Notes: ‘top layer of peat.’ Source: James Graham, Raasay. Date: 1978.</description>
+    </item>
+    <item>
+      <headword id="idp117934016">buille-thuig</headword>
+      <description>Notes: accidental blow against a stone when running bare-foot. Back, Lewis: Buille-ìg. Source: Dr John MacInnes, Skye. Date: 1967.</description>
+    </item>
+    <item>
+      <headword id="idp117935672">bunalach</headword>
+      <description>Quotation: Bha sinn ann am bunalach. Notes: dithering. Source: Mrs Robertson, Lochmaddy (Carinish).</description>
+    </item>
+    <item>
+      <headword id="idp117937472">carabhaidh</headword>
+      <description>Notes: girlfriend. Source: William MacDonald, Lewis. Date: 1973.</description>
+    </item>
+    <item>
+      <headword id="idp117939128">càrnag</headword>
+      <description>Notes: a conger eel (Kylerhea). Source: Dr T.M. Murchison. Date: 1967.</description>
+    </item>
+    <item>
+      <headword id="idp117940784">ciubharan</headword>
+      <description>Quotation: a’ togail a ciubharain ris. Notes: phrase used of a woman ‘setting her cap’ at a man. Source: Catriona MacKay, Harris. Date: 1988.</description>
+    </item>
+    <item>
+      <headword id="idp117942656">clàimhean</headword>
+      <description>Notes: (Raasay) sliding wooden bolt. Source: D. R. MacDonald, Portree High School.</description>
+    </item>
+    <item>
+      <headword id="idp117944312">coingheall</headword>
+      <description>Quotation: Thoir dhomh coingheall airgid. Notes: a loan. Used in Ross of Mull (Bunessan). Notes: A. MacKechnie. Date: 1978.</description>
+    </item>
+    <item>
+      <headword id="idp117946112">coinneamh-uaigneach</headword>
+      <description>Notes: church meeting at which only communicant members are present. Still held monthly in some Free Churches in Lewis. Source: Calum Matheson. Date: 1980.</description>
+    </item>
+    <item>
+      <headword id="idp117947768">co-long</headword>
+      <description>Quotation: Bidh gu leòr a cho-long timcheall orra. Notes: seems to convey both bustle and companionship. Sometimes used of a noisy gathering of people. Source: Mrs I. MacLeod, 16 Dundasvale Court, Glasgow (Berneray?). Date: 1979.</description>
+    </item>
+    <item>
+      <headword id="idp117949568">craingeal</headword>
+      <description>Notes: (noun) used of a person with a tendency to hypochondria. Source: Mrs M. Morrison, 1020 Argyle St., Glasgow (Màraig, Harris). Date: 12/1977.</description>
+    </item>
+    <item>
+      <headword id="idp117951296">crionan-dearg</headword>
+      <description>Quotation: An crionan-dearg is an liath-cheann anns a’ mhointich chrion thioram. Source: J. MacKay, (Lochaber). Date: 1981.</description>
+    </item>
+    <item>
+      <headword id="idp117952952">dannsa</headword>
+      <description>Quotation: Chì mi, chì mi fada bhuam / Fichead mile thar a’ chuain / Fear gun fhuil, gun fheòil, gun anail, / Dannsadh air an talamh chruaidh. Notes: Clachan-meallain. Source: M. MacPherson, Breakish, Skye. Date: 07/1974.</description>
+    </item>
+    <item>
+      <headword id="idp117954752">driongan</headword>
+      <description>[drənɡɑn] Quotation: Chan eil mi ach a’ driongan … Notes: dodging about, not doing anything much. Source: Angus Maclennan, Harris (Scarp). Date: 1983.</description>
+    </item>
+    <item>
+      <headword id="idp117956768">fanga (?)</headword>
+      <description>Quotation: [fãɣ]. Notes: weight on fishing-line (Norse borrowing). Source: R. Cox, Shawbost, Lewis. Date: 1984.</description>
+    </item>
+    <item>
+      <headword id="idp117958784">feic</headword>
+      <description>Quotation: Cha tug iad feic dha. Notes: Paid no attention. Source: Miss MacLean, Cornaig, Tiree. Date: 1971.</description>
+    </item>
+    <item>
+      <headword id="idp117960584">gàbhaidh</headword>
+      <description>Notes: menacing. Source: Lochcarron (Mrs E. MacSween). Date. 1967.</description>
+    </item>
+    <item>
+      <headword id="idp117962240">gaoth na h-Eiphit</headword>
+      <description>Quotation: Bha gaoth na h-Eiphit dheth! Notes: ‘a foul smell.’ Source: Ina MacKenzie, Lochinver. Date: 1978.</description>
+    </item>
+    <item>
+      <headword id="idp117964040">greannach</headword>
+      <description>Quotation: Is ionmhuinn leis an fheannag a h-isean greannach fhein. Source: R. Graham, Breakish, Skye. Date: 07/1974.</description>
+    </item>
+    <item>
+      <headword id="idp117965696">goradaireachd</headword>
+      <description>Notes: ‘peering’. Source: Callum Matheson, Stornoway. Date: 1977.</description>
+    </item>
+    <item>
+      <headword id="idp117967352">gréim-a-lòin</headword>
+      <description>Notes: used for rheumatism generally. Siataig not known by Ardelve informants. Source: local usage in Ardelve, Kintail (reported by Calum Thomson, Uddingston, after holidaying there). Date: 1969.</description>
+    </item>
+    <item>
+      <headword id="idp117969008">conaroghainn</headword>
+      <description>Quotation: Tha mi ann an conaroghainn. Notes: “in two minds.” Source: Mrs Kennedy, Tiree (via K. Campbell). Date: 1977.</description>
+    </item>
+  </items>
+</fieldworkDocument>

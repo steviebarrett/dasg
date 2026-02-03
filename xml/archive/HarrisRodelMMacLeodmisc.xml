@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 23 4 14 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="HarrisVarious_HarrisRodelMMacLeodmisc" docType="wordlist" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <fieldworker>[anonymous D]</fieldworker>
+  <informant>
+    <nameEnglish>Margaret MacLeod</nameEnglish>
+    <age>about 70</age>
+  </informant>
+  <location>Harris, Rodel</location>
+  <items>
+    <item>
+      <headword id="d0e27">“Dean air gorm!”</headword>
+      <description>‘dean as’.</description>
+    </item>
+    <item>
+      <headword id="d0e36">ruadh</headword>
+      <description>swelling (?), also seen in cow’s udder.</description>
+    </item>
+    <item>
+      <headword id="d0e45">mathair ghuire</headword>
+      <description>puss in the centre of a ‘guiran’.</description>
+    </item>
+    <item>
+      <headword id="d0e54">an deudadh</headword>
+      <description>toothache; healed by putting hot salt onto cheek, also by putting a piece of tobacco onto tooth.</description>
+    </item>
+    <item>
+      <headword id="d0e63">teine dè</headword>
+      <description>(unsure), something pertaining to the mouth.</description>
+    </item>
+    <item>
+      <headword id="d0e72">doille nan caorach</headword>
+      <description>cataract; applied ground glass to remove it.</description>
+    </item>
+	<item>
+	  <headword id="d0e81">[fual]</headword>
+	  <description>bronchitis – fual (poultice) of chewed oatmeal, sugar and soap, also application of bread and hot water, and also peat.</description>
+    </item>
+	<item>
+      <headword id="d0e90">an aileag</headword>
+      <description>hiccup.</description>
+    </item>
+    <item>
+      <headword id="d0e99">niosgaid</headword>
+      <description>boil.</description>
+    </item>
+    <item>
+      <headword id="d0e108">fualigean</headword>
+      <description>boil.</description>
+    </item>
+    <item>
+      <headword id="d0e117">teannachadh</headword>
+      <description>constipation.</description>
+    </item>
+    <item>
+      <headword id="d0e126">tiormachd</headword>
+      <description>constipation, for animals; cured by mixture of rhubarb and treacle.</description>
+    </item>
+    <item>
+      <headword id="d0e135">an greim mòr</headword>
+      <description>appendicitis.</description>
+    </item>
+    <item>
+      <headword id="d0e144">an ruith</headword>
+      <description>diarrhoea.</description>
+    </item>
+    <item>
+      <headword id="d0e153">spùd</headword>
+      <description>diarrhoea on animals.</description>
+    </item>
+    <item>
+      <headword id="d0e162">losgadh brathad</headword>
+      <description>indigestion.</description>
+    </item>
+    <item>
+      <headword id="d0e171">aotroman</headword>
+      <description>bladder.</description>
+    </item>
+    <item>
+      <headword id="d0e180">an tinneas buidhe</headword>
+      <description>jaundice.</description>
+    </item>
+    <item>
+      <headword id="d0e189">sgiuchadh ’s an adhbrann</headword>
+      <description>twisted ankle.</description>
+    </item>
+    <item>
+      <headword id="d0e198">leum drama</headword>
+      <description>slipped disc.</description>
+    </item>
+    <item>
+      <headword id="d0e207">mòineachan</headword>
+      <description>spotted orchid.</description>
+    </item>
+    <item>
+      <headword id="d0e216">lus nan sùl</headword>
+      <description>eyebright.</description>
+    </item>
+    <item>
+      <headword id="d0e225">a’ sprogaigeadh</headword>
+      <description>making yourself up.</description>
+    </item>
+    <item>
+      <headword id="d0e234">frogail</headword>
+      <description>smart, tidy.</description>
+    </item>
+    <item>
+      <headword id="d0e243">spadeir</headword>
+      <description>[sic] smart, tidy.</description>
+    </item>
+    <item>
+      <headword id="d0e252">sioman</headword>
+      <description>piece of string slung under the mantelpiece to hang clothes to dry off.</description>
+    </item>
+  </items>
+</fieldworkDocument>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 23 4 14 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="HarrisVarious_HarrisLeverburghNMacLeodbata" docType="questionnaire" subType="TogailBhtaichean" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Togail Bhàtaichean / Boat-Building</title>
+  <fieldworker>[anonymous D]</fieldworker>
+  <informant>
+    <nameEnglish>Norman MacLeod</nameEnglish>
+    <age>mid 60’s</age>
+  </informant>
+  <location>[Harris], Leverburgh</location>
+  <items>
+    <item><headword id="d0e26" type="heading" level="h1">1. An druim</headword></item>
+    <item>
+      <headword id="d0e31">fliuch bhòrd</headword>
+      <description>chead bhord a dol ris an druim – keel board.</description>
+    </item>
+    <item>
+      <headword id="d0e40">an t-slat bheoil</headword>
+      <description>inside or out.</description>
+    </item>
+    <item>
+      <headword id="d0e49">maide-builg</headword>
+      <description>bilge-keel.</description>
+    </item>
+    <item>
+      <headword id="d0e58">farghram</headword>
+      <description>pios a thathar a cuir ris an druim i.e. a dheanamh nas duimhne.</description>
+    </item>
+    <item><headword id="d0e66" type="heading" level="h1">2. Asnaichean</headword></item>
+    <item>
+      <headword id="d0e71">ragan (Rag-an)</headword>
+    </item>
+    <item><headword id="d0e76" type="heading" level="h1">3. Toiseach is deireadh</headword></item>
+    <item>
+      <headword id="d0e81">clagann toisich</headword>
+      <description>stem post.</description>
+    </item>
+    <item>
+      <headword id="d0e90">gualainn</headword>
+      <description>aig an toiseach.</description>
+    </item>
+	<item>
+	  <headword id="idola145">[sliasaid]</headword>
+	  <description>sliasaid chumail ris am muir – cul (bioran [?] a bha tighinn as an deidh).</description>
+	</item>
+    <item><headword id="d0e107" type="heading" level="h1">4. Na bùird</headword></item>
+    <item>
+      <headword id="d0e112">cuairtean</headword>
+      <description>facal airson na buird.</description>
+    </item>
+    <item>
+      <headword id="d0e121">cuairt-bheoil</headword>
+      <description>bord is àirde.</description>
+    </item>
+    <item><headword id="d0e129" type="heading" level="h1">5. Beul mòr</headword></item>
+    <item>
+      <headword id="d0e134">an t-slat bheoil</headword>
+    </item>
+    <item><headword id="d0e139" type="heading" level="h1">6. Nìthean air taobh a staigh a’ bhàta e.g. suidheachain</headword></item>
+    <item>
+      <headword id="d0e144">tobhtaichean</headword>
+    </item>
+    <item>
+      <headword id="d0e150">rangas</headword>
+      <description>piosan air a bheil na tobhtaichean a sineadh, bòrd air fad an eathair.</description>
+    </item>
+    <item>
+      <headword id="d0e159">ceanna-chnagan</headword>
+      <description>cnagan an ceann na tobhtaichean.</description>
+    </item>
+    <item>
+      <headword id="d0e168">urlar</headword>
+      <description>maidean a th’air [sic].</description>
+    </item>
+    <item>
+      <headword id="d0e177">lùnn</headword>
+      <description>maideann air an sìn thu do chasan fhads a tha thu ag iomaraich.</description>
+    </item>
+    <item>
+      <headword id="d0e186">bac</headword>
+    </item>
+    <item>
+      <headword id="d0e192">cnagan</headword>
+      <description>far a bheil na raimh a dol.</description>
+    </item>
+    <item><headword id="d0e200" type="heading" level="h1">7. A’ dèanamh ràimh</headword></item>
+    <item><headword id="d0e204" type="heading" level="h1">8. An stiùir agus uidheaman co-cheangailte</headword></item>
+    <item>
+      <headword id="d0e209">falmadair</headword>
+      <description>maide tha na do laimh airson a stiùiradh.</description>
+    </item>
+    <item>
+      <headword id="d0e218">na h-iarann stiuireach</headword>
+      <description>used to attach above [i.e. falmadair] to boat (i.e. like a gate).</description>
+    </item>
+    <item><headword id="d0e226" type="heading" level="h1">9. Cruinn agus uidheaman co-cheangailte</headword></item>
+    <item>
+      <headword id="d0e231">achainn</headword>
+      <description>rigging.</description>
+    </item>
+    <item>
+      <headword id="d0e240">acfhuinn</headword>
+    </item>
+    <item>
+      <headword id="d0e246">sgòdadh (v)</headword>
+      <description>reefing, for making sail smalled [sic].</description>
+    </item>
+    <item>
+      <headword id="d0e255">an t-slat shuil</headword>
+      <description>[sic] boom.</description>
+    </item>
+    <item>
+      <headword id="d0e264">cluais an t-siùil</headword>
+      <description>[?] pios [piece?] held in hand to control sail.</description>
+    </item>
+    <item><headword id="d0e272" type="heading" level="h1">10. Uidheaman eile ma tha siùil air an cleachdadh</headword></item>
+    <item><headword id="d0e276" type="heading" level="h1">11. Pìosan de’n ràmh</headword></item>
+    <item>
+      <headword id="d0e281">lùnn</headword>
+      <description>pios a tha anns a bhac.</description>
+    </item>
+    <item>
+      <headword id="d0e290">sgiath</headword>
+      <description>pios a tha dol dhan uisge.</description>
+    </item>
+    <item>
+      <headword id="d0e299">dornag</headword>
+      <description>pios a tha ann an laimh.</description>
+    </item>
+	<item><headword id="d0e307" type="heading" level="h1">12. Innealan a tha cleachdte ann a bhith togail bhàtaichean</headword></item>
+	<item><headword id="d0e311" type="heading" level="h1">13. Faclan co-cheangailte ri innealean eile</headword></item>
+  </items>
+</fieldworkDocument>

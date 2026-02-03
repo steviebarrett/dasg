@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 3 5 13 -->
+<fieldworkDocument docId="CattleandSheep_GlasgowMMacLeodcattle2" docType="wordlist" subType="Cattle">
+  <title>Crodh / Cattle</title>
+  <date>25/05/1971</date>
+  <fieldworker>[self]</fieldworker>
+  <note>[NOTES: this is not the ‘cattle’ questionnaire itself but a letter that Mr MacLeod sent about a month after submitting it (see the first sentence: ‘Fhuair mi bhur litir as dèidh pàipear a’ chruidh agus tapadh leibh air a son’).  It contains a few additional words (‘Chuimhnich mi air nì no dhà bhon uair ud’). The questionnaire itself seems to be missing.]</note>
+  <informant>
+    <nameEnglish>Murdo MacLeod</nameEnglish>
+    <nameGaelic>Murchadh MacLeòid</nameGaelic>
+    <age>[59]</age>
+    <origin>[Lewis, Uig an Iar]</origin>
+  </informant>
+  <location>Glaschu [Glasgow]</location>
+  <!-- illustration -->
+  <items>
+    <item>
+      <headword id="d0e41">an cruban ( an crùban)</headword>
+      <description>[pron.] B’ e seo galair a bhiodh a’ tighinn air crodh Gàidhealach (no smait air crodh sam bith) le a bhith air droch fheur, droch muis [?] ’s mar sin, agus le cus deoghail a bhith air a dheanamh orra leis an laogh.  ’S ann deireadh an t-samhraidh  agus as t-fhoghar a bhiodh an galair-sa an cumantas. Chan fhaca mise an galair-sa a riamh agus cha chuala, ach tha lorg agam gu robh a leithid sin.</description>
+    </item>
+    <item>
+      <headword id="d0e50">brochan-cail ( brochan-càil)</headword>
+      <description>[pron.] B’ e seo brochan a bhiodh iad a’ toirt dhaibh airson galair sam bith – galairean cumanta ’s galairean buailteach. Do an chrodh-dhubh, co dhiu. Brochan, brochan mine, air a dheanamh agus geir agus gnothaichean gorma air a phronnadh troimhe (càl, chanainn, ’s gnothaichean gorma mar sin a bhiodh ri làimh agus feumail). Chan fhaca ’s cha chuala mi a riamh brochan-càil mar seo againne.</description>
+    </item>
+	<item>
+      <headword id="d0e59">[maodal]</headword>
+	  <description>A nise gu maodal na bà (na stamagan).
+      <illustration src="GlasgowMMacLeodcattle2illust1.jpg" width="400"/>
+	  </description>
+	</item>
+	<item>
+	  <headword id="idola64">[stamagan]</headword>
+	  <description>(Fàgaidh sinn na stamagan mar seo an dràsda gu faigh sinn air an cur ceart, mar a tha iad againne.)</description>
+	</item>
+    <item>
+	  <headword id="d0e79">[a’ mhaodal-mhór]</headword>
+	  <description>[See maodal]</description>
+	</item>
+	<item>
+      <headword id="d0e88">luamha</headword>
+      <description>[See maodal] Fuaimnich seo dìreach mar a tha e sgrìobhte (a réir dòigh na Gaidhlige) ach cur fuaim ‘gh’ an àite fuaim an ‘mh’. Leis an seo bidh e dìreach mar a tha e air a fhuaimneachadh againne. Luamha, ’se seo a’ bhinid anns an laogh agus a’ ghlas ([pron.] a’ ghlās) anns a’ chaoraich. Sin mar a tha iad againne mur a h-eil mise a’ dol ceàrr. (Feuchaibh Nic Neacail. Agus bu chòir gu’n innseadh i dhuibh mar a dheanadh iad binid airson bainne-binid (‘bainne-air-bhinid’ a th’againne).</description>
+    </item>
+	<item>
+	  <headword id="d0e97">[currac-an-rìgh]</headword>
+	  <description>[See maodal]</description>
+	</item>
+	<item>
+	  <headword id="d0e106">[am broilein]</headword>
+	  <description>[See maodal]</description>
+	</item>
+	<item>
+	  <headword id="d0e115">[an ceap]</headword>
+	  <description>[See maodal]</description>
+	</item>
+    <item>
+      <headword id="d0e124">[bainne-air-bhinid]</headword>
+      <description>Na h-uibhir de mhin, de bhainne, agus na h-uibhir de shalainn, air a chur ann am binid (stamag) an laoigh agus ’ga chrochadh an àirde gu’m biodh feum air airson bainne-air-bhinid. Agus dheanadh e sin a cheart cho math ri stuth ’sam bith airson an aobhair a gheibh sibh as a’ bhùth. Cha robh na bodaich gun tùr!</description>
+    </item>
+  </items>
+</fieldworkDocument>

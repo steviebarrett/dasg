@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 5 4 14 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="WoolworkingandFishing_GlasgowDGrantwool" docType="questionnaire" subType="Wool-working" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Obair na Clòimhe / Wool-Working</title>
+  <fieldworker>[self]</fieldworker>
+  <informant>
+    <nameEnglish>Donald Grant</nameEnglish>
+    <nameGaelic>Domhnall Grannd </nameGaelic>
+    <age>66</age>
+    <origin>[Skye, Camus Chroise]</origin>
+  </informant>
+  <location>Glasgow</location>
+  <items>
+    <item><headword id="d0e29" type="heading" level="h1">1. Raw wool</headword></item>
+    <item><headword id="d0e33" type="heading" level="h1">2. Oil or grease put on wool before carding</headword></item>
+    <item><headword id="d0e37" type="heading" level="h1">3. Carding</headword></item>
+    <item>
+      <headword id="d0e42">a’ càrdadh</headword>
+      <description>[carding.]</description>
+    </item>
+    <item>
+      <headword id="d0e51">rolag</headword>
+      <description>roll of wool.</description>
+    </item>
+    <item><headword id="d0e59" type="heading" level="h1">4. Spinning</headword></item>
+    <item><headword id="d0e63" type="heading" level="h1">5. Parts of the spinning wheel</headword></item>
+    <item><headword id="d0e67" type="heading" level="h1">6. Yarn and associated apparatus</headword></item>
+    <item><headword id="d0e71" type="heading" level="h1">7. Dyeing</headword></item>
+    <item><headword id="d0e75" type="heading" level="h1">8. Washing after dyeing</headword></item>
+    <item><headword id="d0e79" type="heading" level="h1">9. Warping</headword></item>
+    <item><headword id="d0e83" type="heading" level="h1">10. Beaming and tying</headword></item>
+    <item><headword id="d0e87" type="heading" level="h1">11. Weaving</headword></item>
+    <item><headword id="d0e91" type="heading" level="h1">12. Parts of the weaving loom</headword></item>
+    <item><headword id="d0e95" type="heading" level="h1">13. Finishing</headword></item>
+  </items>
+</fieldworkDocument>

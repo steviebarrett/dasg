@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 27/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_TomichHKennedyslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>05/1969</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <informant>
+    <nameEnglish>Mrs Harriet Kennedy</nameEnglish>
+    <age>c. 80</age>
+    <origin>Stratherricis</origin>
+  </informant>
+  <location>Inverness-shire, Tomich, Hilton Cottage</location>
+  <items>
+    <item>
+      <headword id="idp115494256">beigleis</headword>
+      <description>[beɡlɑʃ] Notes: bayonet – from an old song. See beigleid, beigneid Dw.</description>
+    </item>
+  </items>
+</fieldworkDocument>

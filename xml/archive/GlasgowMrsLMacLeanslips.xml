@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 1/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_GlasgowMrsLMacLeanslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>10/1970</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <informant>
+    <nameEnglish>Mrs L. MacLean</nameEnglish>
+    <origin>Islay</origin>
+  </informant>
+  <location>Glasgow</location>
+  <items>
+    <item>
+      <headword id="idp115469680">sgàindeach</headword>
+      <description>Notes: rheumatism.</description>
+    </item>
+    <item>
+      <headword id="idp115466728">creatachan</headword>
+      <description>[kɾɛxt̪ɑxɑṉ] Notes: churn-stick.</description>
+    </item>
+  </items>
+</fieldworkDocument>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 5/8/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_ArdDhubhACameronslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>1968-1987</date>
+  <informant>
+    <nameEnglish>A. Cameron</nameEnglish>
+  </informant>
+  <location>Applecross, Ard Dhubh</location>
+  <items>
+    <item>
+      <headword id="idp167336504">lap (pl. lapan)</headword>
+      <description>Quotation: Bha lapan sa bhuntàta far nach do dh’fhàs iad idir. Notes: patches where potatoes had failed to grow.</description>
+    </item>
+    <item>
+      <headword id="idp167338160">ploc-fàl</headword>
+      <description>Notes: one piece of turf specially cut to cover a new grave.</description>
+    </item>
+    <item>
+      <headword id="idp167339744">broth</headword>
+      <description>Notes: rash on the skin, as with measles.</description>
+    </item>
+    <item>
+      <headword id="idp167341256">cloimh</headword>
+      <description>Notes: mange (in dogs).</description>
+    </item>
+    <item>
+      <headword id="idp167342768">dìobair</headword>
+      <description>Quotation: Tha i glé mhath mara dìobair i. Notes: Alleged to have been said by some woman to ‘MacCoinnich’ of Ioscaig when he had boasted of a bridge he had just made. Sense of ‘fail, give way’.</description>
+    </item>
+    <item>
+      <headword id="idp167344424">faofag</headword>
+      <description>Quotation: pl. faofagan. Notes: ‘Squid’.</description>
+    </item>
+    <item>
+      <headword id="idp167346080">giobarnach</headword>
+      <description>Notes: octopus (‘Lewis form’).</description>
+    </item>
+  </items>
+</fieldworkDocument>

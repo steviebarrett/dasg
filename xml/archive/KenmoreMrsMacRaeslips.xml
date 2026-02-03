@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 7/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_KenmoreMrsMacRaeslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>1975</date>
+  <informant>
+    <nameEnglish>Mrs MacRae</nameEnglish>
+    <age>c. 65</age>
+    <origin>Arisaig</origin>
+  </informant>
+  <location>Perthshire, Kenmore</location>
+  <items>
+    <item>
+      <headword id="idp115757016">mulan</headword>
+      <description>Notes: big haystack.</description>
+    </item>
+    <item>
+      <headword id="idp115754352">ròcais</headword>
+      <description>Notes: crow.</description>
+    </item>
+    <item>
+      <headword id="idp115751184">airson</headword>
+      <description>Quotation: Bithidh iad a’ tighinn air a shon sin. Notes: despite that.</description>
+    </item>
+    <item>
+      <headword id="idp115747656">idir</headword>
+      <description>[id̪ər] Notes: N.B. pronunciation.</description>
+    </item>
+    <item>
+      <headword id="idp115770912">iomain</headword>
+      <description>[ju̟minʹ] Notes: football.</description>
+    </item>
+    <item>
+      <headword id="idp115772640">papag</headword>
+      <description>Notes: small haystack.</description>
+    </item>
+    <item>
+      <headword id="idp115774152">poc</headword>
+      <description>[pɔʰxk] Quotation: poca buntàta. Notes: bag, sack; ‘sack of potatoes’.</description>
+    </item>
+    <item>
+      <headword id="idp115776024">sgrìoban</headword>
+      <description>Notes: rake.</description>
+    </item>
+    <item>
+      <headword id="idp115777536">smeòrach</headword>
+    <description>[smɛ̜̃:rəx] </description></item>
+    <item>
+      <headword id="idp115779264">trusadh-chnothan</headword>
+      <description>Notes: gathering nuts – a game.</description>
+    </item>
+    <item>
+      <headword id="idp115780776">achadh</headword>
+      <description>Quotation: pl. [əˈiçən] [?].</description>
+    </item>
+    <item>
+      <headword id="idp115782576">babhstlair</headword>
+      <description>Quotation: Geda [sic] bha Gàidhlig aig na [b[ɑu]stɫirən], cha robh iad ’ga teagasg idir. Notes: speaking of Gaelic at school.</description>
+    </item>
+    <item>
+      <headword id="idp115784952">bòrd</headword>
+      <description>Quotation: obair a’ bhùird. Notes: serving at tables in a hotel.</description>
+    </item>
+    <item>
+      <headword id="idp115786608">caitheamh</headword>
+      <description>[ə x[ɑı]əv] Notes: consumption.</description>
+    </item>
+    <item>
+      <headword id="idp115788768">carbad-adhair</headword>
+      <description>Quotation: carbad-adhair [ɑhər]. Notes: aeroplane.</description>
+    </item>
+    <item>
+      <headword id="idp115790640">carbad-rathad</headword>
+    </item>
+    <item>
+      <headword id="idp115792152">Ceannmór</headword>
+      <description>Quotation: as a’ Cheanamhor [as ə çɛ̜nəvor]. Notes: Kenmore, Perthshire. ‘In K.’</description>
+    </item>
+    <item>
+      <headword id="idp115794024">cladh</headword>
+      <description>[kwəɣ] Notes: N.B. pronunciation.</description>
+    </item>
+    <item>
+      <headword id="idp115795752">croit</headword>
+      <description>[kru̟ʰtʹ] Quotation: pl. croiteachan [kru̟ʰtʹəxən].</description>
+    </item>
+    <item>
+      <headword id="idp115797696">deasaich</headword>
+      <description>Quotation: a’ deasachadh. Notes: ‘baking’.</description>
+    </item>
+    <item>
+      <headword id="idp115799352">eun</headword>
+      <description>Quotation: na h-[ɛwin]. Notes: na h-eòin.</description>
+    </item>
+  </items>
+</fieldworkDocument>

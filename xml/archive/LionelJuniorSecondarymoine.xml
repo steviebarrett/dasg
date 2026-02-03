@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 24 4 13 -->
+<fieldworkDocument docId="Peat_LionelJuniorSecondarymoine" docType="questionnaire" subType="Peat">
+  <title>Mòine / Peat-Working</title>
+  <date>[1967 – the date in section 5 of the questionnaire: ‘an-diugh – 1967’.]</date>
+  <fieldworker>[school]</fieldworker>
+  <informant>
+    <nameEnglish>Lionel Junior Secondary</nameEnglish>
+  </informant>
+  <location>Lewis, Port of Ness</location>
+  <!-- ILLUSTRATIONS -->
+  <items>
+    <item><headword id="d0e28" type="heading" level="h1">1. Ag ullachadh na talmhainn airson mòine a bhuain</headword></item>
+    <item>
+      <headword id="d0e33">am blàr monach</headword>
+      <description>The peat cutting area.</description>
+    </item>
+    <item>
+      <headword id="d0e42">poll monach</headword>
+      <description>Peat bank.</description>
+    </item>
+    <item>
+      <headword id="d0e51">poll ùr</headword>
+      <description>Ri fosgladh poll ùr anns a’ bhlàr (1) Feumaidh e bhith cóig slat dheug bho pholl fir eile. (2) Mas e aon fhàd a thig as a’ pholl ùr chan fhaod barrachd air da throigh a leud a bhith ann gus an tig aig caora a leum. (3) Ma thig da fhàd as feumaidh tri troighean de leud a bhith ann air a char as lugha gus a faigh caora air tionndadh ’na bhroinn, agus feumaidh earball a’ phuill a bhith air a dheanamh air dhòigh is gun coisich caora a mach as.</description>
+    </item>
+    <item>
+      <headword id="d0e60">leigeil nam poll</headword>
+      <description>Mus toisichear air a’ mhoine aig deireadh an earraich tha broinn gach poll ’ga ghlanadh aig an earball gus an ruith uisge a’ gheamhraidh as (le spaid).</description>
+    </item>
+    <item>
+      <headword id="d0e69">riochadh</headword>
+      <description>Deanamh liona, doimhne na spaide, an ruith leud a’ chargur bho cheann gu earball a’ phuill, is bidh am poll na’s fhasa a rùsgadh.</description>
+    </item>
+    <item>
+      <headword id="d0e78">rùsgadh</headword>
+      <description>Skinning or turfing. Tha an cargur mu chóig oirlich dheug. Tha an ceap ga ghearradh – mu throigh a dh’fhad ann – is ga thionndadh air a’ charcus, a’ toiseachadh aig earball a’ phuill ’s a’ tionndadh a mach gu a cheann. Faodar so a dheanamh laithean roimh’n bhuain.</description>
+    </item>
+    <item>
+      <headword id="d0e87">leagail nan rusg</headword>
+      <description>’S e so a bhith a’ càradh nan ceap feir a’ charcus am broinn a’ phuill dìreach mar a bha iad air an uachdair mus deacha an gearradh. Bha a bhith leagail nan rusg mar so a’ fagail broinn a’ phuill réidh glan bliadhna as deidh bliadhna. Mar an rachadh so a dheanamh bhiodh an ath-bhlar (af-lar mar a chanas iad) pruganach, is ’na chunnart do bheathaichean.</description>
+    </item>
+    <item>
+      <headword id="d0e96">glanadh</headword>
+      <description>Bha an cargur ’ga ghlanadh gus a dheanamh na b’fhasa do’n tairsgeir. Feumaidh tuighead mhath a bhith anns a ghlanadh so ann an cuid de phuill, nuair nach eil an talamh air a dhol ’na riasg suas gu bun an rùisg. Ni an glanadh so calcas math eadar na cip no rùsg fo do chasan.</description>
+    </item>
+    <item>
+      <headword id="d0e105">(ceann is earball</headword>
+      <description>Na’n gabhadh e deanamh bha am poll air a thoirt an ruith an leothaid, no air shiobhadh an leothaid, gus an ruitheadh an t-uisge. Chainte ‘Ceann a’ phuill ris a’ cheann ard, agus an ‘t-earball ris a’ cheann aig am biodh am bùirn ga fhàgail. Ceann – Earball – Uachdair no Broinn – Aodann no Agaidh eadar an druim ’s am broinn bho cheann gu earball.)</description>
+    </item>
+    <item><headword id="d0e113" type="heading" level="h1">2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</headword></item>
+    <item>
+      <headword id="d0e118">tairsgeir</headword>
+      <description>Peat-cutting iron. ’Se tairsgeir an aon inneal buain mhonach a bhios iad a’ gnathachadh ann an Leodhas, ach aig amannan theid grabhag a buain le spaid. “Spadadh nan grabhagan”, mar a their iad.</description>
+    </item>
+    <item>
+      <headword id="d0e127">buain</headword>
+      <description>Toisichear a’ buain a’ phuill aig a’ cheann no aig earball – a reir ’s gu de an àirde gam bi aodann a’ phuill ag amharc. Co dhiù feumaidh smeachan an tairsgeir a bhith gu do chois dheis.</description>
+    </item>
+    <item>
+      <headword id="d0e136">càraid an tairsgeir</headword>
+      <description>Mar as tric ’se fear is te a bhios mu’n tairsgeir. Bheir iad greis mu seach a’ gearradh ’s a’ tilgeil.</description>
+    </item>
+    <item>
+      <headword id="d0e145">fosgladh a’ phuill</headword>
+      <description>’S e so a’ toirt bearn air siobhadh air a’ charcus aig a’ cheann far an toisichear a’ buain, gus a ruith na fadan gu siùbhlach bho’n tairsgeir. Theid so a dheanamh le spaid no tairsgeir.</description>
+    </item>
+    <item>
+      <headword id="d0e154">am barr-fhad</headword>
+      <description>Na fòid a thig as a’ cheud ruith gearraidh air fad is leud a’ charcus bho cheann gu earball a’ phuill.</description>
+    </item>
+    <item>
+      <headword id="d0e163">an corr-fhad</headword>
+      <description>Fàd a muigh a’ bharr-fhoid bho cheann gu earball a’ phuill. Bidh e so gu tric tioram, is feumaidh e a bhith air a ghearradh na’s tuighe no càch air an neo theid e ’na smùr.</description>
+    </item>
+    <item>
+      <headword id="d0e172">an caoran</headword>
+      <description>Fàd iochdair a’ phuill, gu tric a’ tighinn bho’n chruadhlach. Gu tric cha bhi e so uiread ris a’ bharr-fhad no fàd a’ ghàrraidh.</description>
+    </item>
+    <item>
+      <headword id="d0e181">fàd a’ ghàrraidh</headword>
+      <description>Fàd a tha ruith a’ phuill fo’n bharr-fhad. An dara fàd a tha tighinn a aodann a’ phuill. (Bu chòir dhomh a bhith air sgrìobhadh an fhir so eadar an corr-fhad ’san caoran.)</description> 
+    </item>
+    <item>
+      <headword id="d0e190">tilgeil</headword>
+      <description>Tha am barr-fhad air a thilgeil bho’n tairsgeir fad do laimhe a mach air sgaoilteach druim no uachdair a’ phuill, agus tha cuid dhiubh air an tilgeil fada mach air an ath-bhlar am broinn a’ phuill. Tha a’ chuid as motha de’n dara fàd – fàd a’ ghàrraidh – ga chur air sliomas ri deanamh gàrradh ri oir a’ phuill air uachdair. Tha, mar as tric, tri fòid a dh’àirde dol do’n ghàrradh so. Tha an caoran ga chur ri do chois, no faisg, am broinn a’ phuill.</description>
+    </item>
+    <item>
+      <headword id="d0e199">càradh an fhoid</headword>
+      <description>Tha cuid ann a tha cho ealanta air tilgeil is gun cuir iad gach fàd air a shliomas ri oir fir eile fada muigh air an sgaoilteach, mar bun a’ ghàrraidh. Tha cuid de phuill ann as an tig tri fòid is caoran, is gus nach bi a’ mhoine air muin a cheile air an sgaoilteach cha bhi an cargur ga thoirt cho leathann.</description>
+    </item>
+    <item><headword id="d0e207" type="heading" level="h1">3. A’ tiormachadh na mònach</headword></item>
+    <item>
+      <headword id="d0e212">togail</headword>
+      <description>Bidh a’ mhoine air a fàgail air an sgaoilteach airson fichead la ma bhios aimsir mhath ann, na’s fhaide na sin ma bhios an aimsir fliuch no briste. Theid an uair sin teannadh air a togail, no ‘ga cur air a casan’ mar a their iad.</description>
+    </item>
+    <item>
+      <headword id="d0e221">rùdhadh</headword>
+      <description>’S e a’ cheud togail an rùdhadh – ceithir fòid gan cur ’na seasamh an taca r’a cheile, ’san coigeamh fàd ’na bhonaid orra. Obair dhórainneach do dhruim an ana-cleachdaidh.</description>
+    </item>
+    <item>
+      <headword id="d0e230">ath-rùdhadh</headword>
+      <description>Mar a tiormaich a’ mhoine anns an rudhan tha dha no tri de rudhain gan cur an ceann a cheile is bidh iad air a fàgail greis eile gus an tiormaich i. Bidh, aig amannan, bho sheachduinn gu tri seachdainnean eadar an rùdhadh ’s an ath-rùdhadh.</description>
+    </item>
+    <item><headword id="d0e238" type="heading" level="h1">4. A’ cruachadh na mònach</headword></item>
+    <item>
+      <headword id="d0e243">cruinneachadh</headword>
+      <description>Tha ciall an fhacail so air atharrachadh a thaobh monach. Ma chanas duine an so, “Bha mi anns a’ mhoine ga cruinneachadh” tha e a’ ciallachadh gu faigh tractar chun nam poll mhonach aige, no gu cuid dhiubh, agus gu robh e a’ deanamh dùin bheaga air na puill gus a bhith deiseil airson an tilgeil do’n tractar a bheir gu rathad làraidh no dhachaidh iad.</description>
+    </item>
+    <item>
+      <headword id="d0e252">cruachadh</headword>
+      <description>So a bhith deanamh cruachan beaga air uachdair a’ phuill no air an ath-bhlar. Cha teid a’ mhoine so a toirt dhachaidh, is dòcha, gus an ath earrach no shamhradh.</description>
+    </item>
+    <item>
+      <headword id="d0e261">torradh</headword>
+      <description>Tha ‘torradh’ is ‘cruachadh’ ag ciallachadh an aon rud, ach chan eil a facal so aca air son nam monach ann an Nis. “Bha mi torradh.” ’S e sin a chanas muinntir an Rudha, gu h-àraidh muinntir nam bailtean mu sgoil na h-Airde, ged a chanas iad “Bha mi cruachadh,” cuideachd. (’S e cruachadh a fhuair mi bho chlann Nis ’san Taobh Siar ann an sgoil Lionail, ach is e ‘torradh’ a thug aon nighean dhomh a thàinig thugainn a Garrabost bho chionn bliadhna gu leth.)</description>
+    </item>
+    <item>
+      <headword id="d0e270">tughadh</headword>
+      <description>’S e so a bhith comhdach nan cruachan no na torran beaga so le cip gus an dian bho shiantan a’ gheamhraidh.</description>
+    </item>
+    <item><headword id="d0e278" type="heading" level="h1">5. A’ toirt na mònach dhachaigh; an cliabh, etc.</headword></item>
+    <item>
+      <headword id="d0e283">a’ cur gu rathad</headword>
+      <description>Nuair a bhios a’ mhoine tioram tha i air a cur gu rathad far am faigh làraidh no tractar thuice gus a toirt dhachaidh. Tha a’ mhoine cho fada bho chuid ann an Nis is gu feum iad tri dòirtidh a dheanamh orra. (a) Ga dòirteadh aig rathad far am faigh tractar thuice. (b) Aig rathad far am faigh làraidh thuice. (c) Aig an tigh á làraidh. Tha a’ mhoine ga cur gu rathad (1) Ann am poca air do dhruim. (2) Ann an cliabh air do dhruim. (3) Ann am barra-cuibhle. (4) Ann am ‘Float’. (5) Le each is cairt. (’Se aon each a tha a’ deanamh sin an so an diugh - 1967) (6) Le tractar. (7) Agus chunnaic mi air cùl Steòrnabhaigh cuid ga cur gu rathad ann am ‘Prams’.</description>
+    </item>
+    <item>
+      <headword id="d0e292">a’ cur gu tìr</headword>
+      <description>Sin a chanas muinntir Nis an àite ‘cur gu rathad’, is cha chan iad ‘A’ cur gu rathad’ aig am ’sam bith. Cha chuala mi an dòigh so aig muinntir ’sam bith eile anns an eilean, agus is e ‘Cur gu tir’ a chanas mi fhin an diugh ged as e Rudhach a tha annam.</description>
+    </item>
+    <item>
+      <headword id="d0e301">an dun</headword>
+      <description>’So a chanas tu ris an tiùrr mhór mhonach a bhios aig an rathad deiseil gus a’ toirt dhachaidh leis an làraidh.</description>
+    </item>
+    <item>
+      <headword id="d0e310">lionadh</headword>
+      <description>Feumaidh tu sgiobadh math gus lionadh na làraidh, ach le bhith dol gu làraidh muinntir eile anns a’ bhaile coisnidh tu iad gus a lionadh dhuit fhein.</description>
+    </item>
+    <item>
+      <headword id="d0e319">deanamh na cruaiche</headword>
+      <description>Nuair a thig a’ mhoine chun na dachaidh theid cruach mhór steidhidh a dheanamh, le na fadan mullaich air an càradh ann an dòigh is gun tilg iad dhuibh an t-uisge. Bidh cuideachadh bho nàbunnan an so mar an ceudna, agus is e aobhar nàire a bhios ann ma thig làraidh lan ’s gun sibh ullamh do’n te a thainig rhoimpe.</description>
+    </item>
+    <item>
+      <headword id="d0e328">an cuilean</headword>
+      <description>Tha a’ mhoine phronn, agus a’ mhoine nach do ghabh a’ chruach mhór air an stéidheadh ann an cruaich bhig mar ‘lean-to’ ris a’ chruaich mhóir. ’Se an cuilean a chanar ris a’ chruaich bhig so.</description>
+    </item>
+    <item>
+      <headword id="d0e337">dorus na cruaiche</headword>
+      <description>An ceann a theid fhosgladh do’n chruaich gus na fadan a thoirt gu teine.</description>
+    </item>
+    <item>
+      <headword id="d0e346">màs na cruaiche</headword>
+      <description>So an ceann duinte – ceart dhìreach mu choinneamh an doruis. Canar ‘ceann na cruaiche’ ris a’ cheann so cuideachd.</description>
+    </item>
+    <item><headword id="d0e354" type="heading" level="h1">6. Seòrsachan mònach</headword></item>
+    <item>
+      <headword id="d0e359">moine bhàn</headword>
+      <description>Moine aotram dhonn-bhàn bhog, nach eil ’na fior réisg idir. Chan eil móran blàths innte ach tha pailteas luath innte is ged a bhuaileadh fad dhith ort aig lionadh na làraidh chan eagal duit.</description>
+    </item>
+    <item>
+      <headword id="d0e368">moine dhubh</headword>
+      <description>’Se fìor réisg a tha so. Tha i cruaidh, trom, agus tha teas mor innte. Is fhiach i so a h-àrach. Toidh ort fhein aig lionadh na làraidh.</description>
+    </item>
+    <item>
+      <headword id="d0e377">moine phronn dhubh</headword>
+      <description>Mun a tig a’ mhoine so dhachaidh mus bi i buileach tioram theid i ’na smùr air na puill. Tha i  trom, is tha moran teas innte, agus ged a rachadh i ’na smur aig an tigh tha an smur so mar an gual ann an stòbha. Mar as trice ’se luath anabarrach dearg a ni i mar gum biodh moran iaruinn innte. Tha i so air a buain ris a’ chruadhlach.</description>
+    </item>
+    <item>
+      <headword id="d0e386">moine chalcas</headword>
+      <description>So moine chòsach anns nach eil moran feuma, a dh’fhàs as a’ choinnich, gu h-àraidh ann an àiteachan far am biodh badan de ‘Sphagnum Moss’. (Co dhiù, ’s e sin a chaidh innse dhomh-sa.) Aig amannan tachraidh stiallan do’n chalcas so riut ann am poll monach réisg dubh.</description>
+    </item>
+    <item>
+      <headword id="d0e395">starran</headword>
+      <description>Chi thu na stiallan donna mar chuiseagan seargte ann an aodainn cuid de phuill, agus gabhaidh iad an slaodadh as. ’S e starran a chanas iad ri na stiallan so. (B’e a’ chòsach tombaca nam balach.)</description>
+    </item>
+    <item>
+      <headword id="d0e404">moine amh</headword>
+      <description>Moine a chaidh a chur do’n chruaich nach robh air caoineachadh ceart. ’S ann ainneamh a thiormaicheas i anns a’ chruaich. Cuideachd, sgréadhaidh no brisidh an reòdhadh fadan an stéidhidh agus tuitidh a’ chruach.</description>
+    </item>
+    <item>
+      <headword id="d0e413">ath-mhoine (a-foin anns gach aite)</headword>
+      <description>Fadan a chaidh fhàgail an sud ’san so air na puill. Bha iad so ro fhliuch air son an cur gu rathad. Bidh iad tioram gu leòr gus teine a dheanamh aig am buain, rùdhadh is cur gu tìr. ’S e ath-mhoine cuideachd a chanar ris na bhios air fhàgail do mhoine na bliadhna ’n uiridh as deidh a’ chruach ùr a bhith air a deanamh.</description>
+    </item>
+    <item><headword id="d0e421" type="heading" level="h1">7. Faclan eile</headword></item>
+	<item>
+	  <headword id="idola199">[la buain na monach]</headword>
+	  <description>’S e la mor a b’abhaist a bhith ann an la buain na monach, gu h-àraidh do’n chloinn. Bha a’ mhoine cho faisg air bailtean ceann shios an Rudha is gum biodh an sgiobadh a’ tighinn dhachaidh gu gach biadh. Dh’innseadh bratach dhaibh ’cuin a bhiodh am biadh deiseil. Bha searbhadair shoithichean, no pios aodaich air chor-eigin eile ga cheangal ri bàrr slait chreagaich fhada, agus rachadh duine leatha chun an tobhta, no eadhon suas gu mullach an tigh dhuibh ga cumail suas riu. ’S e urram mór a bhiodh ann do’n ghille a gheibheadh suas leis a’ bhrataich so, ach b’e a dhleasdanas airson na duais so an teine a fhrithealadh is gun a leigeil as, agus e bhith cinnteach gum biodh pailteas do uisge na tobrach ri laimh a’ chòcaire. 
+           Cuideachd, air an la so, bhiodh mìlsean ann, gu h-àraidh silidh, agus as docha lof, nithean a bha gle annasach roimh am a’ cheud chogaidh mhóir. Bhiodh cuid de thighean ann is cha bhiodh so aca, agus a chionn sin bhiodh e duilich dhaibhsan òigridh fhaighinn do’n sgiobadh aca. Bhiodh iad so aig amannan air an aoireadh ann an rabhd: 
+           ’An Dhomhnuill ’s cha bhi silidh ac’ / ’S cha bhith [sic] càil milis ac’, / ’S mise nach teid idir thuc’ / A dh’ithe bioraich shioman. Agus a ris: Bhuain dhan Donnach cha teid sinne, / So a bheir an Donnach dhuinn, / Buntàt’ athurrnach gus ithe, / Teatha gun shiùcar, ’s brochan lom; / Rionnaich ruadh’ thug bliadhn’ am piceil, / ’S bidh sinn seachdain le ar com.  
+           Nuair a rachadh la a shuidheachadh gu buain ’se la nan seachd sian a bheireadh orra an la sin a bhristeadh, agus bhiodh iad ’nam botunnan ’s nan oiliscin anns na puill. Cha chuireadh uisge stad idir orra, ach chuireadh sneachd. Bhiodh iad a’ buain na monach na bu tràithe aig an am ud is aig iasgairean agus aig clannighean an sgadain togail orra a Ghallaibh, a Shealtuinn is dhan a’ Bhruaich is bhiodh iad airson obair an fhearainn is na monach a bhith ullamh mas fhàgadh iad. An diugh chan eil a’ chabhaig cho mor, agus an diugh tha tentaichean an cois luchd na monach, eadhon ann an cridhe an t-samhraidh far an ruith iad ma thig fras. Faic ‘An Sireadh’ le Ciorstai NicLeòid as Paible an Rudha. T.D. 7-8 ‘Buain na Monadh’.
+    </description>
+	</item>
+    <item>
+      <headword id="d0e435">sgioba no sgiobadh</headword>
+      <description>Peat cutting crew. ’S e criudha buain mhonach a tha am facal so a’ ciallachadh an diugh. Cha chuala mise a riamh e shios againn fhin ann an Rudha, far am bheil moran eathraichean fhathast, no ann an Uig a’ ciallachadh sgioba bàta no eathair.</description>
+    </item>
+    <item>
+      <headword id="d0e444">ath-bhlar (af-lar)</headword>
+      <description>Am blàr broinn a dh’fhàg am poll as a dheidh bho chaidh fhosgladh. Tha an duine a dh’fhosgail am poll a’ dleasadh ath-bhlair fhein, agus ma bhios doimhne réisg air fhagail ann faodaidh e poll ùr fhosgladh gun cead conastabail a’ bhaile.</description>
+    </item>
+    <item>
+      <headword id="d0e453">grabhag</headword>
+      <description>Poll monach beag goirid. Mar as trice corran nam poll mhonach fhada a tha gus ruith a mach.</description>
+    </item>
+    <item>
+      <headword id="d0e462">float</headword>
+      <description>’S e facal Niseach a tha so, is cha chuala mi an t-ainm air an inneal giulain so ach an Nis fhein. ’S e bara-cuibhle fosgailte a th’ann gun chliathaichean no deireadh air, is bheir e leis an t-uamhas do mhoine. Mar as tric ’se cuibhle ‘motor-bicycle’ leis an ‘tyre’ a bhios air, agus tha e math air rathad bog. 
+        <illustration src="LionelJuniorSecondarymoineillust1.jpg" width="300"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e473">plòicean</headword>
+      <description>Fad mór tiugh de mhoine bhàn, is gu tric amh.</description>
+    </item>
+    <item>
+      <headword id="d0e482">“Bhrist sinn an la.”</headword>
+      <description>Tha sin a’ ciallachadh gun tainig air an sgiobadh sgur a bhuain leis an droch la gun an obair a chriochnachadh. Bha cuid do dhaoine ann is bha e eu-comasach dhaibh la math buain a bhith aca. Bha iad so somhraichte anns gach baile agus dh’fheuchadh muinntir eile a’ bhaile an la shuidhicheadh iadsan a sheachnadh gu buain iad fhein.</description>
+    </item>
+    <item>
+      <headword id="d0e491">buain leotha fhein</headword>
+      <description>Tha so a’ ciallachadh an rud a tha e ’g radh. Cha chuireadh iad so sgiobadh a mach idir.</description>
+    </item>
+    <item>
+      <headword id="d0e500">caoran (an)</headword>
+      <description>Pios beag fòid nach eil buileach ’na smùr. Ach faodaidh tu radh, ‘Cuir da chaoran mun teine’, ’s tu ciallachadh teine mór do mhoine shlàn a chur air.</description>
+    </item>
+    <item>
+      <headword id="d0e509">moine tasgaidh</headword>
+      <description>Fadan móra tiugh a chuirear air an druim dìreach do’n luath aig am dol a chadal gus an cum iad an teine beò air a shocair gu maduinn. Tha ploicein math air son so.</description>
+    </item>
+    <item>
+      <headword id="d0e518">cargair (an Nis)</headword>
+      <description>Leud an rùisg bho oir a’ phuill chun an riochaidh – an cumantas coig oirlich dheug. Cargur (anns an Rudha). Cargoir (na Lochan – Rainis).</description>
+    </item>
+    <item>
+      <headword id="d0e527">cargur (anns an Rudha)</headword>
+      <description>[See cargair.]</description>
+    </item>
+    <item>
+      <headword id="d0e536">cargoir (na Lochan – Rainis)</headword>
+      <description>[See cargair.]</description>
+    </item>
+    <item>
+      <headword id="d0e545">ruig am fàd</headword>
+      <description>Comhairle a bheireadh lamh eòlach do ghille no do chaileig a bhiodh aig toiseach tòiseachaidh a’ buain. Bha sin a’ ciallachadh, “Sàth an tairsgeir sios dìreach gu uachdair an smeachain.”</description>
+    </item>
+    <item>
+      <headword id="d0e554">a’ chruaidh</headword>
+      <description>’S e ‘a’ chruaidh’ a chanas na Nisich ris a’ bhunait, agus ‘a’ chruadhlach’ anns an Rudha ’s air na Lochan. (Rainis) “Rainig sinn a’ chruaidh (a’ chruadhlach) a’ buain.”</description>
+    </item>
+    <item>
+      <headword id="d0e563">dol a tail</headword>
+      <description>Nuair a theid moine fhàgail air a’ pholl mhonach fo’n ghaoith, ’s fo’n ghréin gun sealltuinn rithe theid i bho fheum, is their iad, “Chaidh a’ mhoine a tail.”</description>
+    </item>
+    <item>
+      <headword id="d0e572">bàsadair</headword>
+      <description>Poll anns an deacha beathach as an rathad – am bogadh, air an neo nach fhaghaidh e air leum as.</description>
+    </item>
+    <item>
+      <headword id="d0e581">bàthadair</headword>
+      <description>Poll monach – mar as tric poll ùr anns an deacha beathach a bhàthadh. Leanaidh na h-ainmeannan ris na puill sin ged a bhiodh an dà aodann air a dhol cho fada bho cheile is gun togadh tu caisteal eatorra. Cluinnidh tu, “Chunna mi caora leat air breith aig Bàthadair tuath (no deas, no’n ear, no’n iar) Uilleam Iain” no “aig Bàsadair an iar Dhomhnuill Bhàin.” Tha tuath, deas, etc. a’ ciallachadh an àirde a ghabh na puill anns a’ bhuain.</description>
+    </item>
+    <item>
+      <headword id="d0e590">ainmeannan pholl mhonach</headword>
+      <description>Gle thric bidh ainm fhein air gach poll monach. Poll na lìrigean; Poll an fheadain; Poll Sloc a’ Bhodaich; Poll nan Starran (iad sin anns an Rudha.) Poll nan Craobh (An Nis ’s air na Lochan.) – bidh iad a’ tighinn air bunnan chraobh annta-san. Poll na Fala – air na Lochan – uisge dearg a’ ruith troimhe. Poll nan Cragan – ann an Dail-o-Dheas – bidh iad a’ tighinn air cragain criadhaidh is rudan eile aig doimhne trì fòid ann. Bha poll againn fhin anns an Rudha faisg air Sloc a’ Bhodaich ris an cainte Am Poll Uamharraidh. Tha e nis air ruith a mach.</description>
+    </item>
+	<item>
+	  <headword id="idola200">[biadh sgiobadh]</headword>
+	  <description>A’ deanamh a chruinneachaidh so thàinig bruidhinn againn air mar a bha facail a’ dol an ceann a cheile mar ‘afoin’ is ‘aflar’, agus thuirt aon gu robh aige fhein mun tairsgeir aon bhliadhna Douilian Dhomhnuill Alasdair Dhoiligean agus Iain Beag ’An Iain ’An Anaigean, agus gum b’e Iachaoil a bha leagail nan rùsg. B’e sin Domhnull Iain Dhomhnuill Alasdair Dhomhnuill Mhic Iain agus Iain Beag Iain Iain Iain Iain Mhic Iain, agus Iain Caol ri leagail. Thàinig tarraing againn cuideachd air biadh sgiobadh. An diugh ’se an ‘Duff’ a tha ri riaghladh. Thuirt fear – Lewis Moireach – gu robh ‘An Uallach a Cros aon bhliadhna is nach ruigeadh e air ceannachd ach aon lof airson sgiobadh ghillean. Bha pailteas buntàta aige dhaibh, ach bha e air a chur thuige ciamar a gheibheadh e air aon lof a roinn eadar na bha sud. Mu dheireadh thuirt e riu, “Suidibh, a bhalachaibh, ithibh; Am fear as motha a dh’itheas do bhuntàta, ’se as motha a gheibh dhan an lof.”</description>
+    </item>
+	<item>
+      <headword id="d0e608">stéidheadh</headword>
+      <description>Wall building the sides of a peat stack. No one here knows the English word for ‘stéidheadh’ if there is one. Tri seorsachan steidhidh: (a) Stéidheadh a’ gharraidh. (b) Fadan an taca r’a cheile air shiobhadh an aon taobh. (c) Steidheadh cnaimh a’ sgadain.
+        <illustration src="LionelJuniorSecondarymoineillust2.jpg" width="200"/>  
+        <illustration src="LionelJuniorSecondarymoineillust3.jpg" width="200"/> 
+        <illustration src="LionelJuniorSecondarymoineillust4.jpg" width="200"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e623">spoth a’ fad</headword>
+      <description>Cut the peat clean and neatly off the iron with a flick of the iron.</description>
+    </item>
+  </items>
+</fieldworkDocument>

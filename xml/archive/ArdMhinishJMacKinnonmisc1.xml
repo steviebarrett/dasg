@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 22 5 14 -->
+<fieldworkDocument docId="AOHenley_ArdMhinishJMacKinnonmisc1" docType="wordlist" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>[1988]</date>
+  <fieldworker personId="ohenleya">A. O’Henley</fieldworker>
+  <note>[NOTES: some notes in pencil most probably added by K. D. MacDonald. See below for details.]</note>
+  <informant>
+    <nameEnglish>John MacKinnon</nameEnglish>
+  </informant>
+  <location>Barra, Ard Mhinish</location>
+  <items>
+    <item>
+      <headword id="idp2517976">dè b’àilleamh</headword>
+      <description>pardon.</description>
+    </item>
+    <item>
+      <headword id="idp2521144">an caraidh</headword>
+      <description>referring to the movement of clouds. Could judge wind speeds according to this. “Ciamar a tha an caraidh an diugh.” [NOTES: note added in pencil: Eng. carry?]</description>
+    </item>
+    <item>
+      <headword id="idp2525752">rampair</headword>
+      <description>a halo round the moon.</description>
+    </item>
+    <item>
+      <headword id="idp2500408">murrachdair</headword>
+      <description>something of value which is cast ashore.</description>
+    </item>
+    <item>
+      <headword id="idp2499472">broillein</headword>
+      <description>a sore throat, affecting man and animal.</description>
+    </item>
+    <item>
+      <headword id="idp2497384">dalladh</headword>
+      <description>blinding. Treated with ground glass which was put in sheep’s eye. Broke up the film or cataract on the eye.</description>
+    </item>
+    <item>
+      <headword id="idp2495872">slamman</headword>
+      <description>spoonful of rennet added to milk and left to settle. Eaten as a sweet or blancmange.</description>
+    </item>
+    <item>
+      <headword id="idp2494216">air mhithairt</headword>
+      <description>leaving someone dissatisfied, e.g. with work which was not completed properly. “Bha e air fhàgail air mhithairt.”</description>
+    </item>
+    <item>
+      <headword id="idp2603736">eadar a làmh ’s an taobh</headword>
+      <description>something that emerges accidentally.</description>
+    </item>
+    <item>
+      <headword id="idp2605248">leud</headword>
+      <description>a strip of something, e.g. cloth.</description>
+    </item>
+    <item>
+      <headword id="idp2606760">Cha chuireadh e maide ’nam pàirt</headword>
+      <description>could not hold a candle to them.</description>
+    </item>
+    <item>
+      <headword id="idp2608272">sorchair</headword>
+      <description>to illuminate. “Shorchair thu sgeul dhomhsa.”</description>
+    </item>
+    <item>
+      <headword id="idp2610000">pràmh</headword>
+      <description>drowsy, dejected. “Aislig phràmh.”</description>
+    </item>
+    <item>
+      <headword id="idp2611728">faidhreann</headword>
+      <description>a love token.</description>
+    </item>
+    <item>
+      <headword id="idp2613240">beadradh</headword>
+      <description>love talk.</description>
+    </item>
+    <item>
+      <headword id="idp2614752">strathail</headword>
+      <description>noise as in something approaching the door of a house. “Chuala mi strathail mu’n dorus.”</description>
+    </item>
+  </items>
+</fieldworkDocument>
+

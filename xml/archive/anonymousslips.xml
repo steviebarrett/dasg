@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 5/8/15 -->
+<!-- illustrations -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_anonymousslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>[see below]</date>
+  <informant>
+    <nameEnglish>anonymous</nameEnglish>
+  </informant>
+  <location>[see below]</location>
+  <items>
+    <item>
+      <headword id="idp167330368">spéileag</headword>
+      <description>Quotation: Chaidh i ’na spéileagan dha’n iarmailt. Notes: ‘Small fragment’. Source: ? Date: 1975.</description>
+    </item>
+    <item>
+      <headword id="idp167333608">spìsneach</headword>
+      <description>Quotation: Am pòrach spìsneach nach dìbir. Notes: mighty pillar or prop. Source: ? Date: 1972.</description>
+    </item>
+    <item>
+      <headword id="idp167338360">stiallachd</headword>
+      <description>Quotation: ri stiallachd. Notes: a person who leads a ‘fast’ life.</description>
+    </item>
+    <item>
+      <headword id="idp167341456">trosdan</headword>
+      <description>Quotation: pl. trosdain. Notes: crutches. Source: ? Date: 20c.</description>
+    </item>
+    <item>
+      <headword id="idp167437648">làir ghlas</headword>
+      <description>Notes: falmar [sic] [fulmar?]. Source: Port Hood, Nova Scotia and Arisaig, Scotland. Date: 20c.</description>
+    </item>
+    <item>
+      <headword id="idp167439304">leiristeil</headword>
+      <description>Notes: lazy, lackadaisical, skittish. Source: Skye. Date: 20c.</description>
+    </item>
+    <item>
+      <headword id="idp167440960">luthasachadh</headword>
+      <description>Notes: ‘permission; licence’. Source: Argyll. Date: 20c.</description>
+    </item>
+    <item>
+      <headword id="idp167442616">pònaigeadh</headword>
+      <description>Notes: beautifying &lt; ‘bonny-ing’. Source: current in Uist/Skye. Date: 20c.</description>
+    </item>
+    <item>
+      <headword id="idp167444272">cungair</headword>
+      <description>Quotation: cungairean. Notes: ‘implements’. Source: S. Uist, Benbecula. Date: 20c.</description>
+    </item>
+    <item>
+      <headword id="idp167446072">turasg</headword>
+      <description>Notes: a saw.</description>
+    </item>
+    <item>
+      <headword id="idp167447584">usladh</headword>
+      <description>Quotation: Còir iasadach smeara nach usladh an gailleann. Notes: ’Se sin a bhith seachnadh.</description>
+    </item>
+    <item>
+      <headword id="idp167449312">aisling chonain</headword>
+      <description>Notes: an erotic dream. Date: 1972.</description>
+    </item>
+    <item>
+      <headword id="idp167450968">arnal</headword>
+      <description>Notes: Aite creagach.</description>
+    </item>
+    <item>
+      <headword id="idp167452480">balach</headword>
+      <description>Quotation: balach garrach. Notes: mischievous brat of a boy. Date: 12/1968.</description>
+    </item>
+    <item>
+      <headword id="idp167454280">balt</headword>
+      <description>Quotation: Tha balt a’ tighinn air an là. Notes: first sign of daybreak.</description>
+    </item>
+    <item>
+      <headword id="idp167455936">beàrnach</headword>
+      <description>Notes: gap-tooth. Date: 1971.</description>
+    </item>
+    <item>
+      <headword id="idp167457592">bualadh-sgeire</headword>
+      <description>Notes: The honour of winning in a rowing race. Originally going to Heisker to hunt seals. Date: 1972 [?].</description>
+    </item>
+    <item>
+      <headword id="idp117928560">cànranach</headword>
+      <description>Notes: applied to fretful child, moaning.</description>
+    </item>
+    <item>
+      <headword id="idp117930072">cioch</headword>
+      <description>[kiəx] Quotation: cioch a’ roth. Notes: </description>
+    </item>
+    <item>
+      <headword id="idp117931944">ciomach</headword>
+      <description>Notes: a prisoner.</description>
+    </item>
+    <item>
+      <headword id="idp117933456">cnàmhlach</headword>
+      <description>Quotation: Cnàmhlach mór duine. Notes: a big raw-boned man. Date: 1972.</description>
+    </item>
+    <item>
+      <headword id="idp117935256">cnàrrag</headword>
+      <description>Quotation: A’ ràmhadh a’ chnàrrag an aodann na gaoith. Notes: seòrsa eathair a bhiodh aca o chionn fada.</description>
+    </item>
+    <item>
+      <headword id="idp117936984">cnogan</headword>
+      <description>Notes: seòrsa deoch anns am bidhte a’ cur fuil a bhiodh na Lochlannaich ag òl a sligean creachain nuair a bhiodh iad ag adhradh do dh’Odain.</description>
+    </item>
+    <item>
+      <headword id="idp117938496">cnuacan</headword>
+      <description>Quotation: cnuacan or cruacan. Notes: (Valtos. With or without r sound in initial.) Rock or eminence rising from plain, sometimes covered [?] with grass. <illustration src="anonymousslipsillust2.jpg" width="400"/></description>
+    </item>
+    <item>
+      <headword id="idp117940152">coguill</headword>
+      <description>Quotation: Coguill an teine. Notes: replenish the fire.</description>
+    </item>
+    <item>
+      <headword id="idp117941808">coileach an teas</headword>
+      <description>Notes: when day is hot, and the heat shimmers, the illusion is called coileach an teas.</description>
+    </item>
+    <item>
+      <headword id="idp117943320">coirbeig</headword>
+      <description>Notes: geòla.</description>
+    </item>
+    <item>
+      <headword id="idp117944832">coras</headword>
+      <description>Quotation: Fhuair mi ’n coras an dé. Notes: “code”. Could apply to business or moral code.</description>
+    </item>
+    <item>
+      <headword id="idp117946560">dhachaidh</headword>
+      <description>Quotation: Feuch gun teid thu dhachaidh (mach) aig na h-orduighean. Notes: a mach no steach do àite.</description>
+    </item>
+    <item>
+      <headword id="idp117948216">di-theallaich</headword>
+      <description>Notes: thin red hot iron for making holes in sieve, etc. Source: Uist. Date: 20c.</description>
+    </item>
+    <item>
+      <headword id="idp117949944">duaithnidh</headword>
+      <description>Quotation: “Cha do thachair ni a riamh anns a bhaile seo cho duaithnidh.” – so disgraceful. Notes: Probably the same word as duaichnidh (horrible). In Wester Ross, the ch sound tends to be softened into th. Source: Wester Ross.</description>
+    </item>
+    <item>
+      <headword id="idp117951744">durga(nta)</headword>
+      <description>Notes: mu dhuine tha cruaidh na nàdar. Source: Uist? Date: 20c.</description>
+    </item>
+    <item>
+      <headword id="idp117953400">éisdeachd</headword>
+      <description>Quotation: Tha éisdeachd e ann. Notes: He is deaf. Source: Tiree (?).</description>
+    </item>
+    <item>
+      <headword id="idp117955200">famhair</headword>
+      <description>Quotation: Na biodh [fjuʔəs] agad ri famhair [fɛfəɾ] a nead dròlan. Notes: Don’t expect a giant out of a wren’s nest. [NOTES: RÓM: fɛfəɾ looks like an Islay form. Feb. 2012.]</description>
+    </item>
+    <item>
+      <headword id="idp117957864">faoghal</headword>
+      <description>Quotation: nam faoghlaichean cam, is nan aibhnichean caol.</description>
+    </item>
+    <item>
+      <headword id="idp117959448">fasdadh</headword>
+      <description>Notes: taking on a servant. Source: ?</description>
+    </item>
+    <item>
+      <headword id="idp117961104">fifeannach</headword>
+      <description>Quotation: Tha a’ chloinn [xw[oi]ṉ] gu math fifeannach [fifən̪əx]. Notes: nervousness, e.g. of children who are in an excited state. Possibly derived from ‘féitheach’. Used by Barra people. Source: Cape Breton. Date: 1967.</description>
+    </item>
+    <item>
+      <headword id="idp117963912">fionn</headword>
+      <description>Quotation: am fionn faoilidh. Notes: symbolic name for purity, white robe of innocence. Source: ?</description>
+    </item>
+    <item>
+      <headword id="idp117965784">fiurnagan</headword>
+      <description>Notes: sprightly young girls. Source: Uist. Date: 1972.</description>
+    </item>
+    <item>
+      <headword id="idp117967440">fo bhuirb</headword>
+      <description>Notes: state of mind when filled with bitterness on account of sorrow. Source: ? Date: 1972.</description>
+    </item>
+    <item>
+      <headword id="idp117969096">forais</headword>
+      <description>[ɸɔɾɑ˖ʃ] Quotation: forais air. Notes: news of.</description>
+    </item>
+    <item>
+      <headword id="idp117970968">fosgladh</headword>
+      <description>Quotation: pl. “fosglaidhean”. Notes: distant lightning. (Thunder not heard.)</description>
+    </item>
+    <item>
+      <headword id="idp117972624">fritheanach</headword>
+      <description>Notes: a lump which appears on face or hand as result of rubbing.</description>
+    </item>
+    <item>
+      <headword id="idp117974136">gainisg-gainntir</headword>
+      <description>Notes: am mana a bhiodh cionntaich a’ faicinn nuair a bhiodh iad an sàs.</description>
+    </item>
+    <item>
+      <headword id="idp117975648">gainntir</headword>
+      <description>Notes: a prison.</description>
+    </item>
+    <item>
+      <headword id="idp117977160">gairm</headword>
+      <description>Quotation: an gairm. Notes: proclamation of banns. Also “Bha iad air an gairm.”</description>
+    </item>
+    <item>
+      <headword id="idp117978888">gèadh</headword>
+      <description>Notes: sgioladh eadar na màsan (aig duine). Date: 1967.</description>
+    </item>
+    <item>
+      <headword id="idp117980544">glagach</headword>
+      <description>Notes: doddery. Date: 1971.</description>
+    </item>
+    <item>
+      <headword id="idp117982200">gob-saic</headword>
+      <description>[ɡobsɑiçc] Quotation: an gob-saic. Notes: the snipe.</description>
+    </item>
+    <item>
+      <headword id="idp117984072">greimichean</headword>
+      <description>Quotation: na greimichean [ɡɾɤmiçəṉ]. Notes: the large holes at the mouth of a creel where the “ithris” was tied. Source: D. A. MacQueen, Balgarva, Eochdar, South Uist [?]. Date: 02/1969.</description>
+    </item>
+    <item>
+      <headword id="idp117986088">[ɡ̊ã:məs]</headword>
+      <description>Notes: mould for making bullets. Used by Neil MacPhee, Sunamal, Benbecula. Mould he has dates back to Waterloo.</description>
+    </item>
+    <item>
+      <headword id="idp117987744">giofarnadh</headword>
+      <description>[ɉifəɹñəɣ] [?] Quotation: giofarnadh mu’n taigh. Notes: knocking about the house. Source: Sollas.</description>
+    </item>
+    <item>
+      <headword id="idp117989832">glut lìonadh</headword>
+      <description>Notes: packing between the two walls of black house.</description>
+    </item>
+    <item>
+      <headword id="idp117991344">gonsag</headword>
+      <description>[ɡ̊ɔnsaɡ̊], [ɡ̊ɔnsak] Notes: a small portion of any edible thing, particularly bread or meat. Source: Sollas, North Uist.</description>
+    </item>
+    <item>
+      <headword id="idp117993504">gruaigein</headword>
+      <description>Notes: seaweed. Source: from Iain Grant, Vallay, now Fodderty Lodge.</description>
+    </item>
+    <item>
+      <headword id="idp117995160">seól</headword>
+      <description>Notes: bung in boat. Source: N. Uist. Date: 20c.</description>
+    </item>
+    <item>
+      <headword id="idp117996816">buaball</headword>
+      <description>Notes: cow-stall. Source: Uist. Date: 20c.</description>
+    </item>
+    <item>
+      <headword id="idp117998472">colla-bhigean</headword>
+      <description>Notes: snare for birds. Source: Uist, Berneray. Date: 20c.</description>
+    </item>
+    <item>
+      <headword id="idp118000128">sgàig/sgàigeach</headword>
+      <description>Notes: revulsion, having a revulsion towards something. Source: Ness and Skye. Date: 1974.</description>
+    </item>
+    <item>
+      <headword id="idp118001784">sgeimpeil</headword>
+      <description>Notes: &lt; Eng scamp. Applied to precocious child, or self-willed female. Source: Ness. Date: 1974.</description>
+    </item>
+    <item>
+      <headword id="idp118003440">mìr-earraidh</headword>
+      <description>Notes: part of loom. See mill-earraidh. Source: South Lochs word for ‘mill-earraidh’.</description>
+    </item>
+    <item>
+      <headword id="idp118005096">rògach</headword>
+      <description>Quotation: Tha i fàs rògach. Notes: ‘coltas a’ gheamhraidh a’ tighinn oirre’. Source: North Uist, Barra usage. Date: 1988.</description>
+    </item>
+    <item>
+      <headword id="idp118006968">picket</headword>
+      <description>Quotation: aig picket. Notes: out courting. Source: Uist, Harris usage. Date: 1980.</description>
+    </item>
+    <item>
+      <headword id="idp118008768">point</headword>
+      <description>Quotation: aig point. Notes: out courting. Source: Harris usage. Date: 1980.</description>
+    </item>
+    <item>
+      <headword id="idp118010568">spùidear</headword>
+      <description>[spu̟:dʹɑr] Notes: landing-net. Source: Cowal. Date: 04/1968. [AJ Smith?]</description>
+    </item>
+    <item>
+      <headword id="idp118012224">cnuthag</headword>
+      <description>Notes: a knock with the knuckles. Source: Back, Lewis.</description>
+    </item>
+  </items>
+</fieldworkDocument>

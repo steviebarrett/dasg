@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 24 4 14 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="HarrisVarious_HarrisSgarastamhorFMacLeodmisc" docType="wordlist" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <fieldworker>[anonymous D]</fieldworker>
+  <note>[NOTES: three items credited to Morag MaKay from Scalpay.]</note>
+  <informant>
+    <nameEnglish>Flora MacLeod</nameEnglish>
+    <age>60</age>
+  </informant>
+  <location>Harris, Sgarastamhor</location>
+  <items>
+    <item>
+      <headword id="d0e30">craic fuilt</headword>
+      <description>mop of hair.</description>
+    </item>
+    <item>
+      <headword id="d0e39">athailt</headword>
+      <description>peat used as a torch and taken round the houses.</description>
+    </item>
+    <item>
+      <headword id="d0e48">seig</headword>
+      <description>makeshift bed made of hay.</description>
+    </item>
+    <item>
+      <headword id="d0e57">sibheag</headword>
+      <description>wick of lamp.</description>
+    </item>
+    <item>
+      <headword id="d0e66">bùican</headword>
+      <description>lowest setting of flame on a lamp, small amount of wick showing.</description>
+    </item>
+    <item>
+      <headword id="d0e75">laobhagan</headword>
+      <description>worn, shabby shoes – “laobhagan bhrògan”.</description>
+    </item>
+    <item>
+      <headword id="d0e84">lodraigan</headword>
+      <description>toddler.</description>
+    </item>
+    <item>
+      <headword id="d0e93">smeallamus</headword>
+      <description>a good thing of any description. “An cat a’ glanadh aodann is duil aige ri smeallamus.”</description>
+    </item>
+    <item>
+      <headword id="d0e102">cruaic</headword>
+      <description>a heap, above the level [?].</description>
+    </item>
+    <item>
+      <headword id="d0e111">am brod</headword>
+      <description>the best of something, choicest part.</description>
+    </item>
+    <item>
+      <headword id="d0e120">liath-luid</headword>
+      <description>a fool.</description>
+    </item>
+    <item>
+      <headword id="d0e129">pluthag</headword>
+      <description>a light smack.</description>
+    </item>
+    <item>
+      <headword id="d0e138">sguilleag</headword>
+      <description>a heavy smack.</description>
+    </item>
+    <item>
+      <headword id="d0e147">pais</headword>
+      <description>a heavier smack.</description>
+    </item>
+    <item>
+      <headword id="d0e156">plathairt</headword>
+      <description>a heavier smack.</description>
+    </item>
+    <item>
+      <headword id="d0e165">tumaraid</headword>
+      <description>a fat, round woman.</description>
+    </item>
+    <item>
+      <headword id="d0e174">òdagan</headword>
+      <description>fingers.</description>
+    </item>
+    <item>
+      <headword id="d0e183">cruinneach</headword>
+      <description>a large clumsy animal.</description>
+    </item>
+    <item>
+      <headword id="d0e192">stèr</headword>
+      <description>a smack.</description>
+    </item>
+    <item>
+      <headword id="d0e201">ìne dol am beo</headword>
+      <description>ingrowing toe-nail.</description>
+    </item>
+    <item>
+      <headword id="d0e210">“Cum do chlut!”</headword>
+      <description>what you would say if someone was about to hit you.</description>
+    </item>
+    <item>
+      <headword id="d0e219">dorran</headword>
+      <description>“Chuir e dorran orm.” – He antagonised me.</description>
+    </item>
+    <item>
+      <headword id="d0e228">comha thràth</headword>
+      <description>afternoon.</description>
+    </item>
+    <item>
+      <headword id="d0e237">air an uideal</headword>
+      <description>restless. Tha e air uideal - he is on tenterhooks.</description>
+    </item>
+    <item>
+      <headword id="d0e246">sunnag</headword>
+      <description>a seat made out of a barrel, found in the old houses.</description>
+    </item>
+    <item>
+      <headword id="d0e255">spearrach</headword>
+      <description>rope or string used to tie the legs of a hen to stop it scratching.</description>
+    </item>
+    <item>
+      <headword id="d0e264">cìrean</headword>
+      <description>cocks comb.</description>
+    </item>
+    <item>
+      <headword id="d0e273">feamainn chìrein</headword>
+      <description/>
+    </item>
+    <item>
+      <headword id="d0e281">feamainn bhuilgeach</headword>
+      <description>bladder wrack.</description>
+    </item>
+    <item>
+      <headword id="d0e290">a’ feamanadh</headword>
+      <description>spreading seaweed on the ground.</description>
+    </item>
+    <item>
+      <headword id="d0e299">feamainn anachasach</headword>
+      <description>seaweed cut from rocks.</description>
+    </item>
+    <item>
+      <headword id="d0e308">tallan</headword>
+      <description>wall between two rooms.</description>
+    </item>
+    <item>
+      <headword id="d0e317">cuiseag ruadh</headword>
+      <description>stem of dock plant.</description>
+    </item>
+    <item>
+      <headword id="d0e326">ceap bhrog</headword>
+      <description>shoe last.</description>
+    </item>
+    <item>
+      <headword id="d0e335">seadhal</headword>
+      <description>shawl.</description>
+    </item>
+    <item>
+      <headword id="d0e344">mogain</headword>
+      <description>ankle socks.</description>
+    </item>
+    <item>
+      <headword id="d0e353">badag ite</headword>
+      <description>feather duster, usually for cleaning stove.</description>
+    </item>
+    <item>
+      <headword id="d0e362">colmadh</headword>
+      <description>a mix of colours in tweed.</description>
+    </item>
+    <item>
+      <headword id="d0e371">ula-ruis</headword>
+      <description>fuss.</description>
+    </item>
+    <item>
+      <headword id="d0e380">gearaidh ochainn</headword>
+      <description>fuss.</description>
+    </item>
+    <item>
+      <headword id="d0e389">clàirg (n)</headword>
+      <description>face.</description>
+    </item>
+    <item>
+      <headword id="d0e398">staoic</headword>
+      <description>a chunk, a piece. “Cha do chaill thu staoic.”</description>
+    </item>
+    <item>
+      <headword id="d0e407">slearaich</headword>
+      <description>a lazy person, leisgeadair.</description>
+    </item>
+    <item>
+      <headword id="d0e416">lunnaiche</headword>
+      <description>a lazy person.</description>
+    </item>
+    <item>
+      <headword id="d0e425">manareach de thobhta</headword>
+      <description>last remains of a ruin.</description>
+    </item>
+    <item>
+      <headword id="d0e434">aithneachadh de</headword>
+      <description>a trace of something.</description>
+    </item>
+    <item>
+      <headword id="d0e443">lèpan</headword>
+      <description>wet, drenched person.</description>
+    </item>
+    <item>
+      <headword id="d0e452">cailleach bhearnach</headword>
+      <description>gap toothed woman. (Morag MacKay, Scalpay)</description>
+    </item>
+    <item>
+      <headword id="d0e461">ann an collaig</headword>
+      <description>in a hurry.</description>
+    </item>
+    <item>
+      <headword id="d0e470">ann an caochaile</headword>
+      <description>in a hurry.</description>
+    </item>
+    <item>
+      <headword id="d0e479">liadhba</headword>
+      <description>plot of potatoes, or piece of land where potatoes were once planted.</description>
+    </item>
+    <item>
+      <headword id="d0e488">sgùird</headword>
+      <description>long apron worn in fields and used for carrying.</description>
+    </item>
+    <item>
+      <headword id="d0e497">ultach (n)</headword>
+      <description>a bundle.</description>
+    </item>
+    <item>
+      <headword id="d0e506">geill</headword>
+      <description>a break on the skin.</description>
+    </item>
+    <item>
+      <headword id="d0e515">pràmh a chadail</headword>
+      <description>a nap.</description>
+    </item>
+    <item>
+      <headword id="d0e524">troc</headword>
+      <description>rubbish, used to describe anything of no good or use.</description>
+    </item>
+    <item>
+      <headword id="d0e533">a’ cuachail</headword>
+      <description>wandering round in circles. (Morag MacKay, Scalpay)</description>
+    </item>
+    <item>
+      <headword id="d0e542">ag ithealadh</headword>
+      <description>approaching something in a sly, covert way. “Cat ag ithealadh air luch” – a cat stalking a mouse.</description>
+    </item>
+    <item>
+      <headword id="d0e551">deathorra</headword>
+      <description>dark skinned. (Morag MacKay, Scalpay)</description>
+    </item>
+    <item>
+      <headword id="d0e560">ga bhùird as</headword>
+      <description>to change someone’s intention or opinion.</description>
+    </item>
+    <item>
+      <headword id="d0e569">eabar</headword>
+      <description>mire, i.e. that left by cows gathering at a gate.</description>
+    </item>
+    <item>
+      <headword id="d0e578">sglogaig</headword>
+      <description>a female (?).</description>
+    </item>
+    <item>
+      <headword id="d0e587">sglodaig</headword>
+      <description>a large gulp i.e. of water, whiskey etc.</description>
+    </item>
+    <item>
+      <headword id="d0e596">ceibheirt</headword>
+      <description>a stride.</description>
+    </item>
+    <item>
+      <headword id="d0e605">cèbhearan</headword>
+      <description>“Bha cèbhearan air” – he was slightly drunk.</description>
+    </item>
+    <item>
+      <headword id="d0e614">leibhseach</headword>
+      <description>Bha e leibhseach – it was very good.</description>
+    </item>
+    <item>
+      <headword id="d0e623">stumaidsear</headword>
+      <description>a container for coal.</description>
+    </item>
+    <item>
+      <headword id="d0e632">le gràgalas</headword>
+      <description>doing something against your will.</description>
+    </item>
+    <item>
+      <headword id="d0e641">alla</headword>
+      <description>attention.</description>
+    </item>
+    <item>
+      <headword id="d0e650">allamh</headword>
+      <description>Dean gu h-allamh e – do it immediately.</description>
+    </item>
+    <item>
+      <headword id="d0e659">brogach de bhalach</headword>
+      <description>balach tabaidh.</description>
+    </item>
+    <item>
+      <headword id="d0e668">gurg (n)</headword>
+      <description>a small child, pl. gurgs.</description>
+    </item>
+    <item>
+      <headword id="d0e677">follaig</headword>
+      <description>flour used to prevent dough sticking to board. (Also fallaig.)</description>
+    </item>
+	<item>
+      <headword id="d0e686">fallaig</headword>
+      <description>[See follaig.]</description>
+    </item>
+    <item>
+      <headword id="d0e695">Thoir an tigh gorm ort!</headword>
+      <description>get outside.</description>
+    </item>
+    <item>
+      <headword id="d0e704">splogaire</headword>
+      <description>an oily, sycophantic person.</description>
+    </item>
+    <item>
+      <headword id="d0e713">craic fuilt</headword>
+      <description>mop of hair. [NOTES: already quoted at the beginning.]</description>
+    </item>
+    <item>
+      <headword id="d0e722">cnuaic</headword>
+      <description>heap. [NOTES: already quoted at the beginning.]</description>
+    </item>
+    <item>
+      <headword id="d0e731">briathadh</headword>
+      <description/>
+    </item>
+    <item>
+      <headword id="d0e739">fàireachadh</headword>
+      <description>“Bha mi a fàireachadh air.” - I was seeing [sic] [looking?] at him without him seeing me.</description>
+    </item>
+    <item>
+      <headword id="d0e748">spiolaig</headword>
+      <description>balach crosda.</description>
+    </item>
+    <item>
+      <headword id="d0e757">coinnean</headword>
+      <description>paper taper for lighting fires.</description>
+    </item>
+    <item>
+      <headword id="d0e766">follag</headword>
+      <description>a lazy woman.</description>
+    </item>
+    <item>
+      <headword id="d0e775">tràthach</headword>
+      <description>the long grass found in peat bogs.</description>
+    </item>
+    <item>
+      <headword id="d0e784">catapurca</headword>
+      <description>“Cho ruighinn ris a chatapurca.”</description>
+    </item>
+    <item>
+      <headword id="d0e793">cama rec</headword>
+      <description>a nuisance of a person. “Rinn e cama rec dhe” – he spoilt it.</description>
+    </item>
+    <item>
+      <headword id="d0e802">gùirain</headword>
+      <description>sligean cruaidh a gheibhear air fiodh air an tràigh.</description>
+    </item>
+    <item>
+      <headword id="d0e811">murragan</headword>
+      <description>driftwood.</description>
+    </item>
+    <item>
+      <headword id="d0e820">sporran feannaig</headword>
+      <description>skate egg case.</description>
+    </item>
+    <item>
+      <headword id="d0e829">cnothaicean</headword>
+      <description>top shell.</description>
+    </item>
+    <item>
+      <headword id="d0e838">muir ceac</headword>
+      <description>jelly fish.</description>
+    </item>
+    <item>
+      <headword id="d0e847">frithasg</headword>
+      <description>bait cast out to attract fish.</description>
+    </item>
+    <item>
+      <headword id="d0e856">[maorach]</headword>
+      <description>“Dean maorach fhads a bhios an tràigh ann.”</description>
+    </item>
+    <item>
+      <headword id="d0e865">cnòdan</headword>
+      <description>gurnard.</description>
+    </item>
+    <item>
+      <headword id="d0e874">canntraidh</headword>
+      <description>neap tide.</description>
+    </item>
+    <item>
+      <headword id="d0e883">carcair</headword>
+      <description>mullach a phuill an deidh a fheannadh [?]: dubh, cruaidh.</description>
+    </item>
+    <item>
+      <headword id="d0e892">grabhag</headword>
+      <description>poll mònadh beag.</description>
+    </item>
+    <item>
+      <headword id="d0e901">[cruach]</headword>
+      <description>“Tha e nas glice cruach mhonadh a losgadh comhla ri duine mas pos thu e.”</description>
+    </item>
+    <item>
+      <headword id="d0e910">traille</headword>
+      <description>link (hake).</description>
+    </item>
+    <item>
+      <headword id="d0e919">[cat]</headword>
+      <description>“S ann dhut a rug an cat an cuilean” – good luck has come to you.</description>
+    </item>
+    <item>
+      <headword id="d0e928">caoin</headword>
+      <description>describes a mild taste in food.</description>
+    </item>
+    <item>
+      <headword id="d0e937">nasg</headword>
+      <description>a thin film.</description>
+    </item>
+    <item>
+      <headword id="d0e946">ag eileabanach</headword>
+      <description>teasing.</description>
+    </item>
+    <item>
+      <headword id="d0e955">duine cuiradeach</headword>
+      <description>a bright cheery person.</description>
+    </item>
+    <item>
+      <headword id="d0e964">“Tha cumail ris aige”</headword>
+      <description>he has stamina.</description>
+    </item>
+    <item>
+      <headword id="d0e973">gorraisg</headword>
+      <description>a silly woman.</description>
+    </item>
+    <item>
+      <headword id="d0e982">leth-cheannach</headword>
+      <description>a half-wit.</description>
+    </item>
+    <item>
+      <headword id="d0e991">stobairneach</headword>
+      <description>duine bragail.</description>
+    </item>
+    <item>
+      <headword id="d0e1000">flothagan</headword>
+      <description>smut, little black pieces of coal.</description>
+    </item>
+  </items>
+</fieldworkDocument>

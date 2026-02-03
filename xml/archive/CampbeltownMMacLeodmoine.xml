@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 23 4 13 -->
+<fieldworkDocument docId="Peat_CampbeltownMMacLeodmoine" docType="questionnaire" subType="Peat">
+  <title>Mòine / Peat-Working</title>
+  <fieldworker>[self]</fieldworker>
+  <note>[NOTES: the informant uses ‘mòr’ / ‘beag’ or ‘mhòr’ / ‘bheag’ to show the gender of the noun. They have been replaced with ‘masc.’ and ‘fem.’ respectively.]</note>
+  <informant>
+    <nameEnglish>Murdo MacLeod</nameEnglish>
+    <nameGaelic>Murchadh MacLeòid </nameGaelic>
+    <age>59</age>
+  </informant>
+  <location>Cinntire, An Ceann a Deas [Kintyre, Southend by Campbeltown]</location>
+  <!-- ILLUSTRATIONS -->
+  <items>
+    <item><headword id="d0e34" type="heading" level="h1">1. Ag ullachadh na talmhainn airson mòine a bhuain</headword></item>
+    <item>
+      <headword id="d0e39">poll mònadh</headword>
+      <description>peat bank.</description>
+    </item>
+    <item>
+      <headword id="d0e48">’rùsgadh</headword>
+      <description>cutting the top layer of turf.</description>
+    </item>
+    <item>
+      <headword id="d0e57">rodaigeadh</headword>
+      <description>cutting a straight line with a spade, marking the breadth of turf to be taken off.</description>
+    </item>
+    <item>
+      <headword id="d0e66">fèannadh</headword>
+      <description>cutting underneath the turf.</description>
+    </item>
+    <item>
+      <headword id="d0e75">ceap ()</headword>
+      <description>[masc.] a piece of turf usually three spades’ breadth wide by one across by one in depth. 
+        
+      </description>
+    </item>
+    <item>
+      <headword id="d0e86">a’ càradh nan ceap</headword>
+      <description>laying the turf neatly grassy side up inside the peat bank. This arrangement actually improves the growth of grass.</description>
+    </item>
+    <item><headword id="d0e94" type="heading" level="h1">2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</headword></item>
+    <item>
+      <headword id="d0e99">teireisgeir ()</headword>
+      <description>[masc.] peat iron. Has three main parts: ‘iarunn’ i.e. the blade; ‘cas’ i.e. handle and ‘smeachan’ i.e. foot-rest, for the right foot (a chas dheas) to press the implement down.
+	  
+	  </description>
+    </item>
+    <item>
+      <headword id="d0e110">an carcaire</headword>
+      <description>the part of the peat bank with the turf removed, i.e. the part to be cut. 
+        <illustration src="CampbeltownMMacLeodmoineillust3.jpg" width="400"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e121">am barrad (am barr fhad)</headword>
+      <description>the top peat, i.e. the first layer to be cut.</description>
+    </item>
+    <item>
+      <headword id="d0e130">an corrod</headword>
+      <description>the very fist peat cut. As it comes out of the face of the ‘carcaire’ [q.v.] the outside has been exposed to the elements since the last cutting the previous year. Consequently it is not so good and sometimes discarded (Tha e chòrr.)</description>
+    </item>
+    <item>
+      <headword id="d0e139">an caoran</headword>
+      <description>the last layer of peat; or the bottom layer, usually of less depth than the ones above it; generally hard and black. ‘Iarraidh an caoran-dubh a gharadh mu’n gar e fhein càch.’</description>
+    </item>
+    <item>
+      <headword id="d0e148">mòine dhubh</headword>
+      <description>always hard, good quality.</description>
+    </item>
+    <item>
+      <headword id="d0e157">moine bhan</headword>
+      <description>usually soft, light and not so good. (The word used in Kintyre to describe this kind of peat is ‘phozy’.)</description>
+    </item>
+    <item>
+      <headword id="d0e166">moine dhonn</headword>
+      <description>good quality, not brittle.</description>
+    </item>
+    <item>
+      <headword id="d0e175">moine chòsach bhàn</headword>
+      <description>light and ‘phozy’, not good.</description>
+    </item>
+    <item>
+      <headword id="d0e184">moine phlòiteanach</headword>
+      <description>light and ‘phozy’, not good.</description>
+    </item>
+    <item>
+      <headword id="d0e193">plòitean</headword>
+      <description>fibry, brown material in peat. Pockets of it are sometimes found in quite hard peat. It used to be smoked in home-made pipes by boys. The pipes were either made of potato hollowed out with a stem of ‘cuiseag’ (docken plant) or of a section from a cabbage stem (the tough part above the ground was best) with the ‘cuiseag’ stem: piob phuntàt and piob chàil.</description>
+    </item>
+    <item><headword id="d0e201" type="heading" level="h1">3. A’ tiormachadh na mònach</headword></item>
+    <item>
+      <headword id="d0e206">rùdhadh</headword>
+      <description>setting the peats up on end in groups of five or six, with one peat flat over the top of the others, like a ‘crom-lech’ to ward off the rain, a kind of cap. Each group is a ‘rùdhan’. This is called ‘fittin’’ the peats in Kintyre. A lady from Shetland visiting recently used this term fittin’ – probably from ‘footing’.</description>
+    </item>
+    <item>
+      <headword id="d0e215">cruachadh</headword>
+	  <description>fairly big heaps of peat after drying off in the ‘rùdhan’.</description>
+    </item>
+    <item>
+      <headword id="d0e224">cruach mhor</headword>
+      <description>[See cruachadh]</description>
+    </item>
+    <item>
+      <headword id="d0e233">cruach stéidhidh</headword>
+      <description>a very big heap of peats with the outside layer carefully built, one peat overlapping another like slates of a house, to ward off the rain. When a year’s supply is carted home, it is finished off in this manner, although some people favour the ‘side on’ method of ‘stéidheadh’, e.g.
+	  <illustration src="CampbeltownMMacLeodmoineillust4.jpg" width="200"/>
+	  </description>
+    </item>
+    <item>
+      <headword id="d0e244">tughadh</headword>
+      <description>covering the stacks with turf for the winter. The turf is the ‘cip’ (ceap, Sing.; cip, Plural) cut off the ‘carcaire’ [q.v.] and fairly dry; used grass-side in, i.e. next the peats. Tha a’ mhòine a’ tiormachadh anns a’ chruaich. Cha bhithear a tuthadh [sic] nan cruach gu bith mhoine an ìre mhath tioram. Tha i n uairsin ‘fo laidh’ [q.v.] airson a Gheamhraidh.</description>
+    </item>
+    <item>
+      <headword id="d0e253">fo laidh</headword>
+      <description>safe under cover. This may be a Lewis expression. It rhymes with ‘tigh’ as pronounced in Lewis. The ‘l’ is single as in ‘loch’. I’m not at all sure of the spelling.</description>
+    </item>
+    <item><headword id="d0e261" type="heading" level="h1">4. A’ cruachadh na mònach</headword></item>
+    <item><headword id="d0e265" type="heading" level="h1">5. A’ toirt na mònach dhachaigh; an cliabh, etc.</headword></item>
+    <item>
+      <headword id="d0e270">cliabh</headword>
+      <description>
+        <illustration src="CampbeltownMMacLeodmoineillust5.jpg" width="400"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e281">iris</headword>
+      <description>
+        <illustration src="CampbeltownMMacLeodmoineillust5.jpg" width="400"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e292">briagan</headword>
+      <description>
+        <illustration src="CampbeltownMMacLeodmoineillust5.jpg" width="400"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e303">sprid (spridean)</headword>
+      <description>[fem.], [pl.] the end of the ‘iris’ [q.v.] fitted over the ‘sprid’. This kept the ‘iris’ from pulling out.</description>
+    </item>
+    <item>
+      <headword id="d0e312">bachalaibh (pronounced bachaloo)</headword>
+      <description>a small creel.</description>
+    </item>
+    <item>
+      <headword id="d0e321">dronnag</headword>
+      <description>a coarse skirt which was rolled up round the waist and arranged as a cushion below the creel. This ‘cushion’ was the ‘dronnag’. The skirt was ‘còta-dronnaig’.</description>
+    </item>
+    <item>
+      <headword id="d0e330">cuaran ()</headword>
+      <description>[masc.] stockings with thick soles of cloth, or perhaps socks folded up, sewn on. Worn by the women.</description>
+    </item>
+    <item>
+      <headword id="d0e339">osan ()</headword>
+      <description>[masc.] stocking with the sole cut off, leaving the top of the foot on. This top part was kept in place by means of a loop of woollen thread (many threads twisted together) which fitted over the two middle toes.</description>
+    </item>
+    <item>
+      <headword id="d0e348">cabar</headword>
+      <description>when a new creel was being made, the stakes (of willow) were called ‘cabair’. Cabair a’ chleibh.</description>
+    </item>
+    <item>
+      <headword id="d0e357">caol</headword>
+      <description>willow.</description>
+    </item>
+    <item>
+      <headword id="d0e366">caol-fighe</headword>
+      <description>willow for weaving the sides of a creel or basket.</description>
+    </item>
+    <item>
+      <headword id="d0e375">caol-dubh</headword>
+      <description>[willow] found growing wild. Sometimes used [for weaving the sides of a creel or basket] when there was no other.</description>
+    </item>
+    <item>
+      <headword id="d0e384">ceap or ceap cleibh</headword>
+      <description>a square frame with holes to hold the ‘cabair’ [q.v.] when making a creel.</description>
+    </item>
+    <item>
+      <headword id="d0e393">ceap-iarainn</headword>
+      <description>cobbler’s last.</description>
+    </item>
+    <item>
+      <headword id="d0e402">ceap starra</headword>
+      <description>a cross piece of wood at the door as one came in. It was underfoot.</description>
+    </item>
+    <item>
+      <headword id="d0e411">ceap-mullaich</headword>
+      <description>topmost turf. To go one better than anyone else. Chuir thu ceap mullaich orra.</description>
+    </item>
+	<item>
+	  <headword id="idola193">[note]</headword>
+	  <description>(Sorry for the digression and not keeping to the strict headings of the faclan.)</description>
+	</item>
+    <item><headword id="d0e428" type="heading" level="h1">6. Seòrsachan mònach</headword></item>
+    <item><headword id="d0e432" type="heading" level="h1">7. Faclan eile</headword></item>
+  </items>
+</fieldworkDocument>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 3 5 13 -->
+<fieldworkDocument docId="Canada_CanadaMacKayetalgames" docType="questionnaire" subType="RecreationToysGamesContests">
+  <title>Cur-seachadan: Dèideagan, Geamaichean is Farpaisean / Recreation: Toys, Games, Contests</title>
+  <date>[1969]</date>
+  <fieldworker>Susan Norwood</fieldworker>
+  <informant>
+    <nameEnglish>James MacKay</nameEnglish>
+    <origin>([Canada], Inverness Co., [Lochaber])</origin>
+  </informant>
+  <informant>
+    <nameEnglish>Alec Beaton</nameEnglish>
+    <origin>([Canada], Inverness Co.)</origin>
+  </informant>
+  <informant informantId="SJMacKinnon">
+    <nameEnglish>S.J. MacKinnon</nameEnglish>
+    <origin>([Canada], Inverness Co.)</origin>
+  </informant>
+  <location>Canada</location>
+     <note>[NOTES: two words provided by S.J. MacKinnon (Lochaber, Inverness Co.).]</note>
+  <items>
+    <item><headword id="d0e47" type="heading" level="h1">1. Toys</headword></item>
+    <item><headword id="d0e51" type="heading" level="h1">2. Swings, sea-saws etc.</headword></item>
+    <item>
+      <headword id="d0e56">dreallag</headword>
+      <description>swing.</description>
+    </item>
+    <item><headword id="d0e64" type="heading" level="h1">3. Games played indoors</headword></item>
+    <item>
+      <headword id="d0e69">dallan-dà</headword>
+      <description>blind-man’s-buff.</description>
+    </item>
+    <item>
+      <headword id="d0e78">falach-fead</headword>
+      <description>hide-and-go-seek.</description>
+    </item>
+    <item><headword id="d0e86" type="heading" level="h1">4. Outdoor games not involving a ball or puck</headword></item>
+    <item>
+      <headword id="d0e91">sgiobag</headword>
+      <description>tag.</description>
+    </item>
+    <item><headword id="d0e99" type="heading" level="h1">5. Ball games</headword></item>
+    <item><headword id="d0e103" type="heading" level="h1">6. Athletics</headword></item>
+    <item>
+      <headword id="d0e108">leum fhada</headword>
+      <description>long jump.</description>
+    </item>
+    <item>
+      <headword id="d0e117">leum fada</headword>
+      <description>long jump. (Lochaber)</description>
+    </item>
+    <item>
+      <headword id="d0e126">leum àrd</headword>
+      <description>high jump.</description>
+    </item>
+    <item>
+      <headword id="d0e135">leum roid</headword>
+      <description>hop, step, and jump.</description>
+    </item>
+    <item>
+      <headword id="d0e144">car-a-mhuilteim</headword>
+      <description>[sic] somersault.</description>
+    </item>
+    <item><headword id="d0e152" type="heading" level="h1">7. Heavy events</headword></item>
+    <item>
+      <headword id="d0e157">ceitheamh na chloiche</headword>
+      <description>stone-throwing.</description> 
+    </item>
+    <item>
+      <headword id="d0e166">ceitheamh na uird</headword>
+      <description>hammer-throwing.</description> 
+    </item>
+    <item>
+      <headword id="d0e175">ceitheamh na chabair</headword>
+      <description>caber-throwing.</description> 
+    </item>
+    <item><headword id="d0e183" type="heading" level="h1">8. Contests involving pulling or pushing</headword></item>
+    <item informant="SJMacKinnon">
+      <headword id="d0e188">bata-leisg</headword>
+      <description>lazy-stick. (S.J. MacKinnon)</description>
+    </item>
+    <item>
+      <headword id="d0e197">maide-leisg</headword>
+      <description>lazy-stick.</description>
+    </item>
+    <item><headword id="d0e205" type="heading" level="h1">9. Boxing and wrestling</headword></item>
+    <item informant="SJMacKinnon">
+      <headword id="d0e210">carachd</headword>
+      <description>wrestling. (S.J. M[a]cK[innon])</description>
+    </item>
+    <item>
+      <headword id="d0e219">gleachd</headword>
+      <description>wrestling. (Lochaber)</description>
+    </item>
+    <item>
+      <headword id="d0e228">cuir an tripidh</headword>
+      <description>tripping.</description>
+    </item>
+    <item>
+      <headword id="d0e237">breab</headword>
+      <description>kick.</description>
+    </item>
+    <item>
+      <headword id="d0e246">ùbag</headword>
+      <description>a shove or push with the elbow.</description>
+    </item>
+    <item><headword id="d0e254" type="heading" level="h1">10. Blows in general</headword></item>
+    <item>
+      <headword id="d0e259">ùbag</headword>
+      <description>shove or push with the elbow.</description>
+    </item>
+    <item><headword id="d0e267" type="heading" level="h1">11. Injury and exhaustion</headword></item>
+    <item>
+      <headword id="d0e272">fallus</headword>
+      <description>sweating.</description>
+    </item>
+    <item>
+      <headword id="d0e281">sgrobadh</headword>
+      <description>scratching, scraping.</description>
+    </item>
+    <item>
+      <headword id="d0e290">sgriob</headword>
+      <description>scrape.</description>
+    </item>
+    <item>
+      <headword id="d0e299">athailt</headword>
+      <description>scar.</description>
+    </item>
+    <item>
+      <headword id="d0e308">siocadh</headword>
+      <description>sprain.</description>
+    </item>
+    <item>
+      <headword id="d0e317">cas mu seach</headword>
+      <description>(foot-about) falling from weakness.</description>
+    </item>
+    <item>
+      <headword id="d0e326">nealachadh</headword>
+      <description>fainting.</description>
+    </item>
+  </items>
+</fieldworkDocument>

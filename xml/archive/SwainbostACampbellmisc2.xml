@@ -1,0 +1,936 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 11 9 14 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="AJSmith_SwainbostACampbellmisc2" docType="wordlist" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>December 1972</date>
+  <fieldworker>A. J. Smith</fieldworker>
+  <note>[NOTES: in IPA transcriptions, the fieldworker uses [w] for [ɯ].]</note>
+
+  <informant>
+    <nameEnglish>Angus Campbell</nameEnglish>
+    <origin>Swainbost</origin>
+  </informant>
+  <location>[Lewis], Ness, Swainbost</location>
+  <items>
+    <item>
+      <headword id="idp121012896">gàgaire</headword>
+      <description>[ɡɑ:ɡəðə] Note: duine spàgach, laobhach.</description>
+    </item>
+    <item>
+      <headword id="idp121011168">gaothan</headword>
+      <description>Quot.: “Gaothan nach dubh grian ’s nach geal uisge”. Note: Tha e air a ghaothach le nithean falamh faoin.</description>
+    </item>
+    <item>
+      <headword id="idp121008360">gàrlach</headword>
+      <description>[ɡɑ:rɫɑx] Note: balach beag bragail. Duine fo thàir is dimeas aig iosal is uasal.</description>
+    </item>
+    <item>
+      <headword id="idp121007640">gasan</headword>
+      <description>[ɡɑsɑṉ] Quot.: “Gasan balaich air nach laigh sgìos”. Note: balach tiugh, tapaidh.</description>
+    </item>
+    <item>
+      <headword id="idp121005120">geòcaire</headword>
+      <description>[ɡʹɔ:kəðə] Note: glaimsear (greedy person).</description>
+    </item>
+    <item>
+      <headword id="idp121003896">gidheaman</headword>
+      <description>[ˈɡʹıəmɑṉ] Quot.: “Gidheaman do-riaraichte gun rian a shàsachadh”. Note: Bithidh e a ghnath ri gearan.</description>
+    </item>
+    <item>
+      <headword id="idp121001952">giobalan</headword>
+      <description>Quot.: “Giobalan riasach, fiasagach, peallagach; na teirig eadar e ’s a’ ghaoith”, “fiunnach, bàrlagach” (ragged).</description>
+    </item>
+    <item>
+      <headword id="idp121000296">geonachair</headword>
+      <description>[ˈɡʹɔ̃ṉɔxəð] Note: duine loinneil, cìocrach, gleidhteach. “B’furasda dhuit an t-ìm a thoirt a iongnan a’ chait.”</description>
+    </item>
+    <item>
+      <headword id="idp120998496">glaimsear</headword>
+      <description>Quot.: “Cuimhnichidh an glaimsear air a’ chù nuair a bhios a bhrùgh fhéin làn.”</description>
+    </item>
+    <item>
+      <headword id="idp120996408">glogaid</headword>
+      <description>[ɡɫɔɡɑdʹ] Note: faoin, diomhainn, slaodach (duine).</description>
+    </item>
+    <item>
+      <headword id="idp120994968">leòcaid</headword>
+      <description>[lʹɔ:kɑdʹ] Note: “Boirionnach fuar-chràbhach, iorramach, a’ falbh òrduighean.”</description>
+    </item>
+    <item>
+      <headword id="idp120992808">glocaire</headword>
+      <description>[ɡɫɔkəðə] Quot.: “Fear a’ ghloc-ghàire chumadh fàrdaich ann a’ fonn.”</description>
+    </item>
+    <item>
+      <headword id="idp120991728">gloic</headword>
+      <description>[ɡɫɔic] Note: “Gloic bhochd; chaneil cothrom aic air a h-òinsealachd.” Òinseach.</description>
+    </item>
+    <item>
+      <headword id="idp120989928">gnùigean</headword>
+      <description>[ɡɾũ̟:ɡʹɑṉ] Note: fear gruamach, smalanach. Quot.: Tha gnùig air a chuireadh geimh air na famhairean.</description>
+    </item>
+    <item>
+      <headword id="idp120988056">gobag</headword>
+      <description>Quot.: “Gobag mhosach a chuireadh na dubhan air na dathan.”</description>
+    </item>
+    <item>
+      <headword id="idp120985608">gocaman</headword>
+      <description>Quot.: “Thoir do chasan leat ’s na bi sin na do ghocaman a’ faire air bial dhaoine.” Note: fear-faire.</description>
+    </item>
+    <item>
+      <headword id="idp120983304">luiriste</headword>
+      <description>[ɫu̜ɾiʃtʹ] Note: “Te chaol àrd gun aille gun dreach ’s gun rath air a h-obair.”</description>
+    </item>
+    <item>
+      <headword id="idp120981360">luthaiste</headword>
+      <description>[ˈɫu̜iʃtʹə] Note: “Ceann faoin air am bi daoine ag abhacas.”</description>
+    </item>
+    <item>
+      <headword id="idp120979488">lunndair</headword>
+      <description>[ɫɤu̜n̪d̪ɑð] Note: Duine gun stàth gu cail a chur air adhart. “Theid aithris dhan chléir mu d’ lunndaireachd” – aoir.</description>
+    </item>
+    <item>
+      <headword id="idp120977832">mabair</headword>
+      <description>Quot.: “Mabair nach cuir tuath ri tàth.” Note: duine glugach, manntach.</description>
+    </item>
+    <item>
+      <headword id="idp120976104">mac-mallachd</headword>
+      <description>Quot.: “Tha thu cho briagach/deamhnaidh/cuilbheartach ris a’ mhac-mhallachd.”</description>
+    </item>
+    <item>
+      <headword id="idp120974952">màigean</headword>
+      <description>Note: duine beag, reamhar, gobhalach ’na choiseachd.</description>
+    </item>
+    <item>
+      <headword id="idp120973728">màldag</headword>
+      <description>Note: te chiùin, bhanail, stuama.</description>
+    </item>
+    <item>
+      <headword id="idp120972144">maolan</headword>
+      <description>[mw̃:ɫɑṉ] Note: (1) duine gun fhalt. (2) duine beag tuigse – cho maol ’s gun tugadh tu thaobh e le briob.</description>
+    </item>
+    <item>
+      <headword id="idp120969624">maoiseag</headword>
+      <description>[mw̃:ʃɑɡ] Quot.: Maoiseag ghrannda nach toir càil dhuit ach droch bhial. Note: te bhreun bhuaireasach.</description>
+    </item>
+    <item>
+      <headword id="idp120968040">màsair</headword>
+      <description>Note: tòiceach, tiugh, cruinn mu na cruachainnean (duine).</description>
+    </item>
+    <item>
+      <headword id="idp120965592">meaban</headword>
+      <description>Quot.: meaban balaich. Note: duine gun seadh.</description>
+    </item>
+    <item>
+      <headword id="idp120965232">mealltair</headword>
+      <description>Quot.: “Mealltair na truaighe, ’s mairg a latha dh’fhuaraicheas a chasan.” Note: “fear cealgach, foilleil, carach”.</description>
+    </item>
+    <item>
+      <headword id="idp120963216">meigeallan</headword>
+      <description>[mɛ̃ɡʹəɫɑṉ] Note: “Fear nach ìslich a ghuth, nach cothromaich a chainnt, nach cuir sreang ri theanga.”</description>
+    </item>
+    <item>
+      <headword id="idp120960624">mobag</headword>
+      <description>Note: te le falt carachdach, cràichdeach.</description>
+    </item>
+    <item>
+      <headword id="idp120958608">moigean</headword>
+      <description>Note: duine beag, tiugh, aighearrach, mear.</description>
+    </item>
+    <item>
+      <headword id="idp120957816">mosan</headword>
+      <description>Note: duine mosach, breun mi-thlachdmhor.</description>
+    </item>
+    <item>
+      <headword id="idp120956304">mùigeag</headword>
+      <description>Note: te thùchach a bhios a’ bruidhinn troimh sròin.</description>
+    </item>
+    <item>
+      <headword id="idp120954864">mùigean</headword>
+      <description>Quot.: “Cho muigeach [sic] ri cù le cnaimh.” Note: nuaranta, gruamach, mi-mhodhail. </description>
+    </item>
+    <item>
+      <headword id="idp120951840">mùircean</headword>
+      <description>[mũ̟:ɾcɑṉ] Quot.: “Mùircean greannach air nach laigh an gàire.” Note: same as mùigean [q.v.].</description>
+    </item>
+    <item>
+      <headword id="idp120950400">mùirneag</headword>
+      <description>Quot.: Mùirneag ghrinn a chuireadh aoidh air a’ chuideachd. Note: te aoigheil, stuama, blàth-chridheil.</description>
+    </item>
+    <item>
+      <headword id="idp115927472">mùsgaire</headword>
+      <description>Note: duine gruamach.</description>
+    </item>
+    <item>
+      <headword id="idp115928984">miaraide</headword>
+      <description>[mĩɑ̃rɑdʹ] Note: duine caol, bochd gun càil dha biadh.</description>
+    </item>
+    <item>
+      <headword id="idp115930712">miodalan</headword>
+      <description>[mĩd̪əɫɑṉ] Note: duine da-bhialach, leam-leat.</description>
+    </item>
+    <item>
+      <headword id="idp115932440">òlach</headword>
+      <description>Note: a’ ciallachadh caochladh nithean. “Chan e an deagh/an droch òlach a th’ann dheth.”</description>
+    </item>
+    <item>
+      <headword id="idp115934240">otharlaid</headword>
+      <description>[ɔhərɫɑdʹ] Note: te chràbhach, gun ghean gun ghaire – mar “leòcaid” [q.v.].</description>
+    </item>
+    <item>
+      <headword id="idp115935968">portan-tuathail</headword>
+      <description>Note: (hermit crab); truaghan a’ phòs te airson a cuid. “B’fheàrr am portan-tuathail na bhi gun fear-tighe.” (?)</description>
+    </item>
+    <item>
+      <headword id="idp115937696">peallag</headword>
+      <description>Note: te phiullach, mì-sgiobalta.</description>
+    </item>
+    <item>
+      <headword id="idp115939208">péilistear</headword>
+      <description>[pe:ləst̪ɑð] Note: féineil, bragail, leamh, tarsuinn (cross).</description>
+    </item>
+    <item>
+      <headword id="idp115940936">piantaich</headword>
+      <description>Note: fear a tha a ghnath a’ sàs. Quot.: Piantaich bochd nach gabh air a shocair e.</description>
+    </item>
+    <item>
+      <headword id="idp115943528">pìochan</headword>
+      <description>Note: wheeze in the chest.</description>
+    </item>
+    <item>
+      <headword id="idp115945040">pioghaid</headword>
+      <description>Quot.: “Pioghaid gun nàire nach teid tàmh air a bial.” Note: te bhriathrach, chabach.</description>
+    </item>
+    <item>
+      <headword id="idp115946840">plamaiceir</headword>
+      <description>[pɫɑ̃mɑcəð] Note: fear nach cuir ’s nach dean càil ceart.</description>
+    </item>
+    <item>
+      <headword id="idp115948568">spliodhair</headword>
+      <description>[splwɣəð] Note: fear le casan cama góbhlach.</description>
+    </item>
+    <item>
+      <headword id="idp115950296">plìotair</headword>
+      <description>[pli:t̪əð] Quot.: “Am plìotair nach sìn a lamh ach gu càch a shuathadh ’s a thachais.” Note: duine gun duinealas.</description>
+    </item>
+    <item>
+      <headword id="idp115952240">plòiceag</headword>
+      <description>Quot.: “Plòiceag bheag thiugh air am bheil buil na fiacail.” Note: te bheag, thiugh, chruinn.</description>
+    </item>
+    <item>
+      <headword id="idp115953968">plòicean</headword>
+      <description>Note: balach gu spreadhadh na chraicionn. (Also plòiceag (fem).)</description>
+    </item>
+    <item>
+      <headword id="idp115955480">pròisean</headword>
+      <description>Note: fear làn féin-uaill.</description>
+    </item>
+    <item>
+      <headword id="idp115956992">rabhdair</headword>
+      <description>Quot.: “Rabhdair bochd gun mhath gun lochd nach bi na thosd.” Note: fear a bhios ri cainnt gun bhun gun bhàrr.</description>
+    </item>
+    <item>
+      <headword id="idp115958720">racaid</headword>
+      <description>Note: Far am bi racaid, bitheadh amaideas, an-dòigh is buaireadh.</description>
+    </item>
+    <item>
+      <headword id="idp119124648">racair</headword>
+      <description>[See racaid.]</description>
+    </item>
+    <item>
+      <headword id="idp119133072">raipleach</headword>
+      <description>[rɛpɫɑx] Note: te mhì-sgiobalt luideach. Chaneil nì a ni raipleach nach toir i a dreach fhéin air.</description>
+    </item>
+    <item>
+      <headword id="idp119136168">ramachdair</headword>
+      <description>Note: a’ toirt ramachdadh air a chlann-nighean. Gaothan blobhdach an-fhoiseil.</description>
+    </item>
+    <item>
+      <headword id="idp119122200">rapair</headword>
+      <description>Note: fear nach cuir loinn air e fhéin na air càil a nì e.</description>
+    </item>
+    <item>
+      <headword id="idp119129472">righestair</headword>
+      <description>[sic] [ˈrĩəst̪ɑð] Note: fear a bhios dha shìneadh fhéin le snòtaireachd air eagal gun teid cail ann an-fhios dha.</description>
+    </item>
+    <item>
+      <headword id="idp119102400">robag</headword>
+      <description>Note: pàisde nighinn tlachdmhór, laghach, gasda na dòigh.</description>
+    </item>
+    <item>
+      <headword id="idp119115720">rongair</headword>
+      <description>Note: fear leanmhainn snàigeach.</description>
+    </item>
+    <item>
+      <headword id="idp119133432">ròpair</headword>
+      <description>Note: fear luideach, salach, a bhios ag aithris air na chì agus na chluinneas e thall ’s a bhos.</description>
+    </item>
+    <item>
+      <headword id="idp118796544">ruagaire</headword>
+      <description>[ruɤɡəðə] Quot.: “Ruagaire balaich nach stad gu anmoch.” Note: gille a bhiodh a’ ruith a’ sud ’s a seo.</description>
+    </item>
+    <item>
+      <headword id="idp118812528">ruapaiseach</headword>
+      <description>[ruɑpɑʃɑx] Note: fear nach innis càil cómhnard ’s nach eil deireadh air aithris.</description>
+    </item>
+    <item>
+      <headword id="idp118798560">ruitear</headword>
+      <description>[ruıtʹɑð] Note: misgear buaireasach.</description>
+    </item>
+    <item>
+      <headword id="idp118803096">ruinnseach</headword>
+      <description>Note: te chaol àrd gun àille gun eireachdais, gun ghean gun thlachd.</description>
+    </item>
+    <item>
+      <headword id="idp118813392">rùnag</headword>
+      <description>Note: àilleagan nan iomadh fear.</description>
+    </item>
+    <item>
+      <headword id="idp118823472">rustaich</headword>
+      <description>[ru̜st̪iç] Note: fear trom an inntinn ’s an corp.</description>
+    </item>
+    <item>
+      <headword id="idp1876776">ruideag</headword>
+      <description>Note: te beag sgiobalt na ruith a sud ’s a seo; deas air a casan, ealant ’na gnìomh.</description>
+    </item>
+    <item>
+      <headword id="idp1872744">sabhdair</headword>
+      <description>[sɑu̟t̪əð] Note: fear breugach mac-meanbhnach, a dhealbhas sabhtagan airson fearas-chuideachd; a bheir beum tarchuiseach feir a’ ghuaille.</description>
+    </item>
+    <item>
+      <headword id="idp1871448">sanntair</headword>
+      <description>Note: fear sanntach, ceòcrach.</description>
+    </item>
+    <item>
+      <headword id="idp1871304">saoidh</headword>
+      <description>Note: sar dhuine, airidh air cliù ’s air moladh. Treun-laoch. “Is sèimh suain na saoidh.”</description>
+    </item>
+    <item>
+      <headword id="idp116564928">siapach</headword>
+      <description>Note: fear slaodach, beag feum. “Siapach nach cuir rian air biadh na dachaidh.”</description>
+    </item>
+    <item>
+      <headword id="idp116566656">siapair</headword>
+      <description>[See siapach.]</description>
+    </item>
+    <item>
+      <headword id="idp116568240">seircean</headword>
+      <description>[ʃɛɾcɑṉ] Note: fear sonraichte ’na ghasdachd, na dheagh-chliù ’s na uile bheusan. (Fem: seircneag.)</description>
+    </item>
+    <item>
+      <headword id="idp116569968">seirgean</headword>
+      <description>[ʃeɾeɡʹɑṉ] Note: “fear caol, duainnidh, bochd ’na chruth”.</description>
+    </item>
+    <item>
+      <headword id="idp116571696">searsalaich</headword>
+      <description>[ʃiɑʴsɑɫiç] Note: duine calma, foghainnteach. [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+    <item>
+      <headword id="idp116573568">seòclan</headword>
+      <description>[ʃɔ:kəɫɑṉ] Note: truaghan gun stàth, nach dean càil ach ma laimh.</description>
+    </item>
+    <item>
+      <headword id="idp116575368">seòltaiche</headword>
+      <description>Note: fear carach, cealgach. Cho seòlta cealgach ’s nach earbadh tu ’m bonna-sia ris.</description>
+    </item>
+    <item>
+      <headword id="idp116576880">seotaiche</headword>
+      <description>[ˈʃɔt̪içə] Quot.: “Seotaiche nach cothaich cruadal.” Note: fear nach deanadh tùrn dha duine air muir na tìr.</description>
+    </item>
+    <item>
+      <headword id="idp116578896">sgàirdear</headword>
+      <description>Note: air a chleachdadh ma fhear salach.</description>
+    </item>
+    <item>
+      <headword id="idp116580408">sgaitear</headword>
+      <description>[sɡɑtʹɑð] Note: fear féin-uailleil, beachdail ach air bheag thuigse.</description>
+    </item>
+    <item>
+      <headword id="idp116583072">sgaogag</headword>
+      <description>[sɡw:ɡɑɡ] Note: te le ceann faoin falamh.</description>
+    </item>
+    <item>
+      <headword id="idp116584800">sgaoimear</headword>
+      <description>[sɡw̃:mɑð] Note: gealtaire meath-chridheach. Fear aig a’ bheil eagal roimh fhaileis.</description>
+    </item>
+    <item>
+      <headword id="idp116586528">sgeamhair</headword>
+      <description>Quot.: sgeamhaire cho faobharach ri gaoth a’ reothaidh. Note: greannach, mi-chneasda na chainnt.</description>
+    </item>
+    <item>
+      <headword id="idp116588328">sgeapag</headword>
+      <description>[sɡʹɑpɑɡ] Note: te luideach, leathainn, chruinn gun loinn gun chumadh.</description>
+    </item>
+    <item>
+      <headword id="idp116590128">sgeigeire</headword>
+      <description>[sɡʹeɡʹəðə] Quot.: “Sgeigeire bialach nach a ghearradh an fhiasag nach d’thàinig.” Note: duine fanaideach, sgeilmeil.</description>
+    </item>
+    <item>
+      <headword id="idp116592072">sgeilmeag</headword>
+      <description>[sɡwləmɑɡ] Quot.: te sgiobalt ghrinn na h-aodach.</description>
+    </item>
+    <item>
+      <headword id="idp116593800">sgeimhlear</headword>
+      <description>[sɡʹɑ̃ĩlɑð] Quot.: “Sgeimhlear grannda a chumas càch air bhoil.”</description>
+    </item>
+    <item>
+      <headword id="idp116595600">sgeòcan</headword>
+      <description>[sɡʹɔ:kɑṉ] Note: amhaich cho fada ’s gu sealladh e air fhéin an clàr an aodainn.</description>
+    </item>
+    <item>
+      <headword id="idp116597328">sgeogair</headword>
+      <description>[sɡʹɔɡəð] Note: fear aig a bheil móran ri radh – cainnt fhalamh gun bhrìgh.</description>
+    </item>
+    <item>
+      <headword id="idp116599056">sgidean</headword>
+      <description>[sɡʹıdʹɑṉ] Note: fear bog, beag-seadh.</description>
+    </item>
+    <item>
+      <headword id="idp116600784">sgimilear</headword>
+    </item>
+    <item>
+      <headword id="idp116602296">sgliùireach</headword>
+      <description>Note: te gun diùgh dha cliù. Siùrsach.</description>
+    </item>
+    <item>
+      <headword id="idp116603808">sgiodaran</headword>
+      <description>[sɡwd̪ərɑn] Note: fear leis an toigh a bhi ’g obair am poll ’s an innear.</description>
+    </item>
+    <item>
+      <headword id="idp116605536">sgiùrsair</headword>
+      <description>Note: te mì-bheusach, mì-chliùthach.</description>
+    </item>
+    <item>
+      <headword id="idp116607048">sglàbair</headword>
+      <description>[sɡɫɑ:bəð] Note: fear ri cainnt shalach, innisgeach. Cha bhlais teanga sglabhair [sic] air càil ach an t-suaraich. [NOTES: the headword has been corrected from ‘sglàbhair’ to ‘sglàbair’ so it seems that this spelling should be used in the quotation.]</description>
+    </item>
+    <item>
+      <headword id="idp116608920">sglaimsear</headword>
+      <description>[sɡɫɑ̃mɑʃɑð] Note: fear geòcach, bradach.</description>
+    </item>
+    <item>
+      <headword id="idp116611512">sgliamair</headword>
+      <description>Note: fear le aodann tana sleamhainn.</description>
+    </item>
+    <item>
+      <headword id="idp116613024">sglongair</headword>
+      <description>Note: fear liamach, smugaideach.</description>
+    </item>
+    <item>
+      <headword id="idp116614536">sgeòtallan</headword>
+      <description>Note: fear an-fhoiseil, mar eireag le ubh.</description>
+    </item>
+    <item>
+      <headword id="idp116616048">sgonn</headword>
+      <description>Note: duine gun chiall gun chonn.</description>
+    </item>
+    <item>
+      <headword id="idp116617560">sgiullamaich</headword>
+      <description>[sɡʹu̜ɫɑmiç] Note: fear aig a bheil cuir amach gun chiall.</description>
+    </item>
+    <item>
+      <headword id="idp116619288">sgraidean</headword>
+      <description>Note: fear beag grannda mi-eireachdail.</description>
+    </item>
+    <item>
+      <headword id="idp116620800">sgraingean</headword>
+      <description>Note: fear gruamach doicheallach. “Sgraing a chuireadh bacadh air na h-earraidean.” (Also sgraingeag.)</description>
+    </item>
+    <item>
+      <headword id="idp116622672">sgramalair</headword>
+      <description>Note: fear leisg. (Carson seasamh mas urrainn suidhe ’s carson suidhe mas urrainn sìneadh.)</description>
+    </item>
+    <item>
+      <headword id="idp116624184">sgreabair</headword>
+      <description>[sɡɾebɑð] Note: fear brothach, drabhasach. Aodann mar sgeir mhaorach air cladach.</description>
+    </item>
+    <item>
+      <headword id="idp116625912">sgreadag</headword>
+      <description>Note: cluinnear i far nach fhaicear i.</description>
+    </item>
+    <item>
+      <headword id="idp116627424">sgreagair</headword>
+      <description>Note: spìocaire crion, a dheidheadh eadar do léine ’s do chraicionn.</description>
+    </item>
+    <item>
+      <headword id="idp116628936">sgroingean</headword>
+      <description>[sɡɾ[ɔ̃ĩ]ɡʹɑṉ] Note: fear nach toireadh a ch… dha na coin.</description>
+    </item>
+    <item>
+      <headword id="idp116631096">sgrùbair</headword>
+      <description>[sɡɾu̟:bɑð] Note: Sgrubair [sic] nach leigeadh dhuit ach an t-acras agus am bàs.</description>
+    </item>
+    <item>
+      <headword id="idp116632824">sgruiteach</headword>
+      <description>[sɡɾu̟ıtʹɑx] Note: an craicionn a’ seargadh ’s e a’ fàs buidhe air na cnàmhan.</description>
+    </item>
+    <item>
+      <headword id="idp116635416">sguainseach</headword>
+      <description>[sɡũ̜ɑ̃ṉʃɑx] Note: duine ladarna, beag nàire.</description>
+    </item>
+    <item>
+      <headword id="idp116637144">sgudalair</headword>
+      <description>Note: fear a bhios ga bhus a measg trulais is treallaich.</description>
+    </item>
+    <item>
+      <headword id="idp116638728">sgùmag</headword>
+      <description>[sɡũ̟:mɑɡ] Note: Cha chuir gréidheadh na grinneas sgeadas air sgùmag.</description>
+    </item>
+    <item>
+      <headword id="idp116640528">sialaiche</headword>
+      <description>[ʃiɑɫiçə] Note: fear slaodach gun chuir-leis.</description>
+    </item>
+    <item>
+      <headword id="idp116642256">siad</headword>
+      <description>Note: ’S e smior an t-seòid a th’ann. ’S e ’n droch shiad a th’ann.</description>
+    </item>
+    <item>
+      <headword id="idp116643984">sigean</headword>
+      <description>Note: fear beag meanbh.</description>
+    </item>
+    <item>
+      <headword id="idp116645496">sìochaire</headword>
+      <description>[ʃıɔxəðə] Quot.: “Sìochaire nach cothaich sian na gaillionn”. Note: fear gun chruas gun dhuinealas.</description>
+    </item>
+    <item>
+      <headword id="idp116647512">siolcair</headword>
+      <description>[ˈʃu̜ɫkɑð] Note: truthair. Gàirdean an t-siolcair cho strìtheil ri sìneadh gu eucoir.</description>
+    </item>
+    <item>
+      <headword id="idp116649240">sialtaiche</headword>
+      <description>[ʃiɑɫt̪içə] Note: duine tuaireapach gun tùr gun sgoinn. Bu tu sialtaiche bochd.</description>
+    </item>
+    <item>
+      <headword id="idp116651184">slaightear</headword>
+      <description>Quot.: “Slaightear gun suim gun earbsa”. Note: trusdair eas-onorach.</description>
+    </item>
+    <item>
+      <headword id="idp116652912">slaodair</headword>
+      <description>Note: duine slaodach. “Cha ghabh mi fhein, etc.”</description>
+    </item>
+    <item>
+      <headword id="idp116654640">slàpair</headword>
+      <description>[sɫɑ:pəð] Note: Bithidh a bhus as a pholl. Chaneil nì ris a suath e nach tig tuar an t-salachair air.</description>
+    </item>
+    <item>
+      <headword id="idp116656368">slibiste</headword>
+      <description>Note: Slibiste sgudalach gun chruth gun chumadh air a shaothair.</description>
+    </item>
+    <item>
+      <headword id="idp116657880">slìobaire</headword>
+      <description>[ʃlʹı:bəðə] Note: sliobair da-bhialach.</description>
+    </item>
+    <item>
+      <headword id="idp116659608">slìomaire</headword>
+      <description>[ʃlʹĩ:məðə] Note: fear sleamhainn na bhial ’s na gniomh.</description>
+    </item>
+    <item>
+      <headword id="idp116662200">smàigeir</headword>
+      <description>[smɑ̃:ɡʹəð] Note: fear a chumadh càch nan tràillean tre uamhair na làmhachas-làidir.</description>
+    </item>
+    <item>
+      <headword id="idp116663928">smùgair</headword>
+      <description>[smũ̟:ɡəð] Note: fear roilleach – boinneag air bhàrr na sròine.</description>
+    </item>
+    <item>
+      <headword id="idp116665728">smulcair</headword>
+      <description>[smũ̜ɫkəð] Note: fear dùr, smalanach. Smulcair musgach, gnùigeach, gruamach.</description>
+    </item>
+    <item>
+      <headword id="idp116667672">smutag</headword>
+      <description>Note: te le sròin leathainn liabhach.</description>
+    </item>
+    <item>
+      <headword id="idp116669184">snàigear</headword>
+      <description>Note: sliagair leisg; cùlaire camachdach.</description>
+    </item>
+    <item>
+      <headword id="idp116670696">snoigeasan</headword>
+      <description>Note: gearanach, do-riaraichte, dranndanach. Cho beag caomhalachd ri aog is ainneart.</description>
+    </item>
+    <item>
+      <headword id="idp116672208">sodalan</headword>
+      <description>Note: cealgach, dà-bhialach, leam-leat. “Cho caochlaideach, seachranach ri beachdan sodalan.”</description>
+    </item>
+    <item>
+      <headword id="idp116674008">spàgan</headword>
+      <description>Note: fear le casan crulainneach cam – chan e ’n t-ùrlar danns’ àite.</description>
+    </item>
+    <item>
+      <headword id="idp116675520">spéidhlear</headword>
+      <description>[spe:lɑð] Note: te a tha deigheil air a cuid fhéin a thoirt a féill an diomhanais.</description>
+    </item>
+    <item>
+      <headword id="idp116677248">spailpeire</headword>
+      <description>[spɑlpəðə] Note: fear mór na shùilean fhéin. Faoin, falamh, a’ ruith féin-ghlòir.</description>
+    </item>
+    <item>
+      <headword id="idp116678976">spiuthair</headword>
+      <description>[spȷu̟həð] Note: fear le làmh fhada. “Do ghàirdean ro fhada gun cheannsail, dha sìneadh ’s chan ann cho na còir.”</description>
+    </item>
+    <item>
+      <headword id="idp116680920">splangaid</headword>
+      <description>Note: fear agus bi roill ma chàirean.</description>
+    </item>
+    <item>
+      <headword id="idp116682432">spleuchdair</headword>
+      <description>[spliɑxkəð] Note: fear fiar-shuileach claon.</description>
+    </item>
+    <item>
+      <headword id="idp116685024">godag</headword>
+      <description>Note: te a tha déigheil air cuideachd na fir.</description>
+    </item>
+    <item>
+      <headword id="idp116686536">goicean</headword>
+      <description>Note: fear a bhios gus e fhéin a chuir fo na h-amhaich a’ sadadh a chinn.</description>
+    </item>
+    <item>
+      <headword id="idp116688048">goradair</headword>
+      <description>Note: fear a bhios ri cuachail ach gu dé a chí e.</description>
+    </item>
+    <item>
+      <headword id="idp116689560">gràinndean</headword>
+      <description>[ɡɾɑ̃:dʹɑṉ] Note: fear nach mol sgàthan ’s nach eil a’ fabhar nan nìghneag.</description>
+    </item>
+    <item>
+      <headword id="idp116691288">greannan</headword>
+      <description>Note: duine greannach. “Cho greannach ri clach-mheallainn an fhaoiltich.”</description>
+    </item>
+    <item>
+      <headword id="idp116693016">grioban</headword>
+      <description>[ɡɾibɔṉ] Note: balach beag luaisgeanach.</description>
+    </item>
+    <item>
+      <headword id="idp159789936">gugarlach</headword>
+      <description>Note: gille tiugh reamhair.</description>
+    </item>
+    <item>
+      <headword id="idp159791448">grobag</headword>
+      <description>Note: seann bhean, a craicionn air dreamadh, a beul air grobadh.</description>
+    </item>
+    <item>
+      <headword id="idp159792960">gruamag</headword>
+      <description>Quot.: Cha laigh gàire ach aotrom air aodann gruamag.</description>
+    </item>
+    <item>
+      <headword id="idp159794472">guanag</headword>
+      <description>Note: te aotrom òg aighearrach. Cho guanach ’s nach eil a h-uallach na eallach.</description>
+    </item>
+    <item>
+      <headword id="idp159795984">gille-mo-liagh</headword>
+      <description>Note: fear gnothaicheil fearail, gaisgeil. “’Se mo liagh a th’ann.”</description>
+    </item>
+    <item>
+      <headword id="idp159797712">gille-mirean</headword>
+      <description>Note: (tee-totum.) Tha thu a sin a’ cur nan car mar ghille-mirean.</description>
+    </item>
+    <item>
+      <headword id="idp159799440">giorsaid</headword>
+      <description>Note: te aotrom stràiceil a ghéill do fhéill-an-diomhanais.</description>
+    </item>
+    <item>
+      <headword id="idp159801024">iosgaideach</headword>
+      <description>Note: fear caol, fad-chasach.</description>
+    </item>
+    <item>
+      <headword id="idp159802536">iùdasach</headword>
+      <description>[ȷu̟:ḏɑsɔx] Note: fear brathaidh, droch bheusach.</description>
+    </item>
+    <item>
+      <headword id="idp159805128">iutharnach</headword>
+      <description>Note: a’ dhroch-bheusan thar labhairt.</description>
+    </item>
+    <item>
+      <headword id="idp159806640">ladarnach</headword>
+      <description>Note: dàna, an-uasal gun mhodh. “Cho ladarna [sic] ri madadh coin gun mhaighstir [?].”</description>
+    </item>
+    <item>
+      <headword id="idp159808440">lethbheist</headword>
+      <description>Note: leth-chiallach. “Lethbheist nach eil ann gu léir.”</description>
+    </item>
+    <item>
+      <headword id="idp159810168">leisgean</headword>
+      <description>Note: sluggard.</description>
+    </item>
+    <item>
+      <headword id="idp159811680">leòcaid</headword>
+      <description>Note: guirmealach cràbhach do-riaraichte.</description>
+    </item>
+    <item>
+      <headword id="idp159813192">leòmair</headword>
+      <description>Note: proiseil mór-chuiseach. “Fearas-mhóire bhreothte air leòmag a’ chinn aotrom.”</description>
+    </item>
+    <item>
+      <headword id="idp159814992">leòmag (fem)</headword>
+      <description>[See leòmair.]</description>
+    </item>
+    <item>
+      <headword id="idp159816576">liobastair</headword>
+      <description>Note: fear mi-sgiobalta, neo-chùbhraidh.</description>
+    </item>
+    <item>
+      <headword id="idp159818088">liosdair</headword>
+      <description>Note: fear a bhios a’ connsachadh, an aghaidh na dòigh. Cha deóin leis aideachadh gun deach e ceàrr.</description>
+    </item>
+    <item>
+      <headword id="idp159819600">liùgaire</headword>
+      <description>Note: snàigaire crùbach. Liugaire [sic] mosach, le ghob am brochan chàich.</description>
+    </item>
+    <item>
+      <headword id="idp159821112">logais</headword>
+      <description>Note: duine goileach, na cheum ’s na chruth.</description>
+    </item>
+    <item>
+      <headword id="idp159822624">lìgeir</headword>
+      <description>[lʹı:ɡəð] Note: cuachaire gun smior gun tùrn.</description>
+    </item>
+    <item>
+      <headword id="idp159824352">loircean, loirceag (fem)</headword>
+      <description>Note: duine/te le casan ladhbhach crùlainneach nach tugadh turus astar e/i.</description>
+    </item>
+    <item>
+      <headword id="idp159827376">lothaire</headword>
+      <description>Note: fear mi-sgiobalta.</description>
+    </item>
+    <item>
+      <headword id="idp159828888">ludragan</headword>
+      <description>Note: snaigaire gun loinn gun snais.</description>
+    </item>
+    <item>
+      <headword id="idp159830400">luid</headword>
+      <description>Note: a clumsy fellow.</description>
+    </item>
+    <item>
+      <headword id="idp159831912">luinnsear</headword>
+      <description>Note: duine leisg.</description>
+    </item>
+    <item>
+      <headword id="idp159833424">luireach</headword>
+      <description>Note: luireach mnà nach deasaich, nach càraich ’s nach toir làmh gu h-abhras.</description>
+    </item>
+    <item>
+      <headword id="idp159835800">burgaid</headword>
+      <description>[bu̟ɾu̟ɡɑdʹ] Note: duine mór luideach, slaodach.</description>
+    </item>
+    <item>
+      <headword id="idp159837528">burraiceach</headword>
+      <description>[bu̜ru̜cɑx] Note: te ghruamach.</description>
+    </item>
+    <item>
+      <headword id="idp159839256">nuarant</headword>
+      <description>[n̪ũɑ̃rɑn̪t̪] Note: awe-inspiring. “Nach e ’n cuan a tha nuarant an diugh.”</description>
+    </item>
+    <item>
+      <headword id="idp159841200">plamaiceach</headword>
+      <description>Note: soft, flabby.</description>
+    </item>
+    <item>
+      <headword id="idp159842712">stamhnadh</headword>
+      <description>[st̪ɑ̃ũṉəɣ] Quot.: “Nach dean thu stamhnadh ort fhéin.” “Gun stamhnadh.” Note: a halt.</description>
+    </item>
+    <item>
+      <headword id="idp159844800">stangalaich</headword>
+      <description>[st̪ɑ̃ŋɡɑɫiç] Quot.: “bó a’ stangalaich anns a’ stàile.” Note: stamping about.</description>
+    </item>
+    <item>
+      <headword id="idp159846744">snoigeasach</headword>
+      <description>[sṉɔ̃ɡʹɑsɑx] Note: haughty.</description>
+    </item>
+    <item>
+      <headword id="idp159848472">bruachaire</headword>
+      <description>Note: a person who moves about making a nuisance of himself.</description>
+    </item>
+    <item>
+      <headword id="idp159850056">bruachaireachd</headword>
+      <description>Note: moving about and making a nuisance of oneself.</description>
+    </item>
+    <item>
+      <headword id="idp159851568">steòcaire</headword>
+      <description>Note: same as bruachaire [q.v.].</description>
+    </item>
+    <item>
+      <headword id="idp159853080">steòcaireachd</headword>
+      <description>Note: same as bruachaireachd [q.v.]</description>
+    </item>
+    <item>
+      <headword id="idp159854592">goighleach</headword>
+      <description>[ɡ[ɤı]lɑx] Note: ungainly in person.</description>
+    </item>
+    <item>
+      <headword id="idp121951336">cias</headword>
+      <description>[ciɑs] Quot.: “’S ann ort a tha na ciasan.” Note: buttocks.</description>
+    </item>
+    <item>
+      <headword id="idp121953280">breig</headword>
+      <description>[bðeɡʹ] Quot.: “’S ann agad a tha a’ bhreig.” Note: equivalent of “gab”.</description>
+    </item>
+    <item>
+      <headword id="idp121955224">stuirt</headword>
+      <description>[st̪u̜ʴsṯ] Quot.: “’S ann ort a tha an aon stuirt.” Note: dourness. [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+    <item>
+      <headword id="idp121957312">stuirteil</headword>
+      <description>[st̪u̜ʴsṯɑl] Note: dour. [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+    <item>
+      <headword id="idp121960048">drollabhan</headword>
+      <description>[d̪ɾɔɫəvɑṉ] Note: fear luideach nach cuir càil ceart.</description>
+    </item>
+    <item>
+      <headword id="idp121961776">druimean-feilidh</headword>
+      <description>[d̪ɾw̃mɑṉfɛli] Note: facal ionadail. Mu dhuine aotrom, éibhinn, an-cheardach.</description>
+    </item>
+    <item>
+      <headword id="idp121963576">gasan</headword>
+      <description>[ɡɑsɑṉ] Note: a sheaf hung inside for a sheep. Quot.: “Bheir gasan dhan a rùda.”</description>
+    </item>
+    <item>
+      <headword id="idp121965520">loinneil</headword>
+      <description>[ɫɔ̃nʹɔl] Note: avaricious.</description>
+    </item>
+    <item>
+      <headword id="idp121967248">loin</headword>
+      <description>[ɫɔ̃nʹ] Quot.: Tha loin air thuige. Note: greed.</description>
+    </item>
+    <item>
+      <headword id="idp121969192">gliùnag</headword>
+      <description>[ɡlũ̟:ṉɑɡ] Note: fear nach seas ri cruadal.</description>
+    </item>
+    <item>
+      <headword id="idp121970920">gèimh</headword>
+      <description>[ɡɛ:v] Note: “Ghabh e gèimh.” – “Ghabh e feagal a bheatha.”</description>
+    </item>
+    <item>
+      <headword id="idp121972720">tothadaich</headword>
+      <description>[t̪ɔhəd̪iç] Note: illustrating by gestures.</description>
+    </item>
+    <item>
+      <headword id="idp121974448">tothadh</headword>
+      <description>[t̪ɔəɣ] Quot.: “a’ tothadh dhòrn”. Note: sparring.</description>
+    </item>
+    <item>
+      <headword id="idp121976392">goraisg</headword>
+      <description>[ɡɔriʃɡʹ] Note: te fhaoin.</description>
+    </item>
+    <item>
+      <headword id="idp121978120">maol-rùnaidh</headword>
+      <description>Note: te a tha déigheil air féill an diomhanais ’s an t-sùgraidh. Chaneil féill na cleasachd aig nach fhaicear i.</description>
+    </item>
+    <item>
+      <headword id="idp121979632">glagaid</headword>
+      <description>Note: breigeire ard-ghuthach.</description>
+    </item>
+    <item>
+      <headword id="idp121982008">baobh</headword>
+      <description>Quot.: “Gheibh baobh guidhe ged nach fhaigh a h-anam tròcair.” Note: “te olc, mi-rùnach, le cumhachd draoigh is mallachaidh”.</description>
+    </item>
+    <item>
+      <headword id="idp121983736">cam-shuileach</headword>
+      <description>Quot.: “Na tog do chùrsa air sùil a’ cham-shuileach.”</description>
+    </item>
+    <item>
+      <headword id="idp121985320">cabair</headword>
+      <description>Quot.: “Cabair innseach, bial gun tosd, teanga shleamhainn luath gun chlos.” (seann rann) Note: luath-bhial.</description>
+    </item>
+    <item>
+      <headword id="idp121987048">caoilte</headword>
+      <description>Note: tana, goidhleach. Cho caol ’s gu faodadh e dol ri fasgadh buatharlan.</description>
+    </item>
+    <item>
+      <headword id="idp121988560">ceann-clò</headword>
+      <description>Quot.: Cho beag purp ri uirsgeul ceann-clò. Note: fear nach cuir tù ri tàth.</description>
+    </item>
+    <item>
+      <headword id="idp121990288">ceigean</headword>
+      <description>[ceɡʹɑṉ] Quot.: “Ceigeanach dubh, ceann gun chìreadh, Cha teid cail an ìre dhà.”</description>
+    </item>
+    <item>
+      <headword id="idp121992016">ciasanach</headword>
+      <description>[ciɑsɑṉɑx] Quot.: “Ciasan air ag iathadh leth na beinge.” Note: màsaire, duine tóineach.</description>
+    </item>
+    <item>
+      <headword id="idp121993960">clabair</headword>
+      <description>Quot.: “Clabair gun bhun gun bhàrr”. Note: luath-bhial.</description>
+    </item>
+    <item>
+      <headword id="idp121995688">clabastair</headword>
+      <description>Note: bréig gun ceannsail. Eallamh gu deanamh buaireadh.</description>
+    </item>
+    <item>
+      <headword id="idp121997272">clambaire</headword>
+      <description>[klɑ̃mbəðə] Quot.: “Seachainn cuideachd an dram nuair a tha ’n clambaire na measg.” Note: fear buaireasach àrd-ghuthach.</description>
+    </item>
+    <item>
+      <headword id="idp121999216">cliamaire</headword>
+      <description>[klĩɑ̃məðə] Quot.: “cliamair gun aoibh gun aighearr”. Note: duine dùinte, doicheallach, stùirteil.</description>
+    </item>
+    <item>
+      <headword id="idp122001160">cléibire</headword>
+      <description>[kle:bəðə] Note: duine neo-thùireil, luideach. “Làmhan nach amais air càil a chuir na altan.”</description>
+    </item>
+    <item>
+      <headword id="idp122003968">cliseach</headword>
+      <description>Quot.: “Nach mairg tha do leth ri chlisich.” Note: cliseach de dhuine mór.</description>
+    </item>
+    <item>
+      <headword id="idp122005696">clodaire</headword>
+      <description>Quot.: clodaire, clobhdach. Note: trom-inntinneach, smuaireanach.</description>
+    </item>
+    <item>
+      <headword id="idp122008360">disearan</headword>
+      <description>Note: fear bog nach seas ri fuachd.</description>
+    </item>
+    <item>
+      <headword id="idp122009872">dùidean</headword>
+      <description>[dʹu̟:dʹɑṉ] Note: “Duine sochaireach gun chuir-leis. Duine leagte ri chrannchur.”</description>
+    </item>
+    <item>
+      <headword id="idp122011600">doicheallan</headword>
+      <description>Note: duine gruamach, mi-aoidheil. “Cho doicheallach ri dorsan a phrìosain.”</description>
+    </item>
+    <item>
+      <headword id="idp122013328">doirbhean</headword>
+      <description>Quot.: “Nuair dh’fhàg na fir àluinn ’s ann bu duibhe doirbhean.”</description>
+    </item>
+    <item>
+      <headword id="idp122014840">drabasdan</headword>
+      <description>Note: fear a tha cleachdadh cainnt shalach.</description>
+    </item>
+    <item>
+      <headword id="idp122016352">dreamaisg</headword>
+      <description>Quot.: greannach, connsachail, do-riaraichte, rag-mhuinealach.</description>
+    </item>
+    <item>
+      <headword id="idp122017936">dranndan</headword>
+      <description>Note: fear gearanach. “Dranndan teallaich.”</description>
+    </item>
+    <item>
+      <headword id="idp122019664">drabhchd</headword>
+      <description>[d̪ɾɑu̟k] Note: troc gun chiall gun mhodh. Misgeir a tha a’ cur a chuid gu h-iomlan ’s an deoch.</description>
+    </item>
+    <item>
+      <headword id="idp122021392">dréineire</headword>
+      <description>[d̪ɾe:nəðə] Note: Tha dréin air a chuireadh stad air trèin a’ Chaoil.</description>
+    </item>
+    <item>
+      <headword id="idp122023192">dabhdan</headword>
+      <description>[dɑu̟d̪ɑṉ] Note: duine a bhios a’ giagalais air ais ’s air adhart. “Dabhdail a’ ghille leisg.”</description>
+    </item>
+    <item>
+      <headword id="idp122025208">fliuchaidh</headword>
+      <description>[flu̜xi] Note: duine faoin mu thimchioll bhoirionnach.</description>
+    </item>
+    <item>
+      <headword id="idp122026936">feirmealaiche</headword>
+      <description>[feɾemɑɫiçə] Note: duine uailleil, bòsdail, féineil.</description>
+    </item>
+    <item>
+      <headword id="idp122028664">fidileir</headword>
+      <description>Quot.: “Fidileir fotharlanach gun fhios có agad na bhuat e.” Note: duine an-fhoiseil, bheag stòlaidh.</description>
+    </item>
+    <item>
+      <headword id="idp122030320">foileag</headword>
+      <description>Note: te a’ sàs an obair tighe. “De a tha thu a’ cur air adhart?” “Chaneil, a’ ghraidh, ach a’ foileadh ’s a’ riasladh.”</description>
+    </item>
+  </items>
+</fieldworkDocument>

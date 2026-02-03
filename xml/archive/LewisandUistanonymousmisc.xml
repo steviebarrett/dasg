@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 19 7 14 -->
+<fieldworkDocument docId="AOHenley_LewisandUistanonymousmisc" docType="wordlist" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>[1987-88]</date>
+  <fieldworker personId="ohenleya">A. O’Henley</fieldworker>
+  <note>[NOTES: in the note introducing the word-list, A. O’Henley writes: (...) seo cuid dheth na faclan a tha air tighinn gum aire bho chionn ghoirid. Saoilidh mi gu buin a mhòr chuid dhiubh do Leòdhas ach tha feadhainn Uibheastach ann cuideachd.]</note>
+  <informant>
+    <nameEnglish>anonymous</nameEnglish>
+    <origin>Lewis and Uist</origin>
+  </informant>
+  <location>Lewis and Uist</location>
+  <items>
+    <item>
+      <headword id="idp109641360">folca</headword>
+      <description>a Sabbath gown, colourful and frilly.</description>
+    </item>
+    <item>
+      <headword id="idp109650360">stal</headword>
+      <description>a strapping on the head to relieve earache.</description>
+    </item>
+    <item>
+      <headword id="idp109705584">crioman</headword>
+      <description>cotton shirt, grey with red or navy stripes. No collar. Thought to be connected with Crimean War.</description>
+    </item>
+    <item>
+      <headword id="idp109705656">bainne lòm [?]</headword>
+      <description>used to cure loss of feeling in body. Not sure what this constituted. Will check?</description>
+    </item>
+    <item>
+      <headword id="idp109660656">tutadean [?]</headword>
+      <description>used to describe people who wore a lot of clothes.</description>
+    </item>
+    <item>
+      <headword id="idp109655976">giteag</headword>
+      <description>a slap.</description>
+    </item>
+    <item>
+      <headword id="idp109688520">leideag</headword>
+      <description>a slap.</description>
+    </item>
+    <item>
+      <headword id="idp109737120">deoch bhàn</headword>
+      <description>oatmeal drink to quench thirst.</description>
+    </item>
+    <item>
+      <headword id="idp109685352">stiureag [sic]</headword>
+      <description>sore, sprained wrist.</description>
+    </item>
+    <item>
+      <headword id="idp109684776">eideag</headword>
+      <description>sore, sprained wrist.</description>
+    </item>
+    <item>
+      <headword id="idp109707384">glacan cleibheadh</headword>
+      <description>stitch in side.</description>
+    </item>
+    <item>
+      <headword id="idp109659000">uisge beatha an t-suathaidh</headword>
+      <description>methylated spirits.</description>
+    </item>
+    <item>
+      <headword id="idp109690968">ùrdan</headword>
+      <description>new born child.</description>
+    </item>
+    <item>
+      <headword id="idp109638768">miaradan</headword>
+      <description>someone with no appetite.</description>
+    </item>
+    <item>
+      <headword id="idp109702416">mileineag</headword>
+      <description>someone with no appetite.</description>
+    </item>
+    <item>
+      <headword id="idp109747344">barach</headword>
+      <description>used to describe temperamental person.</description>
+    </item>
+    <item>
+      <headword id="idp109733592">scud a cur nan seòl</headword>
+      <description>bad weather followed by flat calm conditions.</description>
+    </item>
+    <item>
+      <headword id="idp109662384">ceann snamadh</headword>
+      <description>tree like cloud formation, indicating bad weather to follow.</description>
+    </item>
+    <item>
+      <headword id="idp109324304">fìreag (-an)</headword>
+      <description>stones used to keep thatch in place.</description>
+    </item>
+    <item>
+      <headword id="idp109325816">buadhana</headword>
+      <description>strapping fellow.</description>
+    </item>
+    <item>
+      <headword id="idp109327328">stolaideireachd</headword>
+      <description>in old thatch houses used to describe action of woman who would empty a basin on lawn etc. in front of house.</description>
+    </item>
+    <item>
+      <headword id="idp109328840">soideanach</headword>
+      <description>a good, honest (?) man.</description>
+    </item>
+    <item>
+      <headword id="idp109330352">coradh</headword>
+      <description>first peat taken out of peat bog.</description>
+    </item>
+    <item>
+      <headword id="idp109331864">arlas</headword>
+      <description>bargaining for herring ladies. Again will check to see what this constituted.</description>
+    </item>
+    <item>
+      <headword id="idp109333376">dubhcholl</headword>
+      <description>to describe severe loss of cattle stock.</description>
+    </item>
+    <item>
+      <headword id="idp109334888">stìbhair</headword>
+      <description>large dram.</description>
+    </item>
+    <item>
+      <headword id="idp109336400">crannag</headword>
+      <description>a party at Halloween.</description>
+    </item>
+    <item>
+      <headword id="idp109337912">leanabh focalach [?]</headword>
+      <description>used of a child who would not sit still.</description>
+    </item>
+    <item>
+      <headword id="idp109339424">cùlum</headword>
+      <description>dust at bottom of bucket, i.e. of peats.</description>
+    </item>
+    <item>
+      <headword id="idp109340936">cneamh a ròsan</headword>
+      <description>bone in lower back.</description>
+    </item>
+    <item>
+      <headword id="idp109342448">caolan breote</headword>
+      <description>appendicitis.</description>
+    </item>
+    <item>
+      <headword id="idp109343960">cadal cearnach</headword>
+      <description>cat nap.</description>
+    </item>
+    <item>
+      <headword id="idp109345472">allar [?]</headword>
+      <description>wine token when someone dies.</description>
+    </item>
+    <item>
+      <headword id="idp109346984">urdean</headword>
+      <description>wine token at birth.</description>
+    </item>
+    <item>
+      <headword id="idp109348496">iolach sheasg</headword>
+      <description>cutting peat deliberately short.</description>
+    </item>
+    <item>
+      <headword id="idp109350008">geilbeannan</headword>
+      <description>bethers [?].</description>
+    </item>
+    <item>
+      <headword id="idp109351520">sleachaireachd</headword>
+      <description>loafing about; ‘sleach ... mun taigh’.</description>
+    </item>
+  </items>
+</fieldworkDocument>
+

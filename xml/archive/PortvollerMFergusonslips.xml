@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 23/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_PortvollerMFergusonslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>19/04/1967</date>
+  <fieldworker>?</fieldworker>
+  <informant>
+    <nameEnglish>Murdo Ferguson</nameEnglish>
+  </informant>
+  <location>Lewis, Point, Portvoller</location>
+  <items>
+    <item>
+      <headword id="idp115489456">othaig</headword>
+      <description>Notes: used of a habit, and most especially a bad habit. (Check again in context.)</description>
+    </item>
+    <item>
+      <headword id="idp115452160">frulasg</headword>
+      <description>Quotation: Chaidh na lìn frulasg. Notes: frulasg = troimh-a-chéile.</description>
+    </item>
+  </items>
+</fieldworkDocument>

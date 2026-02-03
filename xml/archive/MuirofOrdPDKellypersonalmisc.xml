@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 1/4/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="PersonalFiles_MuirofOrdPDKellypersonalmisc" docType="wordlist" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>09/10/1966</date>
+  <fieldworker>[self]</fieldworker>
+  <informant>
+    <nameEnglish>Peter D. Kelly</nameEnglish>
+  </informant>
+  <location>Ross-shire, Muir-of-Ord</location>
+  <items>
+    <item>
+      <headword id="idola978">[note]</headword>
+      <description>‘Here are the words I collected in the N. Perthshire Highlands, from Estate workers etc., in the order of most use.’</description>
+	</item>
+	<item>
+	  <headword id="idola979" type="heading" level="h1">N. Perthshire Gaelic</headword>
+	</item>
+    <item>
+      <headword id="idp161894480">niarraidh</headword>
+      <description>same as “meadhonach” in rest of Gaeldom (i.e. “so-so” or “middling”).</description>
+    </item>
+    <item>
+      <headword id="idp161891456">mùganach</headword>
+      <description>as a kilt or something thick getting damp on the hill.</description>
+    </item>
+    <item>
+      <headword id="idp161909528">toman-eallaidh</headword>
+      <description>a spider.</description>
+    </item>
+    <item>
+      <headword id="idp161911040">bleithteach</headword>
+      <description>usually gruel.</description>
+    </item>
+    <item>
+      <headword id="idp161912552">bulbhag</headword>
+      <description>a boulder or very large stone.</description>
+    </item>
+    <item>
+      <headword id="idp161914064">luis</headword>
+      <description>water rushing-out.</description>
+    </item>
+    <item>
+      <headword id="idp161915576">bùta</headword>
+      <description>a young bird.</description>
+    </item>
+    <item>
+      <headword id="idp161917088">ruaig</headword>
+      <description>a shower of rain.</description>
+    </item>
+    <item>
+      <headword id="idp161918600">prosbaig</headword>
+      <description>telescope of shepherds or stalkers.</description>
+    </item>
+    <item>
+      <headword id="idp161920112">riasgach</headword>
+      <description>blustering.</description>
+    </item>
+    <item>
+      <headword id="idp161921624">eitealan</headword>
+      <description>aeroplane.</description>
+    </item>
+    <item>
+      <headword id="idp161923136">ceapaire</headword>
+      <description>a sandwich.</description>
+    </item>
+    <item>
+      <headword id="idp161924648">bara-làimh</headword>
+      <description>wheel-barrow.</description>
+    </item>
+  </items>
+</fieldworkDocument>

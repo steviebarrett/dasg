@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 25 4 13 -->
+<fieldworkDocument docId="CattleandSheep_PirnmillDCurriesheep" docType="questionnaire" subType="Sheep">
+  <title>Caoraich / Sheep</title>
+  <fieldworker>[self]</fieldworker>
+  <informant>
+    <nameEnglish>Donald Currie</nameEnglish>
+    <age>72</age>
+    <origin>[Arran]</origin>
+  </informant>
+  <location>Arran, Pirnmill</location>
+  <items>
+    <item><headword id="d0e29" type="heading" level="h1">1. Different stages in the growth of sheep (female)</headword></item>
+    <item>
+      <headword id="d0e34">caoraich</headword>
+      <description>sheep.</description>
+    </item>
+    <item>
+      <headword id="d0e43">uan</headword>
+      <description>lamb. Uan boireann – female [lamb]. Uan firionn – male [lamb].</description>
+    </item>
+    <item>
+      <headword id="d0e52">oisg</headword>
+      <description>a yearling sheep (male or female).</description>
+    </item>
+    <item>
+      <headword id="d0e61">caora-uain</headword>
+      <description>a breeding sheep or ewe.</description>
+    </item>
+    <item>
+      <headword id="d0e70">bliadhnach</headword>
+      <description>yearling.</description>
+    </item>
+    <item>
+      <headword id="d0e79">do bhliadhnach</headword>
+      <description>two year old.</description>
+    </item>
+    <item>
+      <headword id="d0e88">croga</headword>
+      <description>an aged ewe.</description>
+    </item>
+    <item>
+      <headword id="d0e97">mult</headword>
+      <description>a wedder.</description>
+    </item>
+    <item>
+      <headword id="d0e106">reithe</headword>
+      <description>a ram.</description>
+    </item>
+    <item>
+      <headword id="d0e115">ciora</headword>
+      <description>a pet lamb or sheep.</description>
+    </item>
+    <item>
+      <headword id="d0e124">caora-sheasg</headword>
+      <description>a sheep without a lamb.</description>
+    </item>
+    <item>
+      <headword id="d0e133">dionag</headword>
+      <description>one-year old sheep with lamb.</description>
+    </item>
+    <item><headword id="d0e141" type="heading" level="h1">2. Different stages in the growth of sheep (male)</headword></item>
+    <item>
+      <headword id="d0e146">uan reithe</headword>
+    </item>
+    <item>
+      <headword id="d0e152">bliadhnach reithe</headword>
+    </item>
+    <item>
+      <headword id="d0e158">do bhliadhnach etc.</headword>
+    </item>
+    <item><headword id="d0e163" type="heading" level="h1">3. Different stages in the growth of the castrated male</headword></item>
+    <item>
+      <headword id="d0e168">oisg muilt</headword>
+    </item>
+    <item>
+      <headword id="d0e174">bliadhnach muilt</headword>
+    </item>
+    <item><headword id="d0e179" type="heading" level="h1">4. Sheep’s appearance</headword></item>
+    <item>
+      <headword id="d0e184">caora bhreac-cheannach</headword>
+      <description>spots over the body.</description>
+    </item>
+    <item>
+      <headword id="d0e193">caora tarran</headword>
+      <description>spots over the body. [NOTES: is ‘tarran’ a pronunciation spelling? Tarr-fhionn?]</description> 
+    </item>
+    <item>
+      <headword id="d0e202">caora bhan-cheannach</headword>
+    </item>
+    <item>
+      <headword id="d0e208">caora dhubh-cheannach</headword>
+    </item>
+    <item>
+      <headword id="d0e214">caora dhubh</headword>
+    </item>
+    <item>
+      <headword id="d0e220">caora-gheal or caora bhàn</headword>
+    </item>
+    <item>
+      <headword id="d0e226">caora Ghàidhealach</headword>
+      <description>coarse wooled sheep.</description>
+    </item>
+    <item>
+      <headword id="d0e235">caora le lomradh throm</headword>
+    </item>
+    <item>
+      <headword id="d0e241">caora sgrogach</headword>
+      <description>sheep with stunted horns.</description>
+    </item>
+    <item>
+      <headword id="d0e250">caora adharcach mhor</headword>
+    </item>
+    <item>
+      <headword id="d0e256">caora mhaol</headword>
+    </item>
+    <item>
+      <headword id="d0e262">caora reamhar</headword>
+    </item>
+    <item><headword id="d0e267" type="heading" level="h1">5. Miscellaneous</headword></item>
+    <item>
+      <headword id="d0e272">uan pheta</headword>
+      <description>pet lamb.</description>
+    </item>
+    <item>
+      <headword id="d0e281">uan càraid</headword>
+      <description>twin lamb.</description>
+    </item>
+    <item>
+      <headword id="d0e290">caora-bhainne</headword>
+      <description>milk ewe.</description>
+    </item>
+    <item>
+      <headword id="d0e299">caora le càraid uain</headword>
+      <description>sheep with twins.</description>
+    </item>
+    <item>
+      <headword id="d0e308">caora-uain</headword>
+      <description>a breeding sheep.</description>
+    </item>
+    <item>
+      <headword id="d0e317">ciora</headword>
+      <description>pet ewe hogg or sheep.</description>
+    </item>
+    <item>
+      <headword id="d0e326">caora air seacharan</headword>
+      <description>a sheep that has strayed.</description>
+    </item>
+    <item>
+      <headword id="d0e335">rige</headword>
+      <description>ram only partly castrated.</description>
+    </item>
+    <item>
+      <headword id="d0e344">reithein</headword>
+      <description>a small ram.</description>
+    </item>
+    <item><headword id="d0e352" type="heading" level="h1">6. Feeding and grazing</headword></item>
+    <item>
+      <headword id="d0e357">biathadh agus ionaltradh</headword>
+      <description>feeding and grazing.</description>
+    </item>
+    <item>
+      <headword id="d0e366">biathadh a stigh</headword>
+      <description>hand feeding.</description>
+    </item>
+    <item>
+      <headword id="d0e375">amar</headword>
+      <description>vessel used for feeding.</description>
+    </item>
+    <item>
+      <headword id="d0e384">clàr</headword>
+      <description>vessel used for feeding.</description>
+    </item>
+    <item>
+      <headword id="d0e393">cuinneag</headword>
+      <description>vessel used for feeding.</description>
+    </item>
+    <item>
+      <headword id="d0e402">boitean connlach</headword>
+      <description>corn etc. given at feeding time.</description>
+    </item>
+    <item>
+      <headword id="d0e411">sùgan</headword>
+      <description>a straw rope, means of tying hay, corn etc.</description>
+    </item>
+    <item>
+      <headword id="d0e420">a toirt deoch dhaibh a amar na miodar</headword>
+      <description>watering.</description>
+    </item>
+    <item>
+      <headword id="d0e429">ionaltradh</headword>
+      <description>grazing of sheep.</description>
+    </item>
+    <item>
+      <headword id="d0e438">cuir air feur</headword>
+      <description>grazing of sheep.</description>
+    </item>
+    <item>
+      <headword id="d0e447">leasar</headword>
+      <description>regular beat of sheep on the moor.</description>
+    </item>
+    <item><headword id="d0e455" type="heading" level="h1">7. Handling of sheep</headword></item>
+    <item>
+      <headword id="d0e460">cibeireachd</headword>
+      <description>handling of sheep.</description>
+    </item>
+    <item>
+      <headword id="d0e469">saodaich</headword>
+      <description>driving them to their grazings.</description>
+    </item>
+    <item>
+      <headword id="d0e478">cuir a mach</headword>
+      <description>driving them to their grazings.</description>
+    </item>
+    <item>
+      <headword id="d0e487">trusadh</headword>
+      <description>taking them home.</description>
+    </item>
+    <item>
+      <headword id="d0e496">fangaich</headword>
+      <description>enclosing them in a fank.</description>
+    </item>
+    <item>
+      <headword id="d0e505">treud</headword>
+      <description>flock.</description>
+    </item>
+    <item>
+      <headword id="d0e514">bad</headword>
+      <description>flock.</description>
+    </item>
+    <item>
+      <headword id="d0e523">Cuir air falbh iad</headword>
+      <description>‘Send them away’ (command [given to a sheep-dog]).</description>
+    </item>
+    <item>
+      <headword id="d0e532">Thig gu mo shail</headword>
+      <description>‘Come to my heel’ (command [given to a sheep-dog]).</description>
+    </item>
+    <item>
+      <headword id="d0e541">Cuir a mach iad</headword>
+      <description>‘Put them out’ (command [given to a sheep-dog]).</description>
+    </item>
+    <item>
+      <headword id="d0e550">fangaich</headword>
+      <description>fanking.</description>
+    </item>
+    <item>
+      <headword id="d0e559">[fang]</headword>
+      <description>Fang lomadh nan caoraich sheasg – [shearing fank for] the yeld ewes. Fang lomadh nan caoraich uain – [shearing fank for] the breeding ewes. Fang bogaidh nan caorach – dipping [fank]. Fang na Lunasdail na fang togail nan uan.</description>
+    </item>
+    <item>
+      <headword id="d0e568">balla nam faing, an geata</headword>
+      <description>parts of a fank.</description>
+    </item>
+    <item>
+      <headword id="d0e577">amar a bhogaidh</headword>
+      <description>[dipping trough.]</description>
+    </item>
+    <item>
+      <headword id="d0e586">a bogadh nan caorach</headword>
+      <description>[dipping.]</description>
+    </item>
+    <item>
+      <headword id="d0e595">a comharreachadh nan uan</headword>
+      <description>[marking.]</description>
+    </item>
+    <item>
+      <headword id="d0e604">a spoth nan uan</headword>
+      <description>[castrating.]</description>
+    </item>
+    <item>
+      <headword id="d0e613">a gearradh nan uan</headword>
+      <description>[castrating.]</description>
+    </item>
+    <item>
+      <headword id="d0e622">a spannadh nan uan</headword>
+      <description>weaning.</description>
+    </item>
+    <item>
+      <headword id="d0e631">ciridh</headword>
+      <description>call addressed to a lamb or sheep.</description>
+    </item>
+	<item>
+	  <headword id="idola90">[note]</headword>
+	  <description>[NOTES: the definitions in square brackets copied from the list provided in the questionnaire as it is clear that the informant was following it, even the order is the same.]</description>
+	</item>
+    <item><headword id="d0e648" type="heading" level="h1">8. Apparatus</headword></item>
+    <item>
+      <headword id="d0e653">uidheam</headword>
+      <description>apparatus.</description>
+    </item>
+    <item>
+      <headword id="d0e662">acainn</headword>
+      <description>apparatus.</description>
+    </item>
+    <item>
+      <headword id="d0e671">glas</headword>
+      <description>lock.</description>
+    </item>
+    <item>
+      <headword id="d0e680">crann</headword>
+      <description>bolt.</description>
+    </item>
+    <item>
+      <headword id="d0e689">claidhean</headword>
+      <description>a door bolt.</description>
+    </item>
+    <item>
+      <headword id="d0e698">dealan-doruis</headword>
+      <description>bar of a door.</description>
+    </item>
+    <item>
+      <headword id="d0e707">teathar</headword>
+      <description>tether.</description>
+    </item>
+    <item>
+      <headword id="d0e716">taod</headword>
+      <description>tether.</description>
+    </item>
+    <item>
+      <headword id="d0e725">cipein</headword>
+      <description>a peg or pin for tying a tether.</description>
+    </item>
+    <item>
+      <headword id="d0e734">udalan</headword>
+      <description>a swivel.</description>
+    </item>
+    <item>
+      <headword id="d0e743">ceangal</headword>
+      <description>a band for tying the legs.</description>
+    </item>
+    <item>
+      <headword id="d0e752">geimhealan</headword>
+      <description>fetters.</description>
+    </item>
+    <item><headword id="d0e760" type="heading" level="h1">9. Diseases</headword></item>
+    <item>
+      <headword id="d0e765">galairean</headword>
+      <description>diseases.</description>
+    </item>
+    <item>
+      <headword id="d0e774">foinneamhan</headword>
+      <description>[warts?] [NOTES: this term appears in the same line as ‘galairean’ and is not followed by a definition but it seems that it should be translated as ‘warts’ because that’s the first English term in the questionnaire.]</description> 
+    </item>
+    <item>
+      <headword id="d0e783">seid</headword>
+      <description>swellings.</description>
+    </item>
+    <item>
+      <headword id="d0e792">àt</headword>
+      <description>swellings.</description>
+    </item>
+    <item>
+      <headword id="d0e801">iongrachadh</headword>
+      <description>swellings.</description>
+    </item>
+    <item>
+      <headword id="d0e810">cnap</headword>
+      <description>swellings.</description>
+    </item>
+    <item>
+      <headword id="d0e819">fearsanan</headword>
+      <description>worms in the skin.</description>
+    </item>
+    <item>
+      <headword id="d0e828">shenladan</headword>
+      <description>worms in the skin.</description>
+    </item>
+    <item>
+      <headword id="d0e837">mial-chaorach</headword>
+      <description>ticks found in wool.</description>
+    </item>
+    <item>
+      <headword id="d0e846">doille</headword>
+      <description>blindness.</description>
+    </item>
+    <item>
+      <headword id="d0e855">ladhair</headword>
+      <description>swelling.</description>
+    </item>
+    <item>
+      <headword id="d0e864">iongar</headword>
+      <description>puss.</description>
+    </item>
+    <item>
+      <headword id="d0e873">an cridhe</headword>
+      <description>heart.</description>
+    </item>
+    <item>
+      <headword id="d0e882">an gruthan</headword>
+      <description>liver.</description>
+    </item>
+    <item>
+      <headword id="d0e891">am pluc</headword>
+      <description>liver fluke.</description>
+    </item>
+	<item>
+	  <headword id="d0e900">sprog</headword>
+	  <description>liver fluke.</description>
+	</item>
+    <item>
+      <headword id="d0e909">“braxy”</headword>
+      <description>disease of the lungs.</description>
+    </item>
+    <item>
+      <headword id="d0e918">tuainealaich</headword>
+      <description>staggers.</description>
+    </item>
+    <item>
+      <headword id="d0e927">stuird</headword>
+      <description>a disease in sheep.</description>
+    </item>
+    <item><headword id="d0e935" type="heading" level="h1">10. Parts of the body</headword></item>
+    <item>
+      <headword id="d0e940">an ceann agus am muinneil</headword>
+      <description>the head and neck.</description>
+    </item>
+    <item>
+      <headword id="d0e949">rusg, craiceann, seiche</headword>
+      <description>hair, hide.</description>
+    </item>
+    <item>
+      <headword id="d0e958">slinneanan</headword>
+      <description>shoulders.</description>
+    </item>
+    <item>
+      <headword id="d0e967">uchd</headword>
+      <description>breast.</description>
+    </item>
+    <item>
+      <headword id="d0e976">casan toiseich</headword>
+      <description>[sic] forelegs.</description>
+    </item>
+    <item>
+      <headword id="d0e985">an cnamh droma</headword>
+      <description>backbone</description>
+    </item>
+    <item>
+      <headword id="d0e994">smior a cnaimh droma</headword>
+      <description>spinal cord.</description>
+    </item>
+    <item>
+      <headword id="d0e1003">an ceathramh deireadh</headword>
+      <description>hindquarters.</description>
+    </item>
+    <item>
+      <headword id="d0e1012">alt na sleisne</headword>
+      <description>hips.</description>
+    </item>
+    <item>
+      <headword id="d0e1021">bun an earbuill</headword>
+      <description>rump.</description>
+    </item>
+    <item>
+      <headword id="d0e1030">earball</headword>
+      <description>tail.</description>
+    </item>
+    <item>
+      <headword id="d0e1039">ùgh</headword>
+      <description>udder.</description>
+    </item>
+    <item>
+      <headword id="d0e1048">ballan</headword>
+      <description>udder.</description>
+    </item>
+    <item>
+      <headword id="d0e1057">feith</headword>
+      <description>muscle.</description>
+    </item>
+    <item>
+      <headword id="d0e1066">feith-lùghaidh</headword>
+      <description>tendon.</description>
+    </item>
+    <item>
+      <headword id="d0e1075">ceanglachan</headword>
+      <description>ligament.</description>
+    </item>
+    <item>
+      <headword id="d0e1084">maoth-chnaimh</headword>
+      <description>cartilage.</description>
+    </item>
+    <item>
+      <headword id="d0e1093">cridhe</headword>
+      <description>heart.</description>
+    </item>
+    <item>
+      <headword id="d0e1102">cuisle</headword>
+      <description>artery.</description>
+    </item>
+    <item>
+      <headword id="d0e1111">cuisle</headword>
+      <description>vein.</description>
+    </item>
+    <item>
+      <headword id="d0e1120">fuil</headword>
+      <description>blood.</description>
+    </item>
+    <item>
+      <headword id="d0e1129">sgamhan</headword>
+      <description>lungs.</description>
+    </item>
+    <item>
+      <headword id="d0e1138">steic-braghad</headword>
+      <description>windpipe.</description>
+    </item>
+    <item>
+      <headword id="d0e1147">braigh-an-scornain</headword>
+      <description>larynx.</description>
+    </item>
+    <item>
+      <headword id="d0e1156">grùthan</headword>
+      <description>liver.</description>
+    </item>
+    <item>
+      <headword id="d0e1165">dubhagan</headword>
+      <description>kidneys.</description>
+    </item>
+    <item>
+      <headword id="d0e1174">an dubh liath</headword>
+      <description>pancreas.</description>
+    </item>
+    <item>
+      <headword id="d0e1183">colag a chait</headword>
+      <description>pancreas.</description>
+    </item>
+    <item>
+      <headword id="d0e1192">domhlas</headword>
+      <description>the gall.</description>
+    </item>
+    <item>
+      <headword id="d0e1201">faireag</headword>
+      <description>gland.</description>
+    </item>
+    <item>
+      <headword id="d0e1210">sgornan</headword>
+      <description>gullet.</description>
+    </item>
+    <item>
+      <headword id="d0e1219">slugan</headword>
+      <description>gullet.</description>
+    </item>
+    <item>
+      <headword id="d0e1228">maodal</headword>
+      <description>stomach.</description>
+    </item>
+    <item>
+      <headword id="d0e1237">caolan</headword>
+      <description>intestine.</description>
+    </item>
+    <item>
+      <headword id="d0e1246">geir</headword>
+      <description>fat.</description>
+    </item>
+    <item><headword id="d0e1254" type="heading" level="h1">11. Lambing</headword></item>
+    <item>
+      <headword id="d0e1259">Tha a chaora air son an reithe</headword>
+    </item>
+    <item>
+      <headword id="d0e1265">Chaidh i air reithlachd</headword>
+    </item>
+    <item><headword id="d0e1270" type="heading" level="h1">12. Miscellaneous</headword></item>
+    <item>
+      <headword id="d0e1275">am feaman</headword>
+      <description>short tail after docking.</description>
+    </item>
+    <item>
+      <headword id="d0e1284">dosan</headword>
+      <description>small tuft of hair under chin.</description>
+    </item>
+    <item>
+      <headword id="d0e1293">toipean</headword>
+      <description>small tuft of hair under chin.</description>
+    </item>
+    <item>
+      <headword id="d0e1302">caora chlaimheach</headword>
+      <description>scabby sheep.</description>
+    </item>
+    <item>
+      <headword id="d0e1311">cutach</headword>
+      <description>docked or short tail.</description>
+    </item>
+  </items>
+</fieldworkDocument>

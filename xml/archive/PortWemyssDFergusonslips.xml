@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 23/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_PortWemyssDFergusonslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>12/1968</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <informant>
+    <nameEnglish>Donald Ferguson</nameEnglish>
+    <age>c. 75</age>
+    <origin>Islay</origin>
+  </informant>
+  <location>Islay, Port Wemyss</location>
+  <items>
+    <item>
+      <headword id="idp115438912">Lùnasdail</headword>
+      <description>Quotation: Là Lùnasdail, théid an t-sùghadh as a’ chreithire. Notes: said to be the day it [i.e. cleg] loses its sting but also said to depend on the weather. “Creileag” in other parts.</description>
+    </item>
+    <item>
+      <headword id="idp115481032">muc</headword>
+      <description>Quotation: gnos muice. Notes: sow-mouth. In sheep, cattle and horses where the lower jaw is short.</description>
+    </item>
+    <item>
+      <headword id="idp115493128">sith</headword>
+      <description>Quotation: sitheadh runnach, sitheadh ròn, sitheadh na muca-mara mór, ach giomach beag nan casan cama, bheir e rudha thar an t-sròn.</description>
+    </item>
+    <item>
+      <headword id="idp115457632">nighean</headword>
+      <description>Quotation: La Fheill Brìghde brisgeanach, thig an ceann do’n chaitinneach, buinnich an fhaochag air a’ bhàirneach, agus thig nighean Iomhair as an toll. Notes: nighean Iomhair: snake.</description>
+    </item>
+    <item>
+      <headword id="idp161858048">seòl</headword>
+      <description>Quotation: ’S àrd a sheòlas an ceàrdaman ach is ann anns an t-salachair a thuiteas e.</description>
+    </item>
+    <item>
+      <headword id="idp161856032">sgàl</headword>
+      <description>Notes: scald.</description>
+    </item>
+    <item>
+      <headword id="idp161855744">teas</headword>
+      <description>Quotation: teas a’ bhroilein. Notes: said by D.F. to be “inflammation in the manyplies”. Stomach disease or illness.</description>
+    </item>
+    <item>
+      <headword id="idp161854088">teine-dé</headword>
+      <description>Notes: ringworm.</description>
+    </item>
+    <item>
+      <headword id="idp161852576">uireal(l)</headword>
+      <description>[u̟ɾɑɫ] Notes: ring put on a walking stick or on the wooden handle of an implement to prevent its splitting.</description>
+    </item>
+    <item>
+      <headword id="idp161850848">ailbheag</headword>
+      <description>[ɑləvɑɡ] Notes: ring on a rock or on a boat.</description>
+    </item>
+    <item>
+      <headword id="idp161849120">bainne</headword>
+      <description>Quotation: fiabhras a’ bhainne. Notes: milk fever.</description>
+    </item>
+    <item>
+      <headword id="idp161846888">bàirneach</headword>
+      <description>Quotation: Là Fheill Brìghde brisgeanach, thig an ceann do’n chaitinneach, buinnich an fhaochag air a’ bhàirneach, agus thig nighean Iomhair as an toll.</description>
+    </item>
+    <item>
+      <headword id="idp161845088">bodach</headword>
+      <description>Quotation: ’S e ’n aon rud am bodach gibeach agus Iain MacDhùghaill. Notes: six and half a dozen.</description>
+    </item>
+    <item>
+      <headword id="idp161843432">bonnach</headword>
+      <description>Quotation: Bonnach branndair. Notes: see Branndair.</description>
+    </item>
+    <item>
+      <headword id="idp161842064">branndair</headword>
+      <description>[bɾɛ̃n̪d̪ɑɾ] Notes: iron grille used for making bannocks at the fire. “Bonnach branndair”.</description>
+    </item>
+    <item>
+      <headword id="idp161840336">Brìghde</headword>
+      <description>Quotation: Là Fheill Brìghde brisgeanach, thig an ceann do’n chaitinneach, buinnich an fhaochag air a’ bhàirneach, agus thig nighean Iomhair as an toll. Notes: nighean Iomhair – snake.</description>
+    </item>
+    <item>
+      <headword id="idp161838680">brisgeanach</headword>
+      <description>Quotation: Là Fheill Brìghde brisgeanach, thig an ceann do’n chaitinneach, buinnich an fhaochag air a’ bhàirneach, agus thig nighean Iomhair as an toll. Notes: nighean Iomhair – snake.</description>
+    </item>
+    <item>
+      <headword id="idp161837240">broilean</headword>
+      <description>Quotation: teas a’ bhroilein. Notes: said by D.F. to be “inflammation in the manyplies”. Stomach disease or illness.</description>
+    </item>
+    <item>
+      <headword id="idp161835368">buinnich</headword>
+      <description>Quotation: Là Fheill Brìghde brisgeanach, thig an ceann do’n chaitinneach, buinnich an fhaochag air a’ bhàirneach, agus thig nighean Iomhair as an toll.</description>
+    </item>
+    <item>
+      <headword id="idp161833568">caitinneach</headword>
+      <description>Quotation: Là Fheill Brìghde brisgeanach, thig an ceann do’n chaitinneach, buinnich an fhaochag air a’ bhàirneach, agus thig nighean Iomhair as an toll.</description>
+    </item>
+    <item>
+      <headword id="idp161831840">ceàrdaman</headword>
+      <description>Quotation: ’S àrd a sheòlas an ceàrdaman ach is ann anns an t-salachair a thuiteas e.</description>
+    </item>
+    <item>
+      <headword id="idp161831552">clàrag (f)</headword>
+      <description>Notes: square for winding twine (Portnahaven).</description>
+    </item>
+    <item>
+      <headword id="idp161829608">clupaid</headword>
+      <description>Quotation: a’ chlupaid [əxɫu̜ʰpidʹʒ]. Notes: swelling of the neck in sheep and cattle (liver fluke?).</description>
+    </item>
+    <item>
+      <headword id="idp161828024">creithire</headword>
+      <description>Quotation: Là Lùnasdail, theid an t-sùghadh as a’ chreithire. Notes: the cleg was supposed to lose its sting on this day. Also said to depend on the weather.</description>
+    </item>
+    <item>
+      <headword id="idp161826512">faochag</headword>
+      <description>Quotation: Là Fheill Brìghde brisgeanach, thig an ceann de’n chaitinneach, buinnich an fhaochag air a’ bhàirneach, agus thig nighean Iomhair as an toll.</description>
+    </item>
+    <item>
+      <headword id="idp161824712">feòrlan</headword>
+      <description>[fjɔ:rd̪ɑṉ] Quotation: Chaidh an fheannag do’n tràigh is mharbh i ’m partan, [əviʔə] muir làn mharbh i seachd dhiubh, chuir i cas air an tigh mhóir agus cas air a chaisteal, spùt i bolla eòrna agus [fjɔ:rd̪ɑṉ]. Notes: bushel.</description>
+    </item>
+    <item>
+      <headword id="idp161821832">feurtag</headword>
+      <description>[fɛ:rt̪ɑɡ] Notes: warble-fly.</description>
+    </item>
+    <item>
+      <headword id="idp161931056">fiabhras</headword>
+      <description>Quotation: fiabhras a’ bhainne. Notes: milk fever.</description>
+    </item>
+    <item>
+      <headword id="idp161929400">gàilleach</headword>
+      <description>Quotation: an gàilleach. Notes: growths in the mouth in cattle; stream of saliva coming from the mouth.</description>
+    </item>
+    <item>
+      <headword id="idp161928032">gibeach</headword>
+      <description>Quotation: ’S e ’n aon rud am bodach gibeach agus Iain MacDhùghaill. Notes: six and half a dozen.</description>
+    </item>
+    <item>
+      <headword id="idp161926520">gnos</headword>
+      <description>Quotation: gnos muice. Notes: sow-mouth: in sheep, cattle, horses, where the lower jaw is short.</description>
+    </item>
+  </items>
+</fieldworkDocument>

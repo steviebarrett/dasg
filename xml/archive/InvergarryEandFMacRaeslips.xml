@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 1/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_InvergarryEandFMacRaeslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>05/1969</date>
+  <fieldworker>[AJ Smith]</fieldworker>
+  <informant>
+    <nameEnglish>Ewen and Farquhar MacRae</nameEnglish>
+    <age>Age: c. 70 (Ewen) and c. 50 (Farquhar)</age>
+    <origin>Kinlochourn</origin>
+  </informant>
+  <location>Inverness-shire, Invergarry</location>
+  <items>
+    <item>
+      <headword id="idp115789200">ladhran</headword>
+      <description>[ɫɤ:ɾɑ̃ṉ] Notes: clawbar.</description>
+    </item>
+    <item>
+      <headword id="idp115790928">làmhag</headword>
+      <description>[ɫɑ̃:ɑɡ] Notes: axe.</description>
+    </item>
+    <item>
+      <headword id="idp115792656">lipeach</headword>
+      <description>[lʹipɔx] Notes: having a lisp.</description>
+    </item>
+    <item>
+      <headword id="idp115794384">lobht</headword>
+      <description>[ɫoxt̪] Quotation: lobht an fheòir. Notes: hay loft.</description>
+    </item>
+    <item>
+      <headword id="idp115796256">lòineag</headword>
+      <description>[ɫɔ:nʹɑɡ] Notes: snowflake.</description>
+    </item>
+    <item>
+      <headword id="idp115797984">luaircean</headword>
+      <description>Notes: a mock calf.</description>
+    </item>
+    <item>
+      <headword id="idp115799496">meanbh-chrodh</headword>
+      <description>[mɛ̃ṉɑxɾəv] Notes: small stock. Used of cattle or sheep.</description>
+    </item>
+    <item>
+      <headword id="idp115801224">miaganaich</headword>
+      <description>Notes: first sounds made by a young animal.</description>
+    </item>
+    <item>
+      <headword id="idp115802736">muillean</headword>
+      <description>[m[ũ̜ĩ]lʹɛ̃ṉ] Notes: bundle of hay or fodder rolled against the chest with the arms. Becomes barrel-shaped.</description>
+    </item>
+    <item>
+      <headword id="idp115804896">mult</headword>
+      <description>Quotation: sia-raitheach mult, da-bhliadhnach mult.</description>
+    </item>
+    <item>
+      <headword id="idp115806408">roisgean</headword>
+      <description>[rɔʃɡʹɛ̃ṉ] Quotation: roisgean fhliuch. Notes: wet or muddy hem of a garment.</description>
+    </item>
+    <item>
+      <headword id="idp115808280">ròmhan</headword>
+      <description>[rɔ̃:ɑṉ] Quotation: Leig e ròmhan as. Notes: “ròmhanaich” used of the roaring of a bull. Above used of a man.</description>
+    </item>
+    <item>
+      <headword id="idp115810152">ròmhanaich</headword>
+      <description>[rɔ̃:ɑ̃ṉiç] Notes: the roaring of stags.</description>
+    </item>
+    <item>
+      <headword id="idp115811880">ruaidh</headword>
+      <description>[ru̜ɤi] Quotation: a’ ruaidh. Notes: chill in the udder of cows causing inflammation. The milk doesn’t flow so freely.</description>
+    </item>
+    <item>
+      <headword id="idp115813752">pollag</headword>
+      <description>[poɫɑɡ] Notes: potato pit.</description>
+    </item>
+    <item>
+      <headword id="idp115815480">prabag</headword>
+      <description>Notes: a small haycock. See prabag-tuill.</description>
+    </item>
+    <item>
+      <headword id="idp115816992">prabag-tuill</headword>
+      <description>[pɾɑbɑɡt̪[ɤi]lʹ] Notes: bundle of hay rolled round the arms like a muff. Arms pulled out leaving a hole through it. Laid on the ground.</description>
+    </item>
+    <item>
+      <headword id="idp115819152">seot</headword>
+      <description>Notes: pl. seotaichean. Second-class animal. Also used for second-class seed.</description>
+    </item>
+    <item>
+      <headword id="idp115820664">speubhaidh</headword>
+      <description>Notes: lameness in horses due to physical strain.</description>
+    </item>
+    <item>
+      <headword id="idp115822176">splocan</headword>
+      <description>[spɫɔxkɑṉ] Notes: advanced form of liver fluke.</description>
+    </item>
+    <item>
+      <headword id="idp115823904">stùirtean</headword>
+      <description>[st̪u̜:ʴstʹəṉ] Notes: water on the brain in sheep. [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+    <item>
+      <headword id="idp115825776">taghan</headword>
+      <description>[t̪ɤɣɑ̃ṉ] Notes: pole-cat.</description>
+    </item>
+    <item>
+      <headword id="idp115827504">tein’-éilt</headword>
+      <description>[tʹɛ̃ṉe:lʹtʹ] Notes: electrical flashes in the sky on a clear night.</description>
+    </item>
+    <item>
+      <headword id="idp115829232">toroisgian</headword>
+      <description>[t̪ɔɾɔʃɡʹĩɑ̃ṉ] Notes: peat-cutting iron.</description>
+    </item>
+    <item>
+      <headword id="idp115830960">ath-dianag</headword>
+      <description>Notes: an old maiden ewe, getting on for three years old.</description>
+    </item>
+    <item>
+      <headword id="idp115832544">beul-muic</headword>
+      <description>[beɫm[ũĩ]çc] Notes: “sow-mouthed” in animals. Also “bus-muic”.</description>
+    </item>
+    <item>
+      <headword id="idp115834776">brocair</headword>
+      <description>Notes: badger hunter or vermin hunter in general.</description>
+    </item>
+    <item>
+      <headword id="idp115836288">bualadair</headword>
+      <description>Notes: the striker of the flail.</description>
+    </item>
+    <item>
+      <headword id="idp115837800">bùireanaich</headword>
+      <description>[bu̟:ɾɑṉiç] Notes: the bellowing of a bull.</description>
+    </item>
+    <item>
+      <headword id="idp115839528">bus-muic</headword>
+      <description>Notes: “sow-mouthed” in pigs. Also “beul-muic”.</description>
+    </item>
+    <item>
+      <headword id="idp115841040">cas-bheag</headword>
+      <description>Quotation: a’ cur a mhoine air cas-bheag. Notes: one peat lying with another two peats having one end on the ground and the other resting on the flat peat.</description>
+    </item>
+    <item>
+      <headword id="idp115842696">currachdag</headword>
+      <description>Notes: haycock.</description>
+    </item>
+    <item>
+      <headword id="idp115844208">dais</headword>
+      <description>Quotation: dais móine. Notes: fairly large collection of peats lifted into the one structure to dry. Verb – a’ daiseadh.</description>
+    </item>
+    <item>
+      <headword id="idp115845864">drafas</headword>
+      <description>Notes: rubbish.</description>
+    </item>
+    <item>
+      <headword id="idp115847376">flichnich</headword>
+      <description>[fliçṉiç] Notes: sleet.</description>
+    </item>
+    <item>
+      <headword id="idp115849104">froiseag</headword>
+      <description>Notes: small potato.</description>
+    </item>
+    <item>
+      <headword id="idp115850616">geanaireag</headword>
+      <description>[ɡʹɛ̃ṉɑɾɑɡ] Notes: stone hammer.</description>
+    </item>
+    <item>
+      <headword id="idp115852344">geimhleag</headword>
+      <description>[ɡʹ[ɛ̃ĩ]lɑɡ] Notes: crow-bar.</description>
+    </item>
+    <item>
+      <headword id="idp115854504">geumraich</headword>
+      <description>[ɡe:məɾıç] Notes: the lowing of a cow.</description>
+    </item>
+    <item>
+      <headword id="idp115856232">gobhar-dubh-an-éisg</headword>
+      <description>Notes: the dipper. (Or lòn-dubh-an-éisg, according to D. Robertson, Invergarry.)</description>
+    </item>
+    <item>
+      <headword id="idp115857744">grainneach</headword>
+      <description>[ɡɾɑ̃nʹɑx] Notes: crabbit. Lewis: [ɡrɑ̃n̪ɑx].</description>
+    </item>
+    <item>
+      <headword id="idp115859760">gròig</headword>
+      <description>[ɡɾɔ:ɡʹ] Notes: a ham-handed person. Adj. gròigeach.</description>
+    </item>
+    <item>
+      <headword id="idp115861488">gròigeach</headword>
+      <description>[ɡɾɔ:ɡʹɑx] Notes: ham-handed.</description>
+    </item>
+  </items>
+</fieldworkDocument>

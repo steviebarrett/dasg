@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 1 8 14 -->
+<!-- ILLUSTRATIONS -->
+<fieldworkDocument docId="AOHenley_SouthGlendaleJMacInnesmisc" docType="wordlist" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>[1987-88]</date>
+  <fieldworker personId="ohenleya">A. O’Henley</fieldworker>
+  <note>[NOTES: some notes added (most probably by K. D. MacDonald?). See below for details.]</note>
+  <informant>
+    <nameEnglish>John MacInnes</nameEnglish>
+  </informant>
+  <location>[South Uist], South Glendale</location>
+  <items>
+    <item>
+      <headword id="idp112533144">teine bliannain</headword>
+      <description>phosphorescence.</description>
+    </item>
+    <item>
+      <headword id="idp112525008">lìgh</headword>
+      <description>an oily surface indicating the presence of herring. [NOTES: corrected to ‘lìth’.]</description>
+    </item>
+    <item>
+      <headword id="idp112468272">siullagan</headword>
+      <description>sand eels. Eaten by the gannet and by herring. [NOTES: corrected to ‘siulagan’.]</description>
+    </item>
+    <item>
+      <headword id="idp112517592">leath chas</headword>
+      <description>term used when repairing a square in the net. ‘Leath chas’ would be put here:<illustration src="SouthGlendaleJMacInnesmiscillust1.jpg" width="200"/></description>
+    </item>
+    <item>
+      <headword id="idp112545168">suthag</headword>
+      <description>patching up a torn net. “A’ cuir suthag orra.”</description>
+    </item>
+    <item>
+      <headword id="idp112502688">druim-àrca</headword>
+      <description>the top rope of a net. [NOTES: ‘of a net’ added in second hand.]</description>
+    </item>
+    <item>
+      <headword id="idp112440768">cairteadh</headword>
+      <description>for the tarring of nets.</description>
+    </item>
+    <item>
+      <headword id="idp112537968">cairt</headword>
+      <description>for the brown substance which came from the West Indies and was used for tarring.</description>
+    </item>
+    <item>
+      <headword id="idp112502472">a’ ducadh</headword>
+      <description>dipping the nets in the aforementioned substance [i.e. cairt [q.v.]].</description>
+    </item>
+    <item>
+      <headword id="idp112524936">hancaichean</headword>
+      <description>hanks of twine.</description>
+    </item>
+    <item>
+      <headword id="idp112471872">fileadh na lìn</headword>
+      <description>the net on its own without ropes.</description>
+    </item>
+    <item>
+      <headword id="idp112485840">seanga</headword>
+      <description>the eye of the needle.</description>
+    </item>
+    <item>
+      <headword id="idp112546464">gròbadh ri cheile</headword>
+      <description>temporary repair of nets at sea.</description>
+    </item>
+    <item>
+      <headword id="idp112450560">pocannan na lìn</headword>
+      <description>the sides of the net.</description>
+    </item>
+    <item>
+      <headword id="idp112540632">buidhe-ròp</headword>
+      <description>the buoy rope. Six fathoms between the buoy and the net.</description>
+    </item>
+    <item>
+      <headword id="idp112453152">claigeann a’ bhuthta</headword>
+      <description>the top of the buoy where the rope was tied. [NOTES: note added above ‘bhuthta’ – bhuta.]</description>
+    </item>
+    <item>
+      <headword id="idp112472520">paidhir</headword>
+      <description>refers to two ringers working together.</description>
+    </item>
+    <item>
+      <headword id="idp112461792">smeallag</headword>
+      <description>spent herring. Meant that its eggs had been planted. Used for bait and usually found in September.</description>
+    </item>
+    <item>
+      <headword id="idp112511400">cnap</headword>
+      <description>used for a shoal of herring.</description>
+    </item>
+    <item>
+      <headword id="idp112484472">deannan sgadain</headword>
+      <description>about 20 crans.</description>
+    </item>
+    <item>
+      <headword id="idp112529544">sgadan goilleach</headword>
+      <description>gut poke herring.</description>
+    </item>
+    <item>
+      <headword id="idp112440264">tanalachd</headword>
+      <description>shallow ground.</description>
+    </item>
+    <item>
+      <headword id="idp112443144">bradan mór</headword>
+      <description>sturgeon.</description>
+    </item>
+    <item>
+      <headword id="idp112528176">tha na lìn nan cris</headword>
+      <description>nets are tied up in nets [sic] [knots?] as a result of gales and changing currents. [NOTES: note added above ‘cris’ – crios.]</description>
+    </item>
+  </items>
+</fieldworkDocument>
+

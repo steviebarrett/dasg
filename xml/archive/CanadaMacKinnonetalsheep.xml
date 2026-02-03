@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 3 5 13 -->
+<fieldworkDocument docId="Canada_CanadaMacKinnonetalsheep" docType="questionnaire" subType="Sheep">
+  <title>Caoraich / Sheep</title>
+  <date>[1969]</date>
+  <fieldworker>Susan Norwood</fieldworker>
+  <informant>
+    <nameEnglish>S.J. MacKinnon</nameEnglish>
+    <origin>([Canada], Inverness Co., Lochaber)</origin>
+  </informant>
+  <informant>
+    <nameEnglish>James MacKay</nameEnglish>
+    <origin>([Canada], Inverness Co., Lochaber dialect)</origin>
+  </informant>
+  <informant>
+    <nameEnglish>Alec Beaton</nameEnglish>
+    <origin>([Canada], Inverness Co., Lochaber dialect)</origin>
+  </informant>
+  <location>Canada</location>
+  <items>
+    <item><headword id="d0e44" type="heading" level="h1">1. Different stages in the growth of sheep (female)</headword></item>
+    <item>
+      <headword id="d0e49">uan boirionn</headword>
+      <description>female lamb until first shearing.</description>
+    </item>
+    <item>
+      <headword id="d0e58">uan firionn</headword>
+      <description>male lamb until first shearing.</description>
+    </item>
+    <item>
+      <headword id="d0e67">othaisg</headword>
+      <description>female after first shearing.</description>
+    </item>
+    <item>
+      <headword id="d0e76">bliadhanach</headword>
+      <description>yearling.</description>
+    </item>
+    <item>
+      <headword id="d0e85">molt</headword>
+      <description>castrated male.</description>
+    </item>
+    <item>
+      <headword id="d0e94">mult</headword>
+      <description>castrated male (rare).</description>
+    </item>
+    <item>
+      <headword id="d0e103">ruta</headword>
+      <description>ram. (Inverness)</description>
+    </item>
+    <item>
+      <headword id="d0e112">rèidh</headword>
+      <description>ram. (Victoria)</description>
+    </item>
+    <item>
+      <headword id="d0e121">ruigeann</headword>
+      <description>half-castrated.</description>
+    </item>
+    <item>
+      <headword id="d0e130">caora</headword>
+      <description>sheep.</description>
+    </item>
+    <item>
+      <headword id="d0e139">caora sheasg</headword>
+      <description>old, dry sheep.</description>
+    </item>
+    <item>
+      <headword id="d0e148">caora-uain</headword>
+      <description>pregnant sheep.</description>
+    </item>
+    <item>
+      <headword id="d0e157">seot</headword>
+      <description>rejected sheep ([pron.?] shoat).</description>
+    </item>
+    <item><headword id="d0e165" type="heading" level="h1">2. Different stages in the growth of sheep (male)</headword></item>
+	<item>
+	  <headword id="idola51">[note]</headword>
+	  <description>(See (1))</description>
+	</item>
+    <item><headword id="d0e178" type="heading" level="h1">3. Different stages in the growth of the castrated male</headword></item>
+    <item>
+	  <headword id="idola52">[note]</headword>
+	  <description>(See (1))</description>
+	</item>
+	<item><headword id="d0e191" type="heading" level="h1">4. Sheep’s appearance</headword></item>
+    <item>
+      <headword id="d0e196">caora dhubh</headword>
+      <description>black sheep.</description>
+    </item>
+    <item><headword id="d0e204" type="heading" level="h1">5. Miscellaneous</headword></item>
+	<item>
+	  <headword id="idola53">[note]</headword>
+	  <description>(See (1))</description>
+	</item>
+    <item><headword id="d0e217" type="heading" level="h1">6. Feeding and grazing</headword></item>
+    <item>
+      <headword id="d0e222">biathadh</headword>
+      <description>feeding.</description>
+    </item>
+    <item><headword id="d0e230" type="heading" level="h1">7. Handling of sheep</headword></item>
+    <item>
+      <headword id="d0e235">fang</headword>
+      <description>fank.</description>
+    </item>
+    <item>
+      <headword id="d0e244">comharradh</headword>
+      <description>ear-marking.</description>
+    </item>
+    <item>
+      <headword id="d0e253">spoth</headword>
+      <description>castration.</description>
+    </item>
+    <item>
+      <headword id="d0e262">stubadh</headword>
+      <description>docking.</description>
+    </item>
+    <item><headword id="d0e270" type="heading" level="h1">8. Apparatus</headword></item>
+	<item>
+	  <headword id="idola54">[note]</headword>
+	  <description>(same as cattle) [NOTES: see point 9 in the Crodh / Cattle questionnaire by the same informants.]</description>
+	</item>
+    <item><headword id="d0e283" type="heading" level="h1">9. Diseases</headword></item>
+    <item>
+      <headword id="d0e288">meòil-chaorachan</headword>
+      <description>sheep-lice.</description>
+    </item>
+    <item><headword id="d0e296" type="heading" level="h1">10. Parts of the body</headword></item>
+	<item>
+	  <headword id="idola55">[note]</headword>
+	  <description>(same as cattle) [NOTES: see point 5 in the Crodh / Cattle questionnaire by the same informants.]</description>
+	</item>
+    <item>
+      <headword id="d0e310">craiceann</headword>
+      <description>hide or pelt.</description>
+    </item>
+    <item><headword id="d0e318" type="heading" level="h1">11. Lambing</headword></item>
+    <item>
+      <headword id="d0e323">glanadh</headword>
+      <description>placenta.</description>
+    </item>
+    <item><headword id="d0e331" type="heading" level="h1">12. Miscellaneous</headword></item>
+    <item>
+      <headword id="d0e336">ceideag</headword>
+      <description>tuft of wool.</description>
+    </item>
+  </items>
+</fieldworkDocument>

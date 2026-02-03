@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 3 5 13 -->
+<fieldworkDocument docId="MurdoMacLeod_GlasgowMMacLeodland" docType="questionnaire" subType="LandscapeFeatures">
+  <title>Cruth na Tìre / Landscape Features</title>
+  <date>[1972 on the slips]</date>
+  <fieldworker>[self]</fieldworker>
+  <note>[NOTES: the questionnaire comes with a loose page “Facail ann an ainmeannan”, which has been copied at the end of this file.]</note>
+  <note>[NOTES: the informant uses E and I to mark the gender of the nouns, masculine and feminine respectively.]</note>
+  <informant>
+    <nameEnglish>Murchadh MacLeòid (Murdo MacLeod)</nameEnglish>
+    <origin>[Lewis, Uig an Iar]</origin>
+  </informant>
+  <location>[Glasgow]</location>
+  <!-- illustrations -->
+  <items>
+    <item><headword id="d0e37" type="heading" level="h1">Mountains, hills</headword></item>
+    <item><headword id="d0e41" type="heading" level="h1">Beanntan agus Cnuic</headword></item>
+    <item>
+      <headword id="d0e46">[beinn]</headword>
+      <description>Tha sinn a’ cleachdadh ‘beinn’ mar seo: Sing. N. Beinn. G. Beinne. D. Beinn. V. A Bheinn. Pl. N. Beanntan, Beannaibh. G. Beann, Bheann, Bheanntan. D. Bheanntan, Bheannaibh, Beanntan, Beannaibh. V. A Bheanntan, A Bheannaibh. Beinn Mhiabhag. Beanntan na Hearadh. Beannaibh na Hearadh. Beinn mhór. Taobh na beinne. Air beinn. Ann am beinn. A Bheinn Bhreac (airson beinn sam bith). Beanntan àrda. Beannaibh na Hearadh. Mullach nam beann. Làn bheann. Móran bheanntan. Air beanntan àrda. Air beannaibh àrda. Mu bheanntan àrda. Mu bheannaibh àrda. Tha seo shuas airson sealltainn mar a tha cùisean N. G. D. V. againn ann an Uig an Iar.</description>
+    </item>
+    <item>
+      <headword id="d0e55">mullach (E)</headword>
+      <description>Mullach na beinne.</description>
+    </item>
+    <item>
+      <headword id="d0e64">gualainn (I)</headword>
+      <description>Gualainn na beinne.</description>
+    </item>
+    <item>
+      <headword id="d0e73">taobh (E)</headword>
+      <description>Taobh na beinne.</description>
+    </item>
+    <item>
+      <headword id="d0e82">slios (E)</headword>
+      <description>Slios na beinne. A taobh air a fhad gu h-àraid, agus air a leud mar an ceudna. Cha chuala mi a riamh air a chleachdadh ‘slios a’ chnuic’.</description>
+    </item>
+    <item>
+      <headword id="d0e91">bonn (E)</headword>
+      <description>Bonn na beinne.</description>
+    </item>
+    <item>
+      <headword id="d0e100">sgarbh reamhar</headword>
+      <description>Tha an t-ainm-sa againn ann an dà àite ann am Beannaibh Uige. Sgarbh Reamhar aig a’ Bheinn-a-deas anns na Beannaibh Meadhonach agus Sgarbh Reamhar Theinniseal ann am beannaibh Eadar-Dha-Fhadhail. Sgarbh Reamhar, b’e seo cnap de an bheinn (an cnap as fheàrr dhi tha mi ’n dùil) ag éirigh as a déidh fhein mar seo: [see illustration]. Chan eil fhios ’am am bheil an t-ainm-sa an àite sam bith eile.
+        <illustration src="GlasgowMMacLeodlandillust1.jpg" width="400"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e111">mùla</headword>
+      <description>Tha an t-ainm-sa an dà àite againn, cuideachd, am Beannaibh Uige. Mùla Chaolartan, agus Mùla Thamnaiseal. Anns na mapaichean, cho fada agus is aithne dhomh, ’se ‘maola’ a th’aca. Ach air bilean an t-sluaigh ’s e ‘mùla’, m-ù-l-a. Agus ann an còmhradh canaidh iad ‘mùla eagalach’ ’s mar sin far am biodh cruach mhònach no mar sin garbh-beartach mór. “’Se mùla eagalach a th’innte.”</description>
+    </item>
+    <item>
+      <headword id="d0e120">coire (E)</headword>
+      <description>Chan eil e againn an còmhradh cumanta idir. Ach tha e againn ann an ainm: Coire Dhìobadail ann am Beannaibh Eadar-dha- [sic] [Fadhail? see above].</description>
+    </item>
+    <item>
+      <headword id="d0e129">gleann (E)</headword>
+      <description>Tha seo anns a h-uile h-àit. Chan eil ‘gleannan’ againn uair sam bith ’ga chleachdadh.</description>
+    </item>
+    <item>
+      <headword id="d0e138">gil (I)</headword>
+      <description>Tha e seo againn.</description>
+    </item>
+    <item>
+      <headword id="d0e147">stiodha (E)</headword>
+      <description> (Fuaimnich mar ‘fiodha’.)</description>
+    </item>
+    <item>
+      <headword id="d0e156">creag (I)</headword>
+      <description>Tha e seo anns a h-uile h-àit.</description>
+    </item>
+    <item>
+      <headword id="d0e165">palla (E)</headword>
+      <description>Mar aig M’Ghill’fhinnein.</description>
+    </item>
+    <item>
+      <headword id="d0e174">staing</headword>
+      <description>Faic Dwelly 4. “Small pointed rock”. ’S ann rudeigin mar sin a tha e againne ann an aodann creige. Àite anns an seasadh tu no anns an greimich tu. ’S mar sin. Faic MacGhillfh. cuideachd.</description>
+    </item>
+    <item>
+      <headword id="d0e183">uamha (I)</headword>
+      <description>Tha e seo anns a h-uile h-àit.</description>
+    </item>
+    <item>
+      <headword id="d0e192">càrn (E)</headword>
+      <description>Tha e seo anns a h-uile h-àit.</description>
+    </item>
+    <item>
+      <headword id="d0e201">càrnan (E)</headword>
+      <description>Seo e: [see illustration]. Cha chan sinn ‘càrn’ uair sam bith ris an fhear-sa. Càrnan. Is ann a tha ‘càrn’ againne air cnap de chlachan móra ’s mar sin ann an aodann cnuic no aig bonn leothaid, ’s mar sin. Is gann cnoc ’san àite againne gun càrnan ’n a mhullach. Na beanntan faisg air an rud [?].
+        <illustration src="GlasgowMMacLeodlandillust2.jpg" width="200"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e212">clach-rathad (E)</headword>
+      <description>Slighe chlachach eadar dà chnoc ’s mar sin.</description>
+    </item>
+    <item>
+      <headword id="d0e221">cnoc (E)</headword>
+    </item>
+    <item>
+      <headword id="d0e227">creagan (E)</headword>
+    </item>
+	<item>
+	  <headword id="idola160">[note]</headword>
+      <description>Tha mi a’ cur gnothaichean na tìre air fad air na duilleagan “mountains, hills etc.” agus “moorland features etc.” agus “rivers, burns etc.”</description>
+	</item>
+    <item>
+      <headword id="d0e242">geàrraidh (E)</headword>
+    </item>
+    <item>
+      <headword id="d0e248">àirigh (I)</headword>
+      <description>Tha móran dhiubh seo ’s na h-ainmeannan, mar Àirigh na Cloiche, Àirigh Bànaig, Àirigh an Druim Móir, ’s mar sin. Agus gun choltas gu robh àirigh (am bothan) ann a riamh. Faic Dwelly 2, 3. M’Ghillfh. 2.</description>
+    </item>
+    <item>
+      <headword id="d0e257">loch (I)</headword>
+    </item>
+    <item>
+      <headword id="d0e263">aoidh</headword>
+      <description>Faic ‘ùidh’ ’s na faclairean.</description>
+    </item>
+    <item><headword id="d0e271" type="heading" level="h1">Moorland features</headword></item>
+    <item>
+      <headword id="d0e276">mòinteach (I)</headword>
+      <description>’Se ‘mòinteach’ a th’againn an còmhnuidh. ’Sann tearc, tearc a chanas sinn ‘monadh’.</description>
+    </item>
+    <item>
+      <headword id="d0e285">sliabh (E)</headword>
+      <description>Seadh anns an can sinn ‘sliabh’. Talamh an taobh a muigh do’n talamh àiteach agus a tha air fàs fiadhaich no talamh fiadhaich no air fàs fiadhaich an àite sam bith, canaidh, no chanadh, sinn uime “tha e dìreach ’na shliabh”. Am facail ‘sliabh’ fhéin chan eil e againn ach dìreach nuair a bhios fìor fheum air.</description>
+    </item>
+    <item>
+      <headword id="d0e294">tom (E)</headword>
+    </item>
+    <item>
+      <headword id="d0e300">toman (E)</headword>
+    </item>
+    <item>
+      <headword id="d0e306">bruthach (I)</headword>
+    </item>
+    <item>
+      <headword id="d0e312">rias (I)</headword>
+      <description>Cladhan bog, fliuch anns an t-sliabh. (Rias – fuaimnich mar ciās.)</description>
+    </item>
+    <item>
+      <headword id="d0e321">fèith (I)</headword>
+      <description>Na’s motha an cumantas na ‘rias’ [q.v.]. Dubh an cumantas agus gun uisge air a h-uachdar. Anns an deadh ainmhidh an sàs. Agus abair sin!</description>
+    </item>
+    <item>
+      <headword id="d0e330">lèana (I)</headword>
+    </item>
+    <item>
+      <headword id="d0e336">prèach (E)</headword>
+      <description>Lòn tana, farsuing, bog. Uaireannan dubh agus uaireannan le na h-uibhir de bhreacadh feòir ann, no air.</description>
+    </item>
+    <item>
+      <headword id="d0e345">breun-loch (E)</headword>
+      <description>Rudeigin mar ‘prèach’ [q.v.] ach mór, mór a bharrachd air. (Fuaimnich mar ian agus loch: ianloch, brianloch, breun’-loch.)</description>
+    </item>
+    <item>
+      <headword id="d0e354">boglach (E)</headword>
+      <description>[Boglach agus cruadhlach.] Na dhà an ceart-aghaidh a chèile. Boglach – bog, cruadhlach – cruaidh.</description>
+    </item>
+    <item>
+      <headword id="d0e363">cruadhlach (E)</headword>
+      <description>[See boglach]</description>
+    </item>
+    <item>
+      <headword id="d0e372">sùil (I)</headword>
+      <description>Àite cruinn air leth bog anns an t-sliabh no anns a’ mhòintich cuideachd a leithid sin anns am biodh bùrn ag éirigh. Tha tè mhór chunnartach dhiubh seo (sùil) air mòinteach Uige. An t-Sùil Ghorm.</description>
+    </item>
+    <item>
+      <headword id="d0e381">sùil-chruthaich (I)</headword>
+      <description>’Se seo a th’againn airson ‘suil-chrithach’ an àiteachan eile.</description>
+    </item>
+    <item>
+      <headword id="d0e390">bot (E)</headword>
+      <description>Cho fada agus is aithne dhomsa, chan ann mar anns na faclairean a tha sealladh air ‘bot’ againne idir. Ach àite bog, toll, fèith, no mar sin (cruinn no mar sin) anns an deadh caora an sàs, no anns an deadh i anns an rathad.</description>
+    </item>
+    <item>
+      <headword id="d0e399">toll (E)</headword>
+    </item>
+    <item>
+      <headword id="d0e405">sloc (E)</headword>
+    </item>
+    <item>
+      <headword id="d0e411">pollag (I)</headword>
+      <description>Againne mar anns a’ cheud chiall aig Dwelly “Little pool, hole, pit or pond”. Agus a’ cheud chiall aig MacGhillfhinnein “A little pit”. Na ciallan eile chan eil iad againn idir. Dìreach againne, na sluic, na bruthaichean briste dubha, na lòin ’s na tuill, ’s na riasan [?] ’s an còrr am measg a chèile gu h-àraidh an t-iomlan beag agus briste, sin na pollagan. “Anns na pollagan”, “Am measg nam pollagan.”</description>
+    </item>
+    <item>
+      <headword id="d0e420">lag (E)</headword>
+      <description>[Lag agus slag.] ’S iongantach gu bheil móran deifir eadar na dhà-sa an àite sam bith.</description>
+    </item>
+    <item>
+      <headword id="d0e429">slag (E)</headword>
+      <description>[See lag]</description>
+    </item>
+    <item>
+      <headword id="d0e438">glaic (I)</headword>
+      <description>‘Glaic’ agus chan e ‘glac’, a th’againn agus faodaidh sibh a ghabhail mar a tha e có dhiù aig Dwelly agus MacGhillfhinnein.</description>
+    </item>
+    <item>
+      <headword id="d0e447">lòn (E)</headword>
+    </item>
+    <item>
+      <headword id="d0e453">feadan (E)</headword>
+      <description>“Crevice through which the wind whistles” aig Dwelly (6.). Againne faodaidh mi a ràdh fosgladh de’n t-seòrsa aig cnuic. Agus tha am facal beò fhathast ’s a’ chòmhradh chumanta. ’S aithne dhomh a dhà ’s an nàbachd, ann an ainmeannan.</description>
+    </item>
+	<item>
+	  <headword id="idola161">[note]</headword>
+      <description>Chanainn gu bheil tom, toman, bruthach, lèana, toll, sloc, lag, gu bheil iad anns a h-uile h-àit.</description>
+	</item>
+    <item>
+      <headword id="d0e471">druim (E)</headword>
+    </item>
+    <item>
+      <headword id="d0e477">màs (E)</headword>
+    </item>
+    <item>
+      <headword id="d0e483">bealach (E)</headword>
+    </item>
+	<item>
+	  <headword id="idola162">[note]</headword>
+      <description>Ann an ainmeannan tha againn: cnap, crò, lurga, bruga, clach, palla, lobhta, slinnean, òs, leac, sròn, dùnan, sìthean, lòn, beàrn, cadha, àrd, lùib, sgor.</description>
+	</item>
+    <item>
+      <headword id="d0e498">uchdan (E)</headword>
+    </item>
+    <item>
+      <headword id="d0e504">brugan (E)</headword>
+    </item>
+    <item>
+      <headword id="d0e510">bioda (E)</headword>
+      <description> “Pointed top” aig MacGhillfh. “Hill top” (2) aig Dwelly. Mar is aithne dhomsa e, faodaidh mi a ràdh ‘pointed hill-top’.</description>
+    </item>
+    <item>
+      <headword id="d0e519">cadha (E)</headword>
+      <description>Dìreach mar aig Dwelly (1).</description>
+    </item>
+    <item>
+      <headword id="d0e528">clobh</headword>
+      <description>(Fuaimnich mar gheobh.) Tha fear no dhà dhiubh seo, mur eil barrachd, aig Bhaltas ann an Uig. Clobh Chràgabhig aon dhiubh. ’Se fosgladh no seòrsa de ghleann a th’ann, no mar sin. Chan fhaca mi a riamh ‘clobh’ sgrìobhte, ’s cha chuala mi mu dheidhinn an àite eile.</description>
+    </item>
+    <item>
+      <headword id="d0e537">glodhar</headword>
+      <description>Eadar dà bheinn anns na Beannaibh Meadhonach ann an Uig tha àite agus ’se An Glodhar Glas an t-ainm a th’air. Am bealach eadar dà bheinn, mar seo:
+        <illustration src="GlasgowMMacLeodlandillust3.jpg" width="500"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e548">glomhar</headword>
+      <description>[See glodhar]</description>
+    </item>
+    <item>
+      <headword id="d0e557">miasaid</headword>
+      <description>(Fuaimnich mar sliasaid.) Tha fear dhiubh seo aig loch aig Aird Uige. ’Se seòrsa de chladach tioram – pìos mór, mór dheth – a th’ann. Cladach agus morghan, agus smait gainmheach. Shuas aig Bréidhnis tha Druim a’ Mhiasaid. Chan eil eòlas sam bith agam de an seòrsa àite a th’ann.</description>
+    </item>
+    <item><headword id="d0e565" type="heading" level="h1">Coastal features</headword></item>
+    <item>
+      <headword id="d0e570">camus (E)</headword>
+    </item>
+    <item>
+      <headword id="d0e576">bàgh (E)</headword>
+    </item>
+    <item>
+      <headword id="d0e582">caolas (E)</headword>
+    </item>
+    <item>
+      <headword id="d0e588">poll (E)</headword>
+      <description>Tha trì dhiubh seo againn fhìn ann an Crabhlastadh. A chuid as fhasgaiche ann am bàgh ’s mar sin a bh’unnda.</description>
+    </item>
+    <item>
+      <headword id="d0e597">toll (E)</headword>
+    </item>
+    <item>
+      <headword id="d0e603">rudha (E)</headword>
+    </item>
+    <item>
+      <headword id="d0e609">ceann (E)</headword>
+    </item>
+    <item>
+      <headword id="d0e615">eilean (E)</headword>
+    </item>
+    <item>
+      <headword id="d0e621">sgeir (I)</headword>
+    </item>
+    <item>
+      <headword id="d0e627">bogha (E)</headword>
+    </item>
+    <item>
+      <headword id="d0e633">bogha-làir (E)</headword>
+      <description>Bogha nach bi a’ tighinn ris uair sam bith.</description>
+    </item>
+    <item>
+      <headword id="d0e642">stac (E)</headword>
+    </item>
+    <item>
+      <headword id="d0e648">leumadair (E)</headword>
+      <description>Tha trì dhiubh seo ’s a’ bhàgh againn fhìn, Camus Ùige. ’Se cnap beag a th’ann air falbh bho rudha no mar sin. Mar seo:
+        <illustration src="GlasgowMMacLeodlandillust4.jpg" width="400"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e659">gob (E)</headword>
+    </item>
+    <item>
+      <headword id="d0e665">geodha (I)</headword>
+    </item>
+    <item>
+      <headword id="d0e671">creag (I)</headword>
+    </item>
+    <item>
+      <headword id="d0e677">palla (E)</headword>
+      <description>Mar aig M’Ghill’fhinnein.</description>
+    </item>
+    <item>
+      <headword id="d0e686">leac (I)</headword>
+    </item>
+    <item>
+      <headword id="d0e692">cladach (E)</headword>
+    </item>
+    <item>
+      <headword id="d0e698">liath-chladach (E)</headword>
+      <description>An cladach eadar na creagan móra agus am feur. An cladach cumanta gheibh am muir thuige dìreach, airson a riasladh uair sam bith. Tha dhà no trì de’n t-seòrsa-sa ’s a bhaile againn fhìn.</description>
+    </item>
+    <item>
+      <headword id="d0e707">mol (E)</headword>
+    </item>
+    <item>
+      <headword id="d0e713">sgor (I)</headword>
+    </item>
+    <item>
+      <headword id="d0e719">stiodha (E)</headword>
+      <description>Slighe chaol agus, mar as trice, chunnartach, ann an aodann creige.</description>
+    </item>
+    <item>
+      <headword id="d0e728">faing (I)</headword>
+      <description>Tha seo againn ann an ainm àiteachan. Tha dhà dhiubh ’s a bhaile againn.</description>
+    </item>
+    <item>
+      <headword id="d0e737">tòb (E)</headword>
+      <description>Mar aig M’Ghill’fhinnein.</description>
+    </item>
+    <item>
+      <headword id="d0e746">oitir (I)</headword>
+      <description>Mar a’ cheud chiall ’s na faclairean. M’Ghill. agus Dw.</description>
+    </item>
+    <item>
+      <headword id="d0e755">seilero (E)</headword>
+      <description>Tha fear dhiubh seo ann am Bréidhnis agus ann am Mangarstadh. Fear Bhréidhnis ’se toll a th’ann, pìos a stigh ’s an tìr.</description>
+    </item>
+    <item>
+      <headword id="d0e764">carragh (E)</headword>
+      <description>Cnap comharraichte (creag) de chreig no am measg nan creag.
+        <illustration src="GlasgowMMacLeodlandillust5.jpg" width="400"/>
+        <illustration src="GlasgowMMacLeodlandillust6.jpg" width="400"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e777">tanalach (E)</headword>
+    </item>
+    <item>
+      <headword id="d0e783">port (E)</headword>
+      <description>Far am bithear a fàgail ’s ag acrachadh nan eathraichean. Agus ’g an tarruing.</description>
+    </item>
+    <item>
+      <headword id="d0e792">dubh-loch (E)</headword>
+      <description>(Fuaimnich dùbh-loch.) Tha seo againn ann an ainm. Agus ’se lochan dubha (lòin) a th’ann. (Chuir mi seo, dubh-loch, ’s an àite cheàrr.)</description>
+    </item>
+    <item>
+      <headword id="d0e801">faodhail (I)</headword>
+      <description>(Faic na faclairean.) Tha seo againn, grunnan dhiubh. Agus ann an Crabhlastadh againn fhìn, tha ‘ruith-fhaodhail’ [q.v.].</description>
+    </item>
+    <item>
+      <headword id="d0e810">ruith-fhaodhail (I)</headword>
+      <description>Chan eil cinnt sam bith agam c’arson a tha an t-ainm ‘ruith-fhaodhail’. [See faodhail]</description>
+    </item>
+    <item><headword id="d0e818" type="heading" level="h1">Rivers, burns</headword></item>
+    <item>
+      <headword id="d0e823">abhainn</headword>
+    </item>
+    <item>
+      <headword id="d0e829">allt</headword>
+    </item>
+    <item>
+      <headword id="d0e835">sruthan</headword>
+    </item>
+    <item>
+      <headword id="d0e841">àth</headword>
+    </item>
+    <item>
+      <headword id="d0e847">eas</headword>
+    </item>
+	<item>
+	  <headword id="idola163">[note]</headword>
+      <description>Tuilleadh ri t-d a trì [i.e. Moorland features].</description>
+	</item>
+    <item>
+      <headword id="d0e862">glotag</headword>
+      <description>Lag beag, beag, cruinn.</description>
+    </item>
+    <item>
+      <headword id="d0e871">croit</headword>
+      <description>Tha feadhainn dhiubh seo againn ann an ainmeannan ’s a bhaile. Chan e talamh àitich idir. ’Se dromannan a th’unnda.</description>
+    </item>
+    <item>
+      <headword id="d0e880">faoilinn</headword>
+      <description>Faoilinn Na Tràghad aig Crabhlastadh agus Baile na Cille. ’Se aodann a bhios an seo. Tha faoilinn na h-Airde Bige a muigh aig an Aird Bhig fhéin faisg air An Sgarp.
+        <illustration src="GlasgowMMacLeodlandillust7.jpg" width="400"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e891">cnocan</headword>
+      <description>Tha seo againn corr uair mu chnoc beag.</description>
+    </item>
+    <item>
+      <headword id="d0e900">imir, pl. imirichean</headword>
+      <description>Tha seo againn airson fearann a stigh aig a’ bhaile. Cha chuala mi tric a riamh e airson fearann a muigh ’s a’ mhòintich. Tha dhà dhiubh seo faisg air mansa Bhaile na Cille. (Faic na faclairean.)</description>
+    </item>
+    <item><headword id="d0e908" type="heading" level="h1">Types of beach</headword></item>
+    <item><headword id="d0e912" type="heading" level="h1">Sea-pools, waves</headword></item>
+    <item>
+      <headword id="d0e917">lòn (E)</headword>
+    </item>
+    <item>
+      <headword id="d0e923">lodan (E)</headword>
+    </item>
+    <item>
+      <headword id="d0e929">gluma (E)</headword>
+      <description>Lòn domhainn.</description>
+    </item>
+    <item>
+      <headword id="d0e938">glup (E)</headword>
+      <description>Tha e domhainn, domhainn agus fosgailte anns gach ceann.</description>
+    </item>
+    <item>
+      <headword id="d0e947">linne (I)</headword>
+    </item>
+    <item>
+      <headword id="d0e953">tuinn (I), pl. tuinnean</headword>
+      <description>’Se seo a th’againn airson ‘tonn’. “Thàinig tuinn mhór.” Chan e “Thàinig tonn mór.” Agus ’se ‘tuinnean’ a th’againn airson a’ phlural. “A muigh anns na tuinnean.”</description>
+    </item>
+    <item>
+      <headword id="d0e962">làgaraid (I)</headword>
+      <description>Againne air a fhuaimneachadh mar ‘làmh’garaid’ (fàg am ‘mh’ a mach).</description>
+    </item>
+    <item>
+      <headword id="d0e971">strùpladh (E)</headword>
+      <description>Faic ‘strùplaich’ aig MacGhillfhinnein. (Fear a’ Chnìpe – Kneep, am baile ann an Uig an Iar). Crabhlastadh agus An Cnìpe chan eil iad fada bho chèile. Ach faic an t-eadar-dhealachadh. Mar eiseamplair: Cragan-tràghad (Crabhlastadh). Cragan-faoileig (An Cnìpe). Sgliùnach (Crabhlastadh). Sgliùnaidh (An Cnìpe). (Chan eil fhios ’am an e ‘Cnìp’ no ‘Cnìop’ an litreachadh ceart. Cha chreid mi gu’m faca mi a riamh ann an sgrìobhadh e.)</description>
+    </item>
+    <item>
+      <headword id="d0e980">suab (E)</headword>
+      <description>“Anns an t-suab.” Suab: na tonnan a thilleas a mach bho an chreig as dèidh na tonnan móra bualadh oirre. Tillidh iad a mach, ’s théid iad a null ’s a nall.</description>
+    </item>
+    <item><headword id="d0e988" type="heading" level="h1">Facail ann an ainmeannan</headword><description>[loose page] </description></item>
+	<item>
+      <headword id="d0e993">gnùig</headword>
+      <description>Gnùigean Thealasdail (Islibhig).</description>
+    </item>
+    <item>
+      <headword id="d0e1002">corra</headword>
+      <description>Corra Rìbhein (Mangarstadh).</description>
+    </item>
+    <item>
+      <headword id="d0e1011">iargainn</headword>
+      <description>An Iargainn (Carnish).</description>
+    </item>
+    <item>
+      <headword id="d0e1020">àird</headword>
+      <description>Àird Uige (Uig an Iar).</description>
+    </item>
+    <item>
+      <headword id="d0e1029">ròn</headword>
+      <description>Na Ròin (Mangarstadh).</description>
+    </item>
+    <item>
+      <headword id="d0e1038">mùla</headword>
+      <description>Mùla MacSgiathain (Islibhig).</description>
+    </item>
+    <item>
+      <headword id="d0e1047">miasaid</headword>
+      <description>Am Miasaid (Àird Uig). Druim a’ Mhiasaid (Bréidhnis).</description>
+    </item>
+    <item>
+      <headword id="d0e1056">steinn</headword>
+      <description>Steinn Theòirid (Eadar-dha-Fhaodhail).</description>
+    </item>
+    <item>
+      <headword id="d0e1065">sùil</headword>
+      <description>An t-Sùil Ghorm (Géiseadair).</description>
+    </item>
+    <item>
+      <headword id="d0e1074">croit</headword>
+      <description>Croit Buaile Shomhairl (Crabhlastadh).</description>
+    </item>
+    <item>
+      <headword id="d0e1083">snìomh</headword>
+      <description>Snìomh Thàrroin (Eadar-dha-Fhaodhail).</description>
+    </item>
+  </items>
+</fieldworkDocument>

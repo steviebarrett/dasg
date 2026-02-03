@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 20 04 13 -->
+<fieldworkDocument docId="HarrisMacLennan_HarrisGobhaigMacLennanbiadh" docType="questionnaire" subType="BiadhIsDeoch">
+  <title>Biadh is Deoch / Food and Drink</title>
+  <fieldworker>[self?]</fieldworker>
+  <informant>
+    <nameEnglish>A. MacLennan</nameEnglish>
+    <nameGaelic>A. MacGill Fhinnein</nameGaelic>
+    <age>19</age>
+  </informant>
+  <location>Na Hearadh, Gòbhaig [Harris, Gobhaig]</location>
+  <items>
+    <item>
+      <headword id="d0e30">seab</headword>
+      <description>feast. [NOTES: word added on the title page.]</description>
+    </item>
+    <item><headword id="d0e38" type="heading" level="h1">1. Na tràthan</headword></item>
+    <item>
+      <headword id="d0e43">braiceast</headword>
+    </item>
+    <item>
+      <headword id="d0e49">diot</headword>
+    </item>
+    <item>
+      <headword id="d0e55">suipeir</headword>
+    </item>
+    <item>
+      <headword id="d0e61">trath-bidh</headword>
+      <description>any meal time.</description>
+    </item>
+    <item>
+      <headword id="d0e70">trath-neoin</headword>
+      <description>noon.</description>
+    </item>
+    <item><headword id="d0e78" type="heading" level="h1">2. Am biadh a bhidhte gabhail aig gach tràth</headword></item>
+    <item><headword id="d0e82" type="heading" level="h2">BRAICEAST</headword></item>
+    <item>
+      <headword id="d0e87">brochan, lite</headword>
+    </item>
+    <item>
+      <headword id="d0e93">uighean</headword>
+    </item>
+    <item>
+      <headword id="d0e99">feoil shaillte</headword>
+	  <description> – muc, mart, caora.</description>
+    </item>
+    <item>
+      <headword id="d0e108">aran corc</headword>
+    </item>
+    <item>
+      <headword id="d0e114">aran eorna</headword>
+    </item>
+    <item>
+      <headword id="d0e120">aran flùir</headword>
+    </item>
+    <item>
+      <headword id="d0e126">gruth</headword>
+    </item>
+    <item>
+      <headword id="d0e132">gruth ’s uachdar</headword>
+    </item>
+    <item>
+      <headword id="d0e138">ìm</headword>
+    </item>
+    <item>
+      <headword id="d0e144">caise</headword>
+    </item>
+    <item>
+      <headword id="d0e150">feoil-reiste</headword>
+      <description>salt meat, hung above the peat fire to dry (riasg - peat).</description>
+    </item>
+    <item>
+      <headword id="d0e159">maragan</headword>
+    </item>
+    <item>
+      <headword id="d0e165">feoil bhragsaidh</headword>
+      <description>not recently.</description>
+    </item>
+    <item>
+      <headword id="d0e174">te</headword>
+    </item>
+    <item>
+      <headword id="d0e180">gruitheam (na gruth-ìm)</headword>
+    </item>
+    <item>
+      <headword id="d0e186">bonnach lice</headword>
+    </item>
+    <item><headword id="d0e191" type="heading" level="h2">DIOT</headword></item>
+    <item>
+      <headword id="d0e196">sgadan</headword>
+	  <description> – saillte.</description>
+    </item>
+    <item>
+      <headword id="d0e205">rionnach</headword>
+	  <description> – saillte.</description>
+    </item>
+    <item>
+      <headword id="d0e214">adag</headword>
+	  <description> – saillte.</description>
+    </item>
+    <item>
+      <headword id="d0e223">sgait</headword>
+	  <description> – goirt.</description>
+    </item>
+    <item>
+      <headword id="d0e232">sornan</headword>
+	  <description> – goirt.</description>
+    </item>
+    <item>
+      <headword id="d0e241">cuiteag</headword>
+    </item>
+    <item>
+      <headword id="d0e247">feoil</headword>
+	  <description>(as above)</description>
+    </item>
+    <item>
+      <headword id="d0e256">buntàta</headword>
+    </item>
+    <item>
+      <headword id="d0e262">stapag choirce</headword>
+    </item>
+    <item><headword id="d0e267" type="heading" level="h2">SUIPEIR</headword></item>
+	<item>
+	  <headword id="idola122">[note]</headword>
+	  <description>mostly as braiceast.</description>
+	</item>
+    <item>
+      <headword id="d0e281">bonnach bois</headword>
+      <description>aig an obair.</description>
+    </item>
+    <item><headword id="d0e289" type="heading" level="h1">3. Dòighean air biadh a dheasachadh</headword></item>
+    <item><headword id="d0e293" type="heading" level="h1">4. Fuine</headword></item>
+    <item>
+      <headword id="d0e298">clar fuine</headword>
+      <description>kneading board.</description>
+    </item>
+    <item>
+      <headword id="d0e307">greideal</headword>
+      <description>gridle.</description>
+    </item>
+    <item>
+      <headword id="d0e316">bonnach fluir</headword>
+    </item>
+    <item>
+      <headword id="d0e322">sgonna fluir</headword>
+    </item>
+    <item>
+      <headword id="d0e328">bonnach coirce</headword>
+    </item>
+    <item>
+      <headword id="d0e334">sgonna coirce</headword>
+    </item>
+    <item>
+      <headword id="d0e340">sgraoileag</headword>
+      <description>pancake.</description>
+    </item>
+    <item>
+      <headword id="d0e349">fallaid</headword>
+      <description>flour shaken on a bannock prior to flattening out.</description>
+    </item>
+    <item>
+      <headword id="d0e358">taois</headword>
+      <description>dough.</description>
+    </item>
+    <item><headword id="d0e366" type="heading" level="h1">5. Deochan dhe gach seòrsa</headword></item>
+    <item>
+      <headword id="d0e371">uisge na burn</headword>
+    </item>
+    <item>
+      <headword id="d0e377">stùireag</headword>
+    </item>
+    <item>
+      <headword id="d0e383">sùghan</headword>
+      <description>not in modern times.</description>
+    </item>
+    <item>
+      <headword id="d0e392">cabhruich</headword>
+      <description>not in modern times.</description>
+    </item>
+    <item>
+      <headword id="d0e401">bainne tiugh</headword>
+    </item>
+    <item>
+      <headword id="d0e407">bainne slamain</headword>
+    </item>
+    <item>
+      <headword id="d0e413">bainne goirt</headword>
+    </item>
+    <item>
+      <headword id="d0e419">bainne ùr</headword>
+    </item>
+    <item>
+      <headword id="d0e425">blàthach</headword>
+      <description>sùgh ìme.</description>
+    </item>
+    <item>
+      <headword id="d0e434">meang</headword>
+      <description>whey.</description>
+    </item>
+    <item>
+      <headword id="d0e443">deoch bhàn</headword>
+      <description>a handful of oat meal in water.</description>
+    </item>
+    <item><headword id="d0e451" type="heading" level="h1">6. Biadh no deoch a bhidhte deanamh gu sònraichte do luchd euslan</headword></item>
+    <item>
+      <headword id="d0e456">stapag – brochan</headword>
+      <description>cream and oat meal.</description>
+    </item>
+    <item>
+      <headword id="d0e465">goille  na marag truisg</headword>
+    <description>[?] </description></item>
+    <item>
+      <headword id="d0e471">slaman</headword>
+      <description>rennet, bainne slamain.</description>
+    </item>
+    <item><headword id="d0e479" type="heading" level="h1">7. Nithean a bhiodh ann nuair a rachadh beathach a mharbhadh</headword></item>
+    <item>
+      <headword id="d0e484">caisean</headword>
+      <description>[?] roasted tail.</description>
+    </item>
+    <item>
+      <headword id="d0e493">caisean-uchd</headword>
+      <description>breast strip.</description>
+    </item>
+    <item>
+      <headword id="d0e502">snaile</headword>
+      <description>marag, made inside the carcass, containing oatmeal, salt, liver, kidneys, blood, fat, pancreas.</description>
+    </item>
+    <item>
+      <headword id="d0e511">geir</headword>
+      <description>suet.</description>
+    </item>
+    <item>
+      <headword id="d0e520">laineachan</headword>
+      <description>kidneys and surrounding fat.</description>
+    </item>
+    <item>
+      <headword id="d0e529">marag dhubh</headword>
+      <description>black pudding.</description>
+    </item>
+    <item>
+      <headword id="d0e538">marag gheall</headword>
+      <description>white pudding, with raisins.</description>
+    </item>
+    <item>
+      <headword id="d0e547">marag choirce</headword>
+      <description>mealy pudding, oat meal and onions.</description>
+    </item>
+    <item>
+      <headword id="d0e556">luban-dubha</headword>
+    </item>
+    <item>
+      <headword id="d0e562">luban-geala</headword>
+    </item>
+    <item>
+      <headword id="d0e568">grùthan</headword>
+    </item>
+    <item>
+      <headword id="d0e574">taobh-liath</headword>
+      <description>spleen.</description>
+    </item>
+    <item>
+      <headword id="d0e583">maodal</headword>
+      <description>dùis, muinne an am pàirt deth Leodhas.</description>
+    </item>
+    <item>
+      <headword id="d0e592">ceap</headword>
+      <description>dùis, muinne an am pàirt deth Leodhas.</description>
+    </item>
+    <item>
+      <headword id="d0e601">caolan</headword>
+      <description>dùis, muinne an am pàirt deth Leodhas.</description>
+    </item>
+    <item>
+      <headword id="d0e610">currag-an-righ</headword>
+      <description>dùis, muinne an am pàirt deth Leodhas.</description>
+    </item>
+    <item>
+      <headword id="d0e619">luagha(inn) bheag agus mhór</headword>
+      <description>dùis, muinne an am pàirt deth Leodhas.</description>
+    </item>
+    <item>
+      <headword id="d0e628">snaile</headword>
+      <description>dùis, muinne an am pàirt deth Leodhas.</description>
+    </item>
+    <item>
+      <headword id="d0e637">broilean</headword>
+      <description>dùis, muinne an am pàirt deth Leodhas.</description>
+    </item>
+    <item><headword id="d0e645" type="heading" level="h1">8. Faclan sam bith eile</headword></item>
+  </items>
+</fieldworkDocument>

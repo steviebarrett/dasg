@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 29/9/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_ElgolKFraserslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>03/1970</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <informant>
+    <nameEnglish>Mrs K. Fraser</nameEnglish>
+  </informant>
+  <location>Skye, Elgol</location>
+  <items>
+    <item>
+      <headword id="idp115442560">dealtag-anmoch</headword>
+      <description>Notes: bat.</description>
+    </item>
+    <item>
+      <headword id="idp115479352">grulasg</headword>
+      <description>[ɡɾu̜ɫəsɡ] Notes: crumbs, broken bits.</description>
+    </item>
+  </items>
+</fieldworkDocument>

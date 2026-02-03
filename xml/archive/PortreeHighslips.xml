@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 23/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_PortreeHighslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>02/1968</date>
+  <fieldworker>[school/AJ Smith?]</fieldworker>
+  <informant>
+    <nameEnglish>Portree High School</nameEnglish>
+  </informant>
+  <location>Skye, Portree</location>
+  <items>
+    <item>
+      <headword id="idp162199832">lagais</headword>
+      <description>Notes: dung-heap.</description>
+    </item>
+    <item>
+      <headword id="idp162201344">leac</headword>
+      <description>Notes: hearth.</description>
+    </item>
+    <item>
+      <headword id="idp162202856">lobhta</headword>
+      <description>Notes: flooring.</description>
+    </item>
+    <item>
+      <headword id="idp162204368">lobhta</headword>
+      <description>Notes: loft.</description>
+    </item>
+    <item>
+      <headword id="idp162205880">lòsan</headword>
+      <description>Notes: window-pane.</description>
+    </item>
+    <item>
+      <headword id="idp162207392">lùdagan (pl.)</headword>
+      <description>Notes: hinges.</description>
+    </item>
+    <item>
+      <headword id="idp162208904">mòd</headword>
+      <description>Notes: smoke-vent.</description>
+    </item>
+    <item>
+      <headword id="idp162210416">rampairean</headword>
+      <description>Notes: bars of grate.</description>
+    </item>
+    <item>
+      <headword id="idp162211928">sitig</headword>
+      <description>Notes: outside.</description>
+    </item>
+    <item>
+      <headword id="idp162213440">sitig</headword>
+      <description>Notes: dung-heap.</description>
+    </item>
+    <item>
+      <headword id="idp115436896">trannsa</headword>
+      <description>Notes: lobby, passage.</description>
+    </item>
+    <item>
+      <headword id="idp115478800">innear</headword>
+      <description>Notes: dung.</description>
+    </item>
+    <item>
+      <headword id="idp115473400">iodhlann</headword>
+      <description>Notes: stackyard.</description>
+    </item>
+    <item>
+      <headword id="idp115458784">preasa</headword>
+      <description>Notes: cupboard.</description>
+    </item>
+    <item>
+      <headword id="idp115492552">pulp</headword>
+      <description>Notes: (an t-àite-teine) damper.</description>
+    </item>
+    <item>
+      <headword id="idp115436032">seidhse</headword>
+      <description>Notes: bench. (Harris)</description>
+    </item>
+    <item>
+      <headword id="idp117928256">seidhseach</headword>
+      <description>Notes: bench. (Skye)</description>
+    </item>
+    <item>
+      <headword id="idp117929768">siaman</headword>
+      <description>Notes: rope.</description>
+    </item>
+    <item>
+      <headword id="idp117931280">simleir-crochaidh</headword>
+      <description>Notes: smoke-vent.</description>
+    </item>
+    <item>
+      <headword id="idp117932792">slabhraidh</headword>
+      <description>Notes: chain.</description>
+    </item>
+    <item>
+      <headword id="idp117934304">snaidheag</headword>
+      <description>Notes: latch.</description>
+    </item>
+    <item>
+      <headword id="idp117935816">sparran (pl.)</headword>
+      <description>Notes: rafters.</description>
+    </item>
+    <item>
+      <headword id="idp117937328">spliuag</headword>
+      <description>Notes: a stone wedge. (Scarp, Harris)</description>
+    </item>
+    <item>
+      <headword id="idp117938840">stàbull</headword>
+      <description>Notes: stable.</description>
+    </item>
+    <item>
+      <headword id="idp117940352">starsach</headword>
+      <description>Notes: ground in front of the house.</description>
+    </item>
+    <item>
+      <headword id="idp117941864">stiall</headword>
+      <description>Notes: tethering place of cow in byre.</description>
+    </item>
+    <item>
+      <headword id="idp117943376">stòl</headword>
+      <description>Notes: stool.</description>
+    </item>
+    <item>
+      <headword id="idp117944888">stuaidh</headword>
+      <description>Notes: gable end.</description>
+    </item>
+    <item>
+      <headword id="idp117946400">sunnag</headword>
+      <description>Notes: barrel chair.</description>
+    </item>
+    <item>
+      <headword id="idp117947912">sàsag</headword>
+      <description>Notes: barrel chair.</description>
+    </item>
+    <item>
+      <headword id="idp117949424">tasgadh</headword>
+      <description>Quotation: a’ tasgadh an teine. Notes: covering the fire over and leaving it to burn for the night.</description>
+    </item>
+    <item>
+      <headword id="idp117951080">teadhair</headword>
+      <description>Notes: tether.</description>
+    </item>
+    <item>
+      <headword id="idp117952592">tobhta</headword>
+      <description>Notes: stone walls.</description>
+    </item>
+    <item>
+      <headword id="idp117954104">udlan</headword>
+      <description>Notes: swivel. (See udalan)</description>
+    </item>
+    <item>
+      <headword id="idp117955616">ùrlar-dubh</headword>
+      <description>Notes: earthen-floor.</description>
+    </item>
+    <item>
+      <headword id="idp117957128">ursain</headword>
+      <description>Notes: door-post.</description>
+    </item>
+    <item>
+      <headword id="idp117958640">acaire</headword>
+      <description>Notes: weight (mullach tigh-dubh). [NOTES: slipped under ‘acair’.]</description>
+    </item>
+    <item>
+      <headword id="idp117960296">amar</headword>
+      <description>Notes: dipping-trough. (N. Harris)</description>
+    </item>
+    <item>
+      <headword id="idp117961808">àmha</headword>
+      <description>Notes: barn. (Uist)</description>
+    </item>
+    <item>
+      <headword id="idp117963320">aol</headword>
+      <description>Notes: lime.</description>
+    </item>
+    <item>
+      <headword id="idp117964832">àrd-dorus</headword>
+      <description>Notes: lintel stone.</description>
+    </item>
+    <item>
+      <headword id="idp117966344">balla-tarsuinn</headword>
+      <description>Notes: partition.</description>
+    </item>
+    <item>
+      <headword id="idp117967856">bannan (pl.)</headword>
+      <description>Notes: hinges.</description>
+    </item>
+    <item>
+      <headword id="idp117969368">beinge</headword>
+      <description>Notes: bench.</description>
+    </item>
+    <item>
+      <headword id="idp117970880">bocsa-bogaidh</headword>
+      <description>Notes: dipping-trough.</description>
+    </item>
+    <item>
+      <headword id="idp117972392">bòrd na h-uinneige</headword>
+      <description>Notes: window-sill.</description>
+    </item>
+    <item>
+      <headword id="idp117973904">bothag-chearc</headword>
+      <description>Notes: hen-house.</description>
+    </item>
+    <item>
+      <headword id="idp117975416">busan (pl.)</headword>
+      <description>Notes: sides of fire.</description>
+    </item>
+    <item>
+      <headword id="idp117976928">cabhsair</headword>
+      <description>Notes: ground in front of the house.</description>
+    </item>
+    <item>
+      <headword id="idp117978440">cartadh</headword>
+      <description>Quotation: a’ carthadh [sic] na bàthcha. Notes: cleansing out the byre.</description>
+    </item>
+    <item>
+      <headword id="idp117980096">ceangal</headword>
+      <description>Notes: beam.</description>
+    </item>
+    <item>
+      <headword id="idp117981608">ceann</headword>
+      <description>Notes: gable end.</description>
+    </item>
+    <item>
+      <headword id="idp117983120">ceann</headword>
+      <description>Notes: roof.</description>
+    </item>
+    <item>
+      <headword id="idp117984632">ciortalachadh</headword>
+      <description>Quotation: a’ ciortalachadh. Notes: covering the fire over, and leaving it to burn for the night.</description>
+    </item>
+    <item>
+      <headword id="idp117986288">ciopan</headword>
+      <description>Notes: peg, stick.</description>
+    </item>
+    <item>
+      <headword id="idp117987800">ciste-mhine</headword>
+      <description>Notes: meal-chest.</description>
+    </item>
+    <item>
+      <headword id="idp117989312">clais</headword>
+      <description>Notes: a drain.</description>
+    </item>
+    <item>
+      <headword id="idp117990824">clòsaid</headword>
+      <description>Notes: closet. (tigh-dubh)</description>
+    </item>
+    <item>
+      <headword id="idp117992336">còmhla</headword>
+      <description>Notes: door.</description>
+    </item>
+    <item>
+      <headword id="idp117993848">criopag</headword>
+      <description>Notes: hen-house. (Harris)</description>
+    </item>
+    <item>
+      <headword id="idp117995360">crò</headword>
+      <description>Notes: pen.</description>
+    </item>
+    <item>
+      <headword id="idp117996872">cruaidh</headword>
+      <description>Notes: weight (mullach tigh dubh).</description>
+    </item>
+    <item>
+      <headword id="idp117998384">cùil</headword>
+      <description>Notes: box-room.</description>
+    </item>
+    <item>
+      <headword id="idp117999896">cùile</headword>
+      <description>Notes: a stall.</description>
+    </item>
+    <item>
+      <headword id="idp118001408">dàrnag</headword>
+      <description>Notes: knob.</description>
+    </item>
+    <item>
+      <headword id="idp118002920">deathach</headword>
+      <description>Notes: smoke.</description>
+    </item>
+    <item>
+      <headword id="idp118004432">dorus-beag</headword>
+      <description>Notes: inner door.</description>
+    </item>
+    <item>
+      <headword id="idp118005944">dorus-mór</headword>
+      <description>Notes: front door.</description>
+    </item>
+    <item>
+      <headword id="idp118007456">dreasair</headword>
+      <description>Notes: dresser.</description>
+    </item>
+    <item>
+      <headword id="idp118008968">eadar-an-dà-dhorus</headword>
+      <description>Notes: lobby (tigh-dubh).</description>
+    </item>
+    <item>
+      <headword id="idp118010480">fail-mhuc</headword>
+      <description>Notes: pig-sty.</description>
+    </item>
+    <item>
+      <headword id="idp118011992">faing</headword>
+      <description>Notes: a fank.</description>
+    </item>
+    <item>
+      <headword id="idp118013504">feadan</headword>
+      <description>Notes: ventilation hole.</description>
+    </item>
+    <item>
+      <headword id="idp118015016">fodar</headword>
+      <description>Notes: fodder.</description>
+    </item>
+    <item>
+      <headword id="idp118016528">frasach</headword>
+      <description>Notes: manger.</description>
+    </item>
+    <item>
+      <headword id="idp118018040">furm</headword>
+      <description>Notes: stool.</description>
+    </item>
+    <item>
+      <headword id="idp118019552">giùrnlair</headword>
+      <description>Notes: meal-chest.</description>
+    </item>
+    <item>
+      <headword id="idp118021064">goc</headword>
+      <description>Quotation: goc(hd). Notes: water-tap.</description>
+    </item>
+  </items>
+</fieldworkDocument>

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 1/4/15 -->
+<!-- Lots of illustrations! Looks interesting -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="PersonalFiles_LionelJuniorSecondarypersonalmisc" docType="wordlist" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>1960s</date>
+  <fieldworker>school/Norman MacLeod</fieldworker>
+  <note>[NOTES: nine photocopied pages containing annotated illustrations. The pages are numbered 29-31 (fishing), 58-61 (boats) and 76-77 (peat) and come from two volumes of material collected by Lionel J. S. School in the 1960s and sent to the Department in October 1966 by Norman MacLeod (native of Aird, Point), who supervised the project. In his letter of 25/10/1966 Mr MacLeod writes: ‘Most of the names which we collected were obtained locally, some very local, but we took quite a number from other sources, mainly from books. (…) We, unfortunately, did not keep a note of our sources apart from a few in the collection of words associated with monadh is sliabh.’ In reply to this, in the letter of 18/01/1967, Kenneth D. MacDonald writes: ‘We have made photographic copies of all annotated drawings, but the bulk of the material we have not excerpted, as we would first like to know, if this is now possible, which items were collected locally so that we could concentrate on these.’]</note>
+  <informant>
+    <nameEnglish>Lionel Junior Secondary</nameEnglish>
+  </informant>
+  <location>Lewis, Port of Ness, Lionel</location>
+  <items>
+    <item>
+      <headword id="idp117034936">[lìon]</headword>
+      <description>
+        <illustration src="LionelJuniorSecondarypersonalmiscillust1.jpg" width="800"/>
+      </description>
+    </item>
+    <item>
+      <headword id="idp117066256">lion-beag</headword>
+      <description>
+        <illustration src="LionelJuniorSecondarypersonalmiscillust2.jpg" width="600"/>
+      </description>
+    </item>
+    <item>
+      <headword id="idp116964736">sgrioban lion-beag no lion-mòr</headword>
+      <description>
+        <illustration src="LionelJuniorSecondarypersonalmiscillust3.jpg" width="400"/>
+      </description>
+    </item>
+    <item>
+      <headword id="idp116964304">sgrioban gu giomach no crùbag a thoirt a sgor</headword>
+      <description>
+        <illustration src="LionelJuniorSecondarypersonalmiscillust4.jpg" width="300"/>
+      </description>
+    </item>
+    <item>
+      <headword id="idp116967472">dubhan</headword>
+      <description>
+        <illustration src="LionelJuniorSecondarypersonalmiscillust5.jpg" width="500"/>
+      </description>
+    </item>
+    <item>
+      <headword id="idp116968120">cliùcair</headword>
+      <description>
+        <illustration src="LionelJuniorSecondarypersonalmiscillust6.jpg" width="150"/>
+      </description>
+    </item>
+    <item>
+      <headword id="idp116971504">snathad chàraidh</headword>
+      <description>
+        <illustration src="LionelJuniorSecondarypersonalmiscillust7.jpg" width="300"/>
+      </description>
+    </item>
+    <item>
+      <headword id="idp116970280">eathar</headword>
+      <description>
+        <illustration src="LionelJuniorSecondarypersonalmiscillust8.jpg" width="700"/>
+      </description>
+    </item>
+    <item>
+      <headword id="idp116973520">beul mór</headword>
+      <description>
+        <illustration src="LionelJuniorSecondarypersonalmiscillust9.jpg" width="500"/>
+      </description>
+    </item>
+    <item>
+      <headword id="idp116972800">sòla mhór</headword>
+      <description>
+        <illustration src="LionelJuniorSecondarypersonalmiscillust10.jpg" width="300"/>
+      </description>
+    </item>
+    <item>
+      <headword id="idp116975464">sòla bheag (toisich)</headword>
+      <description>
+        <illustration src="LionelJuniorSecondarypersonalmiscillust11.jpg" width="400"/>
+      </description>
+    </item>
+    <item>
+      <headword id="idp116979352">[bàta]</headword>
+      <description>
+        <illustration src="LionelJuniorSecondarypersonalmiscillust12.jpg" width="600"/>
+      </description>
+    </item>
+    <item>
+      <headword id="idp116981440">[bàta]</headword>
+      <description>
+        <illustration src="LionelJuniorSecondarypersonalmiscillust13.jpg" width="600"/>
+      </description>
+    </item>
+    <item>
+      <headword id="idp116981656">stiùir</headword>
+      <description>
+        <illustration src="LionelJuniorSecondarypersonalmiscillust14.jpg" width="400"/>
+      </description>
+    </item>
+    <item>
+      <headword id="idp116983168">falmadair</headword>
+      <description>
+        <illustration src="LionelJuniorSecondarypersonalmiscillust15.jpg" width="400"/>
+      </description>
+    </item>
+    <item>
+      <headword id="idp116985760">ràmh</headword>
+      <description>
+        <illustration src="LionelJuniorSecondarypersonalmiscillust16.jpg" width="500"/>
+      </description>
+    </item>
+    <item>
+      <headword id="idp116989216">seòl</headword>
+      <description>
+        <illustration src="LionelJuniorSecondarypersonalmiscillust17.jpg" width="700"/>
+      </description>
+    </item>
+    <item>
+      <headword id="idp116988712">greimiche</headword>
+      <description>
+        <illustration src="LionelJuniorSecondarypersonalmiscillust18.jpg" width="200"/>
+      </description>
+    </item>
+    <item>
+      <headword id="idp116991088">ràc</headword>
+      <description>
+        <illustration src="LionelJuniorSecondarypersonalmiscillust19.jpg" width="200"/>
+      </description>
+    </item>
+    <item>
+      <headword id="idp116991592">geadha no botag</headword>
+      <description>
+        <illustration src="LionelJuniorSecondarypersonalmiscillust20.jpg" width="200"/>
+      </description>
+    </item>
+    <item>
+      <headword id="idp116995840">udalan no carrachan</headword>
+      <description>
+        <illustration src="LionelJuniorSecondarypersonalmiscillust21.jpg" width="200"/>
+      </description>
+    </item>
+    <item>
+      <headword id="idp116999152">poll monach</headword>
+      <description>
+        <illustration src="LionelJuniorSecondarypersonalmiscillust22.jpg" width="800"/>
+      </description>
+    </item>
+    <item>
+      <headword id="idp116998720">tairisgeir</headword>
+      <description>
+        <illustration src="LionelJuniorSecondarypersonalmiscillust23.jpg" width="400"/>
+      </description>
+    </item>
+    <item>
+      <headword id="idp116999872">cliabh</headword>
+      <description>
+        <illustration src="LionelJuniorSecondarypersonalmiscillust24.jpg" width="600"/>
+      </description>
+    </item>
+    <item>
+      <headword id="idp117001168">iris</headword>
+      <description>
+        <illustration src="LionelJuniorSecondarypersonalmiscillust25.jpg" width="500"/>
+      </description>
+    </item>
+  </items>
+</fieldworkDocument>

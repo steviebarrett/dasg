@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 7/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_LewisMMacIverslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>1983</date>
+  <fieldworker>Boyd Robertson</fieldworker>
+  <informant>
+    <nameEnglish>Margaret MacIver</nameEnglish>
+  </informant>
+  <location>Lewis</location>
+  <items>
+    <item>
+      <headword id="idp115484888">còir</headword>
+      <description>Quotation: Còir gu robh Màiri aig a’ chèilidh. Notes: ‘So Mary was at the cèilidh.’</description>
+    </item>
+    <item>
+      <headword id="idp115469768">crìoch</headword>
+      <description>Quotation: Chan eil crìoch cuin a bhios sin deiseil. Notes: Goodness knows when that will be finished.</description>
+    </item>
+    <item>
+      <headword id="idp115478768">cromadh</headword>
+      <description>Quotation: Tha i cromadh air an deoch. Notes: She is becoming addicted to drink.</description>
+    </item>
+    <item>
+      <headword id="idp115450328">cuir</headword>
+      <description>Quotation: Chuir e an dà shùil air. Notes: He stared in amazement.</description>
+    </item>
+  </items>
+</fieldworkDocument>

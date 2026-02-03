@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 23 4 13 -->
+<fieldworkDocument docId="Games_GlasgowDGrantgames" docType="questionnaire" subType="RecreationToysGamesContests">
+  <title>Cur-seachadan: Dèideagan, Geamaichean is Farpaisean / Recreation: Toys, Games, Contests</title>
+  <fieldworker>[self]</fieldworker>
+  <informant>
+    <nameEnglish>Donald Grant</nameEnglish>
+    <nameGaelic>Domhnall Grannd</nameGaelic>
+    <age>66</age>
+    <origin>[Skye, Camus Chroise]</origin>
+  </informant>
+  <location>Glasgow</location>
+  <items>
+    <item><headword id="d0e32" type="heading" level="h1">1. Toys</headword></item>
+    <item>
+      <headword id="d0e37">doileag (f)</headword>
+      <description>doll.</description>
+    </item>
+    <item>
+      <headword id="d0e46">gille-mirein (m)</headword>
+      <description>top.</description>
+    </item>
+    <item>
+      <headword id="d0e55">fìdeag (f)</headword>
+      <description>whistle.</description>
+    </item>
+    <item>
+      <headword id="d0e64">caman (m)</headword>
+      <description>shinty stick.</description>
+    </item>
+    <item>
+      <headword id="d0e73">dreallag (f)</headword>
+      <description>hammock of string.</description>
+    </item>
+    <item><headword id="d0e81" type="heading" level="h1">2. Swings, see-saws</headword></item>
+    <item>
+      <headword id="d0e86">dreallag (f)</headword>
+      <description>swing.</description>
+    </item>
+    <item>
+      <headword id="d0e95">làir-mhaide (f)</headword>
+      <description>see-saw.</description>
+    </item>
+    <item><headword id="d0e103" type="heading" level="h1">3. Games played indoors</headword></item>
+    <item><headword id="d0e107" type="heading" level="h1">4. Outdoor games not involving a ball or puck</headword></item>
+    <item>
+      <headword id="d0e112">goid a’ chrùin</headword>
+      <description>two opposing sides facing on mid-boundary; aim to “steal” crowns or caps.</description>
+    </item>
+    <item>
+      <headword id="d0e121">falach-fead</headword>
+      <description>hide-and-seek.</description>
+    </item>
+    <item><headword id="d0e129" type="heading" level="h1">5. Ball games</headword></item>
+    <item>
+      <headword id="d0e134">iomain (f)</headword>
+      <description>shinty.</description>
+    </item>
+    <item>
+      <headword id="d0e143">caman (m)</headword>
+      <description>shinty stick.</description>
+    </item>
+    <item>
+      <headword id="d0e152">ball (f)</headword>
+      <description>ball.</description>
+    </item>
+    <item>
+      <headword id="d0e161">cuir a thadhal</headword>
+      <description>score a goal.</description>
+    </item>
+    <item>
+      <headword id="d0e170">speilean</headword>
+      <description>game played with bat and stick which hoisted ball from hollow (cat and bat?). I have forgotten the rules.</description>
+    </item>
+    <item><headword id="d0e178" type="heading" level="h1">6. Athletics</headword></item>
+    <item>
+      <headword id="d0e183">car-a-mhoiltein</headword>
+      <description>somersault.</description>
+    </item>
+    <item>
+      <headword id="d0e192">a’ trotan</headword>
+      <description>jogging, trotting.</description>
+    </item>
+    <item><headword id="d0e200" type="heading" level="h1">7. Heavy events</headword></item>
+	<item>
+	  <headword id="idola107">[note]</headword>
+	  <description>(I do not have any special words for these activities. Parallel expressions were used e.g. a’ tilgeil an ùird.)</description>
+	</item>
+    <item><headword id="d0e213" type="heading" level="h1">8. Contests involving pulling or pushing</headword></item>
+    <item><headword id="d0e217" type="heading" level="h1">9. Boxing and wrestling</headword></item>
+    <item>
+      <headword id="d0e222">a’ carachd</headword>
+      <description>wrestling.</description>
+    </item>
+    <item><headword id="d0e230" type="heading" level="h1">10. Blows in general</headword></item>
+    <item>
+      <headword id="d0e235">sgleog (f)</headword>
+      <description>slap (on face).</description>
+    </item>
+    <item>
+      <headword id="d0e244">breab (f)</headword>
+      <description>kick.</description>
+    </item>
+    <item>
+      <headword id="d0e253">sainnseal (m)</headword>
+      <description>a severe blow.</description>
+    </item>
+    <item><headword id="d0e261" type="heading" level="h1">11. Injury and exhaustion</headword></item>
+    <item>
+      <headword id="d0e266">sùil ghorm</headword>
+      <description>black eye.</description>
+    </item>
+    <item>
+      <headword id="d0e275">sgriab (f), sgriabadh</headword>
+      <description>scratching, scratch.</description>
+    </item>
+    <item>
+      <headword id="d0e284">ann am paiseanadh</headword>
+      <description>knocked unconscious.</description>
+    </item>
+    <item>
+      <headword id="d0e293">pìochan (m)</headword>
+      <description>panting.</description>
+    </item>
+    <item>
+      <headword id="d0e302">a’ dol mu seach</headword>
+      <description>staggering.</description>
+    </item>
+  </items>
+</fieldworkDocument>

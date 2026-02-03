@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 5 4 14 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="WoolworkingandFishing_FortroseJMacInnesiasgach" docType="questionnaire" subType="AcfhuinnIasgaich" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Acfhuinn Iasgaich / Fishing Tackle</title>
+  <date>[02/1968 on the slips]</date>
+  <fieldworker>[self]</fieldworker>
+  <note>[NOTES: the words have been slipped and therefore in this file, apart from the definitions provided by Mr MacInnes, the definitions as they appear on the slips have also been included (unless the two were the same).]</note>
+  <informant>
+    <nameEnglish>John MacInnes; Rev. Dr acc. to other questionnaires</nameEnglish>
+    <nameGaelic>Iain MacAonghais </nameGaelic>
+    <age>74</age>
+    <origin>An t-Eilean Sgitheanach [Skye; Skye, Glendale acc. to other questionnaires]</origin>
+  </informant>
+  <location>Ross-shire, Fortrose</location>
+  <items>
+    <item><headword id="d0e38" type="heading" level="h1">1. Lìon-mór</headword></item>
+    <item>
+      <headword id="d0e43">lion-mhòr</headword>
+      <description>acfhuinn air son glacadh throsg, easgann, no langa; adag no sgadan mar bhiathadh air an dubhan.</description>
+    </item>
+    <item>
+      <headword id="d0e52">druim</headword>
+      <description>top rope to which lines attached.</description>
+    </item>
+    <item>
+      <headword id="d0e61">snòt</headword>
+      <description>[rope] to which hooks attached.</description>
+    </item>
+    <item>
+      <headword id="d0e70">foirteam</headword>
+      <description>also used [for snòt (q.v.)].</description>
+    </item>
+    <item>
+      <headword id="d0e79">(cast)</headword>
+      <description>[NOTES: not clear what this refers to.]</description>
+    </item>
+    <item>
+      <headword id="d0e88">buta cinn</headword>
+      <description>(self-explanatory) [NOTES: slip not found.]</description>
+    </item>
+    <item>
+      <headword id="d0e97">ceann mara</headword>
+      <description>(airson na lin-mhòra) airson cruaidh. [NOTES: slip not found.]</description>
+    </item>
+    <item>
+      <headword id="d0e106">gormanachadh</headword>
+      <description>a’ toirt an eisg far an dubhain. [SLIP: Airson a bhi [sic] a toirt an éisg far an dubhain.]</description>
+    </item>
+    <item>
+      <headword id="d0e115">gormanaiche</headword>
+      <description>an duine anns an sgioba a tha toirt an eisg far nan dubhan. [SLIP: An duine anns an sgioba a tha a toirt an éisg far an dubhain.]</description>
+    </item>
+    <item>
+      <headword id="d0e124">cleipe</headword>
+      <description>gaff, airson easgannan is langa is truisg.</description>
+    </item>
+    <item><headword id="d0e132" type="heading" level="h1">2. Lìon-beag</headword></item>
+    <item>
+      <headword id="d0e137">lion-bheag</headword>
+      <description>airson glacadh adagan no cùiteagan ach bithidh am biorach gle thric a’ gabhail a bhiadhaidh. Maorach no feasgan mar bhiathadh air an dubhan.</description>
+    </item>
+    <item>
+      <headword id="d0e146">clàr</headword>
+      <description>on which lines were placed while the lines were being baited. “Air clar” – gan cuir air clar aig am biathaidh.</description>
+    </item>
+    <item>
+      <headword id="d0e155">“reiteach”</headword>
+      <description>[NOTES: not clear what it refers to – clàr?] [NOTES: slip not found.]</description>
+    </item>
+    <item><headword id="d0e163" type="heading" level="h2">Druim:</headword></item>
+    <item>
+      <headword id="d0e168">sreang</headword>
+      <description>ceud dubh [sic] air a h-uile sreang, da shreang an comhnaidh. [SLIP: Ceud dubhan air a h-uile sreang.]</description>
+    </item>
+    <item><headword id="d0e176" type="heading" level="h1">3. Lìon-sgadanach</headword></item>
+    <item>
+      <headword id="d0e181">lion-sgadanach</headword>
+      <description>tha sin a’ ciallachadh ‘drift-net’ amhain. Cha chuala mi facal riamh air son ‘ring-net’ no ‘seine-net’. [NOTES: slipped under ‘lìon-sgadanach’.]</description>
+    </item>
+    <item>
+      <headword id="d0e190">cluas a lìn</headword>
+      <description>[NOTES: slipped under ‘cluas’ with ‘cluas a lìn’ as the quotation. Notes: Lìon-sgadanach.]</description>
+    </item>
+    <item>
+      <headword id="d0e199">drùim</headword>
+      <description>ris am bheil an lion air a cheangal.</description>
+    </item>
+    <item>
+      <headword id="d0e208">aoigh (dh)</headword>
+      <description>rop eadar ceann an lìn agus an t-iochdar [q.v.].</description>
+    </item>
+    <item>
+      <headword id="d0e217">iochdar</headword>
+      <description>bottom rope running along length of net.</description>
+    </item>
+    <item>
+      <headword id="d0e226">mogal</headword>
+      <description>mesh.</description>
+    </item>
+    <item>
+      <headword id="d0e235">beairteachadh</headword>
+      <description>a cur an druim [q.v.] agus na h-aoigh [q.v.] agus an t-iochdar [q.v.] air a lion. [NOTES: the slip has ‘…air an lion’.]</description>
+    </item>
+    <item>
+      <headword id="d0e244">cartadh an lìn</headword>
+      <description>[NOTES: slipped under ‘cartadh’ with ‘cartadh an lìn’ as the quotation. Definition: Barking.]</description>
+    </item>
+    <item>
+      <headword id="d0e253">pasgadh an lìn</headword>
+      <description>[NOTES: slipped under ‘pasgadh’ with ‘pasgadh an lìn’ as the quotation.]</description>
+    </item>
+    <item>
+      <headword id="d0e262">buta</headword>
+      <description>buoy; craiceann caorach no seice gamhna air a cheangal ri ceann fiodha. Ceann-buta. [NOTES: slip not found.]</description>
+    </item>
+    <item>
+      <headword id="d0e271">snathad lion-sgadanach</headword>
+      <description>[NOTES: slipped under ‘snàthad’ with ‘snàthad lion-sgadanach’ as the quotation.]</description>
+    </item>
+    <item>
+      <headword id="d0e280">ceann mara</headword>
+      <description>tha an ceann-mara air a cheangal ri cluas a lìn [q.v.] agus an ceann-iosal ris a chruaidh (no’n acair). [NOTES: slipped under ‘ceann’ with the above as the quotation.]</description>
+    </item>
+    <item>
+      <headword id="d0e289">cruaidh</headword>
+      <description>[NOTES: slip not found.]</description>
+    </item>
+    <item><headword id="d0e297" type="heading" level="h1">4. Lìon sam bith eile</headword></item>
+    <item>
+      <headword id="d0e302">tàbh</headword>
+      <description>air son glacadh chudaigean agus shùithean, an t-iasgair a’ tilgidh maoraich no biathadh eile ’san mhuir air son an t-iasg a tharruing, agus ansin, cuiridh e an tàbh do’n uisge fo’n èisg agus sguabaidh e gu tìr iad. Cearcall iaruinn no fiodha agus lion air a cheangal ris. Làmh fhada fhiodha ceangailte ris a chearcall. <illustration src="FortroseJMacInnesiasgachillust1.jpg" width="400"/></description>
+    </item>
+    <item>
+      <headword id="d0e312">lion cliabh-ghiomach</headword>
+      <description>[?] [NOTES: slipped under ‘lion cliabh-ghiomaich’.]</description>
+    </item>
+    <item>
+      <headword id="d0e321">snathad lion cliabh ghiomach</headword>
+      <description>bha i mor seach snathad lion sgadanach [q.v.]. [NOTES: slipped under ‘snathad’ with ‘snàthad lion cliabh-ghiomaich’ as the quotation. Definition: Bha i mór seach snàthad lion sgadanach.]</description>
+    </item>
+    <item>
+      <headword id="d0e330">suil a chleibh</headword>
+      <description>[NOTES: slipped under ‘sùil’ with ‘sùil a chleibh (ghiomaich)’ as the quotation.] <illustration src="FortroseJMacInnesiasgachillust2.jpg" width="300"/></description>
+    </item>
+    <item><headword id="d0e339" type="heading" level="h1">5. Duirgh, slatan, driamlaichean</headword></item>
+    <item>
+      <headword id="d0e344">dorgh, duirgh</headword>
+      <description>chan eil am facal seo cumantan [sic] ann an Gleana Dail (Eilean Sgitheanach).</description>
+    </item>
+    <item>
+      <headword id="d0e353">slat-iasgaich</headword>
+      <description>slat chuilc airson iasgach mara.</description>
+    </item>
+    <item>
+      <headword id="d0e362">driamlach</headword>
+      <description>fishing line.</description>
+    </item>
+    <item>
+      <headword id="d0e371">dubhan</headword>
+      <description>hook, big or small. [NOTES: slip not found.]</description>
+      </item>
+    <item>
+      <headword id="d0e380">a’ snaingealadh</headword>
+      <description>tying the hook to ‘cast’ or ‘snot’ [q.v.].</description>
+    </item>
+    <item>
+      <headword id="d0e389">maothar (mathar)</headword>
+      <description>gaoisid gheal coin no ite bheag gheal ceangailte ris an dubhan airson iasgach sùithean, no runach [sic], no liutha.</description>
+    </item>
+    <item>
+      <headword id="d0e398">fuaidreag</headword>
+      <description>rubber eel for lythe fishing.</description>
+    </item>
+    <item>
+      <headword id="d0e407">meigh</headword>
+      <description>sinker for sgrioban [q.v.].</description>
+    </item>
+    <item>
+      <headword id="d0e416">sgrioban</headword>
+      <description>airson glacadh adagan agus cuiteagan agus morbhair (Jerusalem haddocks or saltwater bream). <illustration src="FortroseJMacInnesiasgachillust3.jpg" width="200"/></description>
+    </item>
+    <item>
+      <headword id="d0e426">clàrag (a sgriobain)</headword>
+      <description>air a chumail anns a bhata nuair tha an sgrioban [q.v.] air a leigeil sios do ghrunn na mara. [NOTES: slipped under ‘clàrag’ with ‘clàrag a sgriobain’ as the quotation.]</description>
+    </item>
+    <item>
+      <headword id="d0e435">meigh</headword>
+      <description>sinker.</description>
+    </item>
+    <item>
+      <headword id="d0e444">snòt</headword>
+      <description>cast or gut to which hooks attached.</description>
+    </item>
+    <item>
+      <headword id="d0e453">foirteam</headword>
+      <description>also used for snòt [q.v.]. Whether this [is] a corruption of English word or has claims to Gaelic origin, I don’t know.</description>
+    </item>
+    <item>
+      <headword id="d0e462">claidheamhag</headword>
+      <description>sand eel used as lure for lythe etc.</description>
+    </item>
+    <item><headword id="d0e470" type="heading" level="h1">6. Acfhuinn sam bith eile</headword></item>
+  </items>
+</fieldworkDocument>

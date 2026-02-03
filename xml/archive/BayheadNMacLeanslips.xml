@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 5/8/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_BayheadNMacLeanslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>02/1969</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <informant>
+    <nameEnglish>Neil MacLean</nameEnglish>
+    <age>c. 65</age>
+  </informant>
+  <location>North Uist, Bayhead</location>
+  <items>
+    <item>
+      <headword id="idp162094736">slàn</headword>
+      <description>Quotation: Slàn-treothadh dhuibh! Notes: said by someone coming into a newly built house for the first time.</description>
+    </item>
+    <item>
+      <headword id="idp162096392">talamh-toll</headword>
+      <description>Quotation: Tha i air a dhol ’na talamh-toll. Notes: said of a narrow stream which has been overgrown in places.</description>
+    </item>
+    <item>
+      <headword id="idp162098048">treothadh</headword>
+      <description>Quotation: Slàn-treothadh dhuibh! Notes: said by someone coming into a newly-built house for the first time.</description>
+    </item>
+    <item>
+      <headword id="idp162099704">bogach</headword>
+      <description>Notes: soft boggy patch on the moor.</description>
+    </item>
+    <item>
+      <headword id="idp162101216">bruach</headword>
+      <description>Notes: a sand-pit on the machair.</description>
+    </item>
+    <item>
+      <headword id="idp162102728">coilleag</headword>
+      <description>Notes: a hillock or mound on the machair.</description>
+    </item>
+    <item>
+      <headword id="idp162104240">cuinneag</headword>
+      <description>Quotation: “Millidh aona [lʹebəd̪ɑɡ] a’ chuinneag.”</description>
+    </item>
+    <item>
+      <headword id="idp162106040">[fɔıdʹɑx]</headword>
+      <description>Notes: man-made channel, canal. [NOTES: slipped under ‘faighdeach’.]</description>
+    </item>
+    <item>
+      <headword id="idp162107840">fiath-lochan</headword>
+      <description>Notes: stagnant pool.</description>
+    </item>
+  </items>
+</fieldworkDocument>

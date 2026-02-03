@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 5/8/15 -->
+<!-- illustrations -->
+<fieldworkDocument docId="Slips_AchiltibuieJMacLeodslips" docType="questionnaire" subType="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>10/1969</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <note>[NOTES: in IPA transcriptions, the fieldworker uses [w] for [ɯ].]</note>
+  <informant>
+    <nameEnglish>John MacLeod (“Shonnie Ali Bhig”)</nameEnglish>
+    <age>80s</age>
+  </informant>
+  <location>Ross-shire, Achiltibuie</location>
+  <items>
+    <item>
+      <headword id="idp167419984">là</headword>
+      <description>Quotation: La [sic] roimh’ ’n dé [ɫɑ:ɾɔnʹdʹe:]. Notes: the day before yesterday.</description>
+    </item>
+    <item>
+      <headword id="idp167416528">làmhag</headword>
+      <description>Notes: handle of pail.</description>
+    </item>
+    <item>
+      <headword id="idp167413432">leth-soithean</headword>
+      <description>Notes: cudaig-ruadh, leth-shoithean, soithean, ucas.</description>
+    </item>
+    <item>
+      <headword id="idp167434096">leumbhrochan [lʹe:mʊɾɔxɑṉ]</headword>
+      <description>Notes: frog.</description>
+    </item>
+    <item>
+      <headword id="idp167435824">liadh</headword>
+      <description>Notes: ladle.</description>
+    </item>
+    <item>
+      <headword id="idp167437336">meall a’ mhàgag [mjɑ̃ɫəvɑ̃:ɡɑɡ]</headword>
+      <description>Notes: toad.</description>
+    </item>
+    <item>
+      <headword id="idp167439064">meanbh-chuileag [mɛ̃ṉɑvxu̟lɑɡ]</headword>
+      <description>Notes: midge.</description>
+    </item>
+    <item>
+      <headword id="idp167440792">miodar</headword>
+      <description>Quotation: miodar-bleoghain. Notes: small wooden tub with handle used for milking. <illustration src="AchiltibuieJMacLeodslipsillust1.jpg" width="200"/></description>
+    </item>
+    <item>
+      <headword id="idp167442592">muc-fàileag [mũkfɑ:lɑɡ]</headword>
+      <description>Quotation: pl. mucan-fàileag. Notes: plant like a small rose-bush; prickly, with pink blossom and big red berries. Rosehip syrup made from it, acc. to JML.</description>
+    </item>
+    <item>
+      <headword id="idp167444464">muist [mũ̟ʃtʹ]</headword>
+      <description>Notes: white muslin cap with frills.</description>
+    </item>
+    <item>
+      <headword id="idp167446192">raimh [rɑ̃ĩ]</headword>
+      <description>Notes: boasting (verb. noun).</description>
+    </item>
+    <item>
+      <headword id="idp167447920">omhan-fuar [ɔ̃əṉfu̟əɾ]</headword>
+      <description>Notes: warm milk with a little rennet added, allowed to set in cold water, then switched.</description>
+    </item>
+    <item>
+      <headword id="idp167449648">plocan</headword>
+      <description>Notes: potato masher.</description>
+    </item>
+    <item>
+      <headword id="idp167451160">poll</headword>
+      <description>Quotation: poll buntàta. Notes: potato pit. “Toll buntàta” also used.</description>
+    </item>
+    <item>
+      <headword id="idp167452816">prìne-dùint</headword>
+      <description>Notes: safety pin.</description>
+    </item>
+    <item>
+      <headword id="idp167454328">sealbhag [ʃɑɫɑvɑɡ]</headword>
+      <description>Notes: A weed growing among potatoes. Red seed. Long root.</description>
+    </item>
+    <item>
+      <headword id="idp167456128">sglèatag [sɡliɑt̪ɑɡ]</headword>
+      <description>Notes: slater.</description>
+    </item>
+    <item>
+      <headword id="idp119680256">sgrùthan [sɡɾu̟:ɑṉ]</headword>
+      <description>Notes: stook of twelve sheaves.</description>
+    </item>
+    <item>
+      <headword id="idp119681984">sgùilean [sɡu̜:lɑṉ]</headword>
+      <description>Notes: a type of basket that could be used for carrying peats, potatoes, fishing lines, etc.</description>
+    </item>
+    <item>
+      <headword id="idp119683712">siollachan</headword>
+      <description>Notes: haimes.</description>
+    </item>
+    <item>
+      <headword id="idp119685224">slaman</headword>
+      <description>Notes: junket.</description>
+    </item>
+    <item>
+      <headword id="idp119686736">snioghan [ʃnw̃ɣɑṉ]</headword>
+      <description>Notes: ant.</description>
+    </item>
+    <item>
+      <headword id="idp119688464">snioghan-iteach</headword>
+      <description>Notes: ant that flies and makes a whistling noise.</description>
+    </item>
+    <item>
+      <headword id="idp119689976">sporais [spɔɾwʃ]</headword>
+      <description>Notes: sparrow. [ɡʹɑlɑvɑṉ] also used.</description>
+    </item>
+    <item>
+      <headword id="idp119691992">steàrnag [ʃtʹɑ:ʴṉɑɡ]</headword>
+      <description>Notes: tern. [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+    <item>
+      <headword id="idp119693864">stoc-sgiath</headword>
+      <description>Notes: same as “lianraith”.</description>
+    </item>
+    <item>
+      <headword id="idp119695376">stúrdaidh</headword>
+      <description>Notes: disease in sheep.</description>
+    </item>
+    <item>
+      <headword id="idp119696888">strian</headword>
+      <description>Quotation: strian a’ chruinn [st̪ɾıɤṉəxɾɤ̃ĩnʹ]. Notes: muzzle of plough.</description>
+    </item>
+    <item>
+      <headword id="idp119698760">talamh</headword>
+      <description>Quotation: talamh connlaich [t̪ɑɫu̜ k[ɤ̃ũ]ɫiç]. Notes: ground where corn grew the previous year.</description>
+    </item>
+    <item>
+      <headword id="idp119701064">talamh</headword>
+      <description>Quotation: talamh glas [t̪ɑɫu̜ɡɫɑs]. Notes: lea land.</description>
+    </item>
+    <item>
+      <headword id="idp119702936">taosg [t̪w:sɡ]</headword>
+      <description>Quotation: taosg a’ pheile. Notes: not full to capacity.</description>
+    </item>
+    <item>
+      <headword id="idp119704808">taosgan</headword>
+      <description>Notes: a small load, e.g. on a cart or creel.</description>
+    </item>
+    <item>
+      <headword id="idp119706320">tigh-dubh</headword>
+      <description>Notes: house where whisky was made illegally.</description>
+    </item>
+    <item>
+      <headword id="idp119707832">toll</headword>
+      <description>Quotation: Toll buntàta. Notes: Potato pit. “Poll buntàta” also used.</description>
+    </item>
+    <item>
+      <headword id="idp119709488">tormachan-dé [t̪ɔɾɔmɑxɑṉdʹe:]</headword>
+      <description>Notes: butterfly.</description>
+    </item>
+    <item>
+      <headword id="idp119711216">trosg</headword>
+      <description>Notes: cod.</description>
+    </item>
+    <item>
+      <headword id="idp119712728">tudan</headword>
+      <description>Notes: “hut” of corn.</description>
+    </item>
+    <item>
+      <headword id="idp119714240">ullag</headword>
+      <description>Notes: switched cream, oatmeal and sugar. The cream came out of the churn when making butter.</description>
+    </item>
+    <item>
+      <headword id="idp119715752">ach</headword>
+      <description>Quotation: Cha b’fhiach iad ach am bitheadh iad dubh. Notes: “until”.</description>
+    </item>
+    <item>
+      <headword id="idp119717408">anaite [ɑ̃ṉɑtʹə]</headword>
+      <description>Notes: Two-year-old heifer.</description>
+    </item>
+    <item>
+      <headword id="idp119719136">atharnach</headword>
+      <description>Quotation: atharnach bhuntàta, atharnach shnèip.</description>
+    </item>
+    <item>
+      <headword id="idp119720648">babht [b[ɤu̟]t̪]</headword>
+      <description>Notes: swathe.</description>
+    </item>
+    <item>
+      <headword id="idp119722808">bara-ceapag [bɑɾəcɛpɑɡ]</headword>
+      <description>Notes: wheelbarrow.</description>
+    </item>
+    <item>
+      <headword id="idp119724536">bara-da-làimh</headword>
+      <description>Notes: hand-barrow.</description>
+    </item>
+    <item>
+      <headword id="idp119726048">bior-fuilt</headword>
+      <description>Notes: hairpin.</description>
+    </item>
+    <item>
+      <headword id="idp119727560">bodach-ruadh</headword>
+    </item>
+    <item>
+      <headword id="idp119729072">bonaid</headword>
+      <description>Notes: bonnet worn by women – tied under the chin.</description>
+    </item>
+    <item>
+      <headword id="idp119730584">braonan [bɾw̃:ṉɑṉ]</headword>
+      <description>Notes: Edible root. White flower. Has a nutty taste.</description>
+    </item>
+    <item>
+      <headword id="idp119732312">brutag</headword>
+      <description>Quotation: Brutag a’ fhraoich; Brutag a’ chàil. Notes: caterpillar.</description>
+    </item>
+    <item>
+      <headword id="idp119733968">buidheag</headword>
+      <description>Notes: flower growing among potatoes.</description>
+    </item>
+    <item>
+      <headword id="idp119735480">cas-chaibe</headword>
+      <description>Notes: earmark. <illustration src="AchiltibuieJMacLeodslipsillust2.jpg" width="200"/></description>
+    </item>
+    <item>
+      <headword id="idp119736992">ceangaladair [c[ɑ̃ũ̜]n̪əd̪ɑɾ]</headword>
+      <description>Notes: “crois-iarna”.</description>
+    </item>
+    <item>
+      <headword id="idp119739152">clachd [klɑxk]</headword>
+      <description>Quotation: pl. clachdan. Notes: roll of wool ready for spinning.</description>
+    </item>
+    <item>
+      <headword id="idp119741024">connlach</headword>
+      <description>Quotation: talamh connlaich [t̪ɑɫu̜k[ɤu]ɫiç]. Notes: ground where corn grew the year before.</description>
+    </item>
+    <item>
+      <headword id="idp119743328">cudaig-ruadh</headword>
+      <description>Notes: cudaig ruadh, leth-shoithean, soithean, ucas.</description>
+    </item>
+    <item>
+      <headword id="idp119744840">dàir</headword>
+      <description>Quotation: Tha a’ bhó fo dhàir.</description>
+    </item>
+    <item>
+      <headword id="idp119746352">doirb [d̪ɤɾɤb]</headword>
+      <description>Notes: black beetle found in walls, a little bigger than a blue-bottle.</description>
+    </item>
+    <item>
+      <headword id="idp119748080">earar</headword>
+      <description>Quotation: an earar. Notes: the day after tomorrow.</description>
+    </item>
+    <item>
+      <headword id="idp119749736">fiadhag [fiɤɣɑɡ]</headword>
+      <description>Notes: blaeberry.</description>
+    </item>
+    <item>
+      <headword id="idp119751464">fosagan [fɔsɑɡəṉ]</headword>
+      <description>Notes: an old pair of thick socks used by people with sore feet (without shoes).</description>
+    </item>
+    <item>
+      <headword id="idp119753192">gamhnach</headword>
+      <description>Notes: cow with milk and not in calf.</description>
+    </item>
+    <item>
+      <headword id="idp119754704">garra-gartan [ɡɑrəɡɑʴsṯɑṉ]</headword>
+      <description>Notes: corncrake. [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+    <item>
+      <headword id="idp119756576">geal-bhonn [ɡʹɑɫɑvɑṉ]</headword>
+      <description>Notes: sparrow. [spɔɾwʃ] also used.</description>
+    </item>
+    <item>
+      <headword id="idp119758592">glasaich</headword>
+      <description>Notes: lea land.</description>
+    </item>
+    <item>
+      <headword id="idp119760104">góbhlachan</headword>
+      <description>Notes: earwig.</description>
+    </item>
+  </items>
+</fieldworkDocument>
+

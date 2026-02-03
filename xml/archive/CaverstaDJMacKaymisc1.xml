@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 21 8 14 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="AJSmith_CaverstaDJMacKaymisc1" docType="wordlist" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>November 1972</date>
+  <fieldworker>A. J. Smith</fieldworker>
+  <note>[NOTES: in IPA transcriptions, the fieldworker uses [w] for [ɯ].]</note>
+
+  <informant>
+    <nameEnglish>D. J. MacKay</nameEnglish>
+    <origin>Caversta</origin>
+  </informant>
+  <location>[Lewis], Lochs, Caversta</location>
+  <items>
+    <item>
+      <headword id="idp118725416">braosdair</headword>
+      <description>[bɾɤ:sd̪ɑð] Quot.: “braosdair teine”. Note: fire with a centre of very hot burning embers.</description>
+    </item>
+    <item>
+      <headword id="idp118834208">craos</headword>
+      <description>[kɾw:s] Quot.: craos de theine. Note: same as above [i.e. braosdair].</description>
+    </item>
+    <item>
+      <headword id="idp118751840">cuallach</headword>
+      <description>[ku̜ɤɫɑx] Note: a bundle, a good amount.</description>
+    </item>
+    <item>
+      <headword id="idp118723184">pronn-bhiadh</headword>
+      <description>[ˈpɾɔ̃n̪ɔvəɣ] Note: mashed bait thrown out to attract cuddies.</description>
+    </item>
+    <item>
+      <headword id="idp118806056">rusdaige</headword>
+      <description>[ˈru̜sd̪iɡʹə] Quot.: Chaneil ann dheth ach rusdaige grannda. Note: a “bad stick”.</description>
+    </item>
+    <item>
+      <headword id="idp118769336">spudraisg</headword>
+      <description>[spu̟d̪ɾiʃɡʹ] Note: a dirty mixture.</description>
+    </item>
+    <item>
+      <headword id="idp118724480">spriughal</headword>
+      <description>[ˈspðu̜əɫ] Quot.: “spriughal chlach”, “spriughal aran”. “Tha e na spriughal.” Note: fragments, crumbs.</description>
+    </item>
+    <item>
+      <headword id="idp118734848">spoilltreag</headword>
+      <description>[spɤılʹt̪ɾɑɡ] Note: a split herring.</description>
+    </item>
+    <item>
+      <headword id="idp118810736">glaidhm</headword>
+      <description>[ɡɫɑ̃ĩm] Quot.: “a’ toirt glaidhm a pìos”. Note: a mouthful.</description>
+    </item>
+    <item>
+      <headword id="idp118835936">sglamhadh</headword>
+      <description>[sɡɫɑ̃fəɣ] Quot.: “Thug e sglamhadh thuige.” Note: a voracious lunge, as a dog after a cat, without actually touching it.</description>
+    </item>
+    <item>
+      <headword id="idp118772072">pràbladh</headword>
+      <description>Quot.: “An urrainn dhuit a’ Ghàidhlig a leughadh?” “Ni mi pràbladh math oirre co-dhiùbh.” Note: a fairly good attempt.</description>
+    </item>
+    <item>
+      <headword id="idp118761560">seathamh</headword>
+      <description>[ˈʃɛhu̟] Quot.: “Tha mi a falbh chon a’ mhóintich.” “Chaneil sin seathamh dhuit là dhan t-seòrsa-sa.” Note: refers to the advisability of doing something or going somewhere on a day of very bad weather, when one would be exposed to it.</description>
+    </item>
+    <item>
+      <headword id="idp118727072">duainidh</headword>
+      <description>[d̪ũ̜ɑ̃nʹi] Quot.: (1) “là duainidh”. (2) “Nach tu tha duainidh a coimhead.” Note: (1) dull, bleak day. (2) a person of grey pallor.</description>
+    </item>
+    <item>
+      <headword id="idp118757744">eileach</headword>
+      <description>Note: low wall built across a stream or river with a gap left in the middle where a “cabhall” was put to catch fish.</description>
+    </item>
+    <item>
+      <headword id="idp118804400">fùdraig</headword>
+      <description>Quot.: “Bhiodh iad a’ fùdraigeadh le maide gus an dheidheadh na bradain dhan a’ chabhall.” Note: beating along the banks to drive salmon into the net.</description>
+    </item>
+    <item>
+      <headword id="idp118830176">slacan</headword>
+      <description>Quot.: “slacan bean an tighe”. Note: referring to tongs.</description>
+    </item>
+    <item>
+      <headword id="idp118746800">stiora</headword>
+      <description>[ʃtʹwɾə] Note: fish of the shark variety larger than a dogfish. Not eaten.</description>
+    </item>
+  </items>
+</fieldworkDocument>

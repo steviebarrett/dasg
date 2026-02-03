@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 5 4 14 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="WoolworkingandFishing_GlasgowMMacLeodmaorach" docType="questionnaire" subType="Maorach" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Maorach / Shellfish</title>
+  <fieldworker>[self]</fieldworker>
+  <informant>
+    <nameEnglish>Murdo MacLeod</nameEnglish>
+    <nameGaelic>Murchadh MacLeòid </nameGaelic>
+    <origin>Lewis, Uig an Iar</origin>
+  </informant>
+  <location>Leòdhas [Lewis], Uig an Iar, Crabhlastadh [In other questionnaires: Glasgow]</location>
+  <items>
+    <item><headword id="d0e29" type="heading" level="h1">1. Maorach</headword></item>
+    <item>
+	  <headword id="d0e34">[maorach]</headword>
+      <description>“Chan fhuirich muir ri uallach ’s cha bhuain bean luath maorach.”</description>
+    </item>
+	<item>
+	  <headword id="idola228">[note]</headword>
+	  <description>Tha eagal orm nach bith móran agam air a’ cheann-sa. Móran as ùr, có dhiù. Chanainn gu’m faigh sibh feadhainn an àiteachan eile a bheir gu leòir dhuibh air a’ cheann-sa. Có dhiù móran a bharrachd air na bhios agam-sa.</description>
+	</item>
+    <item>
+      <headword id="d0e52">bàirneach</headword>
+      <description>(Air a fhuaimneachadh: bàrnach.)</description>
+    </item>
+    <item>
+      <headword id="d0e61">faochag</headword>
+      <description>(Air a fhuaimneachadh: faochag.)</description>
+    </item>
+    <item>
+      <headword id="d0e70">fèasgan</headword>
+      <description>(Air a fhuaimneachadh: fiasgan mar ‘feusag’.)</description>
+    </item>
+    <item>
+      <headword id="d0e79">muirsig</headword>
+      <description>Razor fish. (Faic muirsgian.) (Air a fhuaimneachadh: mursaig.)</description>
+    </item>
+    <item>
+      <headword id="d0e88">strùpan</headword>
+      <description>(Air a fhuaimneachadh: striùpan.)</description>
+    </item>
+    <item>
+      <headword id="d0e97">conagag</headword>
+      <description>Whelk. (Air a fhuaimneachadh: conagag mar ‘monmhar’ (‘monabar’ ann an Uig againne).)</description>
+    </item>
+    <item>
+      <headword id="d0e106">brùiteag</headword>
+      <description>A thuilleadh air na tha an seo shuas, tha ainm againn air faochag bheag, bhrèagha, dhearg a gheibhear an dràsda ’s a rithist am measg chaich. Le iongantach mur a h-e ‘brùideag’ a bhios an seo. (Faic brùideag.) Chan eil an t-ainm Beurla no an t-ainm Laidinn air a’ chreutar-sa agam.</description>
+    </item>
+    <item>
+	  <headword id="idola229">[faochag]</headword>
+	  <description>Gheibh sibh de sheòrsachan fhaochag againne – chan ann ann am mór phailteas mar na faochagan dubha – chanainn a chuid mhór de sheòrsachan a th’ann. Ach chan eil ainmeannan againn ach air na h-uibhir mar a dh’ainmich mi. Agus air Tràigh Mhór Uige, gheibh sibh sligean móran sheòrsachan maoraich, beag agus mór. Agus air móran dhathan.</description>
+	</item>
+	<item>
+	  <headword id="idola230">[maorach]</headword>
+	  <description>Anns na Bàigh, ann an Uig an Iar, sin agaibh far am faigh sibh a’ mhaorach. Chanainn gu bheil Sgoil Lochcroistean comasach air pailteas a thoirt dhuibh air a’ cheann ‘maorach’.</description>
+	</item>
+    <item><headword id="d0e132" type="heading" level="h2">A thuilleadh air na maoraich a dh’ainmich mi tha aca:</headword></item>
+    <item>
+      <headword id="d0e137">eisirean</headword>
+    </item>
+    <item>
+      <headword id="d0e143">madaidh</headword>
+    </item>
+    <item>
+      <headword id="d0e149">breallaich</headword>
+    </item>
+    <item>
+      <headword id="d0e155">mùsganan</headword>
+    </item>
+    <item>
+      <headword id="d0e161">eachanan</headword>
+      <description>(Cha chan mi nach e ‘eachain’ a chanas iad ri barrachd air aonan.)</description>
+    </item>
+    <item>
+      <headword id="d0e170">creachain</headword>
+      <description>Bhiodh slige-chreachain aig na cailleachan airson toirt an uachdair bharr a’ bhainne.</description>
+    </item>
+	<item>
+	  <headword id="idola231">[slige]</headword>
+	  <description>Chan fhaca mi le m’ fhiosrachadh gin dhiubh seo a riamh. Chunnaic mi slige eisire agus slige creachain. Ach cha do bhlais mi a’ mhaorach a riamh mur do rinn mi aon uair ’s a’ bhaile-sa fhéin, seòrsa de bhlasd a dheanamh air eisir. Cha deach e na b’ fhaide na sin fhein.</description>
+	</item>
+    <item>
+	  <headword id="idola232">[fiaclan]</headword>
+	  <description>Anns na 1930-an ’s e na fiaclan a bh’ann an clann na sgoile aig Lochcroistean na fiaclan a b’fheàrr ’s a b’fhallain aig sgoilearan anns na h-Eileanan Breatunnach. Bha seo le na bha iad a’ tighinn beò air de mhath an àite fhéin – maorach, eòin-mhara, iasg, ’s mar sin.</description>
+	</item>
+    <item><headword id="d0e196" type="heading" level="h1">2. A’ tional maorach</headword></item>
+    <item>
+      <headword id="d0e201">anns an tràigh bhàirneach</headword>
+      <description>Canaidh sinn seo airson buain nam maorach-sa, mar a chanas sinn “anns an tràigh fheamad” airson buain na feamad.</description>
+    </item>
+	<item>
+	  <headword id="d0e210">anns an tràigh fhaochag</headword>
+	  <description>Canaidh sinn seo airson buain nam maorach-sa, mar a chanas sinn “anns an tràigh fheamad” airson buain na feamad.</description>
+	</item>
+	<item>
+	  <headword id="d0e219">anns an tràigh fhèasgan</headword>
+	  <description>Canaidh sinn seo airson buain nam maorach-sa, mar a chanas sinn “anns an tràigh fheamad” airson buain na feamad.</description>
+    </item>
+	<item>
+      <headword id="d0e228">a’ togail shrùpanan</headword>
+      <description>Cho fada ’s a tha cuimhne agam, ’se seo a chanadh sinn mu thional na maoraich-sa. (Tha ‘maorach’ boirionn againn, ’s an àite-sa có dhiu, mar a thuit a mach bhuam an so shuas. Cha chanainn nach eil ‘maorach’ boirionn agus firionn againn mar a thionndaidheas a mach.) Tha ‘coilleag’ againn mar ainm annasach, no mar ainm litireil. Tearc air na bilean.</description>
+    </item>
+    <item>
+      <headword id="d0e237">a’ sgileadh fhèasgan</headword>
+      <description>Nuair a bhiodh na bodaich a’ fosgladh nam fèasgan ’s a’ toirt a’ bhidh asda airson a chur ’n a bhiathadh air an lìon-bheag, ’s e ‘sgileadh’ a chanadh iad ris an obair. “Tormod a’ sgileadh nam fèasganan.”</description>
+    </item>
+    <item>
+      <headword id="d0e246">“Aona ghoil an fhaochag, Dà ghoil a’ bhàirneach, ’S bùrn teth am fèasgan.”</headword>
+      <description>Bhiodh seo aig na bodaich airson a’ mhaorach a bhruiche.</description>
+    </item>
+    <item>
+      <headword id="d0e255">ord-bhàirneach</headword>
+      <description>Thug mi seachad seo ann am pàipear roimhe mar a bhios cuimhne agaibh.</description>
+    </item>
+	<item>
+	  <headword id="idola233">[bocadh an éisg]</headword>
+	  <description>Agus an leigheas airson bocadh an éisg: “Naoi naoidheannan de bhàirnich mhóra nan Eileanan Glannach.” (iad seo ithe) 9 x 9 = 81 bàirneach. (Thug mi seo seachad ann am pàipear roimhe air a’ bhliadhna.)</description>
+	</item>
+    <item><headword id="d0e272" type="heading" level="h1">3. Beathaichean eile a gheibhear ’sa’ chladach</headword></item>
+    <item>
+      <headword id="d0e277">portan</headword>
+      <description>(Air a fhuaimneachadh: porsdan.)</description>
+    </item>
+    <item>
+      <headword id="d0e286">portan-tuathalan</headword>
+      <description>(Tha seo air a fhuaimneachadh againn: porsdan n huathallan. Cha chan sinn idir glan geàrrte: portan tuathallan.) (Tuigibh sibh fhéin, agus cha bhith sibh fada uime, mu an nì àrraid a tha ’n a leithid seo.)</description>
+    </item>
+    <item>
+      <headword id="d0e295">deargann-tràghad</headword>
+    </item>
+    <item>
+      <headword id="d0e301">clàimheag</headword>
+      <description>(Fuaimnich mar làimh + ag, làimheag, laivak, claivak.) Iasg beag dubh, donn, ruadh, no mar sin, a gheibheadh tu ann an lòn anns a’ chladach, ’s e clàimheag a bh’ann. Iasg sam bith de’n t-seòrsa seo shuas ’s e clàimheag a bh’ann. Chan eil cinnt sam bith agam mu’n ainm-sa ‘clàimheag’ – an robh e air iasg sònruichte sam bith, no an è ainm a bh’ann air éisg bheaga mar a dh’ainmich mi. (Faic clàidheag ’s a leithid sin.)</description>
+    </item>
+    <item>
+      <headword id="d0e310">muirtèachd</headword>
+      <description>Bhiodh seo a’ tighinn air tìr air a’ chladach; gheibheadh sibh e an tiùrr an làn. Ach tha e a mach as àite agam an seo. Tha e air a thighinn againn gu ‘murtèachd’. Na’s fheàrr no sin (air a neo na’s miosa) gu burtèachd. (Mar ‘thubhairt’, aithghearr + tèachd.) (Chan è burt' iachd. Burtiachd'.)</description>
+    </item>
+	<item>
+	  <headword id="idola234">[note]</headword>
+	  <description>(Faic na Faclairean.)</description>
+	</item>
+    <item>
+	  <headword id="idola235">[note]</headword>
+	  <description>Tha droch eagal orm gu bheil mi air an dà phàipear-sa mu dheireadh a dheanamh nas rapaiche agus nas ceàrra na a b’àbhaist dhomh a thaobh sgrìobhaidh. Ach tha sibh fhéin cho air leth seorp agus nach cuir sin maille sam bith oirbh.</description>
+	</item>
+	<item>
+	  <headword id="idola236">“bharr nam puill” X</headword>
+	</item>
+    <item>
+      <headword id="d0e343">toirpsgian</headword>
+    </item>
+    <item>
+      <headword id="d0e349">toirsgir</headword>
+    </item>
+    <item>
+      <headword id="d0e355">toirbhsgir</headword>
+    </item>
+    <item>
+      <headword id="d0e361">toirbhsgear</headword>
+      <description>Ann an Leodhas ruidegin mar ‘is mairg dhaibh’.</description>
+    </item>
+  </items>
+</fieldworkDocument>

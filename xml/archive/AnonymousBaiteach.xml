@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 11 6 13 -->
+<fieldworkDocument docId="AssortedFieldworkers_AnonymousBaiteach" docType="questionnaire" subType="Aiteach">
+  <title>Àiteach / Agriculture</title>
+  <fieldworker>Anonymous B</fieldworker>
+  <items>
+    <item><headword id="d0e14" type="heading" level="h1">1. Na togalaichean: sobhal, bàthach is mar sin, agus ainm gach pàirt dhiubh</headword></item>
+    <item>
+      <headword id="d0e19">airidh</headword>
+      <description>hen roost.</description>
+    </item>
+    <item>
+      <headword id="d0e28">atha</headword>
+      <description>equiv. of ‘sobhal’.</description>
+    </item>
+    <item>
+      <headword id="d0e37">àth</headword>
+      <description>kiln.</description>
+    </item>
+    <item>
+      <headword id="d0e46">aol</headword>
+      <description>lime.</description>
+    </item>
+    <item>
+      <headword id="d0e55">slacadh</headword>
+      <description>slackening the lime. Slacke [sic] – adding water.</description>
+    </item>
+    <item>
+      <headword id="d0e64">ath cheilp</headword>
+      <description>kelp kiln.</description>
+    </item>
+    <item>
+      <headword id="d0e73">ath aol</headword>
+      <description>lime kiln.</description>
+    </item>
+    <item>
+      <headword id="d0e82">tireadh</headword>
+      <description>grinding. Drying of the grain in the barn.</description>
+    </item>
+    <item><headword id="d0e90" type="heading" level="h1">2. A’ mathachadh no a’ leasachadh na talmhainn</headword></item>
+    <item><headword id="d0e94" type="heading" level="h1">3. A’ treabhadh no a’ ruamhar: an crann agus ainm gach pàirt dheth</headword></item>
+    <item><headword id="d0e98" type="heading" level="h1">4. Innealan beaga leithid spaid, gràp, ràcan is mar sin</headword></item>
+    <item><headword id="d0e102" type="heading" level="h1">5. Acfhuinn an eich airson gach seòrsa obair</headword></item>
+    <item><headword id="d0e106" type="heading" level="h1">6. A’ cur an t-sìl</headword></item>
+    <item><headword id="d0e110" type="heading" level="h1">7. A’ buain agus a’ tiormachadh an arbhair no an fheòir</headword></item>
+    <item><headword id="d0e114" type="heading" level="h1">8. A’ togail a’ bhuntàta</headword></item>
+    <item><headword id="d0e118" type="heading" level="h1">9. A’ tasgadh an arbhair agus a’ bhuntàta</headword></item>
+    <item><headword id="d0e122" type="heading" level="h1">10. A’ bualadh ’s a’ criathradh</headword></item>
+    <item><headword id="d0e126" type="heading" level="h1">11. A’ bleith an t-sìl</headword></item>
+    <item><headword id="d0e130" type="heading" level="h1">12. Ainmean a chleachdar ri earrainn fearainn</headword></item>
+    <item><headword id="d0e134" type="heading" level="h1">13. Faclan sam bith eile</headword></item>
+  </items>
+</fieldworkDocument>

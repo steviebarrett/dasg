@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 27/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_TalmineBMacKayslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>1969</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <note>[NOTES: in IPA transcriptions, the fieldworker uses [w] for [ɯ].]</note>
+  <informant>
+    <nameEnglish>Barbara MacKay</nameEnglish>
+  </informant>
+  <location>Sutherland, Talmine</location>
+  <items>
+    <item>
+      <headword id="idp117238608">muinntir</headword>
+      <description>[mɔ̃ĩnʹtʹəɾ] Quotation: “Bha muinntir dhiubh ann.” Notes: applied in Durness to “several” of anything.</description>
+    </item>
+    <item>
+      <headword id="idp117240552">ràmh</headword>
+      <description>Quotation: O, a’ ràmh! Notes: said to a person talking a lot on nonsense.</description>
+    </item>
+    <item>
+      <headword id="idp117242208">ràmhach</headword>
+      <description>[rɑ̃:vɑx] Notes: loud-mouthed.</description>
+    </item>
+    <item>
+      <headword id="idp117243936">cleamag</headword>
+      <description>[klemɑɡ] Notes: applied to a tinkerwife. (Proper name? Clementine?)</description>
+    </item>
+    <item>
+      <headword id="idp117245736">faoilidh</headword>
+      <description>[fw:li] Notes: easy-going, opp. of haughty, aloof.</description>
+    </item>
+  </items>
+</fieldworkDocument>

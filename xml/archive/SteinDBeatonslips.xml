@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 27/10/15 -->
+<!-- illustrations -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_SteinDBeatonslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>06/1970</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <note>[NOTES: in IPA transcriptions, the fieldworker uses [w] for [ɯ].]</note>
+  <informant>
+    <nameEnglish>D. Beaton</nameEnglish>
+  </informant>
+  <location>Skye, Stein</location>
+  <items>
+    <item>
+      <headword id="idp118697480">laigh</headword>
+      <description>Quotation: a’ cur a laighe na càraid. Notes: bride and bridegroom undressed by close friends and put to bed. Drams passed round.</description>
+    </item>
+    <item>
+      <headword id="idp118693664">lonaid</headword>
+      <description>Notes: churn-stick.</description>
+    </item>
+    <item>
+      <headword id="idp118727288">luim</headword>
+      <description>[ɫ[ɤ̃ĩ]m] Quotation: Thàinig luim rodain. Notes: a horde. Often used of unwelcome creatures like vermin.</description>
+    </item>
+    <item>
+      <headword id="idp118692584">maide-laimheadh</headword>
+      <description>[mɑ̃dʹəɫɛ̃:əɣ] Notes: handle of flail.</description>
+    </item>
+    <item>
+      <headword id="idp118754720">rathadach</headword>
+      <description>Quotation: ’S e duine rathadach a th’ann. Notes: capable, able; go-ahead.</description>
+    </item>
+    <item>
+      <headword id="idp118753208">ròd</headword>
+      <description>Quotation: ròd buntàta, ròd thùirneap. Notes: a row of potatoes.</description>
+    </item>
+    <item>
+      <headword id="idp118752488">niuchar</headword>
+      <description>Quotation: niuchar a’ speal. Notes: the wire supporting the blade. (Also, more commonly, “snàthad a’ speal”.)</description>
+    </item>
+    <item>
+      <headword id="idp118750328">pearrd</headword>
+      <description>[pɛ:ʴd̪] Notes: a heap of “rolagan” from the cards. [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+    <item>
+      <headword id="idp118748888">plàt-fhasgnaidh</headword>
+      <description>Notes: layer of straw put on floor where winnowing was done to keep the seed clean.</description>
+    </item>
+    <item>
+      <headword id="idp118747088">putaire</headword>
+      <description>Notes: a dibble.</description>
+    </item>
+    <item>
+      <headword id="idp118745576">sèicil</headword>
+      <description>[ʃɛ:cəl] Notes: the “flyer” on a spinning wheel.</description>
+    </item>
+    <item>
+      <headword id="idp118743992">séise</headword>
+      <description>[ʃ[ɤı]ʃə] Notes: wooden bench with back and sometimes arms.</description>
+    </item>
+    <item>
+      <headword id="idp118741112">sìneachan</headword>
+      <description>[ʃĩ:ṉɑxəṉ] Notes: drag-chains.</description>
+    </item>
+    <item>
+      <headword id="idp118739816">siol-dubh</headword>
+      <description>Notes: the decayed seed that went through the riddle.</description>
+    </item>
+    <item>
+      <headword id="idp118738448">sloc</headword>
+      <description>Quotation: sloc bhunàta [sic]. Notes: potato pit.</description>
+    </item>
+    <item>
+      <headword id="idp118736792">snaoth</headword>
+      <description>[sn̪w̃:] Notes: funeral bier, borne usually by eight people. </description>
+    </item>
+    <item>
+      <headword id="idp118734920">sòrnach</headword>
+      <description>Quotation: Bha a’ phoit-dhath air a’ sòrnach air taobh a muigh an doruis. Notes: stones built up round a fire so that the pot would rest on it.</description>
+    </item>
+    <item>
+      <headword id="idp118733552">stairean</headword>
+      <description>[st̪ɤɾɑṉ] Notes: stepping stones over a burn or over a patch of soft ground; a stone path.</description>
+    </item>
+    <item>
+      <headword id="idp118731680">sùisd</headword>
+      <description>Quotation: Parts: 1. buailtean. 2. iall. 3. maide-làimheadh [ɫɛ̃:əɣ]. [NOTES: slipped under ‘sùist’.]</description>
+    </item>
+    <item>
+      <headword id="idp118711592">sunnag</headword>
+      <description>Notes: seat made out of a barrel.</description>
+    </item>
+    <item>
+      <headword id="idp118714544">tallan</headword>
+      <description>Notes: wooden partition.</description>
+    </item>
+    <item>
+      <headword id="idp118717496">tog</headword>
+      <description>Quotation: a’ togail uime. Notes: hoeing the potatoes; building up the earth around the shaws.</description>
+    </item>
+    <item>
+      <headword id="idp118722608">ubhal</headword>
+      <description>Quotation: ubhal a’ bhuntàta.</description>
+    </item>
+    <item>
+      <headword id="idp118725488">ùrlar-bualaidh</headword>
+    </item>
+    <item>
+      <headword id="idp118728656">aithghearra</headword>
+      <description>[ɑçɑrə] Notes: a footpath which was also a short-cut, e.g. over a hill.</description>
+    </item>
+    <item>
+      <headword id="idp118796696">alaraidh</headword>
+      <description>[ɑɫɑɾi] Notes: whisky, biscuits and cheese at a funeral.</description>
+    </item>
+    <item>
+      <headword id="idp118798424">bachallag</headword>
+      <description>Notes: potato sprout.</description>
+    </item>
+    <item>
+      <headword id="idp118799936">baigeileis</headword>
+      <description>[bɑɡʹəlɛʃ] Quotation: a’ bhaigeileis. Notes: when the raw wool was teased, the dirty wool was put into a bag called a’ bhaigeileis. (Could also be used of a dirty, ragged person.)</description>
+    </item>
+    <item>
+      <headword id="idp118801808">balla-tarsuinn</headword>
+      <description>Notes: stone wall inside a house.</description>
+    </item>
+    <item>
+      <headword id="idp118803320">bana-bhreabadair</headword>
+      <description>Notes: female weaver.</description>
+    </item>
+    <item>
+      <headword id="idp118804832">braclach</headword>
+      <description>[bɾɑxkɫɑx] Quotation: (1) braclach an t-sionnaich. (2) Tha braclach tigh aige. (3) ’S e braclach duine th’ann. Notes: (1) den. (2) and (3) used for a state of dirtiness, untidiness.</description>
+    </item>
+    <item>
+      <headword id="idp118806704">branndair</headword>
+      <description>Quotation: branndair a’ bhùird. Notes: shelf under the table (usually slatted).</description>
+    </item>
+    <item>
+      <headword id="idp118808360">bratag</headword>
+      <description>Quotation: bratag a’ bhuntàta. Notes: white worm with a red head.</description>
+    </item>
+    <item>
+      <headword id="idp118810016">cabadh</headword>
+      <description>Quotation: a’ cabadh a’ bhuntàta. Notes: cleaning potatoes with a hoe.</description>
+    </item>
+    <item>
+      <headword id="idp118811672">càraid</headword>
+      <description>Quotation: a’ cur a laighe na càraid. Notes: bride and bridegroom undressed by close friends and put to bed. Drams passed round.</description>
+    </item>
+    <item>
+      <headword id="idp117928624">ceirle</headword>
+      <description>[cɛʴlʹə] Quotation: ceirrle [sic] shnàthadh. Notes: a ball of yarn. [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+    <item>
+      <headword id="idp117930640">clàimhean</headword>
+      <description>[kɫɛ̃:vɛ̃ṉ] Notes: sliding wooden bolt put on doors.</description>
+    </item>
+    <item>
+      <headword id="idp117932368">crann-drilidh</headword>
+      <description>Notes: drill-plough.</description>
+    </item>
+    <item>
+      <headword id="idp117933880">crannachan</headword>
+      <description>Notes: churn.</description>
+    </item>
+    <item>
+      <headword id="idp117935392">criathar-tholl</headword>
+      <description>Quotation: Tha ’n talamh na chriathar-tholl aca. Notes: riddled with holes (moles).</description>
+    </item>
+    <item>
+      <headword id="idp117937048">cuiseag</headword>
+      <description>Quotation: cuiseag a bhuntàta. Notes: potato shaw.</description>
+    </item>
+    <item>
+      <headword id="idp117938704">di-mill</headword>
+      <description>Quotation: ’S minic a [jĩmɑl] fear aig Féill rud bu mhath leis aige fhéin. Notes: denigrate. (Is it di-mill?)</description>
+    </item>
+    <item>
+      <headword id="idp117940648">dorus</headword>
+      <description>Quotation: dorus-fasgnaidh. Notes: door in barn opened to create a draught for winnowing.</description>
+    </item>
+    <item>
+      <headword id="idp117942376">dubhadh</headword>
+      <description>Notes: blight in potatoes.</description>
+    </item>
+    <item>
+      <headword id="idp117943888">fan</headword>
+      <description>Quotation: a’ fanail. Notes: staying.</description>
+    </item>
+    <item>
+      <headword id="idp117945544">goirteach</headword>
+      <description>Notes: poor, without food.</description>
+    </item>
+    <item>
+      <headword id="idp117947056">grìleag</headword>
+      <description>Notes: a small potato.</description>
+    </item>
+    <item>
+      <headword id="idp117948568">guiseid</headword>
+      <description>[ɡu̟ʃɛdʹ] Notes: a gusset; a triangular shape.</description>
+    </item>
+  </items>
+</fieldworkDocument>

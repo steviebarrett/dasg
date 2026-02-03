@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 20 04 13 -->
+<fieldworkDocument docId="HarrisMacLennan_HarrisGobhaigMacLennanmisc" docType="wordlist">
+  <title>Measgaichte / Miscellaneous</title>
+  <fieldworker>[self?]</fieldworker>
+  <note>[NOTES: the original title of the list is “Sòp as Gach Seid”.]</note>
+  <informant>
+    <nameEnglish>A. MacLennan</nameEnglish>
+    <nameGaelic>A. MacGill Fhinnein</nameGaelic>
+    <age>19</age>
+  </informant>
+  <location>Na Hearadh, Gòbhaig [Harris, Gobhaig]</location>
+  <items>
+  	<item>
+  	  <headword id="d0e33">Chan udas e</headword>
+  	  <description>he is not good looking.</description>
+  	</item>
+  	<item>
+  	  <headword id="d0e42">grasag</headword>
+  	  <description>a ‘fly cup’ of tea.</description>
+  	</item>
+  	<item>
+  	  <headword id="d0e51">fiultagan</headword>
+  	  <description>nicky tams.</description>
+  	</item>
+  	<item>
+  	  <headword id="d0e60">Cha robh f/rath air</headword>
+  	  <description>there was no sign of him.</description>
+  	</item>
+  	<item>
+  	  <headword id="d0e69">grapadh</headword>
+  	  <description>a start, to startle someone.</description>
+  	</item>
+  	<item>
+  	  <headword id="d0e78">eicearsaich</headword>
+  	  <description>antics.</description>
+  	</item>  	
+  	<item>
+  	  <headword id="d0e87">camard</headword>
+  	  <description>crink in the neck in the morning.</description>
+  	</item>
+  	<item>
+  	  <headword id="d0e96">siolb</headword>
+  	  <description>a quick visit, ‘siolbadh a null’.</description>
+  	</item>
+  	<item>
+  	  <headword id="d0e105">spugh</headword>
+  	  <description>drills of grass left as it falls from the scythe blade.</description>
+  	</item>  	
+  	<item>
+  	  <headword id="d0e114">farasach</headword>
+  	  <description>false stooks of hay. Upright stick inside to allow ventilation.</description>
+  	</item>
+  	<item>
+  	  <headword id="d0e123">draongan</headword>
+  	  <description>pottering about.</description>
+  	</item>
+  	<item>
+  	  <headword id="d0e132">‘gille ceann beinge’</headword>
+  	  <description>some man that takes up residence in his bride’s home. Supposedly, always an outsider thus not getting near the fire but sitting on the ‘beinge’ as when he was a mere suitor.</description>
+  	</item>    	
+  	<item>
+  	  <headword id="d0e141">neathalaich</headword>
+  	  <description>pins and needles (cold fingers placed on something hot).</description>
+  	</item>
+	<item>
+      <headword id="d0e150">mathsluig</headword>
+      <description>obese, a huge [sic].</description>
+    </item>
+    <item>
+      <headword id="d0e159">lanaig</headword>
+      <description>footpath to a house or on a croft. (Uig)</description>
+    </item>
+    <item>
+      <headword id="d0e168">geinge</headword>
+      <description>wedge used to split stones.</description>
+    </item>
+    <item><headword id="d0e176" type="heading" level="h1">[Sheep]</headword></item>
+    <item>
+      <headword id="d0e181">uan</headword>
+    </item>
+    <item>
+      <headword id="d0e187">othaisg</headword>
+      <description>weaned lamb (1 yr).</description>
+    </item>
+    <item>
+      <headword id="d0e196">seota</headword>
+      <description>poor quality lamb.</description>
+    </item>
+    <item>
+      <headword id="d0e205">tailear</headword>
+      <description>lambs born with deformed feet.</description>
+    </item>
+    <item>
+      <headword id="d0e214">athaisg ’s tiaraineach – dianag</headword>
+      <description>2 yr old ewe.</description>
+    </item>
+    <item>
+      <headword id="d0e223">athdianag</headword>
+      <description>3 yr old ewe.</description>
+    </item>
+    <item>
+      <headword id="d0e232">croga</headword>
+      <description>cast ewe.</description>
+    </item>
+    <item>
+      <headword id="d0e241">uan reatha/ruda</headword>
+      <description>lamb ram.</description>
+    </item>
+    <item>
+      <headword id="d0e250">reatha</headword>
+      <description>ram.</description>
+    </item>
+    <item>
+      <headword id="d0e259">cleamair</headword>
+      <description>one testicled beast.</description>
+    </item>
+  </items>
+</fieldworkDocument>

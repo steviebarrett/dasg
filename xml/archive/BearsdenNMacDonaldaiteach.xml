@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?><!-- checked by MM on 22 5 14 --><fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="AOHenley_BearsdenNMacDonaldaiteach" docType="questionnaire" subType="Iteach" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Àiteach / Agriculture</title>
+  <date>[1987-88]</date>
+  <fieldworker personId="ohenleya">A. O’Henley</fieldworker>
+  <note>[NOTES: some notes added (most probably by K. D. MacDonald?). See below for details.]</note>
+  <informant>
+    <nameEnglish>Neil MacDonald</nameEnglish>
+    <nameGaelic>Niall Domhnallach </nameGaelic>
+    <origin>Na Hearadh [Harris]</origin>
+  </informant>
+  <location>[Glasgow], Bearsden</location>
+  <items>
+    <item><headword id="d0e35" type="heading" level="h1">1. Na togalaichean: sobhal, bàthach is mar sin, agus ainm gach pàirt dhiubh</headword></item>
+    <item>
+      <headword id="idp112092136">casan ceangail</headword>
+      <description><illustration src="BearsdenNMacDonaldaiteachillust1.jpg" width="150"/></description>
+    </item>
+    <item>
+      <headword id="idp112095376">gàth droma</headword>
+      <description>ridge.</description>
+    </item>
+    <item>
+      <headword id="idp112100056">muran</headword>
+      <description>sea bent used for thatching.</description>
+    </item>
+    <item>
+      <headword id="idp112074496">sioman fraoich</headword>
+      <description>rope for tying down the thatch.</description>
+    </item>
+    <item>
+      <headword id="idp112072984">sioman thearlaich</headword>
+      <description>quire [sic] [coir?] yarn. A proper rope imported from the mainland. [NOTES: ‘thearlaich’ corrected to ‘theàrlaich’.]</description>
+    </item>
+    <item>
+      <headword id="idp112071832">frasach</headword>
+      <description>box used for horse feed.</description>
+    </item>
+    <item>
+      <headword id="idp112070320">stalla</headword>
+      <description>stalls.</description>
+    </item>
+    <item>
+      <headword id="idp112068232">taod</headword>
+      <description>rope put round the head of a cow or horse.</description>
+    </item>
+    <item>
+      <headword id="idp112066720">saidhbhair</headword>
+      <description>hollow trench in byre where excrement accumulated.</description>
+    </item>
+    <item>
+      <headword id="idp112065208">leac ardarais</headword>
+      <description>lintel.</description>
+    </item>
+    <item>
+      <headword id="idp112063696">starsach</headword>
+      <description>threshold.</description>
+    </item>
+    <item><headword id="d0e138" type="heading" level="h1">2. A’ mathachadh no a’ leasachadh na talmhainn</headword></item>
+    <item>
+      <headword id="idp112061536">flagais</headword>
+      <description>manure (horse, cattle). Mixed with seaweed and used for oats only. [Corca-flagais.]</description>
+    </item>
+    <item>
+      <headword id="idp2502280">feamainn shiabaidh</headword>
+      <description>seaweed left at high tide used as potato fertiliser.</description>
+    </item>
+    <item>
+      <headword id="idp2516392">tiurr a’ làin</headword>
+      <description>what was left after high tide.</description>
+    </item>
+    <item>
+      <headword id="idp2512936">corca-flagais</headword>
+      <description>[See flagais.]</description>
+    </item>
+    <item><headword id="d0e178" type="heading" level="h1">3. A’ treabhadh no a’ ruamhar: an crann agus ainm gach pàirt dheth</headword></item>
+    <item>
+      <headword id="idp2507104">sòc</headword>
+      <description> the nose of the plough which went under the soil. [NOTES: corrected to ‘soc’.]</description>
+    </item>
+    <item>
+      <headword id="idp2510632">bòrd ùrach</headword>
+      <description>levelled off the dust/soil.</description>
+    </item>
+    <item>
+      <headword id="idp2511712">colltair</headword>
+      <description>the part that actually cut the soil.</description>
+    </item>
+    <item>
+      <headword id="idp2517472">spòg a’ chruinn</headword>
+      <description>handles of the plough.</description>
+    </item>
+    <item>
+      <headword id="idp2515960">treasaichean</headword>
+      <description>chains.</description>
+    </item>
+    <item>
+      <headword id="idp2522944">[amull]</headword>
+      <description><illustration src="BearsdenNMacDonaldaiteachillust2.jpg" width="300"/> Amull mór – used with one horse. Amull beag – used with two horses.</description>
+    </item>
+    <item><headword id="d0e237" type="heading" level="h1">4. Innealan beaga leithid spaid, gràp, ràcan is mar sin</headword></item>
+    <item><headword id="d0e241" type="heading" level="h1">5. Acfhuinn an eich airson gach seòrsa obair</headword></item>
+    <item>
+      <headword id="idp2532232">an t-srathair</headword>
+      <description>saddle on a cart.</description>
+    </item>
+    <item>
+      <headword id="idp2523736">diallaid</headword>
+      <description>saddle for a steed, charger.</description>
+    </item>
+    <item>
+      <headword id="idp2539576">coilair</headword>
+      <description>placed round the neck.</description>
+    </item>
+    <item>
+      <headword id="idp2541808">briogais</headword>
+      <description>on the side of the horse, used when pulling a cart.</description>
+    </item>
+    <item>
+      <headword id="idp2503144">srian</headword>
+      <description>reins.</description>
+    </item>
+    <item><headword id="d0e290" type="heading" level="h1">6. A’ cur an t-sìl</headword></item>
+    <item>
+      <headword id="idp2462576">fàsgnadh</headword>
+      <description>winnowing.</description>
+    </item>
+    <item>
+      <headword id="idp2464232">criathair</headword>
+      <description>sieve made with hardened sheep’s skin punctured by a white hot poker. Stretched over a wooden frame.</description>
+    </item>
+    <item>
+      <headword id="idp112111808">moull</headword>
+      <description>chaff. [NOTES: corrected to ‘moll’.]</description>
+    </item>
+    <item>
+      <headword id="idp112113464">cuinneag</headword>
+      <description>bucket for carrying seed.</description>
+    </item>
+    <item><headword id="d0e330" type="heading" level="h1">7. A’ buain agus a’ tiormachadh an arbhair no an fheòir</headword></item>
+    <item>
+      <headword id="idp112115912">speal</headword>
+      <description>scythe.</description>
+    </item>
+    <item>
+      <headword id="idp112117424">claisean</headword>
+      <description>ridges in the land being harvested.</description>
+    </item>
+    <item>
+      <headword id="idp112118936">corran mór</headword>
+      <description>used in this type of land.</description>
+    </item>
+    <item>
+      <headword id="idp112120448">spàdh (-an)</headword>
+      <description>the line which is visible once the hay has been cut. Lines between each row of freshly cut grass. [NOTES: corrected to ‘spadh’.]</description>
+    </item>
+    <item>
+      <headword id="idp112122104">sguaban</headword>
+      <description>sheaves.</description>
+    </item>
+    <item>
+      <headword id="idp112123616">adag</headword>
+      <description>four or six sheaves make an ‘adag’.</description>
+    </item>
+    <item>
+      <headword id="idp112125128">tòit (-ean)</headword>
+      <description>small rick of corn.</description>
+    </item>
+    <item>
+      <headword id="idp112126640">còcadh</headword>
+      <description>making small haystacks. Also used for haystacks in Harris. [NOTES: corrected to ‘cocadh’.]</description>
+    </item>
+    <item>
+      <headword id="idp112128368">tùghadh</headword>
+      <description>thatch used to keep the rain off haystacks. [NOTES: corrected to ‘tughadh’.]</description>
+    </item>
+    <item>
+      <headword id="idp112130024">cabhlach</headword>
+      <description>straw. Could also be used for weatherproofing. [NOTES: note added – connlach.]</description>
+    </item>
+    <item><headword id="d0e424" type="heading" level="h1">8. A’ togail a’ bhuntàta</headword></item>
+    <item>
+      <headword id="idp112132544">seargadh</headword>
+      <description>when the potato leaves had withered.</description>
+    </item>
+    <item>
+      <headword id="idp112134056">a’ putadh</headword>
+      <description>penetrating the ground with an iron dung fork so that it would be easier for the next process.</description>
+    </item>
+    <item>
+      <headword id="idp112135568">cròcan</headword>
+      <description>a rounded piece of iron with a wooden handle used to lift potatoes. <illustration src="BearsdenNMacDonaldaiteachillust3.jpg" width="100"/></description>
+    </item>
+    <item>
+      <headword id="idp112137080">ruidealadh</headword>
+      <description>shaking of the dust in a basket.</description>
+    </item>
+    <item><headword id="d0e465" type="heading" level="h1">9. A’ tasgadh an arbhair agus a’ bhuntàta</headword></item>
+    <item><headword id="d0e469" type="heading" level="h1">10. A’ bualadh ’s a’ criathradh</headword></item>
+    <item>
+      <headword id="idp112141184">suist</headword>
+      <description><illustration src="BearsdenNMacDonaldaiteachillust5.jpg" width="400"/></description>
+      <note>[NOTES: corrected to ‘sùist’.]</note>
+    </item>
+    <item>
+      <headword id="idp112142840">bualadh</headword>
+      <description>describes the work done with the ‘suist’ [q.v.], which was used to grind the corn, etc.</description>
+    </item>
+    <item>
+      <headword id="idp112144352">froiseadh</headword>
+      <description>oats stripped of their ears with the instrument below. <illustration src="BearsdenNMacDonaldaiteachillust6.jpg" width="400"/></description>
+    </item>
+    <item>
+      <headword id="idp112145864">clach bhràtha</headword>
+      <description>quernstone.</description>
+    </item>
+    <item>
+      <headword id="idp112147376">cliathan</headword>
+      <description>made of wood with iron prongs. Used for harrowing.</description>
+    </item>
+    <item>
+      <headword id="idp112148888">cliathadh</headword>
+      <description>harrowing.</description>
+    </item>
+    <item><headword id="d0e531" type="heading" level="h1">11. A’ bleith an t-sìl</headword></item>
+    <item><headword id="d0e535" type="heading" level="h1">12. Ainmean a chleachdar ri earrainn fearainn</headword></item>
+    <item>
+      <headword id="idp112152128">iomaire</headword>
+      <description>plot of potatoes, corn, etc.</description>
+    </item>
+    <item>
+      <headword id="idp112153640">feannagan</headword>
+      <description>lazy beds.</description>
+    </item>
+    <item>
+      <headword id="idp112155152">sreathan</headword>
+      <description>drills of potato.</description>
+    </item>
+    <item>
+      <headword id="idp112156664">cul ceinn</headword>
+      <description>common grazing. [NOTES: corrected to ‘cùl-ceinn’.]</description>
+    </item>
+    <item><headword id="d0e575" type="heading" level="h1">13. Faclan sam bith eile</headword></item>
+  </items>
+</fieldworkDocument>

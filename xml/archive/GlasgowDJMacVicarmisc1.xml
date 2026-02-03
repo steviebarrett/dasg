@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 3 6 14 -->
+<fieldworkDocument docId="AOHenley_GlasgowDJMacVicarmisc1" docType="wordlist" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>[1987-88]</date>
+  <fieldworker personId="ohenleya">A. O’Henley</fieldworker>
+  <note>[NOTES: some notes added (most probably by K. D. MacDonald?). See below for details.]</note>
+  <informant>
+    <nameEnglish>D. J. MacVicar</nameEnglish>
+    <origin>[Note: From North Uist, information from Alex O’Henley / RÓM 4 Dec 2023]</origin>
+  </informant>
+  <location>Glasgow</location>
+  <items>
+    <item>
+      <headword id="idp3227104">spruill</headword>
+      <description>surly expression. “Bha spruill air.”</description>
+    </item>
+    <item>
+      <headword id="idp3223720">torghan (-aich)</headword>
+      <description>moaning.</description>
+    </item>
+    <item>
+      <headword id="idp3220264">golad</headword>
+      <description>the mossy texture on the outside of a peat bog.</description>
+    </item>
+    <item>
+      <headword id="idp3243880">foraghais</headword>
+      <description>a subtle enquiry, not a direct question.</description>
+    </item>
+    <item>
+      <headword id="idp3245392">forfhais</headword>
+      <description>[See foraghais.]</description>
+    </item>
+    <item>
+      <headword id="idp3246904">magaran</headword>
+      <description>on all fours. [NOTES: corrected to ‘màgaran’.]</description>
+    </item>
+    <item>
+      <headword id="idp3248560">caiteag</headword>
+      <description>a morsel.</description>
+    </item>
+    <item>
+      <headword id="idp3250072">spigealan</headword>
+      <description>a grain. “Cha robh spigealan siùcair a staigh.”</description>
+    </item>
+    <item>
+      <headword id="idp3251728">saorsnail</headword>
+      <description>relaxed.</description>
+    </item>
+    <item>
+      <headword id="idp3254104">bigearachd</headword>
+      <description>teasing.</description>
+    </item>
+    <item>
+      <headword id="idp3255616">cliostar</headword>
+      <description>an enema. An injection of fluid into the intestines.</description>
+    </item>
+    <item>
+      <headword id="idp3257128">pìob chliastar</headword>
+      <description>the tube used for this operation [i.e. cliostair ‘enema’].</description>
+    </item>
+    <item>
+      <headword id="idp3258712">stail</headword>
+      <description>bandage.</description>
+    </item>
+    <item>
+      <headword id="idp3260224">duillain</headword>
+      <description>an alternative to the ‘bangaid’ to celebrate the birth of a child. [NOTES: note added above ‘duillain’ – duillean.]</description>
+    </item>
+    <item>
+      <headword id="idp112539528">duille</headword>
+      <description>condom.</description>
+    </item>
+    <item>
+      <headword id="idp112485096">trusaitaich</headword>
+      <description>a field which has been ploughed three times. Could it also mean the field on which you have your third crop.</description>
+    </item>
+    <item>
+      <headword id="idp112522392">cobhlach?</headword>
+      <description>a field which has been ploughed twice.</description>
+    </item>
+    <item>
+      <headword id="idp112532904">talamh-toll</headword>
+      <description>land full of holes.</description>
+    </item>
+    <item>
+      <headword id="idp112523184">talamh-glas</headword>
+      <description>land which has not been ploughed for some years.</description>
+    </item>
+    <item>
+      <headword id="idp112423104">seisg</headword>
+      <description>a cow that is not in calf. Can also be applied to sheep. [NOTES: corrected to ‘seasg’.]</description>
+    </item>
+    <item>
+      <headword id="idp112543128">seisgaich</headword>
+      <description>a flock of the above [i.e. seisg/seasg] usually sold. [NOTES: corrected to ‘seasgaich’.]</description>
+    </item>
+    <item>
+      <headword id="idp112519368">dornallach</headword>
+      <description>a two year old beast/sheep. [NOTES: corrected to ‘dòrnallach’.]</description>
+    </item>
+    <item>
+      <headword id="idp112521168">còig reach?</headword>
+      <description>a beast that is five seasons old. Pronounced without long à in S. Uist. [NOTES: note added above ‘reach’ – ‘ràitheach’. Mr O’Henley’s note about the pronunciation seems to be a later addition, possibly in response to the suggested spelling of ‘ràitheach’.]</description> 
+    </item>
+    <item>
+      <headword id="idp112525344">sgeilaid</headword>
+      <description>a small pan.</description>
+    </item>
+    <item>
+      <headword id="idp112538736">cuaran</headword>
+      <description>finger bandage. Could also be applied as the term for a small slipper or light shoe.</description>
+    </item>
+    <item>
+      <headword id="idp112441248">mogaisean</headword>
+      <description>moccasins.</description>
+    </item>
+    <item>
+      <headword id="idp112447584">cuinnseachan</headword>
+      <description>antics. “Dè na cuinnseachan a tha air an duine sin.” [NOTE: corrected to ‘cuinseachan’.]</description>
+    </item>
+    <item>
+      <headword id="idp112453848">ag uireadh</headword>
+      <description>laying down topsoil. [NOTES: corrected to ‘ag ùireadh’.]</description>
+    </item>
+    <item>
+      <headword id="idp112455936">sussadh</headword>
+      <description>breaking turf with a spade. Used in peat cutting and in making lazy beds. Means the breaking of the soil in a straight line in preparation for turfing.</description>
+    </item>
+    <item>
+      <headword id="idp112425624">trinnsigeadh</headword>
+      <description>digging trenches. Turning soil with a spade.</description>
+    </item>
+    <item>
+      <headword id="idp112428000">ceannachadh</headword>
+      <description>ploughing the ends of a field.</description>
+    </item>
+    <item>
+      <headword id="idp112433688">mastaig</headword>
+      <description>an objectionable woman.</description>
+    </item>
+    <item>
+      <headword id="idp112435200">odhrag</headword>
+      <description>the young of a cormorant.</description>
+    </item>
+    <item>
+      <headword id="idp112444560">canna</headword>
+      <description>a young whale. [NOTES: corrected to ‘cana’ and a note added – also means ‘porpoise’ in places.]</description>
+    </item>
+    <item>
+      <headword id="idp112440600">pèileag</headword>
+      <description>porpoise.</description>
+    </item>
+    <item>
+      <headword id="idp112546800">duine raibhearteach</headword>
+      <description>a placid man.</description>
+    </item>
+    <item>
+      <headword id="idp112443264">duine socharach</headword>
+      <description>gentle, easy going.</description>
+    </item>
+    <item>
+      <headword id="idp112046920">duine stuama</headword>
+      <description>temperate steady.</description>
+    </item>
+    <item>
+      <headword id="idp112048432">duine stòlda/stòlta</headword>
+      <description>steady, composed.</description>
+    </item>
+    <item>
+      <headword id="idp112050808">duine caranta</headword>
+      <description>charitable.</description>
+    </item>
+    <item>
+      <headword id="idp112052320">duine aoigheil</headword>
+      <description>cheerful.</description>
+    </item>
+    <item>
+      <headword id="idp112053832">duine ciatach</headword>
+      <description>becoming.</description>
+    </item>
+    <item>
+      <headword id="idp112055344">duine socanach</headword>
+      <description>bubbly personality. [NOTES: corrected to ‘soganach’.]</description>
+    </item>
+    <item>
+      <headword id="idp112057000">duine fialaidh</headword>
+      <description>generous.</description>
+    </item>
+    <item>
+      <headword id="idp112058512">duine foghainneach</headword>
+      <description>can also mean crafty as well as strong.</description>
+    </item>
+    <item>
+      <headword id="idp112060024">duine eudmhor</headword>
+      <description>jealous.</description>
+    </item>
+    <item>
+      <headword id="idp112061536">duine cas</headword>
+      <description>abrupt.</description>
+    </item>
+    <item>
+      <headword id="idp112063048">duine geur</headword>
+      <description>incisive.</description>
+    </item>
+    <item>
+      <headword id="idp112064560">duine tomatach</headword>
+      <description>benevolent.</description>
+    </item>
+    <item>
+      <headword id="idp112066072">duine somalta</headword>
+      <description>equible [sic] [equitable?].</description>
+    </item>
+    <item>
+      <headword id="idp112067584">diunlaoch</headword>
+      <description>stalwart.</description>
+    </item>
+    <item>
+      <headword id="idp112069096">sgeigaire</headword>
+      <description>mocker, scorner.</description>
+    </item>
+    <item>
+      <headword id="idp112071472">caoilte</headword>
+      <description>lanky fellow.</description>
+    </item>
+    <item>
+      <headword id="idp112072984">briumal</headword>
+      <description>clumsy.</description>
+    </item>
+    <item>
+      <headword id="idp112074496">càraid</headword>
+      <description>a couple.</description>
+    </item>
+    <item>
+      <headword id="idp112076008">buamastair</headword>
+      <description>bully.</description>
+    </item>
+    <item>
+      <headword id="idp112077520">cladhaire</headword>
+      <description>uncoordinated.</description>
+    </item>
+    <item>
+      <headword id="idp112079032">burraidh</headword>
+      <description>bully.</description>
+    </item>
+    <item>
+      <headword id="idp112080544">eimilisg</headword>
+      <description>harum scarum.</description>
+    </item>
+    <item>
+      <headword id="idp112082056">eubhaiseach</headword>
+      <description>large, untidy.</description>
+    </item>
+    <item>
+      <headword id="idp112083568">drabhas</headword>
+      <description>dirty fellow.</description>
+    </item>
+    <item>
+      <headword id="idp112085080">crabhalach</headword>
+      <description>bony, emaciated fellow. [NOTES: note added above ‘crabhalach’ – cnàmhalach.]</description>
+    </item>
+    <item>
+      <headword id="idp112086736">slaodanach</headword>
+      <description>sluggish.</description>
+    </item>
+    <item>
+      <headword id="idp112088248">sìlaiche</headword>
+      <description>thin, puny person.</description>
+    </item>
+    <item>
+      <headword id="idp112089760">bleidaire</headword>
+      <description>beggar. [NOTES: corrected to ‘bleidire’.]</description>
+    </item>
+    <item>
+      <headword id="idp112092280">pealastair</headword>
+      <description>ragged youth.</description>
+    </item>
+    <item>
+      <headword id="idp112093792">robairneach</headword>
+      <description>unkempt.</description>
+    </item>
+    <item>
+      <headword id="idp112095304">iadach? / eudach</headword>
+      <description>jealousy.</description>
+    </item>
+    <item>
+      <headword id="idp112096816">sliog</headword>
+      <description>sneak, sly person. [NOTES: corrected to ‘slìg’.]</description>
+    </item>
+    <item>
+      <headword id="idp112098472">giobairneach</headword>
+      <description>ragged person.</description>
+    </item>
+    <item>
+      <headword id="idp112099984">sglobaire</headword>
+      <description>a person who is always foaming at the mouth.</description>
+    </item>
+    <item>
+      <headword id="idp112101496">drunngair</headword>
+      <description>a drunk. [NOTES: corrected to ‘drungair’.]</description>
+    </item>
+    <item>
+      <headword id="idp112103152">ronngadair</headword>
+      <description>tardy, slow person. [NOTES: corrected to ‘rongadair’.]</description>
+    </item>
+    <item>
+      <headword id="idp112104808">slaoidaire</headword>
+      <description>crook.</description>
+    </item>
+    <item>
+      <headword id="idp112106320">ceacharan</headword>
+      <description>a venomous person.</description>
+    </item>
+    <item>
+      <headword id="idp112107832">ròlaisteach</headword>
+      <description>spinner of yarns, tall tales etc.</description>
+    </item>
+    <item>
+      <headword id="idp112109344">truthaire</headword>
+      <description>an obscene, immoral person.</description>
+    </item>
+    <item>
+      <headword id="idp2920352">pumalair</headword>
+      <description>a fat, rambling kind of person.</description>
+    </item>
+    <item>
+      <headword id="idp2921864">miotalach</headword>
+      <description>a flatterer.</description>
+    </item>
+    <item>
+      <headword id="idp2923376">sotalach?</headword>
+      <description>a gossipy person.</description>
+    </item>
+    <item>
+      <headword id="idp2924888">fodhal</headword>
+      <description>a gossip.</description>
+    </item>
+    <item>
+      <headword id="idp2926400">fodhalag</headword>
+      <description>a gossipy woman.</description>
+    </item>
+    <item>
+      <headword id="idp2927912">sgleog</headword>
+      <description>feckless character.</description>
+    </item>
+    <item>
+      <headword id="idp2929424">beannag</headword>
+      <description>headsquare.</description>
+    </item>
+    <item>
+      <headword id="idp2930936">goralais</headword>
+      <description>inane, silly conversation.</description>
+    </item>
+    <item>
+      <headword id="idp2932448">otrag</headword>
+      <description>a short, dumpy woman.</description>
+    </item>
+    <item>
+      <headword id="idp2933960">loireag</headword>
+      <description>untidy woman.</description>
+    </item>
+    <item>
+      <headword id="idp2935472">gobag</headword>
+      <description>nippy person.</description>
+    </item>
+    <item>
+      <headword id="idp2936984">brannag</headword>
+      <description>a fat woman.</description>
+    </item>
+    <item>
+      <headword id="idp2938496">sgliat</headword>
+      <description>colourless, feckless character.</description>
+    </item>
+    <item>
+      <headword id="idp2940872">duine gun bhiuc</headword>
+      <description>a person who cannot sing, without a note. [NOTES: ‘bhiuc’ corrected to ‘bhiùg’.]</description>
+    </item>
+    <item>
+      <headword id="idp2942528">gibeag</headword>
+      <description>a ragged woman.</description>
+    </item>
+    <item>
+      <headword id="idp2944040">neafag</headword>
+      <description>venomous person.</description>
+    </item>
+    <item>
+      <headword id="idp2945552">speireag</headword>
+      <description>a lively woman, girl.</description>
+    </item>
+    <item>
+      <headword id="idp2947064">gobhaluisgeach</headword>
+      <description>a waddling, bandy legged woman.</description>
+    </item>
+    <item>
+      <headword id="idp2948576">prùisgaill</headword>
+      <description>giggling. [NOTES: corrected to ‘prùisgil’.]</description>
+    </item>
+  </items>
+</fieldworkDocument>
+

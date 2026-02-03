@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 29/9/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_EriskayAMacDonaldslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>1978, 1980</date>
+  <fieldworker>?</fieldworker>
+  <informant>
+    <nameEnglish>Allan MacDonald</nameEnglish>
+  </informant>
+  <location>Eriskay</location>
+  <items>
+    <item>
+      <headword id="idp115442160">meanbh</headword>
+      <description>Notes: used in Eriskay in sense of ‘feeble, weak’ = lag.</description>
+    </item>
+    <item>
+      <headword id="idp115469448">Diardaoin bangaid</headword>
+      <description>Notes: Thursday before Easter.</description>
+    </item>
+  </items>
+</fieldworkDocument>

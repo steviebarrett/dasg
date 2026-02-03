@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 24 4 13 -->
+<fieldworkDocument docId="Peat_LeurbostJuniorSecondarymoine" docType="questionnaire" subType="Peat">
+  <title>Mòine / Peat-Working</title>
+  <fieldworker>[school]</fieldworker>
+  <informant>
+    <nameEnglish>Leurbost</nameEnglish>
+    <nameGaelic>Lurebost</nameGaelic>
+  </informant>
+  <location>Lewis, Lochs, Leurbost</location>
+  <!-- ILLUSTRATIONS -->
+  <items>
+    <item><headword id="d0e28" type="heading" level="h1">1. Ag ullachadh na talmhainn airson mòine a bhuain</headword></item>
+    <item>
+      <headword id="d0e33">a’ rodaigeadh</headword>
+      <description>a’ gearradh le spaid air fad a’ phuill aig leud a’ chip agus ’nuairsin a’ gearradh tarsuinn. 
+        <illustration src="LeurbostJuniorSecondarymoineillust1.jpg" width="200"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e44">a’ rùsgadh</headword>
+      <description>turfing.</description>
+    </item>
+    <item>
+      <headword id="d0e53">leagail nan ceap</headword>
+      <description>a’ cur car de na cip a bhroinn a’ phuill.</description>
+    </item>
+    <item>
+      <headword id="d0e62">càradh nan ceap</headword>
+      <description>laying them inside the bank with heather side uppermost.</description>
+    </item>
+    <item>
+      <headword id="d0e71">ceaba làir</headword>
+      <description>turfing-spade (not used now locally).</description>
+    </item>
+    <item><headword id="d0e79" type="heading" level="h1">2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</headword></item>
+    <item>
+      <headword id="d0e84">tairisgeir</headword>
+      <description>peat-iron.</description>
+    </item>
+    <item>
+      <headword id="d0e93">iarunn mònach</headword>
+      <description>peat-iron.</description>
+    </item>
+    <item>
+      <headword id="d0e102">cas an iaruinn</headword>
+      <description>handle of peat-iron.</description>
+    </item>
+    <item>
+      <headword id="d0e111">smeachan</headword>
+      <description>the ‘step’ of the peat-iron.</description>
+    </item>
+    <item>
+      <headword id="d0e120">corrfhad</headword>
+      <description>the peat at the face of the bank.</description>
+    </item>
+    <item>
+      <headword id="d0e129">barrfhad</headword>
+      <description>the peats in the top layer.</description>
+    </item>
+    <item>
+      <headword id="d0e138">an dara fàd</headword>
+      <description>the peats in the second layer.</description>
+    </item>
+    <item>
+      <headword id="d0e147">an caoran</headword>
+      <description>half peat when one reaches the hard – an aigeal.</description>
+    </item>
+    <item>
+      <headword id="d0e156">carcair</headword>
+      <description>leud an rusgaidh; gu minic ochd fòid anns a’ charcair, ann am poll dà fhàd.</description>
+    </item>
+    <item>
+      <headword id="d0e165">plòicean</headword>
+      <description>big thick, and usually wet peats.</description>
+    </item>
+    <item>
+      <headword id="d0e174">sgaoilteach</headword>
+      <description>where the peats are thrown on top of the bank.</description>
+    </item>
+    <item>
+      <headword id="d0e183">tilgeil</headword>
+      <description>throwing the peats.</description>
+    </item>
+    <item>
+      <headword id="d0e192">cur a mach</headword>
+      <description>throwing the peats.</description>
+    </item>
+    <item>
+      <headword id="d0e201">càradh na mònach</headword>
+      <description>throwing peats so that they lie in orderly rows starting well out. Sarcastic remark often made by those following person throwing the ‘barrfhad’ [q.v.] if he isn’t throwing them far enough: “Coma leat do chàch; dèan thusa gàradh de’n bharrfhad.”</description>
+    </item>
+    <item>
+      <headword id="d0e210">gàradh</headword>
+      <description>peats laid half on top of each other at inner edge of bank. 
+        <illustration src="LeurbostJuniorSecondarymoineillust2.jpg" width="300"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e221">broinn a’ phuill</headword>
+      <description>inside the bank.</description>
+    </item>
+    <item>
+      <headword id="d0e230">ath-foin (phonetically spelt ath-mhoine)</headword>
+      <description>big wet peats set aside to dry.</description>
+    </item>
+    <item>
+      <headword id="d0e239">calcus</headword>
+      <description>roots found in peats – sometimes they stick to blade and make it difficult to cut peats, hence: glan an calcus far an iarunn. (Dry ‘calcus’ sometimes smoked when tobacco was scarce!)</description>
+    </item>
+    <item>
+      <headword id="d0e248">a’ spoth nam fàdan</headword>
+      <description>cutting lower edge of peats at an angle – mòine bhàn chiefly – to make it easier for thrower to lift peats away from ‘carcair’ [q.v.]. 
+        <illustration src="LeurbostJuniorSecondarymoineillust3.jpg" width="200"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e259">pèitean</headword>
+      <description>big peats.</description>
+    </item>
+    <item>
+      <headword id="d0e268">staingean ruighinn</headword>
+      <description>tough patches [of peat] to cut.</description>
+    </item>
+    <item><headword id="d0e276" type="heading" level="h1">3. A’ tiormachadh na mònach</headword></item>
+    <item>
+      <headword id="d0e281">rùdhadh</headword>
+      <description>lifting the peats.</description>
+    </item>
+    <item>
+      <headword id="d0e290">rùdhan</headword>
+      <description>ceithir fòid an taca ri chéile agus boineid orra.</description>
+    </item>
+    <item>
+      <headword id="d0e299">ag ath-ruthadh</headword>
+      <description>re-lifting – making bigger ‘rùdhain’ and putting the wet peats on the outside.</description>
+    </item>
+    <item>
+      <headword id="d0e308">uinneagan</headword>
+      <description>gaps left in the ‘rùdhain’ so that the wind can blow through them.</description>
+    </item>
+    <item><headword id="d0e316" type="heading" level="h1">4. A’ cruachadh na mònach</headword></item>
+    <item>
+      <headword id="d0e321">a’ cruachadh</headword>
+      <description>stacking.</description>
+    </item>
+    <item>
+      <headword id="d0e330">a’ stéidheadh</headword>
+      <description>peats laid on top of each other to prevent stacks from falling.</description>
+    </item>
+    <item>
+      <headword id="d0e339">a’ tughadh</headword>
+      <description>covering with turf so that small stacks can be left on the bank during winter-time.</description>
+    </item>
+    <item><headword id="d0e347" type="heading" level="h1">5. A’ toirt na mònach dhachaigh; an cliabh, etc.</headword></item>
+    <item>
+      <headword id="d0e352">a’ tarruing na mònach</headword>
+      <description>taking the peats home.</description>
+    </item>
+    <item>
+      <headword id="d0e361">cliabh</headword>
+      <description>creel</description>
+    </item>
+    <item>
+      <headword id="d0e370">poca</headword>
+      <description>sack.</description>
+    </item>
+    <item>
+      <headword id="d0e379">cairt</headword>
+      <description>cart.</description>
+    </item>
+    <item><headword id="d0e387" type="heading" level="h1">6. Seòrsachan mònach</headword></item>
+    <item>
+      <headword id="d0e392">mòine bhàn</headword>
+      <description>light brown peats.</description>
+    </item>
+    <item>
+      <headword id="d0e401">mòine riabhach</headword>
+      <description>peats that are a little darker [than mòine bhàn q.v.].</description>
+    </item>
+    <item>
+      <headword id="d0e410">mòine dhubh</headword>
+      <description>black peats.</description>
+    </item>
+    <item>
+      <headword id="d0e419">caoran dubh</headword>
+      <description>small black peats.</description>
+    </item>
+    <item>
+      <headword id="d0e428">smùr</headword>
+      <description>dross.</description>
+    </item>
+    <item>
+      <headword id="d0e437">mòine chràiceach</headword>
+      <description>peats containing bits of old trees.</description>
+    </item>
+    <item><headword id="d0e445" type="heading" level="h1">7. Faclan eile</headword></item>
+  </items>
+</fieldworkDocument>

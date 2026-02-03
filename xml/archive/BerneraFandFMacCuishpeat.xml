@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 24 4 13 -->
+<fieldworkDocument docId="Peat_BerneraFandFMacCuishpeat" docType="wordlist" subType="Peat">
+  <title>Mòine / Peat-Working</title>
+  <date>April 1962</date>
+  <fieldworker>Marion MacLean</fieldworker>
+  <note>[NOTES: the original title of the list is “Terminology Associated with Peat Cutting”.]</note>
+  <informant>
+    <nameEnglish>Flora MacCuish</nameEnglish>
+    <age>63</age>
+  </informant>
+  <informant>
+    <nameEnglish>Finlay MacCuish</nameEnglish> 
+    <age>70 [?]</age>
+  </informant>
+  <location>Harris, Bernera</location>
+  <!-- illustrations -->
+  <items>
+    <item>
+      <headword id="d0e44">traisgear</headword>
+      <description>used for cutting the peats.</description>
+    </item>
+    <item>
+      <headword id="d0e53">iron-mona</headword>
+      <description>used for cutting the peats.</description>
+    </item>
+    <item>
+      <headword id="d0e62">cliabh</headword>
+      <description>creel used for carrying the peats. These creels were of various sizes and made of wattle, hazel or willow.</description>
+    </item>
+    <item>
+      <headword id="d0e71">pol-mona</headword>
+      <description>peat bank.</description>
+    </item>
+    <item>
+      <headword id="d0e80">sùsagh (a phùil)</headword>
+      <description>marking out, with a spade, on the turf the area of peat to be cut. [NOTES: two second hands at work. In black ink: the grave accent in ‘sùsagh’ circled and ‘susadh’ added underneath; in red: ‘phuill’ written above ‘phùil’.]</description> 
+    </item>
+    <item>
+      <headword id="d0e89">teannagh</headword>
+      <description>removing the turf.</description>
+    </item>
+    <item>
+      <headword id="d0e98">teanndach</headword>
+      <description>turf that had been removed. This turf was laid on the inside of the peat bank, with the grassy side up. 
+        <illustration src="BerneraFandFMacCuishpeatillust2.jpg" width="600"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e109">am barfhàd</headword>
+      <description>top peat, just one to be cut, was spread out on top of the peat bank – sgaolteach. 
+        <illustration src="BerneraFandFMacCuishpeatillust1.jpg" width="400"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e120">[sgaolteach]</headword>
+      <description>
+        <illustration src="BerneraFandFMacCuishpeatillust2.jpg" width="600"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e131">an dara fàd</headword>
+      <description>second one to be cut, was made into a ‘garradh’ [q.v.]. 
+        <illustration src="BerneraFandFMacCuishpeatillust1.jpg" width="400"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e142">an caoran</headword>
+      <description>last peat taken out, were [sic] thrown onto the inside of the bank. 
+        <illustration src="BerneraFandFMacCuishpeatillust1.jpg" width="400"/>
+        <illustration src="BerneraFandFMacCuishpeatillust2.jpg" width="600"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e155">an colfhad</headword>
+      <description>second peat (from the front). 
+        <illustration src="BerneraFandFMacCuishpeatillust1.jpg" width="400"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e166">[garradh]</headword>
+      <description>
+        <illustration src="BerneraFandFMacCuishpeatillust2.jpg" width="600"/>
+        <illustration src="BerneraFandFMacCuishpeatillust3.jpg" width="400"/> 
+        The holes in between the peats in the ‘garradh’ were for letting the wind through so that the peats would dry quickly.
+      </description>
+    </item>
+    <item>
+      <headword id="d0e179">[caoirthe]</headword>
+      <description>when four or five of the peats in the ‘garradh’ [q.v.] stuck together, the whole group was called the ‘caoirthe’.</description>
+    </item>
+    <item>
+      <headword id="d0e188">togail (na mona)</headword>
+      <description>second stage after cutting. ‘Rudhain’ were made. They contained anything from four to eight peats standing together to allow the peats to dry more quickly.</description>
+    </item>
+    <item>
+      <headword id="d0e197">[rudhain]</headword>
+      <description>[See togail (na mona).]</description>
+    </item>
+    <item>
+      <headword id="d0e206">cruachadh</headword>
+      <description>a huge stack was made at the house.</description>
+    </item>
+    <item>
+      <headword id="d0e215">griomhadh</headword>
+      <description>covering the top of the stack with turf and having all the sides sloping so that the rain wouldn’t penetrate so much into the middle of the stack.</description>
+    </item>
+  </items>
+</fieldworkDocument>

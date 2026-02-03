@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 3 6 14 -->
+<fieldworkDocument docId="AOHenley_GrenitoteDMacInnesmisc" docType="wordlist" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>[1987-88]</date>
+  <fieldworker personId="ohenleya">A. O’Henley</fieldworker>
+  <informant>
+    <nameEnglish>D. MacInnes</nameEnglish>
+  </informant>
+  <location>North Uist, Grèinatobht [Grenitote]</location>
+  <items>
+    <item>
+      <headword id="idp109766768">sorr</headword>
+      <description>grudge. “Cha sorr mi e sin fhaighinn.” – I do not grudge…</description>
+    </item>
+    <item>
+      <headword id="idp109691744">cuir rolas</headword>
+      <description>spluttering. “Bha e a cuir rolais.”</description>
+    </item>
+    <item>
+      <headword id="idp109691672">caorann</headword>
+      <description>second layer of peats.</description>
+    </item>
+    <item>
+      <headword id="idp109730192">[dìthainn]</headword>
+      <description>Dìthainn a’ tighinn air a’ bhuntata – potato flowering. In South Uist – ‘flùr air a’ bhuntata’.</description>
+    </item>
+    <item>
+      <headword id="idp109759208">barr gùcach</headword>
+      <description>potato flowering [?].</description>
+    </item>
+    <item>
+      <headword id="idp109746896">rùm fuarachaidh</headword>
+      <description>built outside the house and used as a pantry.</description>
+    </item>
+    <item>
+      <headword id="idp109730624">pràisde</headword>
+      <description>sea bent rope tied round the thatched house at horizontal intervals. “Thig còmhla rium a chuir pràisd(e) air an taigh.”</description>
+    </item>
+    <item>
+      <headword id="idp109813568">bìle</headword>
+      <description>a thin, long wall constructed with stones and used for drying tangles. In South Uist we have a similar word with a ‘p’ replacing the letter ‘b’.</description>
+    </item>
+    <item>
+      <headword id="idp109712912">cnoiseag</headword>
+      <description>lumps of seal fat left after boiling.</description>
+    </item>
+    <item>
+      <headword id="idp109712336">bìleadh</headword>
+      <description>act of piling wet tangles onto aforementioned wall [i.e. bìle (q.v.)].</description>
+    </item>
+    <item>
+      <headword id="idp109715288">sreath</headword>
+      <description>a row of vegetables sprouting up in your garden. “Tha an t-sreath air a’ chàl.”</description>
+    </item>
+    <item>
+      <headword id="idp109744232">a’ bristeadh as</headword>
+      <description>when a crop first becomes noticeable. “Tha an t-arbhar a’ bristeadh as.”</description>
+    </item>
+    <item>
+      <headword id="idp109767416">slaod</headword>
+      <description>a tall, lazy person always with his hands in his pockets.</description>
+    </item>
+    <item>
+      <headword id="idp109757984">sìbhleachadh</headword>
+      <description>starving. “Tha mi a’ sìbhleachadh leis an acras.”</description>
+    </item>
+    <item>
+      <headword id="idp109733864">crònaigil</headword>
+      <description>having lost your sense. “Nach tu a tha air do chrònaigil a chall.” English translation might be ‘losing your marbles’.</description>
+    </item>
+  </items>
+</fieldworkDocument>
+

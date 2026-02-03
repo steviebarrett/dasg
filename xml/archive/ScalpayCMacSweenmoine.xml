@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 24 4 13 -->
+<fieldworkDocument xmlns:php="http://php.net/xsl" docId="Peat_ScalpayCMacSweenmoine" docType="questionnaire" subType="Peat">
+  <title>Mòine / Peat-Working</title>
+  <fieldworker>[self]</fieldworker>
+  <note>[NOTES: pronunciation spelling in many places.]</note>
+  <informant>
+    <nameEnglish>Calum MacSween</nameEnglish>
+    <nameGaelic>Calum MacSuain </nameGaelic>
+    <age>51</age>
+    <origin>Inbhirnis [Inverness – most probably meant as the county]</origin>
+  </informant>
+  <location>Na Hearadh, Scalpaidh [Harris, Scalpay]</location>
+  <items>
+    <item><headword id="d0e35" type="heading" level="h1">1. Ag ullachadh na talmhainn airson mòine a bhuain</headword></item>
+    <item>
+      <headword id="d0e40">[feannadh]</headword>
+      <description>Anns an Earrach bithidh sinn a feannadh na monadh. Cuid a bhios toirt barrach feantachd air cuid eile. Ann a bitheantas da throidh air son ochd foid. Aon uair bhiodh deichnear de sgipe a buain fat latha ach se siath a bhios ann an nis. Ma bhios an tide tioram bi sinn a togail na monadh ann an da sheachuin. Bidh sinn a ris ga rudhadh agus a ris a cruachadh. Mar is trice bidhidh sinn a tathadh nan cruach mur a bidh sinn ga toirt dhachaidh. Se an taisig is smiosa le torr opair chruidh nuair nach eil a tide math. Cutting off the top turf. Some cut the turf wider than others. Usually it is 24" wide giving 8 peat per cutting. Once there used to be ten 5 irons with two to each but now it’s usually 3 irons 6. If the weather is dry we lift the peats into small stacks in two weeks then bigger stacks and then again the bigger stacks for the winter. We thatch the stacks to keep them dry, that’s unless we are ferrying it home right away as some now do. The ferrying is hard work when the weather is not favourable.</description>
+    </item>
+    <item><headword id="d0e48" type="heading" level="h1">2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</headword></item>
+    <item>
+      <headword id="d0e53">iaran monadh</headword>
+      <description>peat iron.</description>
+    </item>
+    <item>
+      <headword id="d0e62">feannadh na monadh</headword>
+      <description>cutting the turf</description>
+    </item>
+    <item>
+      <headword id="d0e71">buain le sgipe</headword>
+      <description>cutting with assistance for the day.</description>
+    </item>
+    <item>
+      <headword id="d0e80">togail na monadh</headword>
+      <description>lifting in small stacks.</description>
+    </item>
+    <item>
+      <headword id="d0e89">rudhadh na monadh</headword>
+      <description>gathering in bigger stacks.</description>
+    </item>
+    <item>
+      <headword id="d0e98">cruachadh na monadh</headword>
+      <description>gathering for completion of stacks.</description>
+    </item>
+    <item>
+      <headword id="d0e107">tuthadh na monadh</headword>
+      <description>thatching with thick turf.</description>
+    </item>
+    <item>
+      <headword id="d0e116">lionadh na monadh</headword>
+      <description>filling the bags.</description>
+    </item>
+    <item>
+      <headword id="d0e125">cur sios na monadh</headword>
+      <description>carrying the bags on the back to a landing stage on the shore.</description>
+    </item>
+    <item>
+      <headword id="d0e134">a gaisig na monadh</headword>
+      <description>ferrying the peats from the landing stage to the harbour jetty.</description>
+    </item>
+    <item><headword id="d0e142" type="heading" level="h1">3. A’ tiormachadh na mònach</headword></item>
+    <item><headword id="d0e146" type="heading" level="h1">4. A’ cruachadh na mònach</headword></item>
+    <item><headword id="d0e150" type="heading" level="h1">5. A’ toirt na mònach dhachaigh; an cliabh, etc.</headword></item>
+    <item><headword id="d0e154" type="heading" level="h1">6. Seòrsachan mònach</headword></item>
+    <item><headword id="d0e158" type="heading" level="h1">7. Faclan eile</headword></item>
+  </items>
+</fieldworkDocument>

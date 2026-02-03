@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 29/9/15 -->
+<!-- illustrations -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_ElgolIMacArthurslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>03/1970</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <note>[NOTES: in IPA transcriptions, the fieldworker uses [w] for [ɯ].]</note>
+  <informant>
+    <nameEnglish>Iain MacArthur</nameEnglish>
+    <age>70s</age>
+  </informant>
+  <location>Skye, Elgol</location>
+  <items>
+    <item>
+      <headword id="idp115825072">làmhadh</headword>
+      <description>[ɫɑ̃:həɣ] Notes: axe.</description>
+    </item>
+    <item>
+      <headword id="idp115821904">leth-bhodach</headword>
+      <description>Notes: ½ bottle of whisky.</description>
+    </item>
+    <item>
+      <headword id="idp115818808">mac-samhail</headword>
+      <description>[mɑ̃xksɑ̃ũ̜ilʹ] Quotation: ’S e mac-samhail an fhear sin a th’ann. Notes: He is that man’s very likeness.</description>
+    </item>
+    <item>
+      <headword id="idp115839400">maide-tarsuinn</headword>
+      <description>Notes: cross beam between two rafters. <illustration src="ElgolIMacArthurslipsillust1.jpg" width="200"/></description>
+    </item>
+    <item>
+      <headword id="idp115841056">marbhphaisg</headword>
+      <description>Quotation: Marbhphaisg ort!</description>
+    </item>
+    <item>
+      <headword id="idp115842568">mèilich</headword>
+      <description>Notes: bleating.</description>
+    </item>
+    <item>
+      <headword id="idp115844080">miagail</headword>
+      <description>Notes: mewing.</description>
+    </item>
+    <item>
+      <headword id="idp115845592">mula-mhàgag</headword>
+      <description>Notes: frog.</description>
+    </item>
+    <item>
+      <headword id="idp115847104">ruith</headword>
+      <description>Quotation: Tha e a’ ruith air mo theangaidh. Notes: It’s on the tip of my tongue.</description>
+    </item>
+    <item>
+      <headword id="idp115848760">sitig</headword>
+      <description>Notes: patch outside where the ashes, dirty water, etc. were thrown.</description>
+    </item>
+    <item>
+      <headword id="idp115850272">prannasg</headword>
+      <description>Notes: small broken bits.</description>
+    </item>
+    <item>
+      <headword id="idp115851784">saipleis</headword>
+      <description>[sɛplɛʃ] Notes: soapy water left after washing.</description>
+    </item>
+    <item>
+      <headword id="idp115853512">sanais</headword>
+      <description>Notes: a whisper.</description>
+    </item>
+    <item>
+      <headword id="idp115855024">séise</headword>
+      <description>Notes: a wooden bench.</description>
+    </item>
+    <item>
+      <headword id="idp115856536">seidhir</headword>
+      <description>[sic] Quotation: séidhir gaoirdeanach [ʃe:əɾɡɤ:ʴdʹɑ̃ṉɑx]. Notes: arm chair. [NOTES: the turned r used for the symbol which is unclear in the original.] [NOTES: slipped under ‘seuthar’.]</description>
+    </item>
+    <item>
+      <headword id="idp115858696">sgonnan</headword>
+      <description>Notes: foot-rest on a cas-chrom.</description>
+    </item>
+    <item>
+      <headword id="idp115860208">sgùrraich</headword>
+      <description>Quotation: a’ speur a’ sgùrrachadh. Notes: clouding over, threatening.</description>
+    </item>
+    <item>
+      <headword id="idp115861864">sliomaire</headword>
+      <description>[ʃlʹĩməɾə] Notes: a fawning, smarmy person.</description>
+    </item>
+    <item>
+      <headword id="idp115863592">staipleis</headword>
+      <description>[st̪ɛplɛʃ] Quotation: staipleis de lit. Notes: porridge not properly made.</description>
+    </item>
+    <item>
+      <headword id="idp115865464">starabraich</headword>
+      <description>[st̪ɑɾɑbɾiç] Notes: making a general din.</description>
+    </item>
+    <item>
+      <headword id="idp115867192">starrag</headword>
+      <description>Quotation: a’ cur starragan roimh dhuine gus nach fhaigheadh e air adhart leis a’ rud a bha e a’ deanamh.</description>
+    </item>
+    <item>
+      <headword id="idp166263112">sumachadh</headword>
+      <description>[sũ̜mɔxəɣ] Quotation: sumachadh deich mairt is trì chaoraich. Notes: souming.</description>
+    </item>
+    <item>
+      <headword id="idp166264984">sasag</headword>
+      <description>Notes: a chair made from a barrel.</description>
+    </item>
+    <item>
+      <headword id="idp166266496">taobhaisdean</headword>
+      <description>[ˈt̪ɤıʃdʹəṉ] Notes: spaces near the lip of the creel where the rope is tied.</description>
+    </item>
+    <item>
+      <headword id="idp166268296">taobhan</headword>
+      <description>Notes: three or four “taobhain” put horizontally on a roof on top of the couples.</description>
+    </item>
+    <item>
+      <headword id="idp166269808">teanga</headword>
+      <description>Quotation: Tha e a’ ruith air mo theangaidh. Notes: It’s on the tip of my tongue.</description>
+    </item>
+    <item>
+      <headword id="idp166271464">toinnte</headword>
+      <description>Quotation: duine toinnte. Notes: sensible.</description>
+    </item>
+    <item>
+      <headword id="idp166273120">tomadh</headword>
+      <description>Quotation: a tomadh nan caorach. Notes: dipping sheep.</description>
+    </item>
+    <item>
+      <headword id="idp166274776">triuthaire</headword>
+      <description>[t̪ɾu̟həɾə] Notes: a rascal.</description>
+    </item>
+    <item>
+      <headword id="idp166276504">usbag</headword>
+      <description>Quotation: na h-usbagan deireannach. Notes: the last gasps of a person dying.</description>
+    </item>
+    <item>
+      <headword id="idp166278160">aparan</headword>
+      <description>Notes: leaf of wood covering inside of stem-post.</description>
+    </item>
+    <item>
+      <headword id="idp166279672">asbhuain</headword>
+      <description>[ɑsvĩnʹ] Notes: stubble land.</description>
+    </item>
+    <item>
+      <headword id="idp166281400">bac</headword>
+      <description>Quotation: na bacan. Notes: wooden blocks used as thole pins. <illustration src="ElgolIMacArthurslipsillust2.jpg" width="300"/></description>
+    </item>
+    <item>
+      <headword id="idp166283128">bainne-deasgainn</headword>
+      <description>Notes: curds (milk with rennet added).</description>
+    </item>
+    <item>
+      <headword id="idp166284640">balbhanaich</headword>
+      <description>Quotation: Tha rudeigin air cùl a’ bhalbhanaich a tha an seo. Notes: a calm, deadness in the weather.</description>
+    </item>
+    <item>
+      <headword id="idp166286296">ballan</headword>
+      <description>Notes: a tub.</description>
+    </item>
+    <item>
+      <headword id="idp166287808">ball-dóbhran</headword>
+      <description>Notes: a mole on the skin.</description>
+    </item>
+    <item>
+      <headword id="idp166289320">bana-bhuidseach</headword>
+      <description>Notes: a witch.</description>
+    </item>
+    <item>
+      <headword id="idp166290832">bean-chomhailteach</headword>
+      <description>Notes: bridesmaid.</description>
+    </item>
+    <item>
+      <headword id="idp166292344">biadhtach</headword>
+      <description>[biɤt̪ɑx] Notes: raven.</description>
+    </item>
+    <item>
+      <headword id="idp166294072">braoisg</headword>
+      <description>[bɾw:ʃɡʹ] Quotation: Nach ann oirre a tha a’ bhraoisg. Notes: a big mouth.</description>
+    </item>
+    <item>
+      <headword id="idp166295944">braonan</headword>
+      <description>Quotation: Tha braonan beag uisge ann. Notes: light rainfall.</description>
+    </item>
+    <item>
+      <headword id="idp166297600">breacadh-sianan</headword>
+      <description>Notes: freckles.</description>
+    </item>
+    <item>
+      <headword id="idp166299112">buamastair</headword>
+      <description>[bu̜ɤməst̪ɑɾ] Notes: uncouth man.</description>
+    </item>
+    <item>
+      <headword id="idp166300840">cabar</headword>
+      <description>Notes: wooden slats laid on top of the “taobhain” and running from wall to ridge.</description>
+    </item>
+    <item>
+      <headword id="idp166302352">caochan</headword>
+      <description>Quotation: caochan uisge. Notes: a trickle of water.</description>
+    </item>
+    <item>
+      <headword id="idp166304008">ceann-àrcan</headword>
+      <description>Notes: a blockhead.</description>
+    </item>
+    <item>
+      <headword id="idp166305520">clisneach</headword>
+      <description>Notes: a rough wooden gate.</description>
+    </item>
+    <item>
+      <headword id="idp166307032">cniadalan</headword>
+      <description>[kɾĩɑ̃d̪əɫɑṉ] Notes: moaning, complaining.</description>
+    </item>
+    <item>
+      <headword id="idp166308760">coingheall</headword>
+      <description>[kɔ̃ṉɑjɑɫ] Notes: a loan.</description>
+    </item>
+    <item>
+      <headword id="idp166310488">corraiche-cagailte</headword>
+      <description>Notes: glow from embers among the ashes.</description>
+    </item>
+    <item>
+      <headword id="idp166312000">cuing</headword>
+      <description>Notes: asthma.</description>
+    </item>
+    <item>
+      <headword id="idp166313512">deann</headword>
+      <description>Quotation: Tha e a’ tighinn na dheannan. Notes: sheets of rain sweeping before the wind.</description>
+    </item>
+    <item>
+      <headword id="idp166315168">déile</headword>
+      <description>Notes: plank on which a corpse was stretched.</description>
+    </item>
+    <item>
+      <headword id="idp166316680">droman-eallaich</headword>
+      <description>[d̪ɾɤumɑnjɑɫiç] Notes: a spider.</description>
+    </item>
+    <item>
+      <headword id="idp166318408">eabar</headword>
+      <description>[ebəɾ] Quotation: Tha e na eabar. Notes: churned up mud.</description>
+    </item>
+    <item>
+      <headword id="idp166320280">feannag-thaomaidh</headword>
+      <description>Notes: a lazy-bed. About 6' wide. Covered with seaweed. Turf divots turned inwards from the two sides till everything was covered with earth. Holes were made with a dibble and potatoes dropped in. In the autumn the divots were turned back to uncover the potatoes.</description>
+    </item>
+    <item>
+      <headword id="idp166321792">fosgladh</headword>
+      <description>Quotation: Tha fosglaidhean ann a nochd. Notes: far-off lightning.</description>
+    </item>
+    <item>
+      <headword id="idp166323448">furm</headword>
+      <description>Notes: a form.</description>
+    </item>
+    <item>
+      <headword id="idp166324960">gaoisdean</headword>
+      <description>Notes: a hair.</description>
+    </item>
+    <item>
+      <headword id="idp166326472">gead</headword>
+      <description>Notes: a small plot of arable land.</description>
+    </item>
+    <item>
+      <headword id="idp166327984">glamaradh</headword>
+      <description>Notes: vice.</description>
+    </item>
+    <item>
+      <headword id="idp166329496">globastair</headword>
+      <description>[ɡɫɔbəst̪ɑɾ] Notes: half-wit.</description>
+    </item>
+    <item>
+      <headword id="idp166331224">grampa</headword>
+      <description>[ɡɾɑ̃ũ̜mʰə] Notes: grape.</description>
+    </item>
+    <item>
+      <headword id="idp166332952">guitear</headword>
+      <description>Notes: byre drain. <illustration src="ElgolIMacArthurslipsillust3.jpg" width="250"/></description>
+    </item>
+  </items>
+</fieldworkDocument>

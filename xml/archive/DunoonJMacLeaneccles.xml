@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 20 4 13 -->
+<fieldworkDocument docId="Ecclesiastical_DunoonJMacLeaneccles" docType="questionnaire" subType="EcclesiasticalTerms">
+  <title>An Eaglais / Ecclesiastical Terms</title>
+  <fieldworker>[self]</fieldworker>
+  <informant>
+    <nameEnglish>John MacLean</nameEnglish>
+    <nameGaelic>Iain Mac ’Illeathain</nameGaelic>
+    <age>48</age>
+    <origin>Barra</origin>
+  </informant>
+  <location>Dunoon</location>
+  <items>
+    <item><headword id="d0e32" type="heading" level="h1">1. Various denominations</headword></item>
+    <item>
+      <headword id="d0e37">Prostanaich</headword>
+    </item>
+    <item>
+      <headword id="d0e43">Catlaigich no Papanaich</headword>
+    </item>
+    <item><headword id="d0e48" type="heading" level="h1">2. Member of each of these denominations</headword></item>
+    <item>
+	  <headword id="idola98">[note]</headword>
+	  <description>(as above)</description>
+	</item>
+    <item><headword id="d0e61" type="heading" level="h1">3. Different courts of the Presbyterian churches</headword></item>
+    <item><headword id="d0e65" type="heading" level="h1">4. Members of the clergy and office-bearers with the Presbyterian churches</headword></item>
+    <item>
+      <headword id="d0e70">ministeir</headword>
+    </item>
+    <item>
+      <headword id="d0e76">oillteir</headword>
+    </item>
+    <item><headword id="d0e81" type="heading" level="h1">5. Members of the clergy and office-bearers in the Roman Catholic church</headword></item>
+    <item>
+      <headword id="d0e86">ard easbuig</headword>
+    </item>
+    <item>
+      <headword id="d0e92">easbuig</headword>
+    </item>
+    <item>
+      <headword id="d0e98">sagart</headword>
+    </item>
+    <item>
+      <headword id="d0e104">cleireach</headword>
+    </item>
+    <item>
+      <headword id="d0e110">gunna mor</headword>
+      <description>in last number of years used for canon.</description>
+    </item>
+    <item><headword id="d0e118" type="heading" level="h1">6. Holy Orders within the Roman Catholic church</headword></item>
+    <item>
+      <headword id="d0e123">manach</headword>
+      <description>monk or missionary.</description>
+    </item>
+    <item><headword id="d0e131" type="heading" level="h1">7. Articles of dress or adornment</headword></item>
+    <item>
+      <headword id="d0e136">culaidh</headword>
+    </item>
+    <item><headword id="d0e141" type="heading" level="h1">8. Church building and churchyard</headword></item>
+    <item><headword id="d0e145" type="heading" level="h1">9. Church furniture and ornaments</headword></item>
+    <item>
+      <headword id="d0e150">altair</headword>
+    </item>
+    <item>
+      <headword id="d0e156">cùbaid</headword>
+    </item>
+    <item>
+      <headword id="d0e162">tobar a bhaistidh</headword>
+    </item>
+    <item>
+      <headword id="d0e168">treastaichean</headword>
+    </item>
+    <item>
+      <headword id="d0e174">coinnleirean</headword>
+    </item>
+    <item>
+      <headword id="d0e180">sligh’ na Croise</headword>
+    </item>
+    <item>
+      <headword id="d0e186">crotag</headword>
+      <description>holy water font.</description>
+    </item>
+    <item>
+      <headword id="d0e195">conair-mhoire</headword>
+      <description>[sic] rosary.</description>
+    </item>
+    <item>
+      <headword id="d0e204">slat-phulam</headword>
+      <description>palm.</description>
+    </item>
+    <item>
+      <headword id="d0e213">uisge coisrigte</headword>
+      <description>holy water.</description>
+    </item>
+    <item>
+      <headword id="d0e222">ceusadh</headword>
+      <description>crucifix.</description>
+    </item>
+    <item>
+      <headword id="d0e231">rùn</headword>
+      <description>a decad.</description>
+    </item>
+    <item>
+      <headword id="d0e240">dligheadh</headword>
+      <description>priest’s due (stipend).</description>
+    </item>
+    <item><headword id="d0e248" type="heading" level="h1">10. Different services during the week, feast days, sacraments, Sunday school etc.</headword></item>
+    <item>
+      <headword id="d0e253">An Aireann</headword>
+      <description>Mass.</description>
+    </item>
+    <item>
+      <headword id="d0e262">An Urnaigh</headword>
+      <description>Benediction.</description>
+    </item>
+    <item>
+      <headword id="d0e271">[beannachadh]</headword>
+      <description>A Chonair Mhoire agus Beannachadh na Sacramaid.</description>
+    </item>
+    <item><headword id="d0e279" type="heading" level="h2">[blank]</headword></item>
+    <item>
+      <headword id="d0e284">Lathaichean Feile</headword>
+      <description>Holydays of Obligation.</description>
+    </item>
+    <item>
+      <headword id="d0e293">La Nollag</headword>
+      <description>Christmas.</description>
+    </item>
+    <item>
+      <headword id="d0e302">La an Tiomchioll Ghearraidh</headword>
+      <description>Circumcision.</description>
+    </item>
+    <item>
+      <headword id="d0e311">La na Tri Righrean</headword>
+      <description>Epiphany.</description>
+    </item>
+    <item>
+      <headword id="d0e320">La Naomh Iosa</headword>
+      <description>St Joseph’s.</description>
+    </item>
+    <item>
+      <headword id="d0e329">Diardaoin Leas-gabhail</headword>
+      <description>Ascension.</description>
+    </item>
+    <item>
+      <headword id="d0e338">Diardaoin Corp Chriosda</headword>
+      <description>Corpus Christi.</description>
+    </item>
+    <item>
+      <headword id="d0e347">La ’Ill Peadair</headword>
+      <description>St Peter and Paul.</description>
+    </item>
+    <item>
+      <headword id="d0e356">La Ill Moire</headword>
+      <description>Assumption.</description>
+    </item>
+    <item>
+      <headword id="d0e365">La nan Naomh Uile</headword>
+      <description>All Saints.</description>
+    </item>
+    <item>
+      <headword id="d0e374">La ’Ill Moire gun Smal</headword>
+      <description>Immaculate Conception.</description>
+    </item>
+    <item><headword id="d0e382" type="heading" level="h2">Days of Devotion</headword></item>
+    <item>
+      <headword id="d0e387">La ’Ill Moire nan coinnlean</headword>
+      <description>Candlemas.</description>
+    </item>
+    <item>
+      <headword id="d0e396">Di h-Aoine na Ceusda</headword>
+    </item>
+    <item>
+      <headword id="d0e402">Di Ceudaine Luatha</headword>
+    </item>
+	<item>
+	  <headword id="idola99">[note]</headword>
+	  <description>etc. etc.</description>
+	</item>
+    <item><headword id="d0e416" type="heading" level="h2">Sacraments</headword></item>
+    <item>
+      <headword id="d0e421">Baisteach etc.</headword>
+    </item>
+    <item><headword id="d0e426" type="heading" level="h2">[blank]</headword></item>
+    <item>
+      <headword id="d0e431">urnaigh</headword>
+    </item>
+    <item>
+      <headword id="d0e437">searman</headword>
+    </item>
+    <item>
+      <headword id="d0e443">am Beannachadh</headword>
+    </item>
+    <item><headword id="d0e448" type="heading" level="h1">11. God, the Lord, Jesus Christ, the Holy Ghost, the Blessed Virgin, the angels, the apostles, Heaven, the Gospel, prayers etc.</headword></item>
+    <item>
+      <headword id="d0e453">Dia</headword>
+    </item>
+    <item>
+      <headword id="d0e459">An Cruthadair</headword>
+    </item>
+    <item>
+      <headword id="d0e465">Righ nan Dul</headword>
+    </item>
+    <item>
+      <headword id="d0e471">Righ na Glorach</headword>
+    </item>
+    <item>
+      <headword id="d0e477">Righ nan Righean</headword>
+    </item>
+	<item>
+	  <headword id="idola100">[note]</headword>
+	  <description>etc.</description>
+	</item>
+    <item>
+      <headword id="d0e492">An Comhfhurtair</headword>
+    </item>
+    <item>
+      <headword id="d0e498">Gu sealladh a Sealbhair ort</headword>
+    </item>
+    <item>
+      <headword id="d0e504">Athair na Flathas</headword>
+    </item>
+    <item>
+      <headword id="d0e510">Dia nan gràs</headword>
+    </item>
+    <item><headword id="d0e515" type="heading" level="h2">[blank]</headword></item>
+    <item>
+      <headword id="d0e520">An Tighearna</headword>
+    </item>
+    <item>
+      <headword id="d0e526">Iosa / Criosda</headword>
+    </item>
+    <item>
+      <headword id="d0e532">Ar Slanuighear</headword>
+    </item>
+    <item>
+      <headword id="d0e538">Mac Dhe</headword>
+    </item>
+    <item>
+      <headword id="d0e544">Uan Dhe</headword>
+    </item>
+    <item>
+      <headword id="d0e550">An Tobhartair</headword>
+    </item>
+    <item>
+      <headword id="d0e556">An Darna Pearsa</headword>
+    </item>
+    <item><headword id="d0e561" type="heading" level="h2">[the Holy Ghost]</headword></item>
+    <item>
+      <headword id="d0e566">A Spiorad Naomh</headword>
+    </item>
+    <item>
+      <headword id="d0e572">An Treas Pearsa</headword>
+    </item>
+    <item><headword id="d0e577" type="heading" level="h2">[the Trinity]</headword></item>
+    <item>
+      <headword id="d0e582">An Trionaid</headword>
+      <description>The Trinity.</description>
+    </item>
+    <item>
+      <headword id="d0e591">An Trionaid Naomh</headword>
+      <description>The Trinity.</description>
+    </item>
+    <item><headword id="d0e599" type="heading" level="h2">[the Blessed Virgin]</headword></item>
+    <item>
+      <headword id="d0e604">Moire Mhathar</headword>
+    </item>
+    <item>
+      <headword id="d0e610">A Mhoir’ Oigh</headword>
+    </item>
+    <item>
+      <headword id="d0e616">Oigh nan Oighean</headword>
+    </item>
+    <item><headword id="d0e621" type="heading" level="h2">[the angels]</headword></item>
+    <item>
+      <headword id="d0e626">na h-ainglean</headword>
+    </item>
+    <item>
+      <headword id="d0e632">aingeal coimheadaich</headword>
+      <description>Guardian angel.</description>
+    </item>
+    <item><headword id="d0e640" type="heading" level="h2">[Heaven]</headword></item>
+    <item>
+      <headword id="d0e645">Neamh</headword>
+    </item>
+    <item>
+      <headword id="d0e651">Flathanas</headword>
+    </item>
+    <item>
+      <headword id="d0e657">an Soisgeul</headword>
+    </item>
+    <item><headword id="d0e662" type="heading" level="h2">[blank]</headword></item>
+    <item>
+      <headword id="d0e667">Urnaigh an Tighearna no Phaidir</headword>
+    </item>
+    <item><headword id="d0e672" type="heading" level="h2">[blank]</headword></item>
+    <item>
+      <headword id="d0e677">Comharra na Croise</headword>
+      <description>Sign of the Cross.</description>
+    </item>
+    <item>
+      <headword id="d0e686">An t-Altachadh</headword>
+      <description>Grace before or after meals.</description>
+    </item>
+    <item>
+      <headword id="d0e695">Am Beannachadh Moire</headword>
+      <description>Hail Mary.</description>
+    </item>
+    <item>
+      <headword id="d0e704">A’ Chreud</headword>
+      <description>Credo.</description>
+    </item>
+    <item>
+      <headword id="d0e713">An t-Aideachadh</headword>
+      <description>Confiteor.</description>
+    </item>
+    <item>
+      <headword id="d0e722">Griomh Aithreachais</headword>
+    </item>
+    <item>
+      <headword id="d0e728">Griomh Dochais</headword>
+    </item>
+    <item>
+      <headword id="d0e734">Griomh Creideamh</headword>
+    </item>
+    <item>
+      <headword id="d0e740">Griomh Gaidh</headword>
+    </item>
+	<item>
+	  <headword id="idola101">[note]</headword>
+	  <description>etc.</description>
+	</item>
+    <item><headword id="d0e754" type="heading" level="h1">12. Satan, Hell, Purgatory, Limbo, different kinds of sin etc.</headword></item>
+	<item><headword id="d0e758" type="heading" level="h2">[Satan]</headword></item>
+    <item>
+      <headword id="d0e763">Sàtan</headword>
+      <description>Satan.</description>
+    </item>
+    <item>
+      <headword id="d0e772">An Donas</headword>
+      <description>Satan.</description>
+    </item>
+    <item>
+      <headword id="d0e781">An Diobhall</headword>
+      <description>Satan.</description>
+    </item>
+    <item>
+      <headword id="d0e790">An Deamhan</headword>
+      <description>Satan.</description>
+    </item>
+    <item>
+      <headword id="d0e799">An t-Arsair</headword>
+      <description>Satan.</description>
+    </item>
+    <item>
+      <headword id="d0e808">An Droch Fhear</headword>
+      <description>Satan.</description>
+    </item>
+    <item>
+      <headword id="d0e817">Am Fear Dubh</headword>
+      <description>Satan.</description>
+    </item>
+    <item>
+      <headword id="d0e826">Am Fear Millidh</headword>
+      <description>Satan.</description>
+    </item>
+    <item>
+      <headword id="d0e835">Am Fear nach tig an coir (cobhair?) Criosdaidh</headword>
+      <description>Satan.</description>
+    </item>
+    <item>
+      <headword id="d0e844">Am fear tha air an t-slabhraidh</headword>
+      <description>Satan.</description>
+    </item>
+    <item>
+      <headword id="d0e853">Am fear nach can mi</headword>
+      <description>Satan.</description>
+    </item>
+    <item>
+      <headword id="d0e862">Am Mac Mollachd</headword>
+      <description>Satan.</description>
+    </item>
+    <item>
+      <headword id="d0e871">Am Buaireadair</headword>
+      <description>Satan.</description>
+    </item>
+    <item>
+      <headword id="d0e880">An Riabhach</headword>
+      <description>Satan.</description>
+    </item>
+    <item>
+      <headword id="d0e889">Eoghan</headword>
+      <description>Some older people associated the name Eoghan (Hugh) with the devil but I could never find out why.</description>
+    </item>
+    <item><headword id="d0e897" type="heading" level="h2">[Hell]</headword></item>
+    <item>
+      <headword id="d0e902">Ireann</headword>
+      <description>Hell.</description>
+    </item>
+    <item>
+      <headword id="d0e911">Iutharna</headword>
+      <description>Hell.</description>
+    </item>
+    <item>
+      <headword id="d0e920">An droch aite</headword>
+      <description>Hell.</description>
+    </item>
+    <item><headword id="d0e928" type="heading" level="h2">[Purgatory]</headword></item>
+    <item>
+      <headword id="d0e933">Purgadair</headword>
+      <description>Purgatory.</description>
+    </item>
+    <item><headword id="d0e941" type="heading" level="h2">[Limbo]</headword></item>
+    <item>
+      <headword id="d0e946">Ireann nan Athraichean Naomh</headword>
+      <description>Limbo.</description>
+    </item>
+    <item>
+      <headword id="d0e955">Aite gun phian gun sòlas</headword>
+      <description>Limbo.</description>
+    </item>
+    <item><headword id="d0e963" type="heading" level="h2">[the different kinds of sin]</headword></item>
+    <item>
+      <headword id="d0e968">am peacadh ginneadh</headword>
+      <description>original sin.</description>
+    </item>
+    <item>
+      <headword id="d0e977">peacadh bàis</headword>
+      <description>mortal sin.</description>
+    </item>
+    <item>
+      <headword id="d0e986">peacadh gniomh</headword>
+      <description>actual sin.</description>
+    </item>
+    <item>
+      <headword id="d0e995">peacadh sola</headword>
+      <description>venial sin.</description>
+    </item>
+	<item>
+	  <headword id="idola102">[note]</headword>
+	  <description>(Numerous others listed in Gaelic Catechism, as uamhar, sannd etc. etc.)</description>
+	</item>
+    <item><headword id="d0e1012" type="heading" level="h2">Evil curses</headword></item>
+    <item>
+      <headword id="d0e1017">Aire na h-Aoine ort.</headword>
+      <description>Death shroud upon you.</description>
+    </item>
+    <item>
+      <headword id="d0e1026">Droch comhdhail ort.</headword>
+      <description>Evil meeting to you.</description>
+    </item>
+    <item>
+      <headword id="d0e1035">Droch bhàs ort.</headword>
+      <description>Wicked death unto you.</description>
+    </item>
+    <item>
+      <headword id="d0e1044">An deomhan gu spad thu.</headword>
+      <description>May the devil finish you.</description>
+    </item>
+    <item>
+      <headword id="d0e1053">An diobhall gad ithe.</headword>
+      <description>May the devil devour you.</description>
+    </item>
+    <item><headword id="d0e1061" type="heading" level="h2">Benedictions</headword></item>
+    <item>
+      <headword id="d0e1066">Dia gad shabhaladh.</headword>
+    </item>
+    <item>
+      <headword id="d0e1072">Dia gad bheannachadh.</headword>
+    </item>
+    <item>
+      <headword id="d0e1078">Dia gad ghleidheadh.</headword>
+      <description>Anyone passing a person milking a cow always said “Dia gad ghleidheadh” and milker responded “Dia dhut fhein”. This to ward off the evil eye.</description>
+    </item>
+    <item>
+      <headword id="d0e1087">Dia bhi tiomchioll ort.</headword>
+    </item>
+    <item>
+      <headword id="d0e1093">Am Freasdal a shealltuinn ort.</headword>
+    </item>
+    <item>
+      <headword id="d0e1099">Gu sealladh a Sealbhair ort.</headword>
+    </item>
+  </items>
+</fieldworkDocument>

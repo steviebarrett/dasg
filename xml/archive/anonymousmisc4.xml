@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 1/4/15 -->
+<!-- illustrations -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Word-lists_anonymousmisc4" docType="wordlist" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <fieldworker>[self]</fieldworker>
+  <informant>
+    <nameEnglish>Annon.</nameEnglish>
+  </informant>
+  <items>
+    <item>
+      <headword id="idola422">[note]</headword>
+	  <description>I wonder if any of the enclosed words can be of use to you? (...) My Gaelic spellings can be corrected.</description>
+	</item>
+    <item>
+      <headword id="idp34194528">gorm-an-ìuchd</headword>
+      <description>the board in front of the weaver on which the tweed slides down after it is woven.</description>
+    </item>
+    <item>
+      <headword id="idp34197624">mein-àridh</headword>
+      <description>two small boards with steel [?] pins at each end laid across the woven tweed on the ‘gorm-an-ìuchd’ [q.v.] to keep the tweed edges straight.
+        <illustration src="anonymousmisc4illust1.jpg" width="300"/>
+    </description>
+    </item>
+    <item>
+      <headword id="idp34200864">liaradh</headword>
+      <description>used for winding the spun yarn. It had 3 spokes underneath a roundish piece of wood with a spike at the top where two long bits of wood were laid crossways with holes in them and with wooden pins in the holes to keep the hank until it was wound into a ball. <illustration src="anonymousmisc4illust2.jpg" width="300"/></description>
+    </item>
+    <item>
+      <headword id="idp34179912">ceutigain</headword>
+      <description>[?] socks [?].</description>
+    </item>
+    <item>
+      <headword id="idp34178400">iulainn</headword>
+      <description>yard where corn stalks and hay were kept.</description>
+    </item>
+    <item>
+      <headword id="idp34176888">feanhag</headword>
+      <description>[?] lazybed.</description>
+    </item>
+    <item>
+      <headword id="idp34175376">sealabhag</headword>
+      <description>the root of the docken leaves used to bind the dyes of the dyed wool.</description>
+    </item>
+    <item>
+      <headword id="idp34173864">fasgnadh</headword>
+      <description>the process of separating the seed and the chaff.</description>
+    </item>
+    <item>
+      <headword id="idp34172568">ruidhal</headword>
+      <description>a round wooden hoop covered with a preserved sheep’s skin and perforated like a sieve used for separating of corn seed and chaff.</description>
+    </item>
+    <item>
+      <headword id="idp34170984">mocain</headword>
+      <description>old stockings worn on the feet in the summer-time instead of shoes.</description>
+    </item>
+    <item>
+      <headword id="idp34169472">crios</headword>
+      <description>a cord used as a belt to hold up the very long skirts of women in these days of long ago.</description>
+    </item>
+    <item>
+      <headword id="idp34167960">beannhnag</headword>
+      <description>[?] a piece of cotton cloth wound round the head to keep the hair tidy when at work. Resembling the head-scarves of today but much smaller.</description>
+    </item>
+    <item>
+      <headword id="idp34166448">cùl-mònadh</headword>
+      <description>a corner where the peat was kept after being carried home for burning.</description>
+    </item>
+    <item>
+      <headword id="idp34164936">flagishg</headword>
+      <description>a pit where the cow manure was kept.</description>
+    </item>
+    <item>
+      <headword id="idp34163424">stiùrag</headword>
+      <description>a drink made by mixing some oatmeal with cold water and pouring hot water over it.</description>
+    </item>
+    <item>
+      <headword id="idp34161912">seishan</headword>
+      <description>[?] gruel.</description>
+    </item>
+    <item>
+      <headword id="idp34160400">bainne-slamain</headword>
+      <description>(curds) done in the stomach of the killed calf!!</description>
+    </item>
+    <item>
+      <headword id="idp34158888">bainne-deasgain</headword>
+      <description>[See bainne-slamain.]</description>
+    </item>
+    <item>
+      <headword id="idp34157376">car-a-mhuiltean</headword>
+      <description>tumbler (glass).</description>
+    </item>
+    <item>
+      <headword id="idp34155864">sodolach</headword>
+      <description>gossipy.</description>
+    </item>
+    <item>
+      <headword id="idp34154352">shisacot</headword>
+      <description>[?] waistcoat.</description>
+    </item>
+    <item>
+      <headword id="idp34152768">cean maol sgalach</headword>
+      <description>baldy head.</description>
+    </item>
+    <item>
+      <headword id="idp34151184">featha</headword>
+      <description>bog</description>
+    </item>
+    <item>
+      <headword id="idp34272288">spàrr-gaoithe</headword>
+      <description>the high cross-wood in the black house.</description>
+    </item>
+    <item>
+      <headword id="idp34270776">luberneach</headword>
+      <description>favourite.</description>
+    </item>
+    <item>
+      <headword id="idp34269264">pumalàir</headword>
+      <description>bully.</description>
+    </item>
+    <item>
+      <headword id="idp34267752">gille-balla-ma-thòn</headword>
+      <description>loafer.</description>
+    </item>
+    <item>
+      <headword id="idp34266240">frithasg</headword>
+      <description>the limpets knocked off the stones on the seashore, put in a bucket and boiling water poured over to remove them from the shells and used as bait rock-fishing [sic].</description>
+    </item>
+  </items>
+</fieldworkDocument>

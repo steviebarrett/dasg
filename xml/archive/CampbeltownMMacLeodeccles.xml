@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 19 4 13 -->
+<!-- Updated by SB on 23 4 13 : 
+  - changed stylesheet path
+  - added illustration 
+-->
+<fieldworkDocument docId="Ecclesiastical_CampbeltownMMacLeodeccles" docType="questionnaire" subType="EcclesiasticalTerms">
+  <title>An Eaglais / Ecclesiastical Terms</title>
+  <fieldworker>[self]</fieldworker>
+  <informant>
+    <nameEnglish>Murdo MacLeod</nameEnglish>
+    <age>60</age>
+    <origin>Lewis, Uig</origin>
+  </informant>
+  <location>Argyll, Campbeltown</location>
+  <!-- ILLUSTRATION -->
+  <items>
+    <item><headword id="d0e32" type="heading" level="h1">1. Various denominations</headword></item>
+    <item>
+      <headword id="d0e37">Na Moderats</headword>
+    </item>
+    <item>
+      <headword id="d0e43">Na Saidars</headword>
+      <description>(Eng. pronunciation of vowels.)</description>
+    </item>
+    <item>
+      <headword id="d0e52">Na Wee Frees</headword>
+    </item>
+    <item>
+      <headword id="d0e58">An Eaglais Shaor</headword>
+    </item>
+    <item>
+      <headword id="d0e64">An Eaglais Déit</headword>
+      <description>Est. Church.</description>
+    </item>
+    <item><headword id="d0e72" type="heading" level="h1">2. Member of each of these denominations</headword></item>
+    <item>
+      <headword id="d0e77">Moderat</headword>
+      <description>’Se Moderat a th’ann dheth.</description>
+    </item>
+    <item>
+      <headword id="d0e86">Saidar</headword>
+      <description>’Se Saidar a th’ann dheth.</description>
+    </item>
+    <item><headword id="d0e94" type="heading" level="h1">3. Different courts of the Presbyterian churches</headword></item>
+    <item>
+      <headword id="d0e99">an deecon’s coort</headword>
+    </item>
+    <item>
+      <headword id="d0e105">an seisean</headword>
+    </item>
+    <item>
+      <headword id="d0e111">a’ chléir</headword>
+    </item>
+    <item><headword id="d0e116" type="heading" level="h1">4. Members of the clergy and office-bearers with the Presbyterian churches</headword></item>
+    <item>
+      <headword id="d0e121">a’ ministeir</headword>
+    </item>
+    <item>
+      <headword id="d0e127">an t-eildeir</headword>
+    </item>
+    <item>
+      <headword id="d0e133">an deecon</headword>
+      <description>(The ‘d’ sound coming after ‘n’ disappears and the ‘t’ sound after ‘n’ becomes softened into ‘d’. This is always the case in Uig, Lewis.)</description>
+    </item>
+    <item>
+      <headword id="d0e142">am preusgair</headword>
+      <description>the preacher.</description>
+    </item>
+    <item>
+      <headword id="d0e151">a’ missionary</headword>
+    </item>
+    <item>
+      <headword id="d0e157">maor eaglais</headword>
+      <description>church officer.</description>
+    </item>
+    <item>
+      <headword id="d0e166">clàrc an t-seisein</headword>
+    </item>
+    <item>
+      <headword id="d0e172">a’ toirt brag air cùbainn</headword>
+      <description>preaching.</description>
+    </item>
+    <item><headword id="d0e180" type="heading" level="h1">5. Members of the clergy and office-bearers in the Roman Catholic church</headword></item>
+    <item><headword id="d0e184" type="heading" level="h1">6. Holy Orders within the Roman Catholic church</headword></item>
+    <item><headword id="d0e188" type="heading" level="h1">7. Articles of dress or adornment</headword></item>
+    <item><headword id="d0e192" type="heading" level="h1">8. Church building and churchyard</headword></item>
+    <item><headword id="d0e196" type="heading" level="h1">9. Church furniture and ornaments</headword></item>
+    <item>
+      <headword id="d0e201">am brod</headword>
+      <description>collection box. The collection box had a long handle. The collector, an elder, went round the seats (suidheanan) with it. 
+        <illustration src="CampbeltownMMacLeodecclesillust1.jpg" width="400"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e212">[suidheanan]</headword>
+      <description>[seats.]</description>
+    </item>
+    <item><headword id="d0e220" type="heading" level="h1">10. Different services during the week, feast days, sacraments, Sunday school etc.</headword></item>
+    <item>
+      <headword id="d0e225">la an trosgaidh</headword>
+    </item>
+    <item>
+      <headword id="d0e231">coinneamh sheachdainn</headword>
+      <description>Meeting held during the week. Could be in a house or in the meeting-house (tigh-coinneamh) i.e. a small hall erected by the church in an outlying village.</description>
+    </item>
+    <item>
+      <headword id="d0e240">[tigh-coinneamh]</headword>
+      <description>[meeting-house i.e. a small hall erected by the church in an outlying village.]</description>
+    </item>
+    <item><headword id="d0e248" type="heading" level="h1">11. God, the Lord, Jesus Christ, the Holy Ghost, the Blessed Virgin, the angels, the apostles, Heaven, the Gospel, prayers etc.</headword></item>
+    <item>
+      <headword id="d0e253">Dia</headword>
+    </item>
+    <item>
+      <headword id="d0e259">An Tighearna</headword>
+    </item>
+    <item>
+      <headword id="d0e265">An Cruithear</headword>
+    </item>
+    <item><headword id="d0e270" type="heading" level="h2">Sayings referring to God:</headword></item>
+    <item>
+      <headword id="d0e275">An ainm an Righ!</headword>
+    </item>
+    <item>
+      <headword id="d0e281">Gu sealladh E ort!</headword>
+    </item>
+    <item>
+      <headword id="d0e287">Air sgàth ni math!</headword>
+    </item>
+    <item>
+      <headword id="d0e293">A Thi nam Buadh!</headword>
+    </item>
+    <item>
+      <headword id="d0e299">Gu sealladh Sealbh ort!</headword>
+    </item>
+    <item>
+      <headword id="d0e305">Gu sealladh Sealbh Mor ort!</headword>
+    </item>
+    <item>
+      <headword id="d0e311">A Thi mhòir, fhearaibh!</headword>
+    </item>
+    <item>
+      <headword id="d0e317">A chruthadair mhathasaich!</headword>
+    </item>
+    <item>
+      <headword id="d0e323">[Moire]</headword>
+      <description>Bha sibh ag iasgach an diugh. An d’fhuair sibh tòrr/mòran? Moire, fhuair! Fhuair sinn an t-Agh. ‘Moire!’ is used quite regularly in Uig, although it is very far from Catholic influences.</description>
+    </item>
+    <item><headword id="d0e331" type="heading" level="h1">12. Satan, Hell, Purgatory, Limbo, different kinds of sin etc.</headword></item>
+    <item>
+      <headword id="d0e336">An Sàtan</headword>
+    </item>
+    <item>
+      <headword id="d0e342">am fear millidh</headword>
+    </item>
+    <item>
+      <headword id="d0e348">Domhall Dubh</headword>
+    </item>
+    <item>
+      <headword id="d0e354">piullaidh</headword>
+    </item>
+    <item>
+      <headword id="d0e360">an donas</headword>
+    </item>
+    <item>
+      <headword id="d0e366">an diaoull</headword>
+    </item>
+    <item>
+      <headword id="d0e372">an droch fhear</headword>
+    </item>
+    <item>
+      <headword id="d0e378">a’ fear nach can mi</headword>
+    </item>
+    <item>
+      <headword id="d0e384">iuthairn</headword>
+    </item>
+    <item>
+      <headword id="d0e390">an droch ait</headword>
+    </item>
+    <item>
+      <headword id="d0e396">an loch teine</headword>
+    </item>
+    <item>
+      <headword id="d0e402">ifrinn</headword>
+    </item>
+  </items>
+</fieldworkDocument>

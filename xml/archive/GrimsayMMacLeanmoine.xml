@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 24 4 13 -->
+<fieldworkDocument docId="Peat_GrimsayMMacLeanmoine" docType="questionnaire" subType="Peat">
+  <title>Mòine / Peat-Working</title>
+  <date>20/09/1967</date>
+  <fieldworker>[self]</fieldworker>
+  <informant>
+    <nameEnglish>Mary [?] M. MacLean</nameEnglish>
+  </informant>
+  <location>North Uist, Grimsay</location>
+  <items>
+    <item><headword id="d0e26" type="heading" level="h1">1. Ag ullachadh na talmhainn airson mòine a bhuain</headword></item>
+    <item>
+      <headword id="d0e31">fosgladh poll-mona</headword>
+      <description>initial opening of new peat-bank.</description>
+    </item>
+    <item>
+      <headword id="d0e40">feannadh</headword>
+      <description>turfing the peat-bank or digging squares of the turf to expose softer layer of ground underneath (the actual peat).</description>
+    </item>
+    <item>
+      <headword id="d0e49">rusgadh</headword>
+      <description>same as above [i.e. feannadh]; another term for ‘feannadh’ – term used in Lewis.</description>
+    </item>
+    <item>
+      <headword id="d0e58">glanadh (a phuill)</headword>
+      <description>clearing away the squares of turf cut in the ‘feannadh’ [q.v.] process, also smoothing away all uneven ridges, ready for actual cutting.</description>
+    </item>
+    <item>
+      <headword id="d0e67">meithe</headword>
+      <description>the width of the peat bank.</description>
+    </item>
+    <item><headword id="d0e75" type="heading" level="h1">2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</headword></item>
+    <item>
+      <headword id="d0e80">tarasgeir</headword>
+      <description>the peat-cutting iron.</description>
+    </item>
+    <item>
+      <headword id="d0e89">barr-fhad</headword>
+      <description>name for peat on top of layer (see garadh).</description>
+    </item>
+    <item>
+      <headword id="d0e98">iochdar</headword>
+      <description>lower part of peat-bank.</description>
+    </item>
+    <item>
+      <headword id="d0e107">uachdar</headword>
+      <description>upper part of peat-bank.</description>
+    </item>
+    <item>
+      <headword id="d0e116">garadh</headword>
+      <description>layer of peats placed on ‘uachdar’ [q.v.] when cutting.</description>
+    </item>
+    <item>
+      <headword id="d0e125">sgaoilteach</headword>
+      <description>peats thrown out on top of upper bank and scattered round the ‘garadh’ [q.v.].</description>
+    </item>
+    <item>
+      <headword id="d0e134">fear-gearraidh</headword>
+      <description>the person operating the peat-cutting iron.</description>
+    </item>
+    <item>
+      <headword id="d0e143">fear-sradaidh</headword>
+      <description>the person throwing out the peats as they are cut.</description>
+    </item>
+    <item><headword id="d0e151" type="heading" level="h1">3. A’ tiormachadh na mònach</headword></item>
+    <item>
+      <headword id="d0e156">sadail</headword>
+      <description>removing the peats from lower part of bank to the upper part, where they are more likely to dry quickly.</description>
+    </item>
+    <item>
+      <headword id="d0e165">cruachadh</headword>
+      <description>stacking the peats on the bank.</description>
+    </item>
+    <item>
+      <headword id="d0e174">gniomhadh</headword>
+      <description>the ‘masonry’ of the peat stack.</description>
+    </item>
+    <item>
+      <headword id="d0e183">rudhadh</headword>
+      <description>making small stooks of six or more peats, placed in vertical position – this is the initial stage of drying.</description>
+    </item>
+    <item>
+      <headword id="d0e192">rudhan</headword>
+      <description>name for aforesaid small stooks [see rudhadh].</description>
+    </item>
+    <item>
+      <headword id="d0e201">ath-rudhadh</headword>
+      <description>this has to be done if weather is unfavourable for peat-drying. Inside peats in stooks placed outside and vice versa.</description>
+    </item>
+    <item>
+      <headword id="d0e210">ath arrachadh</headword>
+      <description>as above [i.e. ath-rudhadh].</description>
+    </item>
+    <item>
+      <headword id="d0e219">togail mhonadh</headword>
+      <description>as ‘rudhadh’ [q.v.].</description>
+    </item>
+    <item><headword id="d0e227" type="heading" level="h1">4. A’ cruachadh na mònach</headword></item>
+    <item>
+      <headword id="d0e232">steidh</headword>
+      <description>pile of peats. This term is mostly used in Sutherlandshire.</description>
+    </item>
+    <item>
+      <headword id="d0e241">gobhlfhad</headword>
+      <description>large unbroken peat, chosen for masonry or ‘gniomhadh’ of the stack. The same terms apply in ‘cruachadh’ as in ‘tiormachadh’, i.e. gniomhadh, sadail [q.v.].</description>
+    </item>
+    <item>
+      <headword id="d0e250">tudan</headword>
+      <description>a small peat stack. (In Uist ‘tuidean’.)</description>
+    </item>
+    <item><headword id="d0e258" type="heading" level="h1">5. A’ toirt na mònach dhachaigh; an cliabh, etc.</headword></item>
+    <item>
+      <headword id="d0e263">tarruing</headword>
+      <description>term used for transportation of peat from bank to the house.</description>
+    </item>
+    <item>
+      <headword id="d0e272">stairseach-mhonadh</headword>
+      <description>small paths made of stones and turf leading from peat-bank to wherever peats are to be carried.</description>
+    </item>
+    <item>
+      <headword id="d0e281">cliabh-mona</headword>
+      <description>creel for carrying peats.</description>
+    </item>
+    <item>
+      <headword id="d0e290">cairt-mhona</headword>
+      <description>cart for [carrying peats.]</description>
+    </item>
+    <item>
+      <headword id="d0e299">eathar-mona</headword>
+      <description>boat for [carrying peats.]</description>
+    </item>
+    <item>
+      <headword id="d0e308">luchd-mona</headword>
+      <description>name for cargo of peats in boat.</description>
+    </item>
+    <item><headword id="d0e316" type="heading" level="h1">6. Seòrsachan mònach</headword></item>
+    <item>
+      <headword id="d0e321">moine chruaidh dhubh</headword>
+      <description>heavy type of peat; very good for heat, but inclined to crumble during dry [sic] process if exposed to sun and rain.</description>
+    </item>
+    <item>
+      <headword id="d0e330">moine chosach</headword>
+      <description>porous type [of peat]; not durable in fire bur easier to dry.</description>
+    </item>
+    <item>
+      <headword id="d0e339">moine chiobach</headword>
+      <description>porous type [of peat]; not durable in fire bur easier to dry.</description>
+    </item>
+    <item>
+      <headword id="d0e348">cioban</headword>
+      <description>[See moine chiobach]</description>
+    </item>
+    <item>
+      <headword id="d0e357">caoran, caorain</headword>
+      <description>small fragments of peat much sought after for heating purposes.</description>
+    </item>
+    <item><headword id="d0e365" type="heading" level="h1">7. Faclan eile</headword></item>
+  </items>
+</fieldworkDocument>

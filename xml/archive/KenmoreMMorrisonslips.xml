@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 1/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_KenmoreMMorrisonslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>1977, 1987</date>
+  <informant>
+    <nameEnglish>Mrs Mary Morrison</nameEnglish>
+  </informant>
+  <location>Applecross, Kenmore</location>
+  <items>
+    <item>
+      <headword id="idp115489760">snaoidheadh</headword>
+      <description>Quotation: Chan fhaighinn snaoidheadh. Notes: twisting or jerking motion of the body.</description>
+    </item>
+    <item>
+      <headword id="idp115438568">cliabadh</headword>
+      <description>Quotation: Thug i cliabadh. Notes: She stumbled/staggered/lurched.</description>
+    </item>
+  </items>
+</fieldworkDocument>

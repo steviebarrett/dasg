@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 20 4 13 -->
+<fieldworkDocument docId="Ecclesiastical_GlasgowDGranteccles" docType="questionnaire" subType="EcclesiasticalTerms">
+  <title>An Eaglais / Ecclesiastical Terms</title>
+  <fieldworker>[self]</fieldworker>
+  <informant>
+    <nameEnglish>Donald Grant</nameEnglish>
+    <nameGaelic>Domhnall Grannd</nameGaelic>
+    <age>66</age>
+    <origin>[Skye, Camus Chroise]</origin>
+  </informant>
+  <location>Glasgow</location>
+  <items>
+    <item><headword id="d0e32" type="heading" level="h1">1. Various denominations</headword></item>
+    <item>
+      <headword id="d0e37">An Eaglais Stéi(dhich)te</headword>
+      <description>The Established Church.</description>
+    </item>
+    <item>
+      <headword id="d0e46">An Eaglais Shaor</headword>
+      <description>The Free Church.</description>
+    </item>
+    <item>
+      <headword id="d0e55">Na Saoseudars</headword>
+      <description>The Free Presbyterians.</description>
+    </item>
+    <item>
+      <headword id="d0e64">Na U F’s</headword>
+      <description>The United Free Church.</description>
+    </item>
+    <item>
+      <headword id="d0e73">An Eaglais Phàpanach</headword>
+      <description>The R C Church.</description>
+    </item>
+    <item><headword id="d0e81" type="heading" level="h1">2. Member of each of these denominations</headword></item>
+    <item>
+      <headword id="d0e86">Saoseudar</headword>
+    </item>
+    <item>
+      <headword id="d0e92">Pàpanach</headword>
+    </item>
+    <item><headword id="d0e97" type="heading" level="h1">3. Different courts of the Presbyterian churches</headword></item>
+    <item>
+      <headword id="d0e102">cléir (m)</headword>
+      <description>presbytery.</description>
+    </item>
+    <item>
+      <headword id="d0e111">an seisean</headword>
+      <description>the session.</description>
+    </item>
+    <item><headword id="d0e119" type="heading" level="h1">4. Members of the clergy and office-bearers with the Presbyterian churches</headword></item>
+    <item>
+      <headword id="d0e124">minisdear</headword>
+    </item>
+    <item>
+      <headword id="d0e130">misionaraidh</headword>
+    </item>
+    <item>
+      <headword id="d0e136">éildear</headword>
+    </item>
+    <item>
+      <headword id="d0e142">deucan</headword>
+    </item>
+    <item>
+      <headword id="d0e148">cléireach an t-seisein</headword>
+    </item>
+    <item><headword id="d0e153" type="heading" level="h1">5. Members of the clergy and office-bearers in the Roman Catholic church</headword></item>
+    <item><headword id="d0e157" type="heading" level="h1">6. Holy Orders within the Roman Catholic church</headword></item>
+    <item><headword id="d0e161" type="heading" level="h1">7. Articles of dress or adornment</headword></item>
+    <item><headword id="d0e165" type="heading" level="h1">8. Church building and churchyard</headword></item>
+    <item>
+      <headword id="d0e170">an leatran  (m)</headword>
+      <description>[?] elders’ enclosure.</description>
+    </item>
+    <item>
+      <headword id="d0e179">bocsa nan éildearan</headword>
+      <description>elders’ enclosure.</description>
+    </item>
+    <item><headword id="d0e187" type="heading" level="h1">9. Church furniture and ornaments</headword></item>
+    <item>
+      <headword id="d0e192">a’ chùbaid</headword>
+      <description>the pulpit.</description>
+    </item>
+    <item><headword id="d0e200" type="heading" level="h1">10. Different services during the week, feast days, sacraments, Sunday school etc.</headword></item>
+    <item>
+      <headword id="d0e205">coinneamh-ùrnuigh</headword>
+      <description>prayer-meeting.</description>
+    </item>
+    <item>
+      <headword id="d0e214">an comanachadh</headword>
+      <description>the communion.</description>
+    </item>
+    <item>
+      <headword id="d0e223">latha an traisg</headword>
+      <description>Fast Day, Thursday of communion.</description>
+    </item>
+    <item><headword id="d0e231" type="heading" level="h1">11. God, the Lord, Jesus Christ, the Holy Ghost, the Blessed Virgin, the angels, the apostles, Heaven, the Gospel, prayers etc.</headword></item>
+    <item>
+      <headword id="d0e236">Dia</headword>
+      <description>God.</description>
+    </item>
+    <item>
+      <headword id="d0e245">An Tighearna</headword>
+      <description>God.</description>
+    </item>
+    <item>
+      <headword id="d0e254">Am Freasdal</headword>
+      <description>God.</description>
+    </item>
+    <item>
+      <headword id="d0e263">An Tighearna</headword>
+      <description>the Lord.</description>
+    </item>
+    <item>
+      <headword id="d0e272">Iosa</headword>
+    </item>
+    <item>
+      <headword id="d0e278">Iosa Criosd</headword>
+    </item>
+    <item>
+      <headword id="d0e284">an Slànuighir</headword>
+    </item>
+    <item>
+      <headword id="d0e290">An Spiorad Naomh</headword>
+    </item>
+    <item>
+      <headword id="d0e296">na h-ainglean</headword>
+    </item>
+    <item>
+      <headword id="d0e302">na h-abstoil</headword>
+    </item>
+    <item>
+      <headword id="d0e308">Neamh</headword>
+      <description>Heaven.</description>
+    </item>
+    <item>
+      <headword id="d0e317">Flaitheanas</headword>
+      <description>Heaven.</description>
+    </item>
+    <item>
+      <headword id="d0e326">An Soisgeul</headword>
+      <description>the Gospel.</description>
+    </item>
+    <item>
+      <headword id="d0e335">Urnuigh an Tighearna</headword>
+    </item>
+    <item><headword id="d0e340" type="heading" level="h1">12. Satan, Hell, Purgatory, Limbo, different kinds of sin etc.</headword></item>
+    <item>
+      <headword id="d0e345">Sàtan</headword>
+    </item>
+    <item>
+      <headword id="d0e351">an Diabhol</headword>
+    </item>
+    <item>
+      <headword id="d0e357">an Droch-fhear</headword>
+    </item>
+    <item>
+      <headword id="d0e363">Ifrinn</headword>
+      <description>Hell.</description>
+    </item>
+    <item>
+      <headword id="d0e372">Iutharna</headword>
+      <description>Hell.</description>
+    </item>
+  </items>
+</fieldworkDocument>

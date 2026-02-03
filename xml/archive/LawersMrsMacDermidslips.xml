@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 7/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_LawersMrsMacDermidslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>1975</date>
+  <fieldworker>[Tony Dilworth?]</fieldworker>
+  <informant>
+    <nameEnglish>Mrs MacDermid</nameEnglish>
+    <age>c. 65</age>
+    <origin>Glenlyon</origin>
+  </informant>
+  <location>Perthshire, Loch Tay, Lawers</location>
+  <items>
+    <item>
+      <headword id="idp118969416">[ɛ̜i vɔ̃:nʹ]</headword>
+      <description>Notes: cf. Harris ‘iarunn mòine’. Spade for cutting peat. Long, broad blade, turned at point.</description>
+    </item>
+    <item>
+      <headword id="idp118982664">lùrach</headword>
+      <description>Quotation: Tha i cho lùrach. Notes: lazy, not doing anything in the house.</description>
+    </item>
+    <item>
+      <headword id="idp118984320">mi-mhodhail</headword>
+      <description>[miˈvəɫ] Notes: cheeky (esp. of child).</description>
+    </item>
+    <item>
+      <headword id="idp118986048">mór</headword>
+      <description>Quotation: Tha e mór as a’ mhart. Notes: proud of.</description>
+    </item>
+    <item>
+      <headword id="idp118987704">ràsdal</headword>
+      <description>Notes: rake.</description>
+    </item>
+    <item>
+      <headword id="idp118989216">arbhar</headword>
+      <description>[ɑˈrɑ̟r] Notes: N.B. pronunciation.</description>
+    </item>
+    <item>
+      <headword id="idp118990944">Innseanach</headword>
+      <description>Quotation: coirc Innseanach. Notes: Indian corn.</description>
+    </item>
+    <item>
+      <headword id="idp118992600">othaisg</headword>
+    <description>[oˈʃk] </description></item>
+    <item>
+      <headword id="idp118994328">poit-thèarr</headword>
+      <description>Notes: tar-pot.</description>
+    </item>
+    <item>
+      <headword id="idp118995840">ponair</headword>
+      <description>[pɔ̃ndər] Notes: beans. N.B. pronunciation.</description>
+    </item>
+    <item>
+      <headword id="idp118997568">sabh</headword>
+      <description>[s[ɑu]:] Notes: saw.</description>
+    </item>
+    <item>
+      <headword id="idp118999728">sean-bheulach</headword>
+      <description>Notes: used of a precocious child.</description>
+    </item>
+    <item>
+      <headword id="idp119001240">sgaoil</headword>
+      <description>Quotation: sgaoil na mòin’. Notes: spreading the peats.</description>
+    </item>
+    <item>
+      <headword id="idp119002896">sgaolair</headword>
+      <description>[sɡɤɫər] Notes: mean, contemptible fellow.</description>
+    </item>
+    <item>
+      <headword id="idp119004624">sgaolan</headword>
+      <description>[sɡɤɫən] Notes: creel.</description>
+    </item>
+    <item>
+      <headword id="idp119006352">sgùlan</headword>
+      <description>Notes: wicker-basket.</description>
+    </item>
+    <item>
+      <headword id="idp119007864">soc</headword>
+      <description>Notes: blade of plough.</description>
+    </item>
+    <item>
+      <headword id="idp115491784">stoc</headword>
+      <description>Quotation: stoc cruinn. Notes: handle of a plough.</description>
+    </item>
+    <item>
+      <headword id="idp115453624">teine</headword>
+      <description>Quotation: poit air [ə ʤinʹ]. Notes: N.B. pron.</description>
+    </item>
+    <item>
+      <headword id="idp116326464">truis</headword>
+      <description>Quotation: a’ trusadh [tru̟sə] [sic] buntàt’. Notes: gathering potatoes.</description>
+    </item>
+    <item>
+      <headword id="idp116328408">Tulaich Mhèit</headword>
+      <description>[tuɫiç vɛ̃ʰtʹ] Notes: Tullymet, Perthshire.</description>
+    </item>
+    <item>
+      <headword id="idp116330136">Uaimh</headword>
+      <description>[ũˈ[ɑ̃ĩ]] Notes: Weem, near Aberfeldy.</description>
+    </item>
+    <item>
+      <headword id="idp116332296">ur</headword>
+      <description>[u̟r] Notes: small child.</description>
+    </item>
+    <item>
+      <headword id="idp116334024">Amulruigh</headword>
+      <description>[amuɫrɤi] Notes: Amulree, Perthshire.</description>
+    </item>
+    <item>
+      <headword id="idp116335752">ath-dìonag</headword>
+      <description>[a:ˈdʒienɑk] [?] Notes: 3-year-old sheep.</description>
+    </item>
+    <item>
+      <headword id="idp116337552">bac</headword>
+      <description>Quotation: bac mòin’. Notes: peat hag.</description>
+    </item>
+    <item>
+      <headword id="idp116339208">Bail’ a’ Chuideir</headword>
+      <description>[bɑɫ xu̟ˈdʹər] Notes: Balquhidder.</description>
+    </item>
+    <item>
+      <headword id="idp116340936">Bail’ an Luig</headword>
+      <description>Notes: Ballinluig, Perthshire.</description>
+    </item>
+    <item>
+      <headword id="idp116342448">Baisteach</headword>
+      <description>Quotation: Eaglais nam Baisteach. Notes: Baptist Church.</description>
+    </item>
+    <item>
+      <headword id="idp116344104">banalaich</headword>
+      <description>Notes: dress-maker.</description>
+    </item>
+    <item>
+      <headword id="idp116345616">banaltair</headword>
+      <description>Notes: nurse.</description>
+    </item>
+    <item>
+      <headword id="idp116347128">beulach</headword>
+      <description>[bɛ̜:ɫəx] Quotation: Tha i beulach. Notes: always speaking (esp. scandal).</description>
+    </item>
+    <item>
+      <headword id="idp116349000">beusach</headword>
+      <description>Notes: quiet (of a person).</description>
+    </item>
+    <item>
+      <headword id="idp116350512">bhàn</headword>
+      <description>Quotation: Chuir sinn bhàn an cuip mòine. Notes: down.</description>
+    </item>
+    <item>
+      <headword id="idp116352168">blian</headword>
+      <description>Quotation: Tha e blian [bɫiəṉ]. Notes: boring.</description>
+    </item>
+    <item>
+      <headword id="idp116354112">briogan</headword>
+      <description>Notes: breeches (horse).</description>
+    </item>
+    <item>
+      <headword id="idp116355624">buabastair</headword>
+      <description>Notes: a rough man.</description>
+    </item>
+    <item>
+      <headword id="idp116357136">cas bheag</headword>
+      <description>Notes: 4 peats in drying together.</description>
+    </item>
+    <item>
+      <headword id="idp116358648">cas-chrom</headword>
+      <description>[kas xru̟m] Notes: N.B. pron.</description>
+    </item>
+    <item>
+      <headword id="idp116360376">craobh</headword>
+      <description>Quotation: pl. [krœˈən].</description>
+    </item>
+    <item>
+      <headword id="idp116362104">Craoibh</headword>
+      <description>[krɤi:] Notes: Crieff.</description>
+    </item>
+    <item>
+      <headword id="idp116363832">coirce</headword>
+      <description>Quotation: coirc Innseanach. Notes: Indian corn. [NOTES: slipped under ‘coirce-Innseanach’.]</description>
+    </item>
+    <item>
+      <headword id="idp116365632">crìon</headword>
+      <description>Notes: mean (with money).</description>
+    </item>
+    <item>
+      <headword id="idp116367144">crombag</headword>
+      <description>Notes: pancake.</description>
+    </item>
+    <item>
+      <headword id="idp116368656">cronail</headword>
+      <description>Notes: naughty.</description>
+    </item>
+    <item>
+      <headword id="idp116370168">cuip</headword>
+      <description>Quotation: cuip mór. Notes: draining spade.</description>
+    </item>
+    <item>
+      <headword id="idp116371824">cultair</headword>
+      <description>Notes: ‘coulter’ – part of plough.</description>
+    </item>
+    <item>
+      <headword id="idp116373336">daolan</headword>
+      <description>Notes: Perthshire Gaelic for ‘daonnan’.</description>
+    </item>
+    <item>
+      <headword id="idp116374848">deifir</headword>
+      <description>Quotation: Chan eil móran [dʒu̟ˈər] air. Notes: N.B. pron.</description>
+    </item>
+    <item>
+      <headword id="idp116376792">dìonag</headword>
+      <description>[dʒianɑk] Notes: 2-year old sheep.</description>
+    </item>
+    <item>
+      <headword id="idp116378520">farumach</headword>
+      <description>Quotation: bodach farumach. Notes: spry old man.</description>
+    </item>
+    <item>
+      <headword id="idp116380176">féiseanach</headword>
+      <description>[fɛ̜:ʃəṉəx] Notes: pheasant.</description>
+    </item>
+    <item>
+      <headword id="idp116381904">fiabhras</headword>
+      <description>Quotation: (1) fiabhras dearg. (2) fiabhras dubh. Notes: (1) scarlet fever. (2) black fever.</description>
+    </item>
+    <item>
+      <headword id="idp116383560">fiodhan</headword>
+      <description>[fjəɣən] Notes: cheese vat.</description>
+    </item>
+    <item>
+      <headword id="idp116385288">fiosrachail</headword>
+      <description>Quotation: duine fiosrachail. Notes: nosey.</description>
+    </item>
+    <item>
+      <headword id="idp116386944">Gart</headword>
+      <description>[ɡarʃt] Notes: Garth, near Fortingall, Perthshire.</description>
+    </item>
+    <item>
+      <headword id="idp116388672">gèadh</headword>
+      <description>[ɡɛ̜:] Notes: N.B. pron.</description>
+    </item>
+    <item>
+      <headword id="idp116390400">geimhleag</headword>
+      <description>[ɡɛ̃ĩḻɑ̜k] Notes: iron bar for making holes in the ground.</description>
+    </item>
+    <item>
+      <headword id="idp116392128">glaodhaich</headword>
+      <description>Notes: to shout, call.</description>
+    </item>
+    <item>
+      <headword id="idp116393640">gnosach</headword>
+      <description>[ɡrɔsəx] Quotation: Tha i gnosach. Notes: always speaking (esp. scandal).</description>
+    </item>
+    <item>
+      <headword id="idp116395512">gobhlan-gaoithe</headword>
+      <description>Quotation: [ɡuɫɑṉ] gaoith. Notes: wagtail.</description>
+    </item>
+    <item>
+      <headword id="idp116397456">gogan</headword>
+      <description>Notes: wooden pail.</description>
+    </item>
+    <item>
+      <headword id="idp116398968">goimhnean</headword>
+      <description>[ɡ[ɔi]ṉəṉ] Notes: rheumatism.</description>
+    </item>
+    <item>
+      <headword id="idp116401128">guireineach</headword>
+      <description>Quotation: Tha e [ɡu̟rinəx]. Notes: bad-tempered, ‘crabbit’.</description>
+    </item>
+  </items>
+</fieldworkDocument>

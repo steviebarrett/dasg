@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="TireeandMull_TireeBarrapolHMacLeancoltas" docType="questionnaire" subType="ColtasAnDuine" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Coltas an Duine / Personal Appearance</title>
+  <fieldworker>[Alan Boyd]</fieldworker>
+  <note>[NOTES: a note in the margin by Professor Roibeard Ó Maolalaigh (RÓM). See below for details.]</note>
+  <informant>
+    <nameEnglish>Hugh MacLean</nameEnglish>
+    <nameGaelic>Eoghan MacGilleathain </nameGaelic>
+    <age>64</age>
+    <origin>Tiriodh [Tiree]</origin>
+  </informant>
+  <location>Eilean Thiriodh, Goirtean Dòmhnaill [Tiree, Barrapol]</location>
+  <items>
+    <item><headword id="d0e34" type="heading" level="h1">Shapes and general appearance</headword></item>
+    <item>
+      <headword id="d0e39">luireach (m), luirichean (pl)</headword>
+      <description>a large clumsy person.</description>
+    </item>
+    <item>
+      <headword id="d0e48">garbh</headword>
+      <description>brawny, muscular.</description>
+    </item>
+    <item>
+      <headword id="d0e57">àrd</headword>
+      <description>tall and slim.</description>
+    </item>
+    <item>
+      <headword id="d0e66">troich (m), troicheanan (pl)</headword>
+      <description>dwarf.</description>
+    </item>
+    <item>
+      <headword id="d0e75">bola (m), bolaichean (pl) (l – glottal stop)</headword>
+      <description>wee fat man (derogatory).</description>
+    </item>
+    <item>
+      <headword id="d0e84">crotaire (m), crotairean (pl)</headword>
+      <description>hunchback.</description>
+    </item>
+    <item>
+      <headword id="d0e93">crotach (adj)</headword>
+      <description>[hunchbacked.]</description>
+    </item>
+    <item>
+      <headword id="d0e102">duine bacach</headword>
+      <description>a lame man (permanent).</description>
+    </item>
+    <item>
+      <headword id="d0e111">duine crubach</headword>
+      <description>a lame man (temporary).</description>
+    </item>
+    <item>
+      <headword id="d0e120">pleadhach (adj)</headword>
+      <description>splay feet.</description>
+    </item>
+    <item>
+      <headword id="d0e129">cama-chasach (adj)</headword>
+      <description>either splayed feet or hen-toed.</description>
+    </item>
+    <item>
+      <headword id="d0e138">craiceann circe</headword>
+      <description>goose pimples.</description>
+    </item>
+    <item><headword id="d0e146" type="heading" level="h1">Deformities, blemishes, scars</headword></item>
+    <item>
+      <headword id="d0e151">breacadh an teinidh</headword>
+      <description>fireside tartan. (‘teinidh’ – Tiree nom. gen. and dative of ‘teine’.)</description>
+    </item>
+    <item>
+      <headword id="d0e160">breacan-sian</headword>
+      <description>freckles.</description>
+    </item>
+    <item>
+      <headword id="d0e169">milleadh-moigheaich</headword>
+      <description>hair lip [sic]. [NOTES: note in the margin – [harelip] RÓM.]</description>
+    </item>
+    <item>
+      <headword id="d0e178">corr-chluasach</headword>
+      <description>deformed ears.</description>
+    </item>
+    <item>
+      <headword id="d0e187">fiar-shùileach</headword>
+      <description>squint (eyes).</description>
+    </item>
+    <item>
+      <headword id="d0e196">duine bearnach</headword>
+      <description>one with gaps in teeth.</description>
+    </item>
+    <item>
+      <headword id="d0e205">duine gagach</headword>
+      <description>stutterer.</description>
+    </item>
+    <item>
+      <headword id="d0e214">balbhan (m), balbhain (pl)</headword>
+      <description>dummy.</description>
+    </item>
+    <item>
+      <headword id="d0e223">dall</headword>
+      <description>blind person.</description>
+    </item>
+    <item>
+      <headword id="d0e232">ball-dobhran (m), buill-d.</headword>
+      <description>[pl] mole.</description>
+    </item>
+    <item>
+      <headword id="d0e241">triubhas (m), triubhais (pl)</headword>
+      <description>birthmark.</description>
+    </item>
+    <item>
+      <headword id="d0e250">foinne (m), foinneachan (pl)</headword>
+      <description>wart.</description>
+    </item>
+    <item>
+      <headword id="d0e259">a’ bhreac</headword>
+      <description>(breac – adj) the pox (smallpox).</description>
+    </item>
+    <item>
+      <headword id="d0e268">neasgaid (f), neasgaidean (pl)</headword>
+      <description>boil.</description>
+    </item>
+    <item>
+      <headword id="d0e277">màthair-ghuir, màthraichean-ghir (pl)</headword>
+      <description>abscess.</description>
+    </item>
+    <item>
+      <headword id="d0e286">cnaiseag (f), -an</headword>
+      <description>[pl] pimple.</description>
+    </item>
+    <item>
+      <headword id="d0e295">an galar-sploiceadh</headword>
+      <description>mumps.</description>
+    </item>
+    <item>
+      <headword id="d0e304">an anachdar uasal</headword>
+      <description>V.D.</description>
+    </item>
+    <item>
+      <headword id="d0e313">an clap</headword>
+    </item>
+    <item>
+      <headword id="d0e319">crùban (m), crùbain</headword>
+      <description>[pl] crabs.</description>
+    </item>
+    <item><headword id="d0e327" type="heading" level="h1">Beauty and ugliness</headword></item>
+    <item>
+      <headword id="d0e332">boidhchead</headword>
+    </item>
+    <item>
+      <headword id="d0e338">maise</headword>
+    </item>
+    <item><headword id="d0e343" type="heading" level="h2">Beauty</headword></item>
+    <item>
+      <headword id="d0e348">feuchdag or féachdag, féachdagan (pl)</headword>
+      <description>a beautiful girl.</description>
+    </item>
+    <item>
+      <headword id="d0e357">bòdhach</headword>
+      <description>pretty (girl). (Tiree for ‘bòidheach’.)</description>
+    </item>
+    <item>
+      <headword id="d0e366">maiseach</headword>
+      <description>handsome (male or female).</description>
+    </item>
+    <item>
+      <headword id="d0e375">briagha</headword>
+      <description>nice (with reference to a girl’s figure).</description>
+    </item>
+    <item>
+      <headword id="d0e384">eireachdail</headword>
+      <description>handsome (male or female).</description>
+    </item>
+    <item>
+      <headword id="d0e393">grinn</headword>
+      <description>beautiful, nice (girl).</description>
+    </item>
+    <item>
+      <headword id="d0e402">laghach</headword>
+      <description>nice in character, kindly (male or female).</description>
+    </item>
+    <item>
+      <headword id="d0e411">lurach</headword>
+      <description>really handsome (girl), more extreme than ‘grinn’ [q.v.], the ultimate!</description>
+    </item>
+    <item><headword id="d0e419" type="heading" level="h2">Ugliness</headword></item>
+    <item>
+      <headword id="d0e424">granna</headword>
+      <description>ugly.</description>
+    </item>
+    <item>
+      <headword id="d0e433">mi-mhaiseach</headword>
+      <description>ugly (not so extreme as ‘granna’ [q.v.]).</description>
+    </item>
+    <item><headword id="d0e441" type="heading" level="h1">Insults</headword></item>
+    <item>
+      <headword id="d0e446">cullach (m), cullaich (pl)</headword>
+      <description>a boar – ugly in character. Cullach-cachda.</description>
+    </item>
+    <item>
+      <headword id="d0e455">galla</headword>
+      <description>both male and female. Mac na galla. Ni’n na galla.</description>
+    </item>
+    <item>
+      <headword id="d0e464">trusdair (m), trusdairean (pl)</headword>
+      <description>a cheap rascal.</description>
+    </item>
+    <item>
+      <headword id="d0e473">siùrsach!</headword>
+    </item>
+    <item>
+      <headword id="d0e479">bugair, bugairean</headword>
+    </item>
+    <item>
+      <headword id="d0e485">diobhal de dhuine</headword>
+    </item>
+    <item>
+      <headword id="d0e491">duine diobhalta</headword>
+    </item>
+    <item>
+      <headword id="d0e497">a mhic a’ diobhail</headword>
+    </item>
+    <item>
+      <headword id="d0e503">icheannach (m), icheannaich (pl)</headword>
+      <description>hellyon.</description>
+    </item>
+    <item>
+      <headword id="d0e512">icheann</headword>
+      <description>hell. (Not ‘ifrinn’ in Tiree.)</description>
+    </item>
+    <item><headword id="d0e520" type="heading" level="h1">Strength, fitness and the opposite</headword></item>
+    <item>
+      <headword id="d0e525">duine làidir</headword>
+    </item>
+    <item>
+      <headword id="d0e531">duine lag</headword>
+    </item>
+    <item>
+      <headword id="d0e537">duine comasach</headword>
+      <description>fit, able man.</description>
+    </item>
+    <item>
+      <headword id="d0e546">luige</headword>
+      <description>weakness.</description>
+    </item>
+    <item>
+      <headword id="d0e555">neart</headword>
+      <description>strength.</description>
+    </item>
+    <item>
+      <headword id="d0e564">duine foghaineach</headword>
+      <description>a strong, well-built man.</description>
+    </item>
+    <item>
+      <headword id="d0e573">smearail</headword>
+      <description>able, diligent.</description>
+    </item>
+    <item>
+      <headword id="d0e582">truaghan, truaghain (pl)</headword>
+      <description>weakling (and wretch).</description>
+    </item>
+    <item>
+      <headword id="d0e591">duine uileasach</headword>
+      <description>a stiff man.</description>
+    </item>
+    <item><headword id="d0e599" type="heading" level="h1">Ways of walking, sitting, lying</headword></item>
+    <item>
+      <headword id="d0e604">coiseachd làidir</headword>
+      <description>walking smartly.</description>
+    </item>
+    <item>
+      <headword id="d0e613">coiseachd slaodach</headword>
+      <description>walking slovenly.</description>
+    </item>
+    <item>
+      <headword id="d0e622">coiseachd gu réidh</headword>
+      <description>walking slowly.</description>
+    </item>
+    <item>
+      <headword id="d0e631">a’ sraideamachd</headword>
+      <description>walking aimlessly.</description>
+    </item>
+    <item>
+      <headword id="d0e640">[sraid]</headword>
+      <description>Ghabh mi sraid. – I took a walk.</description>
+    </item>
+    <item>
+      <headword id="d0e649">cliobach</headword>
+      <description>clumsy.</description>
+    </item>
+    <item>
+      <headword id="d0e658">neo-shocarach</headword>
+      <description>fidgety.</description>
+    </item>
+    <item>
+      <headword id="d0e667">cliobaire, cliobairean (pl)</headword>
+      <description>a clumsy man, clot.</description>
+    </item>
+    <item>
+      <headword id="d0e676">socarach</headword>
+      <description>relaxed.</description>
+    </item>
+    <item>
+      <headword id="d0e685">[latha]</headword>
+      <description>Tha e ’na latha. – He is lying. (Instead of ‘laighe’ in Tiree.)</description>
+    </item>
+    <item>
+      <headword id="d0e694">[socair]</headword>
+      <description>Gabh air do shocair. – Relax.</description>
+    </item>
+    <item><headword id="d0e702" type="heading" level="h1">Pulling faces, frowns, other expressions</headword></item>
+    <item>
+      <headword id="d0e707">draoin</headword>
+      <description>making faces. Chuir mi draoin orm. – I made an ugly face.</description>
+    </item>
+    <item>
+      <headword id="d0e716">[gruaim]</headword>
+      <description>Bha gruaim orm. – I had a frown.</description>
+    </item>
+    <item>
+      <headword id="d0e725">caog (verb)</headword>
+      <description>wink. Chaog mi rithe. – I winked at her.</description>
+    </item>
+    <item>
+      <headword id="d0e734">briobail (verb)  (a’ briobal)</headword>
+      <description>blink.</description>
+    </item>
+    <item>
+      <headword id="d0e743">fiamh a’ ghaire</headword>
+      <description>smile.</description>
+    </item>
+    <item>
+      <headword id="d0e752">[gaire]</headword>
+      <description>Rinn mi gaire rithe. – I laughed at her.</description>
+    </item>
+    <item>
+      <headword id="d0e761">geanail</headword>
+      <description>friendly, smiley.</description>
+    </item>
+    <item>
+      <headword id="d0e770">gruamach</headword>
+      <description>gloomy.</description>
+    </item>
+    <item><headword id="d0e778" type="heading" level="h1">Clean and untidy</headword></item>
+    <item>
+      <headword id="d0e783">glan</headword>
+      <description>tidy.</description>
+    </item>
+    <item>
+      <headword id="d0e792">sgiobalta</headword>
+      <description>tidy.</description>
+    </item>
+    <item>
+      <headword id="d0e801">snasar</headword>
+      <description>tidy.</description>
+    </item>
+    <item>
+      <headword id="d0e810">snasmhór</headword>
+      <description>tidy.</description>
+    </item>
+    <item>
+      <headword id="d0e819">ròpach</headword>
+      <description>untidy.</description>
+    </item>
+    <item>
+      <headword id="d0e828">ròpag</headword>
+      <description>untidy female.</description>
+    </item>
+    <item>
+      <headword id="d0e837">ròpan</headword>
+      <description>untidy male.</description>
+    </item>
+    <item>
+      <headword id="d0e846">duine sèimh</headword>
+      <description>reserved, quiet and peaceful man.</description>
+    </item>
+    <item>
+      <headword id="d0e855">diùid</headword>
+      <description>shy.</description>
+    </item>
+  </items>
+</fieldworkDocument>

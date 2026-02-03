@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 27/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_SwordlyJMacKayslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>1969</date>
+  <fieldworker>[AJ Smith]</fieldworker>
+  <informant>
+    <nameEnglish>John MacKay</nameEnglish>
+    <age>c. 50-55</age>
+  </informant>
+  <location>Sutherland, Bettyhill, Swordly</location>
+  <items>
+    <item>
+      <headword id="idp117335928">leumnachan-uaine</headword>
+      <description>[lʹe:mṉɑ̃xɑṉ ũ̜ɑ̃nʹ] Notes: grasshopper.</description>
+    </item>
+    <item>
+      <headword id="idp117332760">lòineag</headword>
+      <description>Notes: snowflake.</description>
+    </item>
+    <item>
+      <headword id="idp117329592">lormadh</headword>
+      <description>[ɫɤɾəmu̜] Quotation: a’ lormadh nan caorach. Notes: dipping sheep.</description>
+    </item>
+    <item>
+      <headword id="idp117349032">meanbh-chuileag</headword>
+      <description>[mɑɾɑxu̟lɑɡ] Notes: midge.</description>
+    </item>
+    <item>
+      <headword id="idp117350760">roith</headword>
+      <description>[rɔi] Notes: tup lamb or ram.</description>
+    </item>
+    <item>
+      <headword id="idp117352488">sitearaich</headword>
+      <description>[ʃitʹəɾiç] Notes: neighing.</description>
+    </item>
+    <item>
+      <headword id="idp117354216">poc</headword>
+      <description>Quotation: am poc. Notes: liver fluke in sheep.</description>
+    </item>
+    <item>
+      <headword id="idp117355872">saidh</headword>
+      <description>[sɤi] Notes: bitch.</description>
+    </item>
+    <item>
+      <headword id="idp117357600">sgàireag</headword>
+      <description>[sɡɑ:ɾɑɡ] Notes: tern.</description>
+    </item>
+    <item>
+      <headword id="idp117359328">sgeilm</headword>
+      <description>[sɡʹɤləm] Notes: a chisel.</description>
+    </item>
+    <item>
+      <headword id="idp117361056">sgleò</headword>
+      <description>[sɡlɔ:] Quotation: pl. sgleothan [sɡlɔ:əṉ]. Notes: a cloud.</description>
+    </item>
+    <item>
+      <headword id="idp117929456">sìlt</headword>
+      <description>[ʃı:lʹtʹ] Notes: the bung in a boat. [t̪ɤu̜ɫʃı:lʹtʹ]: bunghole.</description>
+    </item>
+    <item>
+      <headword id="idp117931472">slat-mhara</headword>
+      <description>[sɫɑt̪vɑɾ] Notes: tangle.</description>
+    </item>
+    <item>
+      <headword id="idp117933200">snioghan</headword>
+      <description>[snʹw̃ɣɑ̃ṉ] Notes: ant.</description>
+    </item>
+    <item>
+      <headword id="idp117934928">speireag</headword>
+      <description>[spɤɾɑɡ] Notes: sparrow-hawk.</description>
+    </item>
+    <item>
+      <headword id="idp117936656">sporaidh</headword>
+      <description>[spɔɾi] Notes: sparrow.</description>
+    </item>
+    <item>
+      <headword id="idp117938384">strannail</headword>
+      <description>Notes: snorting (e.g. a horse).</description>
+    </item>
+    <item>
+      <headword id="idp117939896">stùcan</headword>
+      <description>Notes: a stook.</description>
+    </item>
+    <item>
+      <headword id="idp117941408">stùrdaidh</headword>
+      <description>[st̪u̜:ʴḏi] Notes: water on the brain in sheep, making them lose their sense of direction. [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+    <item>
+      <headword id="idp117943280">sùil-chruthaidh</headword>
+      <description>[su̟:lxɾu̜i] Notes: a boggy place.</description>
+    </item>
+    <item>
+      <headword id="idp117945008">tàl</headword>
+      <description>Notes: adze.</description>
+    </item>
+    <item>
+      <headword id="idp117946520">taoman</headword>
+      <description>[t̪w̃:mɑṉ] Notes: baler in a boat.</description>
+    </item>
+    <item>
+      <headword id="idp117948248">tarmachan</headword>
+      <description>[t̪ɑɾɑmɑxɑ̃ṉ] Notes: butterfly.</description>
+    </item>
+    <item>
+      <headword id="idp117949976">tàsg</headword>
+      <description>Notes: ghost.</description>
+    </item>
+    <item>
+      <headword id="idp117951488">teadhair</headword>
+      <description>[tʹʃɤɣəɾ] Notes: tether.</description>
+    </item>
+    <item>
+      <headword id="idp117953216">tìlleag (?)</headword>
+      <description>[tʹʃi:lʹɑɡ] Notes: a bee.</description>
+    </item>
+    <item>
+      <headword id="idp117954944">toraisgeil</headword>
+      <description>[t̪ɔɾɑʃɡʹəl] Notes: peat-cutting iron.</description>
+    </item>
+    <item>
+      <headword id="idp117956672">tòrnag</headword>
+      <description>[t̪ɔ:ʴṉɑɡ] Notes: a large boulder. [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+    <item>
+      <headword id="idp117958544">trom-chadal</headword>
+      <description>Notes: nightmare.</description>
+    </item>
+    <item>
+      <headword id="idp117960056">tudan</headword>
+      <description>[t̪u̟d̪ɑ̃ṉ] Notes: big round cornstack in yard.</description>
+    </item>
+    <item>
+      <headword id="idp117961784">acair</headword>
+      <description>Quotation: acair choirc. Notes: “hut” of corn on the field.</description>
+    </item>
+    <item>
+      <headword id="idp117963440">adhragag</headword>
+      <description>[ɤɾəɡɑɡ] Notes: lapwing.</description>
+    </item>
+    <item>
+      <headword id="idp117965168">alam-stoc</headword>
+      <description>[ɑɫɑmst̪ɔk] Notes: tiller.</description>
+    </item>
+    <item>
+      <headword id="idp117966896">arspag</headword>
+      <description>[ɑʴspɑɡ] Notes: black-backed gull. [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+    <item>
+      <headword id="idp117968768">bacan</headword>
+      <description>Notes: tethering pin.</description>
+    </item>
+    <item>
+      <headword id="idp117970280">banabhuisd</headword>
+      <description>[bɑ̃ṉɑvu̜ʃdʹ] Notes: witch.</description>
+    </item>
+    <item>
+      <headword id="idp117972008">bàrradh</headword>
+      <description>[bɑ:ru̜] Notes: thatch.</description>
+    </item>
+    <item>
+      <headword id="idp117973736">biathaidh</headword>
+      <description>Notes: earthworm.</description>
+    </item>
+    <item>
+      <headword id="idp117975248">bodach</headword>
+      <description>Notes: a cod.</description>
+    </item>
+    <item>
+      <headword id="idp117976760">bodach-snèip</headword>
+      <description>Notes: a scarecrow.</description>
+    </item>
+    <item>
+      <headword id="idp117978272">boireach</headword>
+      <description>[bɔɾɑx] Notes: a young seagull.</description>
+    </item>
+    <item>
+      <headword id="idp117980000">brù-lachdan</headword>
+      <description>[bɾu̜:ɫɑxɡɑ̃ṉ] Notes: a boggy place.</description>
+    </item>
+    <item>
+      <headword id="idp117981728">brutag</headword>
+      <description>Notes: caterpillar (yellow and brown variety).</description>
+    </item>
+    <item>
+      <headword id="idp117983240">bùdach</headword>
+      <description>Notes: a young nestling.</description>
+    </item>
+    <item>
+      <headword id="idp117984752">buisdeachd</headword>
+      <description>Notes: magic spell.</description>
+    </item>
+    <item>
+      <headword id="idp117986264">càrn</headword>
+      <description>Notes: cart.</description>
+    </item>
+    <item>
+      <headword id="idp117987776">cathall-dubh</headword>
+      <description>[kɑhəɫd̪u̟] Notes: blackbird.</description>
+    </item>
+    <item>
+      <headword id="idp117989504">ceann-dubhan</headword>
+      <description>[cɑ̃ũ̜n̪d̪u̟ɑ̃ṉ] Notes: black-headed gull.</description>
+    </item>
+    <item>
+      <headword id="idp117991232">cearc-tomain</headword>
+      <description>[cɛɾkt̪omɑ̃nʹ] Notes: partridge.</description>
+    </item>
+    <item>
+      <headword id="idp117992960">clacharan</headword>
+      <description>Notes: stonechat.</description>
+    </item>
+    <item>
+      <headword id="idp117994472">cloimh</headword>
+      <description>[kɫũ̜ɑ̃ı] Notes: wool.</description>
+    </item>
+    <item>
+      <headword id="idp117996200">crasgan</headword>
+      <description>Notes: starfish.</description>
+    </item>
+    <item>
+      <headword id="idp117997712">creileag</headword>
+      <description>[kɾɛlɑɡ] Notes: cleg.</description>
+    </item>
+    <item>
+      <headword id="idp117999440">cròdhadh</headword>
+      <description>[kɾɔ:u̜] Quotation: a’ cròdhadh. Notes: taking the harvest home.</description>
+    </item>
+    <item>
+      <headword id="idp118001312">cuingean</headword>
+      <description>[ku̜ıŋʹɡʹɑ̃ṉ] Notes: nostril.</description>
+    </item>
+    <item>
+      <headword id="idp118003328">dàmhan-allaidh</headword>
+      <description>[d̪ɑ̃:vɑnɑɫi] Notes: spider.</description>
+    </item>
+    <item>
+      <headword id="idp118005056">deich</headword>
+      <description>Quotation: a’ deanamh “deichean”. Notes: making stooks of ten sheaves. 8 sheaves the usual number.</description>
+    </item>
+    <item>
+      <headword id="idp118006712">deit</headword>
+      <description>[dʹɛtʹ] Notes: lamb about one year old.</description>
+    </item>
+    <item>
+      <headword id="idp118008440">dìg</headword>
+      <description>[dʹʒı:ɡʹ] Notes: a dyke.</description>
+    </item>
+    <item>
+      <headword id="idp118010168">drideach-dubh</headword>
+      <description>[d̪ɾıdʹɑxd̪u̟] Notes: starling.</description>
+    </item>
+    <item>
+      <headword id="idp118011896">fàldair</headword>
+      <description>Notes: scythe.</description>
+    </item>
+    <item>
+      <headword id="idp118013408">feileastair</headword>
+      <description>[feləst̪ɑɾ] Notes: wild iris, sometimes used for thatching.</description>
+    </item>
+    <item>
+      <headword id="idp118015136">feurtainn</headword>
+      <description>[fjɑ:ʴṯĩnʹ] Notes: warble fly.</description>
+    </item>
+    <item>
+      <headword id="idp118016864">gainmheach</headword>
+      <description>[ɡɑ̃ṉɑvɑx] Notes: sand.</description>
+    </item>
+    <item>
+      <headword id="idp118018592">gath-muing</headword>
+      <description>[ɡɑmũĩ] Notes: mane.</description>
+    </item>
+    <item>
+      <headword id="idp118020320">gearra-breac</headword>
+      <description>[ɡʹɑrəbɾɛk] Notes: oyster-catcher.</description>
+    </item>
+    <item>
+      <headword id="idp118022048">gobhar-adhair</headword>
+      <description>[ɡoɾɑəɾ] Notes: snipe.</description>
+    </item>
+    <item>
+      <headword id="idp118023776">gobhlachan</headword>
+      <description>[ɡo:ɫɑxɑ̃ṉ] Notes: earwig.</description>
+    </item>
+    <item>
+      <headword id="idp118025504">góbhrag</headword>
+      <description>Notes: haycock.</description>
+    </item>
+    <item>
+      <headword id="idp118027016">goraidh-goirtein</headword>
+      <description>[ɡɔɾıɡɔʴsṯɑṉ] Notes: corncrake. [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+    <item>
+      <headword id="idp118028888">gort</headword>
+      <description>[ɡɔʴsṯ] Quotation: Tha a’ ghort a muigh. Notes: corn. [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+    <item>
+      <headword id="idp118030904">guaran (sic)</headword>
+      <description>[ɡu̜ɤɾɑ̃ṉ] Notes: the thistle.</description>
+    </item>
+  </items>
+</fieldworkDocument>

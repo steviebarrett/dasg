@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 5 2 15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="DRMorrisonetal_ScalpayDRMorrisonmisc14" docType="wordlist" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>[1975 on the slips]</date>
+  <fieldworker>[self]</fieldworker>
+  <informant>
+    <nameEnglish>Donald R. Morrison</nameEnglish>
+    <nameGaelic>Dòmhnall R. Moireasdan</nameGaelic>
+    <age>[55]</age>
+  </informant>
+  <location>Na Hearadh, Scalpaigh [Harris, Scalpay]</location>
+  <items>
+    <item>
+      <headword id="idola377" type="heading" level="h1">Word-list (‘Faclair’)</headword>
+    </item>
+    <item>
+      <headword id="idola378" type="heading" level="h2">“Pattern”</headword>
+    </item>
+    <item>
+      <headword id="idp118832504">Tarcull neo targull</headword>
+      <description>local place-name. (I can only guess in this instance towards the meaning of some of our local place-names.)</description>
+    </item>
+    <item>
+      <headword id="idp118823576">sgoine</headword>
+      <description>scone, bread.</description>
+    </item>
+    <item>
+      <headword id="idp118846472">moileadh</headword>
+      <description>rinse carelessly.</description>
+    </item>
+    <item>
+      <headword id="idp118847984">boileadh</headword>
+      <description>fragrance.</description>
+    </item>
+    <item>
+      <headword id="idp118851800">froineadh</headword>
+      <description>shake.</description>
+    </item>
+    <item>
+      <headword id="idp118853744">moineadh</headword>
+      <description>moorland or moor.</description>
+    </item>
+    <item>
+      <headword id="idp118856408">goineadh</headword>
+      <description>sting.</description>
+    </item>
+    <item>
+      <headword id="idp118858496">shaibhigeadh</headword>
+      <description>shaving.</description>
+    </item>
+    <item>
+      <headword id="idp118860080">saibheadh</headword>
+      <description>shaving (in Scalpay).</description>
+    </item>
+    <item>
+      <headword id="idp118862456">sàibheadh</headword>
+      <description>sawing.</description>
+    </item>
+    <item>
+      <headword id="idp118865192">stiuradh</headword>
+      <description>steering.</description>
+    </item>
+    <item>
+      <headword id="idp118865768">càrnadh</headword>
+      <description>hoarding.</description>
+    </item>
+    <item>
+      <headword id="idp118868216">bànag</headword>
+      <description>grilse.</description>
+    </item>
+    <item>
+      <headword id="idp118870880">càrnag</headword>
+      <description>eel.</description>
+    </item>
+    <item>
+      <headword id="idp118768928">ceàrnag</headword>
+      <description>small square.</description>
+    </item>
+    <item>
+      <headword id="idp118888736">mial-mhàgag</headword>
+      <description>toad.</description>
+    </item>
+    <item>
+      <headword id="idp118886432">mial-mhagach</headword>
+      <description>toad.</description>
+    </item>
+    <item>
+      <headword id="idp118882904">spàgach</headword>
+      <description>club-footed.</description>
+    </item>
+    <item>
+      <headword id="idp118876496">crònan</headword>
+      <description>croon.</description>
+    </item>
+    <item>
+      <headword id="idp118874048">lònan</headword>
+      <description>little marsh.</description>
+    </item>
+    <item>
+      <headword id="idp120763136">luinneag</headword>
+      <description>ditty.</description>
+    </item>
+    <item>
+      <headword id="idp120764864">cruinneag</headword>
+      <description>girl.</description>
+    </item>
+    <item>
+      <headword id="idp120766376">luideag</headword>
+      <description>small rag.</description>
+    </item>
+	<item>
+	  <headword id="idp118850144">[note]</headword>
+	  <description>(Couldn’t it be done in this suggested, by me, attempt – noun, adj, adv, (diminutive), tenses – as I am not sure this is the way you want it done.)</description>
+	</item>
+  </items>
+</fieldworkDocument>

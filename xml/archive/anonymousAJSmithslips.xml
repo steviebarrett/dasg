@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 5/8/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_anonymousAJSmithslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>1960s, 1970s</date>
+  <fieldworker>AJ Smith?</fieldworker>
+  <note>[NOTES: in IPA transcriptions, the fieldworker uses [w] for [ɯ].]</note>
+
+  <informant>
+    <nameEnglish>anonymous</nameEnglish>
+  </informant>
+  <items>
+    <item>
+      <headword id="idp167358488">sabhal</headword>
+      <description>Quotation: “Is lom ’s is fuar an sabhal a’ chreag.” Notes: “Bare and cold the barn is the rock.” Insecurity of fishing.</description>
+    </item>
+    <item>
+      <headword id="idp167360216">socharach</headword>
+      <description>Quotation: Is miosa an t-socharach na mheàrla. Notes: The man who is easily led would be liable to give everything away.</description>
+    </item>
+    <item>
+      <headword id="idp167361872">speileabhais (?)</headword>
+      <description>[speləvɑʃ] Quotation: “Dé a’ [speləvɑʃ] a th’ort?” “Na bith [speləvɑʃ] ris.” Nach ann annad a tha a’ [speləvɑʃ]. Notes: said to a person picking at his food, having very little appetite.</description>
+    </item>
+    <item>
+      <headword id="idp167364608">stèic</headword>
+      <description>Quotation: na stèicean [ʃtʹʃɛ:çcəṉ] [?]. Notes: Two posts, curved near the bottom and almost coming together. One could be swung out to admit the head and horns of a Highland cow. The post was then restored to its upright position and a loop of rope, one end of which was attached to the top of the freed post, was slipped over it. Usually found on big farms.</description>
+    </item>
+    <item>
+      <headword id="idp167366552">uisge</headword>
+      <description>Quotation: Cha rachadh e’n uisge na stiùireach do’n fhear a bh’againn roimhe. Notes: He was poor in comparison with the one we had last year.</description>
+    </item>
+    <item>
+      <headword id="idp167368208">ùmaire</headword>
+      <description>[ũ:məðə] Notes: a dour person.</description>
+    </item>
+    <item>
+      <headword id="idp167369936">mach</headword>
+      <description>Quotation: “Tha e cho glic mach o nach eil e a’ bruidhinn.” Notes: “He is so wise he almost talks.” Said of an animal.</description>
+    </item>
+    <item>
+      <headword id="idp167371664">bàrr-lig</headword>
+      <description>[bɑ:rlʹıɡʹ] Quotation: a’ bhàrr-lig. Notes: slight ripple on water.</description>
+    </item>
+    <item>
+      <headword id="idp167373536">bàs</headword>
+      <description>Quotation: bàs a’ chinn adhairt. Notes: death in bed.</description>
+    </item>
+    <item>
+      <headword id="idp167375192">beingidh</headword>
+      <description>Quotation: a’ bheingidh. “Tha e ’na shuidhe air a’ bheingidh.” – when getting out of bed. Notes: the front board of a bed.</description>
+    </item>
+    <item>
+      <headword id="idp167376848">bodraigeadh</headword>
+      <description>Quotation: Cha bhiodh ann ach bodraigeadh. Cha bhodraiginn. Notes: bother, bothering.</description>
+    </item>
+    <item>
+      <headword id="idp167378576">ceathramh</headword>
+      <description>Quotation: na ceathrannan. Notes: 6 sections of wood in wheel with two spokes in each (the felloes?).</description>
+    </item>
+    <item>
+      <headword id="idp167380232">ciod</headword>
+      <description>Quotation: ciod thuige? [ɡwt̪wɡʹə] Notes: why?</description>
+    </item>
+    <item>
+      <headword id="idp167382104">clàbhair</headword>
+      <description>[klɛ:vəɾ] Quotation: Bha iad a’ clàbhair. Notes: they were gossiping. [NOTES: slipped under ‘clèabhair’.]</description>
+    </item>
+    <item>
+      <headword id="idp167384120">creag</headword>
+      <description>Quotation: Is lom’s [sic] is fuar an sabhal [sɑvɑɫ] a’ chreag. Notes: “Bare and cold the barn is the rock.” Insecurity of fishing.</description>
+    </item>
+    <item>
+      <headword id="idp167386064">croga</headword>
+      <description>[kɾɔ̃ɡə] Notes: jar.</description>
+    </item>
+    <item>
+      <headword id="idp167387792">cuimhneach</headword>
+      <description>Quotation: Cho fad’s is cuimhneach leam. Notes: As far as I can remember.</description>
+    </item>
+    <item>
+      <headword id="idp167389448">cuir-bhiodag</headword>
+      <description>[ku̜ɾvid̪ɑɡ] Quotation: Chaneil mi dol a mach tuilleadh ged a bhiodh cuir-bhiodag ann. Notes: weather – talking about taking the calves in from the cold wind and rain.</description>
+    </item>
+    <item>
+      <headword id="idp167391320">currachd</headword>
+      <description>[ku̟rɑxk] Quotation: Is iomadh ceann théid an currachd mu’n tig an ath Nollaig. Notes: Many will pass away before next Christmas. [NOTES: slipped under ‘currac’.]</description>
+    </item>
+    <item>
+      <headword id="idp167393336">déidheadh</headword>
+      <description>Quotation: a’ [dʹe:əɣ] “Chaneil i ach air [dʹe:əɣ].” Notes: shrink, as wood in a barrel or boat due to heat.</description>
+    </item>
+  </items>
+</fieldworkDocument>

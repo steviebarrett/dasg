@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 5/8/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_ApplecrossKMacDonaldslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>1980, 1988</date>
+  <informant>
+    <nameEnglish>Rev. K. MacDonald</nameEnglish>
+    <origin>Garrabost</origin>
+  </informant>
+  <location>Applecross</location>
+  <items>
+    <item>
+      <headword id="idp167433368">mulad</headword>
+      <description>Notes: birth labour in animals or humans.</description>
+    </item>
+    <item>
+      <headword id="idp167348336">sgleòtag</headword>
+      <description>Notes: young cole fish = smalag in series cudaig, smalag, saoidhean, ucas.</description>
+    </item>
+    <item>
+      <headword id="idp167399816">traille</headword>
+      <description>Notes: tusk fish.</description>
+    </item>
+    <item>
+      <headword id="idp167402984">turbaid</headword>
+      <description>Notes: halibut (Garrabost).</description>
+    </item>
+    <item>
+      <headword id="idp167348768">beingean</headword>
+      <description>son-in-law who married to get possession of property. (West Lewis usage)</description>
+    </item>
+    <item>
+      <headword id="idp167339912">buigneag</headword>
+      <description>Notes: a ‘softy’.</description>
+    </item>
+    <item>
+      <headword id="idp167397008">càrnag</headword>
+      <description>Notes: eel, easgann.</description>
+    </item>
+    <item>
+      <headword id="idp167394632">càrnaidh</headword>
+      <description>Notes: small cod. ‘Bodach ruadh beag’. (Garrabost)</description>
+    </item>
+    <item>
+      <headword id="idp167391104">glasag</headword>
+      <description>Notes: Garrabost word for cod roe.</description>
+    </item>
+  </items>
+</fieldworkDocument>

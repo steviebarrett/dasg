@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 5 4 14 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="WoolworkingandFishing_ArdhasaigDJMacLeodwool" docType="questionnaire" subType="TheAutobiographyOfAFleece" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Obair na Clòimhe / Wool-Working</title>
+  <date>April 1962</date>
+  <fieldworker>self</fieldworker>
+  <note>[NOTES: the original title of the list is “The Autobiography of a Fleece”.]</note>
+  <note>[NOTES: one word contributed by ‘Mrs MacLeod, Ardhasaig, brought up Kyles, Harris, 75 yr old’ and one by ‘Mrs MacDonald, Bays Harris, br. up Scalpay’. See below for details.]</note>
+  <note>[NOTES: the person who wrote down in red ink the date and location also made a few additions to the text itself: mostly question marks next to illegible words.]</note>
+  <informant>
+    <nameEnglish>Donald John MacLeod</nameEnglish>
+  </informant>
+  <location>Harris, Ardhasaig</location>
+  <items>
+    <item>
+      <headword id="d0e36">smiùradh</headword>
+      <description>process of ‘shedding’ – parting the wool of the sheep and inserting a paste of Archangel tar and ‘eòlan’ [q.v.] (about mid-winter). [Mrs MacLeod]</description>
+    </item>
+    <item>
+      <headword id="d0e45">eòlan</headword>
+      <description>oil made of the livers of fish by boiling them in a large pot; used for ‘smiùradh’ [q.v.]. [Mrs MacDonald]</description>
+    </item>
+    <item>
+      <headword id="d0e54">bearradh</headword>
+      <description>cutting the tips of the wool off year-old lambs at shearing-time.</description>
+    </item>
+    <item>
+      <headword id="d0e63">sealbhag</headword>
+      <description>a ‘binder’ used in dyeing wool and made of the roots of the ‘cuiseag’.</description>
+    </item>
+    <item>
+      <headword id="d0e72">cìreadh</headword>
+      <description>combing the wool.</description>
+    </item>
+    <item>
+      <headword id="d0e81">colmadh</headword>
+      <description>mixing wools of different colours.</description>
+    </item>
+    <item>
+      <headword id="d0e90">ath-cholmadh</headword>
+      <description>re-mixing the wools when many different colours were required.</description>
+    </item>
+    <item>
+      <headword id="d0e99">càrdadh</headword>
+      <description>carding the wool. ‘Eòlan’ [q.v.] – oil added to the wool at this stage.</description>
+    </item>
+    <item>
+      <headword id="d0e108">rolagan</headword>
+      <description>rolled wool.</description>
+    </item>
+    <item>
+      <headword id="d0e117">cuigeall</headword>
+      <description>distaff.</description>
+    </item>
+    <item>
+      <headword id="d0e126">biurna</headword>
+      <description>reel.</description>
+    </item>
+    <item>
+	  <headword id="d0e135">[cuibheal-shnìomh]</headword>
+	  <description><illustration src="ArdhasaigDJMacLeodwoolillust1.jpg" width="500"/>The reel of a ‘cuibheal-shnìomh’:</description>
+	</item>
+    <item>
+      <headword id="d0e145">fiaclan</headword>
+      <description>[See the illustration under ‘cuibheal-shnìomh’.]</description>
+    </item>
+    <item>
+      <headword id="d0e154">roileir</headword>
+	  <description>[See the illustration under ‘cuibheal-shnìomh’.]</description>
+    </item>
+    <item>
+      <headword id="d0e163">deil</headword>
+      <description>spindle. [See the illustration under ‘cuibheal-shnìomh’.]</description>
+    </item>
+    <item>
+      <headword id="d0e172">sèicle</headword>
+	  <description>[See the illustration under ‘cuibheal-shnìomh’.]</description>
+    </item>
+    <item>
+      <headword id="d0e181">biurna</headword>
+	  <description>[See the illustration under ‘cuibheal-shnìomh’.]</description>
+    </item>
+    <item>
+      <headword id="d0e190">rèim</headword>
+      <description>the big ‘wheel’ of a spinning-wheel.</description>
+    </item>
+    <item>
+      <headword id="d0e199">siol-coise</headword>
+      <description>peddle [sic].</description>
+    </item>
+    <item>
+      <headword id="d0e208">bann-beag</headword>
+      <description>band tied round ‘roileir’ of the reel and part of the frame of spinning wheel to regulate speed of reel.</description>
+    </item>
+    <item>
+      <headword id="d0e217">acfhuinn-mheadhain</headword>
+      <description>spindle of big wheel.</description>
+    </item>
+    <item>
+      <headword id="d0e226">gairdeanan</headword>
+      <description>two supports of big wheel.</description>
+    </item>
+    <item>
+      <headword id="d0e235">slibheag</headword>
+      <description>connecting rod between big wheel and pedal.</description>
+    </item>
+    <item>
+      <headword id="d0e244">àireamh</headword>
+      <description>5 ‘snàdhlain’.</description>
+    </item>
+    <item>
+      <headword id="d0e253">crois-iarna</headword>
+      <description><illustration src="ArdhasaigDJMacLeodwoolillust2.jpg" width="200"/></description>
+    </item>
+    <item>
+      <headword id="d0e262">slat Ghaidhealach</headword>
+      <description>the length of wool that fills the ‘crois-iarna’ [q.v.] once (about 9 feet).</description>
+    </item>
+    <item>
+      <headword id="d0e271">croiseadh</headword>
+      <description>the practice of using the ‘crois-iarna’ [q.v.].</description>
+    </item>
+    <item>
+      <headword id="d0e280">slat shingilte</headword>
+      <description>slat Ghaidhealach [q.v.].</description>
+    </item>
+    <item>
+      <headword id="d0e289">slat dhùbailte</headword>
+      <description>2 fills of the ‘iarna’ (18 feet).</description>
+    </item>
+    <item>
+      <headword id="d0e298">iarna</headword>
+      <description>a hand of wool.</description>
+    </item>
+    <item>
+      <headword id="d0e307">beart-dhealbh</headword>
+    </item>
+    <item>
+      <headword id="d0e313">dealbh</headword>
+      <description>the process of using the above [i.e. ‘beart-dhealbh’].</description>
+    </item>
+    <item>
+      <headword id="d0e322">croisan</headword>
+      <description>[?] the way in which the ends of the wool were arranged on the ‘beart-dhealbh’ for convenience.</description>
+    </item>
+    <item>
+      <headword id="d0e332">fuainean</headword>
+      <description>the pins on the ‘beart-dhealbh’.</description>
+    </item>
+    <item>
+      <headword id="d0e341">innodh</headword>
+      <description>scarcity of some type or colour of wool.</description>
+    </item>
+    <item>
+      <headword id="d0e350">fidheachan</headword>
+      <description>[?] a way of binding the ‘rope’ of threads coming off the ‘beart-dhealbh’ so as to avoid untidiness.</description>
+    </item>
+	<item>
+	  <headword id="idola223">[note]</headword>
+	  <description>[NOTES: the three words, ‘croisan’, ‘fuainean’ and ‘fidheachan’, have been made unclear by corrections apparently made by the informant himself. The person who edited the list put question marks next to them.]</description>
+	</item>  
+    <item>
+      <headword id="d0e368">cuibeanachadh</headword>
+      <description>binding the wood [sic] [wool?] to the loom, or more particularly to the ‘slat-fhuidheag’. It is bound by inserting this slat into the first loop of the ‘croisean’ and a string later bound to both ends of the slat is passed through the second loop. The first loop is known in Ardhasaig as ‘croisean ceàrr’ and the second as ‘croisean deiseil’.</description>
+    </item>
+    <item>
+      <headword id="d0e377">beartachadh</headword>
+      <description>inserting the wool into the loom before weaving.</description>
+    </item>
+    <item>
+      <headword id="d0e386">cur</headword>
+      <description>weft.</description>
+    </item>
+    <item>
+      <headword id="d0e395">dlùth</headword>
+      <description>warp.</description>
+    </item>
+    <item>
+      <headword id="d0e404">casachan</headword>
+      <description>the parts of a loom worked by the feet. Casachain mhora –  the actual pedal. Casachain mheadhain – the connecting rods by which the further end of these is bound to the loom itself. Casachain bheaga – the parts of the loom at the top which are directly connected to the bottom ‘casachain’.</description>
+    </item>
+    <item>
+      <headword id="d0e413">crann-snadh</headword>
+      <description>roller round which wool is first wound.</description>
+    </item>
+    <item>
+      <headword id="d0e422">iomallan</headword>
+      <description>heddles.</description>
+    </item>
+    <item>
+      <headword id="d0e431">clàr</headword>
+      <description>one heddle.</description>
+    </item>
+    <item>
+      <headword id="d0e440">rèla</headword>
+      <description>a long rod with teeth (fiaclan) which keeps the wool going to the heddles well spread.</description>
+    </item>
+    <item>
+      <headword id="d0e449">slìn</headword>
+      <description>a similar contraption after the heddles through whose ‘sùilean’ the wool passes, either with one or two threads to each ‘sùil’ as the pattern requires.</description>
+    </item>
+    <item>
+      <headword id="d0e458">sùil</headword>
+      <description>the opening in the ‘iomallan’ [q.v.] and in the ‘slìn’ [q.v.].</description>
+    </item>
+    <item>
+      <headword id="d0e467">slat-chuibean</headword>
+      <description>the rod on which the ends of the wool are tied after passing through the ‘slìn’ [q.v.].</description>
+    </item>
+    <item>
+      <headword id="d0e476">dlò</headword>
+      <description>after 40 threads taken together and which are divided into two, which are then passed over different sides of the ‘slat-chuibean’ [q.v.] and tied.</description>
+    </item>
+    <item>
+      <headword id="d0e485">slinechlar</headword>
+      <description>the long block of wood of which the ‘slìn’ [q.v.] is part.</description>
+    </item>
+    <item>
+      <headword id="d0e494">caraman-uchd</headword>
+      <description>the spar in front of the weaver’s breast and just level with it, probably there for him to lean on.</description>
+    </item>
+    <item>
+      <headword id="d0e503">spàl</headword>
+      <description>shuttle.</description>
+    </item>
+    <item>
+      <headword id="d0e512">urchair</headword>
+      <description>a shot of the ‘spàl’ [q.v.].</description>
+    </item>
+    <item>
+      <headword id="d0e521">iteachan</headword>
+      <description>wooden bobbin, or spool.</description>
+    </item>
+    <item>
+      <headword id="d0e530">òrd</headword>
+      <description>the part that ‘projects’ the ‘spàl’ [q.v.].</description>
+    </item>
+    <item>
+      <headword id="d0e539">mìl-àroidh</headword>
+      <description>[?] the instrument which is used to stretch the tweed and keep its edges straight as it comes off the loom. [NOTES: A question mark in red ink added by the person who edited the list.]</description>
+    </item>
+    <item>
+      <headword id="d0e548">an crann-aodaich</headword>
+      <description>(often known merely as ‘an crann’) – the spool on which the finished cloth goes.</description>
+    </item>
+    <item>
+      <headword id="d0e557">lunn</headword>
+      <description>used for waulking and consisting of washing-soda, melted soap and warm water.</description>
+    </item>
+    <item>
+      <headword id="d0e566">soluis</headword>
+      <description>melted soap.</description>
+    </item>
+    <item>
+      <headword id="d0e575">armadh</headword>
+      <description>the oil and grease put into wool when carding and sometimes also known as ‘eòlan’ [q.v.].</description>
+    </item>
+    <item>
+      <headword id="d0e584">coinneal</headword>
+      <description>bole of tweed (after waulking).</description>
+    </item>
+    <item>
+      <headword id="d0e593">cinn</headword>
+      <description>loose ends appearing on the surface of a tweed.</description>
+    </item>
+    <item>
+      <headword id="d0e602">ball is coran</headword>
+      <description>herring-bone pattern.</description>
+    </item>
+    <item>
+      <headword id="d0e611">sùil-eòin</headword>
+      <description>birdseye weave.</description>
+    </item>
+    <item>
+      <headword id="d0e620">ball</headword>
+      <description>a single check or the part of the tweed contained within one check.</description>
+    </item>
+  </items>
+</fieldworkDocument>

@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 10 6 13 -->
+<fieldworkDocument docId="Agriculture_EdinburghSCUrquhartaiteach" docType="questionnaire" subType="Iteach">
+  <title>Àiteach / Agriculture</title>
+  <date>[1975 – see the two letters attached to the questionnaire]</date>
+  <fieldworker>[self]</fieldworker>
+  <informant>
+    <nameEnglish>Sarah Clementina Urquhart</nameEnglish>
+    <age>80+</age>
+    <origin>Bràigh-Lochabar [Brae Lochaber]</origin>
+  </informant>
+  <location>Edinburgh</location>
+  <items>
+    <item><headword id="d0e31" type="heading" level="h1">1. Na togalaichean: sobhal, bàthach is mar sin, agus ainm gach pàirt dhiubh</headword></item>
+    <item>
+      <headword id="d0e36">am bàthaich</headword>
+      <description>the byre.</description>
+    </item>
+    <item>
+      <headword id="d0e45">mullach an taighe</headword>
+      <description>the roof.</description>
+    </item>
+    <item>
+      <headword id="d0e54">na sgliadan</headword>
+      <description>the slates.</description>
+    </item>
+    <item>
+      <headword id="d0e63">an crò, na cròthan</headword>
+      <description>the stall, the stalls.</description>
+    </item>
+    <item>
+      <headword id="d0e72">an ceangal</headword>
+      <description>the fastening in the stall.</description>
+    </item>
+    <item>
+      <headword id="d0e81">an teothair</headword>
+      <description>the rope tied round the hind legs to prevent kicks, also a tether in a field.</description>
+    </item>
+    <item>
+      <headword id="d0e90">an dorus</headword>
+      <description>the door.</description>
+    </item>
+    <item>
+      <headword id="d0e99">bith an doruis</headword>
+      <description>the space between the hinged side of the door and the wall.</description>
+    </item>
+    <item>
+      <headword id="d0e108">an ursainn</headword>
+      <description>the wooden frame of the doorway.</description>
+    </item>
+    <item>
+      <headword id="d0e117">an sabhull</headword>
+      <description>the barn.</description>
+    </item>
+    <item>
+      <headword id="d0e126">am fiar</headword>
+      <description>the hay.</description>
+    </item>
+    <item>
+      <headword id="d0e135">am fàradh</headword>
+      <description>the ladder.</description>
+    </item>
+    <item>
+      <headword id="d0e144">an iodhlann</headword>
+      <description>the space fenced off for hay and corn stacks.</description>
+    </item>
+    <item>
+      <headword id="d0e153">sguab arbhair</headword>
+      <description>a corn sheaf.</description>
+    </item>
+    <item>
+      <headword id="d0e162">cruach arbhair</headword>
+      <description>stack of corn.</description>
+    </item>
+    <item>
+      <headword id="d0e171">cruach fhèoir</headword>
+      <description>[sic] stack of hay.</description>
+    </item>
+    <item>
+      <headword id="d0e180">tigh nan cearc</headword>
+      <description>the hen-house.</description>
+    </item>
+    <item>
+      <headword id="d0e189">spiris is nid</headword>
+      <description>roosts and nests.</description>
+    </item>
+    <item>
+      <headword id="d0e198">piob-uisge is tuba airson a chruidh</headword>
+      <description>water tap and tub for the cattle.</description>
+    </item>
+    <item>
+      <headword id="d0e207">an dún</headword>
+      <description>the midden.</description>
+    </item>
+    <item>
+      <headword id="d0e216">cartadh a’ bhàthaich</headword>
+      <description>cleaning out the byre.</description>
+    </item>
+    <item>
+      <headword id="d0e225">an taigh-bhainne</headword>
+      <description>the dairy.</description>
+    </item>
+    <item>
+      <headword id="d0e234">sgeilpean airson na mìosan-bainne</headword>
+      <description>shelves to accommodate the milk-basins.</description>
+    </item>
+    <item>
+      <headword id="d0e243">an siolachan</headword>
+      <description>the sieve.</description>
+    </item>
+    <item>
+      <headword id="d0e252">bainne math</headword>
+      <description>sweet milk.</description>
+    </item>
+    <item>
+      <headword id="d0e261">bainne goirt</headword>
+      <description>sour milk.</description>
+    </item>
+    <item>
+      <headword id="d0e270">an t-uachdar</headword>
+      <description>cream.</description>
+    </item>
+    <item>
+      <headword id="d0e279">am muighe</headword>
+      <description>the churn.</description>
+    </item>
+    <item>
+      <headword id="d0e288">am fuarag</headword>
+      <description>cream after a short period of churning was a very desirable drink.</description>
+    </item>
+    <item>
+      <headword id="d0e297">am blàthach</headword>
+      <description>buttermilk.</description>
+    </item>
+    <item>
+      <headword id="d0e306">ìm úr</headword>
+      <description>fresh butter.</description>
+    </item>
+    <item>
+      <headword id="d0e315">ìm sàilt</headword>
+      <description>salt butter.</description>
+    </item>
+    <item>
+      <headword id="d0e324">a’ bhinid</headword>
+      <description>rennet.</description>
+    </item>
+    <item>
+      <headword id="d0e333">an grudh</headword>
+      <description>croudy [sic].</description>
+    </item>
+    <item>
+      <headword id="d0e342">an gruidheam</headword>
+      <description>croudy [sic].</description>
+    </item>
+    <item>
+      <headword id="d0e351">an slaman</headword>
+      <description>curds.</description>
+    </item>
+    <item>
+      <headword id="d0e360">am méog</headword>
+      <description>whey.</description>
+    </item>
+    <item>
+      <headword id="d0e369">am fiodhan</headword>
+      <description>the cheese press.</description>
+    </item>
+    <item>
+      <headword id="d0e378">mulchag (f) chàise</headword>
+      <description>a cheese.</description>
+    </item>
+    <item>
+      <headword id="d0e387">am fuaran</headword>
+      <description>the well.</description>
+    </item>
+    <item>
+      <headword id="d0e396">an t-allt</headword>
+      <description>the burn.</description>
+    </item>
+    <item>
+      <headword id="d0e405">an t-srúlag</headword>
+      <description>the little burn.</description>
+    </item>
+    <item>
+      <headword id="d0e414">an geata</headword>
+      <description>the gate.</description>
+    </item>
+    <item>
+      <headword id="d0e423">an cachila</headword>
+      <description>(English ‘l’) A gate contrived by slipping a thick stick or two through loops on each side of a wall or dyke.</description>
+    </item>
+    <item><headword id="d0e431" type="heading" level="h1">2. A’ mathachadh no a’ leasachadh na talmhainn</headword></item>
+    <item>
+      <headword id="d0e436">inneir</headword>
+      <description>manure.</description>
+    </item>
+    <item><headword id="d0e444" type="heading" level="h1">3. A’ treabhadh no a’ ruamhar: an crann agus ainm gach pàirt dheth</headword></item>
+    <item><headword id="d0e448" type="heading" level="h1">4. Innealan beaga leithid spaid, gràp, ràcan is mar sin</headword></item>
+    <item>
+      <headword id="d0e453">an corran</headword>
+      <description>the sickle.</description>
+    </item>
+    <item>
+      <headword id="d0e462">a’ ghràib</headword>
+      <description>the graip.</description>
+    </item>
+    <item>
+      <headword id="d0e471">a’ chlach-ghiaraichidh</headword>
+      <description>the whetting stone.</description>
+    </item>
+    <item>
+      <headword id="d0e480">an ràcan (maide)</headword>
+      <description>the rake.</description>
+    </item>
+    <item>
+      <headword id="d0e489">am faobhar</headword>
+      <description>the cutting edge of knife / (scythe?).</description>
+    </item>
+    <item><headword id="d0e497" type="heading" level="h1">5. Acfhuinn an eich airson gach seòrsa obair</headword></item>
+    <item>
+      <headword id="d0e502">diollaid</headword>
+      <description>saddle.</description>
+    </item>
+    <item><headword id="d0e510" type="heading" level="h1">6. A’ cur an t-sìl</headword></item>
+    <item>
+      <headword id="d0e515">an talamh</headword>
+      <description>the ground.</description>
+    </item>
+    <item>
+      <headword id="d0e524">an dail</headword>
+      <description>the field.</description>
+    </item>
+    <item>
+      <headword id="d0e533">an achadh</headword>
+      <description>the field.</description>
+    </item>
+    <item>
+      <headword id="d0e542">an iomaire</headword>
+      <description>a field (?) in the run-rig system.</description>
+    </item>
+    <item>
+      <headword id="d0e551">an t-slochd</headword>
+      <description>low land with high ground in the immediate vicinity.</description>
+    </item>
+    <item>
+      <headword id="d0e560">an comhnard</headword>
+      <description>level ground. [NOTES: the last item in pencil and hardly visible; maybe it was meant to be erased like the one below it.]</description>
+    </item>
+    <item><headword id="d0e568" type="heading" level="h1">7. A’ buain agus a’ tiormachadh an arbhair no an fheòir</headword></item>
+    <item>
+      <headword id="d0e573">am fàladair</headword>
+      <description>the scythe.</description>
+    </item>
+    <item>
+      <headword id="d0e582">an soc</headword>
+      <description>the front part of the scythe.</description>
+    </item>
+    <item>
+      <headword id="d0e591">an corran</headword>
+      <description>the sickle.</description>
+    </item>
+    <item>
+      <headword id="d0e600">am fiar</headword>
+      <description>the hay.</description>
+    </item>
+    <item>
+      <headword id="d0e609">na prabagan</headword>
+      <description>very small bundles of new mown hay laid on the ground to dry.</description>
+    </item>
+    <item>
+      <headword id="d0e618">sguab arbhair</headword>
+      <description>a sheaf of corn.</description>
+    </item>
+    <item>
+      <headword id="d0e627">adag</headword>
+      <description>a corn stook.</description>
+    </item>
+    <item>
+      <headword id="d0e636">a’ chruach arbhair</headword>
+      <description>corn stack.</description>
+    </item>
+    <item>
+      <headword id="d0e645">ultach fhèoir</headword>
+      <description>[sic] a bundle of hay.</description>
+    </item>
+    <item>
+      <headword id="d0e654">eallach fhèoir</headword>
+      <description>[sic] a load of hay.</description>
+    </item>
+    <item>
+      <headword id="d0e663">am fochunn</headword>
+      <description>young growing corn.</description>
+    </item>
+    <item>
+      <headword id="d0e672">sioman fodair</headword>
+      <description>a rope made of twisted straw carrying a stone as a weight and used for securing the thatch on the stack.</description>
+    </item>
+    <item><headword id="d0e680" type="heading" level="h1">8. A’ togail a’ bhuntàta</headword></item>
+    <item>
+      <headword id="d0e685">buntàta geal</headword>
+      <description>white potato.</description>
+    </item>
+    <item>
+      <headword id="d0e694">buntàta dubh</headword>
+      <description>black potato.</description>
+    </item>
+    <item>
+      <headword id="d0e703">an dúc bhuntata</headword>
+      <description>the potato pit. The potatoes were arranged in this form on the field insulated with straw and covered with a thick layer of soil.
+      <illustration src="EdinburghSCUrquhartaiteachillust1.jpg" width="200"/>
+	  </description>
+	</item>
+    <item>
+      <headword id="d0e714">galar a bhuntàta</headword>
+      <description>potato disease.</description>
+    </item>
+    <item><headword id="d0e722" type="heading" level="h1">9. A’ tasgadh an arbhair agus a’ bhuntàta</headword></item>
+    <item>
+      <headword id="d0e727">[cruach]</headword>
+      <description>Rinneadh cruach chruinn de na sguaban, an siol ris an taobh asteach. Ar leam gun robh a chruach air a tughadh le luachair.</description>
+    </item>
+    <item>
+      <headword id="d0e736">[dúc]</headword>
+      <description>Bha am buntàta air a chruinneachadh ann an dúc agus a chomhdachadh le fodar agus an déigh sin le úir los nach fhaigheadh an t-uisge no ’n rèothadh ’na charaibh.
+	    <illustration src="EdinburghSCUrquhartaiteachillust2.jpg" width="200"/>
+	    </description>
+    </item>
+    <item><headword id="d0e746" type="heading" level="h1">10. A’ bualadh ’s a’ criathradh</headword></item>
+    <item><headword id="d0e750" type="heading" level="h1">11. A’ bleith an t-sìl</headword></item>
+    <item><headword id="d0e754" type="heading" level="h1">12. Ainmean a chleachdar ri earrainn fearainn</headword></item>
+    <item>
+      <headword id="d0e759">dail</headword>
+    </item>
+    <item>
+      <headword id="d0e765">achadh</headword>
+    </item>
+    <item>
+      <headword id="d0e771">iomaire</headword>
+    </item>
+    <item><headword id="d0e776" type="heading" level="h1">13. Faclan sam bith eile</headword></item>
+  </items>
+</fieldworkDocument>

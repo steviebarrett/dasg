@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 1/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_GolspieSSutherlandslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>1969</date>
+  <fieldworker>[AJ Smith]</fieldworker>
+  <informant>
+    <nameEnglish>Sinclair Sutherland</nameEnglish>
+    <age>c. 70</age>
+  </informant>
+  <location>Sutherland, Golspie</location>
+  <items>
+    <item>
+      <headword id="idp166449968">masg</headword>
+      <description>Notes: mesh of net.</description>
+    </item>
+    <item>
+      <headword id="idp166447304">mealbhan</headword>
+      <description>[mjɑ̃ɫu̜ɑ̃ṉ] Notes: sea-bent.</description>
+    </item>
+    <item>
+      <headword id="idp166443704">mine-chuileag</headword>
+      <description>[mĩṉəxu̟lɑɡ] Notes: midge.</description>
+    </item>
+    <item>
+      <headword id="idp166439600">ràmh</headword>
+      <description>[rɑ̃:u̜] Notes: oar.</description>
+    </item>
+    <item>
+      <headword id="idp166464152">rang</headword>
+      <description>[rɑ̃u̜] Notes: rib of a boat.</description>
+    </item>
+    <item>
+      <headword id="idp166465880">runnach</headword>
+      <description>[rũ̜n̪ɑx] Notes: mackerel.</description>
+    </item>
+    <item>
+      <headword id="idp166467608">planndan</headword>
+      <description>[pɫɑ̃ũ̜n̪d̪ɑ̃ṉ] Notes: a young plant (e.g. could be for transplanting).</description>
+    </item>
+    <item>
+      <headword id="idp166469336">sgait</headword>
+      <description>[sɡɑdʹʒ] Notes: skate.</description>
+    </item>
+    <item>
+      <headword id="idp166471064">sgleutair</headword>
+      <description>[sɡle:t̪ɑɾ] Notes: slater.</description>
+    </item>
+    <item>
+      <headword id="idp166472792">sgreachag</headword>
+      <description>[sɡɾɛxɑɡ] Notes: small gull with light brown markings on wings.</description>
+    </item>
+    <item>
+      <headword id="idp166474520">tolman</headword>
+      <description>[t̪ɔɫəmɑṉ] Notes: tiller.</description>
+    </item>
+    <item>
+      <headword id="idp166476248">trom-laighe</headword>
+      <description>[t̪ɾw̃məɫɔi] Notes: nightmare.</description>
+    </item>
+    <item>
+      <headword id="idp166477976">uinnlean</headword>
+      <description>[ɤ̃ĩlʹɑṉ] Notes: bee. Cf. ainnlean – S. MacKay (Embo).</description>
+    </item>
+    <item>
+      <headword id="idp166479704">adhraic</headword>
+      <description>[eɾiɡʹ] Notes: horn. [NOTES: slipped under ‘adhairc’.]</description>
+    </item>
+    <item>
+      <headword id="idp166481576">brad</headword>
+      <description>Quotation: Tha ’m brad fearainn an sin. Notes: That is a good field there.</description>
+    </item>
+    <item>
+      <headword id="idp166483232">bruadraicheadh</headword>
+      <description>Quotation: a’ bruadraicheadh. Tha e [bɾu̟ɤd̪ɾiçu̜]. Notes: He is dreaming.</description>
+    </item>
+    <item>
+      <headword id="idp166485104">caraisd</headword>
+      <description>Notes: carrot.</description>
+    </item>
+    <item>
+      <headword id="idp166486616">cinne-speach</headword>
+      <description>[cĩnʹəspɛx] Notes: for “coinnspeach”.</description>
+    </item>
+    <item>
+      <headword id="idp166488344">cràiseag</headword>
+      <description>[kɾɑ:ʃɑɡ] Notes: “crow-berry”. Dw. “cnàimhseag”: bearberry.</description>
+    </item>
+    <item>
+      <headword id="idp166490144">crùnair</headword>
+      <description>Notes: gurnard.</description>
+    </item>
+    <item>
+      <headword id="idp166491656">daman-ollaidh</headword>
+      <description>[d̪ɑ̃mɑṉoɫi] Notes: spider.</description>
+    </item>
+    <item>
+      <headword id="idp166493384">dobhlachan</headword>
+      <description>[d̪o:ɫɑxɑṉ] Notes: earwig.</description>
+    </item>
+    <item>
+      <headword id="idp166495112">easgaid</headword>
+      <description>[ɛsɡidʹʒ] Notes: eel.</description>
+    </item>
+    <item>
+      <headword id="idp166496840">fóid</headword>
+      <description>[fo:dʹ] Notes: a square divot of grassy turf such as used in creel-making to anchor the ribs.</description>
+    </item>
+  </items>
+</fieldworkDocument>

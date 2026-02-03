@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 7/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_LocheportAJMacPhailslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>02/1969</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <informant>
+    <nameEnglish>Angus John MacPhail</nameEnglish>
+    <age>c. 80</age>
+    <origin>Locheport</origin>
+  </informant>
+  <location>North Uist, Locheport</location>
+  <items>
+    <item>
+      <headword id="idp115739568">mòine</headword>
+      <description>Quotation: mòine chìb or chìbeach. Notes: light stringy peat.</description>
+    </item>
+    <item>
+      <headword id="idp115736616">simealair-crochaidh</headword>
+      <description>Notes: a wooden chimney hung above the fire.</description>
+    </item>
+    <item>
+      <headword id="idp115753824">slabhraidh</headword>
+      <description>Notes: the chain over the old fireplace.</description>
+    </item>
+    <item>
+      <headword id="idp115755336">aghaidh</headword>
+      <description>Quotation: aghaidh na cruaiche. Notes: the open end of the peatstack.</description>
+    </item>
+    <item>
+      <headword id="idp115756992">breac-thalamh</headword>
+      <description>Notes: sandy soil.</description>
+    </item>
+    <item>
+      <headword id="idp115758504">cìb</headword>
+      <description>Quotation: mòine chìb. Notes: light, stringy peat. Also “mòine chìbeach”.</description>
+    </item>
+    <item>
+      <headword id="idp115760232">cìbeach</headword>
+      <description>Quotation: mòine chìbeach. Notes: light, stringy peat.</description>
+    </item>
+    <item>
+      <headword id="idp115761888">cona-chruach</headword>
+      <description>Notes: a small stack made on the peat bank when a lot of “rùbhain” are collected together.</description>
+    </item>
+    <item>
+      <headword id="idp115763400">cromag</headword>
+      <description>Notes: the hook at the end of the “slabhraidh”.</description>
+    </item>
+    <item>
+      <headword id="idp115764912">dubh-thalamh</headword>
+      <description>Notes: peaty soil.</description>
+    </item>
+    <item>
+      <headword id="idp115766424">allaibh</headword>
+      <description>[?] [ɑɫu̜] Quotation: Thiormaich e cho [ɑɫu̜]. Notes: “It dried so quickly.” [NOTES: slipped under ‘ealamh’.]</description>
+    </item>
+    <item>
+      <headword id="idp115768656">glutanadh</headword>
+      <description>Notes: the packing between the double walls of the blackhouse.</description>
+    </item>
+  </items>
+</fieldworkDocument>

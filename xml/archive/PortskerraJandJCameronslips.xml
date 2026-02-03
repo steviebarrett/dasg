@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 23/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_PortskerraJandJCameronslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>1969</date>
+  <fieldworker>[AJ Smith]</fieldworker>
+  <note>[NOTES: in IPA transcriptions, the fieldworker uses [w] for [ɯ].]</note>
+  <informant>
+    <nameEnglish>James and John Cameron</nameEnglish>
+    <age>Age: c. 65 (James), c. 70 (John)</age>
+  </informant>
+  <location>Sutherland, Portskerra</location>
+  <items>
+    <item>
+      <headword id="idp118704928">[sɡʹɤu̜ɫt̪əɾ]</headword>
+      <description>Notes: jellyfish.</description>
+    </item>
+    <item>
+      <headword id="idp118708456">lug</headword>
+      <description>[ɫu̜ɡ] Notes: sandworm.</description>
+    </item>
+    <item>
+      <headword id="idp118712128">maorach</headword>
+      <description>[mw̃:ɾɑx] Notes: a limpet, good as bait. (see bàirneach – Cameron)</description>
+    </item>
+    <item>
+      <headword id="idp118691968">mathachadh</headword>
+      <description>[mɑ:xu̜] Notes: farmyard manure.</description>
+    </item>
+    <item>
+      <headword id="idp118689736">mealc</headword>
+      <description>[mjɑɫk] Notes: milt of a fish.</description>
+    </item>
+    <item>
+      <headword id="idp118688008">mol</headword>
+      <description>[mɔ̃ɫ] Notes: shingle.</description>
+    </item>
+    <item>
+      <headword id="idp118686280">rùdhag</headword>
+      <description>Notes: a crab.</description>
+    </item>
+    <item>
+      <headword id="idp118685704">sachasan</headword>
+      <description>[sɑxəsɑṉ] Notes: a sand-eel.</description>
+    </item>
+    <item>
+      <headword id="idp118683976">siaba</headword>
+      <description>[ʃiɤbə] Quotation: siaba na mara. Notes: the foam (?) of the sea.</description>
+    </item>
+    <item>
+      <headword id="idp118681960">slige-chreachaidh</headword>
+      <description>[ʃlʹiɡʹxɾɑxi] Notes: clam.</description>
+    </item>
+    <item>
+      <headword id="idp118783624">sporan-ròin</headword>
+      <description>Notes: usually sporan-feannaig.</description>
+    </item>
+    <item>
+      <headword id="idp118782904">turbaid</headword>
+      <description>[t̪ɤɾəbɑdʹ] Notes: halibut.</description>
+    </item>
+    <item>
+      <headword id="idp118781320">bàirneach</headword>
+      <description>[bɑ:ʴnʹɑx] Notes: white limpet, useless for bait. (See maorach – Cameron.) [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+    <item>
+      <headword id="idp118779448">bliong</headword>
+      <description>[blw̃ŋɡ] Notes: a lythe.</description>
+    </item>
+    <item>
+      <headword id="idp118777720">bròg</headword>
+      <description>Notes: fish roe. (Probably a cod’s roe.)</description>
+    </item>
+    <item>
+      <headword id="idp118775272">biorach</headword>
+      <description>Notes: dogfish.</description>
+    </item>
+    <item>
+      <headword id="idp118772752">cathadh-mhara</headword>
+      <description>[kɑhu̜vɑɾ] Notes: spindrift.</description>
+    </item>
+    <item>
+      <headword id="idp118772680">ceann-cat-tràghad</headword>
+      <description>Notes: sea-urchin.</description>
+    </item>
+    <item>
+      <headword id="idp118771600">ceilleag</headword>
+      <description>[celʹɑɡ] Notes: cockle.</description>
+    </item>
+    <item>
+      <headword id="idp118769440">cìlig</headword>
+      <description>Notes: a cod.</description>
+    </item>
+    <item>
+      <headword id="idp118768360">crasgan</headword>
+      <description>Notes: starfish.</description>
+    </item>
+    <item>
+      <headword id="idp118766344">crùdan</headword>
+      <description>[kɾu̟:d̪ɑṉ] Notes: gurnard.</description>
+    </item>
+    <item>
+      <headword id="idp118764832">eilear</headword>
+      <description>[ɛlɑɾ] Quotation: droch [ɛlɑɾ]. Notes: a bad shore (from oirthir?)</description>
+    </item>
+    <item>
+      <headword id="idp118762600">faghus</headword>
+      <description>[fɤɣɤs] Quotation: Tha am facal sin gle [ɤɣɤs] air a’ bheurla. Notes: near.</description>
+    </item>
+    <item>
+      <headword id="idp118760584">feasgainn</headword>
+      <description>[fɛsɡĩnʹ] Notes: an eel.</description>
+    </item>
+    <item>
+      <headword id="idp118758856">feusgan</headword>
+      <description>[fe:sɡɑ̃ṉ] Notes: mussel.</description>
+    </item>
+    <item>
+      <headword id="idp118757128">gairbhean</headword>
+      <description>Notes: gills of a fish.</description>
+    </item>
+    <item>
+      <headword id="idp118755616">geadag</headword>
+      <description>Notes: grilse.</description>
+    </item>
+    <item>
+      <headword id="idp118753672">godlach</headword>
+      <description>[ɡɔd̪ᵊɫɑx] Quotation: godlach éisg. Notes: dozen or so on a string.</description>
+    </item>
+  </items>
+</fieldworkDocument>

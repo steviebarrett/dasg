@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 10/8/15 -->
+<!-- illustrations -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_CaolisHMacFadyenslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>10/1970</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <note>[NOTES: in IPA transcriptions, the fieldworker uses [w] for [ɯ].]</note>
+  <informant>
+    <nameEnglish>Hugh MacFadyen</nameEnglish>
+  </informant>
+  <location>Tiree, Caolis</location>
+  <items>
+    <item>
+      <headword id="idp161868256">lannan</headword>
+      <description>washers.</description>
+    </item>
+    <item>
+      <headword id="idp161870920">leag</headword>
+      <description>Quotation: Bha iad a leagail amharus air gu robh e deanamh rud nach robh ceart. Notes: They were casting suspicion on him.</description>
+    </item>
+    <item>
+      <headword id="idp161874304">lùb</headword>
+      <description>Notes: strand in a mesh.</description>
+    </item>
+    <item>
+      <headword id="idp161834992">lunnan</headword>
+      <description>[ɫũ̜n̪əṉ] Notes: rollers.</description>
+    </item>
+    <item>
+      <headword id="idp161857960">maghar</headword>
+      <description>Notes: fly (fishing).</description>
+    </item>
+    <item>
+      <headword id="idp161902024">moirich</headword>
+      <description>[mɔɾiç] Quotation: Fhuair mi air a mhoirich e. Notes: the green grass just up from the beach. (Could be [bɔɾiç].)</description>
+    </item>
+    <item>
+      <headword id="idp161916424">muir-tiachd</headword>
+      <description>Notes: jellyfish.</description>
+    </item>
+    <item>
+      <headword id="idp161917936">musgan</headword>
+      <description>[mũ̟sɡɑṉ] Notes: razorfish.</description>
+    </item>
+    <item>
+      <headword id="idp161919664">ruadh-bhòrd</headword>
+      <description>Notes: second plank to the keel.</description>
+    </item>
+    <item>
+      <headword id="idp161921176">ruith</headword>
+      <description>Quotation: Tha ruith mhór air a’ chladach seo. Notes: movement of the tide over a considerable distance on a shallow shore.</description>
+    </item>
+    <item>
+      <headword id="idp161922832">nì</headword>
+      <description>Quotation: Cha robh nì gréineadh ann. Notes: There wasn’t a thing.</description>
+    </item>
+    <item>
+      <headword id="idp161924488">paidearan</headword>
+      <description>Quotation: Chaidh a’ sreang na paidearan. Notes: used of a string or fishing line getting all tangled up. [NOTES: slipped under ‘paidirean’.]</description>
+    </item>
+    <item>
+      <headword id="idp161926288">pliasdan</headword>
+      <description>Quotation: pliasdan de dh’fheur. Notes: a green grassy patch.</description>
+    </item>
+    <item>
+      <headword id="idp161927944">putagan</headword>
+      <description>Notes: tholepins. <illustration src="CaolisHMacfadyenslipsillust1.jpg" width="250"/></description>
+    </item>
+    <item>
+      <headword id="idp161929456">sgèireadh</headword>
+      <description>Notes: the bevelled jointing between two planks in a boat.</description>
+    </item>
+    <item>
+      <headword id="idp161931040">sgolladh</headword>
+      <description>[sɡɔɫəɣ] Quotation: a’ sgolladh. Notes: sculling.</description>
+    </item>
+    <item>
+      <headword id="idp161932912">sgulathartaich</headword>
+      <description>[sɡu̟ləhɑʴsṯiç] Notes: squeaking or shrieking, e.g. seagulls. [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+    <item>
+      <headword id="idp161934784">sileadh</headword>
+      <description>[ʃiləɣ] Notes: piece of flooring fitting into the stem [?] of the boat.</description>
+    </item>
+    <item>
+      <headword id="idp161936584">slatag</headword>
+      <description>Notes: horizontal slat on lobster creel, lying across hoops.</description>
+    </item>
+    <item>
+      <headword id="idp161938168">steap</headword>
+      <description>[sṯɛp] Quotation: steap a’ chruinn. Notes: hole into which the bottom of the mast filled.</description>
+    </item>
+    <item>
+      <headword id="idp161940040">taic</headword>
+      <description>Quotation: Tha taic math innte. Notes: said of a stable boat.</description>
+    </item>
+    <item>
+      <headword id="idp161941696">taobh-shlat</headword>
+      <description>[t̪w:ɫɑd̪] Notes: strap running the length of the boat and on which the seats rest.</description>
+    </item>
+    <item>
+      <headword id="idp161943424">taoman</headword>
+      <description>Notes: baler in a boat.</description>
+    </item>
+    <item>
+      <headword id="idp161944936">timchioll</headword>
+      <description>Quotation: an timchioll àrd. Notes: gunwhale. Also “beul”.</description>
+    </item>
+    <item>
+      <headword id="idp161946592">timchioll</headword>
+      <description>Quotation: na timchill. Notes: the planks in a boat.</description>
+    </item>
+    <item>
+      <headword id="idp161948248">toll</headword>
+      <description>Quotation: toll na cnaig. Notes: bunghole in a boat.</description>
+    </item>
+    <item>
+      <headword id="idp161949904">triubhas</headword>
+      <description>Notes: cod roe.</description>
+    </item>
+    <item>
+      <headword id="idp161951416">tuim</headword>
+      <description>[t̪[ɤ̃ĩ]m] Notes: water in a boat.</description>
+    </item>
+    <item>
+      <headword id="idp115737768">àbaran  (sic)</headword>
+      <description>[ɑ:bərɑṉ] Notes: iron plate, later brass, fixed on gunwhale to prevent wear by the oar. (possibly should be aparan)</description>
+    </item>
+    <item>
+      <headword id="idp115739568">amharus</headword>
+      <description>Quotation: Bha iad a leagail amharus air gu robh e deanamh rud nach robh ceart. Notes: They were casting suspicion on him.</description>
+    </item>
+    <item>
+      <headword id="idp115741224">àrachd</headword>
+      <description>[ɑ:ɾɑxk] Quotation: na [hɑ:ɾɑxkɑ̃ṉʹ]. Notes: cork.</description>
+    </item>
+    <item>
+      <headword id="idp115743312">beart-iasgaich</headword>
+      <description>Notes: fishing line.</description>
+    </item>
+    <item>
+      <headword id="idp115744824">beul</headword>
+      <description>Notes: gunwhale. Or an “timchioll àrd”.</description>
+    </item>
+    <item>
+      <headword id="idp115746336">bolg</headword>
+      <description>Quotation: am bolg. Notes: body of the boat. <illustration src="CaolisHMacfadyenslipsillust2.jpg" width="200"/></description>
+    </item>
+    <item>
+      <headword id="idp115747992">ceann-tobhtadh</headword>
+      <description>Notes: brackets at the ends of thwarts of a boat.</description>
+    </item>
+    <item>
+      <headword id="idp115749504">cèibinn</headword>
+      <description>[cɛ:bĩnʹ] Notes: cabin, wheelhouse.</description>
+    </item>
+    <item>
+      <headword id="idp115751232">cioch</headword>
+      <description>Quotation: cioch nan creag. Notes: sea anemone. [NOTES: slipped under ‘cioch-nan-creag’.]</description>
+    </item>
+    <item>
+      <headword id="idp115753032">clabhd</headword>
+      <description>[kɫ[ɑu̟]d̪] Notes: a piece of hard wood fixed on to oar to prevent chafing (on two sides).</description>
+    </item>
+    <item>
+      <headword id="idp115755192">clàrag</headword>
+      <description>Quotation: clàrag airson beart-iasgaich. Notes: square frame. <illustration src="CaolisHMacfadyenslipsillust3.jpg" width="200"/></description>
+    </item>
+    <item>
+      <headword id="idp115756848">cnag</headword>
+      <description>Notes: bung in a boat.</description>
+    </item>
+    <item>
+      <headword id="idp115758360">conan-mara</headword>
+      <description>Notes: sea urchin.</description>
+    </item>
+    <item>
+      <headword id="idp115759872">cothannach</headword>
+      <description>[kɔhən̪ɑx] Quotation: “Bhiodh e a’ cunntadh naoi stuadhannan agus a’ [xɔhən̪ɑx] a thigeadh bhon an naoidheamh stuadh bhitheadh e na chuir ann am botul agus na chrathadh air fear air an robh ‘barr a’ chinn’.” Notes: a Donald Sinclair from Tiree who is supposed to be able to cure “barr a’ chinn” – a lump or lumps which appear at the back of the throat.</description>
+    </item>
+    <item>
+      <headword id="idp115762032">dallag</headword>
+      <description>Notes: a dogfish with a rough skin, like sandpaper.</description>
+    </item>
+    <item>
+      <headword id="idp115763544">deargan</headword>
+      <description>[dʹɛɾɛɡɑṉ] Notes: a brown fish caught among rocks. Thinks it is the young ling.</description>
+    </item>
+    <item>
+      <headword id="idp115765272">dòirneag</headword>
+      <description>[d̪ɔ:ʴnʹɑɡ] Quotation: dòirneag a’ raimh. Notes: handle of the oar. [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+    <item>
+      <headword id="idp115767288">draghal</headword>
+      <description>[d̪ɾɤəɫ] Notes: fishing line pulled up and let down. </description>
+    </item>
+    <item>
+      <headword id="idp115769088">failm</headword>
+      <description>[fɤlɤm] Notes: helm.</description>
+    </item>
+    <item>
+      <headword id="idp115770816">fliuch-bhòrd</headword>
+      <description>Notes: plank nearest to the keel.</description>
+    </item>
+    <item>
+      <headword id="idp115772328">friasgan</headword>
+      <description>Notes: mussel.</description>
+    </item>
+    <item>
+      <headword id="idp115773840">fuaidreag</headword>
+      <description>[fu̟ɤdʹɾɑɡ] Notes: rubber eel.</description>
+    </item>
+    <item>
+      <headword id="idp115775568">gaolach</headword>
+      <description>Quotation: Tha mi gaolach air. Notes: I like it.</description>
+    </item>
+    <item>
+      <headword id="idp115777224">gibinneach</headword>
+      <description>[ɡʹibinʹɔx] Notes: ink-fish.</description>
+    </item>
+    <item>
+      <headword id="idp115778952">glas</headword>
+      <description>Quotation: glas a’ chruinn. Notes: clasp which clamps mast on to thwarts.</description>
+    </item>
+    <item>
+      <headword id="idp115780608">golamas</headword>
+      <description>[ɡɔɫɑməs] Quotation: golamas de dh’iasg, golamas de dh’fheòil, etc. Notes: inferior stuff, mixture.</description>
+    </item>
+    <item>
+      <headword id="idp115782552">grian</headword>
+      <description>Quotation: Cha robh nì gréineadh ann. Notes: There wasn’t a thing.</description>
+    </item>
+  </items>
+</fieldworkDocument>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 1/10/15 -->
+<!-- illustration -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_GlasnakilleAMacLeanslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>03/1970</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <note>[NOTES: in IPA transcriptions, the fieldworker uses [w] for [ɯ].]</note>
+  <informant>
+    <nameEnglish>Angus MacLean</nameEnglish>
+  </informant>
+  <location>Skye, Glasnakille</location>
+  <items>
+    <item>
+      <headword id="idp118634328">leumadair</headword>
+      <description>Quotation: leumadair-an-fheòir. Notes: grasshopper.</description>
+    </item>
+    <item>
+      <headword id="idp118638000">lionaraich</headword>
+      <description>Notes: a green, fine kind of grass growing on sea rocks, in wells, etc.</description>
+    </item>
+    <item>
+      <headword id="idp118614168">muirstiachd</headword>
+      <description>[mu̜ʴstʹiɑxk] Notes: jellyfish. [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+    <item>
+      <headword id="idp118620936">peileag</headword>
+      <description>Notes: porpoise.</description>
+    </item>
+    <item>
+      <headword id="idp118618920">seòl</headword>
+      <description>Quotation: seòl stròineadh. Notes: lugsail.</description>
+    </item>
+    <item>
+      <headword id="idp118617048">sgreafag</headword>
+      <description>Notes: crust of fine shells like barnacles on rocks.</description>
+    </item>
+    <item>
+      <headword id="idp118615824">snàinean</headword>
+      <description>Quotation: snàinean-biathaidh. Notes: parallel pieces of twine, placed from top to bottom in the middle of the lobster creel, with two sliding loops on them to secure bait.</description>
+    </item>
+    <item>
+      <headword id="idp118594080">spéiligeadh</headword>
+      <description>Quotation: a’ spéiligeadh iasg. Notes: splitting fish by cutting it down the back close to the bone.</description>
+    </item>
+    <item>
+      <headword id="idp118597536">taobh-stoc</headword>
+      <description>Notes: the strip of wood along the side of the boat and on which the seats lie.</description>
+    </item>
+    <item>
+      <headword id="idp118598688">toll</headword>
+      <description>Quotation: toll an fhàsaig. Notes: bung-hole.</description>
+    </item>
+    <item>
+      <headword id="idp118601856">ailbheag</headword>
+      <description>[ɛlɛvɑɡ] Notes: the mooring ring on the stem of a boat.</description>
+    </item>
+    <item>
+      <headword id="idp118607328">aparan</headword>
+      <description>Notes: the thin leaf next to the keel, lying on top of it.</description>
+    </item>
+    <item>
+      <headword id="idp118610928">bac</headword>
+      <description>Quotation: pl. bacan. Notes: fixed rowlock.</description>
+    </item>
+    <item>
+      <headword id="idp118614024">biadhtach</headword>
+      <description>[biɤt̪ɑx] Notes: raven.</description>
+    </item>
+    <item>
+      <headword id="idp118879472">brodragan</headword>
+      <description>[bɾɔd̪ɾəɡɑṉ] Notes: robin redbreast.</description>
+    </item>
+    <item>
+      <headword id="idp118881200">broilleach</headword>
+      <description>[bɾɔlʹɑx] Quotation: am broilleach or am maide broillich. Notes: Bracket at joint between stempost and keel. </description>
+    </item>
+    <item>
+      <headword id="idp118883072">càrnag</headword>
+      <description>Notes: eel.</description>
+    </item>
+    <item>
+      <headword id="idp118884584">clàrag</headword>
+      <description>Notes: the stern in a square-sterned boat.</description>
+    </item>
+    <item>
+      <headword id="idp118886096">cnaimh</headword>
+      <description>Quotation: na cnamhan móra. Notes: the large ribs in a boat.</description>
+    </item>
+    <item>
+      <headword id="idp118887752">creagag</headword>
+      <description>Notes: perch.</description>
+    </item>
+    <item>
+      <headword id="idp118889264">cuairt-bheòil</headword>
+      <description>Quotation: an cuairt-bheòil. Notes: the top plank.</description>
+    </item>
+    <item>
+      <headword id="idp118890920">deiseag</headword>
+      <description>Notes: a type of “partan” with a greenish-grey back. Very fast-moving.</description>
+    </item>
+    <item>
+      <headword id="idp118892432">eun-giùirne</headword>
+      <description>Notes: puffin.</description>
+    </item>
+    <item>
+      <headword id="idp118893944">faochag-airgid</headword>
+      <description>Notes: silvery, whelk-like shellfish.</description>
+    </item>
+    <item>
+      <headword id="idp118895456">fàsag</headword>
+      <description>Notes: bung in a boat.</description>
+    </item>
+    <item>
+      <headword id="idp118896968">fàsgadair</headword>
+      <description>Notes: skua.</description>
+    </item>
+    <item>
+      <headword id="idp118898480">garra-ghritheach</headword>
+      <description>[ɡɑrəɣɾiɑx] Notes: heron.</description>
+    </item>
+    <item>
+      <headword id="idp118900208">gearra-bhreac</headword>
+      <description>[ɡʹɑrəvɾɛxk] Notes: guillemot.</description>
+    </item>
+    <item>
+      <headword id="idp118901936">giùbhran</headword>
+      <description>[ɡʹu̜:ɾɑṉ] Notes: gill of a fish.</description>
+    </item>
+    <item>
+      <headword id="idp118903664">gobhlan-gaoitheadh</headword>
+      <description>Notes: swallow.</description>
+    </item>
+    <item>
+      <headword id="idp118905176">gruaigean</headword>
+      <description>Notes: a flat seaweed. <illustration src="GlasnakilleAMacLeanslipsillust2.jpg" width="300"/></description>
+    </item>
+    <item>
+      <headword id="idp118906688">guilbearnach</headword>
+      <description>[ɡwlwbwʴṉɑx] Notes: curlew. [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+  </items>
+</fieldworkDocument>

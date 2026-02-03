@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 26/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_SkyeSMacLeodslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>1988</date>
+  <informant>
+    <nameEnglish>Mrs Seonag MacLeod</nameEnglish>
+  </informant>
+  <location>Skye</location>
+  <items>
+    <item>
+      <headword id="idp164417152">mealtrach</headword>
+      <description>Notes: ‘rud a’ fàs anns a’ ghainmhich, ga chleachdadh airson sgùradh.’ (Heard in Harris.)</description>
+    </item>
+    <item>
+      <headword id="idp164414776">iomchair</headword>
+      <description>Quotation: ag iomchair air. Notes: accusing, complaining.</description>
+    </item>
+    <item>
+      <headword id="idp164413264">ad</headword>
+      <description>Quotation: Tha iad dìreach anns na h-adaibh. Notes: used of people who are very alike.</description>
+    </item>
+    <item>
+      <headword id="idp164411752">ciamhair</headword>
+      <description>Quotation: Tha ciamhair ort. Notes: ‘hood wrapped round the head’. (Heard by Mrs MacLeod from C. Shaw, Tarbert, Harris in 1979.)</description>
+    </item>
+    <item>
+      <headword id="idp164410672">éigear</headword>
+      <description>Quotation: éigear odhar. Notes: term of abuse. ‘Ga chleachdadh mu dhuine a bhiodh tu a’ càineadh’.</description>
+    </item>
+  </items>
+</fieldworkDocument>

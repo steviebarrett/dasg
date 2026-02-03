@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 23/10/15 -->
+<!-- illustration -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_PortskerraHMacintoshslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>1969</date>
+  <fieldworker>[AJ Smith]</fieldworker>
+  <informant>
+    <nameEnglish>Hugh Macintosh</nameEnglish>
+    <age>c. 70</age>
+  </informant>
+  <location>Sutherland, Portskerra</location>
+  <items>
+    <item>
+      <headword id="idp162095944">ath-storadh</headword>
+      <description>Quotation: ag ath-storadh a’ mhóine. Notes: making larger heaps of peats than when at first lifting. (ath-storagan)</description>
+    </item>
+    <item>
+      <headword id="idp162092776">ath-storag</headword>
+      <description>[ɑst̪ɔɾɑɡ] Notes: a larger collection of peats than the ‘storag’, usually incorporating a few ‘storagan’.</description>
+    </item>
+    <item>
+      <headword id="idp162089176">iunnlar</headword>
+      <description>[jũ̜:ɫɑɾ] Notes: for ùrlar: floor.</description>
+    </item>
+    <item>
+      <headword id="idp162110776">siomailidh</headword>
+      <description>[ʃĩməli] Notes: chimney.</description>
+    </item>
+    <item>
+      <headword id="idp162112504">spaid-riachaidh</headword>
+      <description>[spedʹriɑxi] Notes: rutting spade for lining the peat bank.</description>
+    </item>
+    <item>
+      <headword id="idp162114232">stòradh</headword>
+      <description>Quotation: a’ stòradh a’ mhóine. Notes: lifting peats to dry, first lifting made into “stòragan”.</description>
+    </item>
+    <item>
+      <headword id="idp162115888">stòrag</headword>
+      <description>[st̪ɔ:ɾɑɡ] Notes: small stack of peats built at first lifting. Also ath-stòrag.</description>
+    </item>
+    <item>
+      <headword id="idp162117616">sùidh</headword>
+      <description>[su̜:i] Notes: soot.</description>
+    </item>
+    <item>
+      <headword id="idp162119344">bùrag</headword>
+      <description>[bu̜:ɾɑɡ] Notes: a turf divot.</description>
+    </item>
+    <item>
+      <headword id="idp162121072">caibe</headword>
+      <description>Quotation: caibe-làir [cebɫɑ:ɾ]. Notes: flauchter spade.</description>
+    </item>
+    <item>
+      <headword id="idp162122944">càradh</headword>
+      <description>Quotation: a’ càradh. Notes: building the outer shell of the peatstack.</description>
+    </item>
+    <item>
+      <headword id="idp162124600">clòsaid</headword>
+      <description>[kɫɔ:sɑdʹ] Notes: the small central bedroom in a house of two main rooms. </description>
+    </item>
+    <item>
+      <headword id="idp162126328">druim-beag</headword>
+      <description>Notes: the small of the back.</description>
+    </item>
+    <item>
+      <headword id="idp162127840">eallach</headword>
+      <description>[joɫɑx] Notes: a load.</description>
+    </item>
+    <item>
+      <headword id="idp162129568">eibheil</headword>
+      <description>[e:vəl] Notes: pl. [e:vələṉ].</description>
+    </item>
+    <item>
+      <headword id="idp162132088">fóid</headword>
+      <description>[fo:dʹ] Notes: turf divot such as put on a roof.</description>
+    </item>
+    <item>
+      <headword id="idp162133816">gabh</headword>
+      <description>Quotation: a’ gabhail mu’n teine. Notes: banking up the fire at night.</description>
+    </item>
+  </items>
+</fieldworkDocument>

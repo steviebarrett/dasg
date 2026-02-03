@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 22 5 14 -->
+<fieldworkDocument docId="AOHenley_ArdMhinishJMacKinnonmisc2" docType="wordlist" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>[1988]</date>
+  <fieldworker personId="ohenleya">A. O’Henley</fieldworker>
+  <informant>
+    <nameEnglish>John MacKinnon</nameEnglish>
+  </informant>
+  <location>Barra, Ard Mhinish</location>
+  <items>
+    <item>
+      <headword id="idm74968">bearradh èoin [sic] is amadain air</headword>
+      <description>a phrase associated with harvest tradition especially the unfortunate person who received the ‘cailleach’. This was one of the punishments meted out to the offender.</description>
+    </item>
+    <item>
+      <headword id="idm73456">caise Calluinn</headword>
+      <description>a special cheese made at Christmas period.</description>
+    </item>
+    <item>
+      <headword id="idm71944">laomacha</headword>
+      <description>this was a slice of the aforementioned cheese [i.e. caise Calluinn] which was said to have special qualities. Supposed to be useful for people who had lost their [sic]. Apparently they could look through a hole in the cheese slice and see where they were. This would apply to people who were lost on hills in misty conditions.</description>
+    </item>
+    <item>
+      <headword id="idm70432">bonnach Brìde</headword>
+      <description>a special cake which was baked on the first day of spring. Cf. Mr R. Bunton, Stoneybridge, South Uist. Refers to serpent chant associated with St. Bride’s. According to this informant the chant belongs to Celtic mythology which believed that a serpent did come from the ground. Apparently the serpent was the daughter of Ivor.</description>
+    </item>
+    <item>
+      <headword id="idm68056">Dòmhnach Curran</headword>
+      <description>Carrot Sunday. Traditionally held on the Sunday before St. Michael’s day. Women used to go out and pluck out these carrots, singing chants simultaneously.</description>
+    </item>
+    <item>
+      <headword id="idm66544">leac struan</headword>
+      <description>a special slab on which the ‘struan’ was baked at St. Michael’s.</description>
+    </item>
+    <item>
+      <headword id="idm65032">nasg</headword>
+      <description>to rid oneself of the power of the second sight. Usually done by prayer and almsgiving.</description>
+    </item>
+    <item>
+      <headword id="idm63520">rathadach</headword>
+      <description>in Gaelic folklore these were taken as lucky signs whereas ‘rosadach’ were unlucky signs.</description>
+    </item>
+    <item>
+      <headword id="idm62008">[rosadach]</headword>
+      <description>[unlucky signs. Cf. rathadach.]</description>
+    </item>
+    <item>
+      <headword id="idm59632">samhnag</headword>
+      <description>a bonfire which was lit at Halloween. Not sure as regards its purpose.</description>
+    </item>
+    <item>
+      <headword id="idm58120">staoigcreiche</headword>
+      <description>this was a tax levied upon rievers who needed passage through someone’s territory. Landlord of that area extracted this levy from rievers.</description>
+    </item>
+    <item>
+      <headword id="idm56608">caisleag(an)</headword>
+      <description>used of a rope which has come undone – “Air a dhol as a thoinneamh”. “Chaidh a ròpa na chaisleagan.”</description>
+    </item>
+    <item>
+      <headword id="idm54952">soirgheas</headword>
+      <description>used to describe windy conditions. “Nach ann a tha soirgheas gaoithe an diugh.”</description>
+    </item>
+  </items>
+</fieldworkDocument>
+

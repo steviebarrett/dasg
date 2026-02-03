@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 11 6 13 -->
+<fieldworkDocument docId="AssortedFieldworkers_AnonymousAcoltas" docType="questionnaire" subType="ColtasAnDuine">
+  <title>Coltas an Duine / Personal Appearance</title>
+  <fieldworker>Anonymous A</fieldworker>
+  <items>
+    <item><headword id="d0e14" type="heading" level="h1">Shapes and general appearance</headword></item>
+    <item>
+      <headword id="d0e19">craoileach</headword>
+      <description>large, clumsy person.</description>
+    </item>
+    <item>
+      <headword id="d0e28">bagaid</headword>
+      <description>small fat woman.</description>
+    </item>
+    <item>
+      <headword id="d0e37">bodach-ròcais</headword>
+      <description>tall, thin person.</description>
+    </item>
+    <item>
+      <headword id="d0e46">casan spliachdach</headword>
+      <description>splay feet.</description>
+    </item>
+    <item>
+      <headword id="d0e55">craiceann circe</headword>
+      <description>goose pimples.</description>
+    </item>
+    <item>
+      <headword id="d0e64">craiceann guireineach</headword>
+      <description>goose pimples.</description>
+    </item>
+    <item><headword id="d0e72" type="heading" level="h1">Deformities, blemishes, scars</headword></item>
+    <item><headword id="d0e76" type="heading" level="h1">Beauty and ugliness</headword></item>
+  </items>
+</fieldworkDocument>

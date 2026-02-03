@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 7/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_KilmorackWFraserslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>05/1969</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <informant>
+    <nameEnglish>William Fraser</nameEnglish>
+    <age>c. 90</age>
+    <origin>Kilmorack</origin>
+  </informant>
+  <location>Inverness-shire, Kilmorack</location>
+  <items>
+    <item>
+      <headword id="idp115459376">fos-leth</headword>
+      <description>[fɔslʹɛ] Quotation: Cha robh ainm fos-leth aca air a’ sin. Notes: They had no special word for that.</description>
+    </item>
+  </items>
+</fieldworkDocument>

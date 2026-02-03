@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 5/8/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_Applecrossanonymousslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>1967-1970</date>
+  <fieldworker>[K.D. MacDonald?]</fieldworker>
+  <informant>
+    <nameEnglish>anonymous</nameEnglish>
+  </informant>
+  <location>Applecross</location>
+  <items>
+    <item><headword id="idola985" type="heading" level="h1">1967</headword></item>
+    <item>
+      <headword id="idp167388224">lòidsichean</headword>
+      <description>[ˈlɔ:dʃiçən] Notes: yarns, tall stories.</description>
+    </item>
+    <item>
+      <headword id="idp167387648">mìr</headword>
+      <description>Notes: hay close-packed in barn.</description>
+    </item>
+    <item>
+      <headword id="idp167384408">raidh</headword>
+      <description>[ˈRɑ-i] Quotation: Tha e le raidh. Bha sinn a’ raidh. Notes: boastful talk; chatting.</description>
+    </item>
+    <item>
+      <headword id="idp167382104">ràislich</headword>
+      <description>Notes: coarse talk.</description>
+    </item>
+    <item>
+      <headword id="idp167382176">ratulaich</headword>
+      <description>[Rɑˈtəliç] Quotation: Thug e ratulaich oirnn. Notes: a dressing down, verbal onslaught.</description>
+    </item>
+    <item>
+      <headword id="idp167379728">ratunsach</headword>
+      <description>[Rɑˈtunsəx] Quotation: Thug e ratunsach oirnn. Notes: = ratulaich [q.v.]. Source: Ina Murchison.</description>
+    </item>
+    <item>
+      <headword id="idp167421416">plaids</headword>
+      <description>Quotation: Thuit e le plaids. Notes: a thump, as of something heavy and solid falling.</description>
+    </item>
+    <item>
+      <headword id="idp167424080">plumach</headword>
+      <description>Quotation: aodann plumach. Notes: chubby.</description>
+    </item>
+    <item>
+      <headword id="idp167427824">pòiteach</headword>
+      <description>Notes: spongy (of turnip, potato, etc.).</description>
+    </item>
+    <item>
+      <headword id="idp167419112">searbhan</headword>
+      <description>Quotation: Chuireadh e searbhan ort. Searbhan! Notes: disgust, esp. in reaction to pomposity or boastfulness.</description>
+    </item>
+    <item>
+      <headword id="idp167416808">sgamhnadh</headword>
+      <description>Notes: the stamping-down of hay in barn.</description>
+    </item>
+    <item>
+      <headword id="idp167415872">stàirn</headword>
+      <description>Notes: conceitedness.</description>
+    </item>
+    <item>
+      <headword id="idp167414072">stàirneil</headword>
+      <description>Notes: conceited.</description>
+    </item>
+    <item>
+      <headword id="idp167410400">stiall</headword>
+      <description>Quotation: Cha robh stiall air. Notes: “stitch” of clothing.</description>
+    </item>
+    <item>
+      <headword id="idp167408888">bàirichean</headword>
+      <description>Notes: yarms. [?] [yarns?]</description>
+    </item>
+    <item>
+      <headword id="idp167407808">clabhdach</headword>
+      <description>Notes: clumsy, awkward.</description>
+    </item>
+    <item>
+      <headword id="idp167406728">clibeach</headword>
+      <description>Notes: clumsy.</description>
+    </item>
+    <item>
+      <headword id="idp167356328">clibean</headword>
+      <description>Notes: anything dangling.</description>
+    </item>
+    <item>
+      <headword id="idp167351648">cliobaire</headword>
+    </item>
+    <item>
+      <headword id="idp167348912">cliumbach</headword>
+      <description>Notes: disabled, handicapped.</description>
+    </item>
+    <item>
+      <headword id="idp167357912">coibhleag</headword>
+      <description>[ˈkəilɑk] Notes: film on surface of liquid.</description>
+    </item>
+    <item>
+      <headword id="idp167360432">dorgan</headword>
+      <description>Notes: monotonous noise.</description>
+    </item>
+    <item>
+      <headword id="idp167362088">duagan</headword>
+      <description>Notes: monotonous noise, us. of speech on radio.</description>
+    </item>
+    <item>
+      <headword id="idp167363240">dugat</headword>
+      <description>[d̩ukɑt̩] Notes: small room, cubby-hole. (&lt; ‘dug-out’?)</description>
+    </item>
+    <item><headword id="idola986" type="heading" level="h1">1968</headword></item>
+    <item>
+      <headword id="idp167364608">craofaidh</headword>
+      <description>[krəfi] Notes: a small ‘bothan’ where lambs or a calf might be housed.</description>
+    </item>
+    <item><headword id="idola987" type="heading" level="h1">1970</headword></item>
+    <item>
+      <headword id="idp167418824">sguaiseadh</headword>
+      <description>Notes: bustling activity, as of a woman tidying up the house.</description>
+    </item>
+    <item>
+      <headword id="idp167371376">aideal</headword>
+      <description>Notes: attempt. [NOTES: in second hand – Jane MacBeath, 1970.]</description>
+    </item>
+    <item>
+      <headword id="idp167372096">carcar</headword>
+      <description>Notes: byre-drain. [NOTES: slipped under ‘carcair’.]</description>
+    </item>
+    <item><headword id="idola988" type="heading" level="h1">no date</headword></item>
+    <item>
+      <headword id="idp167375624">spainneadh</headword>
+      <description>Quotation: Thug i spainneadh orm. Notes: She snapped at me (verbally).</description>
+    </item>
+    <item>
+      <headword id="idp167377136">bogan</headword>
+      <description>[ˈbɔkɑn] Notes: penis.</description>
+    </item>
+    <item>
+      <headword id="idp167428328">ciollag</headword>
+      <description>[ˈkʹɯLɑk] Quotation: Ciollag is ciotag. Notes: rag; item of clothing.</description>
+    </item>
+    <item>
+      <headword id="idp167425736">ciotag</headword>
+      <description>Quotation: Ciollag is ciotag. Notes: rag; item of clothing.</description>
+    </item>
+    <item>
+      <headword id="idp167420840">cluigean</headword>
+      <description>Notes: penis.</description>
+    </item>
+    <item>
+      <headword id="idp167343368">cuile</headword>
+      <description>Notes: small closet, used for storing potatoes, etc.</description>
+    </item>
+    <item>
+      <headword id="idp167435024">gàbart</headword>
+      <description>Notes: a lighter; large broad boat.</description>
+    </item>
+    <item>
+      <headword id="idp167433728">goic</headword>
+      <description>Quotation: A’ ghoic a bh’oirre! Notes: cocky expression.</description>
+    </item>
+    <item>
+      <headword id="idp167345168">gorrcad</headword>
+      <description>[ˈɡɔRɔxkəd] Quotation: Thug e gorrcad orm. Notes: a gruff rebuke.</description>
+    </item>
+  </items>
+</fieldworkDocument>

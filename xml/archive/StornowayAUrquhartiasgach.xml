@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 13 4 14 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="WoolworkingandFishing_StornowayAUrquhartiasgach" docType="questionnaire" subType="AcfhuinnIasgaich" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Acfhuinn Iasgaich / Fishing Tackle</title>
+  <date>[03/1968 on the slips]</date>
+  <fieldworker>[self]</fieldworker>
+  <note>[NOTES: the informant uses adjectives to show the gender of the noun. These have been replaced with (m) and (f).]</note>
+  <note>[NOTES: the words have been slipped and therefore in this file, apart from the definitions provided by the informant, the definitions as they appear on the slips have also been included (unless the two were the same).]</note>
+  <informant>
+    <nameEnglish>A. Urquhart</nameEnglish>
+    <nameGaelic>A. Urchardan</nameGaelic>
+    <age>73</age>
+    <origin>Geàrrloch (Loch Iubh) [Gairloch (Loch Ewe)]</origin>
+  </informant>
+  <location>[Lewis], Steòrnabhagh [Stornoway]</location>
+  <items>
+    <item>
+	  <headword id="idola272">[note]</headword>
+	  <description>(Dh’fhag mi na facail Leódhasach aca fhéin.)</description>
+	</item>
+    <item><headword id="d0e50" type="heading" level="h1">1. Lìon-mór</headword></item>
+    <item>
+      <headword id="d0e55">lìon-mór</headword>
+      <description>[NOTES: slip not found.]</description>
+    </item>
+    <item>
+      <headword id="d0e64">druim</headword>
+      <description>[NOTES: slip not found.]</description>
+    </item>
+    <item>
+      <headword id="d0e73">casan (gaoisid)</headword>
+      <description>[NOTES: slip not found.]</description>
+    </item>
+    <item>
+      <headword id="d0e82">buidhe (Beurla)</headword>
+      <description>[SLIP: Buoy.]</description>
+    </item>
+    <item>
+      <headword id="d0e91">crogais</headword>
+      <description>pasgan dhiùbh an àite buidhe.</description>
+    </item>
+    <item>
+      <headword id="d0e100">a’ chlach</headword>
+      <description>‘An do chuir thu mach a chlach?’ – ulpag math cloiche air gach ceann mar chruaidh. [NOTES: slipped under ‘clach’.]</description>
+    </item>
+    <item>
+      <headword id="d0e109">ceann-a-cuir</headword>
+      <description>sreang làidir ceangailte ris a’ chloich is ris an lìon. [NOTES: slipped under ‘ceann’ with ‘ceann-a-cuir’ as the quotation.]</description>
+    </item>
+    <item>
+      <headword id="d0e118">sgùil</headword>
+      <description>bascaid anns a bheil an lìon air a càradh.</description>
+    </item>
+    <item>
+      <headword id="d0e127">réiteach</headword>
+      <description>ag cur an lìon air ais anns an sgùil [q.v.] an òrdugh air a glanadh is air a tiormachadh.</description>
+    </item>
+    <item>
+      <headword id="d0e136">an gocair</headword>
+      <description>am fear d’am b’obair a bhith toirt an éisg de’n dubhan mar a bhathas a’ tarruing. (Droch obair air fhàgail air fear-easgaidh.) [NOTES: slipped under ‘gocair’ with ‘an gocair’ as the quotation.]</description>
+    </item>
+    <item>
+      <headword id="d0e145">lìon-beag</headword>
+      <description>[NOTES: slip not found.]</description>
+    </item>
+    <item><headword id="d0e153" type="heading" level="h1">2. Lìon-beag</headword></item>
+    <item><headword id="d0e157" type="heading" level="h1">3. Lìon-sgadanach</headword></item>
+    <item>
+      <headword id="d0e162">lìon-sgadanaich</headword>
+      <description>[NOTES: slip not found.]</description>
+    </item>
+    <item>
+      <headword id="d0e171">druim is bonn</headword>
+      <description>[NOTES: slip not found.]</description>
+    </item>
+    <item>
+      <headword id="d0e180">mogul</headword>
+      <description>[NOTES: slip not found.]</description>
+    </item>
+    <item>
+      <headword id="d0e189">cliùchdaireachd</headword>
+      <description>ag càradh no a’ fighe.</description>
+    </item>
+    <item>
+      <headword id="d0e198">snàthad-lìn</headword>
+    </item>
+    <item>
+      <headword id="d0e204">còrcaich</headword>
+      <description>an snàth.</description>
+    </item>
+    <item>
+      <headword id="d0e213">sguman</headword>
+      <description>seòrsa sluasaid leis an togadh tu an sgadan as an taoim do’n bhascaid.</description>
+    </item>
+    <item>
+      <headword id="d0e222">ceud sgadan</headword>
+      <description>b’e sin riamh sia fichead. [NOTES: slipped under ‘sgadan’ with ‘ceud sgadan’ as the quotation.]</description>
+    </item>
+    <item><headword id="d0e230" type="heading" level="h1">4. Lìon sam bith eile</headword></item>
+    <item>
+      <headword id="d0e235">cabhull</headword>
+      <description>lìon is poca oirre airson bric a ghlacadh air allt. Am beul air a chumail fosgailte le slat chrom sheilich. Bha dà ghàradh (aon bho gach taobh) air fhiaradh le fosgladh anns a’ mheadhon far an robh thu cur beul an lìn, ag gabhail do’n allt os cionn sin leis na clachan gus an rachadh an t-iasg sìos. Chì thu eileach mar so an iomadh àite air allt far a bheil ruith chòmhnard. <illustration src="StornowayAUrquhartiasgachillust1.jpg" width="400"/></description>
+      <note>[NOTES: originally slipped under ‘cabhull’ but this was changed to ‘cabhal’ by a second hand and ‘cabhull’ was added as the quotation.] [NOTES: the second part of the explanation has been slipped separately under ‘eileach’.]</note>
+    </item>
+    <item>
+      <headword id="d0e248">lìon-leòbag</headword>
+      <description>[NOTES: slipped under ‘lion-leobag’.]</description>
+    </item>
+    <item>
+      <headword id="d0e257">lìon-roinneach</headword>
+      <description>[NOTES: slipped under ‘lion-roinneach’.]</description>
+    </item>
+    <item>
+      <headword id="d0e266">breac-lìon</headword>
+      <description>air son liùghaichean is truisg is ucais.</description>
+    </item>
+    <item><headword id="d0e274" type="heading" level="h1">5. Duirgh, slatan, driamlaichean</headword></item>
+    <item>
+      <headword id="d0e279">dorgh (m)</headword>
+      <description><illustration src="StornowayAUrquhartiasgachillust2.jpg" width="300"/></description>
+    </item>
+    <item>
+      <headword id="d0e288">clàrag</headword>
+      <description><illustration src="StornowayAUrquhartiasgachillust3.jpg" width="150"/></description>
+    </item>
+    <item>
+      <headword id="d0e297">meigh (m)</headword>
+    </item>
+    <item>
+      <headword id="d0e303">clach-luaidhe</headword>
+      <description>[See dorgh.]</description>
+    </item>
+    <item>
+      <headword id="d0e312">cruaidh (f)</headword>
+      <description>clach mar acair aig a’ bhàta. [NOTES: slip not found.]</description>
+    </item>
+    <item>
+      <headword id="d0e321">caigeann (f)</headword>
+      <description>iasg air gach dubhan.</description>
+    </item>
+    <item>
+      <headword id="d0e330">sgobadh (m)</headword>
+      <description>(‘dubadh’ an Leódhas.)</description>
+    </item>
+    <item>
+      <headword id="d0e339">teumadh (m)</headword>
+      <description>spadadh a bheir thu air an dorgh an uair a dh’fhairicheas tu sgobadh [q.v.]. “Cha do theum mi ceart e.” “Chaill mi e.” No glé thric: “Dh’fhàg e mi.” “Chuireadh srian ris a’ bhradan / Cha b’e fhasan am fàgail.” (W Bàn)</description>
+    </item>
+    <item>
+      <headword id="d0e348">teumadh</headword>
+      <description>ag ceangal is a’ suaineadh slat ri chéile (ma bha dà phìos no trì innte (English ‘splice’).</description>
+    </item>
+    <item>
+      <headword id="d0e357">driamlach (f)</headword>
+    </item>
+    <item>
+      <headword id="d0e363">(f)ribheag (f)</headword>
+      <description>English ‘barb’. [NOTES: slip not found.]</description>
+    </item>
+    <item>
+      <headword id="d0e372">gob an dubhain</headword>
+      <description>[NOTES: slip not found.]</description>
+    </item>
+    <item>
+      <headword id="d0e381">snàgaileadh (m)</headword>
+      <description>an suaineadh snàtha leis an robh thu cur an dubhain ris an t-snòd.</description>
+    </item>
+    <item>
+      <headword id="d0e390">siabadh (m)</headword>
+      <description>cur am [sic] mach driamlaich [q.v.] leis an t-slait. “Is math a shiabas e.” Chuala mi tric e ach cha chluinn an diugh ach ‘castadh’. [NOTES: the slip has ‘cur a mach’.]</description>
+    </item>
+    <item>
+      <headword id="d0e399">[castadh]</headword>
+      <description>[See siabadh.] [NOTES: it has not been slipped.]</description>
+    </item>
+    <item>
+      <headword id="d0e408">cuileag</headword>
+    </item>
+    <item>
+      <headword id="d0e414">frithliosg (m)</headword>
+      <description>Is e sin a bha againn an comhnuidh air ‘baoiteag’ (biathadh). Bha na seann daoine a b’aithne dhomh an còmhnuidh cur smugaid air an deidh chur air an dubhan. [NOTES: the slip has the following note – ‘Check spelling, whether ‘o’ or ‘r’ after ‘f’’. It looks like ‘r’ to me.]</description>
+    </item>
+    <item>
+      <headword id="d0e423">[baoiteag]</headword>
+      <description>[biathadh. See frithliosg.] [NOTES:  it has not been slipped.]</description>
+    </item>
+    <item>
+      <headword id="d0e432">a’ fainneamh</headword>
+      <description>a’ dorghadh gun chruaidh a chur a mach ach ag cumail an eathar leis na ràimh (ag iomradh gu socrach gus an tigeadh tu air an iasg). [NOTES: slipped under ‘fainneamh’ with ‘a’ fainneamh’ as the quotation.]</description>
+    </item>
+    <item>
+      <headword id="d0e441">iasg-geal</headword>
+      <description>daoine bha ag obair ag glacadh bhradan leis na lin an àiteachan sònraichte mu’n chladach theirte mu’n déidhinn “gun robh iad anns an iasg-gheal”.</description>
+    </item>
+    <item>
+      <headword id="d0e450">bradan</headword>
+      <description>[NOTES: slip not found.]</description>
+    </item>
+    <item>
+      <headword id="d0e459">geadag</headword>
+      <description>bradan [q.v.] na ceud bliadhna.</description>
+    </item>
+    <item>
+      <headword id="d0e468">breac-geal</headword>
+      <description>sea-trout.</description>
+    </item>
+    <item>
+      <headword id="d0e477">bànag</headword>
+      <description>breac-geal [q.v.] na ceud bliadhna.</description>
+    </item>
+    <item>
+      <headword id="d0e486">breac-donn</headword>
+    </item>
+    <item>
+      <headword id="d0e492">dearganach</headword>
+      <description>(char.) [?]</description>
+    </item>
+    <item>
+      <headword id="d0e501">mach (f)</headword>
+      <description>iasg sam bith an deidh a’ chlaidh. [NOTES: slip not found.]</description>
+    </item>
+    <item>
+      <headword id="d0e510">rot (m)</headword>
+      <description>breac-donn de mheud is fhiach a chumail. Rot cuideachd air son beathach cuimseach air bith, rot muilt.</description>
+    </item>
+    <item>
+      <headword id="d0e519">gad-éisg</headword>
+      <description>iasg air meangan fraoich, no beithe no seilich.</description>
+    </item>
+    <item>
+      <headword id="d0e528">bacan-éisg</headword>
+      <description>iasg air sreing.</description>
+    </item>
+    <item>
+      <headword id="d0e537">Na trì nithean as iasgailte a tha ann:</headword>
+      <description>“Dubhan bradach, beairt ribeach, slat cham chaorainn air a buain ann an aodainn creige.” Bho Uilleam Mac Illeathain (78) am Poll-Dùbh. Mhìnich e dhomh e mar seo: Bha am fiodh cruaidh (fàs mall) leis nach robh móran torraidh aice (a’ chraobh) an aodainn creige. An uair a bha an t-slat cam bha i nas nàdurraiche os cionn an uisge, an dubhan meirgeach agus geur agus mar sin bradach, am beairt ribeach <illustration src="StornowayAUrquhartiasgachillust4.jpg" width="300"/>(a’ ghaoisid uirlach [?]) (a’ mealladh an éisg). ’S ann gu h-àraidh air creagach a bha e tighinn.</description>
+      <note>[NOTES: slipped under ‘iasgailte’.]</note>
+    </item>
+    <item><headword id="d0e550" type="heading" level="h1">6. Acfhuinn sam bith eile</headword></item>
+    <item>
+      <headword id="d0e555">cromag (f)</headword>
+    </item>
+    <item>
+      <headword id="d0e561">hàbhan (m)</headword>
+      <description>landing net.</description>
+    </item>
+    <item>
+      <headword id="d0e570">hàbhan-mór</headword>
+      <description>té mhór mar bu trice airson a bhith togail maorach (eisirean) bho’n ghrunnd.</description>
+    </item>
+    <item>
+      <headword id="d0e579">morgh ()</headword>
+      <description>[?] </description>
+    </item>
+    <item>
+      <headword id="d0e588">solus no lias</headword>
+      <description>airson iasg a mharbhadh air aibhnichean is uillt aig àm claidh [?]. [NOTES: ‘morgh’ and ‘solus no lias’ are enclosed in a brace but it is not clear what the relation between them is and whether the illustration and definition refer to both of them.] [NOTES: no slip for ‘solus’ or ‘lias’ found. The slip with ‘morgh’ contains only the illustration.]</description>
+    </item>
+    <item>
+      <headword id="d0e597">morgh (m)</headword>
+      <description>airson leòbag a mharbhadh is iad ’nan laighe ’sa’ ghainmhich.</description>
+    </item>
+    <item>
+      <headword id="d0e606">lias (m)</headword>
+      <description>(gu sònraichte) bucas (mu 14" gach rathad, 7 mu 6' an doimhne) le glainne ’sa’ bhonn. Troimhe chitheadh tu air a’ ghrunnd an torran beag gainmhich anns an robh an leòbag. (Chitheadh fear eòlach an t-sùil aice.) Bha thu an sin a’ stiuireadh a’ mhorgha oirre. [NOTES: slipped under ‘liàs’.]</description>
+    </item>
+  </items>
+</fieldworkDocument>

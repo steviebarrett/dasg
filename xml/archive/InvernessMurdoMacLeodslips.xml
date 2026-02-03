@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 1/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_InvernessMurdoMacLeodslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>1967</date>
+  <informant>
+    <nameEnglish>Murdo MacLeod</nameEnglish>
+    <origin>Back</origin>
+  </informant>
+  <location>Inverness</location>
+  <items>
+    <item>
+      <headword id="idp115746680">[ˈkɔLəˈLɔ:dʹ]</headword>
+      <description>Notes: confusion.</description>
+    </item>
+    <item>
+      <headword id="idp115748336">amhainn</headword>
+      <description>[ˈafiNʹ] Quotation: Chaidh a’ bho ann an amhainn. Notes: an awkward position, as getting leg caught in tether.</description>
+    </item>
+    <item>
+      <headword id="idp115750280">asgart</headword>
+      <description>Notes: what’s left of a potato after eyes have been cut for planting. (Applecross, glaodhan)</description>
+    </item>
+    <item>
+      <headword id="idp115751792">cathalaich</headword>
+      <description>[ˈkəhəLıç] Notes: babble of talk.</description>
+    </item>
+    <item>
+      <headword id="idp115753520">cealla-ghlòir</headword>
+      <description>[kʹ[ɑLɑ]ƴLɔ:r] [?] Notes: babble of noise.</description>
+    </item>
+    <item>
+      <headword id="idp115755752">coileamas</headword>
+      <description>[ˈkələməs] Notes: stream of speech.</description>
+    </item>
+  </items>
+</fieldworkDocument>

@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 5 2 15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="DRMorrisonetal_ScalpayDRMorrisonmisc8" docType="wordlist" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>[1975 on the slips]</date>
+  <fieldworker>[self]</fieldworker>
+  <note>[NOTES: the words have been slipped and therefore, apart from the definitions provided by Mr Morrison, the definitions as they appear on the slips have also been included (unless the two were the same).]</note>
+  <informant>
+    <nameEnglish>D.R. Morrison</nameEnglish>
+    <nameGaelic>D.R. Moireasdan</nameGaelic>
+    <age>[55]</age>
+  </informant>
+  <location>Na Hearadh, Scalpaigh [Harris,Scalpay]</location>
+  <items>
+    <item>
+      <headword id="idola368" type="heading" level="h1">Word-list</headword>
+    </item>
+    <item>
+      <headword id="idp115807376">drinnisg</headword>
+      <description>a person scared of the cold.</description>
+    </item>
+    <item>
+      <headword id="idp115804136">siablaich</headword>
+      <description>fishing with a rod.</description>
+    </item>
+    <item>
+      <headword id="idp115826888">maoidhir</headword>
+      <description>fly-hook.</description>
+    </item>
+    <item>
+      <headword id="idp115828400">maoidhireachd</headword>
+      <description>fishing with a rod, plying a rod by swinging the line attached and dragging it with the fly-hook fastened to the line and skimming on or pulled near the surface. (Pronounced: magh thar ri theachd.)</description>
+    </item>
+    <item>
+      <headword id="idp115830272">riathasg</headword>
+      <description>boiled limpets for bait for a fishing rod. (I am not sure of the spelling – one of the two is correct, I think.) [NOTES: it is not clear if the ‘two’ refers to riathasg vs. friathasg or rather riathasg/friathasg vs. riasg/friasg.]</description>
+    </item>
+    <item>
+      <headword id="idp115832144">friathasg</headword>
+      <description>[See riathasg.]</description>
+    </item>
+    <item>
+      <headword id="idp115833656">riasg</headword>
+      <description>[See riathasg.]</description>
+    </item>
+    <item>
+      <headword id="idp115835384">friasg</headword>
+      <description>[See riathasg.]</description>
+    </item>
+    <item>
+      <headword id="idp115837112">gàinne</headword>
+      <description>barb of a hook – fishing hook. (Pronounce the ‘a’ accented.)</description>
+    </item>
+    <item>
+      <headword id="idp115838984">calpa</headword>
+      <description>a fishing hook’s unbended part. I think the flattened end to which the line is tied is or was named liath an dubhain, similar to liath an raimh (this was in one instance as regards the oar). [SLIP: The bottom, flat end of a fish-hook to which the line is tied.] [NOTES: ‘liath an dubhain’ has been slipped under ‘liath’. Definition: The end to which fishing line is tied.]</description>
+    </item>
+    <item>
+      <headword id="idp115840856">lunn</headword>
+      <description>the shaft of an oar.</description>
+    </item>
+    <item>
+      <headword id="idp115843520">strangan</headword>
+      <description>sewing thread for leather shoes.</description>
+    </item>
+    <item>
+      <headword id="idp115845032">lion-fuilt</headword>
+      <description>hairnet.</description>
+    </item>
+    <item>
+      <headword id="idp115846544">du’-chainnt</headword>
+      <description>shady speech if you can accept it this way. [SLIP: “Bad” language.]</description>
+    </item>
+    <item>
+      <headword id="idp115848272">drabasdachd</headword>
+      <description>cainnt shalach – unsavoury speech.</description>
+    </item>
+    <item>
+      <headword id="idp115850000">dubh-fhacal</headword>
+      <description>parable.</description>
+    </item>
+    <item>
+      <headword id="idp115851512">drungan</headword>
+      <description>easy. Drugan [sic] oibreach – little work, in a slow motion. [NOTES: Slipped under ‘drungan/drugan’ with a comment ‘has both – which correct?’ Definition: Easy; little work – “in a slow motion”.]</description>
+    </item>
+    <item>
+      <headword id="idp115853456">strùpag</headword>
+      <description>tea drank at tea-break. [NOTES: I could not find the slip. There is one dated 1976 with definition ‘balgam’.]</description>
+    </item>
+    <item>
+      <headword id="idp115855184">barra-cuibleadh</headword>
+      <description>[sic] wheel-barrow. (As spoken on Scalpay.) [NOTES: the slip has ‘barra-cuibhleadh’.]</description>
+    </item>
+    <item>
+      <headword id="idp115856912">calcas</headword>
+      <description>caulking wool. [NOTES: the slip has a note in pencil ‘I assume there should be a hyphen between the two words of translation’.]</description>
+    </item>
+    <item>
+      <headword id="idp115859072">turcas</headword>
+      <description>pincer.</description>
+    </item>
+    <item>
+      <headword id="idp115861016">gocaman-gò</headword>
+      <description>a dangerous – perhaps unreliable better – or an unsteady character, sentinel. [SLIP: An unreliable, unsteady character.]</description>
+    </item>
+    <item>
+      <headword id="idp115862744">gocaman</headword>
+      <description>cuckoo follower. There is a bird often in partnership flight with the cuckoo bird to which [we] refer on Scalpay as an gocaman. [SLIP: “Cuckoo follower” – a bird which often flies with the cuckoo so called.]</description>
+    </item>
+    <item>
+      <headword id="idp115865552">cam-a-rèic</headword>
+      <description>illusionment. [sic]</description>
+    </item>
+    <item>
+      <headword id="idp115867280">sgroiteach</headword>
+      <description>unsuitable female for a girlfriend with a youth. [SLIP: An unsuitable girl-friend for a youth.]</description>
+    </item>
+    <item>
+      <headword id="idp115869008">cruidhneach</headword>
+      <description>remark likewise or (do) [meaning that it has the same meaning as the previous word i.e. sgroiteach?]. [SLIP: Vid. ‘sgroiteach’.]</description>
+    </item>
+    <item>
+      <headword id="idp115870736">smiùil</headword>
+      <description>neat.</description>
+    </item>
+    <item>
+      <headword id="idp115872248">tamhasg</headword>
+      <description>stupid, a person making a mistake and another person remarking as here: tamhasg. [SLIP: What a person making a silly mistake is called – i.e. stupid.]</description>
+    </item>
+    <item>
+      <headword id="idp115873976">taoim or taighium or teim</headword>
+      <description>pull with a jerk as when fishing.</description>
+    </item>
+    <item>
+      <headword id="idp115875488">tuim or taoim</headword>
+      <description>bilge water in a boat. (Perhaps the two meanings [of taoim] could be noted to the same spelling.) [NOTES: both meanings slipped under ‘taoim’. No variant spellings given. Definition: To pull with a jerk as when fishing. Also ‘bilge-water’.]</description>
+    </item>
+    <item>
+      <headword id="idp115877360">stràc</headword>
+      <description>stroke. Also: Cha d’fhuair e air air [sic] adhart strac [sic]. (I have noted stràc in a former note. It does not matter.) [NOTES: the slip has ‘Cha d’fhuair e air adhart stràc.’]</description>
+    </item>
+	<item>
+	  <headword id="idola369">[note]</headword>
+	  <description>I’ll [sic] am trying to keep to the single, most uncommon meaning of the word, I think.</description>
+	</item>
+    <item>
+      <headword id="idp115881248">glòramas</headword>
+      <description>boasting, prattle. [SLIP: Boasting prattle.]</description>
+    </item>
+    <item>
+      <headword id="idp115882976">sgaothag</headword>
+      <description>a wee shoal (as in the case of small fish).</description>
+    </item>
+    <item>
+      <headword id="idp115884704">lóthunn</headword>
+      <description>a descriptive word for an untidy, neglected boat. [NOTES: the slip has ‘lòthunn’.]</description>
+    </item>
+    <item>
+      <headword id="idp115886432">sgoladh</headword>
+      <description>rinsing. Sgoladh dhe mo theangadh. (common)</description>
+    </item>
+    <item>
+      <headword id="idp115888160">deargan</headword>
+      <description>flea.</description>
+    </item>
+    <item>
+      <headword id="idp115889672">innsail</headword>
+      <description>telling. (Another form of innseadh.) [NOTES: slipped under ‘innis’ with ‘ìnnsail’ as the quotation. Definition: Another form of ‘innseadh’.]</description>
+    </item>
+    <item>
+      <headword id="idp115891544">lag-a-bhràthad</headword>
+      <description>(noun) hollow in the gully or gullet.</description>
+    </item>
+    <item>
+      <headword id="idp118814352">spochadh</headword>
+      <description>(noun) a shout to frighten a person. [SLIP: A shout to frighten people.]</description>
+    </item>
+    <item>
+      <headword id="idp118832568">spiolagan</headword>
+      <description>distracting [sic] [extracting?] food from whelks. A’ spiolagadh na faochag.</description>
+    </item>
+	<item>
+	  <headword id="idola370">[atmosphere]</headword>
+	  <description>Someone once asked me what was the Gaelic word for atmosphere: aer, buaidh, lathaireachd in a church?</description>
+	</item>
+    <item>
+      <headword id="idp118894920">brùnndail</headword>
+      <description>murmuring.</description>
+    </item>
+    <item>
+      <headword id="idp118818528">sabaist</headword>
+      <description>fighting (sabaid).</description>
+    </item>
+    <item>
+      <headword id="idp118897224">stracannan</headword>
+      <description>opening as in the planks of a boat being in the sun, result of drying (grèigheadh).</description>
+    </item>
+    <item>
+      <headword id="idp118783968">guthan</headword>
+      <description>phone. (I have heard this word from a person: colloquial – was it a word invented? I was wondering afterwards.) [SLIP: Phone – actually heard, though suspected it was ‘invented’.]</description>
+    </item>
+    <item>
+      <headword id="idp118785408">tigh-na-h-adhairc</headword>
+      <description>‘fog-horn house’. The way the house on which the fog-horn is cemented is termed by the islanders of Scalpay.</description>
+    </item>
+    <item>
+      <headword id="idp118775112">Iain-nam-bròg</headword>
+      <description>(slang, common with fishermen) wasn’t there a name used for this boot extractor. <illustration src="ScalpayDRMorrisonmisc8illust1.jpg" width="700px"/> I think there was another name in the term of a word. Perhaps you remember. I cannot recall it at the moment. [NOTES: slipped under Iain-nam-brog. Definition: Name for piece of wood so shaped to help fishermen out of their boots.]</description>
+    </item>
+    <item>
+      <headword id="idp118887504">clàr-fuineadh</headword>
+      <description>kneading board. Common but seldom used now, the board.</description>
+    </item>
+    <item>
+      <headword id="idp118873248">leac-arain</headword>
+      <description>for holding the bannocks to the fire for cooking in the open fireplaces of the black-houses.</description>
+    </item>
+    <item>
+      <headword id="idp118891248">damaiste</headword>
+      <description>rough time. Fhuair e damaiste. – he got a ‘hardship’. [SLIP: “Rough time”.]</description>
+    </item>
+    <item>
+      <headword id="idp118875048">spliongag</headword>
+      <description>sling (we call it). Also crann-tabhuill in other places.</description>
+    </item>
+    <item>
+      <headword id="idp118811760">loch-bhlian</headword>
+      <description>flank (the way we pronounce it).</description>
+    </item>
+    <item>
+      <headword id="idp118836960">lùdagan</headword>
+      <description>hinges.</description>
+    </item>
+    <item>
+      <headword id="idp118845528">clas-làmh</headword>
+      <description>hand-cuff. [NOTES: the slip has ‘glas-làmh’.]</description>
+    </item>
+    <item>
+      <headword id="idp118874760">drong</headword>
+      <description>trunk.</description>
+    </item>
+    <item>
+      <headword id="idp118769640">meacharan</headword>
+      <description>wee cuddies (old reference occasionally heard today: if heard at all). [SLIP: Small cuddies – old-fashioned word, seldom used now.]</description>
+    </item>
+    <item>
+      <headword id="idp118869000">siolpa</headword>
+      <description>little look, look, popped in. Chaidh mi siolpa ann. – I went there for a wee while.</description>
+    </item>
+    <item>
+      <headword id="idp118888656">seacaidh</headword>
+      <description>withering look.</description>
+    </item>
+    <item>
+      <headword id="idp118877928">sgonnan</headword>
+      <description>a small lump of a hill, rock or wood.</description>
+    </item>
+    <item>
+      <headword id="idp118800384">lugaichean</headword>
+      <description>sand-worms used as bait for line fishing.</description>
+    </item>
+    <item>
+      <headword id="idp118813920">luidheir</headword>
+      <description>a ‘chimney’ part of a black house.</description>
+    </item>
+    <item>
+      <headword id="idp118812840">stol-smiùraidh</headword>
+      <description>a smearing stool on which a ‘smearer’ (fear-smiaraidh) sat while engaged in the process of smearing ship with tar.</description>
+    </item>
+  </items>
+</fieldworkDocument>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 29/9/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_EdinburghWMathesonslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>1978, 1988</date>
+  <informant>
+    <nameEnglish>Rev. W. Matheson</nameEnglish>
+  </informant>
+  <location>Edinburgh</location>
+  <items>
+    <item>
+      <headword id="idp115743512">searsanach</headword>
+      <description>Notes: a large potato. (Lewis)</description>
+    </item>
+    <item>
+      <headword id="idp115745024">taisean</headword>
+      <description>Quotation: na taisean. Notes: the skeleton.</description>
+    </item>
+    <item>
+      <headword id="idp115746680">ballan</headword>
+      <description>Quotation: in phr. a’ cur nam ballan. Notes: ‘cupping’ – raising a blister and pricking it. (Lewis usage)</description>
+    </item>
+    <item>
+      <headword id="idp115748336">còta-tòin-giomaich</headword>
+      <description>Notes: ‘swallow-tail coat.’ Heard in N. Uist.</description>
+    </item>
+  </items>
+</fieldworkDocument>

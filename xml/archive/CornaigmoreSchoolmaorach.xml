@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 5 4 14 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="WoolworkingandFishing_CornaigmoreSchoolmaorach" docType="questionnaire" subType="Maorach" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Maorach / Shellfish</title>
+  <fieldworker>[school]</fieldworker>
+  <informant>
+    <nameEnglish>Cornaigmore School</nameEnglish>
+    <nameGaelic>Sgoil Chornaig Mhóir</nameGaelic>
+  </informant>
+  <location>Eilean Thiriodh, Cornaig Mhór [Tiree, Cornaigmore]</location>
+  <items>
+    <item><headword id="d0e26" type="heading" level="h1">1. Maorach</headword></item>
+    <item>
+      <headword id="d0e31">feusgan</headword>
+      <description>mussel.</description>
+    </item>
+    <item>
+      <headword id="d0e40">bairneach</headword>
+      <description>limpet.</description>
+    </item>
+    <item>
+      <headword id="d0e49">maorach</headword>
+      <description>limpet.</description>
+    </item>
+    <item>
+      <headword id="d0e58">guirgean</headword>
+      <description>whelk.</description>
+    </item>
+    <item>
+      <headword id="d0e67">faochag</headword>
+      <description>whelk.</description>
+    </item>
+    <item>
+      <headword id="d0e76">creachann</headword>
+      <description>clam.</description>
+    </item>
+    <item>
+      <headword id="d0e85">muirsgein</headword>
+      <description>razor-fish.</description>
+    </item>
+    <item>
+      <headword id="d0e94">eisir</headword>
+      <description>oyster.</description>
+    </item>
+    <item>
+      <headword id="d0e103">coilleag</headword>
+      <description>cockle.</description>
+    </item>
+    <item>
+      <headword id="d0e112">connicheag</headword>
+      <description>cockle.</description>
+    </item>
+    <item>
+      <headword id="d0e121">gille fionn</headword>
+      <description>periwinkle.</description>
+    </item>
+    <item>
+      <headword id="d0e130">gine  geal</headword>
+      <description>[sic] periwinkle.</description>
+    </item>
+    <item>
+      <headword id="d0e139">muasgan</headword>
+      <description>prawn.</description>
+    </item>
+    <item>
+      <headword id="d0e148">carrachan</headword>
+      <description>shrimp.</description>
+    </item>
+    <item>
+      <headword id="d0e157">giomach</headword>
+      <description>lobster.</description>
+    </item>
+    <item>
+      <headword id="d0e166">partan</headword>
+      <description>crab.</description>
+    </item>
+    <item>
+      <headword id="d0e175">cruban</headword>
+      <description>crab.</description>
+    </item>
+    <item><headword id="d0e183" type="heading" level="h1">2. A’ tional maorach</headword></item>
+    <item>
+      <headword id="d0e188">a’ trusadh fhaochag</headword>
+      <description>gathering whelks.</description>
+    </item>
+    <item>
+      <headword id="d0e197">a’ buain mhaorach</headword>
+      <description>gathering limpets.</description>
+    </item>
+    <item>
+      <headword id="d0e206">a’ trusadh fheasgainn</headword>
+      <description>gathering mussels.</description>
+    </item>
+    <item>
+      <headword id="d0e215">a’ trusadh chonnichag</headword>
+      <description>gathering cockles.</description>
+    </item>
+    <item>
+      <headword id="d0e224">a’ trusadh choilleagan</headword>
+      <description>gathering cockles.</description>
+    </item>
+    <item><headword id="d0e232" type="heading" level="h1">3. Beathaichean eile a gheibhear ’sa’ chladach</headword><description>[page missing] </description></item>
+  </items>
+</fieldworkDocument>

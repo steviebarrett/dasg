@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 24 4 13 -->
+<fieldworkDocument docId="Peat_GlasgowJAMacPhersonmoine" docType="questionnaire" subType="Peat">
+  <title>Mòine / Peat-Working</title>
+  <fieldworker>[self]</fieldworker>
+  <informant>
+    <nameEnglish>Johnnie Alec MacPherson</nameEnglish>
+    <nameGaelic>Seonaidh Ailig Mac A’ Phearsain </nameGaelic>
+    <age>30</age>
+    <origin>Uibhist-a-Tuath [North Uist]</origin>
+  </informant>
+  <location>[Glasgow], BBC Queen Margaret Drive</location>
+  <items>
+    <item><headword id="d0e32" type="heading" level="h1">1. Ag ullachadh na talmhainn airson mòine a bhuain</headword></item>
+    <item>
+      <headword id="d0e37">feannadh (v.n.)</headword>
+      <description>a’ toirt na sgrath far uachdar a’ phuill mus teid a’ mhòine a bhuain.</description>
+    </item>
+    <item>
+      <headword id="d0e46">rùsgadh (v.n.)</headword>
+      <description>an aon chiall ri ‘feannadh’.</description>
+    </item>
+    <item>
+      <headword id="d0e55">susadh (v.n.)</headword>
+      <description>a’ gearradh na talmhainn leis an spaid mus teid am poll fheannadh. Gearrar striochd fad a’ phuill.</description>
+    </item>
+    <item>
+      <headword id="d0e64">ligeadh (v.n.)</headword>
+      <description>a’ leigeil air falbh uisge as a’ pholl.</description>
+    </item>
+    <item>
+      <headword id="d0e73">sgrath (f.)</headword>
+      <description>an rusg talmhainn a theid fheannadh air uachdar a’ phuill.</description>
+    </item>
+    <item>
+      <headword id="d0e82">meighe (m.)</headword>
+      <description>leud na sgrath. Ma tha ‘meighe’ mór agad tha barrachd fhòid ann agus tha iad na’s duilighe ’n tilgeil chun an uachdar. Bha ‘meighe mór’ ’na chomharra air neart an luchd buana.</description>
+    </item>
+    <item><headword id="d0e90" type="heading" level="h1">2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</headword></item>
+    <item>
+      <headword id="d0e95">spaid (f)</headword>
+      <description>an Uibhist cha chleachdar spaid ach san feannadh no glanadh, ach am badan dhe na Hearadh bidh iad a’ buain leis an spaid.</description>
+    </item>
+    <item>
+      <headword id="d0e104">traoisgeir (f)</headword>
+      <description>an t-inneal leis am bheilear a buain.</description>
+    </item>
+    <item>
+      <headword id="d0e113">am faobhar (m)</headword>
+      <description>‘the blade’.</description>
+    </item>
+    <item>
+      <headword id="d0e122">golfhad (m)</headword>
+      <description>tha mi air a’ chiall a dhichuimhneachadh ach tha e gle bhitheanta an Uibhist. [The above crossed out and the following added:] Chuimhnich mi air – an dara fàd ’sa pholl.</description>
+    </item>
+    <item>
+      <headword id="d0e131">caoran (m)</headword>
+      <description>am fàd mu dheireadh am bonn a’ phuill.</description>
+    </item>
+    <item>
+      <headword id="d0e140">sgaoilteach (f)</headword>
+      <description>far am bithear a’ tilgeil nam fàd air uachdar a’ phuill.</description>
+    </item>
+    <item>
+      <headword id="d0e149">barrfhad (m)</headword>
+      <description>am fàd is àirde ’sa pholl.</description>
+    </item>
+    <item>
+      <headword id="d0e158">feanntach (f)</headword>
+      <description>a’ mhòine fo’n sgrath a bhithear a’ glanadh mus gearrar am barrfhad. Bithear ’ga cur gu feum uaireannan.</description>
+    </item>
+    <item><headword id="d0e166" type="heading" level="h1">3. A’ tiormachadh na mònach</headword></item>
+    <item>
+      <headword id="d0e171">rùdhan (f)</headword>
+      <description>ceithir no coig de dh’fhòid air an seasamh air an ceann, agus fàd air fhaid air an uachdar.</description>
+    </item>
+    <item>
+      <headword id="d0e180">rùdhadh (v)</headword>
+      <description>a’ deanamh rùdhain.</description>
+    </item>
+    <item>
+      <headword id="d0e189">conachruachan (f)</headword>
+      <description>cruachan beaga – seachd no h-òchd de rùdhain.</description>
+    </item>
+    <item><headword id="d0e197" type="heading" level="h1">4. A’ cruachadh na mònach</headword></item>
+    <item><headword id="d0e201" type="heading" level="h1">5. A’ toirt na mònach dhachaigh; an cliabh, etc.</headword></item>
+    <item>
+      <headword id="d0e206">a’ tarruing mhòna</headword>
+    </item>
+    <item>
+      <headword id="d0e212">gniamhadh</headword>
+      <description>a’ togail na cruaiche aig an taigh.</description>
+    </item>
+    <item><headword id="d0e220" type="heading" level="h1">6. Seòrsachan mònach</headword></item>
+    <item>
+      <headword id="d0e225">mòine bhàn</headword>
+    </item>
+    <item>
+      <headword id="d0e231">mòine chruaidh dhubh</headword>
+    </item>
+    <item>
+      <headword id="d0e237">caoran</headword>
+    </item>
+    <item>
+      <headword id="d0e243">cìb</headword>
+      <description>moine phlocach anns nach ’eil móran feum.</description>
+    </item>
+    <item>
+      <headword id="d0e252">pluic</headword>
+    </item>
+    <item><headword id="d0e257" type="heading" level="h1">7. Faclan eile</headword></item>
+  </items>
+</fieldworkDocument>

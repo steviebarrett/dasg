@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 23 4 14 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="HarrisVarious_HarrisCluerRMacDonaldnadur" docType="questionnaire" subType="NdurAnDuine" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Nàdur an Duine / Personality</title>
+  <fieldworker>[anonymous D]</fieldworker>
+  <informant>
+    <nameEnglish>Roderick MacDonald</nameEnglish>
+    <age>mu [about] 80</age>
+  </informant>
+  <location>Na Hearadh [Harris], Cluer</location>
+  <items>
+    <item><headword id="d0e26" type="heading" level="h1">Good company / Bad company</headword></item>
+    <item>
+      <headword id="d0e31">d</headword>
+      <description>[uine] cùin [sic] soft gentle person.</description>
+    </item>
+    <item>
+      <headword id="d0e40">d anmgaideach</headword>
+      <description>[uine] someone full of mischief.</description>
+    </item>
+    <item>
+      <headword id="d0e49">d buaireasach</headword>
+    <description>[uine] </description></item>
+    <item>
+      <headword id="d0e55">d eudmhor</headword>
+      <description>[uine] jealous man.</description>
+    </item>
+    <item>
+      <headword id="d0e64">d solta</headword>
+    <description>[uine] </description></item>
+    <item>
+      <headword id="d0e70">ciuin</headword>
+    </item>
+    <item>
+      <headword id="d0e76">seimh</headword>
+    </item>
+    <item>
+      <headword id="d0e82">d mosach</headword>
+      <description>[uine] mean.</description>
+    </item>
+    <item>
+      <headword id="d0e91">d spiocach</headword>
+      <description>[uine] mean.</description>
+    </item>
+    <item>
+      <headword id="d0e100">d cair</headword>
+      <description>[uine] kind.</description>
+    </item>
+    <item>
+      <headword id="d0e109">d tabhairteach</headword>
+      <description>[uine] kind.</description>
+    </item>
+    <item>
+      <headword id="d0e118">cabairneach</headword>
+      <description>gossip (m).</description>
+    </item>
+    <item>
+      <headword id="d0e127">biosgalach</headword>
+      <description>two faced man.</description>
+    </item>
+    <item>
+      <headword id="d0e136">duine leimh</headword>
+      <description>tiresome nagging person.</description>
+    </item>
+    <item>
+      <headword id="d0e145">duine leantalach</headword>
+      <description>tiresome nagging person.</description>
+    </item>
+    <item>
+      <headword id="d0e154">duine mall</headword>
+      <description>slow acting.</description>
+    </item>
+    <item>
+      <headword id="d0e163">duine slaodach</headword>
+      <description>slow acting.</description>
+    </item>
+    <item>
+      <headword id="d0e172">duine sneagach</headword>
+      <description>slow acting.</description>
+    </item>
+    <item>
+      <headword id="d0e181">duine cearbe</headword>
+      <description>[?] a difficult person to get along.</description>
+    </item>
+    <item>
+      <headword id="d0e190">reamhal</headword>
+      <description>clumsy.</description>
+    </item>
+    <item>
+      <headword id="d0e199">riapal</headword>
+      <description>untidy person.</description>
+    </item>
+    <item>
+      <headword id="d0e208">fiosaiche</headword>
+      <description>witch.</description>
+    </item>
+    <item>
+      <headword id="d0e217">geasach</headword>
+      <description>witch.</description>
+    </item>
+    <item>
+      <headword id="d0e226">d rabhardach</headword>
+      <description>[uine] man who tells tall tales.</description>
+    </item>
+    <item>
+      <headword id="d0e235">d labhrach</headword>
+      <description>[uine] ard [?] gossipy.</description>
+    </item>
+    <item><headword id="d0e243" type="heading" level="h1">Cheerful / Gloomy</headword></item>
+    <item>
+      <headword id="d0e248">belàram</headword>
+      <description>duine a bhios a eibheachd [?] ’s a godail.</description>
+    </item>
+    <item>
+      <headword id="d0e257">creamhal</headword>
+      <description>a carelessly dressed man.</description>
+    </item>
+	<item><headword id="d0e265" type="heading" level="h1">A good man / A bad man</headword></item>
+	<item><headword id="d0e269" type="heading" level="h1">A successful man / A failure</headword></item>
+	<item><headword id="d0e273" type="heading" level="h1">A wise man / Foolish</headword></item>
+    <item><headword id="d0e277" type="heading" level="h1">Bold / Timid</headword></item>
+    <item>
+      <headword id="d0e282">càidsear</headword>
+      <description>duine a tha math air iarraidh.</description>
+    </item>
+    <item>
+      <headword id="d0e291">mi-modhail</headword>
+      <description>[sic] impudent.</description>
+    </item>
+    <item>
+      <headword id="d0e300">gaisgeach</headword>
+      <description>brave man.</description>
+    </item>
+    <item>
+      <headword id="d0e309">goraisg</headword>
+      <description>foolish woman.</description>
+    </item>
+    <item>
+      <headword id="d0e318">d faoin</headword>
+      <description>[uine] an easily led man.</description>
+    </item>
+    <item>
+      <headword id="d0e327">d slac</headword>
+      <description>[uine] an easily led man.</description>
+    </item>
+    <item>
+      <headword id="d0e336">peta de dhuine</headword>
+    </item>
+    <item>
+      <headword id="d0e342">ara de dhuine</headword>
+      <description>effeminate man.</description>
+    </item>
+    <item><headword id="d0e350" type="heading" level="h1">Proud / Humble</headword></item>
+    <item>
+      <headword id="d0e355">duine prosail</headword>
+      <description>proud man.</description>
+    </item>
+    <item>
+      <headword id="d0e364">d lan rispars</headword>
+      <description>[uine] proud man.</description>
+    </item>
+	<item><headword id="d0e372" type="heading" level="h1">Polite / Coarse</headword></item>
+    <item><headword id="d0e376" type="heading" level="h1">Bad types</headword></item>
+    <item>
+      <headword id="d0e381">duine cuirs</headword>
+      <description>[?] cruel person.</description>
+    </item>
+    <item>
+      <headword id="d0e390">duine droch amharasach</headword>
+      <description>suspicious.</description>
+    </item>
+    <item>
+      <headword id="d0e399">duine rag</headword>
+      <description>stubborn man.</description>
+    </item>
+	<item><headword id="d0e407" type="heading" level="h2">Any words used as insults, including curses</headword></item>
+    <item>
+      <headword id="d0e412">gonadh ort</headword>
+    </item>
+    <item>
+      <headword id="d0e418">beag buach ort</headword>
+      <description>[?] [NOTES: ‘buach’ added above ‘beag’ and ‘ort’ possibly to show that it is meant to be inserted between the two words.]</description>
+    </item>
+    <item>
+      <headword id="d0e427">mo dhiombach agad</headword>
+      <description>I am annoyed at you.</description>
+    </item>
+    <item>
+      <headword id="d0e436">nach tu bhiodh ann an Hiort</headword>
+    </item>
+    <item>
+      <headword id="d0e442">droch bhuach ort</headword>
+    </item>
+    <item><headword id="d0e447" type="heading" level="h1">Young / Old</headword></item>
+    <item>
+      <headword id="d0e452">duine bealach</headword>
+      <description>a talkative person.</description>
+    </item>
+    <item>
+      <headword id="d0e461">duine bragail</headword>
+      <description>“a smart alec”.</description>
+    </item>
+    <item>
+      <headword id="d0e470">pocan balach</headword>
+      <description>small boy.</description>
+    </item>
+    <item>
+      <headword id="d0e479">balach brogach</headword>
+      <description>balach òg tha fàs.</description>
+    </item>
+    <item>
+      <headword id="d0e488">bramalaid</headword>
+      <description>lazy woman.</description>
+    </item>
+  </items>
+</fieldworkDocument>

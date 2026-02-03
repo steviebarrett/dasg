@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 1 8 14 -->
+<fieldworkDocument docId="AOHenley_StoneybridgeRBuntonmisc" docType="wordlist" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>[1987-88]</date>
+  <fieldworker personId="ohenleya">A. O’Henley</fieldworker>
+  <note>[NOTES: some notes in second hand (K. D. MacDonald?). See below for details.]</note>
+  <informant>
+    <nameEnglish>Robert Bunton</nameEnglish>
+  </informant>
+  <location>South Uist, Stoneybridge</location>
+  <items>
+    <item>
+      <headword id="idp2097848">buig anns an t-sìde</headword>
+      <description>in the sense of mild weather.</description>
+    </item>
+    <item>
+      <headword id="idp2094680">suainteachan</headword>
+      <description>an instrument used to make heather ropes. Previously described under ‘corr shùgan’.</description>
+    </item>
+	<item>
+	  <headword id="idola31">[note]</headword>
+	  <description>According to Mr Bunton a flail was made from hardened tangles. Couldn’t be more precise but I will inquire further.</description>
+	</item>
+    <item>
+      <headword id="idp2113832">gealabhan</headword>
+      <description>for the fire in a kiln.</description>
+    </item>
+    <item>
+      <headword id="idm2938088">fiabhras a’ bhainne</headword>
+      <description>milk containing blood traces caused by a blockage in the cow’s udder.</description>
+    </item>
+    <item>
+      <headword id="idm2975744">tiorramachd</headword>
+      <description>deficiency in cattle which resulted in them drying up. Would deteriorate physically leading to a reduction in size. Castor oil was used as a cure.</description>
+    </item>
+    <item>
+      <headword id="idm2938376">greim</headword>
+      <description>cholic [sic]. Characterised by much swelling.</description>
+    </item>
+    <item>
+      <headword id="idm2937512">a draoghadh bheathaichean</headword>
+      <description>if animals were suffering from cholic [sic] they had to be kept on the move until the swelling subsided – ‘draoghadh’. Needed to be well fed after the swelling had retreated.</description>
+    </item>
+    <item>
+      <headword id="idm2965304">greim gainmheach</headword>
+      <description>caused by eating too much sand which would be attached to machair grass, plants, etc.</description>
+    </item>
+    <item>
+      <headword id="idm2928368">claigeann</headword>
+      <description>another word for the reins.</description>
+    </item>
+    <item>
+      <headword id="idm2994896">meirairt</headword>
+      <description>an illness in animals where the gums grew too far over the teeth. Had to be taken to a smithy where the excess gum would be burnt off.</description>
+    </item>
+    <item>
+      <headword id="idm3002528">srian bheag</headword>
+      <description>a shorter rein used to train a young horse. Prevented escape.</description>
+    </item>
+    <item>
+      <headword id="idm2937584">botrachan</headword>
+      <description>served the purpose of balancing and distributing the weight which a horse would bear. Went under the tail and was tied to the baskets on each side of a horse.</description>
+    </item>
+    <item>
+      <headword id="idm2999072">each a’ spreathadh</headword>
+      <description>a horse bolting caused by excitement.</description>
+    </item>
+    <item>
+      <headword id="idm2980784">each giorragach</headword>
+      <description>a horse that was difficult to control and prone to bolting.</description>
+    </item>
+    <item>
+      <headword id="idm3026144">caora uan</headword>
+      <description>a year to a year and a half old female.</description>
+    </item>
+    <item>
+      <headword id="idm2955008">crogaichean</headword>
+      <description>old sheep which are not capable of lambing.</description>
+    </item>
+    <item>
+      <headword id="idm3002960">clamair</headword>
+      <description>iron pliers used for castration.</description>
+    </item>
+    <item>
+      <headword id="idm2962208">cochull</headword>
+      <description>the skin which protects the testicles.</description>
+    </item>
+    <item>
+      <headword id="idm2945432">a’ cuir an uain</headword>
+      <description>a sheep that has miscarried with the lamb dead in its womb. Has to be delivered by hand. Similarly this is applied to cattle ‘cuir an laoigh’.</description>
+    </item>
+    <item>
+      <headword id="idm2940680">a dlùthadh</headword>
+      <description>warp.</description>
+    </item>
+    <item>
+      <headword id="idm3026288">a cur</headword>
+      <description>weft.</description>
+    </item>
+    <item>
+      <headword id="idm3053936">fiasag nan gobhar</headword>
+      <description>a weather indicator similar to ‘breacadh an runnaich’ previously described. Followed by rainy weather.</description>
+    </item>
+    <item>
+      <headword id="idm2966888">eoin a’ falbh na speilean</headword>
+      <description>followed by stormy, windy weather.</description>
+    </item>
+    <item>
+      <headword id="idm3053000">tunnagan a’ falbh air iteag</headword>
+      <description>followed by strong winds.</description>
+    </item>
+    <item>
+      <headword id="idm3054512">meall</headword>
+      <description>for a shower of rain.</description>
+    </item>
+    <item>
+      <headword id="idm3037808">barr brisgainn</headword>
+      <description>a white wild pansy which could be eaten. One of MacDonald of Ormiclate’s servants killed for eating one of these in the presence of MacDonald’s distinguished guest. By eating this root he was implying that he was not being well fed by MacDonald. [NOTES: note added above ‘brisgainn’ – ‘brisgein’.]</description>
+    </item>
+    <item>
+      <headword id="idm3007064">[frìde]</headword>
+      <description>“Is lugha na frìde mathair argumaid” A saying which indicates how easy it is to start an arument.</description>
+    </item>
+    <item>
+      <headword id="idm2988272">[cleibideag]</headword>
+      <description>“Millidh aon chleibideag a’ chuinneag” Literally one speck of dirt will spoil the rest of the milk in the pail. In a wider sense one mistake will undo the good work done by others. N.B. I think ‘cleibideag’ should mean a mishap and therefore could lead to the whole pail being spilt.</description>
+    </item>
+    <item>
+      <headword id="idm2991152">[buadhchar]</headword>
+      <description>Buadhchar an deireadh a’ bhainne. Literally dirt getting into the milk when you had filled the pail, therefore spoiling all the contents. Like the above saying [cf. cleibideag] it could mean undoing the good work done up till then.</description>
+    </item>
+    <item>
+      <headword id="idm3019232">blàrag</headword>
+      <description>pet name for a cow with a white patch on its forehead.</description>
+    </item>
+    <item>
+      <headword id="idm3029888">caolas</headword>
+      <description>name for cattle which had come from the mainland.</description>
+    </item>
+    <item>
+      <headword id="idp469344">beul na suaraiche</headword>
+      <description>a derogatory phrase applied to a calved [sic] [calf?] that suckled its mother when not supposed to.</description>
+    </item>
+    <item>
+      <headword id="idp470856">isean bradach</headword>
+      <description>same meaning as above [i.e. beul na suaraiche].</description>
+    </item>
+    <item>
+      <headword id="idp472368">cuilthionn</headword>
+      <description>name given to cattle which came from Skye. Characterised by having large horns – ‘adhaircean fada air a’ chrodh a tha ’sa cheò’.</description>
+    </item>
+    <item>
+      <headword id="idp474744">[snàthla]</headword>
+      <description>“’S fhada snàthla a sniomhas bò.” An expression which says that a cow covers a lot of ground in a day.</description>
+    </item>
+    <item>
+      <headword id="idp476256">[bò]</headword>
+      <description>“’S ann as a cheann a bhligheas a’ bhò.” A cow needs to be well fed to produce milk.</description>
+    </item>
+    <item>
+      <headword id="idp477768">[Caisg]</headword>
+      <description>“Anail Dhè ’sa ghaoith Di-Domhnaich Casg.” Older generation swear to there being something different about the weather on Easter Sunday. Different from the weather during the rest of the year. Similarly cattle are always standing upright at midnight on Christmas Eve as a sign of respect.</description>
+    </item>
+    <item>
+      <headword id="idp480144">[peircean]</headword>
+      <description>“Cuiridh peircean na caorach an crann air an fharadh.” A saying which predicts that sheep rearing will lead to the demise of traditional croft work due to the minimal amount of labour involved.</description>
+    </item>
+    <item>
+      <headword id="idp481656">[bràth]</headword>
+      <description>“Is fheairde bràth a’ bhreacadh gun a bristeadh.” Grinding stones must have been quite fragile requiring delicate handling. In wider sense better to damage something slightly rather than break it irrevocably.</description>
+    </item>
+    <item>
+      <headword id="idp483168">[manadh]</headword>
+      <description>“Manadh troimhn bhàs ’s troimhn bheò.” Events being preceded by noises indicating something was to happen.</description>
+    </item>
+    <item>
+      <headword id="idp484680">ceann do stocainn</headword>
+      <description>going outside without shoes, in your socks. [NOTES: the definition edited in pencil to read – ‘going outside without shoes on, but in your socks’.]</description>
+    </item>
+    <item>
+      <headword id="idp487200">[deoch]</headword>
+      <description>“An deoch nach fhaighear an àm an tomadh, chan fhaighear idir an àm tràghadh.” The early bird catches the worm.</description>
+    </item>
+    <item>
+      <headword id="idp488712">[cuirm]</headword>
+      <description>“’S fhear [sic] tighinn an deireadh cuirm na an toiseach truid.” Better to turn up whilst there is something left, rather than turn up when there’s nothing left and an argument begins.</description>
+    </item>
+    <item>
+      <headword id="idp490224">[fearg]</headword>
+      <description>“Ni a chluinneas tu a thogas fearg, na dean dearmad air a chleith.” Do not speak of something when you know [it] will cause hurt or bitterness.</description>
+    </item>
+    <item>
+      <headword id="idp491736">[fiacaill]</headword>
+      <description>“’S geur fiacaill o’n fhraoch ’seach geiread bho’n chladach.” More of an appetite when coming home from the shore whereas not so hungry coming off the moorland.</description>
+    </item>
+    <item>
+      <headword id="idp494112">[capall]</headword>
+      <description>“’S minig a thuit an capall ceithir chasach.” Pride shall have a fall. Despite having four legs it can fall nevertheless. [NOTES: originally ‘cabal’, corrected to ‘capall’.]</description>
+    </item>
+    <item>
+      <headword id="idp495840">cairbead</headword>
+      <description>jaw.</description>
+    </item>
+    <item>
+      <headword id="idp497352">[treud]</headword>
+      <description>“Chan eil treud gun chaora dhubh ann.”</description>
+    </item>
+    <item>
+      <headword id="idp498864">[subhach]</headword>
+      <description>“Ith, òl is bith subhach.” – eat, drink and be merry.</description>
+    </item>
+    <item>
+      <headword id="idp500448">[moch]</headword>
+      <description>“Is moch a dh’eireas a fear nach laigh.”</description>
+    </item>
+    <item>
+      <headword id="idp501960">[sìtig]</headword>
+      <description>“’S dàn a thig gach cù air a shìtig fhein.”</description>
+    </item>
+    <item>
+      <headword id="idp503472">[clach]</headword>
+      <description>“Mar chlach a’ ruidh le gleann tha feasgar, fann foghair.”</description>
+    </item>
+    <item>
+      <headword id="idp505848">[fuachd]</headword>
+      <description>“Cha laigh fuachd air uallach.” People can be so preoccupied with their worries that an illness may not seem so worrying.</description>
+    </item>
+    <item>
+      <headword id="idp507360">[maorach]</headword>
+      <description>“Cha dean bean luath maorach.” Not to rush; shellfish requires [sic] patience otherwise they are easily missed.</description>
+    </item>
+    <item>
+      <headword id="idp508872">[seasamh]</headword>
+      <description>“Fear a tha na sheasamh, feuch nach tuit e.” Applied to someone who thinks he’s perfect and sees faults in others.</description>
+    </item>
+    <item>
+      <headword id="idp510384">[tàmh]</headword>
+      <description>“Saoilaidh fear a tha na thàmh gur e fhein làmh as fhearr air a’ stiùir.”</description>
+    </item>
+    <item>
+      <headword id="idp511896">[bò]</headword>
+      <description>“A bhò ’s càirdiche ’sa bhuaillidh ’si as cruaidhe a dh’èigheas.”</description>
+    </item>
+    <item>
+      <headword id="idp514272">feallag</headword>
+      <description>making fun at someone. “Bha mi a’ deanamh feallag air.”</description>
+    </item>
+  </items>
+</fieldworkDocument>
+

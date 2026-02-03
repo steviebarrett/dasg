@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?><!-- checked by MM on 3 6 14 --><!-- illustration! --><fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="AOHenley_GlasgowRMorrisonpiobaireachd" docType="questionnaire" subType="Pobaireachd" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Pìobaireachd / Piping</title>
+  <date>[1987-88]</date>
+  <fieldworker personId="ohenleya">A. O’Henley</fieldworker>
+  <note>[NOTES: questionnaire and word-list clipped together. Both could do with some editing, especially when it comes to gathering related information under the same headword, but except for a few minor changes they have not been edited.]</note>
+  <note>[NOTES: some notes added (most probably by K. D. MacDonald?). See below for details.]</note>
+  <informant>
+    <nameEnglish>Ronald Morrison</nameEnglish>
+    <origin>Uibhisteach [Uist]</origin>
+  </informant>
+  <location>Glasgow, Broomhill</location>
+  <items>
+    <item><headword id="d0e36" type="heading" level="h1">1. Ainm an inneil-chiùil fhéin, agus ainm gach pàirt air leth</headword></item>
+    <item>
+      <headword id="idp486688">màl</headword>
+      <description>the pipe bag.</description>
+    </item>
+    <item>
+      <headword id="idp506128">stòc, stuic</headword>
+      <description>stock.</description>
+    </item>
+    <item>
+      <headword id="idp507640">sionnsair</headword>
+      <description>chanter.</description>
+    </item>
+    <item>
+      <headword id="idp509152">feadann</headword>
+      <description>chanter.</description>
+    </item>
+    <item>
+      <headword id="idp510664">dos</headword>
+      <description>drone. 3 – fear mór, dhà bheag.</description>
+    </item>
+    <item>
+      <headword id="idp512176">drùmanach</headword>
+      <description>Barra variation for drone. [NOTES: corrected to ‘drumanach’.]</description>
+    </item>
+    <item>
+      <headword id="idp513832">gaothaire</headword>
+      <description>blowpipe.</description>
+    </item>
+    <item>
+      <headword id="idp515344">bonn feadainn</headword>
+      <description>silvery top of the drone. <illustration src="GlasgowRMorrisonpiobaireachdillust1.jpg" width="200"/></description>
+    </item>
+    <item>
+      <headword id="idp516856">dos meadhonach</headword>
+    </item>
+    <item>
+      <headword id="idp518368">dos a muigh</headword>
+    </item>
+    <item>
+      <headword id="idp519880">barra dhos</headword>
+      <description>top of the drone.</description>
+    </item>
+    <item>
+      <headword id="idp521392">riobainean</headword>
+      <description>tassels.</description>
+    </item>
+    <item><headword id="d0e143" type="heading" level="h1">2. A’ cluich na pìoba; ’ga gleusadh; gluasad nam meòirean</headword></item>
+    <item>
+      <headword id="idp523840">alltair</headword>
+      <description>movement of the fingers.</description>
+    </item>
+    <item>
+      <headword id="idp109815456">sèideadh</headword>
+      <description>blowing into the bag.</description>
+    </item>
+    <item>
+      <headword id="idp109309024">gothaichean</headword>
+      <description>reeds.</description>
+    </item>
+    <item>
+      <headword id="idp109310536">rifaidean</headword>
+      <description>reeds.</description>
+    </item>
+    <item>
+      <headword id="idp109312048">gleusadh</headword>
+      <description>tuning.</description>
+    </item>
+    <item><headword id="d0e192" type="heading" level="h1">3. Ceòl pìoba: ainm gach seòrsa ciùil</headword></item>
+    <item>
+      <headword id="idp109314424">caismeachd</headword>
+      <description>music of warning. ‘Caismeachd Chlann Chamesroin’.</description>
+    </item>
+    <item>
+      <headword id="idp109316080">fàilte (-an)</headword>
+      <description>salutes.</description>
+    </item>
+    <item>
+      <headword id="idp109317592">cruinneachadh</headword>
+      <description>gatherings. Rousing war tune.</description>
+    </item>
+    <item>
+      <headword id="idp109319104">cumha</headword>
+      <description>lament.</description>
+    </item>
+    <item>
+      <headword id="idp109320616">spaidsearachd</headword>
+      <description>ceòl mór [q.v.].</description>
+    </item>
+    <item>
+      <headword id="idp109322128">dìth mhòladh</headword>
+      <description>satires.</description>
+    </item>
+    <item>
+      <headword id="idp109323640">fanaid</headword>
+      <description>satires.</description>
+    </item>
+    <item>
+      <headword id="idp109325152">aoir</headword>
+      <description>satires.</description>
+    </item>
+    <item>
+      <headword id="idp109326664">càth</headword>
+      <description>battle tunes. [NOTES: corrected to ‘cath’.]</description>
+    </item>
+    <item>
+      <headword id="idp109328320">ceòl mór</headword>
+      <description>classical music of the bagpipes.</description>
+    </item>
+    <item>
+      <headword id="idp109329832">ceòl beag</headword>
+      <description>marches, strathspeys, jigs, reels, hornpipes.</description>
+    </item>
+    <item>
+      <headword id="idp109331344">ceòl meadhonach</headword>
+      <description>same as ‘ceòl beag’ [q.v.].</description>
+    </item>
+    <item><headword id="d0e304" type="heading" level="h1">4. Faclan sam bith eile co-cheangailte ri pìobaireachd</headword></item>
+    <item>
+      <headword id="idp109333720">pìobaireachd</headword>
+      <description>on its own does not mean you play ‘ceòl mór’ [q.v.]. Would need to add that you were – ‘a’ pìobaireachd ceòl mór’.</description>
+    </item>
+    <item>
+      <headword id="idp109335232">canntaireachd</headword>
+      <description>prior to staff notation, this was the term used for ‘ceòl mór’ [q.v.].</description>
+    </item>
+    <item>
+      <headword id="idp109336744">màrsadh</headword>
+      <description>walking movement during the ‘ceòl mór’ [q.v.].</description>
+    </item>
+    <item>
+      <headword id="idp109338256">cannt</headword>
+      <description>to chant, from the Gregorian chant.</description>
+    </item>
+    <item>
+      <headword id="idp109339768">canntair</headword>
+      <description>chanter.</description>
+    </item>
+    <item>
+      <headword id="idp109341280">fonn</headword>
+      <description>a tune.</description>
+    </item>
+    <item>
+      <headword id="idp109342792">alt cheal</headword>
+      <description>grace note.</description>
+    </item>
+    <item><headword id="d0e371" type="heading" level="h2">Ceòl mór</headword></item>
+    <item>
+      <headword id="idp109345816">ùrlar</headword>
+    </item>
+    <item>
+      <headword id="idp109347328">siubhal</headword>
+    </item>
+    <item>
+      <headword id="idp109348840">taor luath</headword>
+    </item>
+    <item>
+      <headword id="idp109350352">crunnlùth</headword>
+    </item>
+    <item><headword id="d0e399" type="heading" level="h1">Variations on the [sic] these themes:</headword></item>
+    <item>
+      <headword id="idp109352728">dithist</headword>
+      <description>singling.</description>
+    </item>
+    <item>
+      <headword id="idp109354240">dublachadh</headword>
+      <description>doubling.</description>
+    </item>
+    <item>
+      <headword id="idp109355752">taor luath</headword>
+    </item>
+    <item>
+      <headword id="idp109357264">leum luath</headword>
+      <description>finger pulses. These terms derive from harp music, some of which were adopted into piping in the 17th c. [?].</description>
+    </item>
+    <item>
+      <headword id="idp109358992">ùrlar, siubhal</headword>
+      <description>accepted.</description>
+    </item>
+    <item>
+      <headword id="idp109360504">iuladh</headword>
+    </item>
+    <item>
+      <headword id="idp109362016">iulag</headword>
+      <description>compass.</description>
+    </item>
+    <item>
+      <headword id="idp109363528">aon lùth</headword>
+      <description>first pulse.</description>
+    </item>
+    <item>
+      <headword id="idp109365040">dà lùth</headword>
+      <description>2-fingered movement.</description>
+    </item>
+    <item>
+      <headword id="idp109366552">trì lùth</headword>
+      <description>3-fingered movement corrupted into ‘taor luath’.</description>
+    </item>
+    <item>
+      <headword id="idp109368064">ceithir lùth</headword>
+      <description>corrupted into crunluath [sic].</description>
+    </item>
+    <item><headword id="d0e496" type="heading" level="h1">The word-list</headword></item>
+    <item>
+      <headword id="idp109372024">iulach</headword>
+      <description>one who has knowledge of guiding.</description>
+    </item>
+    <item>
+      <headword id="idp109373536">[lùth]</headword>
+      <description>Trì lùth a steach, trì lùth a mach – proper terms in piping, as opposed to: Taor lùth a steach, taor lùth a mach, which are corrupt.</description>
+    </item>
+    <item>
+      <headword id="idp109375352">siubhal-na-h-òrdaig</headword>
+      <description>variation.</description>
+    </item>
+    <item>
+      <headword id="idp109376864">lùth na lùdaig</headword>
+      <description>birl.</description>
+    </item>
+    <item>
+      <headword id="idp109378376">crathannan</headword>
+      <description>shakes.</description>
+    </item>
+    <item>
+      <headword id="idp109379888">[breabach]</headword>
+      <description>Crunnlùth breabach – a kicking movement in pipe music. ‘Ceithir lùth breabach’ would be the correct term.</description>
+    </item>
+    <item>
+      <headword id="idp109382480">crith cheol</headword>
+      <description>warblings. [NOTES: ‘cheol’ corrected to ‘cheòl’.]</description>
+    </item>
+    <item>
+      <headword id="idp109384136">dùinte</headword>
+      <description>closed movement.</description>
+    </item>
+    <item><headword id="d0e572" type="heading" level="h1">Harp terms. Those which have been borrowed into piping are marked [tick]</headword></item>
+    <item>
+      <headword id="idp109386512">barr lùth</headword>
+      <description>bar.</description>
+    </item>
+    <item>
+      <headword id="idp109388024">cas lùth</headword>
+      <description>a turning point. ‘Cas’ borrowed from Irish.</description>
+    </item>
+    <item>
+      <headword id="idp109389536">barr lùth fosgailte</headword>
+    </item>
+    <item>
+      <headword id="idp109391048">trì bhuilleach</headword>
+      <description>three shakes.</description>
+    </item>
+    <item>
+      <headword id="idp109392560">glas lùth</headword>
+      <description>[tick] locking your finger.</description>
+    </item>
+    <item>
+      <headword id="idp109394072">glas mheur</headword>
+      <description>[tick] a difficult tune in piping.</description>
+    </item>
+    <item>
+      <headword id="idp109395584">taobh crobh</headword>
+      <description>side hand. [NOTES: ‘crobh’ corrected to ‘cròbh’.]</description>
+    </item>
+    <item>
+      <headword id="idp109397240">crònan</headword>
+      <description>[tick] bass sound – in the drone.</description>
+    </item>
+    <item>
+      <headword id="idp109399616">crònanach</headword>
+      <description>bass sound.</description>
+    </item>
+    <item>
+      <headword id="idp109401128">siubhal</headword>
+      <description>also used in harp music.</description>
+    </item>
+    <item>
+      <headword id="idp109402640">iuladh</headword>
+      <description>leading. Borrowed from Irish ‘iluidh’. Came down to us as [sic]. Same as ‘siubhal’.</description>
+    </item>
+    <item><headword id="d0e672" type="heading" level="h1">As used by General Thomason in his Ceol [sic] Mór</headword></item>
+    <item>
+      <headword id="idp109405016">eallach</headword>
+      <description>corrupt term used for ‘lùth na h-òrdaig’.</description>
+    </item>
+    <item>
+      <headword id="idp109406528">buillean fuaimneach</headword>
+      <description>echoing sounds.</description>
+    </item>
+    <item>
+      <headword id="idp109408040">crathadh</headword>
+      <description>double echo. This is the correct term.</description>
+    </item>
+    <item>
+      <headword id="idp109409552">rabhdaire</headword>
+      <description>bad piper.</description>
+    </item>
+    <item>
+      <headword id="idp109411928">racaire</headword>
+      <description>used for a keening person. A kind of precentor who went before the coffin. According to tradition there was one in every village in Barra about 100 years ago.</description>
+    </item>
+  </items>
+</fieldworkDocument>

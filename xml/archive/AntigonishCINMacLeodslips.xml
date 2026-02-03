@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 5/8/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_AntigonishCINMacLeodslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>05/1971</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <informant>
+    <nameEnglish>C.I.N. MacLeod</nameEnglish>
+  </informant>
+  <location>Canada, Antigonish</location>
+  <items>
+    <item>
+      <headword id="idp167418392">làgaraid</headword>
+      <description>Notes: turmoil of the sea.</description>
+    </item>
+    <item>
+      <headword id="idp167416592">math</headword>
+      <description>Quotation: math dh’fhaoidte. Notes: perhaps.</description>
+    </item>
+    <item>
+      <headword id="idp167414936">ribheid</headword>
+      <description>Quotation: Bha ribheid na dhà aige. Notes: He had a drink or two in him.</description>
+    </item>
+    <item>
+      <headword id="idp167413280">intervale</headword>
+      <description>Notes: open area beside a river (in Eng. Gaelic).</description>
+    </item>
+    <item>
+      <headword id="idp167411336">pultach</headword>
+      <description>[pu̜ɫt̪ɑx] Notes: stocky, short.</description>
+    </item>
+    <item>
+      <headword id="idp167410184">aotraman</headword>
+      <description>Notes: light-headed person.</description>
+    </item>
+    <item>
+      <headword id="idp167408096">bàirlinn</headword>
+      <description>Notes: ultimate warning, threat.</description>
+    </item>
+    <item>
+      <headword id="idp167356328">barrens</headword>
+      <description>Quotation: as na barrens. Notes: cleanings in the forest (barennes [?]). (French – used in Eng and Gaelic speech.)</description>
+    </item>
+    <item>
+      <headword id="idp167355392">bigean</headword>
+      <description>[bıɡʹɑṉ] Notes: penis.</description>
+    </item>
+    <item>
+      <headword id="idp167352368">cuglaidh</headword>
+      <description>Quotation: gnothaich cuglaidh. Notes: dicey matter.</description>
+    </item>
+    <item>
+      <headword id="idp167357840">eataras</headword>
+      <description>[ɛt̪əɾəs] Quotation: “Ciamar a tha thu?” “O, tha an eataras.” Notes: so-so.</description>
+    </item>
+    <item>
+      <headword id="idp167359496">éisdeachd</headword>
+      <description>Notes: confession.</description>
+    </item>
+    <item>
+      <headword id="idp167361440">fleachdag</headword>
+      <description>Quotation: fleachdag shneachd. Notes: flake of snow.</description>
+    </item>
+    <item>
+      <headword id="idp167362016">gàbhaidh</headword>
+      <description>Quotation: ’S e gnothaich gàbhaidh a th’ann. Tha e gàbhaidh math. Notes: awful; awfully.</description>
+    </item>
+    <item>
+      <headword id="idp167364464">gaothan</headword>
+      <description>Notes: light-headed person.</description>
+    </item>
+    <item>
+      <headword id="idp167366264">gomag</headword>
+      <description>Notes: idiot.</description>
+    </item>
+    <item>
+      <headword id="idp167367488">gròic</headword>
+      <description>Notes: fool, dunderhead.</description>
+    </item>
+  </items>
+</fieldworkDocument>

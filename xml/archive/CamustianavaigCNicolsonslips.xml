@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 10/8/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_CamustianavaigCNicolsonslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>07/1970</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <informant>
+    <nameEnglish>Calum Nicolson</nameEnglish>
+  </informant>
+  <location>Skye, Camustianavaig</location>
+  <items>
+    <item>
+      <headword id="idp161851040">léireadh</headword>
+      <description>Notes: for “càineadh” in Argyllshire (acc. to C.N.).</description>
+    </item>
+    <item>
+      <headword id="idp161848376">màbadh</headword>
+      <description>Quotation: a’ màbadh air duine. Notes: talking ill (of someone).</description>
+    </item>
+    <item>
+      <headword id="idp161844272">òmhas</headword>
+      <description>[ɔ̃:əs] Quotation: òmhas (sp?) bàta. Notes: “dock” for a boat on the shore.</description>
+    </item>
+    <item>
+      <headword id="idp161840384">sgeir-thràghad</headword>
+      <description>Notes: rock which is sunken at high tide.</description>
+    </item>
+    <item>
+      <headword id="idp161837792">tollach</headword>
+      <description>[t̪ɔɫɑx] Quotation: ’S ann gu math tollach a bha i nuair a chunnaic i na bha as a’ ghlaine. Notes: dissatisfied.</description>
+    </item>
+    <item>
+      <headword id="idp161913608">diacladh</headword>
+      <description>Quotation: diacladh turaidh. Notes: short respite.</description>
+    </item>
+    <item>
+      <headword id="idp161911664">eadradh</headword>
+      <description>Quotation: Nach ann aig a’ bhó a tha ’n eadradh. Notes: meaning the quantity of milk yielded at the one milking.</description>
+    </item>
+    <item>
+      <headword id="idp161910296">earchall</headword>
+      <description>[ɛɾɛxɑɫ] Notes: accident.</description>
+    </item>
+    <item>
+      <headword id="idp161908568">feothal</headword>
+      <description>[fjɔhəɫ] Notes: gossip.</description>
+    </item>
+    <item>
+      <headword id="idp161906840">feothalach</headword>
+      <description>Quotation: duine feothalach. Notes: gossip.</description>
+    </item>
+    <item>
+      <headword id="idp161905040">flogach</headword>
+      <description>Quotation: Nach e tha flogach. Notes: flattering.</description>
+    </item>
+    <item>
+      <headword id="idp161903240">flogadaich</headword>
+      <description>[fɫɔɡəd̪iç] Notes: flattery.</description>
+    </item>
+  </items>
+</fieldworkDocument>

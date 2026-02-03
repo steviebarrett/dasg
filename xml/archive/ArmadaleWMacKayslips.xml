@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 5/8/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_ArmadaleWMacKayslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>1969</date>
+  <fieldworker>[AJ Smith]</fieldworker>
+  <informant>
+    <nameEnglish>William MacKay</nameEnglish>
+  </informant>
+  <location>Sutherland, Armadale</location>
+  <items>
+    <item>
+      <headword id="idp115482960">basag</headword>
+      <description>[bɑsɑɡ] Notes: a heather divot, the lower part consisting of peat, dried and used for fuel.</description>
+    </item>
+    <item>
+      <headword id="idp115493256">dreamach</headword>
+      <description>[d̪ɾɛ̃mɑx] Notes: “crabbit”.</description>
+    </item>
+  </items>
+</fieldworkDocument>

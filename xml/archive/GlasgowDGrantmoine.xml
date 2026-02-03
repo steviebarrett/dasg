@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 24 4 13 -->
+<fieldworkDocument docId="Peat_GlasgowDGrantmoine" docType="questionnaire" subType="Peat">
+  <title>Mòine / Peat-Working</title>
+  <fieldworker>[self]</fieldworker>
+  <informant>
+    <nameEnglish>Donald Grant</nameEnglish>
+    <nameGaelic>Domhnall Grannd</nameGaelic>
+    <age>[66?]</age>
+    <origin>Camaschros an sgìre Shléite san Eilean Sgitheanach [Skye, Camus Chroise]</origin>
+  </informant>
+  <location>[Glasgow?]</location>
+  <!-- ILLUSTRATIONS -->
+  <items>
+    <item><headword id="d0e34" type="heading" level="h1">(Faclan á Camaschros an sgìre Shléite san Eilean Sgitheanach.)</headword></item>
+    <item><headword id="d0e38" type="heading" level="h1">1. Ag ullachadh na talmhainn airson mòine a bhuain</headword></item>
+    <item>
+      <headword id="d0e43">poll-mòna</headword>
+      <description>peat-bog.</description>
+    </item>
+    <item>
+      <headword id="d0e52">[drèanachan]</headword>
+      <description>A’ deanamh dhrèanachan (no claisean) a chum an uisge a thoirt air falbh far a robh feum air sin.</description>
+    </item>
+    <item>
+      <headword id="d0e61">[claisean]</headword>
+      <description>[See drèanachan]</description>
+    </item>
+    <item>
+      <headword id="d0e70">[breacadh]</headword>
+      <description>A’ breacadh uachdar a’ phuill – ga ghearradh le spaid, a’ deanamh earrannan a bhitheadh soirbh an togail.</description>
+    </item>
+    <item>
+      <headword id="d0e79">caibe-lair</headword>
+      <description>airson rusgadh a’ phuill. 
+        <illustration src="GlasgowDGrantmoineillust1.jpg" width="150"/></description>
+    </item>
+    <item>
+      <headword id="d0e89">ceaba-lair</headword>
+      <description>[See caibe-lair]</description>
+    </item>
+    <item>
+      <headword id="d0e98">rùsgadh na mona</headword>
+    </item>
+    <item>
+      <headword id="d0e104">[feannadh]</headword>
+      <description>[See rùsgadh] Theireadh Hearach a bha comhla rium am Portrigh “feannadh” na mòna.</description>
+    </item>
+    <item>
+      <headword id="d0e113">riasg</headword>
+      <description>an talamh righinn a dh’fheumar a thogail.</description>
+    </item>
+    <item>
+      <headword id="d0e122">ceap</headword>
+      <description>na pìosan a rachadh a thogail agus cuid dhiubh air an cur a feum an déidh laimhe a chomhdach nan cruachan.</description>
+    </item>
+    <item>
+      <headword id="d0e131">ploc, pl. pluic</headword>
+      <description>[See ceap]</description>
+    </item>
+    <item><headword id="d0e139" type="heading" level="h1">2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</headword></item>
+    <item>
+      <headword id="d0e144">iarran-mòna</headword>
+      <description>
+        <illustration src="GlasgowDGrantmoineillust2.jpg" width="150"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e155">tairisgeir</headword>
+      <description>[See iarann-mòna]</description>
+    </item>
+    <item>
+      <headword id="d0e164">tairisgian</headword>
+      <description>[See iarann-mòna]</description>
+    </item>
+    <item>
+      <headword id="d0e173">fear a’ buain</headword>
+    </item>
+    <item>
+      <headword id="d0e179">fear (no té) anns a’ bhac</headword>
+      <description>a’ breith air na fàdan (nam fòd) agus gan sgaoileadh gu h-àrd (leis a’ chiad fhàd) agus gu h-ìseal (leis an dara no ’n treas fàd). Chan fhaca mise tric barrachd air dà fhàd de dhoimhneachd.</description>
+    </item>
+    <item>
+      <headword id="d0e188">moine mhosgannach</headword>
+      <description>mòine aotrom dhonn.</description>
+    </item>
+    <item><headword id="d0e196" type="heading" level="h1">3. A’ tiormachadh na mònach</headword></item>
+    <item>
+      <headword id="d0e201">a’ togail na mòna</headword>
+      <description>gan cur trì is trì, aon air fhad is a dha eile an taic ris air an cinn. 
+        <illustration src="GlasgowDGrantmoineillust3.jpg" width="150"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e212">a’ tionndadh na mona</headword>
+      <description>a’ tionndadh an taoibh fhliuich an àird is a’ cur tuilleadh ri cheile.</description>
+    </item>
+    <item>
+      <headword id="d0e221">rùdhan</headword>
+      <description>tòrr beag mòna (cruach bheag).</description>
+    </item>
+    <item><headword id="d0e229" type="heading" level="h1">4. A’ cruachadh na mònach</headword></item>
+    <item>
+      <headword id="d0e234">cridhe na cruaiche</headword>
+      <description>
+        <illustration src="GlasgowDGrantmoineillust4.jpg" width="150"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e245">a’ grìomhadh (gnìomhadh?) na cruaiche</headword>
+      <description>a’ cur nam fàdan air a leud ris an talamh is a’ togail sreath os cionn sreath mar chlachan ann am balla.</description>
+    </item>
+    <item>
+      <headword id="d0e254">caoran</headword>
+      <description>pios beag fòid.</description>
+    </item>
+    <item>
+      <headword id="d0e263">gulm (guilm?)</headword>
+      <description>dusd na mòna.</description>
+    </item>
+    <item><headword id="d0e271" type="heading" level="h1">5. A’ toirt na mònach dhachaigh; an cliabh, etc.</headword></item>
+    <item>
+      <headword id="d0e276">a’ tarraing na mòna</headword>
+    </item>
+    <item>
+      <headword id="d0e282">cliabh</headword>
+    </item>
+    <item>
+      <headword id="d0e288">iris</headword>
+      <description>ròp an ceangal ris a’ chliabh aig na tabhaisdean [q.v.]. 
+        <illustration src="GlasgowDGrantmoineillust5.jpg" width="300"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e299">tabhaisdean (taobh-aisnean)</headword>
+      <description>
+        <illustration src="GlasgowDGrantmoineillust5.jpg" width="300"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e310">muladh  air a chliabh</headword>
+      <description>[?] a’ mhòine a’ ruigheachd bàrr a’ chléibh.</description>
+    </item>
+    <item>
+      <headword id="d0e319">barradh air a’ chliabh</headword>
+      <description>na fòid mu dheireadh air an cur air an oir is a’ ruigheachd os cionn a’ chléibh, a’ toirt cothroim air barrachd a ghiùlan.</description>
+    </item>
+    <item>
+      <headword id="d0e328">brìg</headword>
+      <description>aig an taigh a’ cur na mona an tòrr sgiobalta.</description>
+    </item>
+    <item><headword id="d0e336" type="heading" level="h1">6. Seòrsachan mònach</headword></item>
+    <item>
+      <headword id="d0e341">mòine bhuidhe</headword>
+    </item>
+    <item>
+      <headword id="d0e347">mòine dhubh</headword>
+    </item>
+    <item>
+      <headword id="d0e353">mòine righinn</headword>
+    </item>
+    <item>
+      <headword id="d0e359">mòine phrann</headword>
+    </item>
+    <item><headword id="d0e364" type="heading" level="h1">7. Faclan eile</headword></item>
+  </items>
+</fieldworkDocument>

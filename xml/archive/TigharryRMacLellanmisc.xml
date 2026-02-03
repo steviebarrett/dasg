@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 1 8 14 -->
+<fieldworkDocument docId="AOHenley_TigharryRMacLellanmisc" docType="wordlist" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>[1987-88]</date>
+  <fieldworker personId="ohenleya">A. O’Henley</fieldworker>
+  <informant>
+    <nameEnglish>Roderick MacLellan</nameEnglish>
+  </informant>
+  <location>North Uist, Tigharry</location>
+  <items>
+    <item>
+      <headword id="idm2942112">aingealta</headword>
+      <description>applied to an unpredictable beast – “beathach aingealta”.</description>
+    </item>
+    <item>
+      <headword id="idm2948808">sporadhalan</headword>
+      <description>making a noise in the house. “Sporadhalan shios ’sa chlòsaid.” [Cf. sporra thiathadh.]</description>
+    </item>
+    <item>
+      <headword id="idm2956872">luipair (-ean)</headword>
+      <description>a sheet of paper.</description>
+    </item>
+    <item>
+      <headword id="idm3025920">garbh ghùcag</headword>
+      <description>undistilled whisky.</description>
+    </item>
+    <item>
+      <headword id="idm2934768">mealtrach</headword>
+      <description>submerged roots which when dry were used for scrubbing chairs.</description>
+    </item>
+    <item>
+      <headword id="idm3031392">sporra thiathadh</headword>
+      <description>same meaning as ‘sporadhalan’ above.</description>
+    </item>
+    <item>
+      <headword id="idm3026712">sliosbhaladh</headword>
+      <description>to make an indirect reference to something.</description>
+    </item>
+    <item>
+      <headword id="idm3056448">suaithalas [sic]</headword>
+      <description>to resemble someone else. “Tha suaithalas agad ris an fhear ud.”</description>
+    </item>
+    <item>
+      <headword id="idm3019080">gun tionaradh</headword>
+      <description>without cease.</description>
+    </item>
+    <item>
+      <headword id="idm2992944">cainneal</headword>
+      <description>a morsel, fragment. “Cha do ghabh i cainneal dhe biadh.”</description>
+    </item>
+    <item>
+      <headword id="idm3027504">aicheachbach</headword>
+      <description>a plot of land which is being ploughed for the second year running.</description>
+    </item>
+    <item>
+      <headword id="idm3050472">tobhta thogail</headword>
+      <description>shebeen or unlicensed pot house.</description>
+    </item>
+    <item>
+      <headword id="idm3016560">cròic (-ean)</headword>
+      <description>gaps between rocks where you would find seaweed.</description>
+    </item>
+    <item>
+      <headword id="idm3002448">croid</headword>
+      <description>anything valuable that you might find/receive. “Nach tu a fhuair a’ chroid.”</description>
+    </item>
+    <item>
+      <headword id="idm3057672">blianach</headword>
+      <description>that part of a meat carcus [sic] known as the flank. Also a phrase associated with this word: “’S blianach Nollaig gan [sic] sneachda” – a Christmas is empty without snow.</description>
+    </item>
+    <item>
+      <headword id="idm2952336">slig(e) an amadain</headword>
+      <description>the spleen.</description>
+    </item>
+    <item>
+      <headword id="idm2995824">nasg</headword>
+      <description>the wooden rim of a sieve.</description>
+    </item>
+    <item>
+      <headword id="idm2982648">conaltradh</headword>
+      <description>someone else’s sheep straying onto your land.</description>
+    </item>
+    <item>
+      <headword id="idm3009648">caoraich fhuadain</headword>
+      <description>stray sheep.</description>
+    </item>
+    <item>
+      <headword id="idm2953992">ceaba làir</headword>
+      <description>used in the sense of a spade.</description>
+    </item>
+    <item>
+      <headword id="idm2948952">ceab staradh</headword>
+      <description>an obstacle, hindrance.</description>
+    </item>
+    <item>
+      <headword id="idm2945856">laomadh</headword>
+      <description>too much fertilizer on lazy beds.</description>
+    </item>
+    <item>
+      <headword id="idp2046736">geang</headword>
+      <description>a gang.</description>
+    </item>
+    <item>
+      <headword id="idp2048248">màthair ghùr</headword>
+      <description>proud flesh.</description>
+    </item>
+    <item>
+      <headword id="idp2049760">clach ghorm</headword>
+      <description>bluestone. Used to treat proud flesh.</description>
+    </item>
+    <item>
+      <headword id="idp2051272">déisleam</headword>
+      <description>whittle.</description>
+    </item>
+    <item>
+      <headword id="idp2052784">bràtag</headword>
+      <description>caterpillar.</description>
+    </item>
+    <item>
+      <headword id="idp2054296">stapag</headword>
+      <description>a drink consisting of oatmeal and cream.</description>
+    </item>
+    <item>
+      <headword id="idp2055808">teannachdsa</headword>
+      <description>sustenance. “Greim a chumadh teannachdsa rium.”</description>
+    </item>
+    <item>
+      <headword id="idp2057464">furaradh</headword>
+      <description>doing the household chores.</description>
+    </item>
+    <item>
+      <headword id="idp2058976">innis</headword>
+      <description>where sheep would graze.</description>
+    </item>
+    <item>
+      <headword id="idp2060488">cuigeal</headword>
+      <description>in the sense of speeding. “Nach ann air a tha an cuigeal leis a’ chàr sin.”</description>
+    </item>
+  </items>
+</fieldworkDocument>
+

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 13 4 14 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="WoolworkingandFishing_StaffinSchoolmaorach" docType="questionnaire" subType="Maorach" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Maorach / Shellfish</title>
+  <fieldworker>[school]</fieldworker>
+  <informant>
+    <nameEnglish>Staffin School</nameEnglish>
+    <nameGaelic>Sgoil Stafainn</nameGaelic>
+  </informant>
+  <location>An t-Eilean Sgitheanach, Stafainn [Skye, Staffin]</location>
+  <items>
+    <item><headword id="d0e26" type="heading" level="h1">1. Maorach</headword></item>
+    <item>
+      <headword id="d0e31">feusgan</headword>
+      <description>mussel.</description>
+    </item>
+    <item>
+      <headword id="d0e40">madadh</headword>
+      <description>large mussel.</description>
+    </item>
+    <item>
+      <headword id="d0e49">coileag</headword>
+      <description>cockle.</description>
+    </item>
+    <item>
+      <headword id="d0e58">bairneach</headword>
+      <description>limpet. ‘Maorach’ often used for ‘bairneach’ in Trotternish district of Skye.</description>
+    </item>
+    <item>
+      <headword id="d0e67">muir sgian</headword>
+      <description>razor shellfish.</description>
+    </item>
+    <item>
+      <headword id="d0e76">faochag</headword>
+      <description>whelk.</description>
+    </item>
+    <item>
+      <headword id="d0e85">cnogan feannaig</headword>
+      <description>sea urchin.</description>
+    </item>
+    <item><headword id="d0e93" type="heading" level="h1">2. A’ tional maorach</headword></item>
+	<item>
+	   <headword id="idola270">[note]</headword>
+       <description>[page missing]</description>
+	 </item>
+    <item><headword id="d0e106" type="heading" level="h1">3. Beathaichean eile a gheibhear ’sa’ chladach</headword></item>
+    <item>
+	   <headword id="idola271">[note]</headword>
+       <description>[page missing]</description>
+	 </item>
+  </items>
+</fieldworkDocument>

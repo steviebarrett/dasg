@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 5 2 15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="DRMorrisonetal_ScalpayDRMorrisonmisc3" docType="wordlist" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>[1975 on the slips]</date>
+  <fieldworker>[self]</fieldworker>
+  <note>[NOTES: the words have been slipped and therefore, apart from the definitions provided by Mr Morrison, the definitions as they appear on the slips have also been included (unless the two were the same).]</note>
+  <informant>
+    <nameEnglish>Donald R. Morrison</nameEnglish>
+    <nameGaelic>Dòmhnall R. Moireasdan</nameGaelic>
+    <age>[55]</age>
+  </informant>
+  <location>Na Hearadh, Scalpaigh [Harris,Scalpay]</location>
+  <items>
+    <item>
+      <headword id="idola346" type="heading" level="h1">Word-list (‘Cruinneachadh de dh’fhaclan’)</headword>
+    </item>
+    <item>
+      <headword id="idp3353224">lannsa</headword>
+      <description>lance.</description>
+    </item>
+    <item>
+      <headword id="idp3267616">sgean-imleig</headword>
+      <description>‘navel knife’. (I am not sure if it’s the same instrument: I remember hearing it, but cannot say exactly what kind.) [NOTES: the slip has ‘sgian-imleig’. Definition: Navel-knife.]</description>
+    </item>
+    <item>
+      <headword id="idp3255520">sgian-arain</headword>
+      <description>bread-knife.</description>
+    </item>
+    <item>
+      <headword id="idp3310528">spàin-airgid</headword>
+      <description>silver-spoon.</description>
+    </item>
+    <item>
+      <headword id="idp3258904">spain-adhairc</headword>
+      <description>spoon made from a horn.</description>
+    </item>
+    <item>
+      <headword id="idp3346960">spain-uighe</headword>
+      <description>egg-spoon.</description>
+    </item>
+    <item>
+      <headword id="idp3259840">maighstir</headword>
+      <description>urine kept until it ferments, mùn goirt.</description>
+    </item>
+    <item>
+      <headword id="idp3364600">striteagan</headword>
+      <description>finest components of water. [NOTES: the slip has ‘striteag’ as the catch-word with ‘pl. striteagan’. Definition: “Finest components of water” &gt; globules?]</description>
+    </item>
+    <item>
+      <headword id="idp3318952">stratagan</headword>
+      <description>sparks from fire. Perhaps I could always define striteagan [q.v.] as ‘sparks’ from water.</description>
+    </item>
+    <item>
+      <headword id="idp3288712">boca-na-buisrichean</headword>
+      <description>‘witches’ bag’. To me the term sounded as indicated. It may be a variation from the buidseachd form. Perhaps it is also found in various ways. We also use buidseachd or were using it here in Scalpay.</description>
+    </item>
+    <item>
+      <headword id="idp3288640">sgoil-dhubh</headword>
+      <description>black-magic.</description>
+    </item>
+    <item>
+      <headword id="idp3328456">buisrichean</headword>
+      <description>spell. [NOTES: the slip gives the quotation ‘boca-na-buisrichean’. Definition: Witche’s [sic] bag; ‘buisrichean’ – spell.]</description>
+    </item>
+    <item>
+      <headword id="idp3326296">geas</headword>
+      <description>spell.</description>
+    </item>
+    <item>
+      <headword id="idp3305200">stol-sìthiche</headword>
+      <description>toad-stool (sìthiche – fairy). Now, I am not quite certain of this compound word; if you cannot find another definition, I could imagine it quite appropriate for you to accept it. I recollect it only very vague. [NOTES: the slip has ‘stòl-sìthiche’. Definition: Toadstool (but uncertain).]</description>
+    </item>
+    <item>
+      <headword id="idp3307504">spàglach</headword>
+      <description>bowly, bowly legs.</description>
+    </item>
+    <item>
+      <headword id="idp3310672">sguaine</headword>
+      <description>a tall female.</description>
+    </item>
+    <item>
+      <headword id="idp3325000">sgramag</headword>
+      <description>coating of fat on broth.</description>
+    </item>
+    <item>
+      <headword id="idp3277624">seibheilteach</headword>
+      <description>tall man.</description>
+    </item>
+    <item>
+      <headword id="idp3279640">cairt-puist</headword>
+      <description>post-card.</description>
+    </item>
+    <item>
+      <headword id="idp3321112">duainidh</headword>
+      <description>unattractive. Nach i tha duainidh (dun).</description>
+    </item>
+    <item>
+      <headword id="idp3285976">peint</headword>
+      <description>paint.</description>
+    </item>
+    <item>
+      <headword id="idp3364024">sgitheadh</headword>
+      <description>sking [sic]. [SLIP: skiing.]</description>
+    </item>
+    <item>
+      <headword id="idp3293464">slat-iasgaich</headword>
+      <description>fishing rod.</description>
+    </item>
+    <item>
+      <headword id="idp3299296">bung</headword>
+      <description>bunk.</description>
+    </item>
+    <item>
+      <headword id="idp3291952">banadh</headword>
+      <description>assure. Theid mis’ am banadh dhiut [sic]. [NOTES: the slip has ‘Théid mis’ am banadh dhuit’. Definition: I assure you…]</description>
+    </item>
+    <item>
+      <headword id="idp3300592">piolasg</headword>
+      <description>metal disc.</description>
+    </item>
+    <item>
+      <headword id="idp3279784">gàdag</headword>
+      <description>shoulder strap, for carrying a burden. [SLIP: Shoulder strap for carrying something heavy.]</description>
+    </item>
+    <item>
+      <headword id="idp3321760">spioladh</headword>
+      <description>plucking. Spioladh na cearc.</description>
+    </item>
+    <item>
+      <headword id="idp1220400">glongail</headword>
+      <description>mumbling.</description>
+    </item>
+    <item>
+      <headword id="idp1218816">loireach</headword>
+      <description>drab colour, murky colour, muddy colour, discolour. Nach h-e tha loireach. (I am afraid I hadn’t made it quite clear as previously noted – loireach being colour description.) [NOTES: the slip has ‘Nach i tha loireach’. Definition: Dun-coloured.]</description>
+    </item>
+    <item>
+      <headword id="idp1435200">druga,  drugaichean</headword>
+      <description>[pl.] drug.</description>
+    </item>
+    <item>
+      <headword id="idp1436928">guitse</headword>
+      <description>gut.</description>
+    </item>
+    <item>
+      <headword id="idp1438440">rèile</headword>
+      <description>rail.</description>
+    </item>
+    <item>
+      <headword id="idp1439952">uaireadair-dùirn</headword>
+      <description>wristlet-watch.</description>
+    </item>
+    <item>
+      <headword id="idp1441464">cuilean</headword>
+      <description>puppy.</description>
+    </item>
+    <item>
+      <headword id="idp1442976">cuilean</headword>
+      <description>used in an addressing term: Tha, a’ chuilein. – yes, friend? Mo chuilean gaolach. [NOTES: both on one slip. Definition: Puppy; also – a term of endearment.]</description>
+    </item>
+    <item>
+      <headword id="idp1444992">caonnag</headword>
+      <description>strife. Tha’n aon chaonnag air…</description>
+    </item>
+    <item>
+      <headword id="idp1446720">ás-a-rian</headword>
+      <description>out of control. Mar duin’ ás a rian.</description>
+    </item>
+    <item>
+      <headword id="idp1448808">clàr-meighe</headword>
+      <description>show-piece. Rinn e clàr-meighe dhe? [sic]</description>
+    </item>
+    <item>
+      <headword id="idp1450752">clàrag</headword>
+      <description>wooden frame for a fishing line.</description>
+    </item>
+    <item>
+      <headword id="idp1452264">meigh</headword>
+      <description>(also) weight for a fishing line.</description>
+    </item>
+    <item>
+      <headword id="idp1453776">staca</headword>
+      <description>(chimney) stack of a house. Staca siucar dubh.</description>
+    </item>
+    <item>
+      <headword id="idp1456584">crogan-simileir</headword>
+      <description>chimney can.</description>
+    </item>
+    <item>
+      <headword id="idp1459608">coileach-gaoithe</headword>
+      <description>weather cock.</description>
+    </item>
+    <item>
+      <headword id="idp1461120">leòsan</headword>
+      <description>pane of glass.</description>
+    </item>
+    <item>
+      <headword id="idp1462632">feinse</headword>
+      <description>fence, lann.</description>
+    </item>
+    <item>
+      <headword id="idp1464360">rosgul</headword>
+      <description>blustery. Rosgul na Bealltuinn.</description>
+    </item>
+    <item>
+      <headword id="idp1466088">minearas-linn</headword>
+      <description>flax.</description>
+    </item>
+    <item>
+      <headword id="idp1467600">shugan</headword>
+      <description>jug. [NOTES: slipped under ‘siugan’.]</description>
+    </item>
+    <item>
+      <headword id="idp1469328">buarach</headword>
+      <description>cow fetter.</description>
+    </item>
+    <item>
+      <headword id="idp1470840">ceanglachan</headword>
+      <description>sling. (I am not quite sure again at the moment. I think I am right.)</description>
+    </item>
+    <item>
+      <headword id="idp1472784">rabhlaich</headword>
+      <description>crying, crying in the deep croaking sound. [SLIP: Crying – making a deep, croaking sound while doing so.]</description>
+    </item>
+    <item>
+      <headword id="idp1474512">sgioblaidean</headword>
+      <description>‘gatherings’. Cuiridh mi mo sgioblaidean ’na mo sgùirt [q.v.]. Perhaps from sgioblachadh (likely).</description>
+    </item>
+    <item>
+      <headword id="idp1476384">sgùirt</headword>
+      <description>lap-pouch, outer garment pulled in the front to the waist to serve as a carrier bag. Common custom in former years with women-folk. [SLIP: Outer garment pulled up to waist level to act as a pouch.]</description>
+    </item>
+    <item>
+      <headword id="idp1479192">griadhladh</headword>
+      <description>(an interesting amount), fair amount, meaning the same as radhladh as a reference to fish in a net. [SLIP: Referring to fish in a net, a ‘fair amount’.]</description>
+    </item>
+    <item>
+      <headword id="idp1480992">làmhag</headword>
+      <description>wee hand touch. Toirt làmhag an dràsda ’s a rithisd air – a wee touch, giving it a wee touch. [NOTES: the slip has ‘… a rithist’. Definition: A slight touch.]</description>
+    </item>
+    <item>
+      <headword id="idp1482864">spuinean</headword>
+      <description>serving by string, whipping.</description>
+    </item>
+    <item>
+      <headword id="idp1484376">spùt</headword>
+      <description>sense (diarrhoea). Cha ’eil spùt aige.</description>
+    </item>
+    <item>
+      <headword id="idp1486248">sponais</headword>
+      <description>sponge.</description>
+    </item>
+    <item>
+      <headword id="idp1487760">spreodanachadh</headword>
+      <description>poking. Spreodanachadh ’n teine.</description>
+    </item>
+    <item>
+      <headword id="idp1489488">dubbadh</headword>
+      <description>dipping. [NOTES: slipped under ‘dubadh’.]</description>
+    </item>
+    <item>
+      <headword id="idp1491216">stimeadh</headword>
+      <description>steaming.</description>
+    </item>
+    <item>
+      <headword id="idp1492728">goil</headword>
+      <description>boiling.</description>
+    </item>
+    <item>
+      <headword id="idp1494240">goil</headword>
+      <description>gurgling.</description>
+    </item>
+    <item>
+      <headword id="idp1496904">cliùcadh</headword>
+      <description>hiding.</description>
+    </item>
+    <item>
+      <headword id="idp1498416">clabhs</headword>
+      <description>noise.</description>
+    </item>
+    <item>
+      <headword id="idp1499928">clobhsa</headword>
+      <description>close.</description>
+    </item>
+    <item>
+      <headword id="idp1501440">spealtan</headword>
+      <description>splinters.</description>
+    </item>
+    <item>
+      <headword id="idp1502952">spealt</headword>
+      <description>splinter.</description>
+    </item>
+    <item>
+      <headword id="idp1504680">glais-sgeir</headword>
+      <description>a rock with soil and grass growing on it. [NOTES: slipped under ‘glas-sgeir’.]</description>
+    </item>
+    <item>
+      <headword id="idp1506624">sgeir-dhubh</headword>
+      <description>black rock, of black colour.</description>
+    </item>
+    <item>
+      <headword id="idp1508352">maide-mor</headword>
+      <description>a heavy mallet, heavy log. [NOTES: the slip has ‘maide-mór’.]</description>
+    </item>
+    <item>
+      <headword id="idp1510080">sgaraiceadh</headword>
+      <description>an angry bout. Leig e sgaraiceadh thuige.</description>
+    </item>
+    <item>
+      <headword id="idp1511808">siola</headword>
+      <description>chill. Siol’ uisge bheatha.</description>
+    </item>
+    <item>
+      <headword id="idp1513536">seathal</headword>
+      <description>shawl.</description>
+    </item>
+    <item>
+      <headword id="idp1515264">cearcall-sìthche</headword>
+      <description>fairy-ring.</description>
+    </item>
+    <item>
+      <headword id="idp1516776">ceòlan</headword>
+      <description>a short musical programme.</description>
+    </item>
+    <item>
+      <headword id="idp1518288">salainn-rousaigidh</headword>
+      <description>salt thrown on fish as a temporary preservation until the actual curing process is done or undertaken. [SLIP: Salt sprinkled on fish as a temporary preservation method.]</description>
+    </item>
+    <item>
+      <headword id="idp1520952">bonn-òir</headword>
+      <description>sovereign coin.</description>
+    </item>
+    <item>
+      <headword id="idp1522680">bonn-airgid</headword>
+      <description>silver coin.</description>
+    </item>
+    <item>
+      <headword id="idp1524408">airgead-beò</headword>
+      <description>quick silver. [NOTES: the slip has ‘airgiod beò’. Definition: Quicksilver.]</description>
+    </item>
+    <item>
+      <headword id="idp1526136">snaim-fuadain</headword>
+      <description>running knot.</description>
+    </item>
+    <item>
+      <headword id="idp1527648">snaim-caillich</headword>
+      <description>granny knot.</description>
+    </item>
+    <item>
+      <headword id="idp1529160">sùileagan</headword>
+      <description>the eyes or holes through which the thread goes in a loom. [NOTES: slipped under ‘sùileag’ – pl. sùileagan.]</description>
+    </item>
+    <item>
+      <headword id="idp1530960">straing-tomhais</headword>
+      <description>a measuring line.</description>
+    </item>
+    <item>
+      <headword id="idp1532688">taoighne</headword>
+      <description>twine.</description>
+    </item>
+    <item>
+      <headword id="idp1534200">guradh</headword>
+      <description>negligence, going waste.</description>
+    </item>
+    <item>
+      <headword id="idp1535712">crausgach</headword>
+      <description>uneven, unshapely.</description>
+    </item>
+    <item>
+      <headword id="idp1537440">scrùtadh</headword>
+      <description>cursing, swearing.</description>
+    </item>
+    <item>
+      <headword id="idp1539168">scrùtadh</headword>
+      <description>scruting [sic].</description>
+    </item>
+    <item>
+      <headword id="idp1540896">gómadaich</headword>
+      <description>vomiting. [NOTES: the slip has ‘gòmadaich’.]</description>
+    </item>
+    <item>
+      <headword id="idp1542624">sgeith</headword>
+      <description>spewing.</description>
+    </item>
+    <item>
+      <headword id="idp1544136">dithean-mara</headword>
+      <description>sea-pink. I think there was another name for this flower besides dìthean-mara [sic]. I have only this as thinking of it termed like-wise. I am [not?] able to recollect further at the moment. [NOTES: slipped under ‘dithean-mara’. Definition: Sea-pink.]</description>
+    </item>
+  </items>
+</fieldworkDocument>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 10/8/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_ComrieBBrownslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>1975</date>
+  <fieldworker>[Tony Dilworth?]</fieldworker>
+  <informant>
+    <nameEnglish>Miss Bessie Brown</nameEnglish>
+    <origin>Loch Tay</origin>
+  </informant>
+  <location>Comrie</location>
+  <items>
+    <item>
+      <headword id="idp166293696">[f</headword>
+      <description>[ai]ˈiri] Quotation: Bha m’athair glé [f[ai]ˈiri] agus bha e daolan a’ deanamh an obair da na croitearan.</description>
+    </item>
+    <item>
+      <headword id="idp166288152">[ɡrɛ̜ ə vɔṉiç]</headword>
+      <description>Notes: an illness – ? Cf. Dw. ‘galar greidh’ – ‘fives, strangles’.</description>
+    </item>
+    <item>
+      <headword id="idp166284624">[ru̜:k</headword>
+      <description>[ai]nʹ] Quotation: Dar a bha iad glé thioram bha iad a’ deanamh [ru̜:k[ai]nʹ] dhiubh.</description>
+    </item>
+    <item>
+      <headword id="idp166308600">màthair</headword>
+      <description>Quotation: [mə vɛ̜:r]. Notes: ‘Mo mhàthair.’</description>
+    </item>
+    <item>
+      <headword id="idp166310616">monadh</headword>
+      <description>Quotation: ris [ə vɔn̪].</description>
+    </item>
+    <item>
+      <headword id="idp166312344">rè</headword>
+      <description>Quotation: rè an t-samhraidh. Notes: during.</description>
+    </item>
+    <item>
+      <headword id="idp166314000">reic</headword>
+      <description>Quotation: a’ creic cearcan.</description>
+    </item>
+    <item>
+      <headword id="idp166315512">os cionn</headword>
+      <description>Quotation: … agus fos cionn sin …</description>
+    </item>
+    <item>
+      <headword id="idp166317024">seurachd</headword>
+      <description>[ʃɛ̜:raxk] Quotation: … agus bha ceithir croitearan agus seurachd ann. Notes: Or: … ‘agus seurachdan’. Shareholders? (Mentioned previously in English.)</description>
+    </item>
+    <item>
+      <headword id="idp166318968">sin</headword>
+      <description>Quotation: Chaidh ar togail an tin [dʒin].</description>
+    </item>
+    <item>
+      <headword id="idp166320696">Sasunnach</headword>
+      <description>Quotation: Fhreagair e anns an Sasunnach. Notes: English (language).</description>
+    </item>
+    <item>
+      <headword id="idp166322352">tighinn-beò</headword>
+      <description>Quotation: Sin agads mar rinn sinn ar tighinn-beò [tʹin bjɔ:]. Notes: livelihood.</description>
+    </item>
+    <item>
+      <headword id="idp166324224">troimh</headword>
+      <description>Quotation: Nuair a bha sinn troimhe le sin . . . Notes: finished with.</description>
+    </item>
+    <item>
+      <headword id="idp166325880">trom</headword>
+      <description>Quotation: Cha robh an obair cho trom [trom].</description>
+    </item>
+    <item>
+      <headword id="idp166327680">beir</headword>
+      <description>Quotation: Rug i ’s thog i an Ardeonaig. Notes: actives used as passives. (?)</description>
+    </item>
+    <item>
+      <headword id="idp166329336">Beisidh</headword>
+      <description>Notes: Bessie.</description>
+    </item>
+    <item>
+      <headword id="idp166330848">bleoghainn</headword>
+      <description>Quotation: Bha mi [bḻɔın] crodh.</description>
+    </item>
+    <item>
+      <headword id="idp166332648">boy</headword>
+      <description>Quotation: Bha m’athair a’ dèanamh sin cuideachd nuair a bha e ’na [bɔ:ı]. Notes: no lenition?</description>
+    </item>
+    <item>
+      <headword id="idp166334520">Brùnach</headword>
+      <description>Quotation: Beisidh Brùnach. Notes: Pos. ‘Bhrùnach’ (?). Name – Brown.</description>
+    </item>
+    <item>
+      <headword id="idp166336176">clann</headword>
+    <description>[kw[ɔu]ṉ] [?] </description></item>
+    <item>
+      <headword id="idp166338408">crodh-bhàint’</headword>
+      <description>[krɔ: veṉtʹ] Notes: milch-cows.</description>
+    </item>
+    <item>
+      <headword id="idp166340136">crosg</headword>
+      <description>Quotation: … agus crosgadh air a’ rathad-mór ris a’ mhonadh [vɔn̪]. Notes: cross.</description>
+    </item>
+    <item>
+      <headword id="idp166342008">cuimrigh</headword>
+      <description>[kiˈməri] Notes: comrie.</description>
+    </item>
+    <item>
+      <headword id="idp166343736">foghar</headword>
+      <description>Quotation: … ’s gun biodh e handaidh anns an [jɔˈər]. Notes: ‘Foghar’.</description>
+    </item>
+    <item>
+      <headword id="idp166345608">glan</headword>
+      <description>Quotation: Bha mi bleoghann crodh, ’gam biadhadh, ’s ’gan [ɡwa:ṉ] mach. Notes: “… ’s ’gan glanadh a mach.”</description>
+    </item>
+    <item>
+      <headword id="idp166347552">grinn</headword>
+      <description>Quotation: Bha tìm glé ghrinn againn. Notes: We had a very nice time.</description>
+    </item>
+  </items>
+</fieldworkDocument>

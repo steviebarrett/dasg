@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 1/4/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Word-lists_loosepage" docType="questionnaire" subType="Miscellaneous" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <fieldworker>[K.D. MacDonald?]</fieldworker>
+  <informant>
+    <nameEnglish>?</nameEnglish>
+  </informant>
+  <items>
+    <item>
+      <headword id="idm1258232">[kuLəʹLɔ:d]</headword>
+      <description>[?] confusion, riot.</description>
+    </item>
+    <item>
+      <headword id="idm1244552">falbh nam fianlaichean</headword>
+      <description>[fiãhiçən] (Back) = falbh nan sitigean [?].</description>
+    </item>
+    <item>
+      <headword id="idm1242824">bungaid</headword>
+      <description>big, fat, lazy woman.</description>
+    </item>
+    <item>
+      <headword id="idm1241312">bangaid</headword>
+      <description>See bungaid. (Uig)</description>
+    </item>
+    <item>
+      <headword id="idm1239800">ùrstan</headword>
+      <description>drink celebrating a birth.</description>
+    </item>
+    <item>
+      <headword id="idm1238288">leanan</headword>
+      <description>Rinn mi leanan dhi (thumb) = pull.</description>
+    </item>
+    <item>
+      <headword id="idm1236776">air chialladh</headword>
+      <description>on an empty. Chunnaic mi chuthag air chialladh / ’S dh’aithnich mi nach deigheadh a’ bhliadhna leam.</description>
+    </item>
+    <item>
+      <headword id="idm1234832">breaghachan</headword>
+      <description>a beauty (in derisory manner).</description>
+    </item>
+    <item>
+      <headword id="idm1233320">[flɛ:tik]</headword>
+      <description>rope on cow’s head when swimming channel. (Breinish)</description>
+    </item>
+    <item>
+      <headword id="idm1231664">corr-thulchainn</headword>
+      <description>maide an ceann [?] tigh-tughaidh. (S. Uist)</description>
+    </item>
+  </items>
+</fieldworkDocument>

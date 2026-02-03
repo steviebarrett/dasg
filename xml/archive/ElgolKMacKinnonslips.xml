@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 29/9/15 -->
+<!-- illustrations -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_ElgolKMacKinnonslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>03/1970</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <note>[NOTES: in IPA transcriptions, the fieldworker uses [w] for [ɯ].]</note>
+  <informant>
+    <nameEnglish>Kate MacKinnon</nameEnglish>
+    <age>c. 70</age>
+  </informant>
+  <location>Skye, Elgol</location>
+  <items>
+    <item>
+      <headword id="idp166295448">lodair</headword>
+      <description>Notes: ladle.</description>
+    </item>
+    <item>
+      <headword id="idp166292784">maghar</headword>
+      <description>[mɤəɾ] Quotation: ag iasgach a’ mhaghair. Notes: fly.</description>
+    </item>
+    <item>
+      <headword id="idp166288896">maide-broillich</headword>
+      <description>Quotation: am maide-broillich or am broilleach. Notes: bracket at joint between stempost and keel. <illustration src="ElgolKMacKinnonslipsillust1.jpg" width="200"/></description>
+    </item>
+    <item>
+      <headword id="idp166309848">muirstiachd</headword>
+      <description>[mu̜ʴstʹiɑxk] Notes: jellyfish. [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+    <item>
+      <headword id="idp166311720">rolag</headword>
+      <description>[rɔlɑɡ] Notes: a roll of carded wool.</description>
+    </item>
+    <item>
+      <headword id="idp166313448">slige</headword>
+      <description>Quotation: slig’ a chreachain. Notes: ribbed clam shell used for taking cream off top of milk in bowl or basin.</description>
+    </item>
+    <item>
+      <headword id="idp166315104">spàin</headword>
+      <description>Quotation: spain [sic] fhiodha. Notes: wooden spoon.</description>
+    </item>
+    <item>
+      <headword id="idp166316760">suidheachadh</headword>
+      <description>Quotation: a’ cur a’ bhainne air suidheachadh. Notes: leaving milk to set.</description>
+    </item>
+    <item>
+      <headword id="idp166318416">bainne</headword>
+      <description>Quotation: bainne slaman. Notes: curds.</description>
+    </item>
+    <item>
+      <headword id="idp166320072">bàn</headword>
+      <description>Quotation: deoch bhàn. Notes: drink made by pouring first cold water, then boiling water on oatmeal.</description>
+    </item>
+    <item>
+      <headword id="idp166321728">bolla</headword>
+      <description>Notes: 140 lbs. (?)</description>
+    </item>
+    <item>
+      <headword id="idp166323240">brag</headword>
+      <description>Quotation: Mu’m bragadh tu cnò. Notes: In the twinkling of an eye.</description>
+    </item>
+    <item>
+      <headword id="idp166324896">breacag</headword>
+      <description>Quotation: breacag fhlùr. Notes: a big round griddle scone.</description>
+    </item>
+    <item>
+      <headword id="idp166326552">càl</headword>
+      <description>Quotation: càl deanntaig. Notes: nettle soup.</description>
+    </item>
+    <item>
+      <headword id="idp166328208">càl</headword>
+      <description>Quotation: càl duilisg. Notes: dulse soup.</description>
+    </item>
+    <item>
+      <headword id="idp166329864">carrachan</headword>
+      <description>[kɑrɑxɑ̃ṉ] Notes: has a carrot-shaped root which can be eaten. Has a small pink flower.</description>
+    </item>
+    <item>
+      <headword id="idp166331592">ceairrle</headword>
+      <description>[cɑʴlʹə] Notes: ball of yarn. [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+    <item>
+      <headword id="idp166333464">cneamh</headword>
+      <description>[kɾɛ̃f] Notes: garlic. Grows in soft places. If cows eat it, get a taste of onion off the milk.</description>
+    </item>
+    <item>
+      <headword id="idp166335192">cnò</headword>
+      <description>Quotation: Mu’m bragadh tu cnò. Notes: In the twinkling of an eye.</description>
+    </item>
+    <item>
+      <headword id="idp166336848">crannachan</headword>
+      <description>Notes: a butter-churn.</description>
+    </item>
+    <item>
+      <headword id="idp166338360">crosgag-thràghaid</headword>
+      <description>Notes: starfish.</description>
+    </item>
+    <item>
+      <headword id="idp166339872">curraiche-fitheag</headword>
+      <description>[kwrıçəˈfıɑɡ] Notes: small black berries.</description>
+    </item>
+    <item>
+      <headword id="idp166341600">deanntag</headword>
+      <description>Quotation: càl deanntaig. Notes: nettle soup – could be thickened with oatmeal and veg. added.</description>
+    </item>
+    <item>
+      <headword id="idp166343256">deoch</headword>
+      <description>Quotation: deoch bhàn. Notes: drink made by first pouring cold water, then boiling water on oatmeal. [NOTES: slipped under ‘deoch-bhàn’.]</description>
+    </item>
+    <item>
+      <headword id="idp166345056">duileasg</headword>
+      <description>Quotation: càl duilisg. Notes: dulse soup.</description>
+    </item>
+    <item>
+      <headword id="idp166346712">farumach</headword>
+      <description>[fɑɾəmɑx] Quotation: Bha e gu math farumach; dòigh gu math farumach. Notes: well-known.</description>
+    </item>
+    <item>
+      <headword id="idp166348656">gaolach</headword>
+      <description>Quotation: Tha mi gu math gaolach air. Notes: used when talking about a certain type of food.</description>
+    </item>
+    <item>
+      <headword id="idp166350312">gìogan</headword>
+      <description>[ɡʹı:ɡɑṉ] Notes: thistle.</description>
+    </item>
+    <item>
+      <headword id="idp166352040">giomach</headword>
+      <description>Quotation: pron. [ɡʹũ̜mɑx]. Notes: lobster.</description>
+    </item>
+    <item>
+      <headword id="idp166353912">greideal</headword>
+      <description>[ɡɾedʹəɫ] Notes: griddle for making scones.</description>
+    </item>
+  </items>
+</fieldworkDocument>

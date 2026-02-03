@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 11 6 13 -->
+<fieldworkDocument docId="AssortedFieldworkers_anonymouslobster" docType="questionnaire" subType="Lobster-fishing">
+  <title>Iasgach a’ Ghiomaich / Lobster-Fishing</title>
+  <note>[NOTES: signed ‘Dolly’, see the comment at the end. She writes the words down ‘as they are pronounced’ putting accents above both vowels and consonants.]</note>
+  <note>[NOTES: second hand. See below for details.]</note>
+  <items>
+    <item><headword id="d0e17" type="heading" level="h1">The Lobster</headword></item>
+    <item>
+      <headword id="d0e22">gimach</headword>
+      <description>[accent above m] lobster.</description>
+    </item>
+    <item>
+      <headword id="d0e31">spóch</headword>
+      <description>claws.</description>
+    </item>
+    <item>
+      <headword id="d0e40">mhoór</headword>
+      <description>large.</description>
+    </item>
+    <item>
+      <headword id="d0e49">beack</headword>
+      <description>[accent above c] small.</description>
+    </item>
+    <item>
+      <headword id="d0e58">chown</headword>
+      <description>[accent above w] head.</description>
+    </item>
+    <item>
+      <headword id="d0e67">shemmon</headword>
+      <description>[accent above first m] tail.</description>
+    </item>
+    <item>
+      <headword id="d0e76">owen</headword>
+      <description>[accent above w] eggs.</description>
+    </item>
+    <item><headword id="d0e84" type="heading" level="h1">The Creel</headword></item>
+    <item>
+      <headword id="d0e89">scoolene</headword>
+      <description>[accent above n] creel. Ha mi geano [accent above n] scool or scooleén.</description>
+    </item>
+    <item>
+      <headword id="d0e98">cleéh</headword>
+      <description>[?] creel.</description>
+    </item>
+    <item>
+      <headword id="d0e107">tallípin</headword>
+      <description>the base.</description>
+    </item>
+	<item>
+	  <headword id="idola40">[note]</headword>
+	  <description>[ILLUSTRATION in second hand – not clear what it refers to. Also, the illustration on the next page seems to be a reworking of this one.]</description>
+	</item>
+    <item>
+      <headword id="d0e125">sewl</headword>
+      <description>[accent above w] the eye.</description>
+    </item>
+    <item>
+      <headword id="d0e134">towh</headword>
+      <description>[accent above w] rope.</description>
+    </item>
+    <item>
+      <headword id="d0e143">boówer</headword>
+      <description>floats.</description>
+    </item>
+    <item>
+      <headword id="d0e152">sewl</headword>
+      <description>[accent above w] e cleáh [?] door (for admitting hand).</description>
+    </item>
+	<item>
+	  <headword id="idola41">[note]</headword>
+	  <description>[NOTES: the following two items in second hand.]</description>
+	</item>
+    <item>
+      <headword id="d0e170">bearnaich</headword>
+      <description>limpets, barnacles.</description>
+    </item>
+    <item>
+      <headword id="d0e179">scaap</headword>
+      <description>enclosure made from boulders, for mussels.
+        <illustration src="anonymouslobsterillust1.jpg" width="200"/>
+      </description>
+    </item>
+	<item>
+	  <headword id="idola42">[note]</headword>
+	  <description>I put the words down as they are pronounced as I do for Dr Watson. You left it too late. I would need a wee while to think. Sorry, Dolly.</description>
+	</item>
+  </items>
+</fieldworkDocument>

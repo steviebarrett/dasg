@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 1/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_InvernessAMacintoshslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>04/1969, 05/1969</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <informant>
+    <nameEnglish>Alex Macintosh</nameEnglish>
+    <age>early 50s</age>
+    <origin>North Uist, Grimsay</origin>
+  </informant>
+  <location>Inverness</location>
+  <items>
+    <item>
+      <headword id="idp118882096">mìreanach</headword>
+      <description>Notes: horse’s bit.</description>
+    </item>
+    <item>
+      <headword id="idp118879432">muir-tiachd</headword>
+      <description>[mu̜ɾtʹiɑxk] Notes: jellyfish.</description>
+    </item>
+    <item>
+      <headword id="idp118895488">naosg</headword>
+      <description>Notes: snipe.</description>
+    </item>
+    <item>
+      <headword id="idp118897000">siabadh</headword>
+      <description>[ʃiɤbəɣ] Notes: “seaweed washed ashore”.</description>
+    </item>
+    <item>
+      <headword id="idp118898728">siolag</headword>
+      <description>[ʃıɔɫɑɡ] Notes: a sand-eel.</description>
+    </item>
+    <item>
+      <headword id="idp118900456">sùil-an-òir</headword>
+      <description>[su̟:lən̪ɔ:ɾ] Notes: “a small fish about the size of a cuddy or smaller. Has golden coloured scales which come off easily.”</description>
+    </item>
+    <item>
+      <headword id="idp118902184">tarbh-shiolag</headword>
+      <description>[t̪ɑɾɑvhiɤɫɑɡ] Notes: “the male sand-eel, which has a poisonous sting.”</description>
+    </item>
+    <item>
+      <headword id="idp118903984">carran-creig</headword>
+      <description>Notes: a small rock fish which has a big mouth like a monkfish. [NOTES: slipped under ‘carran-creige’.]</description>
+    </item>
+    <item>
+      <headword id="idp118905712">crosgag-thràghad</headword>
+      <description>Notes: starfish.</description>
+    </item>
+    <item>
+      <headword id="idp118907224">cullach</headword>
+      <description>Notes: tom-cat.</description>
+    </item>
+    <item>
+      <headword id="idp118908736">garbhag</headword>
+      <description>[ɡɑɾɑvɑɡ] Notes: a spotted flatfish (probably plaice).</description>
+    </item>
+    <item>
+      <headword id="idp118910464">gibneach</headword>
+      <description>[ɡʹibnʹɔx] Notes: octopus.</description>
+    </item>
+    <item>
+      <headword id="idp118912192">gocan-cuthaig</headword>
+    <description>[ɡɔxkɑ̃ṉku̟ɑɡʹ] </description></item>
+  </items>
+</fieldworkDocument>

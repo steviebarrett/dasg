@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 26/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_ScarpDMacDonaldslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>1984-86</date>
+  <informant>
+    <nameEnglish>Donald MacDonald</nameEnglish>
+  </informant>
+  <location>Harris, Scarp</location>
+  <items>
+    <item>
+      <headword id="idp161827952">craslach</headword>
+      <description>Notes: bare skeleton of an animal.</description>
+    </item>
+    <item>
+      <headword id="idp161829464">stìombaireachd</headword>
+      <description>Notes: used of a toddler getting into everything.</description>
+    </item>
+    <item>
+      <headword id="idp161830976">frice-fò</headword>
+      <description>Quotation: Cha mhotha e na frice-fò. Notes: something small; insect?</description>
+    </item>
+    <item>
+      <headword id="idp161832632">geamh</headword>
+      <description>Quotation: Tha iad ann a siod geamh air gheamh. Notes: of verbal sniping: tit for tat.</description>
+    </item>
+  </items>
+</fieldworkDocument>

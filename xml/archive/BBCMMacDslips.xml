@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 5/8/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_BBCMMacDslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>07/1970</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <informant>
+    <nameEnglish>M. MacD</nameEnglish>
+  </informant>
+  <location>BBC</location>
+  <items>
+    <item>
+      <headword id="idp162096792">loch</headword>
+      <description>Notes: a pool.</description>
+    </item>
+    <item>
+      <headword id="idp162094128">lòn</headword>
+      <description>Notes: a burn or stream.</description>
+    </item>
+    <item>
+      <headword id="idp162090960">rath-spars</headword>
+      <description>[rɑspɑʴs] Notes: impudence, e.g. of a young child. [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+    <item>
+      <headword id="idp162086712">uisge-airgid</headword>
+      <description>Notes: water, used for curing purposes, into which a silver coin had been put.</description>
+    </item>
+    <item>
+      <headword id="idp162110688">brabhadach</headword>
+      <description>[bɾɑvɑd̪ɑx] Notes: M. says it’s used in Islay for “lame”. (Dw. brabhdach – bandy-legged.)</description>
+    </item>
+    <item>
+      <headword id="idp162112416">buinne</headword>
+      <description>Notes: whirlpool created at the meeting of the tides.</description>
+    </item>
+    <item>
+      <headword id="idp162113928">ceum-leatha</headword>
+      <description>[ce:mˈlɛə] Quotation: Tha ceum-leatha ann. Notes: He is inclined to exaggerate.</description>
+    </item>
+    <item>
+      <headword id="idp162115800">clispearnach</headword>
+      <description>[klıspɑʴṉɑx] Notes: penis. [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+    <item>
+      <headword id="idp162117672">cnuasaich</headword>
+      <description>Quotation: a’ cnuasachd airson duine (a chaidh air chall) as a Chuilthionn. Notes: detailed searching.</description>
+    </item>
+    <item>
+      <headword id="idp162119328">cròileagan</headword>
+      <description>Quotation: cròileagan bheag bhailtean. Notes: cluster.</description>
+    </item>
+    <item>
+      <headword id="idp162120984">crùbach</headword>
+      <description>Notes: lame.</description>
+    </item>
+    <item>
+      <headword id="idp162122496">cuagach</headword>
+      <description>Notes: bandy-legged.</description>
+    </item>
+    <item>
+      <headword id="idp162124008">crotach</headword>
+      <description>Notes: hump-backed.</description>
+    </item>
+    <item>
+      <headword id="idp162125520">fàil</headword>
+      <description>[fɑ:lʹ] Quotation: [fɑ:lʹ] a rathaid [rɔıdʹ]. Notes: the green bank between road and ditch.</description>
+    </item>
+    <item>
+      <headword id="idp162127896">fidean</headword>
+      <description>[fidʹəṉ] Notes: (usually na fidean) ground on which grass grows and is covered at high tide.</description>
+    </item>
+    <item>
+      <headword id="idp162129624">fìogais</headword>
+      <description>Quotation: a’ deanamh fìogais air duine. Notes: same as “magadh”. Used in Portree school.</description>
+    </item>
+    <item>
+      <headword id="idp162131280">gidhe</headword>
+      <description>[ˈɡʹıə] Notes: layer of hay put on a stack while in the making.</description>
+    </item>
+    <item>
+      <headword id="idp162133008">gios</headword>
+      <description>[ɡʹıs] Quotation: Gios ort! Notes: heard this locally in Portree area for “Greas ort!”</description>
+    </item>
+  </items>
+</fieldworkDocument>

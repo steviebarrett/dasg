@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 24 4 13 -->
+<fieldworkDocument docId="Peat_CarlowayRMacLeodandAMacLennanpeat" docType="wordlist" subType="Peat">
+  <title>Mòine / Peat-Working</title>
+  <date>April 1962</date>
+  <fieldworker>Margaret MacLeod</fieldworker>
+  <note>[NOTES: the original title of the list is “Terminology Associated with Peat-Cutting and Drying”.]</note>
+  <informant>
+    <nameEnglish>Robert MacLeod</nameEnglish>
+    <age>60</age>
+  </informant>
+  <informant>
+    <nameEnglish>Alexander MacLennan</nameEnglish>
+    <age>34</age>
+  </informant>
+  <location>Lewis, Carloway</location>
+  <!-- illustration -->
+  <items>
+    <item>
+      <headword id="d0e44">riasg</headword>
+      <description>peat.</description>
+    </item>
+    <item>
+      <headword id="d0e53">connadh</headword>
+      <description>fuel.</description>
+    </item>
+    <item>
+      <headword id="d0e62">mòine bhàn</headword>
+      <description>brown peat. It is light coloured and light in weight.</description>
+    </item>
+    <item>
+      <headword id="d0e71">mòine dhubh</headword>
+      <description>black peat.</description>
+    </item>
+    <item>
+      <headword id="d0e80">mòine dhearg</headword>
+      <description>peat where you have iron mixture and you get red ashes.</description>
+    </item>
+    <item>
+      <headword id="d0e89">mòine chailc</headword>
+      <description>the peat glows but has no flame and it remains as chalk.</description>
+    </item>
+    <item>
+      <headword id="d0e98">mòine chaoranach</headword>
+      <description>broken peat.</description>
+    </item>
+    <item>
+      <headword id="d0e107">smuir</headword>
+      <description>the finest of broken peat.</description>
+    </item>
+    <item>
+      <headword id="d0e116">poll-mònach</headword>
+      <description>peat bank.</description>
+    </item>
+    <item>
+      <headword id="d0e125">blàr mònach</headword>
+      <description>peat stretch.</description>
+    </item>
+    <item>
+      <headword id="d0e134">bàthasdair</headword>
+      <description>dangerous bog. It is to be avoided for stock safety. It is dangerous because it is situated in a place where the water cannot be drained off it.</description>
+    </item>
+    <item>
+      <headword id="d0e143">càradh-cheap</headword>
+      <description>cut turf for grazing. When the turf has been taken off the bog it is placed grass side up for grazing.</description>
+    </item>
+    <item>
+      <headword id="d0e152">spaid</headword>
+      <description>spade for taking the turf off.</description>
+    </item>
+    <item>
+      <headword id="d0e161">priogadh</headword>
+      <description>pricking down with the spade part of the turfing.</description>
+    </item>
+    <item>
+      <headword id="d0e170">rusgadh</headword>
+      <description>the process of taking off the turf so as to enable one to reach the peat.</description>
+    </item>
+    <item>
+      <headword id="d0e179">tairsgeir</headword>
+      <description>peat-cutter.
+        <illustration src="CarlowayRMacLeodandAMacLennanpeatillust1.jpg" width="600"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e190">a’ chas</headword>
+      <description>the handle of the peat-cutter. [See tairsgeir.]</description>
+    </item>
+    <item>
+      <headword id="d0e199">smeachan</headword>
+      <description>the step, on the peat cutter, for the foot to exert pressure on the blade so as to cut the peat. [See tairsgeir.]</description>
+    </item>
+    <item>
+      <headword id="d0e208">an iarunn</headword>
+      <description>the iron blade. [See tairsgeir.]</description>
+    </item>
+    <item>
+      <headword id="d0e217">aodann a’ phuill</headword>
+      <description>the face of the bank.</description>
+    </item>
+    <item>
+      <headword id="d0e226">broinn a’ phuill</headword>
+      <description>the cut-away part of the bank.</description>
+    </item>
+    <item>
+      <headword id="d0e235">uachdar a’ phuill</headword>
+      <description>top of the bank.</description>
+    </item>
+    <item>
+      <headword id="d0e244">carcair</headword>
+      <description>width of cut. It was never more than an average person’s throw. This was a strong tradition as it was communal work.
+        <illustration src="CarlowayRMacLeodandAMacLennanpeatillust1.jpg" width="600"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e255">barr-fhad</headword>
+      <description>top layer of peat.
+        <illustration src="CarlowayRMacLeodandAMacLennanpeatillust1.jpg" width="600"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e266">caoran</headword>
+      <description>the bottom layer because it was blackest.
+        <illustration src="CarlowayRMacLeodandAMacLennanpeatillust1.jpg" width="600"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e277">dàrna fad</headword>
+      <description>the 2nd layer. The layers in between the top layer and the bottom layer were numbered from the top.</description>
+    </item>
+    <item>
+      <headword id="d0e286">cor-fhad</headword>
+      <description>the first peat.
+        <illustration src="CarlowayRMacLeodandAMacLennanpeatillust1.jpg" width="600"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e297">gearradh na mònach</headword>
+      <description>peat cutting.
+        <illustration src="CarlowayRMacLeodandAMacLennanpeatillust1.jpg" width="600"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e308">cur-a-mach</headword>
+      <description>throwing or spreading the peats on the bank for drying.</description>
+    </item>
+    <item>
+      <headword id="d0e317">sadail</headword>
+      <description>throwing of spreading the peats on the bank for drying.</description>
+    </item>
+    <item>
+      <headword id="d0e326">sgaoilteach</headword>
+      <description>the appearance of the thrown peats.</description>
+    </item>
+    <item>
+      <headword id="d0e335">gàrradh</headword>
+      <description>the wall of peat laid stagger fashioned [sic] with holes left to allow the air to circulate and thus dry the peats. The wall could be of 2 or 3 rows.</description>
+    </item>
+    <item>
+      <headword id="d0e344">ath-bhlàr</headword>
+      <description>when the original peat bank was finished and no more peat could be obtained from it, a second peat bank was started where the other one had started.</description>
+    </item>
+    <item>
+      <headword id="d0e353">bara</headword>
+      <description>wheel-barrow for carrying the peats.</description>
+    </item>
+    <item>
+      <headword id="d0e362">grabhag</headword>
+      <description>an under-sized peat bank.</description>
+    </item>
+    <item>
+      <headword id="d0e371">rùdhan</headword>
+      <description>after the peats had been allowed to lie on the bank for a considerable time they were made into piles of different sizes. The first pile is the ‘rùdhan’ and usually consists of 6 peats and 1 on top.</description>
+    </item>
+    <item>
+      <headword id="d0e380">ath-rùdhan</headword>
+      <description>the 2nd pile of peat. It is the resetting of the 1st pile but it is slightly bigger.</description>
+    </item>
+    <item>
+      <headword id="d0e389">aiseag</headword>
+      <description>carrying the peats from the bank to a spot near the road.</description>
+    </item>
+    <item>
+      <headword id="d0e398">cruachadh</headword>
+      <description>small stacks made out on the peat banks.</description>
+    </item>
+    <item>
+      <headword id="d0e407">ceapadh</headword>
+      <description>placing turf on these small stacks [i.e. cruachadh (q.v.)].</description>
+    </item>
+    <item>
+      <headword id="d0e416">tuthadh</headword>
+      <description>placing turf on these small stacks [i.e. cruachadh (q.v.)].</description>
+    </item>
+    <item>
+      <headword id="d0e425">tarruing na monach</headword>
+      <description>taking home the peats.</description>
+    </item>
+    <item>
+      <headword id="d0e434">cliabh</headword>
+      <description>creel.</description>
+    </item>
+    <item>
+      <headword id="d0e443">bath-chliabh</headword>
+      <description>small creel. The younger people used these as they were lighter.</description>
+    </item>
+    <item>
+      <headword id="d0e452">dronnag</headword>
+      <description>pack saddle.</description>
+    </item>
+    <item>
+      <headword id="d0e461">iris</headword>
+      <description>breast band.</description>
+    </item>
+    <item>
+      <headword id="d0e470">breugan</headword>
+      <description>openings on the creel for the breast bands.</description>
+    </item>
+    <item>
+      <headword id="d0e479">staingean</headword>
+      <description>spikes on top of creel for breast band.</description>
+    </item>
+    <item>
+      <headword id="d0e488">tòrr-mònach</headword>
+      <description>heap of peats.</description>
+    </item>
+    <item>
+      <headword id="d0e497">cruach</headword>
+      <description>stack.</description>
+    </item>
+    <item>
+      <headword id="d0e506">cruach tighe</headword>
+      <description>peat stack at home.</description>
+    </item>
+    <item>
+      <headword id="d0e515">stéidheadh</headword>
+      <description>building up the stack.</description>
+    </item>
+    <item>
+      <headword id="d0e524">’g a do chuir a mach as an fhad</headword>
+      <description>driving the two working ahead of you. When cutting in company you kept your place.</description>
+    </item>
+    <item>
+      <headword id="d0e533">sgioba</headword>
+      <description>the peat cutting crew.</description>
+    </item>
+  </items>
+</fieldworkDocument>

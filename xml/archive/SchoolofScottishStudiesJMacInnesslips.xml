@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 26/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_SchoolofScottishStudiesJMacInnesslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>1988</date>
+  <informant>
+    <nameEnglish>John MacInnes</nameEnglish>
+  </informant>
+  <location>School of Scottish Studies</location>
+  <items>
+    <item>
+      <headword id="idp115485368">sgritheal</headword>
+      <description>Notes: a ‘lean-to’.</description>
+    </item>
+    <item>
+      <headword id="idp115436840">teimhealach</headword>
+      <description>Quotation: àite teimhealach; duine teimhealach. Notes: of a place ‘dark’; of a person ‘morose, closed in’.</description>
+    </item>
+  </items>
+</fieldworkDocument>

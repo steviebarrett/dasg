@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 25 4 13 -->
+<fieldworkDocument docId="CattleandSheep_ArnolAMacPhailandNCampbellcattle" docType="questionnaire" subType="Cattle">
+  <title>Crodh / Cattle</title>
+  <fieldworker>Major N. T. MacLeod</fieldworker>
+  <informant>
+    <nameEnglish>Angus MacPhail</nameEnglish>
+    <age>93</age>
+  </informant>
+  <informant>
+    <nameEnglish>Norman Campbell</nameEnglish>
+    <age>73</age>
+  </informant>
+  <location>Lewis, Arnol</location>
+  <!-- illustrations -->
+  <items>
+    <item>
+      <headword id="idola57">[note]</headword>
+	  <description>[NOTES: the following three items squeezed in on the title page.]</description>
+	</item>
+    <item>
+      <headword id="d0e47">ceana chasach</headword>
+      <description>sheep’s head and trotters.</description>
+    </item>
+    <item>
+      <headword id="d0e56">caisean (uchd)</headword>
+      <description>strip 4 in wide cut of breast of ‘mult’ above the ‘a mhaothain’ (solar plexus) right down to the crotch to enable the butcher to get into the belly cavity.</description>
+    </item>
+    <item>
+      <headword id="d0e65">snàil marag</headword>
+      <description>Mixture: oatmeal, suet, salt etc., kneaded inside the cavity made while carcase was still warm. Skin of marag was the anal canal turned inside out and thoroughly washed. Mixture was pressed into anal canal which was kept moist and warm in basin of hot water.</description>
+    </item>
+    <item><headword id="d0e73" type="heading" level="h1">(Most of these terms given by Mr Angus Macphail, aged 93, 26 Arnol, Isle of Lewis)</headword></item>
+    <item><headword id="d0e77" type="heading" level="h1">1. Different stages in the growth of cattle</headword></item>
+    <item>
+      <headword id="d0e82">laogh firinn</headword>
+    </item>
+    <item>
+      <headword id="d0e88">laogh boirun</headword>
+    </item>
+    <item>
+      <headword id="d0e94">agh,  aighean</headword>
+      <description>[pl.] female up to two years gun dàir gun tarbh.</description>
+    </item>
+    <item>
+      <headword id="d0e103">tarbh</headword>
+      <description>dò-bhliadhach [sic], tri-bhliadhnach, according to age.</description>
+    </item>
+    <item>
+      <headword id="d0e112">damh</headword>
+      <description>ox. tarbh air a spòth (castrated [bull]). [NOTES: the last written next to ‘ox’ so it looks like it is part of the definition.]</description> 
+    </item>
+    <item>
+      <headword id="d0e121">gabhainn ( go’ inn), pl. gabhna</headword>
+      <description>[pron.?] one year old female.</description>
+    </item>
+    <item>
+      <headword id="d0e130">taghanach</headword>
+      <description>[bò] a chaidh seach laogh tri tuiris ach tha bainne aige or aiche.</description>
+    </item>
+    <item>
+      <headword id="d0e139">gamhnach</headword>
+      <description>bò chaidh seach laogh ach aig am bheil bainne s tha am bainne blasta.</description>
+    </item>
+    <item>
+      <headword id="d0e148">sealbhach</headword>
+      <description>bò air ùr-breith.</description>
+    </item>
+    <item>
+      <headword id="d0e157">seadhanach</headword>
+      <description>bò tri bliadhna le bainne gun laogh.</description>
+    </item>
+    <item><headword id="d0e165" type="heading" level="h1">2. Breeds of cattle</headword></item>
+    <item>
+      <headword id="d0e170">an crodh dùbh</headword>
+      <description>the hardy small black cattle of the Highlands, Kyloes. Hebrides 1700-1850.</description>
+    </item>
+    <item><headword id="d0e178" type="heading" level="h1">3. Outward appearance of cattle</headword></item>
+    <item>
+      <headword id="d0e183">caol</headword>
+    </item>
+    <item>
+      <headword id="d0e189">ramhar</headword>
+    </item>
+    <item>
+      <headword id="d0e195">bò ruadh</headword>
+    </item>
+    <item>
+      <headword id="d0e201">bò dhubh</headword>
+    </item>
+    <item>
+      <headword id="d0e207">bò riabhach</headword>
+    </item>
+    <item>
+      <headword id="d0e213">bò bhreac</headword>
+    </item>
+    <item>
+      <headword id="d0e219">bò odhar</headword>
+    </item>
+    <item>
+      <headword id="d0e225">bò mhaol</headword>
+    </item>
+    <item>
+      <headword id="d0e231">bò lachdann</headword>
+    </item>
+    <item>
+      <headword id="d0e237">L adharcach</headword>
+      <description>[achdann?] one horn on, one missing. Not a unicorn.</description>
+    </item>
+    <item>
+      <headword id="d0e246">bò ghlas</headword>
+    </item>
+    <item>
+      <headword id="d0e252">bò bhàn</headword>
+    </item>
+    <item><headword id="d0e257" type="heading" level="h1">4. Names for certain beasts, e.g. an animal on which the owner bestows particular attention</headword></item>
+    <item><headword id="d0e261" type="heading" level="h1">5. Parts of the body</headword></item>
+    <item>
+      <headword id="d0e266">binit</headword>
+      <description>stomach of a calf.</description>
+    </item>
+    <item><headword id="d0e274" type="heading" level="h1">6. Calving</headword></item>
+    <item>
+      <headword id="d0e279">dàir air a bhò</headword>
+      <description>[cow] on heat or in season.</description>
+    </item>
+    <item>
+      <headword id="d0e288">aig iarradh tarbh</headword>
+    </item>
+    <item>
+      <headword id="d0e294">aig iarradh an tairbh</headword>
+    </item>
+    <item>
+      <headword id="d0e300">salachair</headword>
+      <description>placenta or afterbirth. Expression: ‘na rùg i an salchair’.</description>
+    </item>
+    <item><headword id="d0e308" type="heading" level="h1">7. Milking</headword></item>
+    <item>
+      <headword id="d0e313">strachadh</headword>
+      <description>milking.</description>
+    </item>
+    <item>
+      <headword id="d0e322">beadaradh</headword>
+      <description>milking.</description>
+    </item>
+    <item>
+      <headword id="d0e331">blodhan na bá</headword>
+      <description>milking the cow.</description>
+    </item>
+    <item>
+      <headword id="d0e340">blodhain a chruidh</headword>
+      <description>milking the cattle.</description>
+    </item>
+    <item>
+      <headword id="d0e349">ga blodhain tirim</headword>
+      <description>[milking to the] last drop.</description>
+    </item>
+    <item>
+      <headword id="d0e358">laogh cois</headword>
+    </item>
+    <item>
+      <headword id="d0e364">laogh an cois a mhàthair</headword>
+      <description>laogh fodha màthair.</description>
+    </item>
+    <item>
+      <headword id="d0e373">laogh a deothal a mhàthair</headword>
+      <description>deocadh a mhàthar.</description>
+    </item>
+    <item>
+      <headword id="d0e382">ùs</headword>
+      <description>milk yield first two or three milkings.</description>
+    </item>
+    <item>
+      <headword id="d0e391">sileadh a bhainne</headword>
+      <description>teats dripping with excessive milk.</description>
+    </item>
+    <item>
+      <headword id="d0e400">seipan</headword>
+      <description>quart. [NOTES: originally the definition was ‘quart?’ but then ‘EXACTLY’ was written next to it.]</description> 
+    </item>
+    <item>
+      <headword id="d0e409">mis’ir</headword>
+      <description>[?] wooden vessel.</description>
+    </item>
+    <item>
+      <headword id="d0e418">bainne air suidheachadh</headword>
+    </item>
+    <item>
+      <headword id="d0e424">misiridh</headword>
+      <description>butter making, mistreach [?] [NOTES: it is not clear if this is part of the last definition or a separate entry.]</description>
+    </item>
+    <item>
+      <headword id="d0e433">cuineag ( kuinag)</headword>
+      <description>[pron.?] churn. (West side of Lewis)</description>
+    </item>
+    <item>
+      <headword id="d0e442">beat</headword>
+      <description>churn. (Uig)</description>
+    </item>
+    <item>
+      <headword id="d0e451">Bite Uigean</headword>
+      <description>[?] [churn?] [NOTES: not clear what the relation between the last two words is or what they refer to.]</description> 
+    </item>
+    <item>
+      <headword id="d0e460">cranachan</headword>
+      <description>[churn]. (Breinish)</description>
+    </item>
+    <item>
+      <headword id="d0e469">imidel</headword>
+      <description>skin covering milk pail [when it was] carried home from sheiling. [It was] tied under the rim.</description>
+    </item>
+    <item>
+      <headword id="d0e478">peile ceard</headword>
+    </item>
+    <item>
+      <headword id="d0e484">muidhe</headword>
+      <description>churn.</description>
+    </item>
+    <item>
+      <headword id="d0e493">lanid</headword>
+      <description>handle of churn.
+        <illustration src="ArnolAMacPhailandNCampbellcattleillust1.jpg" width="100"/>
+      </description>
+    </item>
+    <item><headword id="d0e503" type="heading" level="h1">8. Feeding</headword></item>
+    <item>
+      <headword id="d0e508">uinegean  a bhainne</headword>
+    <description>[?] </description></item>
+    <item>
+      <headword id="d0e514">àri</headword>
+      <description>sheiling.</description>
+    </item>
+    <item>
+      <headword id="d0e523">barlus</headword>
+      <description>[? farlus?] ceap [?] hole for smoke, peat smoke.</description>
+    </item>
+    <item>
+      <headword id="d0e532">druim àri</headword>
+      <description>ridge pole.</description>
+    </item>
+    <item>
+      <headword id="d0e541">dloth fodair</headword>
+      <description>loose handful.</description>
+    </item>
+    <item>
+      <headword id="d0e550">moilean fodair</headword>
+      <description>a generous armful.</description>
+    </item>
+    <item>
+      <headword id="d0e559">phrasach</headword>
+      <description>manger.</description>
+    </item>
+    <item>
+      <headword id="d0e568">ionailt/innilt</headword>
+      <description>pasture.</description>
+    </item>
+    <item>
+      <headword id="d0e577">buachaileachd</headword>
+      <description>tending the cattle.</description>
+    </item>
+    <item>
+      <headword id="d0e586">buachail</headword>
+      <description>herdsman or boy.</description>
+    </item>
+    <item>
+      <headword id="d0e595">banachag</headword>
+      <description>milking maid.</description>
+    </item>
+    <item>
+      <headword id="d0e604">ioman</headword>
+      <description>driving the cattle.</description>
+    </item>
+    <item>
+      <headword id="d0e613">leabaidh laighe</headword>
+      <description>night quarters, sheltered dell for cattle to spend the night, sheiling.</description>
+    </item>
+    <item>
+      <headword id="d0e622">cotan</headword>
+      <description>cot for young newly born calf for summer shieling only.</description>
+    </item>
+    <item>
+      <headword id="d0e631">clach tachais</headword>
+    </item>
+    <item>
+      <headword id="d0e637">taighean earraich</headword>
+      <description>(Ness) moor, shieling, cattle under cover.</description>
+    </item>
+	<item>
+	  <headword id="idola58">[note]</headword>
+	  <description>(Norman Campbell age 93, No 6 Arnol, Isle of Lewis.)</description>
+	</item>
+    <item><headword id="d0e654" type="heading" level="h1">9. Apparatus</headword></item>
+    <item>
+      <headword id="d0e659">lùthag?</headword>
+      <description>teann os cionn na glun air a chas deiridh. Cord tied tightly above the joint [on the] hind leg [of a] lamb or sheep to keep animals on the move under control.</description>
+    </item>
+    <item>
+      <headword id="d0e668">stiall</headword>
+      <description>headpost in byre.</description>
+    </item>
+    <item>
+      <headword id="d0e677">corothonan</headword>
+      <description>a piece of wood with three holes by which two lambs could be tethered on the one tether. 
+        <illustration src="ArnolAMacPhailandNCampbellcattleillust2.jpg" width="400"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e688">achdainn</headword>
+      <description>neck rope.</description>
+    </item>
+    <item>
+      <headword id="d0e697">acfhuinn</headword>
+      <description>neck rope.</description>
+    </item>
+    <item>
+      <headword id="d0e706">teoghaer</headword>
+      <description>tether.</description>
+    </item>
+    <item>
+      <headword id="d0e715">bacan</headword>
+      <description>tether stake.</description>
+    </item>
+    <item>
+      <headword id="d0e724">cùl-acdhainn</headword>
+      <description>[sic] ceangailt mun an stiall. Tied around the headpost, to which again was tied smeathag, which was tied around the cow’s neck by cnac (toggle) and drula (loop).</description>
+    </item>
+    <item>
+      <headword id="d0e733">cnac ( krak)</headword>
+      <description>[pron.] toggle.</description>
+    </item>
+    <item>
+      <headword id="d0e742">drula ( drulla)</headword>
+      <description>[pron.] loop.</description>
+    </item>
+    <item>
+      <headword id="d0e751">buarach</headword>
+      <description>fetter for milking.</description>
+    </item>
+    <item>
+      <headword id="d0e760">glùinean</headword>
+      <description>air a chas toiseach. Fetter to tie up foreleg.</description>
+    </item>
+    <item>
+      <headword id="d0e769">smeathac mart</headword>
+      <description>neck tie.</description>
+    </item>
+    <item>
+      <headword id="d0e778">spearach</headword>
+      <description>fetter joining fore [and] hind leg [of] lamb or sheep.</description>
+    </item>
+    <item>
+      <headword id="d0e787">dèidheinn</headword>
+      <description>two forelegs fetter [for] horses to prevent wandering. Deidheann air each a cheàird (tinker) ach cha deidheann air a cheàrd fhein.</description>
+    </item>
+    <item>
+      <headword id="d0e796">uchdachd cléibh</headword>
+      <description>shoulder strap for creel.</description>
+    </item>
+    <item>
+      <headword id="d0e805">iris cléibh</headword>
+      <description>made of horse hair long ago.</description>
+    </item>
+    <item>
+      <headword id="d0e814">dronag</headword>
+      <description>outer shirt gathered into a pad [as a] rest for the creel.</description>
+    </item>
+    <item><headword id="d0e822" type="heading" level="h1">10. Diseases</headword></item>
+    <item>
+      <headword id="d0e827">tuathalan</headword>
+      <description>poc uisge air an aonachail.</description>
+    </item>
+    <item>
+      <headword id="d0e836">an doile</headword>
+      <description>blindness.</description>
+    </item>
+    <item><headword id="d0e844" type="heading" level="h1">11. Miscellaneous</headword><description>[misnumbered as 12] </description></item>
+    <item>
+      <headword id="d0e849">tha bhò ann an sàs</headword>
+      <description>[cow] stuck in mire or bog.</description>
+    </item>
+    <item>
+      <headword id="d0e858">tha bhò ann an tabhainn</headword>
+      <description>cow in distress.</description>
+    </item>
+    <item>
+      <headword id="d0e867">buachair a chruidh</headword>
+      <description>cow dung.</description>
+    </item>
+  </items>
+</fieldworkDocument>

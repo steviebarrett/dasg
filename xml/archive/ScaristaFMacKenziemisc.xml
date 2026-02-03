@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 11 9 14 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="AJSmith_ScaristaFMacKenziemisc" docType="wordlist" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>June 1970</date>
+  <fieldworker>A. J. Smith</fieldworker>
+  <note>[NOTES: in IPA transcriptions, the fieldworker uses [w] for [ɯ].]</note>
+
+  <informant>
+    <nameEnglish>Finlay MacKenzie</nameEnglish>
+    <origin>Scarista</origin>
+  </informant>
+  <location>Harris, Scarista</location>
+  <items>
+    <item>
+      <headword id="idm40498304">friasg</headword>
+      <description>[fðiɑsk] Note: bait thrown out when cuddy-fishing and working with a hand-net.</description>
+    </item>
+    <item>
+      <headword id="idm40502336">tàbh</headword>
+      <description>Note: hand-net.</description>
+    </item>
+    <item>
+      <headword id="idm40482968">suaplais</headword>
+      <description>[su̜ɤpɫɑʃ] Note: an unappetizing mixture of food.</description>
+    </item>
+    <item>
+      <headword id="idm40480160">ucsa</headword>
+      <description>Note: fully grown saithe.</description>
+    </item>
+    <item>
+      <headword id="idm40479296">cudaig</headword>
+      <description>Note: cuddy.</description>
+    </item>
+    <item>
+      <headword id="idm40478720">smallag</headword>
+      <description>Note: next stage of the saithe after the cuddy (1 year old?).</description>
+    </item>
+    <item>
+      <headword id="idm40476776">soithean</headword>
+      <description>Note: bigger than the “smallag” [q.v.] (2-year old saithe?).</description>
+    </item>
+    <item>
+      <headword id="idm40590824">liugha</headword>
+      <description>[lʹu̜ə] Note: lythe.</description>
+    </item>
+    <item>
+      <headword id="idm40587584">sgeit</headword>
+      <description>[sɡɛtʹ] Note: skate.</description>
+    </item>
+    <item>
+      <headword id="idm40583264">dallag</headword>
+      <description>Note: a spotted dogfish.</description>
+    </item>
+    <item>
+      <headword id="idm40588232">glupa</headword>
+      <description>[ɡɫu̜pə] Note: a pool left after the tide recedes.</description>
+    </item>
+    <item>
+      <headword id="idm40575128">bànag</headword>
+      <description>Note: sea-trout.</description>
+    </item>
+    <item>
+      <headword id="idm40547480">mot</headword>
+      <description>[mɔ̃t] Note: canopy over the fire in a blackhouse.</description>
+    </item>
+    <item>
+      <headword id="idm40549208">luidhear</headword>
+      <description>Note: hole in roof of blackhouse through which the smoke escaped.</description>
+    </item>
+    <item>
+      <headword id="idm40550936">guitear</headword>
+      <description>[ɡu̜tʹɑð] Note: a drain dug just inside the wall in a blackhouse, covered with flat stones, to collect any seepage through the wall.</description>
+    </item>
+    <item>
+      <headword id="idm40552448">glut-lionadh</headword>
+      <description>[ɡɫu̜t̪lw̃ṉəɣ] Note: earth packing between double walls of blackhouse.</description>
+    </item>
+    <item>
+      <headword id="idm40555328">ceangal</headword>
+      <description>Quot.: “na ceangail”. Note: the couples in a roof.</description>
+    </item>
+    <item>
+      <headword id="idm40555544">taobhan</headword>
+      <description>Quot.: “na taobhain”. Note: Pieces of timber laid across the couples in a blackhouse roof binding the couples together. Usually one near the ridge, one in the middle and one near the top of the wall.</description>
+    </item>
+    <item>
+      <headword id="idm40557128">maide-feannaig</headword>
+      <description>Note: stick protruding from the thatch serving as a peg round which the “sioman” is put.</description>
+    </item>
+    <item>
+      <headword id="idm40559648">ceairrle</headword>
+      <description>[cɑʴlʹə] Quot.: ceairrle shiomain. Note: a round ball. [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+    <item>
+      <headword id="idm40562600">gath-drama</headword>
+      <description>Note: ridge-pole.</description>
+    </item>
+    <item>
+      <headword id="idm40564112">spar-ghaoitheadh</headword>
+      <description>Note: stick put across the couples, under the ridge, to strengthen them.</description>
+    </item>
+    <item>
+      <headword id="idm40565696">dragh</headword>
+      <description>[d̪ɾɤɣ] Note: rope round the thatch about two feet above the top of the wall. The weights were hung on this rope and also the rope going over the top was looped round this anchor rope.</description>
+    </item>
+    <item>
+      <headword id="idm40567280">gulman</headword>
+      <description>[ɡu̜ɫumɑṉ] Note: cataract on the eye.</description>
+    </item>
+    <item>
+      <headword id="idm40568792">sleamhnagan</headword>
+      <description>Note: sty on the eye.</description>
+    </item>
+    <item>
+      <headword id="idm40570304">smugrach</headword>
+      <description>Quot.: “smugrach uisge”. Note: drizzle.</description>
+    </item>
+    <item>
+      <headword id="idm40572032">ciùchran</headword>
+      <description>Note: drizzle</description>
+    </item>
+    <item>
+      <headword id="idm40572608">fad</headword>
+      <description>Quot.: “Fad bhìnn uaineach a’ latha” [fɑd̪vĩ:nʹũ̜ɑ̃nʹɑx]. Note: all day long.</description>
+    </item>
+    <item>
+      <headword id="idm40588088">caisean-coimheach</headword>
+      <description>[kɑʃɑ̃ṉkɛ̃ɑx] Note: a “rotach” – annual spell of very bad weather.</description>
+    </item>
+    <item>
+      <headword id="idm40583696">flion</headword>
+      <description>[flw̃ṉ] Note: sleet.</description>
+    </item>
+    <item>
+      <headword id="idm40578512">siolag</headword>
+      <description>Note: sand-eel.</description>
+    </item>
+    <item>
+      <headword id="idm40575416">eun-ghuireag</headword>
+      <description>Note: seems to be applied to the snipe on the wing from the description of the sound it makes at night.</description>
+    </item>
+    <item>
+      <headword id="idm37303144">feannadh</headword>
+      <description>Quot.: a’ feannadh na mónach. Note: turfing.</description>
+    </item>
+    <item>
+      <headword id="idm37302784">carcaire</headword>
+      <description>[kɑɾkəðə] Note: width of peat turfed for cutting.</description>
+    </item>
+    <item>
+      <headword id="idm37342816">barr-fhad</headword>
+      <description>[bɑrɑd̪] Note: the top peat.</description>
+    </item>
+    <item>
+      <headword id="idm37320712">corr-fhad</headword>
+      <description>[kɔrɑd̪] Note: the second peat.</description>
+    </item>
+    <item>
+      <headword id="idm37317976">caoran</headword>
+      <description>[kw:ɾɑṉ] Note: the third peat.</description>
+    </item>
+    <item>
+      <headword id="idm37323808">iarunn-móineadh</headword>
+      <description>Note: peat-cutting iron.</description>
+    </item>
+    <item>
+      <headword id="idm37335400">sgaoilteach</headword>
+      <description>Note: area on higher level where peats are spread to dry.</description>
+    </item>
+    <item>
+      <headword id="idm37313224">fàd-iomaill</headword>
+      <description>[fɑ:dĩmilʹ] Quot.: a’ fàd-iomaill. Note: the outer peat.</description>
+    </item>
+    <item>
+      <headword id="idm37341592">gàradh-gréineadh</headword>
+      <description>Note: peat wall on the edge of the bank (2nd peat).</description>
+    </item>
+    <item>
+      <headword id="idm37347928">coilleag</headword>
+      <description>[kɤlʹɑɡ] Note: when first lifted 4-5 peats are made into a “coilleag”.</description>
+    </item>
+    <item>
+      <headword id="idm37335688">coilleagachadh</headword>
+      <description>Quot.: a’ coilleagachadh. Note: making “coilleagan” [q.v.] of peats when lifted.</description>
+    </item>
+    <item>
+      <headword id="idm37307176">rùbhan</headword>
+      <description>[ru̜:ɑṉ] Note: several “coilleagan” [q.v.] of peats put together to form a “rùbhan”. [NOTES: corrected to ‘rùghan’ on the slip.]</description>
+    </item>
+    <item>
+      <headword id="idm37323160">iris</headword>
+      <description>Note: creel-band.</description>
+    </item>
+    <item>
+      <headword id="idm37321360">breugan</headword>
+      <description>Note: gap left in the weaving of the creel a few inches from the top. (Plural breugan.)</description>
+    </item>
+    <item>
+      <headword id="idm37349872">staing</headword>
+      <description>Note: main wand in a creel.</description>
+    </item>
+    <item>
+      <headword id="idm37327840">gniomhadh</headword>
+      <description>[ɡðĩɤ̃vəɣ] Note: the outer shell of the peatstack, built to a brickwork pattern.</description>
+    </item>
+    <item>
+      <headword id="idm37303504">sgàindeach</headword>
+      <description>[sɡɑ̃:nʹdʹɑx] Note: uncut peat which is dry enough for burning. Also applied to a dried cow’s dropping used for fuel.</description>
+    </item>
+    <item>
+      <headword id="idm37343320">ceum</headword>
+      <description>Quot.: “an ceum”. Note: the “step” of the ‘cas-chrom’.</description>
+    </item>
+    <item>
+      <headword id="idm37305952">raoin</headword>
+      <description>[rw̃:nʹ] Note: a field.</description>
+    </item>
+    <item>
+      <headword id="idm37328272">ceann-iomaire</headword>
+      <description>Note: end-rig, where horses turned when ploughing.</description>
+    </item>
+    <item>
+      <headword id="idm37313656">sgrìllig</headword>
+      <description>[sɡɾı:lʹiɡʹ] Note: very small potato.</description>
+    </item>
+    <item>
+      <headword id="idm37308688">sìlean</headword>
+      <description>Note: very small potato.</description>
+    </item>
+    <item>
+      <headword id="idm37322800">cipean-tochail</headword>
+      <description>[cıpɑṉt̪ɔxəl] Note: trial of strength similar to the ‘maide-leisg’.</description>
+    </item>
+    <item>
+      <headword id="idm37338280">spungag</headword>
+      <description>[spũ̜ŋɡɑɡ] Note: sling (for firing stones).</description>
+    </item>
+    <item>
+      <headword id="idm37307824">leum</headword>
+      <description>Quot.: “leum a’ bhradain”. Note: twisting oneself into the air from a position flat on one’s back on the ground or floor.</description>
+    </item>
+    <item>
+      <headword id="idm37328920">leum-sùrdag</headword>
+      <description>[lemsu̜:ʴsd̪ɑɡ] Note: jumping with both feet together. [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+    <item>
+      <headword id="idm37336984">roid</headword>
+      <description>Note: sprint.</description>
+    </item>
+    <item>
+      <headword id="idm37324816">leum-roid</headword>
+      <description>Note: a running jump.</description>
+    </item>
+    <item>
+      <headword id="idm37311280">fàinne</headword>
+      <description>Quot.: a’ deanamh fàinne a’ cholair. Note: straw part collar made by winding “sioman” round a core of straw, [kɑ̃ũ̜ɫɑx]. When it was long enough, the two ends were brought together so that it formed the shape of the collar. It was judged to be of the right size if the arm fitted into it with fingers outstretched, the elbow resting inside the base and the tips of the fingers touching the top where the two ends met. Probably the core of the collar.</description>
+    </item>
+    <item>
+      <headword id="idm37335832">muiseal</headword>
+      <description>[mũ̜ʃɑɫ] Quot.: “muiseal a’ chruinn”. Note: the “muzzle” of the plough.</description>
+    </item>
+    <item>
+      <headword id="idm37317616">plàta</headword>
+      <description>[pɫɑ:d̪ə] Note: blanket put under saddle.</description>
+    </item>
+    <item>
+      <headword id="idm37318048">spòg</headword>
+      <description>Quot.: spògan a’ chruinn. Note: the arms of the plough.</description>
+    </item>
+    <item>
+      <headword id="idm154564480">gobhal</headword>
+      <description>Quot. “gobhal a’ chruinn”. Note: in between the two arms of the plough.</description>
+    </item>
+    <item>
+      <headword id="idm154565416">muing</headword>
+      <description>[mũ̜ɲɡʹ] Note: horse’s mane.</description>
+    </item>
+    <item>
+      <headword id="idm154560016">sguab</headword>
+      <description>Quot.: sguab coirc, sguab eòrna.</description>
+    </item>
+    <item>
+      <headword id="idm154564624">beum</headword>
+      <description>Note: the amount one would cut with one stroke of the scythe.</description>
+    </item>
+    <item>
+      <headword id="idm37703968">spagh</headword>
+      <description>[spɤɣ] Note: swathe.</description>
+    </item>
+    <item>
+      <headword id="idm37673728">adag</headword>
+      <description>Quot.: adag eòrna, adag coirc.</description>
+    </item>
+    <item>
+      <headword id="idp3355232">toit</headword>
+      <description>[t̪ɔtʹ] Quot.: toit coirc, toit eòrna. Note: “hut”, containing aobut twenty stooks.</description>
+    </item>
+    <item>
+      <headword id="idp3357176">tùisde</headword>
+      <description>[t̪u̟:ʃdʹə] Note: flail.</description>
+    </item>
+    <item>
+      <headword id="idp3358904">doid</headword>
+      <description>[d̪ɔdʹ] Note: a very small, low haycock. Might have 12 of these in a proper-sized haycock.</description>
+    </item>
+    <item>
+      <headword id="idp3360632">coc</headword>
+      <description>[kɔxk] Quot.: coc fheòir. Note: haycock.</description>
+    </item>
+    <item>
+      <headword id="idp3362576">dais</headword>
+      <description>[d̪ɑʃ] Quot.: dais fheòir. Note: haystack (loaf-shaped).</description>
+    </item>
+    <item>
+      <headword id="idp3365384">bachallag</headword>
+      <description>Note: potato shoot.</description>
+    </item>
+    <item>
+      <headword id="idp3366896">dìthean</headword>
+      <description>Quot.: dìthean a’ bhuntàta. Note: the flower on the potato shaw.</description>
+    </item>
+    <item>
+      <headword id="idp3368624">sloc</headword>
+      <description>Quot.: sloc bhuntàta. Note: potato pit.</description>
+    </item>
+    <item>
+      <headword id="idp3370352">gaiseadh</headword>
+      <description>Note: blight in potatoes.</description>
+    </item>
+    <item>
+      <headword id="idp3371864">cròcan</headword>
+      <description>[kɾɔ:xkɑṉ] Note: iron hook with a long wooden handle used for digging up potatoes. Person using it on his knees.</description>
+    </item>
+    <item>
+      <headword id="idp3373592">eileatrom</headword>
+      <description>Note: wood on which corpse was stretched.</description>
+    </item>
+    <item>
+      <headword id="idp3375104">alairidh</headword>
+      <description>[ɑɫəɾi] Note: whisky given at funerals, usually at the cemetery.</description>
+    </item>
+    <item>
+      <headword id="idp3376904">tammers</headword>
+      <description>Quot.: Thug e na tammers air. Note: used generally in Harris for blows, punishment. [NOTES: the word corrected to ‘tammars’ most probably by the person preparing the slips.]</description>
+    </item>
+  </items>
+</fieldworkDocument>

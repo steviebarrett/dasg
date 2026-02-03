@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 1/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_GighaMrsGrahamslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>04/1968</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <informant>
+    <nameEnglish>Mrs James Graham</nameEnglish>
+    <age>50s</age>
+    <origin>Gigha</origin>
+  </informant>
+  <location>Gigha</location>
+  <items>
+    <item>
+      <headword id="idp161834704">maide-doichioll</headword>
+      <description>[mɛ̃dʹə d̪ɔçəɫ] Notes: stick used to bar the door when occupants were having a meal.</description>
+    </item>
+    <item>
+      <headword id="idp161831608">muighe</headword>
+      <description>[mũ̜jə] Notes: churn.</description>
+    </item>
+    <item>
+      <headword id="idp161828080">ralls</headword>
+      <description>[rɑu̜ɫs] Notes: ralls laimheadh – hand rake; ralls each – horse rake.</description>
+    </item>
+    <item>
+      <headword id="idp161823832">rùchdadh</headword>
+      <description>[ru̜:xkəɣ] Quotation: a’ rùchdadh an fheòir. Notes: coiling grass.</description>
+    </item>
+    <item>
+      <headword id="idp161849248">ruilleadh</headword>
+      <description>Quotation: a’ ruilleadh le criathar. Notes: winnowing.</description>
+    </item>
+    <item>
+      <headword id="idp161850904">sgaothannan</headword>
+      <description>[sɡɯ:ʔə̃n̪ə̃n] Notes: corn-rick in which a few stooks are collected together.</description>
+    </item>
+    <item>
+      <headword id="idp161852704">slabhraidh</headword>
+    <description>[sɫɑvri] </description></item>
+    <item>
+      <headword id="idp161854432">slaip</headword>
+      <description>[sɫɑip] Notes: sledge.</description>
+    </item>
+    <item>
+      <headword id="idp161856160">spaoth</headword>
+      <description>[spɯ:] Notes: sward.</description>
+    </item>
+    <item>
+      <headword id="idp161857888">steineadh</headword>
+      <description>[ʃtʹe:nʹəɣ] Notes: bleaching.</description>
+    </item>
+    <item>
+      <headword id="idp161859616">aineart-bùird</headword>
+      <description>Notes: table-cloth.</description>
+    </item>
+    <item>
+      <headword id="idp161861128">beasta</headword>
+      <description>[besṯə] Notes: waistcoat.</description>
+    </item>
+    <item>
+      <headword id="idp161862856">bùdainn</headword>
+      <description>[bu̟:d̪ĩnʹ] Notes: button.</description>
+    </item>
+    <item>
+      <headword id="idp161864584">cabar</headword>
+      <description>Quotation: ’S dona ’n cabar fèarna nach dean ràith am bealach.</description>
+    </item>
+    <item>
+      <headword id="idp161866096">ciuta</headword>
+      <description>[cu̟t̪ə] Notes: washing-tub.</description>
+    </item>
+    <item>
+      <headword id="idp161867824">cùirtein-uinneig</headword>
+      <description>Notes: curtain.</description>
+    </item>
+    <item>
+      <headword id="idp161869336">fuarachdan</headword>
+      <description>Notes: chilblains. (Moidart)</description>
+    </item>
+    <item>
+      <headword id="idp161870848">glanadh</headword>
+      <description>[ɡɫɛṉəɣ] Notes: washing (clothes).</description>
+    </item>
+  </items>
+</fieldworkDocument>

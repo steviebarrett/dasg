@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 15 4 14 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="HarrisVarious_HarrisArdveyCMacDonaldbiadh" docType="questionnaire" subType="BiadhIsDeoch" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Biadh is Deoch / Food and Drink</title>
+  <fieldworker>[anonymous D]</fieldworker>
+  <informant>
+    <nameEnglish>Catriona MacLeod</nameEnglish>
+    <age>approx. 80</age>
+  </informant>
+  <location>Harris, Ardvey</location>
+  <items>
+    <item><headword id="d0e26" type="heading" level="h1">1. Na tràthan</headword></item>
+    <item><headword id="d0e30" type="heading" level="h1">2. Am biadh a bhidhte gabhail aig gach tràth</headword></item>
+    <item><headword id="d0e34" type="heading" level="h1">3. Dòighean air biadh a dheasachadh</headword></item>
+    <item><headword id="d0e38" type="heading" level="h1">4. Fuine</headword></item>
+    <item><headword id="d0e42" type="heading" level="h1">5. Deochan dhe gach seòrsa</headword></item>
+    <item>
+      <headword id="d0e47">brochan</headword>
+      <description>oatmeal and onion mixed with water.</description>
+    </item>
+    <item>
+      <headword id="d0e56">deoch mhineadh</headword>
+      <description>min chorca is uisge.</description>
+    </item>
+    <item>
+      <headword id="d0e65">bròs</headword>
+      <description>breakfast: oatmeal, hot water, butter, salt.</description>
+    </item>
+    <item>
+      <headword id="d0e74">ceann gropach</headword>
+      <description>oatmeal and fish-liver.</description>
+    </item>
+    <item>
+      <headword id="d0e83">stapag</headword>
+      <description>min choirce is uachdar.</description>
+    </item>
+    <item>
+      <headword id="d0e92">stiùrag</headword>
+      <description>hot drink of oatmeal and hot water.</description>
+    </item>
+    <item>
+      <headword id="d0e101">bròs</headword>
+      <description>bruich</description>
+    </item>
+    <item>
+      <headword id="d0e110">bros</headword>
+      <description>pea</description>
+    </item>
+    <item>
+      <headword id="d0e119">càl-duilisg</headword>
+      <description>dulse cleaned and cooked in milk and butter.</description>
+    </item>
+	<item>
+	  <headword id="idola134">[salting]</headword>
+	  <description>(salting butter –  essential to use ground sea-salt, butter then put into jars and cabbage leaf put on top) (salting eels – salting eels and then hanging out to dry) (salting meat – pickle not ready until a small potato could float) (salting cod, smallag, cuideag, saoithean)</description>
+	</item>
+	<item>
+	  <headword id="idola135">[sornan]</headword>
+	  <description>(sornan – drying outside and would turn red, it had a sour taste)</description>
+	</item>
+	<item>
+	  <headword id="idola136">[faochagan]</headword>
+	  <description>(faochagan – good for stomach)</description>
+	</item>
+    <item><headword id="d0e154" type="heading" level="h1">6. Biadh no deoch a bhidhte deanamh gu sònraichte do luchd euslan</headword></item>
+    <item>
+      <headword id="d0e159">stiùrag</headword>
+      <description>for colds.</description>
+    </item>
+    <item>
+      <headword id="d0e168">na duilleagan</headword>
+      <description>leaves (unspecified).</description>
+    </item>
+    <item>
+      <headword id="d0e177">‘slàn-lus’</headword>
+      <description>soap [?] and sugar mixed with leaves and [sic].</description>
+    </item>
+	<item>
+	  <headword id="idola137">[oatmeal]</headword>
+	  <description>(chewing oatmeal) (butter and oatmeal mixture – applied to injury of nail through foot)</description>
+	</item>
+	<item>
+	  <headword id="idola138">[toothache]</headword>
+	  <description>(toothache – salt heated and placed in sock and held to cheek before going to sleep)</description>
+	</item>
+	<item>
+	  <headword id="idola139">[nettle]</headword>
+	  <description>(nettle infusion – drunk for rheumatism)</description>
+	</item>
+	<item>
+	  <headword id="idola140">[geir fèidh]</headword>
+	  <description>(geir fèidh - rubbed)</description>
+	</item>
+    <item>
+      <headword id="d0e222">poca buidhe</headword>
+      <description>maodal an fhèidh.</description>
+    </item>
+    <item>
+      <headword id="d0e231">mullachagan</headword>
+      <description>made with animal fat, put in bowl, a mould.</description>
+    </item>
+    <item>
+      <headword id="d0e240">mullachag càise</headword>
+      <description>mould of cheese.</description>
+    </item>
+    <item>
+      <headword id="d0e249">àtha</headword>
+      <description>wheat before hardened.</description>
+    </item>
+    <item><headword id="d0e257" type="heading" level="h1">7. Nithean a bhiodh ann nuair a rachadh beathach a mharbhadh</headword></item>
+    <item><headword id="d0e261" type="heading" level="h2">(Cath M)</headword></item>
+    <item>
+      <headword id="d0e266">marag dhubh</headword>
+      <description>maodal, blood, onions, oatmeal, flour and pepper.</description>
+    </item>
+    <item>
+      <headword id="d0e275">snadhle</headword>
+      <description>marag chorca, inside sheep just after killing.</description>
+    </item>
+    <item>
+      <headword id="d0e284">raisiadean</headword>
+      <description>[?] raisins.</description>
+    </item>
+    <item>
+      <headword id="d0e293">currachd  a righ</headword>
+    <description>[?] </description></item>
+    <item>
+      <headword id="d0e299">luagha</headword>
+    </item>
+    <item>
+      <headword id="d0e305">broillean</headword>
+      <description>[?] not used.</description>
+    </item>
+    <item>
+      <headword id="d0e314">na glasan</headword>
+    </item>
+    <item>
+      <headword id="d0e320">slug an amadain</headword>
+      <description>a red ‘sporran’ attached to maodal.</description>
+    </item>
+    <item>
+      <headword id="d0e329">tripe</headword>
+      <description>maodal cut up and cooked with onion.</description>
+    </item>
+    <item>
+      <headword id="d0e338">feoil chruaidh</headword>
+      <description>meat hung up to dry.</description>
+    </item>
+    <item><headword id="d0e346" type="heading" level="h1">8. Faclan sam bith eile</headword></item>
+  </items>
+</fieldworkDocument>

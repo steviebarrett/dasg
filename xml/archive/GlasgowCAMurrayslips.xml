@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 1/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_GlasgowCAMurrayslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>1971</date>
+  <informant>
+    <nameEnglish>Miss C. A. Murray</nameEnglish>
+    <origin>Lewis, Ness</origin>
+  </informant>
+  <location>Glasgow</location>
+  <items>
+    <item>
+      <headword id="idp115447048">bara</headword>
+      <description>Quotation: An duine bhios a bhara air falbh, cha shuidh e ach air failbhean corrach.</description>
+    </item>
+    <item>
+      <headword id="idp115456120">failbhean</headword>
+      <description>Quotation: An duine bhios a bhara air falbh, cha shuidh e ach air failbhean corrach. Notes: v. Matheson, An Clàrsair Dall, pp. 209, 227.</description>
+    </item>
+  </items>
+</fieldworkDocument>

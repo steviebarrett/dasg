@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 28 6 14 -->
+<fieldworkDocument docId="AOHenley_IochdarJMacKaymisc" docType="wordlist" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>[1987-88]</date>
+  <fieldworker personId="ohenleya">A. O’Henley</fieldworker>
+  <note>[NOTES: some notes added (most probably by K. D. MacDonald?). See below for details.]</note>
+  <informant>
+    <nameEnglish>John MacKay</nameEnglish>
+  </informant>
+  <location>South Uist, Iochdar</location>
+  <items>
+    <item>
+      <headword id="idp462944">asnaichean</headword>
+      <description>tummers of a boat.</description>
+    </item>
+    <item>
+      <headword id="idp526592">iasg driuman</headword>
+      <description>grey mullet. [NOTES: note added above ‘driuman’ – druimfhionn.]</description>
+    </item>
+    <item>
+      <headword id="idp479936">dallag</headword>
+      <description>kingfish.</description>
+    </item>
+    <item>
+      <headword id="idp526736">biorach</headword>
+      <description>dogfish.</description>
+    </item>
+    <item>
+      <headword id="idp456104">liugha</headword>
+      <description>lythe.</description>
+    </item>
+    <item>
+      <headword id="idp465104">gibneach</headword>
+      <description>octopus.</description>
+    </item>
+    <item>
+      <headword id="idp485120">iasg slisneach</headword>
+      <description>easily sliced.</description>
+    </item>
+    <item>
+      <headword id="idp505424">ripag</headword>
+      <description>strand of flesh hanging from [sic]. [NOTES: note added above ‘ripag’ – riobag.]</description>
+    </item>
+    <item>
+      <headword id="idp460352">bodach ruadh</headword>
+      <description>codfish.</description>
+    </item>
+    <item>
+      <headword id="idp555248">rochd</headword>
+      <description>a type of seaweed. Wide leaves on this seaweed used for ‘bragaire’. Found in March.</description>
+    </item>
+    <item>
+      <headword id="idp568280">todhar geamhraidh</headword>
+      <description>used as potato fertiliser.</description>
+    </item>
+    <item>
+      <headword id="idp450776">todhar an torr dhuibh</headword>
+      <description>found in January and known as rich type of fertiliser.</description>
+    </item>
+    <item>
+      <headword id="idp498512">ighne na fiaclan</headword>
+      <description>large claw on a lobster.</description>
+    </item>
+    <item>
+      <headword id="idp467552">amhach a’ ghiomach</headword>
+      <description>that part of a lobster used as a propellant. Located in front of the lobster and is the most tasty part to eat.</description>
+    </item>
+    <item>
+      <headword id="idp547040">dà stiùir as a dheidh</headword>
+      <description>at a lobster’s rear.</description>
+    </item>
+    <item>
+      <headword id="idp467768">giomach cearr</headword>
+      <description>a deformed lobster whose features are in total opposition to the normal lobster. Characterised by hairs all over its body. [NOTES: ‘cearr’ corrected to ‘ceàrr’.]</description>
+    </item>
+    <item>
+      <headword id="idp553592">boghannan</headword>
+      <description>rods used to construct creels.</description>
+    </item>
+    <item>
+      <headword id="idp564392">t-sùil</headword>
+      <description>where the lobster is caught.</description>
+    </item>
+    <item>
+      <headword id="idp538328">tròm</headword>
+      <description>a weight on the floor of a creel, usually a rock. Nowadays more likely to be a small slab of concrete.</description>
+    </item>
+    <item>
+      <headword id="idp453440">osann</headword>
+      <description>a door at one end of a creel which is opened to remove the lobster. [NOTES: corrected to ‘osan’.]</description>
+    </item>
+    <item>
+      <headword id="idp562664">lion dallaig</headword>
+      <description>a two and a half mesh net used for fishing dogfish.</description>
+    </item>
+    <item>
+      <headword id="idp563960">lion bheag</headword>
+      <description>a thick black rope with gut/string lines hanging from this.</description>
+    </item>
+    <item>
+      <headword id="idp536600">galair na gainmheach</headword>
+      <description>translated as pine by the informant. Caused by eating too much sand and lack of dozing. Also called ‘galair a’ mhachaire’ or ‘galair na h-airde’.</description>
+    </item>
+    <item>
+      <headword id="idp452504">snàthadh</headword>
+      <description>to eat as in cows eating grass. “Shnàthadh iad sin feur gu leor.”</description>
+    </item>
+    <item>
+      <headword id="idp603056">striongalair</headword>
+      <description>severe coughing affecting cattle.</description>
+    </item>
+    <item>
+      <headword id="idp604568">fir chlisne</headword>
+      <description>northern lights. When seen bad weather was expected – wind, rain or snow.</description>
+    </item>
+    <item>
+      <headword id="idp606080">cuan de dh’uisge</headword>
+      <description>as in a large puddle on a road.</description>
+    </item>
+    <item>
+      <headword id="idp607592">mios crochadh nan cliabh</headword>
+      <description>May. Weather would be so poor that horses had to be kept indoors and the large carrying baskets hung up.</description>
+    </item>
+    <item>
+      <headword id="idp609104">fàs nead</headword>
+      <description>an empty nest.</description>
+    </item>
+    <item>
+      <headword id="idp610616">botarachd</headword>
+      <description>Gaelic name for golf. [NOTES: corrected to ‘bodarachd’.]</description>
+    </item>
+    <item>
+      <headword id="idp612272">crògan feannaig</headword>
+      <description>sea urchin.</description>
+    </item>
+    <item>
+      <headword id="idp613784">dà thogail air gunna</headword>
+      <description>facility whereby the hammer can be pulled back two notches to give extra power. Found on a hammer gun.</description>
+    </item>
+  </items>
+</fieldworkDocument>
+

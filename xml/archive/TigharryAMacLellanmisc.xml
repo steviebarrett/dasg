@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 1 8 14 -->
+<fieldworkDocument docId="AOHenley_TigharryAMacLellanmisc" docType="wordlist" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>[1987-88]</date>
+  <fieldworker personId="ohenleya">A. O’Henley</fieldworker>
+  <informant>
+    <nameEnglish>Angus MacLellan</nameEnglish>
+  </informant>
+  <location>North Uist, Tigharry</location>
+  <items>
+    <item>
+      <headword id="idp112449712">faraileach</headword>
+      <description>remote, isolated. Would be used of a remote house – “Nach e taigh aca sin a tha faraileach.”</description>
+    </item>
+    <item>
+      <headword id="idp112530064">bùthag</headword>
+      <description>potatoes stored underground, usually located in stackyard.</description>
+    </item>
+    <item>
+      <headword id="idp112436536">anathach</headword>
+      <description>foolhardy. Would be applied if someone attempted something strenuous whilst recovering from an illness.</description>
+    </item>
+    <item>
+      <headword id="idp112502848">taomanach</headword>
+      <description>an unreliable person.</description>
+    </item>
+    <item>
+      <headword id="idp112441000">sumag</headword>
+      <description>a substance which was added to wool to prevent the colours from running together.</description>
+    </item>
+    <item>
+      <headword id="idp112454320">teine mór</headword>
+      <description>will o’ the wisp.</description>
+    </item>
+    <item>
+      <headword id="idp112509760">sunnag</headword>
+      <description>a chair crafted from an old barrel. Cut in the shape of a chair and filled to give a cushioned effect.</description>
+    </item>
+    <item>
+      <headword id="idp112505944">taiteal</headword>
+      <description>this was a meal which consisted of dulse which was boiled and eaten thereafter.</description>
+    </item>
+    <item>
+      <headword id="idp112430200">slobhcan</headword>
+      <description>brown seaweed like substance found on rocks. Boiled and stirred simultaneously for two to three hours. It was then cut up into little bits and strips. Had iron content and supposedly kept the blood clean. Was this called leverbread?</description>
+    </item>
+    <item>
+      <headword id="idp112538992">straonag</headword>
+      <description>used for fishing. Informant insists it was not the same as a ‘dorgh’ although it had some resemblance. Wooden frame with a line. Will try to get a diagram of this.</description>
+    </item>
+    <item>
+      <headword id="idp112439200">sunnadair</headword>
+      <description>some kind of weed. Not sure where it is to be found or of its colour, etc.</description>
+    </item>
+    <item>
+      <headword id="idp112529344">fuaindean</headword>
+      <description>the handles of a plough.</description>
+    </item>
+    <item>
+      <headword id="idp112523296">crios fhéillidh</headword>
+      <description>part of a long dress pulled up and tied round the waist to facilitate better movement.</description>
+    </item>
+    <item>
+      <headword id="idp112443952">cro chàil</headword>
+      <description>cabbage patch.</description>
+    </item>
+    <item>
+      <headword id="idp112441648">bodach sàbhaidh</headword>
+      <description>a potato with bits of wood stuck into it. Rotated when exposed to the wind.</description>
+    </item>
+    <item>
+      <headword id="idp112443016">cleathag</headword>
+      <description>an insect, beast which took the seed out of corn ears. Not sure of English term for this insect.</description>
+    </item>
+    <item>
+      <headword id="idp112513936">leòpa</headword>
+      <description>a stretch of land which consisted of one crop.</description>
+    </item>
+    <item>
+      <headword id="idp112471168">lòn chraois</headword>
+      <description>a fly floating in water. Considered to be contaminated and dangerous to drink.</description>
+    </item>
+    <item>
+      <headword id="idp112436320">peasa nan luch</headword>
+      <description>vetch.</description>
+    </item>
+    <item>
+      <headword id="idp112493416">pònair (-ean)</headword>
+      <description>baked beans or any other bean.</description>
+    </item>
+    <item>
+      <headword id="idp112454968">bròs pheasdrach</headword>
+      <description>piecemeal brose.</description>
+    </item>
+    <item>
+      <headword id="idp112542376">conais</headword>
+      <description>whin. Broom with yellow flowers.</description>
+    </item>
+    <item>
+      <headword id="idp112453384">treachaid</headword>
+      <description>to dig, e.g. digging a grave – “Bha sinn a’ treachaid na h-uaghach.”</description>
+    </item>
+    <item>
+      <headword id="idp112467352">camraic</headword>
+      <description>an awkward, difficult person who disagrees with everything and everyone.</description>
+    </item>
+    <item>
+      <headword id="idp112544104">sgùdach</headword>
+      <description>as in a misty day.</description>
+    </item>
+    <item>
+      <headword id="idp117552032">caidhligeadh</headword>
+      <description>racing, as in horse racing.</description>
+    </item>
+    <item>
+      <headword id="idp117551024">aichinnich</headword>
+      <description>land that has been ploughed for the second year. “Bha sinn a’ treabhadh na h-aichinnich an diugh.”</description>
+    </item>
+    <item>
+      <headword id="idp117549152">susaladh</headword>
+      <description>applied to peat that has been left too long to dry. Personally I would use this to mean food that had been overcooked or burnt.</description>
+    </item>
+    <item>
+      <headword id="idp117547640">easbach</headword>
+      <description>a hasp on a door.</description>
+    </item>
+    <item>
+      <headword id="idp117546128">glùt lionadh</headword>
+      <description>cavity filling between the two walls.</description>
+    </item>
+    <item>
+      <headword id="idp117544616">saidhbhair</headword>
+      <description>a siever in the road.</description>
+    </item>
+    <item>
+      <headword id="idp117543104">caraiche (-an)</headword>
+      <description>lumps on potatoes.</description>
+    </item>
+    <item>
+      <headword id="idp117541808">fairc (-ean)</headword>
+      <description>crevices under rocks where crabs, lobsters and other shellfish can be obtained.</description>
+    </item>
+  </items>
+</fieldworkDocument>
+

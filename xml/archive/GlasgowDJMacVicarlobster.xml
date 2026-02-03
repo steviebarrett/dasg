@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?><!-- checked by MM on 3 6 14 --><fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="AOHenley_GlasgowDJMacVicarlobster" docType="questionnaire" subType="LobsterFishing" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Iasgach a’ Ghiomaich / Lobster-Fishing</title>
+  <date>[1987-88]</date>
+  <fieldworker personId="ohenleya">A. O’Henley</fieldworker>
+  <note>[NOTES: no personal information in the questionnaire itself. The informant identified on a post-it note attached.]</note>
+  <informant>
+    <nameEnglish>D. J. MacVicar</nameEnglish>
+    <origin>[Note: From North Uist, information from Alex O’Henley / RÓM 4 Dec 2023]</origin>
+  </informant>
+  <location>Glasgow [?]</location>
+  <items>
+    <item><headword id="d0e32" type="heading" level="h1">The Lobster</headword></item>
+    <item>
+      <headword id="idp109754168">firionn</headword>
+      <description>male.</description>
+    </item>
+    <item>
+      <headword id="idp109799240">boirionn</headword>
+      <description>female.</description>
+    </item>
+    <item>
+      <headword id="idp109752944">ighnean? (inean?)</headword>
+      <description>claws.</description>
+    </item>
+    <item>
+      <headword id="idp109763024">an t-ord</headword>
+      <description>used for breaking up shellfish.</description>
+    </item>
+    <item>
+      <headword id="idp109762592">an sàbh</headword>
+      <description>another claw used for catching fish.</description>
+    </item>
+    <item>
+      <headword id="idp109766336">gàilleach</headword>
+      <description>gills.</description>
+    </item>
+    <item>
+      <headword id="idp109768928">earball</headword>
+      <description>tail.</description>
+    </item>
+    <item>
+      <headword id="idp109768424">buigneag</headword>
+      <description>a lobster found in crevices near the shore after casting its shell in summertime.</description>
+    </item>
+    <item><headword id="d0e108" type="heading" level="h1">The Creel</headword></item>
+    <item>
+      <headword id="idp109776776">sgùill</headword>
+      <description>creel.</description>
+    </item>
+    <item>
+      <headword id="idp109811912">am bonn</headword>
+      <description>the base.</description>
+    </item>
+    <item>
+      <headword id="idp109813136">cearcaill</headword>
+      <description>rods, before and after bending and fitting to base.</description>
+    </item>
+    <item>
+      <headword id="idp109814936">a’ cnòdachadh na lìn</headword>
+      <description>the netting and how attached to base.</description>
+    </item>
+    <item>
+      <headword id="idp109814720">an t-suil</headword>
+      <description>the eye.</description>
+    </item>
+    <item>
+      <headword id="idp109729760">clachan acrach</headword>
+      <description>weight.</description>
+    </item>
+    <item>
+      <headword id="idp109717160">buidhe rop</headword>
+      <description>rope.</description>
+    </item>
+    <item>
+      <headword id="idp109719536">aircean</headword>
+      <description>floats.</description>
+    </item>
+    <item>
+      <headword id="idp109720760">dorus na sgùill</headword>
+      <description>door (for admitting hand).</description>
+    </item>
+	<item>
+	  <headword id="idola20">[fleet of creels]</headword>
+	  <description>Fleet of creels, when attached to a single line: creels placed individually and not in a line as such.</description>
+	</item>
+    <item><headword id="d0e202" type="heading" level="h1">Fishing</headword></item>
+    <item>
+      <headword id="idp109723352">biathadh</headword>
+      <description>bait.</description>
+    </item>
+	<item>
+	  <headword id="idola9">runnach</headword>
+	  <description>kinds [of bait] used.</description>
+	</item>
+    <item><headword id="d0e224" type="heading" level="h1">Cleaning a creel, what creatures found within</headword></item>
+	<item>
+	  <headword id="idola21">crùbagan</headword>
+	</item>
+	<item>
+	  <headword id="idola22">easgannan</headword>
+	</item>
+	<item><headword id="d0e240" type="heading" level="h1">Other terms</headword></item>
+    <item>
+      <headword id="idp109687784">brothadh</headword>
+      <description>[about rope] disintegrating.</description>
+    </item>
+	<item>
+	  <headword id="idola23">[tying claws of lobsters]</headword>
+	  <description>Device used for tying claws of lobsters – string or elastic bands.</description>
+	</item>
+    <item>
+      <headword id="idp109694408">bucas ghiomach</headword>
+      <description>keep-box. Moored under ‘sgorran’, rock crevices, near the shore.</description>
+    </item>
+    <item>
+      <headword id="idp109694336">brod</headword>
+      <description>a gaff with a hook used to pull out the lobster.</description>
+    </item>
+  </items>
+</fieldworkDocument>

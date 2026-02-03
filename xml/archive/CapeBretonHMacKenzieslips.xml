@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 10/8/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_CapeBretonHMacKenzieslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>1967</date>
+  <informant>
+    <nameEnglish>Hugh MacKenzie</nameEnglish>
+  </informant>
+  <location>Cape Breton</location>
+  <items>
+    <item>
+      <headword id="idp161829952">ramalaig</headword>
+      <description>Quotation: Nach ann a siud a bha an ramalaig. Notes: of a person who sings a song badly, not even knowing the words.</description>
+    </item>
+    <item>
+      <headword id="idp161827000">reiteach</headword>
+      <description>Notes: match-making.</description>
+    </item>
+    <item>
+      <headword id="idp161823832">pibhaideach</headword>
+      <description>Notes: a person who does everything wrong the hard way.</description>
+    </item>
+    <item>
+      <headword id="idp161842912">sgriogal</headword>
+      <description>Notes: decrepit, useless person.</description>
+    </item>
+    <item>
+      <headword id="idp161844424">sealladh-céin</headword>
+      <description>Notes: television.</description>
+    </item>
+    <item>
+      <headword id="idp161845936">starcan</headword>
+      <description>Notes: causeway.</description>
+    </item>
+    <item>
+      <headword id="idp161847448">tasmaltan</headword>
+      <description>Quotation: An d’fhuair gin agaibh tasmaltan air a’ mhathan? Notes: trail left in forest by a wild animal such as a bear.</description>
+    </item>
+    <item>
+      <headword id="idp161849248">treòlair</headword>
+      <description>Quotation: An d’fhuair thu an treòlair ud a tha air falbh? Notes: an epidemic, contagious sickness.</description>
+    </item>
+    <item>
+      <headword id="idp161850976">biadh ’s-aodach</headword>
+      <description>Quotation: A’ bhiadh ’s aodach ort! Notes: to a boy or girl particularly well dressed.</description>
+    </item>
+    <item>
+      <headword id="idp161852632">cagair</headword>
+      <description>Quotation: cagair-céin. Notes: telephone.</description>
+    </item>
+    <item>
+      <headword id="idp161854288">caibhear</headword>
+      <description>Quotation: Bha ’n caibhear air an duine an raoir. Notes: broken condition of a person.</description>
+    </item>
+    <item>
+      <headword id="idp161855944">comharra-céin</headword>
+      <description>Notes: telegraph.</description>
+    </item>
+    <item>
+      <headword id="idp161857456">dibhearsain</headword>
+      <description>Quotation: Tha a’ chlann ri spòrs agus dibhearsain. Notes: teasing or imitating a person.</description>
+    </item>
+    <item>
+      <headword id="idp161859112">geòbadh</headword>
+      <description>Quotation: Nach toir thu geòbadh air an dorus? Notes: an opening (door, window, etc.).</description>
+    </item>
+    <item>
+      <headword id="idp161860768">geoc</headword>
+      <description>Quotation: Ma tha an t-easbuig cho dona sin ri leum nam feansan, carson a Dia, nach cuir thu geoc air? Notes: yoke – put round the necks of horses guilty of jumping fences, etc. (Above example from story told on tape.)</description>
+    </item>
+    <item>
+      <headword id="idp161862424">goileil</headword>
+      <description>Notes: a long sliver of wood near fireplace used for lighting fire or lamp.</description>
+    </item>
+  </items>
+</fieldworkDocument>

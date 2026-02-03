@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 10/8/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_ClachanNMacDonaldslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>02/1969</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <informant>
+    <nameEnglish>Rev. Norman MacDonald</nameEnglish>
+    <age>c. 60</age>
+    <origin>Skye</origin>
+  </informant>
+  <location>North Uist, Clachan</location>
+  <items>
+    <item>
+      <headword id="idp166274384">rèip</headword>
+      <description>[rɛ:p] Quotation: Dh’fhàg e [rɛ:p] sios air a’ bhroilleach. Notes: untidy mess on clothes.</description>
+    </item>
+    <item>
+      <headword id="idp166276544">tòtaman</headword>
+      <description>[ṯɔ:ṯɑ̃mɑṉ] Notes: a spinning top.</description>
+    </item>
+    <item>
+      <headword id="idp166278272">cart</headword>
+      <description>Quotation: Cart na cosgais. Notes: (Uist) the cart which contained the spirits, biscuits and cheese, and tobacco, and which followed the remains at a funeral. [NOTES: slipped under ‘cairt na cosgais’.]</description>
+    </item>
+    <item>
+      <headword id="idp166280072">dànas</headword>
+      <description>Quotation: “Nach ann ort a tha ’n dànas.” Notes: sport, diversion.</description>
+    </item>
+    <item>
+      <headword id="idp166281728">déile-bhogadain</headword>
+      <description>[dʹɤıləvoɡəd̪ɑ̃nʹ] Notes: see-saw.</description>
+    </item>
+    <item>
+      <headword id="idp166283456">dóite</headword>
+      <description>[d̪o:tʹə] Notes: bare, without anything.</description>
+    </item>
+    <item>
+      <headword id="idp166285184">[ɡɑ̃:]</headword>
+      <description>Quotation: [ɡɑ̃:] ris an fhardaich. Notes: in the immediate vicinity of the house.</description>
+    </item>
+    <item>
+      <headword id="idp166287272">goirisg</headword>
+      <description>Notes: half-wit.</description>
+    </item>
+    <item>
+      <headword id="idp166288928">grìseann</headword>
+      <description>Notes: shivering spasm due to cold.</description>
+    </item>
+  </items>
+</fieldworkDocument>

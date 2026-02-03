@@ -1,0 +1,61 @@
+@CHARSET "UTF-8";
+
+/* 
+	Site Wide 
+*/
+
+.error {
+	font-weight:bold;
+	color:red;
+}
+
+.hide {
+	display:none;
+}
+
+input[type=submit]:hover {
+	cursor:pointer;
+}
+
+/* 
+	IE fix
+*/
+img {
+	border-width:0;
+}
+
+body {
+	background-color:#fff;
+	font-family:"Helvetica Neue", Helvetica, sans-serif;
+	margin:0;
+}
+
+p {
+	line-height:130%;
+}
+
+a {
+	color:#35979c;
+	text-decoration:none;
+}
+
+a:hover {
+	text-decoration:underline;
+}
+
+h1, h2, h3, h4, h5 {
+	color:#333333;
+}
+
+h2 {
+	margin-bottom:5px;
+}
+
+.smallTH {
+	font-size:12pt;
+}
+
+.clear {
+	clear:both;
+}
+

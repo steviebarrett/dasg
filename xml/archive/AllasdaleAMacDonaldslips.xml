@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 5/8/15 -->
+<!-- illustration -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_AllasdaleAMacDonaldslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>02/1969</date>
+  <fieldworker>AJ Smith</fieldworker>
+  <informant>
+    <nameEnglish>Archie MacDonald</nameEnglish>
+    <age>c. 70</age>
+    <origin>[?]</origin>
+  </informant>
+  <location>Barra, Allasdale</location>
+  <items>
+    <item>
+      <headword id="idp167338544">spearrach</headword>
+      <description>Notes: hobble on sheep and cattle.</description>
+    </item>
+    <item>
+      <headword id="idp167340056">tearb</headword>
+      <description>[tʹɛɾɑb] Quotation: A’ tearbadh nan uan. Notes: wean.</description>
+    </item>
+    <item>
+      <headword id="idp167341928">balg</headword>
+      <description>Quotation: Balg maide. Notes: wooden beater used in the tanning of leather. <illustration src="AllasdaleAMacDonaldslipsillust1.jpg" width="300"/></description>
+    </item>
+    <item>
+      <headword id="idp167343584">beireag</headword>
+      <description>[beðɑɡ] Notes: a piece of rope put round tongue and lower jaw of calves and lambs.</description>
+    </item>
+    <item>
+      <headword id="idp167345312">cròcach</headword>
+      <description>[kɾɔ:kɔx] Notes: arrangement put on mouths of calves and young horses to prevent them suckling.</description>
+    </item>
+    <item>
+      <headword id="idp167347040">deadhann</headword>
+      <description>[dʹeə̃n̪] Notes: hobble put on horses.</description>
+    </item>
+    <item>
+      <headword id="idp167348768">drabhailte</headword>
+      <description>Quotation: an drabhailte. Notes: the hopper in the mill.</description>
+    </item>
+    <item>
+      <headword id="idp167350424">grop</headword>
+      <description>Quotation: a’ gropadh [ɡɾɔpəɣ]. Notes: tanning leather.</description>
+    </item>
+  </items>
+</fieldworkDocument>

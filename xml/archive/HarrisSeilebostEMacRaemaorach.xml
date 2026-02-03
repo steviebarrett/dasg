@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 24 4 14 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="HarrisVarious_HarrisSeilebostEMacRaemaorach" docType="questionnaire" subType="Maorach" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Maorach / Shellfish</title>
+  <fieldworker>[anonymous D]</fieldworker>
+  <informant>
+    <nameEnglish>Eoghainn MacRae</nameEnglish>
+    <age>about 60</age>
+    <origin>Taransay</origin>
+  </informant>
+  <location>Harris, Seilebost</location>
+  <items>
+    <item>
+      <headword id="d0e30">strùpan</headword>
+      <description>cockles.</description>
+    </item>
+    <item>
+      <headword id="d0e39">barnaich</headword>
+      <description>barnacle</description>
+    </item>
+    <item>
+      <headword id="d0e48">maosgan caol</headword>
+      <description>prawn.</description>
+    </item>
+    <item>
+      <headword id="d0e57">crùbag</headword>
+      <description/>
+    </item>
+    <item>
+      <headword id="d0e65">portan</headword>
+      <description>green crab.</description>
+    </item>
+    <item>
+      <headword id="d0e74">deiseag</headword>
+      <description>[?] crab.</description>
+    </item>
+    <item>
+      <headword id="d0e83">sornan</headword>
+      <description/>
+    </item>
+	<item>
+	  <headword id="d0e91">liabag</headword>
+	  <description/>
+	</item>
+    <item>
+      <headword id="d0e99">dallag</headword>
+      <description/>
+    </item>
+    <item>
+      <headword id="d0e107">easgeann</headword>
+      <description/>
+    </item>
+    <item>
+      <headword id="d0e115">falmair</headword>
+      <description>hake.</description>
+    </item>
+    <item>
+      <headword id="d0e124">traille</headword>
+      <description>tusk.</description>
+    </item>
+    <item>
+      <headword id="d0e133">cnodan</headword>
+      <description>gurnet.</description>
+    </item>
+    <item>
+      <headword id="d0e142">puthag</headword>
+      <description>porpoise.</description>
+    </item>
+    <item>
+      <headword id="d0e151">ugsa</headword>
+      <description>saoithean mòr.</description>
+    </item>
+    <item>
+      <headword id="d0e160">lugaichean</headword>
+      <description>lug worms.</description>
+    </item>
+    <item>
+      <headword id="d0e169">learg</headword>
+      <description>red throated diver.</description>
+    </item>
+    <item>
+      <headword id="d0e178">eun dubh a sgadain</headword>
+      <description>guillemot.</description>
+    </item>
+    <item>
+      <headword id="d0e187">colc</headword>
+      <description>eider.</description>
+    </item>
+    <item>
+      <headword id="d0e196">sulaire</headword>
+      <description>gannet.</description>
+    </item>
+    <item>
+      <headword id="d0e205">bòthag</headword>
+      <description>ringed plover.</description>
+    </item>
+    <item>
+      <headword id="d0e214">stearnag</headword>
+      <description>tern.</description>
+    </item>
+    <item>
+      <headword id="d0e223">cathan</headword>
+      <description>barnacle goose.</description>
+    </item>
+    <item>
+      <headword id="d0e232">feadag</headword>
+      <description>golden plover.</description>
+    </item>
+  </items>
+</fieldworkDocument>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 7/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_KillinJMacKenzieslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>04/1968</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <informant>
+    <nameEnglish>Jock MacKenzie</nameEnglish>
+    <age>70s</age>
+  </informant>
+  <location>Perthshire, Killin</location>
+  <items>
+    <item>
+      <headword id="idp115472544">lòban</headword>
+      <description>[ɫɔ:bɑ̃ṉ] Notes: tripod for hay-making.</description>
+    </item>
+    <item>
+      <headword id="idp115455840">prabag</headword>
+      <description>Notes: small haycock.</description>
+    </item>
+    <item>
+      <headword id="idp115494288">cuibhleag</headword>
+      <description>[k[ɤı]lɑɡ] Notes: very small hay “coils”.</description>
+    </item>
+  </items>
+</fieldworkDocument>

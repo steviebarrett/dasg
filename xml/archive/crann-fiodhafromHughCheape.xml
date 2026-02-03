@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 17/11/15 -->
+<!-- illustration -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Word-lists_crann-fiodhafromHughCheape" docType="questionnaire" subType="Miscellaneous" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Àiteach / Agriculture</title>
+  <note>
+    [NOTE: the diagram and list are attached to a letter from Hugh Cheape of National Museum of Antiquities of Scotland (no date): “(...) that I should write to you about a subject which we are investigating at the moment. We have in the collection two wooden ploughs from Uist, of the type shown in the accompanying photocopy. I am of the opinion that all these ploughs are relatively modern, that is of the period 1880s-1950s, although they do have older features. They have been described as crann fiodha and I am wondering if this is a recent compound, introduced to distinguish the locally made plough from the newer plough types which were beginning to be imported about 1886? I am wondering if their use is specifically related to the resettlement shemes of the period after 1886 when, I imagine, the Uist crofters suddenly had a great deal more arable at their disposal and therefore the sudden need for a substantial plough. I also enclose some photocopy of the named parts of this type of plough which came to us by a tortuous route. The Mrs Duncan referred to was a South Uist lady. I hope that there [sic] may be useful for Dictionary use.”]
+  </note>
+  <informant>
+    <nameEnglish>Mrs M Duncan</nameEnglish>
+    <origin>South Uist</origin>
+  </informant>
+  <location>Stockbridge</location>
+  <items>
+    <item>
+      <headword id="idp155948800">crann-fiodha</headword>
+      <description>Plough: informant, Mrs M Duncan, Oakfern, Longstock Park, Stockbridge. Where remembered: In all parts of South Uist and also in all the islands. When last used: Generally used until around 1939-1940 in S. Uist. One is still used in Frobost, S. Uist by a person named Ronald MacLellan. District over which known to have been used: Whole island of S. Uist. Name of Plough: no specific name – generally known as Crann Fiodh (wooden plough). Names of parts as per diagram: Duirn (pl), Dorn (sing); Fearasdan (wooden supports); Lamhan (pl), Lamh (sing); Soc; Druim; Coltair; Smuisheal (smuishal in the diagram); Slat (made of iron); Bord Uiridh; Peirceil; Anal; Grealag. <illustration src="crann-fiodhaillust1.jpg" width="700"/></description>
+    </item>
+  </items>
+</fieldworkDocument>

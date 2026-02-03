@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 7/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_LochboisdaleAMunroslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>02/1969</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <informant>
+    <nameEnglish>Archie Munro</nameEnglish>
+  </informant>
+  <location>South Uist, Lochboisdale</location>
+  <items>
+    <item>
+      <headword id="idp167331648">mìos</headword>
+      <description>Quotation: mìos crochadh nan cléibh. Notes: February.</description>
+    </item>
+    <item>
+      <headword id="idp167328696">riatanach</headword>
+      <description>[riɤt̪ɑ̃ṉɑx] Notes: same as “feumail” – useful.</description>
+    </item>
+    <item>
+      <headword id="idp167345544">put</headword>
+      <description>Quotation: a’ putadh na cloich. Notes: putting the shot.</description>
+    </item>
+    <item>
+      <headword id="idp167347200">achasan</headword>
+      <description>[ɑxəsɑṉ] Notes: reprimand.</description>
+    </item>
+    <item>
+      <headword id="idp167348928">badag</headword>
+      <description>Notes: brush made of hen feathers for cleaning the griddle.</description>
+    </item>
+    <item>
+      <headword id="idp167350512">cailleach-chòsag</headword>
+      <description>Notes: slater (woodlouse).</description>
+    </item>
+    <item>
+      <headword id="idp167352024">camaidealach</headword>
+      <description>[kɑmədʹəɫɑx] Quotation: àite camaidealach. Notes: a place through which it is difficult to make a clear passage. One has to zig-zag to avoid obstacles, e.g. harbour with a lot of rocks at the entrance.</description>
+    </item>
+    <item>
+      <headword id="idp167353896">ceap</headword>
+      <description>Notes: cap.</description>
+    </item>
+    <item>
+      <headword id="idp167355408">ceàrrdubhan</headword>
+      <description>[cɑ:rd̪u̟ɑ̃ṉ] Notes: an insect which frequents dung-heaps.</description>
+    </item>
+    <item>
+      <headword id="idp167357136">coingeart</headword>
+      <description>[kɔiŋɡʹɛʴsṯ] Quotation: Chaneil e [kɔiŋɡʹɛʴsṯ] sin a dheanamh. Notes: It is not right to do that. [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+    <item>
+      <headword id="idp167359440">corra-steòcach</headword>
+      <description>[kɔɾəʃtʹɔ:xkɔx] Notes: a kind of spade. Old usage, heard in Lochboisdale years back. Said by N. Macmillan, Kilpheder to be a Harris word.</description>
+    </item>
+    <item>
+      <headword id="idp167361168">deannan</headword>
+      <description>[dʹɑ̃n̪ɑṉ] Notes: several, a good many.</description>
+    </item>
+  </items>
+</fieldworkDocument>

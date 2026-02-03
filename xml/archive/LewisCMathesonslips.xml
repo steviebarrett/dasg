@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 7/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_LewisCMathesonslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <informant>
+    <nameEnglish>C. [G?] Matheson</nameEnglish>
+  </informant>
+  <location>Lewis</location>
+  <items>
+    <item>
+      <headword id="idp115474064">airson</headword>
+      <description>Quotation: Air son sud fhein. Notes: reply often given to an inquisitive child.</description>
+    </item>
+    <item>
+      <headword id="idp115465424">saill</headword>
+      <description>Quotation: Saill gu math e. Notes: Overcharge him!</description>
+    </item>
+  </items>
+</fieldworkDocument>

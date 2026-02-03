@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 10/8/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_CastlebayAMacQueenslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>02/1969</date>
+  <informant>
+    <nameEnglish>Fr. Angus MacQueen</nameEnglish>
+    <origin>South Uist</origin>
+  </informant>
+  <location>Barra, Castlebay</location>
+  <items>
+    <item>
+      <headword id="idp115441336">tarrang</headword>
+      <description>Quotation: Chuir mi toll is tarrang ’na chluais. Notes: (heard it in Vatersay) I hammered the point home.</description>
+    </item>
+    <item>
+      <headword id="idp115482016">toll</headword>
+      <description>Quotation: “Chuir mi toll is tarrang ’na chluais.” Notes: (heard it in Vatersay) I hammered the point home.</description>
+    </item>
+    <item>
+      <headword id="idp115466824">cluas</headword>
+      <description>Quotation: Chuir mi toll is tarrang ’na chluais. Notes: (heard it in Vatersay) I hammered the point home.</description>
+    </item>
+  </items>
+</fieldworkDocument>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 3 5 13 -->
+<fieldworkDocument docId="CattleandSheep_NethyBridgeNSmithsheep" docType="questionnaire" subType="Sheep">
+  <title>Caoraich / Sheep</title>
+  <fieldworker>self</fieldworker>
+  <informant>
+    <nameEnglish>Noel Smith</nameEnglish>
+    <age>38</age>
+    <origin>Inverness-shire, Nethy Bridge</origin>
+  </informant>
+  <location>Inverness-shire, Nethy Bridge</location>
+  <items>
+    <item><headword id="d0e29" type="heading" level="h1">1. Different stages in the growth of sheep (female)</headword></item>
+    <item>
+      <headword id="d0e34">uan</headword>
+      <description>was the general term for a lamb.</description>
+    </item>
+    <item>
+      <headword id="d0e43">crog</headword>
+      <description>was the word used when the ewe reached five years and then [was] sold, that is after having four lambs.</description>
+    </item>
+    <item>
+      <headword id="d0e52">[oisg]</headword>
+      <description>I have heard the word ‘oisg’ used for a sheep but I don’t know did the word belong to any particular age group. The ‘o’ sounded like ‘o’ in ‘òran’.</description>
+    </item>
+    <item><headword id="d0e60" type="heading" level="h1">2. Different stages in the growth of sheep (male)</headword></item>
+    <item>
+      <headword id="d0e65">reithe</headword>
+      <description>this is the only word I ever heard applied to a ram.</description>
+    </item>
+    <item><headword id="d0e73" type="heading" level="h1">3. Different stages in the growth of the castrated male</headword></item>
+    <item>
+      <headword id="d0e78">mult</headword>
+      <description>this was the general term given to a castrated or wedder lamb after he had been clipped for the first time.</description>
+    </item>
+    <item><headword id="d0e86" type="heading" level="h1">4. Sheep’s appearance</headword></item>
+    <item>
+      <headword id="d0e91">maol</headword>
+      <description>I’ve heard this term applied either to a sheep or a cattle beast without horns.</description>
+    </item>
+    <item>
+      <headword id="d0e100">biorach</headword>
+      <description>this word described a sheep with short pointed horns and also narrow and pointed look of the face generally.</description>
+    </item>
+    <item><headword id="d0e108" type="heading" level="h1">5. Miscellaneous</headword></item>
+    <item><headword id="d0e112" type="heading" level="h1">6. Feeding and grazing</headword></item>
+    <item><headword id="d0e116" type="heading" level="h1">7. Handling of sheep</headword></item>
+    <item>
+      <headword id="d0e121">faoch</headword>
+      <description>I’ve heard this word used by my uncle once for hunting sheep down the face of a hill when they would be gathering for the clipping. The ‘ao’ had the same sound as in ‘fraoch’ but a quicker and more abrupt sound. I would imagine this word was their way of saying ‘fuadaich’.</description>
+    </item>
+    <item>
+	  <headword id="idola87">[stuigeadh coin]</headword>
+	  <description>The commands for a sheep-dog my granny used, which I have heard repeated by my mother were: Mach thu fad air ais agus beir orra, although as far as I can understand ‘beir orra’ was applied when the sheep or the cows were in mischief and though the command meant to overtake, it was meant for the dog to give them a good drilling after he did get them. Another command which was used though I do not know is it correct Gaelic or not was ‘thoir thu leo’ and the other ordinary command being ‘trobhad seo’.</description>
+	</item>  
+    <item>
+      <headword id="d0e139">cròdhadh</headword>
+      <description>pushing the sheep into the fank.</description>
+    </item>
+    <item><headword id="d0e147" type="heading" level="h1">8. Apparatus</headword></item>
+    <item><headword id="d0e151" type="heading" level="h1">9. Diseases</headword></item>
+    <item>
+      <headword id="d0e156">ploc</headword>
+      <description>this was the name given for liver fluke which shows on the sheep by a swelling under the jaw.</description>
+    </item>
+    <item><headword id="d0e164" type="heading" level="h1">10. Parts of the body</headword></item>
+    <item>
+      <headword id="d0e169">ceann</headword>
+    </item>
+    <item>
+      <headword id="d0e175">amhach</headword>
+    </item>
+    <item>
+      <headword id="d0e181">falt</headword>
+    </item>
+    <item>
+      <headword id="d0e187">seice</headword>
+    </item>
+    <item>
+      <headword id="d0e193">gualainn</headword>
+    </item>
+    <item>
+      <headword id="d0e199">earball</headword>
+    </item>
+    <item>
+      <headword id="d0e205">cramh</headword>
+      <description>the ‘mh’ as I have heard it spoken here was like ‘mh’ in ‘deanamh’ or the ‘ow’ sound in ‘cow’.</description>
+    </item>
+    <item>
+      <headword id="d0e214">cridhe</headword>
+    </item>
+    <item>
+      <headword id="d0e220">broinn</headword>
+    </item>
+	<item>
+	  <headword id="idola88">[note]</headword>
+	  <description>I have heard all these words pronounced the same as I hear them on wireless but do not know whether different words were used when applied to sheep.</description>
+	</item>
+    <item>
+      <headword id="d0e235">[Gaoth na Seicean]</headword>
+      <description>Being on the subject of sheep I will add a phrase which I have heard here in connection with the cold north east winds we get here often in March. This wind was known as Gaoth na Seicean, the reason being that the grass, the little that is on the fields at that time of year, was all brown and withered as it is usually a frosty wind; the sheep would become very poor in condition and giving the appearance that there was nothing left but the skin.</description>
+    </item>
+    <item><headword id="d0e243" type="heading" level="h1">11. Lambing</headword></item>
+    <item><headword id="d0e247" type="heading" level="h1">12. Miscellaneous</headword></item>
+  </items>
+</fieldworkDocument>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 15 1 15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="DRMorrisonetal_DurnessGMacKenziewool" docType="questionnaire" subType="Wool-working" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Obair na Clòimhe / Wool-Working</title>
+  <date>1970</date>
+  <fieldworker>[self]</fieldworker>
+  <note>[NOTES: the questionnaire has a letter dated 10th December 1970 attached to it.]</note>
+  <informant>
+    <nameEnglish>George MacKenzie</nameEnglish>
+    <age>67</age>
+    <origin>Assynt, Stoer</origin>
+  </informant>
+  <location>Sutherland, Lairg, Durness</location>
+  <items>
+    <item>
+      <headword id="d0e36" type="heading" level="h1">1. Raw wool</headword>
+    </item>
+    <item>
+      <headword id="d0e42" type="heading" level="h1">2. Oil or grease put on wool before carding</headword>
+    </item>
+    <item>
+      <headword id="d0e48" type="heading" level="h1">3. Carding</headword>
+    </item>
+    <item>
+      <headword id="idp119956632">cardag</headword>
+      <description>carding. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp119959728">cir (ceer)</headword>
+      <description>card. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="d0e72" type="heading" level="h1">4. Spinning</headword>
+    </item>
+    <item>
+      <headword id="d0e78" type="heading" level="h1">5. Parts of the spinning wheel</headword>
+    </item>
+    <item>
+      <headword id="d0e84" type="heading" level="h1">6. Yarn and associated apparatus</headword>
+    </item>
+    <item>
+      <headword id="d0e90" type="heading" level="h1">7. Dyeing</headword>
+    </item>
+    <item>
+      <headword id="idp119896800">crotal</headword>
+      <description>brown dye from grey lichens. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp119900184">poit ghaa</headword>
+      <description>dye pot. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="d0e114" type="heading" level="h1">8. Washing after dyeing</headword>
+    </item>
+    <item>
+      <headword id="d0e120" type="heading" level="h1">9. Warping</headword>
+    </item>
+    <item>
+      <headword id="d0e126" type="heading" level="h1">10. Beaming and tying</headword>
+    </item>
+    <item>
+      <headword id="d0e132" type="heading" level="h1">11. Weaving</headword>
+    </item>
+    <item>
+      <headword id="idp119932872">brebadar</headword>
+      <description>weaver. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="d0e147" type="heading" level="h1">12. Parts of the weaving loom</headword>
+    </item>
+    <item>
+      <headword id="d0e153" type="heading" level="h1">13. Finishing</headword>
+    </item>
+    <item>
+      <headword id="idp119932656">maister</headword>
+      <description>urine kept specially for washing cloth. (Stoer, Assynt)</description>
+    </item>
+  </items>
+</fieldworkDocument>

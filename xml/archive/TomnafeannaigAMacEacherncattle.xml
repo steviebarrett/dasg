@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 3 5 13 -->
+<fieldworkDocument docId="CattleandSheep_TomnafeannaigAMacEacherncattle" docType="questionnaire" subType="Cattle">
+  <title>Crodh / Cattle</title>
+  <fieldworker>[self]</fieldworker>
+  <note>[NOTES: in most cases, the informant does not give definitions probably because most of the time he is giving Gaelic equivalents of the English terms found under each section’s heading in the questionnaire itself. Therefore, in most cases it is possible to work out what each word means and whenever possible the definitions provided by the questionnaire have been copied and put next to the terms provided by the informant.]</note>
+  <informant>
+    <nameEnglish>Alasdair MacEachern</nameEnglish>
+    <nameGaelic>Alasdair MacEachearna</nameGaelic>
+    <age>[70]</age>
+    <origin>[Islay, Ballygrant]</origin>
+  </informant>
+  <location>[Islay, Ballygrant] Tomnafeannaig</location>
+  <items>
+    <item><headword id="d0e35" type="heading" level="h1">1. Different stages in the growth of cattle</headword></item>
+    <item>
+      <headword id="d0e40">daogh</headword>
+      <description>boireann or firenn. Thear sinne n Ile ‘daogh’ air son ‘laogh’, ‘doch’ ri ‘loch’, ‘dha’ ri ‘la’. Tha sinn gu tric a cur a ‘d’ an n aite an ‘l’.</description>
+    </item>
+    <item>
+      <headword id="d0e49">gamhinn</headword>
+      <description>gu bliadhna dh aosh [?].</description>
+    </item>
+    <item>
+      <headword id="d0e58">biorach</headword>
+      <description>bhoireann gus a ciad daogh.</description>
+    </item>
+    <item>
+      <headword id="d0e67">damh</headword>
+      <description>firenn, suas da bhliadhna.</description>
+    </item>
+    <item>
+      <headword id="d0e76">biorach sheasg</headword>
+      <description>oh [?] daogh.</description>
+    </item>
+    <item>
+      <headword id="d0e85">biorach throm</headword>
+      <description>an a daogh.</description>
+    </item>
+    <item>
+      <headword id="d0e94">bo</headword>
+    </item>
+    <item>
+      <headword id="d0e100">seanna bo</headword>
+    </item>
+    <item>
+      <headword id="d0e106">tarabh</headword>
+    </item>
+    <item><headword id="d0e111" type="heading" level="h1">2. Breeds of cattle</headword></item>
+    <item>
+      <headword id="d0e116">beathach Galda</headword>
+      <description>Ayrshire.</description>
+    </item>
+    <item>
+      <headword id="d0e125">beathach Gaidhealach</headword>
+    </item>
+    <item><headword id="d0e130" type="heading" level="h1">3. Outward appearance of cattle</headword></item>
+    <item>
+      <headword id="d0e135">beathach ruadh</headword>
+    </item>
+    <item>
+      <headword id="d0e141">beathach donn</headword>
+    </item>
+    <item>
+      <headword id="d0e147">beathach briochd</headword>
+    </item>
+    <item>
+      <headword id="d0e153">beathach dubh</headword>
+    </item>
+    <item>
+      <headword id="d0e159">beathach grisfhionn</headword>
+    </item>
+    <item>
+      <headword id="d0e165">beathach ruadh is geal</headword>
+    </item>
+    <item>
+      <headword id="d0e171">beathach dubh is geal</headword>
+    </item>
+    <item>
+      <headword id="d0e177">beathach geal no ban</headword>
+    </item>
+    <item><headword id="d0e182" type="heading" level="h1">4. Names for certain beasts, e.g. an animal on which the owner bestows particular attention</headword></item>
+    <item>
+      <headword id="d0e187">beathach gasda</headword>
+    </item>
+    <item>
+      <headword id="d0e193">beathach math</headword>
+    </item>
+    <item>
+      <headword id="d0e199">beathach nach eil a leathaid</headword>
+    </item>
+    <item>
+      <headword id="d0e205">beathach san ait</headword>
+    </item>
+    <item>
+      <headword id="d0e211">beathach measal</headword>
+    </item>
+    <item>
+      <headword id="d0e217">beathach fiachal</headword>
+    </item>
+    <item><headword id="d0e222" type="heading" level="h1">5. Parts of the body</headword></item>
+    <item>
+      <headword id="d0e227">ceann as muineal</headword>
+      <description>[head and neck.]</description>
+    </item>
+    <item>
+      <headword id="d0e236">adharcan</headword>
+      <description>[horns.]</description>
+    </item>
+    <item>
+      <headword id="d0e245">claraodinn</headword>
+      <description>[forehead.]</description>
+    </item>
+    <item>
+      <headword id="d0e254">beul</headword>
+      <description>[mouth.]</description>
+    </item>
+    <item>
+      <headword id="d0e263">fionnadh</headword>
+      <description>[hair.]</description>
+    </item>
+    <item>
+      <headword id="d0e272">seiche</headword>
+      <description>[hide.]</description>
+    </item>
+    <item>
+      <headword id="d0e281">gualinn</headword>
+      <description>[shoulder.]</description>
+    </item>
+    <item>
+      <headword id="d0e290">broillach</headword>
+      <description>[breast.]</description>
+    </item>
+    <item>
+      <headword id="d0e299">casan toisich</headword>
+      <description>[forelegs.]</description>
+    </item>
+    <item>
+      <headword id="d0e308">glun</headword>
+      <description>[knee?]</description>
+    </item>
+    <item>
+      <headword id="d0e317">crothan</headword>
+    </item>
+    <item>
+      <headword id="d0e323">cnaimh droma</headword>
+      <description>[backbone.]</description>
+    </item>
+    <item>
+      <headword id="d0e332">ceathra deirridh</headword>
+      <description>[hindquarters.]</description>
+    </item>
+    <item>
+      <headword id="d0e341">uarabail</headword>
+      <description>[tail.]</description>
+    </item>
+    <item>
+      <headword id="d0e350">cruachan</headword>
+      <description>[hip?]</description>
+    </item>
+    <item>
+      <headword id="d0e359">casan deirridh</headword>
+      <description>[hindlegs.]</description>
+    </item>
+    <item>
+      <headword id="d0e368">spear</headword>
+    </item>
+    <item>
+      <headword id="d0e374">sliasaid</headword>
+      <description>[thigh?]</description>
+    </item>
+    <item>
+      <headword id="d0e383">ugh as ballain</headword>
+      <description>[udder and teats.]</description>
+    </item>
+    <item>
+      <headword id="d0e392">feith</headword>
+      <description>[muscle.]</description>
+    </item>
+    <item>
+      <headword id="d0e401">alt</headword>
+      <description>[joint.]</description>
+    </item>
+    <item>
+      <headword id="d0e410">cridhe</headword>
+      <description>[heart.]</description>
+    </item>
+    <item>
+      <headword id="d0e419">cuilsean</headword>
+      <description>[sic] [arteries or veins].</description>
+    </item>
+    <item>
+      <headword id="d0e428">fuil</headword>
+      <description>[blood.]</description>
+    </item>
+    <item>
+      <headword id="d0e437">sgamhan</headword>
+      <description>[lungs.]</description>
+    </item>
+    <item>
+      <headword id="d0e446">aotraman</headword>
+      <description>[bladder.]</description>
+    </item>
+    <item>
+      <headword id="d0e455">dubhain</headword>
+      <description>[kidneys.]</description>
+    </item>
+    <item>
+      <headword id="d0e464">domlasagh</headword>
+      <description>[gall-bladder.]</description>
+    </item>
+    <item>
+      <headword id="d0e473">sgordan</headword>
+      <description>[gullet.?]</description>
+    </item>
+    <item>
+      <headword id="d0e482">maodal</headword>
+      <description>[stomach.]</description>
+    </item>
+    <item>
+      <headword id="d0e491">mionach</headword>
+      <description>[intestines.]</description>
+    </item>
+    <item>
+      <headword id="d0e500">saill no geir</headword>
+      <description>[fat.]</description>
+    </item>
+    <item><headword id="d0e508" type="heading" level="h1">6. Calving</headword></item>
+    <item>
+      <headword id="d0e513">A bho air a daoradh</headword>
+    </item>
+    <item>
+      <headword id="d0e519">Rug a bho daogh</headword>
+    </item>
+    <item>
+      <headword id="d0e525">Tha bho air breith</headword>
+    </item>
+    <item>
+      <headword id="d0e531">glanadh</headword>
+      <description>Tha bho no bhiorach air glanadh.</description>
+    </item>
+    <item><headword id="d0e539" type="heading" level="h1">7. Milking</headword></item>
+    <item>
+      <headword id="d0e544">a bleodhan</headword>
+      <description>[milking.]</description>
+    </item>
+    <item>
+      <headword id="d0e553">a bleodhan gus an deur mo dhearadh</headword>
+      <description>[milking to the last drop.]</description>
+    </item>
+    <item>
+      <headword id="d0e562">a deothal</headword>
+      <description>[suckling.]</description>
+    </item>
+    <item>
+      <headword id="d0e571">bainne nuis</headword>
+      <description>[milk yielded the first two or three days after calving.]</description>
+    </item>
+    <item>
+      <headword id="d0e580">am a bhleodhain</headword>
+      <description>[milking time.]</description>
+    </item>
+    <item>
+      <headword id="d0e589">bleodhan moch is anamoch</headword>
+    </item>
+    <item><headword id="d0e594" type="heading" level="h1">8. Feeding</headword></item>
+    <item>
+      <headword id="d0e599">biadh a chruidh</headword>
+      <description>[feeding cattle.]</description>
+    </item>
+    <item>
+      <headword id="d0e608">biadh laimhadh</headword>
+      <description>[hand-feeding.]</description>
+    </item>
+    <item>
+      <headword id="d0e617">boiteain fear</headword>
+    </item>
+    <item>
+      <headword id="d0e623">sguab coirc</headword>
+    </item>
+    <item>
+      <headword id="d0e629">dreamag coirc</headword>
+    </item>
+    <item>
+      <headword id="d0e635">ag uisgachadh a chruidh</headword>
+      <description>[watering cattle.]</description>
+    </item>
+    <item>
+      <headword id="d0e644">gan cur a mach airson deoch</headword>
+    </item>
+    <item>
+      <headword id="d0e650">cuinnag</headword>
+      <description>[pail used to water cattle.]</description>
+    </item>
+    <item>
+      <headword id="d0e659">ionaltradh</headword>
+      <description>[grazing.]</description>
+    </item>
+    <item>
+      <headword id="d0e668">buachailachd</headword>
+      <description>[tending of cattle.]</description>
+    </item>
+    <item>
+      <headword id="d0e677">cuir a mach a chruidh</headword>
+      <description>[driving cattle to grazing.]</description>
+    </item>
+    <item>
+      <headword id="d0e686">toirt dhachaigh a cruidh</headword>
+      <description>[driving cattle from grazing.]</description>
+    </item>
+    <item>
+      <headword id="d0e695">buachaile</headword>
+      <description>[herdsman.]</description>
+    </item>
+    <item>
+      <headword id="d0e704">banna bhuachile</headword>
+      <description>[herdswoman.]</description>
+    </item>
+    <item>
+      <headword id="d0e713">bannarach</headword>
+      <description>dairymaid.</description>
+    </item>
+    <item><headword id="d0e721" type="heading" level="h1">9. Apparatus</headword></item>
+    <item>
+      <headword id="d0e726">ceathal a bho</headword>
+    </item>
+    <item>
+      <headword id="d0e732">teaghair</headword>
+      <description>[tether.]</description>
+    </item>
+    <item>
+      <headword id="d0e741">cipeain</headword>
+      <description>[tether stake.]</description>
+    </item>
+    <item>
+      <headword id="d0e750">udalan</headword>
+      <description>swivel.</description>
+    </item>
+    <item>
+      <headword id="d0e759">buarach</headword>
+      <description>[fetter for milking.]</description>
+    </item>
+    <item>
+      <headword id="d0e768">dangaig no langaig</headword>
+    </item>
+    <item>
+      <headword id="d0e774">crocach</headword>
+      <description>[instrument used] to prevent calf from sucking [its mother].</description>
+    </item>
+    <item><headword id="d0e782" type="heading" level="h1">10. Diseases</headword></item>
+    <item>
+      <headword id="d0e787">foinachan</headword>
+    </item>
+    <item>
+      <headword id="d0e793">at</headword>
+      <description>swelling.</description>
+    </item>
+    <item>
+      <headword id="d0e802">spotan</headword>
+    </item>
+    <item>
+      <headword id="d0e808">cartain</headword>
+      <description>ticks.</description>
+    </item>
+    <item>
+      <headword id="d0e817">fearsagan</headword>
+      <description>worbels.</description>
+    </item>
+    <item>
+      <headword id="d0e826">tart</headword>
+      <description>maw(bound).</description>
+    </item>
+    <item>
+      <headword id="d0e835">fiabhras a bhainne</headword>
+    </item>
+    <item>
+      <headword id="d0e841">casan air sgealadh</headword>
+    </item>
+    <item>
+      <headword id="d0e847">crianach</headword>
+      <description>trembling.</description>
+    </item>
+    <item>
+      <headword id="d0e856">buinneach uisgedearg</headword>
+    </item>
+    <item>
+      <headword id="d0e862">buachar leasachadh</headword>
+    </item>
+    <item><headword id="d0e867" type="heading" level="h1">11. Miscellaneous</headword><description>[misnumbered as 12] </description></item>
+    <item>
+      <headword id="d0e872">preeleo no preebheag</headword>
+      <description>[call to a cow.]</description>
+    </item>
+    <item>
+      <headword id="d0e881">sugan beag</headword>
+      <description>ri loagh [sic] [call to a calf].</description>
+    </item>
+    <item>
+      <headword id="d0e890">tread</headword>
+      <description>herd.</description>
+    </item>
+    <item>
+      <headword id="d0e899">effein</headword>
+      <description>render helpless.</description>
+    </item>
+    <item>
+      <headword id="d0e908">bogadh</headword>
+    </item>
+    <item>
+      <headword id="d0e914">buachar no leasachadh</headword>
+      <description>[cow dung.]</description>
+    </item>
+  </items>
+</fieldworkDocument>

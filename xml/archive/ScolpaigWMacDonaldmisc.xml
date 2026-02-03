@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 24 7 14 -->
+<fieldworkDocument docId="AOHenley_ScolpaigWMacDonaldmisc" docType="wordlist" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>[1987-88]</date>
+  <fieldworker personId="ohenleya">A. O’Henley</fieldworker>
+  <informant>
+    <nameEnglish>William MacDonald</nameEnglish>
+  </informant>
+  <location>North Uist, Scolpaig</location>
+  <items>
+    <item>
+      <headword id="idp112480568">[sùil]</headword>
+      <description>A’ dol a sùil na leise – hip disorder.</description>
+    </item>
+    <item>
+      <headword id="idp112527368">a’ bhoill</headword>
+      <description>mental disease; illness affecting animals. Ragwort poisoning.</description>
+    </item>
+    <item>
+      <headword id="idp112550192">sùil dhearg</headword>
+      <description>pinkeye. Resulted in loss of sight.</description>
+    </item>
+    <item>
+      <headword id="idp112496192">tiorramachd</headword>
+      <description>indigestion.</description>
+    </item>
+    <item>
+      <headword id="idp112506416">glùpad</headword>
+      <description>liver fluke.</description>
+    </item>
+    <item>
+      <headword id="idp112438592">uisge tàmhail</headword>
+      <description>stagnant water.</description>
+    </item>
+    <item>
+      <headword id="idp112527512">cnò bhreac</headword>
+      <description>snail.</description>
+    </item>
+    <item>
+      <headword id="idp112436072">an tuaindeal</headword>
+      <description>sturdy. Affected the brain of cattle and sheep. Cyst on the brain.</description>
+    </item>
+    <item>
+      <headword id="idp112497344">a’ chleimh</headword>
+      <description>sheep scab.</description>
+    </item>
+    <item>
+      <headword id="idp112488416">an ceathramh gorm</headword>
+      <description>braxy.</description>
+    </item>
+    <item>
+      <headword id="idp112464728">prangas</headword>
+      <description>a person who is always guilty: “Chan eil fhios agam dè am prangas duine a th’ann.” Also in more general sense of making someone look guilty: “Chuir iad ann am prangas e.”</description>
+    </item>
+    <item>
+      <headword id="idp112438232">smeachan</headword>
+      <description>jaw-strap for a horse.</description>
+    </item>
+    <item>
+      <headword id="idp112509080">runnag spùdaidh</headword>
+      <description>shooting star.</description>
+    </item>
+    <item>
+      <headword id="idp112510448">farainneach</headword>
+      <description>remote, distant. Similar to ‘faraileach’ given by Mr A. MacLellan, Tigharry.</description>
+    </item>
+    <item>
+      <headword id="idp112488920">ath cheapach</headword>
+      <description>second ploughing of a plot of land. Also referred to as ‘còmhlach’.</description>
+    </item>
+    <item>
+      <headword id="idp112453640">[còmhlach]</headword>
+      <description>[See ath cheapach.]</description>
+    </item>
+    <item>
+      <headword id="idp112427360">glas</headword>
+      <description>land that has been ploughed for the first time.</description>
+    </item>
+    <item>
+      <headword id="idp112465016">starrag</headword>
+      <description>a crow.</description>
+    </item>
+    <item>
+      <headword id="idp112518872">susaladh</headword>
+      <description>marking out an area of land to be dug. I would pronounce this as ‘sussadh’.</description>
+    </item>
+    <item>
+      <headword id="idp112480280">slathagan</headword>
+      <description>snowflakes.</description>
+    </item>
+    <item>
+      <headword id="idp112442336">fothal</headword>
+      <description>gossip.</description>
+    </item>
+  </items>
+</fieldworkDocument>
+

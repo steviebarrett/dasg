@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 7/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_LocheportDMacDonaldslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <informant>
+    <nameEnglish>Donald MacDonald</nameEnglish>
+    <origin>Tiree?</origin>
+  </informant>
+  <location>North Uist, Locheport</location>
+  <items>
+    <item>
+      <headword id="idp115755464">leasachadh</headword>
+      <description>Quotation: a’ deanamh leasachadh air duine. Notes: treating a person preferentially.</description>
+    </item>
+    <item>
+      <headword id="idp115752368">luibh a’ chneas</headword>
+      <description>Notes: queen of the meadow. (Tiree)</description>
+    </item>
+    <item>
+      <headword id="idp115749344">maighdeag</headword>
+      <description>Notes: winkle. (Tiree)</description>
+    </item>
+    <item>
+      <headword id="idp115768712">marsanta-nan-corc</headword>
+      <description>Notes: earwig. (Tiree)</description>
+    </item>
+    <item>
+      <headword id="idp115770224">muir-tiachd</headword>
+      <description>[mu̟ɾtʹiɑxk] Notes: jellyfish.</description>
+    </item>
+    <item>
+      <headword id="idp115771952">roid</headword>
+      <description>Notes: bog-myrtle. (Tiree)</description>
+    </item>
+    <item>
+      <headword id="idp115773464">rùid  (sing)</headword>
+      <description>[ru̜:dʹ] Quotation: na rùid (pl). Notes: a wave. (Tiree)</description>
+    </item>
+    <item>
+      <headword id="idp115775408">iomhaigh</headword>
+      <description>Quotation: iomhaigh a’ choigrich. Notes: false face. (Tiree)</description>
+    </item>
+    <item>
+      <headword id="idp115777064">sùgan</headword>
+      <description>Notes: horse collar.</description>
+    </item>
+    <item>
+      <headword id="idp115778576">aodannan</headword>
+      <description>Notes: false face.</description>
+    </item>
+    <item>
+      <headword id="idp115780088">balg-loisgte</headword>
+      <description>Notes: jelly-fish. (Tiree)</description>
+    </item>
+    <item>
+      <headword id="idp115781600">cana</headword>
+      <description>Quotation: canachan (pl). Notes: porpoise. (North Uist)</description>
+    </item>
+    <item>
+      <headword id="idp115783256">carbhan</headword>
+      <description>Notes: bream. (Tiree)</description>
+    </item>
+    <item>
+      <headword id="idp115784768">casa-poite</headword>
+      <description>Notes: porpoise. (Tiree)</description>
+    </item>
+    <item>
+      <headword id="idp115786280">ciubhrach</headword>
+      <description>[cu̟rɔx] Quotation: ciubhrach uisge. Notes: fine drizzly rain.</description>
+    </item>
+    <item>
+      <headword id="idp115788152">cneas</headword>
+      <description>Quotation: Luibh a’ chneas. Notes: Queen of the Meadow. (Tiree)</description>
+    </item>
+    <item>
+      <headword id="idp115789808">coigreach</headword>
+      <description>Quotation: iomhaigh a’ choigrich. Notes: false face.</description>
+    </item>
+    <item>
+      <headword id="idp115791464">conan-mara</headword>
+      <description>Notes: sea urchin. (Tiree)</description>
+    </item>
+    <item>
+      <headword id="idp115792976">corc</headword>
+      <description>Quotation: marsanta nan corc. Notes: earwig. (Tiree)</description>
+    </item>
+    <item>
+      <headword id="idp115794632">gineacha-geala (pl)</headword>
+      <description>Notes: white winkles. (Tiree)</description>
+    </item>
+    <item>
+      <headword id="idp115796144">gobhar-bhreac (sic)</headword>
+      <description>Notes: snail with a shell. (Tiree)</description>
+    </item>
+    <item>
+      <headword id="idp115797656">góbhlag</headword>
+      <description>Notes: earwig.</description>
+    </item>
+  </items>
+</fieldworkDocument>

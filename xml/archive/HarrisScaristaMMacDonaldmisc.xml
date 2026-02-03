@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 24 4 14 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="HarrisVarious_HarrisScaristaMMacDonaldmisc" docType="wordlist" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <fieldworker>[anonymous D]</fieldworker>
+  <informant>
+    <nameEnglish>Mary MacDonald</nameEnglish>
+    <age>late 60's</age>
+  </informant>
+  <location>Harris, Scarista Post Office</location>
+  <items>
+    <item>
+      <headword id="d0e27">stiùrag</headword>
+      <description>oatmeal mixed with water, a drink.</description>
+    </item>
+    <item>
+      <headword id="d0e36">stabag</headword>
+      <description>mixture of oatmeal, cream and sugar.</description>
+    </item>
+    <item>
+      <headword id="d0e45">bainne-deasgainn</headword>
+      <description>junket</description>
+    </item>
+    <item>
+      <headword id="d0e54">meang</headword>
+      <description>whey.</description>
+    </item>
+    <item>
+      <headword id="d0e63">blàthadh</headword>
+      <description>[sic] buttermilk.</description>
+    </item>
+    <item>
+      <headword id="d0e72">carraichgean</headword>
+      <description>carrageen.</description>
+    </item>
+    <item>
+      <headword id="d0e81">stuathbleis</headword>
+      <description>an unappealing mixture of all sorts.</description>
+    </item>
+    <item>
+      <headword id="d0e90">bocsa fir-chlis</headword>
+      <description>radio.</description>
+    </item>
+    <item>
+      <headword id="d0e99">badag fhraoich</headword>
+      <description>used for cleaning the floor.</description>
+    </item>
+    <item>
+      <headword id="d0e108">mealltrach</headword>
+      <description>scrubbing brush made from old marram grass.</description>
+    </item>
+    <item>
+      <headword id="d0e117">cul dubh</headword>
+      <description>crust of bread.</description>
+    </item>
+    <item>
+      <headword id="d0e126">duine dis</headword>
+      <description>someone who can’t stand cold.</description>
+    </item>
+    <item>
+      <headword id="d0e135">breacag fhlùir</headword>
+      <description/>
+    </item>
+  </items>
+</fieldworkDocument>

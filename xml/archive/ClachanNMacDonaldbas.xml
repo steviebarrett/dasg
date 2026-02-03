@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 19 4 13 -->
+<fieldworkDocument docId="Ecclesiastical_ClachanNMacDonaldbas" docType="questionnaire" subType="BàsIsAdhlachadh">
+  <title>Bàs is Adhlacadh / Death and Burial</title>
+  <date>[2/1968 on the slips]</date>
+  <fieldworker>[self]</fieldworker>
+  <note>[NOTES: the words have been slipped and therefore in this file, apart from the definitions provided by the informant, the definitions as they appear on the slips have also been included (unless the two were the same).]</note>
+  <informant>
+    <nameEnglish>(Rev.) Norman MacDonald</nameEnglish>
+    <age>63</age>
+    <origin>Skye</origin>
+  </informant>
+  <location>North Uist, Locheport, Clachan</location>
+  <items>
+    <item><headword id="d0e35" type="heading" level="h1">1. Ag ullachadh a’ chuirp</headword></item>
+    <item>
+      <headword id="d0e40">déile</headword>
+      <description>Air an déile. After being washed and dressed a dead body was stretched (righeadh) on long planks of wood draped in white linen sheets, pending the arrival of the coffin. At this early stage the corpse was referred to as being “air an déile”.</description>
+    </item>
+    <item>
+      <headword id="d0e49">[righeadh]</headword>
+      <description>[NOTES: slipped under ‘righeadh’. Definition: Used of body being stretched on long planks of wood. (See Quest.)]</description>
+    </item>
+    <item>
+      <headword id="d0e58">culpaichean</headword>
+      <description>This is a North Uist word for a shroud. Have never heard the word in Skye, where the common term is léine-mhairbh. In some of the inner Hebrides, and in places on the mainland, a short religious service was requested from a minister when a corpse was placed in its coffin. [SLIP: North Uist word for a shroud.]</description>
+    </item>
+    <item>
+      <headword id="d0e67">[léine-mhairbh]</headword>
+      <description>[See culpaichean.] [SLIP: Shroud.]</description>
+    </item>
+    <item><headword id="d0e75" type="heading" level="h1">2. A’ Chiste</headword></item>
+    <item>
+      <headword id="d0e80">eilidriom</headword>
+      <description>A Lewis word for bier.</description>
+    </item>
+    <item>
+      <headword id="d0e89">crò-leab</headword>
+      <description>A North Uist term for bier. [SLIP: N. Uist word for ‘bier’.]</description>
+    </item>
+    <item>
+      <headword id="d0e98">snaoth</headword>
+      <description>A Skye word for bier.</description>
+    </item>
+    <item><headword id="d0e106" type="heading" level="h1">3. Faire</headword></item>
+    <item>
+      <headword id="d0e111">an luchd faire</headword>
+      <description>The wake folk, usually men who were neighbours of the dead, although there were several women present also who provided and served meals as there was feasting going on through the night. This has practically ceased and feasting has given place to a religious service, reading of scripture, singing of Psalms and prayers, each night as long as the dead body is in the house. [NOTES: slipped under ‘luchd faire’. Definition: The wake folk. (See Quest.)]</description>
+    </item>
+    <item><headword id="d0e119" type="heading" level="h1">4. A’ giùlan na ciste</headword></item>
+    <item>
+      <headword id="d0e124">a’ ghiùlain</headword>
+      <description>Was the phrase applied to the remains while being carried to the grave. At walking funerals in Glenelg, my former charge, the coffin is borne in the rear of a procession instead of in front. It is believed that this tradition had its origin in military funerals from Bernera Barracks, nearby, which were erected very soon after the first Jacobite rising of 1715. I have never seen this custom except in Glenelg. [NOTES: slipped under ‘giùlan’ with ‘a’ ghiùlan’ as the quotation. Definition: See Quest.]</description>
+    </item>
+    <item>
+      <headword id="d0e133">alaire</headword>
+      <description>Provisions for a funeral especially whisky. Also bread and cheese. Before the funeral party set off for the cemetery, they lined up in front of the house of mourning while men went round serving glasses of whisky on trays, followed by women who served biscuits and cheese. Whisky and cheese were served in the churchyard after the burial. In early times so much whisky was consumed at funerals that fighting was a common occurrence, especially if two funeral parties met (one going north and the other south) and each claimed the “right of way”. Fighting too broke out in the churchyard. The last caber on the ancient Cille Mhartainn church in Staffin, Skye, was hauled down and used as a weapon in a melée. This happened nearly two centuries ago when that church was in ruins and long abandoned. [SLIP: Provisions for a funeral. (See Quest.)]</description>
+    </item>
+    <item><headword id="d0e141" type="heading" level="h1">5. An cladh agus an uaigh</headword></item>
+    <item>
+      <headword id="d0e146">Cille Mhartainn</headword>
+      <description>In Staffin, was called after Saint Martin of Tours. There is a tradition, still strongly believed in, that whenever a grave is opened there, three burials follow in rapid succession. According to my own recollections this was invariably the case. [SLIP: In Staffin, Skye. (See Quest.)]</description>
+    </item>
+    <item><headword id="d0e154" type="heading" level="h1">6. Cleachdaidhean sam bith co-cheangailte ri bàs no adhlacadh</headword></item>
+    <item>
+      <headword id="idola94">[Skye custom]</headword>
+	  <description>In Skye, whenever a friend called to see the remains, he, or she, reverently laid the right hand on the forehead of the corpse. When I enquired into the origin or reason for this custom I was assured that laying one’s hand on the dead banished from his mind ever afterwards the fear of meeting the departed’s ghost an prevented the vision of the dead person from haunting the mind.</description>
+    </item>
+	<item>
+      <headword id="d0e168">glaodh ’s a’ chluais</headword>
+      <description>Death ring in the ear, a sure portent of hearing news of a death, soon. [NOTES: slipped under ‘glaodh’.]</description>
+    </item>
+	<item>
+	  <headword id="idola95">[funeral custom]</headword>
+	  <description>When a death occurred in a village, all work was suspended until after the funeral. It was strictly forbidden to delve in soil, or even to turn a sod over.</description>
+	</item>
+    <item>
+	  <headword id="idola96">[salt]</headword>
+	  <description>In some islands a plate of salt was laid on the chest of a corpse in the coffin. Salt, from remote Bible times, was regarded as sacred and of great potency in expelling evil spirits from the dead. In modern times, instead of the salt, one sees a Bible.</description>
+	</item> 
+  </items>
+</fieldworkDocument>

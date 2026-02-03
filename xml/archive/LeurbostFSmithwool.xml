@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 13 4 14 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="WoolworkingandFishing_LeurbostFSmithwool" docType="questionnaire" subType="Weaving" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Obair na Clòimhe / Wool-Working</title>
+  <date>April 1962</date>
+  <fieldworker>Christine Martin</fieldworker>
+  <note>[NOTES: the original title of the list is “Weaving”.]</note>
+  <informant>
+    <nameEnglish>Frank Smith</nameEnglish>
+    <age>70</age>
+    <origin>[Lewis], Leurbost</origin>
+  </informant>
+  <location>[Lewis], Leurbost</location>
+  <items>
+    <item><headword id="d0e35" type="heading" level="h1">Process</headword></item>
+    <item>
+      <headword id="d0e40">deilbh</headword>
+      <description>warping.</description>
+    </item>
+    <item>
+      <headword id="d0e49">cur mu chrann</headword>
+      <description>beaming.</description>
+    </item>
+    <item>
+      <headword id="d0e58">snaim</headword>
+      <description>knotting.</description>
+    </item>
+    <item>
+      <headword id="d0e67">iomlain</headword>
+      <description>peddles [heddles?]. Cur troimh na h-iomlain.</description>
+    </item>
+    <item>
+      <headword id="d0e76">toirt troimh an t-sleinn</headword>
+      <description>reeding.</description>
+    </item>
+    <item>
+      <headword id="d0e85">toirt aodach air</headword>
+    </item>
+    <item>
+      <headword id="d0e91">’ga fhighe</headword>
+    </item>
+    <item><headword id="d0e96" type="heading" level="h1">Different parts of the loom</headword></item>
+    <item>
+      <headword id="d0e101">beart-fhighe</headword>
+      <description>loom.</description>
+    </item>
+    <item>
+      <headword id="d0e110">spàl</headword>
+      <description>shuttle.</description>
+    </item>
+    <item>
+      <headword id="d0e119">bucas</headword>
+      <description>where shuttles go.</description>
+    </item>
+    <item>
+      <headword id="d0e128">spleinn</headword>
+      <description>reed.</description>
+    </item>
+    <item>
+      <headword id="d0e137">druibhearan</headword>
+      <description>peckers.</description>
+    </item>
+    <item>
+      <headword id="d0e146">casan na beart</headword>
+      <description>peddles [sic].</description>
+    </item>
+    <item>
+      <headword id="d0e155">gormaidh (?), gormainn</headword>
+      <description>beam. The loom has three beams which are usually called: 1. gormainn aodaich; 2. gormainn shnàth; 3. what is called the ‘rough’ beam.</description>
+    </item>
+    <item>
+      <headword id="d0e164">iteachan</headword>
+      <description>bobbin.</description>
+    </item>
+    <item>
+      <headword id="d0e173">beart mheadhain</headword>
+    </item>
+    <item>
+      <headword id="d0e179">dà chlabh</headword>
+    </item>
+    <item>
+      <headword id="d0e185">cormaichean</headword>
+      <description>weights.</description>
+    </item>
+  </items>
+</fieldworkDocument>

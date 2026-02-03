@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 7/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_MelbostMMacFarlaneslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>10/1971</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <note>[NOTES: in IPA transcriptions, the fieldworker uses [w] for [ɯ].]</note>
+  <informant>
+    <nameEnglish>Murdo MacFarlane</nameEnglish>
+  </informant>
+  <location>Stornoway, Melbost</location>
+  <items>
+    <item>
+      <headword id="idp167344624">là</headword>
+      <description>Quotation: là sgathaidh. Notes: see “sgathadh”.</description>
+    </item>
+    <item>
+      <headword id="idp167341672">landach</headword>
+      <description>[ɫɑ̃n̪d̪ɑx] Quotation: landach bùirn. Notes: two pails full of water as drawn from the well. (Làn dà shoitheach – M. MacFarlane.)</description>
+    </item>
+    <item>
+      <headword id="idp167337928">laomadh</headword>
+      <description>[ɫw̃:məɣ] Quotation: a laomadh a’ bhuntàta le cus todhar; laomadh iad le cus todhar. Notes: when too much manure was put on potatoes it resulted in large shaws and very small potatoes.</description>
+    </item>
+    <item>
+      <headword id="idp167357512">léine</headword>
+      <description>Quotation: léine chriomaidhean [xɾw̃miɑ̃n]. Notes: grey striped shirt, collarless, as worn by the ‘bodaich’ (originating from Crimean War?).</description>
+    </item>
+    <item>
+      <headword id="idp167359456">lorg-shùisd</headword>
+      <description>Notes: handle part of flail.</description>
+    </item>
+    <item>
+      <headword id="idp167360968">ruisg</headword>
+      <description>Quotation: ruisg eòrna. Notes: a single line of six sheaves standing on end.</description>
+    </item>
+    <item>
+      <headword id="idp167362624">nasg</headword>
+      <description>Quotation: nasg a’ chriathair. Notes: hoop of riddle.</description>
+    </item>
+    <item>
+      <headword id="idp167364280">putharan</headword>
+      <description>[pu̟həɾɑṉ] Notes: ear of barley which has become black and which falls away as powder when disturbed.</description>
+    </item>
+    <item>
+      <headword id="idp167366008">putharan</headword>
+      <description>[pu̟həɾɑ̃ṉ] Quotation: Tha siol a’ phutharan ann. Notes: applied to a person of dark or swarthy complexion. (Putharan – blackened ear of barley.)</description>
+    </item>
+    <item>
+      <headword id="idp167367880">seice</headword>
+      <description>Notes: skin on “criathar”.</description>
+    </item>
+    <item>
+      <headword id="idp167369392">sgathadh</headword>
+      <description>Notes: the barley was pulled up by the roots. The sheaf was cut in two with a special sickle – the root half being kept until the house was stripped of thatch – “Bun dubh” used for thatching.</description>
+    </item>
+    <item>
+      <headword id="idp167370904">spliutarachd</headword>
+      <description>Quotation: a’ spliutarachd air bàrdachd. Notes: dabbling in the composing of poetry.</description>
+    </item>
+    <item>
+      <headword id="idp167372560">suath</headword>
+      <description>Quotation: a’ suathadh an eòrna. Notes: barley ears taken off sheaves by rubbing shocks between the feet. “Osanan” worn for this purpose.</description>
+    </item>
+    <item>
+      <headword id="idp167374360">anaglachadh</headword>
+      <description>Quotation: ag anaglachadh duine a tha tinn. Notes: shifting position gently.</description>
+    </item>
+    <item>
+      <headword id="idp167376016">arbard</headword>
+      <description>[ɑɾɑbəʴḏ] Notes: septic swelling under the foot. [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+    <item>
+      <headword id="idp167377888">corran</headword>
+      <description>Quotation: corran sgathaidh. Notes: the sickle used. (See “sgathadh” – M. MacFarlane.)</description>
+    </item>
+    <item>
+      <headword id="idp167379544">fiannach</headword>
+      <description>[fĩɤ̃n̪ɑx] Quotation: Bha mi fiannach air a bhó. Bha fiannachd agam air a bhó. Notes: admiration tinged with a bit of covetousness.</description>
+    </item>
+    <item>
+      <headword id="idp167381416">fochann</headword>
+      <description>Quotation: fochann tughaidh. Notes: when corn stalks with seed still on them were left among the thatching, they grew again in summer.</description>
+    </item>
+    <item>
+      <headword id="idp167383072">geingealadh</headword>
+      <description>Notes: removing piled-up manure from coltair of a plough to clear the blade.</description>
+    </item>
+    <item>
+      <headword id="idp167384584">gingealadh</headword>
+      <description>Quotation: a’ gingealadh. Notes: keeping the coulter of the plough clean from any choking straw, grass, etc.</description>
+    </item>
+  </items>
+</fieldworkDocument>

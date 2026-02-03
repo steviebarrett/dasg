@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 24 7 14 -->
+<fieldworkDocument docId="AOHenley_SollasAMorrisonmisc" docType="wordlist" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>[1987-88]</date>
+  <fieldworker personId="ohenleya">A. O’Henley</fieldworker>
+  <informant>
+    <nameEnglish>Archie Morrison</nameEnglish>
+  </informant>
+  <location>North Uist, Sollas</location>
+  <items>
+    <item>
+      <headword id="idm3004752">piob chliostar</headword>
+      <description>a large metal syringe-shaped instrument used for relieving constipated animals.</description>
+    </item>
+    <item>
+      <headword id="idm3016992">earraig</headword>
+      <description>a quick going over. “Bheir sinn earraig air.”</description>
+    </item>
+    <item>
+      <headword id="idm2971848">taibhainn</headword>
+      <description>applied to a small person or animal. “Chan eil ann ach taibhainn (beag).”</description>
+    </item>
+    <item>
+      <headword id="idm3056088">croisg</headword>
+      <description>abundant with hair. “Nach ann air a tha chroisg.”</description>
+    </item>
+    <item>
+      <headword id="idm2936640">gràisg</headword>
+      <description>a group of mischievous people, old or young.</description>
+    </item>
+    <item>
+      <headword id="idm2952912">ceannag</headword>
+      <description>a bundle of straw thrown to cattle at feeding time.</description>
+    </item>
+    <item>
+      <headword id="idm3005760">cuillbhainn</headword>
+      <description>a water spring.</description>
+    </item>
+    <item>
+      <headword id="idm2987544">fàladaireachd</headword>
+      <description>riding a horse. “Bha mi muigh a fàladaireachd air an each.”</description>
+    </item>
+    <item>
+      <headword id="idm3049968">cuat</headword>
+      <description>not sure if this is right spelling. Means girlfriend or boyfriend. “Mi fhéin ’s mo chuat.”</description>
+    </item>
+    <item>
+      <headword id="idm2971416">bleidean</headword>
+      <description>a bothersome, annoying person.</description>
+    </item>
+    <item>
+      <headword id="idm2949888">[britheamh]</headword>
+      <description>Bheir britheamh breith air bàillidh breugach breideil. – tongue twister.</description>
+    </item>
+    <item>
+      <headword id="idm3037008">cliaranach</headword>
+      <description>a bard or poet.</description>
+    </item>
+    <item>
+      <headword id="idm2935920">daonnachdach</headword>
+      <description>hospitable.</description>
+    </item>
+    <item>
+      <headword id="idm3009864">lòisdean</headword>
+      <description>lodgings.</description>
+    </item>
+    <item>
+      <headword id="idm3028080">meachair</headword>
+      <description>kindly.</description>
+    </item>
+    <item>
+      <headword id="idm2961192">miarranda</headword>
+      <description>fussy.</description>
+    </item>
+    <item>
+      <headword id="idm2949168">diaradh</headword>
+      <description>bed sheet placed on heather mattress.</description>
+    </item>
+    <item>
+      <headword id="idm3015408">martainnaich</headword>
+      <description>hacks on your fingers. I would refer to these as ‘gàgan’.</description>
+    </item>
+    <item>
+      <headword id="idm2946288">driuchgainn</headword>
+      <description>blisters between your toes as a result of walking on crop stubble.</description>
+    </item>
+    <item>
+      <headword id="idm3023544">sgeilm</headword>
+      <description>boasting.</description>
+    </item>
+    <item>
+      <headword id="idm3019656">[cù]</headword>
+      <description>Cha truagh leam cù is marag mu amhaich. – used when referring to fussy children who will not eat what is given to them.</description>
+    </item>
+    <item>
+      <headword id="idm3020880">[slàinte]</headword>
+      <description>Mean air mhean thig an t-slàinte ach na tonnan mór an euslaint.</description>
+    </item>
+    <item>
+      <headword id="idm2948304">simileir fosgailte</headword>
+      <description>an open fire with no grate.</description>
+    </item>
+    <item>
+      <headword id="idm3043416">clig</headword>
+      <description>for boyfriend, girlfriend.</description>
+    </item>
+  </items>
+</fieldworkDocument>
+

@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 1/10/15 -->
+<!-- illustrations -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_InvergarryDKennedyslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>04/1969</date>
+  <fieldworker>[AJ Smith]</fieldworker>
+  <note>[NOTES: the location on the slips – Mandally Road, Glengarry.]</note>
+  <informant>
+    <nameEnglish>Duncan Kennedy</nameEnglish>
+    <age>c. 55</age>
+    <origin>Strontian</origin>
+  </informant>
+  <location>Inverness-shire, Invergarry</location>
+  <items>
+    <item>
+      <headword id="idp166438536">là</headword>
+      <description>Quotation: Là na gogaireachd. Notes: April Fool’s Day.</description>
+    </item>
+    <item>
+      <headword id="idp166440192">laogh</headword>
+      <description>Quotation: laogh firionn boirionn. Notes: a calf with one testicle missing. Also “uan firionn boirionn”.</description>
+    </item>
+    <item>
+      <headword id="idp166441848">leig</headword>
+      <description>Quotation: a’ leigeil [əlʹeɡʹɑl]. Notes: milk.</description>
+    </item>
+    <item>
+      <headword id="idp166443864">leòmann</headword>
+      <description>[lʹ[ɛu̜]mɑṉ] Notes: moth.</description>
+    </item>
+    <item>
+      <headword id="idp166446024">leumadair-an-fheòir</headword>
+      <description>Notes: grasshopper.</description>
+    </item>
+    <item>
+      <headword id="idp166447536">marsanta-nan-corc (sic)</headword>
+      <description>Notes: earwig.</description>
+    </item>
+    <item>
+      <headword id="idp166449048">meilich</headword>
+      <description>[mɛ̃liç] Quotation: Tha e air meileachadh leis an fhuachd. Notes: benumb.</description>
+    </item>
+    <item>
+      <headword id="idp166450920">muing</headword>
+      <description>[m[ɤ̃ĩ]nʹ] Notes: horse’s mane.</description>
+    </item>
+    <item>
+      <headword id="idp166453080">muiseal</headword>
+      <description>[mũ̟ʃɑɫ] Notes: muzzle of plough.</description>
+    </item>
+    <item>
+      <headword id="idp166454808">rapach</headword>
+      <description>Notes: untidy.</description>
+    </item>
+    <item>
+      <headword id="idp166456320">rionnag</headword>
+      <description>[rũ̜n̪ɑɡ] Quotation: rionnag ag atharrachadh. Notes: a shooting star.</description>
+    </item>
+    <item>
+      <headword id="idp166458192">roinneag-an-earbaill</headword>
+      <description>[rũ̜n̪ɑɡənʹu̜ru̜bilʹ] Notes: a “comet”.</description>
+    </item>
+    <item>
+      <headword id="idp166459920">atharrachadh</headword>
+      <description>Quotation: rionnag ag atharrachadh. Notes: a shooting star.</description>
+    </item>
+    <item>
+      <headword id="idp166461576">siug</headword>
+      <description>[ʃu̜ɡ] Notes: jug.</description>
+    </item>
+    <item>
+      <headword id="idp166463304">inne</headword>
+      <description>[ĩnʹə] Notes: byre drain.</description>
+    </item>
+    <item>
+      <headword id="idp166465032">nios-bhàn</headword>
+      <description>[nʹĩsvɑ̃:ṉ] Notes: stoat.</description>
+    </item>
+    <item>
+      <headword id="idp166466760">nios-ruadh</headword>
+      <description>[nĩsru̜ɤɣ] Notes: weasel.</description>
+    </item>
+    <item>
+      <headword id="idp166468488">paisean</headword>
+      <description>[pɑʃɑ̃nʹ] Quotation: Chaidh e ann am paisean. Notes: He fainted.</description>
+    </item>
+    <item>
+      <headword id="idp166470360">seang</headword>
+      <description>Quotation: seang na cois. Notes: the instep.</description>
+    </item>
+    <item>
+      <headword id="idp166472016">searbhadair</headword>
+      <description>[ʃɑɾɑd̪ɑɾ] Notes: towel.</description>
+    </item>
+    <item>
+      <headword id="idp166473744">seile</headword>
+      <description>[ʃelə] Notes: allegedly used by some Perthshire people for “spit”. [ʃilə] in Dw. seile (Dw.) placenta, afterbirth.</description>
+    </item>
+    <item>
+      <headword id="idp166475760">seillean-sgeip</headword>
+      <description>[ʃelɑṉsɡɛip] Notes: a bee.</description>
+    </item>
+    <item>
+      <headword id="idp166477488">sgeip</headword>
+      <description>[sɡɛip] Notes: a swarm of bees.</description>
+    </item>
+    <item>
+      <headword id="idp166479216">sgoth-sheòlaidh</headword>
+      <description>Notes: sailing boat.</description>
+    </item>
+    <item>
+      <headword id="idp166480728">siolachan</headword>
+      <description>[ʃiɔɫɑxɑṉ] Notes: sieve.</description>
+    </item>
+    <item>
+      <headword id="idp166482456">slat-shiùil</headword>
+    </item>
+    <item>
+      <headword id="idp166483968">smeag</headword>
+      <description>[smɛ̃ɡ] Notes: chin.</description>
+    </item>
+    <item>
+      <headword id="idp166485696">smeòrach</headword>
+      <description>Notes: earmark. <illustration src="InvergarryDKennedyslipsillust1.jpg" width="200"/></description>
+    </item>
+    <item>
+      <headword id="idp166487208">spagluinneach</headword>
+      <description>[spɑɡɫũ̜nʹɑx] Notes: equiv. of “spaideal”.</description>
+    </item>
+    <item>
+      <headword id="idp166488936">splòic</headword>
+      <description>[spɫɔ:ıçc] Quotation: a’ splòic. Notes: mumps.</description>
+    </item>
+    <item>
+      <headword id="idp166490808">stallan</headword>
+    <description>[st̪ɑɫɑṉ] </description></item>
+    <item>
+      <headword id="idp166492536">stùirtein</headword>
+      <description>[st̪u̜:ʴstʹɛ̃ṉ] Notes: water on the brain, usually occurring in sheep and causing them to lose their sense of direction.</description>
+    </item>
+    <item>
+      <headword id="idp166494264">tadhan</headword>
+      <description>[t̪ɤɑṉ] Notes: pine-marten.</description>
+    </item>
+    <item>
+      <headword id="idp166495992">tarraingean</headword>
+      <description>[t̪ɑ:ʴnʹəṉ] Notes: draught chains. [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+    <item>
+      <headword id="idp166497864">tinneas-mara</headword>
+      <description>Notes: seasickness.</description>
+    </item>
+    <item>
+      <headword id="idp166499376">tiormachd</headword>
+      <description>[tʹu̜rumɔxk] Notes: “dryness” in cattle.</description>
+    </item>
+    <item>
+      <headword id="idp166501104">triuth-chasdaich</headword>
+      <description>Notes: whooping cough.</description>
+    </item>
+    <item>
+      <headword id="idp166502616">uan</headword>
+      <description>Quotation: uan firionn boirionn. Notes: a lamb with one testicle missing.</description>
+    </item>
+    <item>
+      <headword id="idp166504272">aobrann</headword>
+      <description>[ɤ:bɾə̃n̪] Notes: ankle.</description>
+    </item>
+    <item>
+      <headword id="idp166506000">ailbheag</headword>
+      <description>[ɤləvɑɡ] Notes: a ring.</description>
+    </item>
+    <item>
+      <headword id="idp166507728">amadan-mòintich</headword>
+      <description>Notes: dotterel. (In Dw.)</description>
+    </item>
+    <item>
+      <headword id="idp166509240">anart-bùird</headword>
+      <description>Notes: tablecloth.</description>
+    </item>
+    <item>
+      <headword id="idp166510752">aotraman</headword>
+      <description>Notes: bladder.</description>
+    </item>
+    <item>
+      <headword id="idp166512264">bacan</headword>
+      <description>[bɑxkɑṉ] Quotation: bacan aghaidh, bacan cùil. Notes: earmark. </description>
+    </item>
+    <item>
+      <headword id="idp166514136">bàrr</headword>
+      <description>Quotation: bàrr na cluais. Notes: earmark. <illustration src="InvergarryDKennedyslipsillust3.jpg" width="300"/></description>
+    </item>
+    <item>
+      <headword id="idp166515792">beum</headword>
+      <description>Quotation: beum aghaidh, beum cùil. Notes: earmark. <illustration src="InvergarryDKennedyslipsillust4.jpg" width="250"/></description>
+    </item>
+    <item>
+      <headword id="idp166517448">biast-dhubh</headword>
+      <description>Notes: otter.</description>
+    </item>
+    <item>
+      <headword id="idp166518960">biorraiche</headword>
+      <description>[bjwriçə] Notes: spiked muzzle to prevent calf from suckling.</description>
+    </item>
+    <item>
+      <headword id="idp166520688">boirionn</headword>
+      <description>Quotation: laogh firionn boirionn, uan firionn boirionn. Notes: one testicle missing.</description>
+    </item>
+    <item>
+      <headword id="idp166522416">bolbhag</headword>
+      <description>[boɫəvɑɡ] Notes: a large, round stone.</description>
+    </item>
+    <item>
+      <headword id="idp166524144">brat</headword>
+      <description>Notes: bedcover.</description>
+    </item>
+    <item>
+      <headword id="idp166525656">bratag</headword>
+      <description>Notes: cabbage caterpillar.</description>
+    </item>
+    <item>
+      <headword id="idp166527168">breacadh-sianan</headword>
+      <description>[bɾɛxkəʃĩɤ̃ṉɑṉ] Notes: freckles.</description>
+    </item>
+    <item>
+      <headword id="idp166528896">breac a’ mhuiltean</headword>
+      <description>Notes: “wispy scattering of white clouds.”</description>
+    </item>
+    <item>
+      <headword id="idp166530408">buabhall</headword>
+      <description>[bu̜ɑu̜ɫ] Notes: a cow-stall.</description>
+    </item>
+    <item>
+      <headword id="idp166532136">burrach</headword>
+      <description>[bu̜rɔx] Notes: brown, woolly caterpillar found in the grass.</description>
+    </item>
+    <item>
+      <headword id="idp166533864">cadal</headword>
+      <description>Quotation: cadal-deiligeanach [kɑd̪əɫdʹeliɡʹɑ̃ṉɑx]. Notes: “pins and needles”.</description>
+    </item>
+    <item>
+      <headword id="idp166535736">carra-shioman</headword>
+      <description>[kɑrəhĩɑ̃mɑṉ] Notes: rope-making tool, usually [kɔrəhĩɑ̃mɑn].</description>
+    </item>
+    <item>
+      <headword id="idp166537752">cèabhar</headword>
+      <description>[cɛ:vəɾ] Quotation: Tha cèabhar math air. Notes: He is quite drunk. Cèabharan (dim.) – slightly drunk.</description>
+    </item>
+    <item>
+      <headword id="idp166539624">ceann-tobht</headword>
+      <description>Notes: wooden brackets at the end of the slats of a boat. Pl. “cinn-tobht”.</description>
+    </item>
+    <item>
+      <headword id="idp166541136">cipean</headword>
+      <description>[ciçpɑṉ] Notes: tethering pin.</description>
+    </item>
+    <item>
+      <headword id="idp166542864">ciùbhragaich</headword>
+      <description>[cu̜:rɑɡıç] Quotation: ciùbhragaich uisge. Notes: drizzle.</description>
+    </item>
+    <item>
+      <headword id="idp166544736">clàd</headword>
+      <description>Notes: “curry-comb” for horses.</description>
+    </item>
+    <item>
+      <headword id="idp166546248">claon</headword>
+      <description>[kɫɤ:ṉ] Notes: squint-eyed.</description>
+    </item>
+    <item>
+      <headword id="idp166547976">cléideag</headword>
+      <description>[kle:dʹɑɡ] Notes: a snowflake. [NOTES: or [kle:dɑɡ] – not clear.]</description>
+    </item>
+    <item>
+      <headword id="idp166550136">coinnein</headword>
+      <description>[kɤnʹɛ̃ṉ] Notes: nostril.</description>
+    </item>
+    <item>
+      <headword id="idp166551864">craimhseag</headword>
+      <description>Notes: a pimple. Also [ɡu̜ɾɛ̃nʹ].</description>
+    </item>
+    <item>
+      <headword id="idp166553592">crith</headword>
+      <description>Quotation: a’ chrith. Notes: trembling disease in sheep and cattle.</description>
+    </item>
+    <item>
+      <headword id="idp166555248">cuairteag</headword>
+      <description>Notes: a whirlwind.</description>
+    </item>
+    <item>
+      <headword id="idp166556760">dearca-luachrach</headword>
+      <description>[dʹɛɾkəɫu̜ɤxɾɑx] Notes: lizard.</description>
+    </item>
+    <item>
+      <headword id="idp119005552">dìosg</headword>
+      <description>[dʹıɤsɡ] Quotation: a’ cur an crodh an dìosg. Notes: letting the cows go dry.</description>
+    </item>
+    <item>
+      <headword id="idp119001880">earb</headword>
+    <description>[ɑɾɑb] </description></item>
+    <item>
+      <headword id="idp118998424">éirigh</headword>
+      <description>Notes: new wool under the old fleece.</description>
+    </item>
+    <item>
+      <headword id="idp166590136">feòclan</headword>
+      <description>[fjɔ:kɫɑ̃ṉ] Notes: polecat.</description>
+    </item>
+    <item>
+      <headword id="idp166591864">feòrag</headword>
+      <description>[fjɔ:ɾɑɡ] Notes: squirrel.</description>
+    </item>
+    <item>
+      <headword id="idp166593592">feurtan</headword>
+      <description>[fe:ʴst̪ə̃ṉ] Notes: “worms found in the hide of cattle said to be from the warble fly.”</description>
+    </item>
+    <item>
+      <headword id="idp166595320">firionn</headword>
+      <description>Quotation: laogh firionn boirionn; uan firionn boirionn. Notes: one testicle missing.</description>
+    </item>
+    <item>
+      <headword id="idp166597048">gagach</headword>
+      <description>Notes: stammering.</description>
+    </item>
+    <item>
+      <headword id="idp166598560">giorr-analach</headword>
+      <description>[ɡʹwrɑ̃nʹɑɫɑx] Notes: asthma. Also “cuing”.</description>
+    </item>
+    <item>
+      <headword id="idp166600288">glamaireadh</headword>
+      <description>Notes: a vice.</description>
+    </item>
+    <item>
+      <headword id="idp166601800">glìb-shneachd</headword>
+      <description>[ɡlı:bnʹɛ̃xk] Notes: sleet.</description>
+    </item>
+    <item>
+      <headword id="idp166603528">gobhainn-dubh-nan-allt</headword>
+      <description>[ɡoĩnʹd̪u̟ṉɑn̪[ɑu̜]ɫt̪] Notes: water ousel.</description>
+    </item>
+    <item>
+      <headword id="idp166605688">gocan</headword>
+      <description>[ɡɔxkɑṉ] Quotation: gocan na cuthaig.</description>
+    </item>
+    <item>
+      <headword id="idp166607416">guitear</headword>
+      <description>[ɡu̜tʹɛɾ] Notes: man-made culvert.</description>
+    </item>
+  </items>
+</fieldworkDocument>

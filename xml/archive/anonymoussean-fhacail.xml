@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 15 1 15 -->
+<!-- items have no IDs -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="DRMorrisonetal_anonymoussean-fhacail" docType="questionnaire" subType="Sean-fhacail" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <fieldworker>[self]</fieldworker>
+  <informant>
+    <nameEnglish>?</nameEnglish>
+  </informant>
+  <items>
+    <item>
+      <headword id="idola317">[note]</headword>
+	  <description>(Tha mi duilich nach ’eil móran de sheann fhacail agam.)</description>
+	</item>
+    <item>
+      <headword id="d0e25">1. Motha’s mór is motha’s beag</headword>
+      <description>Tha muinntir Bhun-easain an am Muile ag misneachadh so airson tuilleadh ’s mór agus tuilleadh ’s beag.</description>
+    </item>
+    <item>
+      <headword id="d0e34">2. Athaisg</headword>
+      <description>bó air a droch bhiadhadh.</description>
+    </item>
+    <item>
+      <headword id="d0e43">3. Saor nan daor?</headword>
+      <description>ainm a bha air a thoirt do chloich iaruinn a bha a’ gliongartaich ’nuair a bha i air a’ buaileadh. (Muile)</description>
+    </item>
+    <item>
+      <headword id="d0e52">4. àthsaig</headword>
+      <description>tools.</description>
+    </item>
+    <item>
+      <headword id="d0e61" type="heading" level="h1">SEAN-FHACAIL</headword>
+    </item>
+    <item>
+      <headword id="d0e67">[Seanfhacal 1]</headword>
+      <description>Dà thràth ri solus coinnle. (Air a ràdh mu sgalagan is eile air baile fearainn nach robh a’ faotainn ach dà thràth – bidhe ’s a’ gheamhradh.)</description>
+    </item>
+    <item>
+      <headword id="d0e76">[Seanfhacal 2]</headword>
+      <description>Deoch eadar dà eas agus biadh eadar dà bhaile. (Air a ràdh mu luchd-siubhail ’s an t-uisge ’s am biadh gu math gann.)</description>
+    </item>
+    <item>
+      <headword id="d0e85">[Seanfhacal 3]</headword>
+      <description>Gaoth tuath is airgiod odhar. (Air a ràdh le Tiriodich a bha am feum fuireachd ann an Tobar-mhoire na b’ fhaide na bha a dhìth orra ri linn nam bàtaichean seòlaidh o’n a bha gaoth tuath a’ séideadh a steach do acarsaid Thobair-mhoire.)</description>
+    </item>
+    <item>
+      <headword id="d0e94">[Seanfhacal 4]</headword>
+      <description>Biodh sibh-se a’ deanamh deas; tha mise aige có dhiubh. (Cailleach ann an Uibhist agus i a’ faicinn “bicycle” air son na ceud uair.)</description>
+    </item>
+    <item>
+      <headword id="d0e103">[Seanfhacal 5]</headword>
+	  <description>Fhad’s a bhios ceò air Cruachan, cha bhi pathadh air Urchaidh.</description>
+    </item>
+    <item>
+      <headword id="d0e109">[Seanfhacal 6]</headword>
+	  <description>Fasan muinntir Loch Odha, am bréidean odhar a thionndadh.</description>
+    </item>
+    <item>
+      <headword id="d0e115">[Seanfhacal 7]</headword>
+	  <description>’Nuair bhios am bradan mu thuath, bithidh Donnchadh ruadh mu dheas.</description>
+    </item>
+    <item>
+      <headword id="d0e121">[Seanfhacal 8]</headword>
+	  <description>Cho fad’s a mhaireas, maireadh; ’nuair bhios sinn falamh, bithidh sinn ann.</description>
+    </item>
+    <item>
+      <headword id="d0e127">[Seanfhacal 9]</headword>
+	  <description>An rud a dh’fhalbh, cha ’n e dh’fhòghnas.</description>
+    </item>
+    <item>
+      <headword id="d0e133">[Seanfhacal 10]</headword>
+      <description>Dia rathaid is diabhol teallaich. (Fear a tha suilbhireach a muigh agus mosach aig an tigh.)</description>
+    </item>
+    <item>
+      <headword id="d0e142">[Seanfhacal 11]</headword>
+	  <description>Cur is cathadh ’s gaoth ’ga reothadh.</description>
+    </item>
+    <item>
+      <headword id="d0e148">[Seanfhacal 12]</headword>
+	  <description>Rìgh nan corra-chagailt [?] agus ceann-feadhna nan deargan.</description>
+    </item>
+    <item>
+      <headword id="d0e154">[Seanfhacal 13]</headword>
+	  <description>Mar chloich a’ ruith le gleann, feasgar feann fogharaidh.</description>
+    </item>
+    <item>
+      <headword id="d0e160">[Seanfhacal 14]</headword>
+      <description>Meal is caith. (Air a ràdh ’nuair a gheibheadh duine bad ùr aodaich.)</description>
+    </item>
+    <item>
+      <headword id="d0e169">[Seanfhacal 15]</headword>
+	  <description>Nan robh ubh aca, nach iad a dheanadh an gog!</description>
+    </item>
+    <item>
+      <headword id="d0e175">[Seanfhacal 16]</headword>
+	  <description>Camshronaich bhog an ime, sliomairean a’ chàise.</description>
+    </item>
+    <item>
+      <headword id="d0e181">[Seanfhacal 17]</headword>
+	  <description>Cloinn Phàrlain an eich bhric nach robh glic riamh!</description>
+    </item>
+    <item>
+      <headword id="d0e187">[Seanfhacal 18]</headword>
+      <description>Éiridh a’ ghrian air Beinn Shiant fhathasd. (Air a ràdh le muinntir Thobair-mhoire ’nuair bhiodh iad fo dhìobhail misnich.)</description>
+    </item>
+    <item>
+      <headword id="d0e196">[Seanfhacal 19]</headword>
+	  <description>Na luingeis mhóra a’ crìonadh ’s na h-amair mhùin a’ seòladh.</description>
+    </item>
+    <item>
+      <headword id="d0e202">[Seanfhacal 20]</headword>
+	  <description>’S mór a’ chainnt nach faodar éisdeachd.</description>
+    </item>
+    <item>
+      <headword id="d0e208">[Seanfhacal 21]</headword>
+	  <description>As an teine do’n ghrìosaich.</description>
+    </item>
+    <item>
+      <headword id="d0e214">[Seanfhacal 22]</headword>
+	  <description>Tha ’n seillean fo dhìon; thig gaillionn is sian.</description>
+    </item>
+    <item>
+      <headword id="d0e220">[Seanfhacal 23]</headword>
+      <description>Dì-choimhead sìor choimhead Mhuc-càrna. (Dì-choimhead monadh ann an Gleann Lonain.)</description>
+    </item>
+    <item>
+      <headword id="d0e229">[Seanfhacal 24]</headword>
+	  <description>Ceò geamhraidh; cathadh earraich.</description>
+    </item>
+    <item>
+      <headword id="d0e235">[Seanfhacal 25]</headword>
+	  <description>Cha ’n ’eil toll ni mise anns nach cur ise cnag.</description>
+    </item>
+    <item>
+      <headword id="d0e241">[Seanfhacal 26]</headword>
+	  <description>Muinntir Mhuc-Càrna; buntàta ’s tì.</description>
+    </item>
+    <item>
+      <headword id="d0e247">[Seanfhacal 27]</headword>
+	  <description>’S fhèairrde duine breugach fianuis.</description>
+    </item>
+    <item>
+      <headword id="d0e253">[Seanfhacal 28]</headword>
+	  <description>Gearra-ghobaich gun mhodh, gun oilean, coillearan Mhuc-càrna.</description>
+    </item>
+    <item>
+      <headword id="d0e259">[Seanfhacal 29]</headword>
+      <description>Rìgh O’ Rogamais agus Ban-rìgh O’ Theagamais. (Fhuair mi so o chionn fhada o m’ bhràthair-céile mu Dhùn Ghiorgadail. Tha an dùn os cionn Thobair-mhoire air an rathad do Shòrn agus ma’s fhìor gu’m b’iad so a bha os cionn a’ ghnothaich ’nuair a bha daoine a’ fuireachadh anns an Dùn.)</description>
+    </item>
+    <item>
+      <headword id="d0e268">[Seanfhacal 30]</headword>
+	  <description>Cha ’n ’eil nì ’ga cumail ri chéile ach meirg agus stur na mine. (Air a ràdh mu’n bhàta ris an abradh iad an “Dunara”.)</description>
+    </item>
+    <item>
+      <headword id="d0e274">[Seanfhacal 31]</headword>
+	  <description>’Nuair a thig an dubh ’s an geal do Mhuc-Càrna, théid an saoghal gu frì-frà.</description>
+    </item>
+    <item>
+      <headword id="d0e280">[Seanfhacal 32]</headword>
+      <description>B’fheàirrde e goil no dhà eile. (Air a ràdh mu dhaoine a tha caran amh ’nan dòighean.)</description>
+    </item>
+    <item>
+      <headword id="d0e289">[Seanfhacal 33]</headword>
+	  <description>Sùgh an eòrna, fear mo chaoimhneis; cha bhi foighneachd mu a phrìs.</description>
+    </item>
+    <item>
+      <headword id="d0e295">[Seanfhacal 34]</headword>
+	  <description>Mu’n robh Pàp anns an Ròimh, gu’n robh Fiantainnean làidir an Cinn-tàile nam bò.</description>
+    </item>
+    <item>
+      <headword id="d0e301">[Seanfhacal 35]</headword>
+	  <description>Is fheàrr tighinn anmoch na bhi gun tighinn idir.</description>
+    </item>
+    <item>
+      <headword id="d0e307">[Seanfhacal 36]</headword>
+	  <description>Bonnach air bois, cha bhruich ’s cha loisg.</description>
+    </item>
+    <item>
+      <headword id="d0e313">[Seanfhacal 37]</headword>
+	  <description>Is lìonmhor bean-bhleoghainn ach is tearc banachag.</description>
+    </item>
+    <item>
+      <headword id="d0e319">[Seanfhacal 38]</headword>
+	  <description>An rud nach tug ’s nach d’thàinig dhachaidh, grùdhan na h-earba gun bhrachadh.</description>
+    </item>
+    <item>
+      <headword id="d0e325">[Seanfhacal 39]</headword>
+	  <description>Ge b’e gheibheadh a roghainn is mairg a thaghadh an diù.</description>
+    </item>
+    <item>
+      <headword id="d0e331">[Seanfhacal 40]</headword>
+	  <description>Am bronnach geamhraidh ’s an seang earraich (cuma gamhna).</description>
+    </item>
+    <item>
+      <headword id="d0e337">[Seanfhacal 41]</headword>
+	  <description>Ceann mór ’s amhach chaol, aogasg an droch ghamhna.</description>
+    </item>
+    <item>
+      <headword id="d0e343">[Seanfhacal 42]</headword>
+	  <description>Tha teas na luaithre ’na lurgainn.</description>
+    </item>
+    <item>
+      <headword id="d0e349">[Seanfhacal 43]</headword>
+	  <description>Ceannsaichidh a h-uile fear an droch bhean ach am fear aig am bi i.</description>
+    </item>
+    <item>
+      <headword id="d0e355">[Seanfhacal 43 (sic)] </headword>
+	  <description>Is feàrr sgìos chas na sgìos meanmna.</description>
+    </item>
+    <item>
+      <headword id="d0e361">[Seanfhacal 44]</headword>
+	  <description>Théid an fheala-dhà gu a feala-trì.</description>
+    </item>
+    <item>
+      <headword id="d0e367">[Seanfhacal 45]</headword>
+	  <description>Mur b’e eagal [?] an dà mhàil, bheireadh Tiridhe an dà bhàrr.</description>
+    </item>
+    <item>
+      <headword id="d0e373">[Seanfhacal 46]</headword>
+	  <description>Is tùs a’ ghliocais eagal Dé.</description>
+    </item>
+    <item>
+      <headword id="d0e379">[Seanfhacal 47]</headword>
+	  <description>Sliochd nan trì fichead burraidh – Clann Chaluim nam Barran – taobh Loch Éite (mo shinnsearachd).</description>
+    </item>
+  </items>
+</fieldworkDocument>

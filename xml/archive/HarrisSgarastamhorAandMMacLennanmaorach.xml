@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 22 5 14 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="HarrisVarious_HarrisSgarastamhorAandMMacLennanmaorach" docType="questionnaire" subType="Maorach" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Maorach / Shellfish</title>
+  <fieldworker>[anonymous D]</fieldworker>
+  <note>[NOTES: attached to Roderick MacDonald’s ‘Maorach’ questionnaire.]</note>
+  <informant>
+    <nameEnglish>Angus and Morag MacLennan</nameEnglish>
+    <age>50</age>
+  </informant>
+  <location>Harris, Sgarastamhor</location>
+  <items>
+    <item>
+      <headword id="d0e30">ràodain</headword>
+      <description>fiasgainn bheaga air piosan fiodha air an traigh.</description>
+    </item>
+    <item>
+      <headword id="d0e39">puideag</headword>
+      <description>cowrie.</description>
+    </item>
+    <item>
+      <headword id="d0e48">maosgan caol</headword>
+      <description>prawn.</description>
+    </item>
+    <item>
+      <headword id="d0e57">muirsgein</headword>
+      <description>razorshell fish.</description>
+    </item>
+    <item>
+      <headword id="d0e66">cragan feannaig</headword>
+      <description>sea-urchin.</description>
+    </item>
+    <item>
+      <headword id="d0e75">siollag</headword>
+      <description>sand eel.</description>
+    </item>
+    <item>
+      <headword id="d0e84">stangaram</headword>
+      <description>‘weaver’ [?].</description>
+    </item>
+    <item>
+      <headword id="d0e93">siollag bainnse</headword>
+      <description>siollag mòr.</description>
+    </item>
+    <item>
+      <headword id="d0e102">faochag</headword>
+      <description>periwinkle.</description>
+    </item>
+    <item>
+      <headword id="d0e111">fiasgan</headword>
+      <description>mussels.</description>
+    </item>
+    <item>
+      <headword id="d0e120">creachan</headword>
+      <description>clam.</description>
+    </item>
+    <item>
+      <headword id="d0e129">eisire</headword>
+      <description>oyster.</description>
+    </item>
+    <item>
+      <headword id="d0e138">gre rionnach</headword>
+      <description>horse mackerel.</description>
+    </item>
+    <item>
+      <headword id="d0e147">turbaid</headword>
+      <description>turbot.</description>
+    </item>
+    <item>
+      <headword id="d0e156">sgait</headword>
+      <description>skate.</description>
+    </item>
+    <item>
+      <headword id="d0e165">langa</headword>
+      <description>ling.</description>
+    </item>
+    <item>
+      <headword id="d0e174">saoithean</headword>
+      <description>saith.</description>
+    </item>
+    <item>
+      <headword id="d0e183">luitha</headword>
+      <description>lithe [?].</description>
+    </item>
+    <item>
+      <headword id="d0e192">dallag</headword>
+      <description>king fish.</description>
+    </item>
+    <item>
+      <headword id="d0e201">biorrach</headword>
+      <description>dog fish.</description>
+    </item>
+    <item>
+      <headword id="d0e210">cuideag</headword>
+      <description>whiting.</description>
+    </item>
+    <item>
+      <headword id="d0e219">leabag</headword>
+      <description>flounder.</description>
+    </item>
+    <item>
+      <headword id="d0e228">sòrnan</headword>
+      <description>smaller than skate.</description>
+    </item>
+    <item>
+      <headword id="d0e237">breac</headword>
+      <description>salmon.</description>
+    </item>
+    <item>
+      <headword id="d0e246">dubh-bhreac</headword>
+      <description>brown trout.</description>
+    </item>
+    <item>
+      <headword id="d0e255">bànag</headword>
+      <description>sea trout.</description>
+    </item>
+  </items>
+</fieldworkDocument>

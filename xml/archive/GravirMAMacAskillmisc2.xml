@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 21 8 14 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="AJSmith_GravirMAMacAskillmisc2" docType="wordlist" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>September 1972</date>
+  <fieldworker>A. J. Smith</fieldworker>
+  <note>[NOTES: in IPA transcriptions, the fieldworker uses [w] for [ɯ].]</note>
+
+  <informant>
+    <nameEnglish>Mrs M.A. MacAskill</nameEnglish>
+    <origin>Kershader</origin>
+  </informant>
+  <location>Lewis, S. Lochs, Gravir</location>
+  <items>
+    <item>
+      <headword id="idm35355152">tuaradh</headword>
+      <description>[t̪u̟ɤɾəɣ] Quot.: “Chaneil tuaradh dha na bh’ann ann an diugh.” Note: quantity, number.</description>
+    </item>
+    <item>
+      <headword id="idm35353496">garran</headword>
+      <description>[ɡɑrɑṉ] Quot.: “Dean suidhe, a’ gharrain ghràinnde air do chasan!” Note: brat.</description>
+    </item>
+    <item>
+      <headword id="idm35352056">neamhall</headword>
+      <description>[nʹɛ̃vəɫ] Quot.: “’S e brod neamhall a bh’annsan.” Note: brat, rascal.</description>
+    </item>
+    <item>
+      <headword id="idm35350400">àbharsair</headword>
+      <description>[ɑ:vəʴsɑð] Note: a person full of fun. [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+    <item>
+      <headword id="idm35348888">àbharsaireachd</headword>
+      <description>Quot.: “Tha e làn àbharsaireachd.” Note: He is full of fun.</description>
+    </item>
+    <item>
+      <headword id="idm35345864">conalòid</headword>
+      <description>[kɔ̃ṉəɫɔ:dʹ] Quot.: “Nach dean sibh air ar socair ’s sibh a deanamh [kɔ̃ṉəɫɔ:dʹ] dhan an tigh.” Note: putting the house into disarray.</description>
+    </item>
+    <item>
+      <headword id="idm35344064">deadhad</headword>
+      <description>[ˈdʹɛəd̪] Quot.: “Cha d’fhuair iad de dh’iasg na dheanadh [ˈdʹɛəd̪].” Note: the amount that would make one meal. (Different from “diathad” – accent on the [ɛ].)</description>
+    </item>
+    <item>
+      <headword id="idm35340968">sin</headword>
+      <description>[ʃĩṉ] Quot.: “ann a shineach” [hĩṉɑx]. Note: there.</description>
+    </item>
+    <item>
+      <headword id="idm35337944">siod</headword>
+      <description>[ʃid̪] Quot.: “ann a shiodach” [hid̪ɑx]. Note: there.</description>
+    </item>
+    <item>
+      <headword id="idm35459840">ionna</headword>
+      <description>[ȷũ̜n̪ə] Quot.: “B’ionna dha fuireach na dhachaidh fhéin.” Note: He would be better to stay in his own home.</description>
+    </item>
+    <item>
+      <headword id="idm35456240">péiteanach</headword>
+      <description>[pe:tʹɑṉɑx] Note: the fibres which can be pulled from dry spongy peat, sometimes smoked by boys. Known in Barvas as “calcas”.</description>
+    </item>
+    <item>
+      <headword id="idm35456888">cuartlanaich</headword>
+      <description>Quot.: “Rinn mi tòrr cuartlanaich.” Note: moving about.</description>
+    </item>
+    <item>
+      <headword id="idm35454512">spèic</headword>
+      <description>[spɛ:c] Quot.: “Tha spèic mhath eadar so ’s an eaglais.” “Tha e spèic mhath as.” Note: a good distance.</description>
+    </item>
+    <item>
+      <headword id="idm35451560">niùrstan</headword>
+      <description>[nʹũ̜:ʴsṯɑṉ] Note: Mrs. MacA’s pronunciation of the word for the celebration drink given on the birth of a child. [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+    <item>
+      <headword id="idm35445224">stàrr</headword>
+      <description>Note: tall grass growing in lochs.</description>
+    </item>
+    <item>
+      <headword id="idm35456672">mì-chòrd</headword>
+      <description>Quot.: “Mhì-chòrd Nis rithe.” Note: She didn’t like Ness.</description>
+    </item>
+    <item>
+      <headword id="idm35453072">làmhaganaich</headword>
+      <description>[ɫɑ̃:vəɡɑṉiç] Quot.: “Cha bhiodh e a’ deanamh obair throm ach bhiodh e a’ làmhaganaich timchioll.” Note: doing little jobs.</description>
+    </item>
+    <item>
+      <headword id="idm35449040">gearraghobaich</headword>
+      <description>Quot.: “Bhiodh e a’ gearraghobaich rium.” Note: sharp-witted banter.</description>
+    </item>
+    <item>
+      <headword id="idm37320656">góbhlag</headword>
+      <description>Note: forked strips of land.</description>
+    </item>
+    <item>
+      <headword id="idm37313384">samhal</headword>
+      <description>[sɑ̃vəɫ] Quot.: “Chan fhaca mi air a shamhal e bho’n uairsin.”</description>
+    </item>
+    <item>
+      <headword id="idm37278104">ìoc</headword>
+      <description>[ı:k] Note: a triangular piece of cloth inserted, e.g. into the sides of a skirt to make it wider.</description>
+    </item>
+    <item>
+      <headword id="idm37280408">bròg</headword>
+      <description>Quot.: brogan Sàboint. Note: best shoes for Church wear.</description>
+    </item>
+    <item>
+      <headword id="idm37319648">léine</headword>
+      <description>Quot.: léine-caitheamh. Note: working shirt.</description>
+    </item>
+    <item>
+      <headword id="idm37307336">léine</headword>
+      <description>Quot.: léine-chriomaidhean [lʹe:ṉəˈxɾw̃miɑn]. Note: old-fashioned collarless striped men’s shirt.</description>
+    </item>
+    <item>
+      <headword id="idm37309640">clais</headword>
+      <description>Quot.: Tha an tigh aige ann an clais a’ rathaid. Note: His house is just beside the road.</description>
+    </item>
+    <item>
+      <headword id="idm37303376">obair</headword>
+      <description>Quot.: “’S e obair gun bhiadh gun thuarasdal a th’agad.” Note: useless, pointless work.</description>
+    </item>
+    <item>
+      <headword id="idm37297400">stàireachd</headword>
+      <description>[st̪ɑ:ðɑxk] Quot.: “a’ stàireachd air a’ rathad”. Note: walking with no apparent aim in view.</description>
+    </item>
+    <item>
+      <headword id="idm37322024">crann</headword>
+      <description>Quot.: “Nam biodh mo dhà chrann na mo làmh…” Note: If I had the choice…</description>
+    </item>
+    <item>
+      <headword id="idm37318784">sguidealaireachd</headword>
+      <description>[sɡu̟dʹəlɑðɑxk] Note: messing about with water.</description>
+    </item>
+    <item>
+      <headword id="idm37295888">spadaireachd</headword>
+      <description>[spɑd̪əðɑxk] Quot.: “Tha e làn dhan a’ spadaireachd.” Note: vanity, usually as regards one’s appearance.</description>
+    </item>
+    <item>
+      <headword id="idm37313168">suathalas</headword>
+      <description>Quot.: “Bha suathalas aice rithe.” Note: She resembled her somewhat.</description>
+    </item>
+    <item>
+      <headword id="idm37333976">drabhailt</headword>
+      <description>[d̪ɾɑvɑlʹtʹ] Note: wooden canopy put over a fire against the wall before chimneys were built.</description>
+    </item>
+    <item>
+      <headword id="idm37327424">lobhta</headword>
+      <description>Quot.: lobhta poc. Note: ceiling of sacking in black houses.</description>
+    </item>
+    <item>
+      <headword id="idm37292216">branndair</headword>
+      <description>Note: grate put on top of the hearthstone when the fire was in the middle of the floor. Considered at the time to be a big advance.</description>
+    </item>
+    <item>
+      <headword id="idm37278176">ruadhan</headword>
+      <description>Quot.: “Tha do bhiadh air a dhol na ruadhan air an teine.” Note: food spoiling on the fire.</description>
+    </item>
+    <item>
+      <headword id="idm37324328">teasach</headword>
+      <description>Quot.: an teasach dhearg. Note: scarlet fever.</description>
+    </item>
+    <item>
+      <headword id="idm37309712">conas</headword>
+      <description>Quot.: Bithidh e a’ cur conas orm. Note: It/He annoys me.</description>
+    </item>
+    <item>
+      <headword id="idm37334336">sgàthan</headword>
+      <description>Quot.: “Is maith a’ sgàthan suil caraid.”</description>
+    </item>
+    <item>
+      <headword id="idm37311944">cuaradh</headword>
+      <description>[ku̟ɤɾəɣ] Quot.: “Cuaradh ormsa! Carson a rinn mi siod?”</description>
+    </item>
+    <item>
+      <headword id="idm37295024">rathail</headword>
+      <description>Quot.: “’S e duine rathail aig nach bi sin ri phàigheadh.” Note: in the sense of fortunate.</description>
+    </item>
+    <item>
+      <headword id="idm37296608">tairgeadaireachd</headword>
+      <description>[t̪ɑɾɑɡʹəd̪əðɑk] Note: passing remarks designed to incite the person at whom they are aimed.</description>
+    </item>
+    <item>
+      <headword id="idm37299920">calla</headword>
+      <description>[kɑɫə] Quot.: Có am ministear dhan tug sibh calla? Note: a “call” to a congregation.</description>
+    </item>
+    <item>
+      <headword id="idm37302656">cluais</headword>
+      <description>Quot.: cluasan na prais. Note: the loops on either side of the pot to which the “bùlais” is attached.</description>
+    </item>
+    <item>
+      <headword id="idm37295456">slinnteach</headword>
+      <description>Note: sleet.</description>
+    </item>
+    <item>
+      <headword id="idm37277744">ballaist</headword>
+      <description>[bɑɫɑʃtʹ] Note: ballast.</description>
+    </item>
+    <item>
+      <headword id="idm37280120">ballaisteach</headword>
+      <description>Quot.: duine ballaisteach. Note: a solid, sensible person. (Also: “Chaneil móran ballaist anns an duine ud.”)</description>
+    </item>
+    <item>
+      <headword id="idm37318856">foiteag</headword>
+      <description>[fɔitʹɑɡ] Quot.: “Foiteag, foiteag, ’s e a tha fuar.” or “Foiteag, tha e teth.” Note: “foiteag” used in connection with heat usually when touching a hot object. Not used as regards hot weather.</description>
+    </item>
+    <item>
+      <headword id="idm37303232">titeag</headword>
+      <description>[ˈtʹıtʹɑɡ] Note: exclamation used by a person who is wetted, e.g. by a splash.</description>
+    </item>
+    <item>
+      <headword id="idm37322312">furndair</headword>
+      <description>[fɤʴṉḏɑð] Note: Mrs MacA’s pronunciation of “furniture” in Gaelic. [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+    <item>
+      <headword id="idm154544048">sìna</headword>
+      <description>Quot.: “Nach àluinn na copanan sìna a tha sin.” Note: china.</description>
+    </item>
+    <item>
+      <headword id="idm154544264">pristeal</headword>
+      <description>[pðıʃtʹɑɫ] Quot.: a’ chlann a’ cluich le pristealan. Note: bits of broken cups, plates, saucers, etc.</description>
+    </item>
+    <item>
+      <headword id="idm154542536">rotach</headword>
+      <description>Quot.: ’S iad a fhuair a’ rotach. Note: in the sense of a good following wind when sailing.</description>
+    </item>
+    <item>
+      <headword id="idm154539872">seacanaich</headword>
+      <description>Quot.: seacanaich na Samhna. Note: a calm spell of weather in November. Houses were thatched at this time. (Put also under Samhainn.)</description>
+    </item>
+    <item>
+      <headword id="idm37607504">garraiseach</headword>
+      <description>Quot.: garraiseach na Bealltainn. Note: an annual spell of bad weather.</description>
+    </item>
+    <item>
+      <headword id="idm37634360">màrtanaich</headword>
+      <description>[mɑ̃ʴsṯɑṉiç] Quot.: na màrtanaich. Note: hacks on the feet caused by going barefoot early in the year. [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+    <item>
+      <headword id="idm40431232">driùcan</headword>
+      <description>[d̪ɾu̟:kɑṉ] [d̪ɾu̟kɑṉ] Note: hacks under the joints of the toes caused by going barefoot.</description>
+    </item>
+    <item>
+      <headword id="idm40429216">riofanaich</headword>
+      <description>[rwfɑṉiç] Note: skin breaking behind the nails.</description>
+    </item>
+    <item>
+      <headword id="idm40427488">màthair-ghuir</headword>
+      <description>Note: the root or core of a boil.</description>
+    </item>
+    <item>
+      <headword id="idm40425976">dorus</headword>
+      <description>[d̪ɑɾəs] Quot.: “Bha mu dhusan dorus air a’ niosgaid.” Note: break in a boil where the pus comes out.</description>
+    </item>
+    <item>
+      <headword id="idm40423168">bàstair</headword>
+      <description>Note: a spot, usually boggy, where animals are lost.</description>
+    </item>
+    <item>
+      <headword id="idm40421656">staran</headword>
+      <description>Note: a line of stepping-stones across a stream.</description>
+    </item>
+    <item>
+      <headword id="idm40420144">stàdhar</headword>
+      <description>Quot.: “Rinn na caoraich stàdhar uamhasach dheth.” Note: ground churned into mud by the trampling of sheep.</description>
+    </item>
+    <item>
+      <headword id="idm40418344">fàireag</headword>
+      <description>Quot.: “Thainig fàireag an ceann a shliasaid.” Note: applied to a swollen gland.</description>
+    </item>
+    <item>
+      <headword id="idm40416616">sàileagan</headword>
+      <description>[sɑ:ləɡɑṉ] Note: water-brash.</description>
+    </item>
+    <item>
+      <headword id="idm40414888">rùdh-ràdh</headword>
+      <description>[ru̜:rɑ:] Quot.: “Tha sibh air rùdh-ràdh a dheanamh dhan an tigh.” Note: everything upside down.</description>
+    </item>
+    <item>
+      <headword id="idm40412872">comha-thràth</headword>
+      <description>[kõərɑ:] Quot.: “am beul a’ chomha-thràth”. Note: at nightfall.</description>
+    </item>
+    <item>
+      <headword id="idm40410928">durgh</headword>
+      <description>[d̪u̜ru̜ɣ] Quot.: “’S ann durgh a tha cridhe fear dha m’ fheadhainn / mo leannan.” Note: dour. This was usually said by a girl or woman when the fire wasn’t taking properly.</description>
+    </item>
+    <item>
+      <headword id="idm40408984">saorsainn</headword>
+      <description>Quot.: “O, well, tha thu aig saorsainn do thoil a réisd!” Note: “O, well, please yourself then!”</description>
+    </item>
+    <item>
+      <headword id="idm40406176">stadhralaich</headword>
+      <description>[st̪ɤɾɤliç] Note: noisy commotion.</description>
+    </item>
+    <item>
+      <headword id="idm40404448">saoghal</headword>
+      <description>[sw:vəɫ] Quot.: “Chan fhaca tu càil air an t-saoghal [t̪w:vəɫ] collach ris.” Note: “saoghal” often pronounced this way here.</description>
+    </item>
+    <item>
+      <headword id="idm40402216">neònachas</headword>
+      <description>Quot.: “Chuir e neònachas orm.” Note: It puzzled me.</description>
+    </item>
+    <item>
+      <headword id="idm40400488">cùl</headword>
+      <description>Quot.: “’S ann air cùl a’ ghàraidh a tha sinne.” Note: We are outside the township boundary. (Put also under gàradh.)</description>
+    </item>
+    <item>
+      <headword id="idm40398544">ullanaich</headword>
+      <description>Quot.: “Chan urrainn dha e fhéin ullanachadh.” Note: said of a person in bed who cannot make himself more comfortable in bed.</description>
+    </item>
+    <item>
+      <headword id="idm40396816">eireapais</headword>
+      <description>[eðɑpiʃ] Quot.: “Tha e làn eireapais.” Note: full of quirks, fads.</description>
+    </item>
+    <item>
+      <headword id="idm40394872">far-ainm</headword>
+      <description>[fɑɾɑɾɑm] Note: nickname. (Pronunciation.)</description>
+    </item>
+    <item>
+      <headword id="idm40393144">innseadh</headword>
+      <description>Quot.: “Tha sin a’ toirt innseadh dhuit man a bha.” Note: That lets you know how things were.</description>
+    </item>
+    <item>
+      <headword id="idm40390480">rath-thiodhlaig</headword>
+      <description>Note: lair in a cemetery.</description>
+    </item>
+    <item>
+      <headword id="idm40388968">ròineag</headword>
+      <description>Quot.: “Ròineagan a’ tuiteam fon an t-snàth.” Note: short wool fibres falling from yarn.</description>
+    </item>
+    <item>
+      <headword id="idm40387240">doirbh</headword>
+      <description>Quot.: “Ach ’s e is [d̪ɔrə] dhomh nach leur dhomh rud sam bith.” Note: “But what is hardest on me is that I cannot see anything.”</description>
+    </item>
+    <item>
+      <headword id="idm40385224">fortan</headword>
+      <description>Quot.: “Fortan an cois an dòrtadh, pòsadh an cois a’ losgadh.”</description>
+    </item>
+    <item>
+      <headword id="idm40383496">móinteach</headword>
+      <description>Quot.: “Cha toir duine a mhóintich e.” Note: No-one will get the better of him, fool him.</description>
+    </item>
+    <item>
+      <headword id="idm40381768">conadaileach</headword>
+      <description>[kɔ̃ṉəd̪əlɑx] Note: a sheep strayed from another pasture on to one’s own.</description>
+    </item>
+    <item>
+      <headword id="idm40379968">liath</headword>
+      <description>Quot.: “Theab i mo liathadh.” Note: She nearly gave me grey hairs (metaphorically speaking).</description>
+    </item>
+    <item>
+      <headword id="idm40378168">sùil</headword>
+      <description>Quot.: “Chuir i mo shùil a mach.” Note: said by a girl when a rival had taken over her boyfriend.</description>
+    </item>
+    <item>
+      <headword id="idm40376296">sibhse</headword>
+      <description>Note: pronounced [ʃu̟:ʃə].</description>
+    </item>
+  </items>
+</fieldworkDocument>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 20 4 13 -->
+<fieldworkDocument docId="Ecclesiastical_StornowayAUrquhartbas" docType="wordlist" subType="BàsIsAdhlachadh">
+  <title>Bàs is Adhlacadh / Death and Burial</title>
+  <date>[3/1968 on the slips]</date>
+  <fieldworker>[self]</fieldworker>
+  <note>[NOTES: the words have been slipped and therefore, apart from the definitions provided by the informant, the definitions as they appear on the slips have also been included (unless the two were the same).]</note>
+  <informant>
+    <nameEnglish>Urquhart</nameEnglish>
+    <nameGaelic>A. Urchardan </nameGaelic>
+    <age>73</age>
+    <origin>Geàrrloch (Loch Iubh) [Gairloch (Loch Ewe)]</origin>
+  </informant>
+  <location>[Lewis], Steòrnabhagh [Stornoway]</location>
+  <items>
+    <item>
+      <headword id="d0e39">a’ righeadh</headword>
+    </item>
+    <item>
+      <headword id="d0e45">bòrd-righidh</headword>
+    </item>
+    <item>
+      <headword id="d0e51">léine-mhairbh</headword>
+    </item>
+    <item>
+      <headword id="d0e57">ciste-laighe</headword>
+    </item>
+    <item>
+      <headword id="d0e63">caithris</headword>
+      <description>faire.</description>
+    </item>
+    <item>
+      <headword id="d0e72">chaochail</headword>
+      <description>[NOTES: slipped under ‘caochail’. Definition: Never ‘bhàsaich’ for a person. chaochail, shiubhail, dh’falbh [sic].]</description>
+    </item>
+    <item>
+      <headword id="d0e81">shiubhail</headword>
+      <description>[NOTES: slipped under ‘siubhal’. Definition: chaochail, shiubhail, dh’fhalbh. Never ‘bhàsaich’ for a person.]</description>
+    </item>
+    <item>
+      <headword id="d0e90">dh’fhalbh</headword>
+      <description>[NOTES: slipped under ‘falbh’. Definition: chaochail, shiubhail, dh’fhalbh. Never ‘bhàsaich’ for a person.]</description>
+    </item>
+    <item>
+      <headword id="d0e99">bhàsaich</headword>
+      <description>never for a person. [NOTES: slip not found.]</description>
+    </item>
+    <item>
+      <headword id="d0e108">[fuil]</headword>
+      <description>Ag cur a’ chuirp ’sa’ chiste cha bhiodh ann ach “na bha de’n fhuil” – is e sin am facal a chuala mi. [NOTES: slip not found.]</description>
+    </item>
+    <item>
+      <headword id="d0e117">an carbad</headword>
+    </item>
+    <item>
+      <headword id="d0e123">an giùlan</headword>
+      <description>an carbad agus an luchd-giùlain. A’ dol a steach geata a’ chlaidh rachadh daoine a bhuineadh dha fo’n ghiùlan.</description>
+    </item>
+    <item>
+      <headword id="d0e132">am fàilean</headword>
+      <description>nùr fail cho fada ris an uaigh rachadh a chur air a h-uachdar. An rud mu dheireadh. “Dh’fhurich sinn gus an do chuir iad am fàilean air.”</description>
+    </item>
+  </items>
+</fieldworkDocument>

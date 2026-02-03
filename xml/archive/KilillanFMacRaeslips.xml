@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 7/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_KilillanFMacRaeslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>03/1970</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <note>[NOTES: in IPA transcriptions, the fieldworker uses [w] for [ɯ].]</note>
+  <informant>
+    <nameEnglish>Miss Flora MacRae</nameEnglish>
+  </informant>
+  <location>Ross-shire, Dornie, Kilillan</location>
+  <items>
+    <item>
+      <headword id="idp115753448">mineadh</headword>
+      <description>Quotation: Mineadh [mĩṉəɡ] ort! Notes: used in the same way as “m’ullaidh ort!”</description>
+    </item>
+    <item>
+      <headword id="idp115749992">sgrios</headword>
+      <description>Quotation: Sgrios obainn gu robh ort! Notes: heard one tinker wife say this to another when chiding her for drinking all the milk they had just got.</description>
+    </item>
+    <item>
+      <headword id="idp115746680">toirsgean</headword>
+      <description>[t̪ɔʴsɡʹəṉ] Notes: peat-cutting iron. [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+    <item>
+      <headword id="idp115766408">am feasda</headword>
+      <description>Quotation: Chan fhaic mi e a feasda. Notes: I’ll never see him.</description>
+    </item>
+    <item>
+      <headword id="idp115768064">bradach</headword>
+      <description>Notes: thieving.</description>
+    </item>
+    <item>
+      <headword id="idp115769576">bréid</headword>
+      <description>Quotation: Bréid chaise. Notes: cheese cloth.</description>
+    </item>
+    <item>
+      <headword id="idp115771232">broth</headword>
+      <description>Notes: a rash.</description>
+    </item>
+    <item>
+      <headword id="idp115772744">bucach</headword>
+      <description>Notes: a young lad.</description>
+    </item>
+    <item>
+      <headword id="idp115774256">cagar</headword>
+      <description>Quotation: a’ chagair. Notes: my dear.</description>
+    </item>
+    <item>
+      <headword id="idp115775912">caibe</headword>
+      <description>Quotation: caibe-làir. Notes: flauchter spade.</description>
+    </item>
+    <item>
+      <headword id="idp115777568">clach</headword>
+      <description>Quotation: clach guail [sic]. “Cuir clach air an teine!” [NOTES: slipped under ‘clach ghuail’.]</description>
+    </item>
+    <item>
+      <headword id="idp115779296">croighleag</headword>
+      <description>[kɾ[ɤı]lɑɡ] Notes: broken bit of peat.</description>
+    </item>
+    <item>
+      <headword id="idp115781456">dhuib</headword>
+      <description>[ɣ[ɤı]b] Notes: for dhuibh.</description>
+    </item>
+    <item>
+      <headword id="idp115783616">dioghmhoir</headword>
+      <description>[dʹw:ɣɔɾ] Notes: stubborn, obstinate strong-headed.</description>
+    </item>
+    <item>
+      <headword id="idp115785344">dol</headword>
+      <description>Notes: says [d̪u̜ɫ] for [d̪ɔɫ].</description>
+    </item>
+    <item>
+      <headword id="idp115787432">dùr</headword>
+      <description>Notes: stubborn.</description>
+    </item>
+    <item>
+      <headword id="idp115788944">fairichte</headword>
+      <description>[fɑɾıtʹə] Quotation: fairichte man a’ choire. Notes: on the alert, watching. Watching for the kettle to boil.</description>
+    </item>
+    <item>
+      <headword id="idp115790816">feasda</headword>
+      <description>Quotation: Chan fhaic mi e a feasda. Notes: I never see him.</description>
+    </item>
+    <item>
+      <headword id="idp115792472">grunasdal</headword>
+      <description>Notes: sulphur.</description>
+    </item>
+  </items>
+</fieldworkDocument>

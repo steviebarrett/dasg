@@ -1,0 +1,956 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 3 6 14 -->
+<!-- illustrations! -->
+<fieldworkDocument docId="AOHenley_GarrynamonieROHenleymisc7" docType="wordlist" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>[1987-88]</date>
+  <fieldworker personId="ohenleya">A. O’Henley</fieldworker>
+  <note>[NOTES: some notes added (most probably by K. D. MacDonald?). See below for details.]</note>
+  <informant personId="ohenleyr">
+    <nameEnglish>R[oderick] O’Henley</nameEnglish>
+  </informant>
+  <location>South Uist, Garrynamonie</location>
+  <items>
+    <item>
+      <headword id="idp109753664">spriullag</headword>
+      <description>process whereby the toes of a deceased person were tied together.</description>
+    </item>
+    <item>
+      <headword id="idp109749992">fiteagan murain</headword>
+      <description>patches of sea bent. [NOTES: note added above ‘t’ in ‘fiteagan’ – d.]</description>
+    </item>
+    <item>
+      <headword id="idp109759352">maide mairt</headword>
+      <description>at the end of a stall in a byre. Once the beast had entered the stall this wooden door was lowered to prevent straying out of the stall.</description>
+    </item>
+    <item>
+      <headword id="idp109759208">glàomaire</headword>
+      <description>someone without sense.</description>
+    </item>
+    <item>
+      <headword id="idp109760864">pìle stamh</headword>
+      <description>a man-made garden on which tangles were dried. Garden could be made of turfs or hogsheads supported by wooden poles.</description>
+    </item>
+    <item>
+      <headword id="idp109764032">bun-bac</headword>
+      <description>the gap between the wall of a house and the thatched overlap.</description>
+    </item>
+    <item>
+      <headword id="idp109765688">lus-nan-laogh</headword>
+      <description>a drink made of a green leaf. Boiled and given to calves for constipation. Also used to alleviate throat complaints.</description>
+    </item>
+    <item>
+      <headword id="idp109767992">miunnd</headword>
+      <description>a purple leaf used for making soup. [NOTES: note added – (mint).]</description>
+    </item>
+    <item>
+      <headword id="idp109767560">fras nan cuiseag</headword>
+      <description>the seed obtained from these rushes was used to supplement hen’s meal.</description>
+    </item>
+    <item>
+      <headword id="idp109768640">ceann-mara</headword>
+      <description>that part of a fence which stretches into a loch.</description>
+    </item>
+    <item>
+      <headword id="idp109771808">crois iarna</headword>
+      <description>used for rope-making.</description>
+    </item>
+    <item>
+      <headword id="idp109775624">buillisg</headword>
+      <description>a bucketful. [NOTES: corrected to ‘bùillisg’.]</description>
+    </item>
+    <item>
+      <headword id="idp109775480">smuiseal</headword>
+      <description>an iron board on a plough. Could be adjusted according to the amount of turf required on the blade.</description>
+    </item>
+    <item>
+      <headword id="idp109778000">sglàmhachd</headword>
+      <description>shouting.</description>
+    </item>
+    <item>
+      <headword id="idp109779440">cunnabhalach</headword>
+      <description>working at a steady pace. “Obair chunnabhalachd [sic] fad an latha.”</description>
+    </item>
+    <item>
+      <headword id="idp109451528">sorn</headword>
+      <description>a platform with a hole in its centre. [Cf. sorrag.]</description>
+    </item>
+    <item>
+      <headword id="idp109453040">sorrag</headword>
+      <description>the grain was placed in this channel which stemmed from the centre of the ‘sorn’ [q.v.]. The fire was at one end of the ‘sorrag’. However there was a sufficient gap between the fire and the grain to ensure it did not burn.</description>
+    </item>
+    <item>
+      <headword id="idp109455416">bustrachadh</headword>
+      <description>casting spells.</description>
+    </item>
+    <item>
+      <headword id="idp109456928">drabastach</headword>
+      <description>bad language.</description>
+    </item>
+    <item>
+      <headword id="idp109458440">a’ phaidhear</headword>
+      <description>afterbirth.</description>
+    </item>
+    <item>
+      <headword id="idp109459952">plocan</headword>
+      <description>a block of wood with three protruding wooden or iron prongs used for levelling off lazybeds after the potatoes had been planted.</description>
+    </item>
+    <item>
+      <headword id="idp109461464">gormanachadh</headword>
+      <description>the process whereby fish were taken off the hook. ‘Gormanaiche’ applied to the person who did this job.</description>
+    </item>
+    <item>
+      <headword id="idp109462976">bròg a’ chruinn</headword>
+      <description>this was the socket where a ship’s mast was lodged. Found in the middle of the boat.</description>
+    </item>
+    <item>
+      <headword id="idp109465352">osan na cliabh</headword>
+      <description>the hole through which the lobster entered the lobster pot.</description>
+    </item>
+    <item>
+      <headword id="idp109466936">sgiofair</headword>
+      <description>a pin through the axle which kept the wheel from falling off.</description>
+    </item>
+    <item>
+      <headword id="idp109468520">ciochan na mnathan sidh</headword>
+      <description>wild lupins, found in moorland. [NOTES: ‘ciochan’ corrected to ‘cìochan’.]</description>
+    </item>
+    <item>
+      <headword id="idp109470176">an t-suim</headword>
+      <description>water which could be taken into the boat by fish or as a result of small leaks. [NOTES: note added above ‘t-suim’ – taoim.]</description>
+    </item>
+    <item>
+      <headword id="idp109471832">sileadh</headword>
+      <description>a small seat in the back of a boat which was used by the man who baited the creels.</description>
+    </item>
+    <item>
+      <headword id="idp109473344">bacannan</headword>
+      <description>rowlocks.</description>
+    </item>
+    <item>
+      <headword id="idp109474856">sgòthd</headword>
+      <description>the name for the rope which could be adjusted according to the wind. Could be let in or out. [NOTES: corrected to ‘sgòd’.]</description>
+    </item>
+    <item>
+      <headword id="idp109477376">an fhuilm</headword>
+      <description>a bit of wood found at a boat’s helm. About two feet long and used for steering.</description>
+    </item>
+    <item>
+      <headword id="idp109478888">ceannachagan</headword>
+      <description>L shaped bits of wood which were used as supports for the seats.</description>
+    </item>
+    <item>
+      <headword id="idp109480400">mios crochadh nan cliabh</headword>
+      <description>a saying indicative of bad weather at the beginning of May. As a result the creels were not used and subsequently hung in rows.</description>
+    </item>
+    <item>
+      <headword id="idp109481912">stòc an acaire</headword>
+      <description>the bit of iron on an anchor which prevented it from falling over. [NOTES: ‘stòc’ corrected to ‘stoc’.]</description>
+    </item>
+    <item>
+      <headword id="idp109483568">sgeith-runnag</headword>
+      <description>a shooting star. Caused by bad weather.</description>
+    </item>
+    <item>
+      <headword id="idp109485944">dreag</headword>
+      <description>a falling star seen prior to someone’s death. Would fall close to a particular house.</description>
+    </item>
+    <item>
+      <headword id="idp109487456">tearr bhuidhe</headword>
+      <description>Archangel tar. Used for healing purposes after the dehorning of animals. Could also be used in boats for sealing leaks. [NOTES: ‘tearr’ corrected to ‘teàrr’.]</description>
+    </item>
+    <item>
+      <headword id="idp109489112">taothadh</headword>
+      <description>to frequent. As in: “’S minig a thaothadh a’ chreag ’s na h-eoin fhein ga fàgail.”</description>
+    </item>
+    <item>
+      <headword id="idp109490768">glùinean shòp</headword>
+      <description>eighty one ears of corn placed underneath a rock. The person who did this was supposed to say a prayer and not to tell anyone of the whereabouts of the ears. Apparently as the ears rotted, warts were supposed to disappear. This has been proved to be true. [NOTES: ‘shòp’ corrected to ‘shop’.]</description>
+    </item>
+    <item>
+      <headword id="idp109493288">sean chramail</headword>
+      <description>an old man. [NOTES: ‘sean’ corrected to ‘seann’.]</description>
+    </item>
+    <item>
+      <headword id="idp109494944">teallach</headword>
+      <description>the fire in a smithy.</description>
+    </item>
+    <item>
+      <headword id="idp109496456">ploc mallaidh</headword>
+      <description>this was the turf which was folded over when making lazybeds.</description>
+    </item>
+    <item>
+      <headword id="idp109498040">iomaire buinn</headword>
+      <description>the end of a field.</description>
+    </item>
+    <item>
+      <headword id="idp109499552">an t-sail-bhrollaich</headword>
+      <description>a bit of wood on which the cart rested. [NOTES: ‘sail’ corrected to ‘sàil’.]</description>
+    </item>
+    <item>
+      <headword id="idp109501208">treabhallairean</headword>
+      <description>the chains stretching between the cart and the horse.</description>
+    </item>
+    <item>
+      <headword id="idp109502720">duirn</headword>
+      <description>two chains on the side of the horse. They were tied to the ‘trampsaidh’. [NOTES: corrected to ‘dùirn’.]</description>
+    </item>
+    <item>
+      <headword id="idp109505240">gige</headword>
+      <description>a jaunting carriage.</description>
+    </item>
+    <item>
+      <headword id="idp109506752">siullachan</headword>
+      <description>wooden hames. They were used for ploughing. Part of horse equipment.</description>
+    </item>
+    <item>
+      <headword id="idp109508264">ag iarraidh earnais</headword>
+      <description>the borrowing of a loan. Asked for when a person was leaving his/her house for the first time.</description>
+    </item>
+    <item>
+      <headword id="idp109509776">teinneachair</headword>
+      <description>tongs used by a smithy for taking iron out of a fire.</description>
+    </item>
+    <item>
+      <headword id="idp109511288">meall coinnain</headword>
+      <description>mushroom. [NOTES: note added above ‘coinnain’ – coinein.]</description>
+    </item>
+    <item>
+      <headword id="idp109512944">sluasaid</headword>
+      <description>shovel.</description>
+    </item>
+    <item>
+      <headword id="idp109514456">caplaid</headword>
+      <description>chattering.</description>
+    </item>
+    <item>
+      <headword id="idp109515968">nuathallan</headword>
+      <description>giving an account of something.</description>
+    </item>
+    <item>
+      <headword id="idp109517480">saic</headword>
+      <description>a basket on each side of a horse. Used for carrying peat.</description>
+    </item>
+    <item>
+      <headword id="idp109519928">staingean</headword>
+      <description>reeds which are used to make creels.</description>
+    </item>
+    <item>
+      <headword id="idp109521440">snòthaid</headword>
+      <description>a trap for catching birds.</description>
+    </item>
+    <item>
+      <headword id="idp109522952">peindeal</headword>
+      <description>a trap made of rope for catching birds.</description>
+    </item>
+    <item>
+      <headword id="idp109524464">còbhla/còmhla bhigeinnean</headword>
+      <description>once the birds had strayed into a certain area a rope was pulled which brought an old door or something similar crashing down on top of these birds.</description>
+    </item>
+    <item>
+      <headword id="idp109526192">speal-bheoil</headword>
+      <description>a razor. [NOTES: ‘bheoil’ corrected to ‘bheòil’.]</description>
+    </item>
+    <item>
+      <headword id="idp109527848">caoran-bhiagan</headword>
+      <description>brambles that can be found on heather in the autumn. Could be eaten. [NOTES: note added above ‘b’ in ‘bhiagan’ – m.]</description>
+    </item>
+    <item>
+      <headword id="idp109529576">dith-sheothaich</headword>
+      <description>a weed with green stem and a white head. Would bloat an animal’s stomach if eaten.</description>
+    </item>
+    <item>
+      <headword id="idp109531952">cliurair</headword>
+      <description>a hammer for dressing stones. [NOTES: corrected to ‘cliùrair’.]</description>
+    </item>
+    <item>
+      <headword id="idp109533608">làmhad</headword>
+      <description>a heavier hammer which you used to hit the ‘cliurair’ [q.v.].</description>
+    </item>
+    <item>
+      <headword id="idp109535120">deiseag</headword>
+      <description>velvet crab.</description>
+    </item>
+    <item>
+      <headword id="idp109536632">cròachgainn</headword>
+      <description>whelk. [NOTES: note added above – cròmhcain.]</description>
+    </item>
+    <item>
+      <headword id="idp109538288">giomach cearr</headword>
+      <description>crayfish. [NOTES: ‘cearr’ corrected to ‘ceàrr’.]</description>
+    </item>
+    <item>
+      <headword id="idp109539944">carran creige</headword>
+      <description>rock cod. Noted by having sign of the cross on the back of its neck.</description>
+    </item>
+    <item>
+      <headword id="idp109541456">nead bramaige bleoghain</headword>
+      <description>cow pat.</description>
+    </item>
+    <item>
+      <headword id="idp109542968">mogull</headword>
+      <description>a mesh net.</description>
+    </item>
+    <item>
+      <headword id="idp109544480">cròcan feannaig</headword>
+      <description>sea urchin.</description>
+    </item>
+    <item>
+      <headword id="idp109545992">creachan</headword>
+      <description>clam.</description>
+    </item>
+    <item>
+      <headword id="idp109547504">fiasgan</headword>
+      <description>mussel.</description>
+    </item>
+    <item>
+      <headword id="idp109549016">bradan leathainn</headword>
+      <description>halibut.</description>
+    </item>
+    <item>
+      <headword id="idp109550528">breithe</headword>
+      <description>the rope that ties the creel to the buoy.</description>
+    </item>
+    <item>
+      <headword id="idp109552904">bunnabhachuille</headword>
+      <description>great northern diver. [NOTES: corrected to ‘bunnabhuachuille’.]</description>
+    </item>
+    <item>
+      <headword id="idp109554560">cathan</headword>
+      <description>Canadian goose.</description>
+    </item>
+    <item>
+      <headword id="idp109556072">dobhran</headword>
+      <description>a white precious patch on a seal’s skin.</description>
+    </item>
+    <item>
+      <headword id="idp109557584">feadag</headword>
+      <description>a yellow plover.</description>
+    </item>
+    <item>
+      <headword id="idp109559096">brìdein</headword>
+      <description>oystercatcher. [NOTES: corrected to ‘brìghdein’.]</description>
+    </item>
+    <item>
+      <headword id="idp109560752">branndair</headword>
+      <description>a sort of dam which takes fresh water out to sea. Has iron rods across it to prevent clogging by seaweed.</description>
+    </item>
+    <item>
+      <headword id="idp109562264">tarbh na sialaig</headword>
+      <description>a fish which could be caught in creels.</description>
+    </item>
+    <item>
+      <headword id="idp109563776">coire bliannain</headword>
+      <description>a glittering, scaly substance visible on seaweed at night.</description>
+    </item>
+    <item>
+      <headword id="idp109566224">iuchair</headword>
+      <description>lobster’s eggs.</description>
+    </item>
+    <item>
+      <headword id="idp109567736">craidhainn</headword>
+    </item>
+    <item>
+      <headword id="idp109569248">maodhar</headword>
+      <description>a home-made fishing fly made with hen’s feathers.</description>
+    </item>
+    <item>
+      <headword id="idp109570760">maoghar</headword>
+      <description>[See maodhar.]</description>
+    </item>
+    <item>
+      <headword id="idp110399624">diannag</headword>
+      <description>a year old ewe. [NOTES: corrected to ‘dianag’.]</description>
+    </item>
+    <item>
+      <headword id="idp110401280">shìofall</headword>
+      <description>shovel.</description>
+    </item>
+    <item>
+      <headword id="idp110402792">loisgeann</headword>
+      <description>a sledge with wooden sides, pulled by horses and used for carrying stones.</description>
+    </item>
+    <item>
+      <headword id="idp110404304">deirceinn</headword>
+      <description>a red blister on the bottom of a toe. [NOTES: corrected to ‘deircein’.]</description>
+    </item>
+    <item>
+      <headword id="idp110405960">[dìs]</headword>
+      <description>“Duine a tha dìs” – someone whose natural defences are weak in the face of viruses, etc. [NOTES: corrected to ‘dis’.]</description>
+    </item>
+    <item>
+      <headword id="idp110408480">uchd leum</headword>
+      <description>a way of jumping onto a horse. Lands flat stomached on the horse and then swings the legs over.</description>
+    </item>
+    <item>
+      <headword id="idp110409992">ceilidh ceardaich</headword>
+      <description>a saying for spending a rainy day indoors. [NOTES: corrected to ‘cèilidh ceàrdaich’.]</description>
+    </item>
+    <item>
+      <headword id="idp110411648">’S motha do shùil na do bhrù</headword>
+      <description>expression for greed.</description>
+    </item>
+    <item>
+      <headword id="idp110413160">dubh stamh</headword>
+      <description>black tangle used to alleviate indigestion.</description>
+    </item>
+    <item>
+      <headword id="idp110414672">suthag</headword>
+      <description>a patch for a shoe.</description>
+    </item>
+    <item>
+      <headword id="idp110416184">praoidhligeadh</headword>
+      <description>frying.</description>
+    </item>
+    <item>
+      <headword id="idp110417696">sùlag</headword>
+      <description>fork stamp. An earmark.</description>
+    </item>
+    <item>
+      <headword id="idp110419208">cailleach chòsag</headword>
+      <description>a beast found under stones.</description>
+    </item>
+    <item>
+      <headword id="idp110420720">megan</headword>
+      <description>an earmark. <illustration src="GarrynamonieROHenleymisc7illust1.jpg" width="250"/> [NOTES: corrected to ‘meagan’.]</description>
+    </item>
+    <item>
+      <headword id="idp110423240">meallan uachdrach</headword>
+      <description>L shape in a sheep’s ear. <illustration src="GarrynamonieROHenleymisc7illust2.jpg" width="150"/></description>
+    </item>
+    <item>
+      <headword id="idp110424752">“eil dia sheo”</headword>
+      <description>words that used to be said on entering a house.</description>
+    </item>
+    <item>
+      <headword id="idp110426264">sgaoth</headword>
+      <description>shoal of fish.</description>
+    </item>
+    <item>
+      <headword id="idp110427776">snathad choilear</headword>
+      <description>the needle for sowing a horse’s collar.</description>
+    </item>
+    <item>
+      <headword id="idp110429288">donnag</headword>
+      <description>fish that was found inshore beneath rocks. Usually found after high tide.</description>
+    </item>
+    <item>
+      <headword id="idp110430800">sula</headword>
+      <description>fat on the back of an eel. Sometimes used for rheumatic complaints.</description>
+    </item>
+    <item>
+      <headword id="idp110432312">cròluib</headword>
+      <description>funeral bier. [NOTES: note added above ‘uib’ in ‘cròluib’ – eab.]</description>
+    </item>
+    <item>
+      <headword id="idp110434040">losgadh na tuis</headword>
+      <description>the burning of incense. [NOTES: ‘tuis’ corrected to ‘tùis’.]</description>
+    </item>
+    <item>
+      <headword id="idp110435696">drean dhuinnte</headword>
+      <description>an underground ditch. [NOTES: corrected to ‘drèan dhùinte’.]</description>
+    </item>
+    <item>
+      <headword id="idp110438216">leac air sleamhna</headword>
+      <description>a sharp cliff.</description>
+    </item>
+    <item>
+      <headword id="idp110439728">cùta snadh</headword>
+      <description>prior to balls of wool, wool was measured to the equivalent of an ounce – ‘cùta’. The strands of wool were then made into woollen balls by a process called ‘tachrais’. [NOTES: ‘snadh’ corrected to ‘snàth’.]</description> 
+    </item>
+    <item>
+      <headword id="idp110441384">iall</headword>
+      <description>the sides and bottom of shoes.</description>
+    </item>
+    <item>
+      <headword id="idp110442896">ròsaid</headword>
+      <description>a resin obtained from trees and put on wool. Prevented lice and rain penetrating the skin.</description>
+    </item>
+    <item>
+      <headword id="idp110444408">mini(dh)</headword>
+      <description>a pin with a wooden handle. Used by cobblers prior to the advent of needles.</description>
+    </item>
+    <item>
+      <headword id="idp110445920">fraochan</headword>
+      <description>the decorated part on the nose of a shoe.</description>
+    </item>
+    <item>
+      <headword id="idp110448296">liannaraidh</headword>
+      <description>the green substance that gathers on the surface of peaty water. [NOTES: corrected to ‘lianaraidh’.]</description>
+    </item>
+    <item>
+      <headword id="idp110450024">blàr geal</headword>
+      <description>a white streak in an animal’s coat.</description>
+    </item>
+    <item>
+      <headword id="idp110451536">bun-dearg</headword>
+      <description>blood in a calf’s urine.</description>
+    </item>
+    <item>
+      <headword id="idp110453048">ceathramh-dubh</headword>
+      <description>blackleg. A sort of braxy in cows.</description>
+    </item>
+    <item>
+      <headword id="idp110454560">siollag</headword>
+      <description>equivalent of ‘dàir’ in cows. Desire for mating. “Bha siollag air an làir.” [NOTES: corrected to ‘sìolag’.]</description>
+    </item>
+    <item>
+      <headword id="idp110456360">anart sìollaidh</headword>
+      <description>a sieve made of white cloth.</description>
+    </item>
+    <item>
+      <headword id="idp110458088">seilechag [sic]</headword>
+      <description>a black snail found in wet, dewy grass. A slug.</description>
+    </item>
+    <item>
+      <headword id="idp110459600">bun-dubh</headword>
+      <description>refers to corn that is black at the root.</description>
+    </item>
+    <item>
+      <headword id="idp110461976">brunndail</headword>
+      <description>grumbling.</description>
+    </item>
+    <item>
+      <headword id="idp110463488">smiaradh</headword>
+      <description>process of putting Archangel tar (tearr bhuidhe [q.v.]) in [sic] the sheep’s skin. This was done instead of dipping and prevented lice from loding [sic] [lodging?] in the skin.</description>
+    </item>
+    <item>
+      <headword id="idp110465000">preasa nan luch</headword>
+      <description>tufted vetch. [NOTES: note added – = peasair luch?]</description>
+    </item>
+    <item>
+      <headword id="idp110466656">greim lòin</headword>
+      <description>rheumatism.</description>
+    </item>
+    <item>
+      <headword id="idp110468168">àd bhioraid</headword>
+      <description>made with rushes with a braid / brim. Made for children and worn when they were tending cattle.</description>
+    </item>
+    <item>
+      <headword id="idp110469680">bun dubh</headword>
+      <description>refers to corn that is black at the roots.</description>
+    </item>
+    <item>
+      <headword id="idp110471192">bragaire</headword>
+      <description>a red seaweed. This was spread on the machair and left to dry. It was then heated and sent to the mainland to be used as kelp. Also used as fertiliser for hay crops. Known as ‘Bragaire Fheill Padruig’.</description>
+    </item>
+    <item>
+      <headword id="idp110473568">feamainn bhuidhe neo buidheagach</headword>
+      <description>loch water running into the sea had the effect of turning the seaweed to a yellow colour. Not very good as a fertiliser.</description>
+    </item>
+    <item>
+      <headword id="idp110475080">mapaid</headword>
+      <description>a brush made with animal hair and used for tarring boats.</description>
+    </item>
+    <item>
+      <headword id="idp110476664">cailleachan-uisge</headword>
+      <description>soggy potatoes.</description>
+    </item>
+    <item>
+      <headword id="idp110478176">balg uisge</headword>
+      <description>this water bag preceded the birth of a calf. People could judge the time of birth once this water bag had been produced.</description>
+    </item>
+    <item>
+      <headword id="idp110480552">bocsa roighdaidh</headword>
+      <description>a large wooden box 15" x 12" used for keeping lobsters fresh for a fortnight. This was floated inshore at a time when lobster collections did not take place so often.</description>
+    </item>
+    <item>
+      <headword id="idp110482064">iasg drioman</headword>
+      <description>a fish that could not be caught by hook. Instead it was caught by holding a net in the air thereby catching the fish when it leapt up. It could jump about 24". A red mullet.</description>
+    </item>
+    <item>
+      <headword id="idp110483576">runnach clabach</headword>
+      <description>a small, brown coloured mackerel used for bait but not for household purposes.</description>
+    </item>
+    <item>
+      <headword id="idp110485088">pronnastan</headword>
+      <description>this was the sulphur put in rocks to keep iron posts in place.</description>
+    </item>
+    <item>
+      <headword id="idp110487536">garradh droma</headword>
+      <description>a turf wall made in moorland with the objective of preventing sheep from straying infield. Prior to the era of fences. [NOTES: ‘garradh’ corrected to ‘gàrradh’.]</description>
+    </item>
+    <item>
+      <headword id="idp110489192">haillead</headword>
+      <description>the rope by which the sail was hoisted. [NOTES: note added – from ‘halyard’.]</description>
+    </item>
+    <item>
+      <headword id="idp110490848">’ga hòiseadh</headword>
+      <description>lifting the sail against the mast. [NOTES: note added – from ‘hoist’.]</description>
+    </item>
+    <item>
+      <headword id="idp110492504">riofainean</headword>
+      <description>small ropes which were beside each other on the sail. In windy conditions four of these would be tied to make the sail smaller.</description>
+    </item>
+    <item>
+      <headword id="idp110494016">marag mhaduinn</headword>
+      <description>oatmeal, flour, onions, lard, salt and pepper. Mixed together and baked in a cake tin. Left to cool till morning, then fried and eaten with the usual breakfast.</description>
+    </item>
+    <item>
+      <headword id="idp110496392">sgùdladh</headword>
+      <description>messing about in water. [NOTES: corrected to ‘sgudladh’.]</description>
+    </item>
+    <item>
+      <headword id="idp110498048">bonnach grùthainn</headword>
+      <description>a saithe’s liver mixed with flour. Boiled in the same pot as the saithe but separated by being placed on a plate at the top of the pot.</description>
+    </item>
+    <item>
+      <headword id="idp110499560">buinnteagan</headword>
+      <description>a red coloured plant that grew in weak soil. Could be eaten and had a sour taste.</description>
+    </item>
+    <item>
+      <headword id="idp110501072">slinndair</headword>
+      <description>a long flat stone used as a bridge across a ditch or river.</description>
+    </item>
+    <item>
+      <headword id="idp110502656">a bhuaill(e) àird</headword>
+      <description>the highest hill in the middle part of a village.</description>
+    </item>
+    <item>
+      <headword id="idp110504168">miomhalaich</headword>
+      <description>licking something. “Bha iad miomhalach [sic] air strùthan.” [NOTES: corrected to ‘mìomhalach’.]</description>
+    </item>
+    <item>
+      <headword id="idp110505968">clìopadh</headword>
+      <description>an earmark where a line goes through almost all of the ear leaving it without feeling so that it folds over. [NOTES: corrected to ‘cliopadh’.]</description>
+    </item>
+    <item>
+      <headword id="idp110508488">an ubhla bhàn</headword>
+      <description>a red and white seen on the potato leaves. Usually seen in July.</description>
+    </item>
+    <item>
+      <headword id="idp110510000">spearrach</headword>
+      <description>used to tie sheep’s legs when it was being sheared or slaughtered.</description>
+    </item>
+    <item>
+      <headword id="idp110511512">eiteach</headword>
+      <description>what is left after heather fires. Black dust.</description>
+    </item>
+    <item>
+      <headword id="idp110513024">gucag bhàite</headword>
+      <description>a cupped plant found in lochs, usually in the deepest part of the loch. [NOTES: note added – water-lily.]</description>
+    </item>
+    <item>
+      <headword id="idp110514680">brèide</headword>
+      <description>bandage.</description>
+    </item>
+    <item>
+      <headword id="idp110516192">cuaran</headword>
+      <description>a leather stookie for an injured finger. Like the finger of a glove and tied behind the wrist with a leather strap.</description>
+    </item>
+    <item>
+      <headword id="idp110518568">ciutagan</headword>
+      <description>home-made stockings.</description>
+    </item>
+    <item>
+      <headword id="idp110520080">corca a mhadaidh ruaidh</headword>
+      <description>a white-leafed grass that grew in land that had been ploughed the previous year.</description>
+    </item>
+    <item>
+      <headword id="idp110521592">fòdhlach</headword>
+      <description>a soft grass that grew on the machair, especially in the cattle fold (cuidhe). Of poorer quality than normal grass.</description>
+    </item>
+    <item>
+      <headword id="idp110523104">annaid</headword>
+      <description>the leavings of dough which are thrown away.</description>
+    </item>
+    <item>
+      <headword id="idp110524616">peam a’ bhaile</headword>
+      <description>this refers to the people in a village who dealt with administrative and land questions. The more intelligent in a village. [NOTES: ‘peam’ corrected to ‘pèam’.]</description>
+    </item>
+    <item>
+      <headword id="idp110526272">lòn shitig</headword>
+      <description>applied to an untidy, dirty house.</description>
+    </item>
+    <item>
+      <headword id="idp110527784">daithearra</headword>
+      <description>dark, dusky appearance.</description>
+    </item>
+    <item>
+      <headword id="idp110530160">claisainneach</headword>
+      <description>a deed or utterance being spread far and wide. “Bhiodh e claisainneach sin a radh.”</description>
+    </item>
+    <item>
+      <headword id="idp110236936">deargan traghad</headword>
+      <description>lice found on seaweed. [NOTES: ‘traghad’ corrected to ‘tràghad’.]</description>
+    </item>
+    <item>
+      <headword id="idp110238592">feodhachan deoch</headword>
+      <description>tipsy. [NOTES: notes added – ‘Bha’ before the phrase and ‘air’ after forming a sentence ‘Bha feodhachan deoch air.’]</description>
+    </item>
+    <item>
+      <headword id="idp110240248">maodhag</headword>
+      <description>the first egg laid by a hen. Notable by the absence of the egg shell.</description>
+    </item>
+    <item>
+      <headword id="idp110241760">a’ càsaigeadh chlach</headword>
+      <description>in road building. Process of putting rocks in the appropriate places.</description>
+    </item>
+    <item>
+      <headword id="idp110243272">saoidhainn cruaidh</headword>
+      <description>after being salted the fish was dried above the fire. It was then put in sacks and eaten during the winter.</description>
+    </item>
+    <item>
+      <headword id="idp110245648">clàragan</headword>
+      <description>for unsightly, protruding teeth.</description>
+    </item>
+    <item>
+      <headword id="idp110247160">cnagan</headword>
+      <description>bits of wood that were part of the tether on a horse. The bits of wood were on each side of the horse’s face and when the horse tugged at the tether the wood tightened on each side.</description>
+    </item>
+    <item>
+      <headword id="idp110248672">leasachadh</headword>
+      <description>extra seaweed being put on the land.</description>
+    </item>
+    <item>
+      <headword id="idp110250184">feaslaichean</headword>
+      <description>warble fly. Picked up from the ground and developed through the cow’s leg till it reached its back. Would be ready to be uprooted in summer. [NOTES: corrected to ‘fèaslaichean’.]</description>
+    </item>
+    <item>
+      <headword id="idp110251840">stallan</headword>
+      <description>a horse that has not been castrated.</description>
+    </item>
+    <item>
+      <headword id="idp110253352">anabristeadh</headword>
+      <description>applied to someone who was short of breath. [NOTES: notes added – ‘Thàinig’ before the word and ‘air’ after to form a sentence ‘Thàinig anabristeadh air.’]</description> 
+    </item>
+    <item>
+      <headword id="idp110255872">torra</headword>
+      <description>auger, borer. A joiner’s tool.</description>
+    </item>
+    <item>
+      <headword id="idp110257384">giomalaid</headword>
+      <description>another word for the above [i.e. auger, borer; cf. torra].</description>
+    </item>
+    <item>
+      <headword id="idp110258968">galair an dumalais</headword>
+      <description>the disease whereby the green/blue bile sachet on a liver burst with the result that the animal was poisoned.</description>
+    </item>
+    <item>
+      <headword id="idp110260480">a’ bhoill</headword>
+      <description>a disease affecting the head of the horse. Its symptoms were an acute form of dizziness which resulted in death. The illness had a plant or root as its origin. [NOTES: corrected to ‘a’ bhoil’.]</description> 
+    </item>
+    <item>
+      <headword id="idp110262136">pliusgan</headword>
+      <description>the flukes of an anchor. [NOTES: corrected to ‘pliùsgan’.]</description>
+    </item>
+    <item>
+      <headword id="idp110263792">coite</headword>
+      <description>a skiff (small boat).</description>
+    </item>
+    <item>
+      <headword id="idp110265304">geingeichean iaruinn</headword>
+      <description>iron rods used for splitting rocks. From eight to twelve inches in length.</description>
+    </item>
+    <item>
+      <headword id="idp110268544">siochdaire</headword>
+      <description>a piteous person. [NOTES: corrected to ‘sìochdaire’.]</description>
+    </item>
+    <item>
+      <headword id="idp110270200">dìorsnain</headword>
+      <description>draught players – the actual objects.</description>
+    </item>
+    <item>
+      <headword id="idp110271856">casan cainnaba</headword>
+      <description>an indication of bad weather. Took the form of rays descending from the rain clouds and going past through the sun.</description>
+    </item>
+    <item>
+      <headword id="idp110273368">breacadh a’ runnaich</headword>
+      <description>scaly appearance of the clouds indicating rain. Usually seen in the evening. Like a mackerel’s back.</description>
+    </item>
+    <item>
+      <headword id="idp110274880">faiche</headword>
+      <description>inlets near the shore where lobsters could be caught at low tide. Caught with the aid of a ‘croman’.</description>
+    </item>
+    <item>
+      <headword id="idp110276392">geallach an abaichidh</headword>
+      <description>seen in mid October. Distinct since it was lower than in the other seasons.</description>
+    </item>
+    <item>
+      <headword id="idp110278768">paisainn</headword>
+      <description>another word for a faint. [NOTES: note added above ‘ainn’ in ‘paisainn’ – ean.]</description>
+    </item>
+    <item>
+      <headword id="idp110280424">coimheadaidh</headword>
+      <description>someone who was employed to ensure that sheep did not stray from the hills to lower ground in the village.</description>
+    </item>
+    <item>
+      <headword id="idp110281936">dealachadh nan tràithean</headword>
+      <description>when day becomes night.</description>
+    </item>
+    <item>
+      <headword id="idp110283448">miall</headword>
+      <description>an ulcer on a horse’s upper lip.</description>
+    </item>
+    <item>
+      <headword id="idp110284960">aotroman</headword>
+      <description>bladder.</description>
+    </item>
+    <item>
+      <headword id="idp110286472">geithe cruinn</headword>
+      <description>the part of a plough where the handles join the bottom of the plough.</description>
+    </item>
+    <item>
+      <headword id="idp110287984">badag</headword>
+      <description>a duster made of feathers used to clean ovens or a griddle.</description>
+    </item>
+    <item>
+      <headword id="idp110289568">caitheamh</headword>
+      <description>tuberculosis.</description>
+    </item>
+    <item>
+      <headword id="idp110291944">tàl</headword>
+      <description>a carpenter’s tool for cutting away surface wood. Like an axe with an arched blade at right angles to the handle.</description>
+    </item>
+    <item>
+      <headword id="idp110293456">lòn thunnag</headword>
+      <description>where ducks swam and cleaned themselves.</description>
+    </item>
+    <item>
+      <headword id="idp110294968">èan bàn a’ sgadain</headword>
+      <description>gannet. [NOTES: ‘èan’ corrected to ‘èun’.]</description>
+    </item>
+    <item>
+      <headword id="idp110296624">lacha choilaireach</headword>
+      <description>a duck with a white ring round its neck.</description>
+    </item>
+    <item>
+      <headword id="idp110298136">sgarbh buill</headword>
+      <description>cormorant with a white circle on its side. [NOTES: ‘buill’ corrected to ‘buil’.]</description>
+    </item>
+    <item>
+      <headword id="idp110299792">sgarbh topanach</headword>
+      <description>cormorant with one single black feather sticking out of its head.</description>
+    </item>
+    <item>
+      <headword id="idp110301304">cluasan torclach</headword>
+      <description>Highland calves born with the distinct mark of having pierced ears. More than one hole in each ear. A genealogical feature.</description>
+    </item>
+    <item>
+      <headword id="idp110303680">an t-suil liath</headword>
+      <description>near the ‘maodal mór’? Bile duct, organ for secretion? Check.</description>
+    </item>
+    <item>
+      <headword id="idp110305192">marag dhùthcha</headword>
+      <description>the entrail that carries excretion.</description>
+    </item>
+    <item>
+      <headword id="idp110306704">deisginn</headword>
+      <description>not rennet but something that was close to the ‘maodal mór’.</description>
+    </item>
+    <item>
+      <headword id="idp110308216">mogainn</headword>
+      <description>the hairs on the lower part of a horse’s foot. [NOTES: corrected to ‘mogain’.]</description>
+    </item>
+    <item>
+      <headword id="idp110309872">luidhainnean</headword>
+      <description>fetlock. [NOTES: note added above – luidheinean.]</description>
+    </item>
+    <item>
+      <headword id="idp110311528">maothan</headword>
+      <description>the tender bit at the bottom of a horse’s foot. Could be painful if a horse was badly shod.</description>
+    </item>
+    <item>
+      <headword id="idp110313040">ballan uisge</headword>
+      <description>a water tub.</description>
+    </item>
+    <item>
+      <headword id="idp110314552">lùga</headword>
+      <description>a bait obtained from the shore. Grey worms. [NOTES: corrected to ‘luga’.]</description>
+    </item>
+    <item>
+      <headword id="idp110317072">ciaban</headword>
+      <description>gullet.</description>
+    </item>
+    <item>
+      <headword id="idp110318584">sgròban</headword>
+      <description>the red bit of flesh under a cockerel’s throat.</description>
+    </item>
+    <item>
+      <headword id="idp110320096">glùinean</headword>
+      <description>iron bands on the sides of a cart.</description>
+    </item>
+    <item>
+      <headword id="idp110321608">tinneas a’ rìgh</headword>
+      <description>an open wound in the neck. Constantly septic and flowing. If the wound was closed, this would result in death.</description>
+    </item>
+    <item>
+      <headword id="idp110323120">cailleach chathaidh</headword>
+      <description>a box with metal drums inside it. Used for winnowing. When you turned its handle round, the chaff was blown out through holes in the drums. [NOTES: ‘chathaidh’ corrected to ‘chàthaidh’.]</description>
+    </item>
+    <item>
+      <headword id="idp110324848">eithe</headword>
+      <description>a file.</description>
+    </item>
+    <item>
+      <headword id="idp110326360">balg snamh</headword>
+      <description>next to the fish’s backbone. [NOTES: ‘snamh’ corrected to ‘shnàmh’.]</description>
+    </item>
+    <item>
+      <headword id="idp110328880">currain nan each</headword>
+      <description>a carrot-shaped weed given to horses as food. Found on the machair.</description>
+    </item>
+    <item>
+      <headword id="idp110330392">stiurr a’ ghiomaich</headword>
+      <description>a lobster’s antennae. [NOTES: ‘stiurr’ corrected to ‘stiùr’.]</description>
+    </item>
+    <item>
+      <headword id="idp110332048">druim sùirn</headword>
+      <description>a bit of wood going across the kiln. The ‘ciullean’ were attached to this. <illustration src="GarrynamonieROHenleymisc7illust3.jpg" width="400"/></description>
+    </item>
+    <item>
+      <headword id="idp110333560">moull</headword>
+      <description>oatmeal and water. Given to horses for nourishment. [NOTES: corrected to ‘moll’.]</description>
+    </item>
+    <item>
+      <headword id="idp110335216">locair ghròbaidh</headword>
+      <description>lister plane.</description>
+    </item>
+    <item>
+      <headword id="idp110336728">feobhas</headword>
+      <description>relief, healing. “Fhuair e feobhas.”</description>
+    </item>
+    <item>
+      <headword id="idp110338384">cròcan gaosaid</headword>
+      <description>a wooden cross used for rope-making.</description>
+    </item>
+    <item>
+      <headword id="idp110339896">sùgan</headword>
+      <description>a grass rope.</description>
+    </item>
+    <item>
+      <headword id="idp110342272">cris cabhlaich</headword>
+      <description>a rope made of straw. [NOTES: note added above – crios connlaich/cannlaich.]</description>
+    </item>
+    <item>
+      <headword id="idp110344000">colomadh</headword>
+      <description>another word for dyeing.</description>
+    </item>
+    <item>
+      <headword id="idp110345512">githeagan tolltach</headword>
+      <description>a thistle found in corn crops. Note as sore a sting as with the original.</description>
+    </item>
+    <item>
+      <headword id="idp110347024">snagadaich</headword>
+      <description>chattering.</description>
+    </item>
+    <item>
+      <headword id="idp110348536">cobla</headword>
+      <description>a small boat used between the shore and a boat on a mooring. [NOTES: corrected to ‘còbla’.]</description>
+    </item>
+    <item>
+      <headword id="idp110350264">ruaigean</headword>
+      <description>an excursion, a walk, visit, etc. “Chaidh mi air ruaig sìos am baile.”</description>
+    </item>
+    <item>
+      <headword id="idp110351920">sgarbh sgùmbain</headword>
+      <description>same as previously mentioned ‘sgarbh topanach’ [q.v.]. [NOTES: ‘sgùmbain’ corrected to ‘sgumbain’.]</description>
+    </item>
+    <item>
+      <headword id="idp110353648">aileasach</headword>
+      <description>fussy person. Difficult to please. [NOTES: corrected to ‘àileasach’.]</description>
+    </item>
+  </items>
+</fieldworkDocument>
+

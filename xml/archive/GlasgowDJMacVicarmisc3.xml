@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 3 6 14 -->
+<fieldworkDocument docId="AOHenley_GlasgowDJMacVicarmisc3" docType="wordlist" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>[1987-88]</date>
+  <fieldworker personId="ohenleya">A. O’Henley</fieldworker>
+  <note>[NOTES: some notes added (most probably by K. D. MacDonald?). See below for details.]</note>
+  <informant>
+    <nameEnglish>D. J. MacVicar</nameEnglish>
+    <origin>[Note: From North Uist, information from Alex O’Henley / RÓM 4 Dec 2023]</origin>
+  </informant>
+  <location>[Glasgow]</location>
+  <items>
+    <item>
+      <headword id="idp112448160">leibhidh</headword>
+      <description>[NOTES: definition added in second hand – souming.]</description>
+    </item>
+    <item>
+      <headword id="idp112453560">leabhainn</headword>
+      <description>grain loft inside a mill.</description>
+    </item>
+    <item>
+      <headword id="idp112424112">eubhaiseach</headword>
+      <description>large person. “Nach e bha…”</description>
+    </item>
+    <item>
+      <headword id="idp112534128">peursa</headword>
+      <description>signal pole in a village which would be raised to gather the villagers. Usually placed on a hill.</description>
+    </item>
+    <item>
+      <headword id="idp112491144">àrd-bhuinn</headword>
+      <description>threshold.</description>
+    </item>
+    <item>
+      <headword id="idp112514400">sorn</headword>
+      <description>raised stone platform beside the fire. Also used for the wall inside a kiln.</description>
+    </item>
+    <item>
+      <headword id="idp112441680">sorrachan</headword>
+      <description>fireplace.</description>
+    </item>
+    <item>
+      <headword id="idp112448016">sioman</headword>
+      <description>rope for drying clothes above the fire.</description>
+    </item>
+    <item>
+      <headword id="idp112535928">ballan</headword>
+      <description>barrel.</description>
+    </item>
+    <item>
+      <headword id="idp112525920">starsach</headword>
+      <description>footpath around the house.</description>
+    </item>
+    <item>
+      <headword id="idp112520016">seapan</headword>
+      <description>measure of alcohol. A quart or 2 pints.</description>
+    </item>
+    <item>
+      <headword id="idp112465080">lìopain</headword>
+      <description>dry measure used for flour and grain. Not sure of exact measurement.</description>
+    </item>
+    <item>
+      <headword id="idp112458312">dean</headword>
+      <description>plump of rain. “Nach i rinn an dean uisge.” [NOTES: corrected to ‘deann’.]</description>
+    </item>
+    <item>
+      <headword id="idp112462128">cnap</headword>
+      <description>used for an overcast sky.</description>
+    </item>
+    <item>
+      <headword id="idp112465440">fionnar</headword>
+      <description>fresh wind.</description>
+    </item>
+    <item>
+      <headword id="idp112428072">tais</headword>
+      <description>damp weather.</description>
+    </item>
+    <item>
+      <headword id="idp112436352">cuireach</headword>
+      <description>damp drizzle. [NOTES: corrected to ‘ciurach’.]</description>
+    </item>
+    <item>
+      <headword id="idp112540536">bog-balbh</headword>
+      <description>calm, dead flat.</description>
+    </item>
+    <item>
+      <headword id="idp112048144">buaillaidh</headword>
+      <description>a halo on the moon.</description>
+    </item>
+    <item>
+      <headword id="idp112050520">smùid</headword>
+      <description>used for gusts of wind. “Nach ann orra a tha smuid [sic].”</description>
+    </item>
+    <item>
+      <headword id="idp112052176">ceann-dubh</headword>
+      <description>eclipse.</description>
+    </item>
+    <item>
+      <headword id="idp112053688">geallach-mhùgach</headword>
+      <description>dim.</description>
+    </item>
+    <item>
+      <headword id="idp112055200">an grioglachan [sic]</headword>
+      <description>Milky Way.</description>
+    </item>
+    <item>
+      <headword id="idp112056712">ré</headword>
+      <description>also used for moon.</description>
+    </item>
+    <item>
+      <headword id="idp112058224">teine-adhar</headword>
+      <description>thunderbolt.</description>
+    </item>
+    <item>
+      <headword id="idp112059736">gaoth pheathreach</headword>
+      <description>hurricane. [NOTES: note added above ‘pheathreach’ – bheithreach.]</description>
+    </item>
+    <item>
+      <headword id="idp112061464">spliucach</headword>
+      <description>drizzly, miserable weather. [NOTES: corrected to ‘spliugach’.]</description>
+    </item>
+    <item>
+      <headword id="idp112063120">pleòtag (-an)</headword>
+      <description>snowflake(s).</description>
+    </item>
+    <item>
+      <headword id="idp112064632">cathadh</headword>
+      <description>drifting snow.</description>
+    </item>
+    <item>
+      <headword id="idp112066144">cathadh làir</headword>
+      <description>powdery snow.</description>
+    </item>
+    <item>
+      <headword id="idp112067656">cathadh mara</headword>
+      <description>froth flying off the waves.</description>
+    </item>
+    <item>
+      <headword id="idp112070032">siaban</headword>
+      <description>spindrift.</description>
+    </item>
+    <item>
+      <headword id="idp112071544">eileanan-mara</headword>
+      <description>tidal islands.</description>
+    </item>
+    <item>
+      <headword id="idp112073056">rùid</headword>
+      <description>swell.</description>
+    </item>
+    <item>
+      <headword id="idp112074568">ioma-ghaoth</headword>
+      <description>an eddy, swirling wind, i.e. around a house.</description>
+    </item>
+    <item>
+      <headword id="idp112076080">searrag</headword>
+      <description>another word for bottle.</description>
+    </item>
+  </items>
+</fieldworkDocument>
+

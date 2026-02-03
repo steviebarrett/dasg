@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 1/4/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Word-lists_GairlochDMacLeodmisc" docType="wordlist" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>29/8/1967</date>
+  <fieldworker>[self]</fieldworker>
+  <informant>
+    <nameEnglish>Duncan MacLeod</nameEnglish>
+  </informant>
+  <location>Ross-shire, Gairloch, Achtercairn School</location>
+  <items>
+    <item>
+      <headword id="idp161205160">gobhlag</headword>
+      <description>The confusion over “gobhlag” seems to have arisen through a wrong spelling. Did I really have “goblag” in the paper? It is in fact the “graip” of every Highland croft. I was surprised to find it included among the implements used locally because farther north it would be considered “sloppy” work to have to resort to this. (‘o’ as in ‘bó’) [NOTES: the paper Mr MacLeod refers to is most probably the peat questionnaire of Sgoil Achadh a’ Chairn (Auchtercairn School).]</description>
+    </item>
+    <item>
+      <headword id="idp161206816">rughan Frangach</headword>
+      <description>“Rughan Frangach” is more complicated. It would seem to be the “learner’s” or “stranger’s” or “foreigner’s” way of making a “rughan”. These amateurs would use the easy method of laying the peat lengthwise instead of on end as in the proper “rughan”. So a child might be told when his “rughan” keeps falling in – “Dean rughan Frangach”. The name is not in common use now however. (I find the local staff know it – delete last sentence.) [NOTES: again, the term appears in the above-mentioned peat questionnaire.]</description>
+    </item>
+  </items>
+</fieldworkDocument>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 7 5 13 -->
+<fieldworkDocument xmlns:php="http://php.net/xsl" docId="Agriculture_StornowayAMacLeanhorseharness" docType="questionnaire" subType="HorseHarness">
+  <title>Uidheamachd Eich / Horse Harness</title>
+  <fieldworker>[self?]</fieldworker>
+  <note>[NOTES: the page is stuck between the sheets of Mr Donald MacPhail’s ‘Land Cultivation’ questionnaire. The introductory ‘Contributed by Mr Angus MacLean…’ seems to be in Mr MacPhail’s handwriting.]</note>
+  <informant>
+    <nameEnglish>Angus MacLean</nameEnglish>
+  </informant>
+  <location>[Lewis], Stornoway</location>
+  <items>
+    <item>
+      <headword id="d0e27">sparrag</headword>
+      <description>bit.</description>
+    </item>
+    <item>
+      <headword id="d0e36">sroinein</headword>
+      <description>strap across nose.</description>
+    </item>
+    <item>
+      <headword id="d0e45">smeachan</headword>
+      <description>strap below jaws.</description>
+    </item>  
+    <item>
+      <headword id="d0e54">claigionn</headword>
+      <description>blinders.</description>
+    </item>
+    <item>
+      <headword id="d0e63">gogalaich</headword>
+      <description>blinders.</description>
+    </item>
+    <item>
+      <headword id="d0e72">braid-chluaisein</headword>
+      <description>hames.</description>
+    </item>
+    <item>
+      <headword id="d0e81">cromag tarraing</headword>
+      <description>hooks on harness. [NOTES: originally ‘tarruing’.]</description>
+    </item>  
+    <item>
+      <headword id="d0e90">cromagan na briochis</headword>
+      <description>[sic] hooks on harness.</description>
+    </item>    
+    <item>
+      <headword id="d0e99">sineachan tarraing</headword>
+      <description>parts on back sides. [NOTES: originally ‘tarruing’.]</description>
+    </item>
+    <item>
+      <headword id="d0e108">iall na h-iasgaid</headword>
+      <description>parts round hindquarters.</description>
+    </item>
+    <item>
+      <headword id="d0e117">iall na leasraidh</headword>
+      <description>loin strap.</description>
+    </item>  
+    <item>
+      <headword id="d0e126">giort na cartach</headword>
+      <description>rump band.</description>
+    </item>
+    <item>
+      <headword id="d0e135">bonn dronain</headword>
+      <description>rump band.</description>
+    </item>
+    <item>
+      <headword id="d0e144">braidghe</headword>
+      <description>[sic] collar.</description>
+    </item>
+    <item>
+      <headword id="d0e153">braid</headword>
+      <description>collar.</description>
+    </item>  
+    <item>
+      <headword id="d0e162">dromanach</headword>
+      <description>back chain.</description>
+    </item>          
+    <item>
+      <headword id="d0e171">diolaid</headword>
+      <description>riding saddle.</description>
+    </item>
+    <item>
+      <headword id="d0e180">srein</headword>
+      <description>reins.</description>
+    </item>  
+    <item>
+      <headword id="d0e189">srian</headword>
+      <description>reins.</description>
+    </item>       
+    <item>
+      <headword id="d0e198">asair, fasair</headword>
+      <description>harness.</description>
+    </item>
+    <item>
+      <headword id="d0e207">cromag tarruing</headword>
+      <description>draught-hook.</description>
+    </item>  
+    <item>
+      <headword id="d0e216">bonn dronnain</headword>
+      <description>rump band. [NOTES: see above where it is spelled ‘bonn dronain’.]</description>
+    </item>   
+    <item>
+      <headword id="d0e225">guailleachain</headword>
+      <description>shoulder strap.</description>
+    </item>           
+  </items>
+</fieldworkDocument>

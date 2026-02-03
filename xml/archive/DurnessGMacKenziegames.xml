@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 15 1 15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="DRMorrisonetal_DurnessGMacKenziegames" docType="questionnaire" subType="RecreationToys,Games,Contests" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Cur-seachadan: Dèideagan, Geamaichean is Farpaisean / Recreation: Toys, Games, Contests</title>
+  <date>[1970]</date>
+  <fieldworker>[self]</fieldworker>
+  <informant>
+    <nameEnglish>George MacKenzie</nameEnglish>
+    <age>67</age>
+    <origin>Assynt, Stoer</origin>
+  </informant>
+  <location>Sutherland, Lairg, Durness</location>
+  <items>
+    <item>
+      <headword id="d0e33" type="heading" level="h1">1. Toys</headword>
+    </item>
+    <item>
+      <headword id="d0e39" type="heading" level="h1">2. Swings, see-saws</headword>
+    </item>
+    <item>
+      <headword id="d0e45" type="heading" level="h1">3. Games played indoors</headword>
+    </item>
+    <item>
+      <headword id="d0e51" type="heading" level="h1">4. Outdoor games not involving a ball or puck</headword>
+    </item>
+    <item>
+      <headword id="d0e57" type="heading" level="h1">5. Ball games</headword>
+    </item>
+    <item>
+      <headword id="idp119892424">ioman</headword>
+      <description>shinty. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp119939224">cammag</headword>
+      <description>shinty stick. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp119939080">creg</headword>
+      <description>shinty ball (usually constructed of wood). (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp119942464">tuagal</headword>
+      <description>goal. Subsequently called “hail” when shinty was played to modern shinty rules. (Stoer, Assynt) Shinty was always played on New Year’s Day, “Latha na Callain”. Two townships would compete, and after the match was finished the visiting team would try and dribble the “creg” out of the township. I saw old boddich of  70 running out with walking sticks to prevent the “creg” being taken out of the township, which was considered a great disgrace! So long as the numbers were equal there appeared to be no limit to the number on each side for the actual match. I played for Caberfeidh Shinty Team, but it was child’s play in comparison to those New Year’s Games! At half time – the match was usually two hours – whisky was distributed – not lemons! Incidentally, if a visiting township managed to get the creg away, they had the privilege of having the match in their township next New Year.</description>
+    </item>
+    <item>
+      <headword id="idp119888608">bas na cas</headword>
+      <description>stick thrown in the air for choosing which way to play, or who had the first choice in picking sides. If the head (bas) came down first the man who shouted that word “won the toss”. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="d0e108" type="heading" level="h1">6. Athletics</headword>
+    </item>
+    <item>
+      <headword id="idp119885656">leam fada</headword>
+      <description>long jump.</description>
+    </item>
+    <item>
+      <headword id="idp119965072">leam ard</headword>
+      <description>high jump.</description>
+    </item>
+    <item>
+      <headword id="idp119963632">cur a muilkan</headword>
+      <description>somersault.</description>
+    </item>
+    <item>
+      <headword id="idp119962048">ruith reis</headword>
+      <description>run a race.</description>
+    </item>
+    <item>
+      <headword id="idp119959384">reis gurraid</headword>
+      <description>sprint.</description>
+    </item>
+    <item>
+      <headword id="idp119958160">reis ada</headword>
+      <description>long distance race.</description>
+    </item>
+    <item>
+      <headword id="d0e168" type="heading" level="h1">7. Heavy events</headword>
+    </item>
+    <item>
+      <headword id="idp119955208">cur na cloich</headword>
+      <description>shot putt. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp119953480">tigal a’ ord</headword>
+      <description>throwing the hammer. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp119960392">cur a cabar</headword>
+      <description>tossing the caber. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="d0e201" type="heading" level="h1">8. Contests involving pulling or pushing</headword>
+    </item>
+    <item>
+      <headword id="idp119927632">mada leisg</headword>
+      <description>the lazy stick – two men sitting on the ground with the stick held between them. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="d0e216" type="heading" level="h1">9. Boxing and wrestling</headword>
+    </item>
+    <item>
+      <headword id="idp119922808">boxagig</headword>
+      <description>boxing. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp119919208">glec drooma</headword>
+      <description>wrestling. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp120005536">pullie</headword>
+      <description>a boxer (probably from pugilist). (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="d0e249" type="heading" level="h1">10. Blows in general</headword>
+    </item>
+    <item>
+      <headword id="idp120000424">bula chruiadh</headword>
+      <description>[sic] hard or heavy blow. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp119998192">scalk</headword>
+      <description>slap. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp119994304">breb</headword>
+      <description>a kick. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp115761824">put le ceann</headword>
+      <description>butt with the head. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="d0e291" type="heading" level="h1">11. Injury and exhaustion</headword>
+    </item>
+    <item>
+      <headword id="idp115764200">putta</headword>
+      <description>a lump raised on head or forehead by a blow. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp115765784">garraig</headword>
+      <description>a cut. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp115767296">scossig</headword>
+      <description>a sprain. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp115768808">fallais</headword>
+      <description>sweating. (Stoer, Assynt)</description>
+    </item>
+  </items>
+</fieldworkDocument>

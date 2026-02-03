@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 5/8/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_Applecrossvariousslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>[see below]</date>
+  <informant>
+    <nameEnglish>[see below]</nameEnglish>
+    <nameGaelic>various </nameGaelic>
+  </informant>
+  <location>Applecross</location>
+  <items>
+    <item>
+      <headword id="idp167336456">miothal-mothal</headword>
+      <description>Quotation: Tha h-uile dad miothal-mothul aca. Notes: referring to disarrayed furniture of people who had newly moved house, cf. mothal, odds and ends. Source: Mrs A. Beaton. Date: 1968.</description>
+    </item>
+    <item>
+      <headword id="idp167338256">monasg</headword>
+      <description>Quotation: Bha fon a’ bhial aige ’na mhonasg (of cat hit by car). Notes: pulp, mash. Source: John MacRae. Date: 1967.</description>
+    </item>
+    <item>
+      <headword id="idp167340056">muir</headword>
+      <description>Quotation: Chuir e na muirean sin dheth. Notes: voluble complaining. Source: Mrs N. Morrison, Kenmore. Date: 1970.</description>
+    </item>
+    <item>
+      <headword id="idp167341856">conn</headword>
+      <description>Notes: thread used for tying a hank of yarn. Source: Mrs M. MacDonald. Date: 1975.</description>
+    </item>
+    <item>
+      <headword id="idp167343512">gugaill</headword>
+      <description>Quotation: Bha i ’na gugaill aig a’ rathad. Notes: used of person in crouched position. Source: Mrs K. B. Clark. Date: 1971.</description>
+    </item>
+    <item>
+      <headword id="idp167345312">arrachd</headword>
+      <description>Notes: used of mischievous boy. Source: G. Gordon. Date: 1950.</description>
+    </item>
+    <item>
+      <headword id="idp167346968">clisich</headword>
+      <description>Notes: wooden vent in barn wall. Source: Mrs A. Gillies. Date: 1964.</description>
+    </item>
+    <item>
+      <headword id="idp167348624">dàsannach</headword>
+      <description>[ˈdɑ:səNəx] Notes: audacious. Source: Mrs Iain MacBeath. Date: 1966.</description>
+    </item>
+  </items>
+</fieldworkDocument>

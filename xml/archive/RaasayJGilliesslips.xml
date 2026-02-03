@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 23/10/15 -->
+<!-- illustration -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_RaasayJGilliesslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>07/1970</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <informant>
+    <nameEnglish>J. Gillies</nameEnglish>
+  </informant>
+  <location>Raasay</location>
+  <items>
+    <item>
+      <headword id="idp115479376">leumadair-uaine</headword>
+      <description>Notes: grasshopper.</description>
+    </item>
+    <item>
+      <headword id="idp115440064">liadh</headword>
+      <description>Quotation: liadh a’ raimh. Notes: blade of the oar.</description>
+    </item>
+    <item>
+      <headword id="idp115446472">mac-lamhaich</headword>
+      <description>Notes: monkfish.</description>
+    </item>
+    <item>
+      <headword id="idp115472536">màthair-an-duilisg</headword>
+      <description>Notes: carrageen.</description>
+    </item>
+    <item>
+      <headword id="idp162109976">mol</headword>
+      <description>Notes: shingle.</description>
+    </item>
+    <item>
+      <headword id="idp162111488">muc-mharadh</headword>
+      <description>[mũ̜xkvɑɾəɣ] Notes: whale.</description>
+    </item>
+    <item>
+      <headword id="idp162113216">peileag</headword>
+      <description>Notes: porpoise.</description>
+    </item>
+    <item>
+      <headword id="idp162114728">puntach</headword>
+      <description>[pũ̜n̪t̪ɑx] Notes: stocky, rounded. (Used of a bird’s head in this instance – ceann puntach.)</description>
+    </item>
+    <item>
+      <headword id="idp162116456">sgara-boill</headword>
+      <description>[sɡɑɾɑbɤilʹ] Notes: cormorant with white diamond-shaped markings under the wings. [NOTES: slipped under ‘sgarbh-boill’.]</description>
+    </item>
+    <item>
+      <headword id="idp162118328">sgoth</headword>
+      <description>Notes: larger type of boat, e.g. over 18' long.</description>
+    </item>
+    <item>
+      <headword id="idp162119840">sguite</headword>
+      <description>Quotation: a’ sguite dheiridh. Notes: seat in the very stern of a boat.</description>
+    </item>
+    <item>
+      <headword id="idp162121496">stadhran</headword>
+      <description>[st̪ɤɾɛ̃ṉ] Notes: stepping stones.</description>
+    </item>
+    <item>
+      <headword id="idp162123224">taomair</headword>
+      <description>[ṯw̃mɑɾ] Notes: Gael. for “timber” i.e. the timbers of a boat, usually in pl.</description>
+    </item>
+    <item>
+      <headword id="idp162124952">toirisgeir</headword>
+      <description>[t̪ɤɾiʃɡʹəɾ] Notes: peat-cutting iron.</description>
+    </item>
+    <item>
+      <headword id="idp162126680">tuim</headword>
+      <description>[t̪[ɤ̃ĩ]m] Notes: water collecting in a boat.</description>
+    </item>
+    <item>
+      <headword id="idp162128840">urlar</headword>
+      <description>[sic] [[ɤu̜]ɫɑɾ] Quotation: ùrlar a’ bhata.</description>
+    </item>
+    <item>
+      <headword id="idp162131000">ailm</headword>
+      <description>[ɤlɤm] Notes: tiller.</description>
+    </item>
+    <item>
+      <headword id="idp162132728">bac</headword>
+      <description>[bɑxk] Notes: strip of wood fixed on gunwhale under the oar.</description>
+    </item>
+    <item>
+      <headword id="idp162134456">bara</headword>
+      <description>Notes: a sort of nest for a boat on the shore.</description>
+    </item>
+    <item>
+      <headword id="idp162135968">bogha</headword>
+      <description>Notes: reef submerged at high tide.</description>
+    </item>
+    <item>
+      <headword id="idp162137480">bogha</headword>
+      <description>Quotation: bogha a’ chléibh. Notes: <illustration src="RaasayJGilliesslipsillust1.jpg" width="300"/></description>
+    </item>
+    <item>
+      <headword id="idp162139136">bragadair</headword>
+      <description>[bɾɑɡəd̪ɑɾ] Notes: tangle.</description>
+    </item>
+    <item>
+      <headword id="idp162140864">breabadair-ladhrach</headword>
+      <description>Notes: daddy-long-legs. (Applecross)</description>
+    </item>
+    <item>
+      <headword id="idp162142376">bùide</headword>
+      <description>[bu̟:dʹə] Notes: puffin. (Usually buthaid.)</description>
+    </item>
+    <item>
+      <headword id="idp162144104">calltach</headword>
+      <description>Quotation: beothaichean calltach. Notes: destructive. [NOTES: slipped under ‘calldach’.]</description>
+    </item>
+    <item>
+      <headword id="idp162145904">ceanna-chnag</headword>
+      <description>Quotation: bracket at end of seat in a boat.</description>
+    </item>
+    <item>
+      <headword id="idp162147416">cearban</headword>
+      <description>Notes: basking shark.</description>
+    </item>
+    <item>
+      <headword id="idp162148928">ciocha-nan-creag</headword>
+      <description>Notes: sea anemone.</description>
+    </item>
+    <item>
+      <headword id="idp162150440">clàrag</headword>
+      <description>Notes: square stern in a boat.</description>
+    </item>
+    <item>
+      <headword id="idp162151952">cnag</headword>
+      <description>Notes: thole-pin.</description>
+    </item>
+    <item>
+      <headword id="idp162153464">coile-bianan</headword>
+      <description>[kɤləbĩɤ̃ṉɑṉ] Notes: phosphorescence.</description>
+    </item>
+    <item>
+      <headword id="idp162155192">colgadan-na-lampa</headword>
+      <description>Notes: daddy-long-legs.</description>
+    </item>
+    <item>
+      <headword id="idp162156704">connsaich</headword>
+      <description>[kũ̜:siç] Notes: argue.</description>
+    </item>
+    <item>
+      <headword id="idp162158432">corra-chòsag</headword>
+      <description>Notes: slater.</description>
+    </item>
+    <item>
+      <headword id="idp162159944">crasgag-thràghad</headword>
+      <description>Notes: starfish.</description>
+    </item>
+    <item>
+      <headword id="idp162161456">crot</headword>
+      <description>Notes: piece of wood put on oar to prevent chafing.</description>
+    </item>
+    <item>
+      <headword id="idp162162968">dialtag</headword>
+      <description>Notes: bat.</description>
+    </item>
+    <item>
+      <headword id="idp162164480">drabhan-eallaich (sic)</headword>
+      <description>[d̪ɾɑvɑṉjɑɫiç] Notes: spider.</description>
+    </item>
+    <item>
+      <headword id="idp162166208">druid-dhubh</headword>
+      <description>Notes: starling.</description>
+    </item>
+    <item>
+      <headword id="idp162167720">eathar</headword>
+      <description>Notes: boat up to 18' in length.</description>
+    </item>
+    <item>
+      <headword id="idp162169232">faobhag</headword>
+      <description>[fɤ:vɑɡ] Notes: a squid.</description>
+    </item>
+    <item>
+      <headword id="idp162170960">fàsag</headword>
+      <description>Notes: bung.</description>
+    </item>
+    <item>
+      <headword id="idp162172472">feòlagan</headword>
+      <description>[fjɔ:ɫəɡɑ̃ṉ] Notes: shrew. (Applecross)</description>
+    </item>
+    <item>
+      <headword id="idp162174200">feòrnan</headword>
+      <description>Notes: shrew.</description>
+    </item>
+    <item>
+      <headword id="idp162175712">gealladh</headword>
+      <description>Notes: blight.</description>
+    </item>
+    <item>
+      <headword id="idp162177224">geòla</headword>
+      <description>Notes: boat up to 12' in length.</description>
+    </item>
+    <item>
+      <headword id="idp162179024">gocan</headword>
+      <description>Quotation: gocan na cubhaig.</description>
+    </item>
+  </items>
+</fieldworkDocument>

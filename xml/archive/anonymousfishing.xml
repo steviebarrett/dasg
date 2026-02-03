@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 11 6 13 -->
+<fieldworkDocument docId="AssortedFieldworkers_anonymousfishing" docType="questionnaire" subType="Fishing">
+  <title>Iasgach / Fishing</title>
+  <note>[NOTES: second hand. See below for details.]</note>
+  <items>
+    <item>
+	  <headword id="idola37">[note]</headword>
+	  <description>Length of line. Type of line. Type of boats. Sailing and motor. Different fishing grounds. For round and flat fish. Lead plumb used for telling the different grounds. Using grease or margarine. Getting the bait. Shelling. Limpets and mussels. Whole family involved. Methods of hauling and shooting lines.</description>
+	</item>  
+    <item>
+		<headword id="idola12">sneed; cheepick</headword>
+		<description>1. Line. Consisted of 10-12 strings, 72 hooks per string. Hooks attached to main line. Every 6ft. By means of a thin, cotton string called a sneed and a horsehair cheepick both approx. 18" long.</description>
+    </item>
+	<item>
+		<headword id="idola13">creedle; croick</headword>
+		<description>2. Creedle for holding line. Made of cane rounded at one end and sloped at other for shooting line. And for easy storing on wooden croick when left after baiting ling prior to going to sea.</description>
+    </item>
+	<item>
+		<headword id="idola14">platack</headword>
+		<description>3. When lines were hauled they were stored in a rush mat called a platack. 4. Platack. Roughly 5' x 4'. When the fisherman got home he untied his platack and red his line into a herring basket or cotton sacks all ready for baiting with either lug worm, limpit [sic] mussel or herring according to time of year. Mainly lug in the summer months.</description>
+	</item>
+	<item>
+	  <headword id="idola38">[kinds of fish]</headword>
+	  <description>5. All kinds of fish. But mostly flat fish on sandy ground and cod, haddock and whiting on hard ground. Rocks or gravel very often. A crab or lobster got entangled on the line, which was a bonus for that fisherman. He took it home and cooked it in the ashes.</description>
+    </item>
+	<item>
+	  <headword id="idola39">[note]</headword>
+	  <description>[NOTES: the following two items in second hand.]</description>
+	</item>
+    <item>
+		<headword id="idola15">gemack</headword>
+		<description>lobster.</description>
+	</item>
+	<item>
+		<headword id="idola16">clie</headword>
+		<description>creel.</description>
+    </item>
+  </items>
+</fieldworkDocument>

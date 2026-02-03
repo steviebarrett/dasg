@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 21 8 14 -->
+<!-- illustrations -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="AJSmith_GravirPChisholmmisc1" docType="wordlist" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>September 1972</date>
+  <fieldworker>A. J. Smith</fieldworker>
+  <note>[NOTES: in IPA transcriptions, the fieldworker uses [w] for [ɯ].]</note>
+
+  <informant>
+    <nameEnglish>Peter Chisholm (Peter Dhonnchaidh)</nameEnglish>
+  </informant>
+  <location>[Lewis], S. Lochs, Gravir</location>
+  <items>
+    <item>
+      <headword id="idp118783792">loch-bhlian</headword>
+      <description>Quot.: “dearg air a loch-bhlian dheas”, “dearg air a loch-bhlian cheàrr”. Note: the flank of sheep – used in marking.</description>
+    </item>
+    <item>
+      <headword id="idp118806832">crabhcan</headword>
+      <description>Note: earmark. <illustration src="GravirPChisholmmisc1illust1.jpg" width="100"/></description>
+    </item>
+    <item>
+      <headword id="idp118726984">gearradh-lùdaig</headword>
+      <description>Note: earmark. <illustration src="GravirPChisholmmisc1illust2.jpg" width="100"/></description>
+    </item>
+    <item>
+      <headword id="idp118744912">gearradh</headword>
+      <description>Note: earmark. <illustration src="GravirPChisholmmisc1illust3.jpg" width="100"/></description>
+    </item>
+    <item>
+      <headword id="idp118798984">snàthad-lìn</headword>
+      <description>Note: earmark confined, according to P.C., to one crofter in Marvig. The ear is folded lengthwise and a cut like a “gearradh-lùdaig” [q.v.] made, leaving a tongue in the middle of the ear. 
+        <illustration src="GravirPChisholmmisc1illust4.jpg" width="200"/></description>
+    </item>
+    <item>
+      <headword id="idp118819432">bàrr</headword>
+      <description>Quot.: bàrr is tri rubaidh. Note: earmark. <illustration src="GravirPChisholmmisc1illust5.jpg" width="100"/> (Put also under rubadh.)</description>
+    </item>
+    <item>
+      <headword id="idp118783864">rubadh</headword>
+      <description>Note: earmark. <illustration src="GravirPChisholmmisc1illust6.jpg" width="100"/> (Also known as sgoltadh.)</description>
+    </item>
+    <item>
+      <headword id="idp118810936">meurlan</headword>
+      <description>[mȷɤ:ʴɫɑṉ] Note: earmark.  [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+    <item>
+      <headword id="idp118808560">sùlag</headword>
+      <description>[su̜:ɫɑɡ] Note: earmark. </description>
+    </item>
+    <item>
+      <headword id="idp118723456">slisinn</headword>
+      <description>Note: earmark. <illustration src="GravirPChisholmmisc1illust9.jpg" width="150"/></description>
+    </item>
+    <item>
+      <headword id="idp118774000">cnaimh-runnach</headword>
+      <description>[kɾɛ̃:rũ̜n̪ɑx] Note: horse-mackerel.</description>
+    </item>
+    <item>
+      <headword id="idp118721512">clàrag</headword>
+      <description>Note: square frame on which fishing line is wound. <illustration src="GravirPChisholmmisc1illust10.jpg" width="150"/></description>
+    </item>
+    <item>
+      <headword id="idp118802584">sgleòtag</headword>
+      <description>Note: (1) young lythe. (2) also applied to young, flighty girls.</description>
+    </item>
+    <item>
+      <headword id="idp118749880">troille</headword>
+      <description>Note: torsk (fish).</description>
+    </item>
+    <item>
+      <headword id="idp118807696">sporan-na-crùbaig</headword>
+      <description>Note: spawn-pouch of the crab.</description>
+    </item>
+    <item>
+      <headword id="idp118763992">bor-tiachd</headword>
+      <description>[bɔʴt̪iɑxk] Note: P.C.’s pronunciation of “muirtiachd”, a jellyfish. [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+    <item>
+      <headword id="idp118802944">teth</headword>
+      <description>Note: applied to a stinging jellyfish (adj.).</description>
+    </item>
+    <item>
+      <headword id="idp118740304">sgeolldair</headword>
+      <description>[sɡʹɤu̜ɫd̪əð] Note: long thin reddish jellyfish which stings. Buckie men called them “scalders”.</description>
+    </item>
+    <item>
+      <headword id="idp118741384">giobnach</headword>
+      <description>[ɡʹıbṉɔx] Note: a squid.</description>
+    </item>
+    <item>
+      <headword id="idp118802224">crosgag</headword>
+      <description>Note: starfish.</description>
+    </item>
+    <item>
+      <headword id="idp118822816">breallach</headword>
+      <description>[bðɑɫɔx] Note: shellfish found in the sand. Has a spout which it can retract.</description>
+    </item>
+    <item>
+      <headword id="idp118745560">làgaraid</headword>
+      <description>Note: a tidal wave, most noticeable in a shallow inlet. Doesn’t occur with every tide, or not noticeable. Often precedes bad weather.</description>
+    </item>
+    <item>
+      <headword id="idp118812808">tulchan</headword>
+      <description>[t̪u̜ɫu̜xɑṉ] Note: the part of the “mircean” nearer to the rock. </description>
+    </item>
+    <item>
+      <headword id="idp118787968">brisgean</headword>
+      <description>[bðiʃɡʹɑṉ] Note: edible root (silverweed?) found among potatoes.</description>
+    </item>
+    <item>
+      <headword id="idp118770832">feamainn-phlugach</headword>
+      <description>Note: seaweed with bubbles on it.</description>
+    </item>
+    <item>
+      <headword id="idp118817344">déisneag</headword>
+      <description>[dʹe:ʃnʹɑɡ] Note: a small, thin “portan”, not as rounded in the back as the ordinary one. Not as blue.</description>
+    </item>
+    <item>
+      <headword id="idp115986272">giomach-tuathal</headword>
+      <description>Note: hermit crab.</description>
+    </item>
+    <item>
+      <headword id="idp115987784">pronn-mhaorach</headword>
+      <description>[pɾɔ̃n̪ɔvw̃ɾɑx] Note: chewed “maorach” thrown out for bait to attract saithe.</description>
+    </item>
+    <item>
+      <headword id="idp115989512">ceann</headword>
+      <description>Note: rope between the “cruaidh” at the end of a fishing line and the buoy.</description>
+    </item>
+    <item>
+      <headword id="idp115991024">total</headword>
+      <description>[t̪ɔt̪ɑɫ] Quot.: “total fhaoileag”. Note: a flock of seagulls wheeling about near the surface of the sea where fish are.</description>
+    </item>
+    <item>
+      <headword id="idp115993832">puta-sàs</headword>
+      <description>Note: float perhaps 15 fathoms down tied to the “ceann” [q.v.] of the great-line or small line. Often made here of a circle of rope with corks on it right round. (Sometimes puta-sàs known as sàsair.)</description>
+    </item>
+    <item>
+      <headword id="idp115996856">gad-àrc</headword>
+      <description>Note: circle of cork floats strung together. Used as a “puta-sàs” (above). <illustration src="GravirPChisholmmisc1illust12.jpg" width="150"/></description>
+    </item>
+    <item>
+      <headword id="idp115998368">sgràbadh</headword>
+      <description>Quot.: a’ sgràbadh. Note: working a grapnel. [Cf. sgràbair.] <illustration src="GravirPChisholmmisc1illust13.jpg" width="200"/></description>
+    </item>
+    <item>
+      <headword id="idp116000096">sgràbair</headword>
+      <description>Note: grapnel, for picking up lost fishing lines from the bottom. [Cf. sgràbadh.]</description>
+    </item>
+    <item>
+      <headword id="idp116001608">bàc</headword>
+      <description>Quot.: am bàc. Note: the top rope from which a herring net is hung. <illustration src="GravirPChisholmmisc1illust14.jpg" width="300"/></description>
+    </item>
+    <item>
+      <headword id="idp116003336">dafans</headword>
+      <description>[ḏɑfəṉs] Note: small lengths of line attaching herring net to the “bàc” [q.v.]. </description>
+    </item>
+    <item>
+      <headword id="idp116005064">lion-chlach</headword>
+      <description>Note: herring net with stones as weights.</description>
+    </item>
+    <item>
+      <headword id="idp116006576">géibheil</headword>
+      <description>[ɡʹe:vəl] Note: the ends of the herring net.</description>
+    </item>
+    <item>
+      <headword id="idp116008304">cluais</headword>
+      <description>Note: the top corner of a herring net where the “géibheil” [q.v.] was attached to the “bàc” [q.v.].</description>
+    </item>
+    <item>
+      <headword id="idp116010680">claigionn</headword>
+      <description>[kɫɑɡən̪] Note: wooden top on a sheepskin buoy.</description>
+    </item>
+    <item>
+      <headword id="idp116012408">stuidhe</headword>
+      <description>[sṯu̟ıə] Note: a kind of buoy made with a calf’s skin, the skin having been removed as whole as possible. The buoy had roughly the shape of the calf.</description>
+    </item>
+    <item>
+      <headword id="idp116014136">suircean</headword>
+      <description>Note: spiked muzzle on a calf to prevent it suckling its mother.</description>
+    </item>
+    <item>
+      <headword id="idp116015648">laoisgeann</headword>
+      <description>Note: membrane, very thin covering.</description>
+    </item>
+    <item>
+      <headword id="idp116017160">itiach</headword>
+      <description>[ıtʹıɑx] Note: gullet.</description>
+    </item>
+    <item>
+      <headword id="idp116018888">snàithl</headword>
+      <description>[sn̪ɑ̃:l] Note: anal passage.</description>
+    </item>
+    <item>
+      <headword id="idp116020616">smior-cailleach</headword>
+      <description>[smĩɾkɑlʹɑx] Note: spinal marrow.</description>
+    </item>
+    <item>
+      <headword id="idp116022344">liabhach</headword>
+      <description>[lʹıɑvɔx] Note: applied to the colouring of a sheep’s face. Dirty white effect.</description>
+    </item>
+    <item>
+      <headword id="idp116024072">sgrogag</headword>
+      <description>[sɡɾɔ̃ɡɑɡ] Note: small stump of a horn on a sheep.</description>
+    </item>
+    <item>
+      <headword id="idp116025800">sgrogach</headword>
+      <description>[sɡɾɔ̃ɡɑx] Quot.: caora sgrogach. Note: sheep with small stumps of horns.</description>
+    </item>
+    <item>
+      <headword id="idp116027888">adhairc</headword>
+      <description>Quot.: caora le adhaircean chros. Note: sheep with horns curving in towards the face.</description>
+    </item>
+    <item>
+      <headword id="idp116030624">adhairc</headword>
+      <description>Quot.: caora le adhaircean sgaoilt. Note: a sheep with wide horns.</description>
+    </item>
+    <item>
+      <headword id="idp116032496">seirmige</headword>
+      <description>[ʃeðəmiɡʹə] Note: a ram in such poor condition that he’s not allowed near sheep.</description>
+    </item>
+    <item>
+      <headword id="idp116034224">ruige</headword>
+      <description>[ru̟ɡʹə] Note: [a ram which] has only one testicle in the sac. The other one up in its back (acc. to P.C.).</description>
+    </item>
+    <item>
+      <headword id="idp116035952">seirg</headword>
+      <description>[ʃeðeɡʹ] Note: a sheep in poor condition and because of some deficiency won’t fatten. (Pine in English.)</description>
+    </item>
+    <item>
+      <headword id="idp116037680">ceathramh-dubh</headword>
+      <description>Note: black-leg.</description>
+    </item>
+    <item>
+      <headword id="idp116039192">gonadh</headword>
+      <description>Quot.: “na gonaidhean”. Note: growths in the mouths of cattle which prevented them from eating properly. Usually cut with shears.</description>
+    </item>
+    <item>
+      <headword id="idp116040920">galla</headword>
+      <description>Note: used here for bitch. “Saidh” not used.</description>
+    </item>
+    <item>
+      <headword id="idp116042432">buthaid</headword>
+      <description>[bu̟idʹ] Note: puffin.</description>
+    </item>
+    <item>
+      <headword id="idp116044160">eun-dubh</headword>
+      <description>[ɑ̃ṉd̪u̟] Note: guillemot.</description>
+    </item>
+    <item>
+      <headword id="idp116045888">ailean-bodadha</headword>
+      <description>[ɑlɑṉbɔd̪ˈɑə] Note: a sea-bird which forces seagulls to disgorge its [sic] food, and swallows it itself. Probably the skua.</description>
+    </item>
+    <item>
+      <headword id="idp116048480">gleann</headword>
+      <description>Quot.: “Tha’n fhairge na glinn.” “Ann an glinn na mara.” Note: Referring to troughs in a heavy swell.</description>
+    </item>
+    <item>
+      <headword id="idp120972424">claigionn</headword>
+      <description>[kɫɑɡən̪] Quot.: “Claigionn na Càbaig”. Note: Referring to the extremity of Kebock Head.</description>
+    </item>
+    <item>
+      <headword id="idp120974728">teilean-dé</headword>
+      <description>Note: butterfly.</description>
+    </item>
+    <item>
+      <headword id="idp120976888">caisean-cumhach</headword>
+      <description>[kɑʃɑṉkũ̟ɑx] Quot.: “Caisean-cumhach na Bealltainn”. Note: spell of bad weather at the beginning of May.</description>
+    </item>
+    <item>
+      <headword id="idp120978400">faoileach</headword>
+      <description>Quot.: “na faoilich”. Note: spell of cold winds in January and into February.</description>
+    </item>
+    <item>
+      <headword id="idp120979480">tanaisg</headword>
+      <description>[t̪ɑ̃ṉiʃɡʹ] Note: spectre in the form of a person.</description>
+    </item>
+    <item>
+      <headword id="idp120981712">tàbhoradh</headword>
+      <description>[t̪ɑ:vɔɾəɣ] Note: ghostly resemblance of a person, usually connected with a future happening.</description>
+    </item>
+    <item>
+      <headword id="idp120983512">rainneach</headword>
+      <description>[rɛ̃ṉɔx] Note: bracken. (Pronunciation.)</description>
+    </item>
+    <item>
+      <headword id="idp120986752">grioban</headword>
+      <description>[ɡðibɔṉ] Note: applied to a person, usually a boy, who is not as developed as he should be physically at his age.</description>
+    </item>
+    <item>
+      <headword id="idp120988192">prothaisteach</headword>
+      <description>[pɾɔhɑʃtʹɑx] Quot.: “prothaisteach de bhalach”. Note: well-built young lad.</description>
+    </item>
+    <item>
+      <headword id="idp120989416">sgeil</headword>
+      <description>[sɡʹel] Quot.: “Tha sgeil uamhasach air an te sin.” Note: She has an awful lot to say.</description>
+    </item>
+    <item>
+      <headword id="idp120991144">farbhailteach</headword>
+      <description>[fɑɾɑvɑlʹtʹɑx] Quot.: “’S e boirionnach farbhailteach a th’innt.” Note: used of a person who makes a welcoming fuss when a person goes into her house.</description>
+    </item>
+    <item>
+      <headword id="idp120992800">siurraireachd</headword>
+      <description>[ʃurəðɑxk] Quot.: “Tha thu ann a’ sin a’ siurraireachd nan tighean fad an latha.” Note: used of a woman who is always in and out of houses.</description>
+    </item>
+    <item>
+      <headword id="idp120995536">siurrag</headword>
+      <description>[ʃu̜rɑɡ] Note: a woman who is always in and out of houses.</description>
+    </item>
+    <item>
+      <headword id="idp120996976">aimsir</headword>
+      <description>Quot.: “Bha mi aimsirean [ɑmɑʃəðəṉ] mas do chuimhnich mi air.” Note: I took ages before I remembered it.</description>
+    </item>
+    <item>
+      <headword id="idp120999640">pliutag</headword>
+      <description>Note: a light cuff or clip.</description>
+    </item>
+    <item>
+      <headword id="idp120999928">claimhreachd</headword>
+      <description>[kɫɑ̃ĩɾɑxk] Quot.: “cearc a’ claimhreachd as a’ ghainmich”. Note: used of a hen sgrabbling [sic] in sand.</description>
+    </item>
+    <item>
+      <headword id="idp121002592">ùilleag</headword>
+      <description>Note: liquid fat floating, e.g. on the surface of soup.</description>
+    </item>
+  </items>
+</fieldworkDocument>

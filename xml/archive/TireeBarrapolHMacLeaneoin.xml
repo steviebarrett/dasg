@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 13 4 14 -->
+<fieldworkDocument xmlns:php="http://php.net/xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="TireeandMull_TireeBarrapolHMacLeaneoin" docType="questionnaire" subType="EòinThiriodh" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Eòin Thiriodh / Birds of Tiree</title>
+  <fieldworker>[Alan Boyd]</fieldworker>
+  <note>[NOTES: note on the first page ‘Alan Boyd from Hugh MacLean (Barrapol) – information from Alan Boyd, 15 July 2008 (R. Ó Maolalaigh)’.]</note>
+  <informant>
+    <nameEnglish>Hugh MacLean</nameEnglish>
+    <age>[64?]</age>
+    <origin>[Tiree]</origin>
+  </informant>
+  <location>[Tiree, Barrapol]</location>
+  <items>
+    <item>
+      <headword id="d0e33">feannag</headword>
+      <description>hooded crow.</description>
+    </item>
+    <item>
+      <headword id="d0e42">fitheach</headword>
+      <description>raven.</description>
+    </item>
+    <item>
+      <headword id="d0e51">rocaideach</headword>
+      <description>rook.</description>
+    </item>
+    <item>
+      <headword id="d0e60">eun (ian) beag an t-sneachda.</headword>
+      <description>snow bunting</description>
+    </item>
+    <item>
+      <headword id="d0e69">bigean bainndean (m), bigeanan bainndean (pl)</headword>
+      <description>house sparrow.</description>
+    </item>
+    <item>
+      <headword id="d0e78">druideag (f), druideagan (pl)</headword>
+      <description>starling.</description>
+    </item>
+    <item>
+      <headword id="d0e87">uiseag (f), uiseagan (pl)</headword>
+      <description>skylark.</description>
+    </item>
+    <item>
+      <headword id="d0e96">breac an t-sìl (f), breacan sìl (pl)</headword>
+      <description>pied wagtail.</description>
+    </item>
+    <item>
+      <headword id="d0e105">smeorach (f)</headword>
+      <description>song thrush.</description>
+    </item>
+    <item>
+      <headword id="d0e114">an t-eun dubh</headword>
+      <description>blackbird.</description>
+    </item>
+    <item>
+      <headword id="d0e123">lon dubh</headword>
+      <description>blackbird.</description>
+    </item>
+    <item>
+      <headword id="d0e132">brù dearg (m), bruidhean dearga (pl)</headword>
+      <description>robin. (Not ‘dhearg’.)</description>
+    </item>
+    <item>
+      <headword id="d0e141">clacharan (m), clacharain (pl)</headword>
+      <description>stonechat.</description>
+    </item>
+    <item>
+      <headword id="d0e150">gobhlan gaothadh (m), gobhlain gaothadh (pl)</headword>
+      <description>house martin; sand martin; swallow; swift.</description>
+    </item>
+    <item>
+      <headword id="d0e159">dreathan donn (m), dreathain donn (pl)</headword>
+      <description>wren.</description>
+    </item>
+    <item>
+      <headword id="d0e168">cuthag (f), cuthagan (pl)</headword>
+      <description>cuckoo.</description>
+    </item>
+    <item>
+      <headword id="d0e177">cailleach oidhche</headword>
+      <description>owl.</description>
+    </item>
+    <item>
+      <headword id="d0e186">iolaire (f), iolairean (pl)</headword>
+      <description>eagle.</description>
+    </item>
+    <item>
+      <headword id="d0e195">clamhan (m), clamhain (pl)</headword>
+      <description>buzzard.</description>
+    </item>
+    <item>
+      <headword id="d0e204">spéireag (f), speireagan (pl)</headword>
+      <description>sparrowhawk.</description>
+    </item>
+    <item>
+      <headword id="d0e213">croman (m), cromain (pl)</headword>
+      <description>kestrel.</description>
+    </item>
+    <item>
+      <headword id="d0e222">seabhag (f), seabhagan (pl)</headword>
+      <description>peregrine falcon.</description>
+    </item>
+    <item>
+      <headword id="d0e231">sùlaire (m), sùlairean</headword>
+      <description>[pl] gannet.</description>
+    </item>
+    <item>
+      <headword id="d0e240">sgarbh (m)</headword>
+      <description>cormorant – first 7 years.</description>
+    </item>
+    <item>
+      <headword id="d0e249">learg (f), leargan (pl)</headword>
+      <description>cormorant – second 7 years.</description>
+    </item>
+    <item>
+      <headword id="d0e258">balach bodhach (m), balaich bhodhach</headword>
+      <description>[pl] cormorant – third 7 years. (‘bodhach’ – Tiree for “boidheach”.)</description>
+    </item>
+    <item>
+      <headword id="d0e267">buna-bhuachaille</headword>
+      <description>cormorant – an corr de bheatha.</description>
+    </item>
+    <item>
+      <headword id="d0e276">eala (f), ealachan</headword>
+      <description>[pl] swan.</description>
+    </item>
+    <item>
+      <headword id="d0e285">giadh glas</headword>
+      <description>goose (greylag, white-front).</description>
+    </item>
+    <item>
+      <headword id="d0e294">cathach (m), cathaich (pl)</headword>
+      <description>barnacle goose.</description>
+    </item>    
+    <item>
+      <headword id="d0e303">lacha (f), lachaich (pl)</headword>
+      <description>wild duck (mallard mostly).</description>
+    </item>
+    <item>
+      <headword id="d0e312">cradh-ghiadh (m), cradh-gheoidh (pl)</headword>
+      <description>shell duck.</description>
+    </item>
+    <item>
+      <headword id="d0e321">lacha-blàr, lachaich-blar  (pl)</headword>
+      <description>[sic] wigeon.</description>
+    </item>
+    <item>
+      <headword id="d0e330">lacha-cholasach, lachaich-cholasach (pl)</headword>
+      <description>eider.</description>
+    </item>
+    <item>
+      <headword id="d0e339">sìoltaiche (m), sìoltaichean (pl)</headword>
+      <description>red-breasted merganser.</description>
+    </item>
+    <item>
+      <headword id="d0e348">gorra-chritheach (f), gorrachan-critheach</headword>
+      <description>[pl] heron. (Not ‘corra-ghritheach’ in Tiree.)</description>
+    </item>
+    <item>
+      <headword id="d0e357">gobsàc</headword>
+      <description>common snipe.</description>
+    </item>
+    <item>
+      <headword id="d0e366">bodsac</headword>
+      <description>common snipe.</description>
+    </item>
+    <item>
+      <headword id="d0e375">gobhar-adhair</headword>
+      <description>mating and breeding movement of wings of snipe in air.</description>
+    </item>
+    <item>
+      <headword id="d0e384">naosg (m), naoisg (pl)</headword>
+      <description>jack snipe.</description>
+    </item>
+    <item>
+      <headword id="d0e393">drilleachan (m), drilleachain (pl)</headword>
+      <description>sanderling.</description>
+    </item>
+    <item>
+      <headword id="d0e402">finnineach (m), finninich (pl)</headword>
+      <description>redshank.</description>
+    </item>
+    <item>
+      <headword id="d0e411">cnotag (f), cnotagan (pl)</headword>
+      <description>curlew.</description>
+    </item>
+    <item>
+      <headword id="d0e420">cnotag bheag (f)</headword>
+      <description>whimbrel.</description>
+    </item>
+    <item>
+      <headword id="d0e429">cuireachdag (f), cuireachdagan</headword>
+      <description>[pl] lapwing.</description>
+    </item>
+    <item>
+      <headword id="d0e438">feadag (f), feadagan (pl)</headword>
+      <description>grey plover; golden plover.</description>
+    </item>    
+    <item>
+      <headword id="d0e447">luachran (m), luachrain (pl)</headword>
+      <description>ringed plover.</description>
+    </item>
+    <item>
+      <headword id="d0e456">gille brighde (m), gillean brighde (pl)</headword>
+      <description>oyster catcher.</description>
+    </item>
+    <item>
+      <headword id="d0e465">faoileann (f), faoileannan (pl)</headword>
+      <description>common gull; herring gull.</description>
+    </item>
+    <item>
+      <headword id="d0e474">farspach (f), farspachan (pl)</headword>
+      <description>greater black-backed gull.</description>
+    </item>
+    <item>
+      <headword id="d0e483">claucaire (m), claucairean (pl)</headword>
+      <description>glaucous gull.</description>
+    </item>
+    <item>
+      <headword id="d0e492">faoileann a’ chinn dhuibh</headword>
+      <description>black-headed gull.</description>
+    </item>
+    <item>
+      <headword id="d0e501">faoileann bheag</headword>
+      <description>kittiwake.</description>
+    </item>
+    <item>
+      <headword id="d0e510">stearnal (m), stearnail (pl)</headword>
+      <description>tern.</description>
+    </item> 
+    <item>
+      <headword id="d0e519">fasgadair (m), fasgadairean</headword>
+      <description>[pl] arctic skua; great skua.</description>
+    </item>
+    <item>
+      <headword id="d0e528">ian dubh an sgadain</headword>
+      <description>puffin; razor-bill; guillemot.</description>
+    </item>
+    <item>
+      <headword id="d0e537">fulmaire (m), fulmairean</headword>
+      <description>[pl] fulmar.</description>
+    </item>
+    <item>
+      <headword id="d0e546">bunabhuachaille (f), bunabhuachaillean</headword>
+      <description>[pl] great northern diver.</description>
+    </item>
+    <item>
+      <headword id="d0e555">cearc-uisge (f)</headword>
+      <description>water rail; coot.</description>
+    </item>
+    <item>
+      <headword id="d0e564">traona (f), traonan</headword>
+      <description>[pl] corncrake. Also ‘tronn’.</description>
+    </item>
+    <item>
+      <headword id="d0e573">[tronn]</headword>
+      <description>[See traona]</description>
+    </item>
+    <item>
+      <headword id="d0e582">calman (m), calmain</headword>
+      <description>[pl] pigeon; dove.</description>
+    </item> 
+    <item>
+      <headword id="d0e591">cearc fhraoich (f), cearcan fraoich (pl)</headword>
+      <description>partridge.</description>
+    </item>
+    <item>
+      <headword id="d0e600">coileach fraoich</headword>
+      <description>red grouse.</description>
+    </item>
+    <item>
+      <headword id="d0e609">coileach dubh</headword>
+      <description>black grouse.</description>
+    </item>
+    <item>
+      <headword id="d0e618">tunnag-lacha</headword>
+      <description>duck.</description>
+    </item>
+    <item>
+      <headword id="d0e627">strac-lacha</headword>
+      <description>drake.</description>
+    </item>
+  </items>
+</fieldworkDocument>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 24 7 14 -->
+<fieldworkDocument docId="AOHenley_PeninerineKMacDonaldmisc" docType="wordlist" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>[1987-88]</date>
+  <fieldworker personId="ohenleya">A. O’Henley</fieldworker>
+  <informant>
+    <nameEnglish>Kate MacDonald</nameEnglish>
+  </informant>
+  <location>South Uist, Peninerine</location>
+  <items>
+    <item>
+      <headword id="idp110037808">[sleamhuinn]</headword>
+      <description>“Sleamhuinn an greim air an easguinn an t-earball.” A saying which means that a boy/man who has been jilted will always find another girl.</description>
+    </item>
+    <item>
+      <headword id="idola1004">[cuman]</headword>
+      <description>Cuman iudhar a thug m’ athair a Ros; cha b’ iudhar e ’s cha b’ athar e ’s cha be maide ’san domhainn e is e air a bhial fodha ’s cha tig deur as. A riddle meaning a cow’s udder.</description>
+    </item>
+    <item>
+      <headword id="idola1005">[portan]</headword>
+      <description>Cnapaineach cruinn cruaidh, ’s cruaidh craiceann, a làmhan ’s an t-shùil a meadhoin a chlèith, fheòil a meadhoin a chnàimh. A riddle meaning a small crab (portan).</description>
+    </item>
+    <item>
+      <headword id="idola1006">[toimhseachan]</headword>
+      <description>Duine ag aire ann an taigh. Chaidh e mach as an taigh. Chunnaic e an t-sianar a bha seo a’ dol seachad agus an ceann greis chunnaic e an ath shianar, agus an uairsin chunnaic e an treas sianar agus bha boireannach agus fireannach a’ tighinn comhla as an deidh, agus bhruidhinn am boireannach agus dh’fhaighneachd i dha dè a chunnaic e bho’n a bha e a muigh, agus dh’innis e dhi mar a chunnaic e sianar a’ dol seachad agus an ceann greis chaidh sianar eile agus an uairsin an t-sianar eile chaidh seachad bha i fhein a’ tighinn comhla agus an deidh. Ars ise: A’ chiad shianar, sin sia bràithrean athair [sic] dhomh, agus an ath shianar, sia bràithrean mathair [sic] dhomh agus an t-sianar a chaidh seachad ’s mi fhein comhla riubha ’sin mo shia mhic fhìn, ’s an duine a tha seo na athair dh’an h-uile duin’ aca. ’S dean thusa a mach an toimhseachan. This riddle is taken in the context of this man coming out from a wake. The man appearing with the woman has been married three times. His first wife had a daughter prior to their marriage. When she died he married his second wife who had had a boy prior to this marriage. Thereafter the boy and girl previously mentioned married. Subsequently the man who had been married twice married the daughter of the boy and girl thereby becoming his third wife.</description>
+    </item>
+    <item>
+      <headword id="idp110059624">[mathair cheile]</headword>
+      <description>“Mar chat gu luch bi bean a mic gu mathair cheile.” Alludes to the trend adhered to by mother in laws, that her son’s spouse will not get on with her mother in law.</description>
+    </item>
+    <item>
+      <headword id="idp110111392">an sluagh</headword>
+      <description>This refers to a belief, not common nowadays, which people observed. It referred to the souls of the deceased rising from their graves in the dead of night, between twelve midnight and three in the morning. Apparently they visited their former dwellings. Moreover and also anyone who was walking at this time of morning bore this in mind and it was the custom to warn such a person that these souls could uplift him whilst on his journey. The phrase “Feuch na glac an sluagh thu” reflects this belief. Unlike the fairies these souls would return you to the original lifting point by three in the morning.</description>
+    </item>
+    <item>
+      <headword id="idp110088568">tràth marbh na h-oidhche</headword>
+      <description>the dead of night, i.e. between twelve midnight and three in the morning.</description>
+    </item>
+    <item>
+      <headword id="idp110094760">sgairt</headword>
+      <description>a rupture.</description>
+    </item>
+    <item>
+      <headword id="idp110066392">sleamhnain</headword>
+      <description>a stye. Cured by rubbing the eye with a marriage ring.</description>
+    </item>
+    <item>
+      <headword id="idp110105920">greim loin</headword>
+      <description>rheumatism.</description>
+    </item>
+    <item>
+      <headword id="idp110118232">maraiteach</headword>
+      <description>deadly. No doubt the word should be ‘marbhteach’ but the ‘bh’ is not pronounced.</description>
+    </item>
+  </items>
+</fieldworkDocument>
+

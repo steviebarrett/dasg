@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 3 5 13 -->
+<fieldworkDocument docId="CattleandSheep_SouthBragarDMacPhailcattle" docType="questionnaire" subType="Cattle">
+  <title>Crodh / Cattle</title>
+  <fieldworker>[self]</fieldworker>
+  <informant>
+    <nameEnglish>Donald MacPhail</nameEnglish>
+    <age>59</age>
+    <origin>[the questionnaire gives Ross-shire but it is most probably meant as the county not origin]</origin>
+  </informant>
+  <location>Lewis, [Barvas,] South Bragar</location>
+  <items>
+    <item><headword id="d0e29" type="heading" level="h1">1. Different stages in the growth of cattle</headword></item>
+    <item>
+      <headword id="d0e34">laogh boirionn</headword>
+      <description>female calf.</description>
+    </item>
+    <item>
+      <headword id="d0e43">laogh firionn</headword>
+      <description>male calf.</description>
+    </item>
+    <item>
+      <headword id="d0e52">gamhainn</headword>
+      <description>female under one year and over six months.</description>
+    </item>
+    <item>
+      <headword id="d0e61">damh</headword>
+      <description>castrated [bull].</description>
+    </item>
+    <item>
+      <headword id="d0e70">agh</headword>
+      <description>heifer.</description>
+    </item>
+    <item>
+      <headword id="d0e79">agh air a ceud laogh</headword>
+      <description>heifer in calf, usually 2-3 years old.</description>
+    </item>
+    <item>
+      <headword id="d0e88">bo bhainne</headword>
+      <description>cow in milk.</description>
+    </item>
+    <item><headword id="d0e96" type="heading" level="h1">2. Breeds of cattle</headword></item>
+    <item>
+      <headword id="d0e101">Crodh Beag</headword>
+      <description>Highland cattle, also those of no special breed.</description>
+    </item>
+    <item>
+      <headword id="d0e110">Crodh Mor</headword>
+      <description>Ayrshires, Black Polled.</description>
+    </item>
+    <item><headword id="d0e118" type="heading" level="h1">3. Outward appearance of cattle</headword></item>
+    <item>
+      <headword id="d0e123">crodh odhar</headword>
+      <description>grey coated cattle.</description>
+    </item>
+    <item>
+      <headword id="d0e132">crodh dubh</headword>
+      <description>black coated cattle.</description>
+    </item>
+    <item>
+      <headword id="d0e141">crodh breac</headword>
+      <description>black and white or black and red coated cattle.</description>
+    </item>
+    <item><headword id="d0e149" type="heading" level="h1">4. Names for certain beasts, e.g. an animal on which the owner bestows particular attention</headword></item>
+    <item><headword id="d0e153" type="heading" level="h1">5. Parts of the body</headword></item>
+    <item><headword id="d0e157" type="heading" level="h1">6. Calving</headword></item>
+    <item>
+      <headword id="d0e162">Tha bho leis an air</headword>
+      <description>[NOTES: pronunciation spelling for ‘an dàir’?]</description>
+    </item>
+    <item>
+      <headword id="d0e171">Tha bho dol a bhreith</headword>
+      <description>The cow is going to calf.</description>
+    </item>
+    <item>
+      <headword id="d0e180">salchair</headword>
+      <description>afterbirth.</description>
+    </item>
+    <item>
+      <headword id="d0e189">cruthach</headword>
+      <description>afterbirth.</description>
+    </item>
+    <item><headword id="d0e197" type="heading" level="h1">7. Milking</headword></item>
+    <item>
+      <headword id="d0e202">ri bleoghan</headword>
+    </item>
+    <item>
+      <headword id="d0e208">bleoghan tioriom</headword>
+      <description>milked dry.</description>
+    </item>
+    <item>
+      <headword id="d0e217">uinse, ùmhs</headword>
+      <description>milk yielded the first three days after calving. [NOTES: not clear if the two words are synonyms or variants, or if one is the pronunciation spelling of the other.]</description>
+    </item>
+    <item>
+      <headword id="d0e226">moch</headword>
+      <description>morning milking time.</description>
+    </item>
+    <item>
+      <headword id="d0e235">feasgar</headword>
+      <description>evening milking time.</description>
+    </item>
+    <item>
+      <headword id="d0e244">muga seipean ( shapann)</headword>
+      <description>[pron.?] a quart sized tin mug. In days gone by frequently obtained from the Gipsy people. [See also muga ceard.]</description>
+    </item>
+    <item>
+      <headword id="d0e253">muga ceard</headword>
+      <description>a quart sized tin mug. In days gone by frequently obtained from the Gipsy people. [See also muga seipean.]</description>
+    </item>
+    <item>
+      <headword id="d0e262">peile caol</headword>
+      <description>milking vessel.</description>
+    </item>
+    <item>
+      <headword id="d0e271">peile enamel</headword>
+      <description>milking vessel.</description>
+    </item>
+    <item><headword id="d0e279" type="heading" level="h1">8. Feeding</headword></item>
+    <item>
+      <headword id="d0e284">ultach feoir</headword>
+      <description>feeding. [NOTES: the only explanation given.]</description> 
+    </item>
+    <item>
+      <headword id="d0e293">bad corc</headword>
+      <description>feeding. [NOTES: the only explanation given.]</description> 
+    </item>
+    <item>
+      <headword id="d0e302">peile zinc</headword>
+      <description>[pail used for] watering [cattle] inside.</description>
+    </item>
+    <item>
+      <headword id="d0e311">buachaile</headword>
+      <description>herdsman.</description>
+    </item>
+    <item><headword id="d0e319" type="heading" level="h1">9. Apparatus</headword></item>
+    <item>
+      <headword id="d0e324">ceangail air stiall</headword>
+      <description>tethered inside.</description>
+    </item>
+    <item>
+      <headword id="d0e333">buarach</headword>
+      <description>cow fetter tying the hind legs together when milking.</description>
+    </item>
+    <item>
+      <headword id="d0e342">spearrach</headword>
+      <description>a tether tying the fore and hind legs to prevent jumping over dykes and fences.</description>
+    </item>
+    <item>
+      <headword id="d0e351">stroinan</headword>
+      <description>spiked instrument to prevent the calf sucking its mother.</description>
+    </item>
+    <item><headword id="d0e359" type="heading" level="h1">10. Diseases</headword></item>
+    <item>
+      <headword id="d0e364">fearsainnan</headword>
+      <description>warble fly.</description>
+    </item>
+    <item><headword id="d0e372" type="heading" level="h1">11. Miscellaneous</headword><description>[misnumbered as 12] </description></item>
+    <item>
+      <headword id="d0e377">ann’ a’ athbhunn</headword>
+      <description>[cow] stuck in a bog.</description>
+    </item>
+    <item>
+      <headword id="d0e386">ann a’ sàs</headword>
+      <description>[cow] stuck in a bog.</description>
+    </item>
+    <item>
+      <headword id="d0e395">buachair</headword>
+      <description>cow dung.</description>
+    </item>
+    <item>
+      <headword id="d0e404">todhar</headword>
+      <description>cow dung.</description>
+    </item>
+  </items>
+</fieldworkDocument>

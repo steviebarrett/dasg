@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 5 4 14 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="WoolworkingandFishing_FortroseJMacInneswool" docType="questionnaire" subType="Wool-working" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Obair na Clòimhe / Wool-Working</title>
+  <fieldworker>[self]</fieldworker>
+  <informant>
+    <nameEnglish>Rev. Dr John MacInnes</nameEnglish>
+    <nameGaelic>An t-Oll. Urr. Iain MacAonghais</nameGaelic>
+    <origin>[Skye], Gleanndail [Glendale]</origin>
+  </informant>
+  <location>A’ Chananaich [Fortrose]</location>
+  <items>
+    <item><headword id="d0e29" type="heading" level="h1">1. Raw wool</headword></item>
+    <item>
+      <headword id="d0e34">clòimh</headword>
+      <description>(pronounced clòidh) [wool].</description>
+    </item>
+    <item>
+      <headword id="d0e43">rusg</headword>
+      <description>(pronounced rùsg) [fleece].</description>
+    </item>
+    <item>
+      <headword id="d0e52">cloimh  ablaich</headword>
+      <description>[sic] wool from dead sheep.</description>
+    </item>
+    <item><headword id="d0e60" type="heading" level="h1">2. Oil or grease put on wool before carding</headword></item>
+    <item>
+      <headword id="d0e65">armadh</headword>
+      <description>(pron. aramadh) grease or old butter put on [wool] before carding.</description>
+    </item>
+    <item><headword id="d0e73" type="heading" level="h1">3. Carding</headword></item>
+    <item>
+      <headword id="d0e78">a’ càrdadh</headword>
+      <description>act of carding.</description>
+    </item>
+    <item>
+      <headword id="d0e87">càrd</headword>
+      <description>card.</description>
+    </item>
+    <item>
+      <headword id="d0e96">rollag</headword>
+      <description>long roll of wool.</description>
+    </item>
+    <item><headword id="d0e104" type="heading" level="h1">4. Spinning</headword></item>
+    <item>
+      <headword id="d0e109">sniomh</headword>
+      <description>spinning (pron. sniamh).</description>
+    </item>
+    <item><headword id="d0e117" type="heading" level="h1">5. Parts of the spinning wheel</headword></item>
+    <item>
+      <headword id="d0e122">roth</headword>
+      <description>wheel.</description>
+    </item>
+    <item>
+      <headword id="d0e131">bann, acfhuinn</headword>
+    </item>
+    <item>
+      <headword id="d0e137">ciach</headword>
+      <description>centre of wheel.</description>
+    </item>
+    <item>
+      <headword id="d0e146">cuileanan</headword>
+      <description>spokes.</description>
+    </item>
+    <item><headword id="d0e154" type="heading" level="h1">6. Yarn and associated apparatus</headword></item>
+    <item>
+      <headword id="d0e159">ceairle</headword>
+      <description>ball of yarn.</description>
+    </item>
+    <item>
+      <headword id="d0e168">piùrna</headword>
+      <description>reel.</description>
+    </item>
+    <item>
+      <headword id="d0e177">fearsaid</headword>
+    </item>
+    <item>
+      <headword id="d0e183">crois-iarna</headword>
+      <description>for making hanks.</description>
+    </item>
+    <item><headword id="d0e191" type="heading" level="h1">7. Dyeing</headword></item>
+    <item>
+      <headword id="d0e196">crotal</headword>
+      <description>lichen.</description>
+    </item>
+    <item>
+      <headword id="d0e205">copag</headword>
+      <description>docken.</description>
+    </item>
+    <item>
+      <headword id="d0e214">fraoch</headword>
+      <description>heather.</description>
+    </item>
+    <item>
+      <headword id="d0e223">copar</headword>
+    </item>
+    <item><headword id="d0e228" type="heading" level="h1">8. Washing after dyeing</headword></item>
+    <item><headword id="d0e232" type="heading" level="h1">9. Warping</headword></item>
+    <item><headword id="d0e236" type="heading" level="h1">10. Beaming and tying</headword></item>
+    <item><headword id="d0e240" type="heading" level="h1">11. Weaving</headword></item>
+    <item><headword id="d0e244" type="heading" level="h1">12. Parts of the weaving loom</headword></item>
+    <item><headword id="d0e248" type="heading" level="h1">13. Finishing</headword></item>
+  </items>
+</fieldworkDocument>

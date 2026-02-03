@@ -1,0 +1,776 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 27/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_TomnafeannaigAMacEachernslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>12/1968</date>
+  <fieldworker>[AJ Smith]</fieldworker>
+  <note>[NOTES: in IPA transcriptions, the fieldworker uses [w] for [ɯ].]</note>
+  <informant>
+    <nameEnglish>Alasdair MacEachern</nameEnglish>
+    <age>c. 70</age>
+    <origin>Islay, Ballygrant</origin>
+  </informant>
+  <location>Islay, Port Askaig, Tom-na-Feannaig</location>
+  <items>
+    <item>
+      <headword id="idp120677064">[ɡɔs]</headword>
+      <description>Notes: call to a dog (old usage).</description>
+    </item>
+    <item>
+      <headword id="idp120674112">[kɾo, kɾo]</headword>
+      <description>Notes: shooing hens inside.</description>
+    </item>
+    <item>
+      <headword id="idp120670728">[hu̜i:dʹʒ]</headword>
+      <description>Notes: call to ducks (repeated).</description>
+    </item>
+    <item>
+      <headword id="idp120666696">[hɤp]</headword>
+      <description>Notes: instruction to a horse to turn left.</description>
+    </item>
+    <item>
+      <headword id="idp120691176">[vẽ:nʹ]</headword>
+      <description>Notes: instruction to a horse to turn right. (a’ mhàin?)</description>
+    </item>
+    <item>
+      <headword id="idp119398648">[ʃi:d̪ɑx]</headword>
+      <description>Notes: call to cats (repeated).</description>
+    </item>
+    <item>
+      <headword id="idp119400304">[ˈʃi:əɫ]</headword>
+      <description>Notes: call to geese (repeated).</description>
+    </item>
+    <item>
+      <headword id="idp119401960">[snʹɔ̃ʔəṉ]</headword>
+      <description>Notes: eggs of the hair louse.</description>
+    </item>
+    <item>
+      <headword id="idp119403616">là</headword>
+      <description>Quotation: Là na traisg.</description>
+    </item>
+    <item>
+      <headword id="idp119405128">laimhsich</headword>
+      <description>Quotation: Tha i a’ laimhseachadh gu maith. Notes: said of a beast that had good points at shows, etc.</description>
+    </item>
+    <item>
+      <headword id="idp119406856">lann</headword>
+      <description>Quotation: lannan [d̪ɛ̃n̪əṉ]. Notes: rafters in modern house.</description>
+    </item>
+    <item>
+      <headword id="idp119408872">làr</headword>
+      <description>Quotation: Am fear nach eil a’ làr [əɫɑ:ɾ]. Notes: “He who is dead” or “He who was here but is now dead”.</description>
+    </item>
+    <item>
+      <headword id="idp119410888">leathad</headword>
+      <description>[lʹɛʔɛd̪] [?] Notes: gentle slope.</description>
+    </item>
+    <item>
+      <headword id="idp119412688">leibideach</headword>
+      <description>Quotation: duine [lʹebidʹɑx]. Notes: small, useless person.</description>
+    </item>
+    <item>
+      <headword id="idp119414704">leisg</headword>
+      <description>Notes: lazy.</description>
+    </item>
+    <item>
+      <headword id="idp119416216">leum</headword>
+      <description>Quotation: leum fada; leum àrd, cruinn-leum.</description>
+    </item>
+    <item>
+      <headword id="idp119417728">luchd-comanachaidh</headword>
+      <description>Notes: church members.</description>
+    </item>
+    <item>
+      <headword id="idp119419240">math</headword>
+      <description>Quotation: Gu robh math agad! Usually [kɔrɔmɛ̃]. Notes: equivalent of “Thank you!”</description>
+    </item>
+    <item>
+      <headword id="idp119421184">mathar-shùgain</headword>
+      <description>Notes: rope or wire round thatched roof near the top of the wall. The ropes going over the ridge were attached to it.</description>
+    </item>
+    <item>
+      <headword id="idp119422696">meud</headword>
+      <description>Quotation: meud mhór is bochdainn. Notes: applied to someone who had little money but tried to keep up appearances. Or boasting without justification.</description>
+    </item>
+    <item>
+      <headword id="idp119424352">mion-éisdeachd</headword>
+      <description>Quotation: Tha mion-éisdeachd ann. Notes: He is dull of hearing.</description>
+    </item>
+    <item>
+      <headword id="idp119426008">mionnaichte</headword>
+      <description>Quotation: (1) Bha mi mionnaichte nach deanadh e e. (2) Mhionnaichinn gu robh e ann. Notes: (1) used by AME in the sense “I was determined that he wouldn’t do it.” (2) I would swear he was there.</description>
+    </item>
+    <item>
+      <headword id="idp119427952">muiltean</headword>
+      <description>Quotation: car a’ mhuiltean. Notes: somersault.</description>
+    </item>
+    <item>
+      <headword id="idp119429608">riaghailt</headword>
+      <description>Quotation: bean riaghailt. Notes: midwife.</description>
+    </item>
+    <item>
+      <headword id="idp119431264">traisg</headword>
+      <description>Quotation: Mo thraisg ort fhéin! Notes: when checking a child.</description>
+    </item>
+    <item>
+      <headword id="idp119432920">dol-air-aghaidh</headword>
+      <description>Notes: a “carry-on”. See “dol a mach”.</description>
+    </item>
+    <item>
+      <headword id="idp119434432">dol-a-mach</headword>
+      <description>Notes: a “carry on” – stronger than “dol air aghaidh”. It means going over the score altogether.</description>
+    </item>
+    <item>
+      <headword id="idp119435944">air</headword>
+      <description>Quotation: Tha Aonghas an aon dòigh oirne. Notes: Angus is the same as us.</description>
+    </item>
+    <item>
+      <headword id="idp119437600">iochd</headword>
+      <description>Quotation: duine gun iochd. Notes: mercy.</description>
+    </item>
+    <item>
+      <headword id="idp119439256">neasgaid</headword>
+      <description>[nʹesɡɑdʹʒ] Notes: boil.</description>
+    </item>
+    <item>
+      <headword id="idp119440984">ord</headword>
+      <description>Quotation: a tilgeil an ùird. Notes: throwing the hammer.</description>
+    </item>
+    <item>
+      <headword id="idp119442640">peasan</headword>
+      <description>[pɛsɑ̃ṉ] Notes: pest.</description>
+    </item>
+    <item>
+      <headword id="idp119444368">[pɾi:ʃo]</headword>
+      <description>Notes: call to a horse.</description>
+    </item>
+    <item>
+      <headword id="idp119446024">peileir</headword>
+      <description>Quotation: a’ tilgeil a’ pheileir. Notes: putting the shot.</description>
+    </item>
+    <item>
+      <headword id="idp119447680">pìochan</headword>
+      <description>Quotation: am pìochan. Notes: hoarseness, chestiness.</description>
+    </item>
+    <item>
+      <headword id="idp119449336">pocan</headword>
+      <description>[pɔxkɑ̃ṉ] Notes: small, thick-set, cocky child. “O! S tu ’m pocan beag!” Could sometimes refer to adults, but infrequently.</description>
+    </item>
+    <item>
+      <headword id="idp119451208">pongail</headword>
+      <description>Quotation: duine pongail. Notes: handy, knacky man.</description>
+    </item>
+    <item>
+      <headword id="idp119452864">pòsadh</headword>
+      <description>Quotation: seirbhis phòsaidh.</description>
+    </item>
+    <item>
+      <headword id="idp119454376">[pɾi:jo:]</headword>
+      <description>Notes: call for cattle.</description>
+    </item>
+    <item>
+      <headword id="idp119456032">[pɾi:veɡ]</headword>
+      <description>Notes: call to a calf.</description>
+    </item>
+    <item>
+      <headword id="idp119457688">sàil</headword>
+      <description>Quotation: sàil an innein. Notes: the blunt end of the anvil.</description>
+    </item>
+    <item>
+      <headword id="idp119459344">seachainn</headword>
+      <description>Quotation: Cha sheachainn thu do chrannchur. Notes: You won’t escape your fate.</description>
+    </item>
+    <item>
+      <headword id="idp119461000">séid</headword>
+      <description>Quotation: Bha iad air a’ séideadh an aghaidh a chéile. Notes: They were incited, agitated against each other.</description>
+    </item>
+    <item>
+      <headword id="idp119462728">seirbhis</headword>
+      <description>Quotation: seirbhis bhaistidh.</description>
+    </item>
+    <item>
+      <headword id="idp167672040">seirbhis</headword>
+      <description>Quotation: seirbhis bhuidheachais. Notes: Thanksgiving service on Sunday evening after the Communion service.</description>
+    </item>
+    <item>
+      <headword id="idp167673696">seirbhis</headword>
+      <description>Quotation: seirbhis phòsaidh.</description>
+    </item>
+    <item>
+      <headword id="idp167675208">seisean</headword>
+      <description>Notes: session.</description>
+    </item>
+    <item>
+      <headword id="idp167676720">seisean</headword>
+      <description>Quotation: cléireach an t-seisein.</description>
+    </item>
+    <item>
+      <headword id="idp167678232">seòrsa</headword>
+      <description>Quotation: Gàidhlig de sheòrsa ’s as bith. Notes: any kind of Gaelic.</description>
+    </item>
+    <item>
+      <headword id="idp167679888">sgainndeach</headword>
+      <description>[sɡɛ̃:nʹdʹʒɑx] Quotation: a’ sgainndeach. Notes: rheumatism.</description>
+    </item>
+    <item>
+      <headword id="idp167681760">sgaradh</headword>
+      <description>Quotation: Mo sgaradh! Notes: same as “mo chreach!”</description>
+    </item>
+    <item>
+      <headword id="idp167683416">sgileid</headword>
+      <description>[sɡʹilɑdʹʒ] Notes: tin mug sold by tinkers. Used for drinking tea and for filling the “bucaid” at the well.</description>
+    </item>
+    <item>
+      <headword id="idp167685144">sgiomalair</headword>
+      <description>Notes: moocher, bum.</description>
+    </item>
+    <item>
+      <headword id="idp167686656">sgliùrach</headword>
+      <description>Notes: untidy female.</description>
+    </item>
+    <item>
+      <headword id="idp167688168">sgloid</headword>
+      <description>[sɡɫɔ:dʹʒ] Notes: big, fat, useless woman.</description>
+    </item>
+    <item>
+      <headword id="idp167689896">sglomag</headword>
+      <description>[sɡɫɔmɑɡ] Notes: matter coming from running nose.</description>
+    </item>
+    <item>
+      <headword id="idp167691624">sgreab</headword>
+      <description>[sɡɾeʔb] Quotation: na sgreaban. Notes: impetigo, scabs.</description>
+    </item>
+    <item>
+      <headword id="idp167693496">sigeann</headword>
+      <description>[ʃiɡʹən̪] Quotation: duine gun sigeann. Notes: an unpleasant man.</description>
+    </item>
+    <item>
+      <headword id="idp167695368">slàn</headword>
+      <description>Quotation: O slàn ort! Notes: exclamation used by someone who has just been told of a death.</description>
+    </item>
+    <item>
+      <headword id="idp167697024">sliomair</headword>
+      <description>[ʃlʹĩmɑɾ] Notes: servile person.</description>
+    </item>
+    <item>
+      <headword id="idp167698752">sluagh</headword>
+      <description>Quotation: an sluagh. Notes: congregation.</description>
+    </item>
+    <item>
+      <headword id="idp167700408">smug</headword>
+      <description>Notes: spit.</description>
+    </item>
+    <item>
+      <headword id="idp167701920">snighe</headword>
+      <description>Quotation: an t-snighe dhubh. Notes: drip from the roof in the old thatched houses.</description>
+    </item>
+    <item>
+      <headword id="idp167703576">snoigiseach</headword>
+      <description>[sn̪ɔ̃ɡʹiʃɑx] Quotation: duine snoigiseach. Notes: huffy, touchy man.</description>
+    </item>
+    <item>
+      <headword id="idp167705448">sorachan</headword>
+      <description>Notes: rest on which horse’s hoof was put when shoeing. (Dwelly – horse block.)</description>
+    </item>
+    <item>
+      <headword id="idp167706960">spàgach</headword>
+      <description>Quotation: duine spàgach. Notes: splay-footed man.</description>
+    </item>
+    <item>
+      <headword id="idp167708616">spàgail</headword>
+      <description>Quotation: Dé a’ spàgail a th’ort an sin? Notes: What are you groping about there for? (not walking)</description>
+    </item>
+    <item>
+      <headword id="idp167710344">spòg</headword>
+      <description>Quotation: a’ spòg dhubh. Notes: disease peculiar to sheep whereby the skin becomes like jelly and turns black. The animal becomes blown up.</description>
+    </item>
+    <item>
+      <headword id="idp167712000">sreathart</headword>
+      <description>Quotation: a’ [sɾɑiɑrt̪i] or a’ [sn̪ɑiɑrt̪i]. Notes: sneezing.</description>
+    </item>
+    <item>
+      <headword id="idp167714160">sròin</headword>
+      <description>Quotation: sroin [sic] an innein. Notes: pointed end of anvil.</description>
+    </item>
+    <item>
+      <headword id="idp167715816">stràic</headword>
+      <description>Quotation: “Nach ann ann a tha a’ stràic.” Notes: pride.</description>
+    </item>
+    <item>
+      <headword id="idp167717472">stuaim</headword>
+      <description>Notes: modesty. Stuaimeach: modesty [sic].</description>
+    </item>
+    <item>
+      <headword id="idp167718984">stuig</headword>
+      <description>Quotation: a’ stuigeadh a’ choin. Notes: egg on the dog, e.g. after sheep.</description>
+    </item>
+    <item>
+      <headword id="idp167720640">sturrag</headword>
+      <description>[st̪u̜rɑɡ] Notes: a sharp rock jutting out of the ground.</description>
+    </item>
+    <item>
+      <headword id="idp167722368">suarach</headword>
+      <description>Quotation: duine suarach. Notes: worthless, paltry man.</description>
+    </item>
+    <item>
+      <headword id="idp167724024">sùrdail</headword>
+      <description>[su̜:rt̪ɑl] Quotation: duine sùrdail. Notes: bright and entertaining man.</description>
+    </item>
+    <item>
+      <headword id="idp167725896">tabhaisear</headword>
+      <description>[t̪ɛviʃɛɾ] Notes: small, silly useless person.</description>
+    </item>
+    <item>
+      <headword id="idp167727624">teanndachd</headword>
+      <description>Quotation: an teanndachd. Notes: asthma.</description>
+    </item>
+    <item>
+      <headword id="idp167729280">thugad</headword>
+      <description>Quotation: Thugad! Notes: Watch yourself! Out of the way!</description>
+    </item>
+    <item>
+      <headword id="idp167730936">tigh</headword>
+      <description>Quotation: tigh seisean. Notes: session house.</description>
+    </item>
+    <item>
+      <headword id="idp167732592">tinneas</headword>
+      <description>Quotation: an tinneas-tuiteamach. Notes: epilepsy.</description>
+    </item>
+    <item>
+      <headword id="idp167734248">tiug, tiug</headword>
+      <description>[tʹʃu̜k, tʹʃu̜k] Notes: call to hens.</description>
+    </item>
+    <item>
+      <headword id="idp167735976">tog</headword>
+      <description>Quotation: fear togail fuinn. Notes: precentor.</description>
+    </item>
+    <item>
+      <headword id="idp162886944">tom</headword>
+      <description>Quotation: tom conas [kɔ̃ṉəs]. Notes: hillock or clump.</description>
+    </item>
+    <item>
+      <headword id="idp162888816">tonaisg</headword>
+      <description>[t̪ɔ̃ṉeʃɡʹ] Quotation: duine gun tonaisg. Notes: a man without sense.</description>
+    </item>
+    <item>
+      <headword id="idp162890688">torrag</headword>
+      <description>[t̪ɔʔrɑɡ] Quotation: torrag fraoich. Notes: clump of heather.</description>
+    </item>
+    <item>
+      <headword id="idp162892560">torrag</headword>
+      <description>[t̪ɔʔrɑɡ] Notes: small hillock.</description>
+    </item>
+    <item>
+      <headword id="idp162894288">trasg</headword>
+      <description>Quotation: Là na traisg. Notes: Fast day, Thursday before Communion.</description>
+    </item>
+    <item>
+      <headword id="idp162895944">treimeasgal</headword>
+      <description>[t̪ɾɛ̃məsɡəɫ] Notes: rubbish.</description>
+    </item>
+    <item>
+      <headword id="idp162897672">tùir</headword>
+      <description>Quotation: duine gun tùir. Notes: unskilful man.</description>
+    </item>
+    <item>
+      <headword id="idp162899328">tuiteamach</headword>
+      <description>Quotation: an tinneas tuiteamach. Notes: epilepsy.</description>
+    </item>
+    <item>
+      <headword id="idp162900984">uchdach</headword>
+      <description>Quotation: uchdach cas. Notes: steep brae.</description>
+    </item>
+    <item>
+      <headword id="idp162902640">uchdan</headword>
+      <description>Notes: rise.</description>
+    </item>
+    <item>
+      <headword id="idp162904152">udalan</headword>
+      <description>Notes: a swivel.</description>
+    </item>
+    <item>
+      <headword id="idp162905664">uireall</headword>
+      <description>Notes: (1) ring on the prow of a boat for tying it. (2) metal band to keep wood in walking stick from splitting.</description>
+    </item>
+    <item>
+      <headword id="idp162907176">ullaidh</headword>
+      <description>Notes: hidden treasure.</description>
+    </item>
+    <item>
+      <headword id="idp162908688">[əvõ:nʹdʹʒe:]</headword>
+      <description>Notes: the day before yesterday. [NOTES: slipped under ‘a-bhoin-dé’.]</description>
+    </item>
+    <item>
+      <headword id="idp162910488">[ɛ̃nʹəvɑx]</headword>
+      <description>Quotation: Tha esan an [ɛ̃nʹəvɑx] gu a’ chluasan. Notes: He is in debt up to his ears. [NOTES: slipped under ‘ainbhfiach’.]</description>
+    </item>
+    <item>
+      <headword id="idp162912720">aithris-mhagaidh</headword>
+      <description>Quotation: Rinn e aithris-mhagaidh dheth fhéin. Notes: He made an utter fool of himself.</description>
+    </item>
+    <item>
+      <headword id="idp162914520">amadan</headword>
+      <description>Notes: foolish man.</description>
+    </item>
+    <item>
+      <headword id="idp162916176">amaid</headword>
+      <description>Notes: young, foolish girl. Seann amaid: older, foolish woman.</description>
+    </item>
+    <item>
+      <headword id="idp162917904">an earalas</headword>
+      <description>Quotation: An earalas gun deanadh iad fuaim. Notes: in case.</description>
+    </item>
+    <item>
+      <headword id="idp162919704">[ənʹẽʔṉəɾ]</headword>
+      <description>Notes: the day after tomorrow. [NOTES: slipped under ‘an earrar’.]</description>
+    </item>
+    <item>
+      <headword id="idp162921504">bacan</headword>
+      <description>Notes: used of the right-angled piece of iron put in a gate post on which to hang the hinge. Bann – hinge.</description>
+    </item>
+    <item>
+      <headword id="idp162923160">bann</headword>
+      <description>Notes: hinge. See “bacan”.</description>
+    </item>
+    <item>
+      <headword id="idp162924816">barasgall</headword>
+      <description>[bɑɾɑsɡəɫ] Notes: rubbish heap, e.g. as when cutting branches off trees and heaping them.</description>
+    </item>
+    <item>
+      <headword id="idp162926472">bean</headword>
+      <description>Quotation: bean riaghailt. Notes: midwife. [NOTES: slipped under ‘bean-riaghailt’.]</description>
+    </item>
+    <item>
+      <headword id="idp162928416">beàrn</headword>
+      <description>Notes: piece out of anything – wall, ground, etc.</description>
+    </item>
+    <item>
+      <headword id="idp162930072">beum-seic</headword>
+      <description>Quotation: a’ bheum-seic. Notes: rupture. [NOTES: slipped under ‘beum-sice’.]</description>
+    </item>
+    <item>
+      <headword id="idp162932016">bith</headword>
+      <description>Quotation: Gàidhlig de sheòrsa ’s as bith. Notes: any kind of Gaelic.</description>
+    </item>
+    <item>
+      <headword id="idp162933816">bochdainn</headword>
+      <description>Quotation: meud mhór is bochdainn. Notes: applied to someone who had little money but who tried to keep up appearances or boasting without justification.</description>
+    </item>
+    <item>
+      <headword id="idp162935616">bolgach</headword>
+      <description>Quotation: duine bolgach. Notes: corpulent man.</description>
+    </item>
+    <item>
+      <headword id="idp162937416">bòrd</headword>
+      <description>Quotation: Bòrd a cho-thional. Notes: Congregation board.</description>
+    </item>
+    <item>
+      <headword id="idp162939216">bòsdail</headword>
+      <description>Quotation: duine bòsdail. Notes: braggart.</description>
+    </item>
+    <item>
+      <headword id="idp162941016">brabhadach</headword>
+      <description>Quotation: duine brabhadach. Notes: bandy-legged man.</description>
+    </item>
+    <item>
+      <headword id="idp162942816">bragsaidh</headword>
+      <description>Quotation: am bragsaidh. Notes: braxy – sheep disease.</description>
+    </item>
+    <item>
+      <headword id="idp162944616">breac</headword>
+      <description>Quotation: a’ bhreac [əvɾwxk]. Notes: vaccination, smallpox.</description>
+    </item>
+    <item>
+      <headword id="idp162946632">bròd</headword>
+      <description>Quotation: Tha mòran bròd ann. Notes: pride.</description>
+    </item>
+    <item>
+      <headword id="idp162948432">bròdail</headword>
+      <description>Notes: proud.</description>
+    </item>
+    <item>
+      <headword id="idp162950088">buidheach</headword>
+      <description>Quotation: a’ bhuidheach. Notes: jaundice.</description>
+    </item>
+    <item>
+      <headword id="idp120320032">buidheachas</headword>
+      <description>Quotation: seirbhis bhuidheachais. Notes: Thanksgiving service on Sunday evening of the Communions.</description>
+    </item>
+    <item>
+      <headword id="idp120321832">builgeag-fhola</headword>
+      <description>Notes: a small bubble of blood that forms when one hits one’s finger with a heavy object.</description>
+    </item>
+    <item>
+      <headword id="idp120323488">cabar</headword>
+      <description>Quotation: a’ tilgeil a’ chabair. Notes: tossing the caber.</description>
+    </item>
+    <item>
+      <headword id="idp120325288">carachd</headword>
+      <description>Notes: wrestling.</description>
+    </item>
+    <item>
+      <headword id="idp120326944">car</headword>
+      <description>Quotation: car a’ mhuiltean. Notes: somersault. [NOTES: slipped under ‘car a’ mhuiltein’.]</description>
+    </item>
+    <item>
+      <headword id="idp120328888">carragh</headword>
+      <description>Quotation: carra [kɑʔrə], na carrachan. Notes: standing stones.</description>
+    </item>
+    <item>
+      <headword id="idp120330976">casachdaich</headword>
+      <description>[kɑsɑxki] Quotation: (a) casachdaich. Notes: coughing.</description>
+    </item>
+    <item>
+      <headword id="idp120332776">ceannag</headword>
+      <description>Notes: bundle of hay or straw. (Jura)</description>
+    </item>
+    <item>
+      <headword id="idp120334432">ciall</headword>
+      <description>Quotation: O chiall! or O chiall O! (stronger) Notes: when something startling is seen or heard.</description>
+    </item>
+    <item>
+      <headword id="idp120336232">cipean</headword>
+      <description>Notes: tethering pin.</description>
+    </item>
+    <item>
+      <headword id="idp120337888">clabhas</headword>
+      <description>[kɫɑvɑs] Quotation: clabhas gun fheum. Notes: idle talk.</description>
+    </item>
+    <item>
+      <headword id="idp120339688">cléireach</headword>
+      <description>Quotation: cléireach an t-seisein. Notes: session clerk.</description>
+    </item>
+    <item>
+      <headword id="idp120341488">cleòc</headword>
+      <description>Quotation: an cleòc. Notes: minister’s vestment.</description>
+    </item>
+    <item>
+      <headword id="idp120343288">clupaid</headword>
+      <description>Quotation: a’ chlupaid [əxɫu̜ʰpidʹʒ]. Notes: swelling of the neck in sheep and cattle (liver fluke?).</description>
+    </item>
+    <item>
+      <headword id="idp120345304">cnatan</headword>
+      <description>[kɾɛt̪ɑ̃ṉ] Quotaiton: an cnatan. Notes: a cold or a chill.</description>
+    </item>
+    <item>
+      <headword id="idp120347104">co-thional</headword>
+      <description>[koˈhĩṉɑɫ] Notes: congregation.</description>
+    </item>
+    <item>
+      <headword id="idp120348760">cochall</headword>
+      <description>Quotation: an cochall [koxəɫ] or cochull. Notes: covering on lamb at birth.</description>
+    </item>
+    <item>
+      <headword id="idp120350848">coinneamh</headword>
+      <description>Quotation: coinneamh ùrnuigh. Notes: prayer meeting.</description>
+    </item>
+    <item>
+      <headword id="idp120352648">coinneamh</headword>
+      <description>Quotation: coinneamh a’ bhòrd. Notes: meeting of the congregation board.</description>
+    </item>
+    <item>
+      <headword id="idp120354448">coinneamh</headword>
+      <description>Quotation: coinneamh an t-seisein. Notes: session meeting.</description>
+    </item>
+    <item>
+      <headword id="idp120356248">còir</headword>
+      <description>Quotation: duine còir. Notes: quiet, gentle man.</description>
+    </item>
+    <item>
+      <headword id="idp120358048">comanachadh</headword>
+      <description>Quotation: An Comanachadh. Notes: Communion.</description>
+    </item>
+    <item>
+      <headword id="idp120359848">comanachadh</headword>
+      <description>Quotation: comhtharra Comanachaidh. Notes: Communion token.</description>
+    </item>
+    <item>
+      <headword id="idp120361648">comhtharra</headword>
+      <description>Quotation: comhtharra comanachaidh. Notes: Communion token. Formerly square pieces.</description>
+    </item>
+    <item>
+      <headword id="idp120363448">crannchur</headword>
+      <description>Quotation: Cha sheachainn thu do chrannchur. Notes: You will not escape your fate.</description>
+    </item>
+    <item>
+      <headword id="idp120365248">creideas</headword>
+      <description>Quotation: duine gun chreideas. Notes: unreliable, undependable man.</description>
+    </item>
+    <item>
+      <headword id="idp120367048">crianta</headword>
+      <description>[kɾıən̪d̪ə] Quotation: duine crianta. Notes: mean person.</description>
+    </item>
+    <item>
+      <headword id="idp120368848">cròcach</headword>
+      <description>Notes: attachment on calf’s mouth to prevent suckling. Also cròcaid.</description>
+    </item>
+    <item>
+      <headword id="idp120370504">cròcaid</headword>
+      <description>Notes: arrangement put on calf’s mouth to prevent suckling. Spiked. Also cròcach.</description>
+    </item>
+    <item>
+      <headword id="idp120372160">crosda</headword>
+      <description>Quotation: duine crosda. Notes: cross man.</description>
+    </item>
+    <item>
+      <headword id="idp120373960">cruinn-leum</headword>
+    <description>[kɾu̜:lʹəm] </description></item>
+    <item>
+      <headword id="idp120375616">cuachag?</headword>
+      <description>[koʔoɢ] Notes: small wooden vessel holding about one pint used for drinking water.</description>
+    </item>
+    <item>
+      <headword id="idp120377272">crotach</headword>
+      <description>Notes: hunch-backed.</description>
+    </item>
+    <item>
+      <headword id="idp120378928">cuing-analach</headword>
+      <description>Notes: asthma, difficulty in breathing.</description>
+    </item>
+    <item>
+      <headword id="idp120380584">cuir</headword>
+      <description>Quotation: Bha e air a chuir thuige. Notes: He was sorely pressed.</description>
+    </item>
+    <item>
+      <headword id="idp120382384">dàn</headword>
+      <description>Quotation: Bha e an dàn dha. Notes: destiny.</description>
+    </item>
+    <item>
+      <headword id="idp120384184">dath</headword>
+      <description>Quotation: Tha dath maith air a ceann. Notes: said of a beast’s head at shows, etc.</description>
+    </item>
+    <item>
+      <headword id="idp166163744">dealbh</headword>
+      <description>Quotation: duine gun dealbh. Notes: unskilful, useless man.</description>
+    </item>
+    <item>
+      <headword id="idp166165544">deilgneach</headword>
+      <description>[dʹʒılıɡʹnʹɑx] Notes: chicken-pox.</description>
+    </item>
+    <item>
+      <headword id="idp166167200">dias</headword>
+      <description>Quotation: Na diasan. Notes: the straws left when binding corn.</description>
+    </item>
+    <item>
+      <headword id="idp166169000">diùid</headword>
+      <description>Quotation: duine diùid. Notes: shy, backward person.</description>
+    </item>
+    <item>
+      <headword id="idp166170800">dobhrainn</headword>
+      <description>Notes: pain. Used preferably to “pian” (q.v.) in Islay for ordinary physical pain.</description>
+    </item>
+    <item>
+      <headword id="idp166172456">dubh</headword>
+      <description>Quotation: a’ spòg dhubh. Notes: see spòg.</description>
+    </item>
+    <item>
+      <headword id="idp166174256">earalas</headword>
+      <description>Quotation: An earalas gun deanadh iad fuaim. Notes: in case.</description>
+    </item>
+    <item>
+      <headword id="idp166176056">eileamaid</headword>
+      <description>Quotation: Na h-eileamaidean. Notes: cup and plates at a Communion service.</description>
+    </item>
+    <item>
+      <headword id="idp166177856">éirigh</headword>
+      <description>Quotation: éirigh a mach. Notes: going over the score altogether. Same as “dol a mach”. See mach.</description>
+    </item>
+    <item>
+      <headword id="idp166179656">eudail</headword>
+      <description>Notes: dear. Not used now.</description>
+    </item>
+    <item>
+      <headword id="idp166181312">fathamas</headword>
+      <description>[fɑʔɑməs] Quotation: Fhuair e fathamas. Notes: respite, time to think.</description>
+    </item>
+    <item>
+      <headword id="idp166183112">fear</headword>
+      <description>Quotation: fear togail fuinn. Notes: precentor.</description>
+    </item>
+    <item>
+      <headword id="idp166184912">fiabhras dearg</headword>
+      <description>Quotation: a’ fiabhras dearg. Notes: scarlet fever.</description>
+    </item>
+    <item>
+      <headword id="idp166186712">fiach</headword>
+      <description>Quotation: (1) Chuir e [mɑɾiɑxəm] air gu robh cuideigin a’ tighinn. (2) Bha e [mɑɾiɑxəm] orm amharc ’na dheidh. Notes: (1) translates, “He made him believe there was someone coming.” i.e. He misled him. (2) translates, “I was obliged to look after him.” [mɑɾiɑxəm] is the same in both.</description>
+    </item>
+    <item>
+      <headword id="idp166189376">fiosrach</headword>
+      <description>Quotation: Chan fhiosrach mi. Notes: I do not know.</description>
+    </item>
+    <item>
+      <headword id="idp166191176">foghainteach</headword>
+      <description>Quotation: duine f. Notes: good-looking, strapping man.</description>
+    </item>
+    <item>
+      <headword id="idp166192976">foinne</headword>
+      <description>Notes: wart.</description>
+    </item>
+    <item>
+      <headword id="idp166194632">foirbheach</headword>
+      <description>Notes: elder.</description>
+    </item>
+    <item>
+      <headword id="idp166196288">fonn</headword>
+      <description>Quotation: Fear togail fuinn. Notes: precentor.</description>
+    </item>
+    <item>
+      <headword id="idp166198088">fraoch</headword>
+      <description>Quotation: torrag fraoich. Notes: clump of heather.</description>
+    </item>
+    <item>
+      <headword id="idp166199888">fuachd</headword>
+      <description>Quotation: am fuachd. Notes: cold, chill (as affecting the nose etc.).</description>
+    </item>
+    <item>
+      <headword id="idp166201688">gabhadach</headword>
+      <description>Notes: cunning, crafty; witty.</description>
+    </item>
+    <item>
+      <headword id="idp166203344">galar-plocach</headword>
+      <description>Quotation: an galar-plocach. Notes: mumps.</description>
+    </item>
+    <item>
+      <headword id="idp166205144">garrach</headword>
+      <description>Quotation: balach garrach. Notes: mischievous brat of a boy.</description>
+    </item>
+    <item>
+      <headword id="idp166206944">gasda</headword>
+      <description>Quotation: duine gasda. Notes: nice man.</description>
+    </item>
+    <item>
+      <headword id="idp166208744">geannaire</headword>
+      <description>Quotation: geannaire cruinnidh [kɾũ̟nʹi]. Notes: shoeing hammer.</description>
+    </item>
+    <item>
+      <headword id="idp166210760">glanadh</headword>
+      <description>Quotation: an glanadh. Notes: placenta or afterbirth.</description>
+    </item>
+    <item>
+      <headword id="idp166212560">gòrag</headword>
+      <description>[ɡɔ:rɑɡ] Notes: young foolish girl.</description>
+    </item>
+    <item>
+      <headword id="idp166214216">gràideanas</headword>
+      <description>[ɡɾɑ:dʹʒən̪əs] Notes: a saying.</description>
+    </item>
+    <item>
+      <headword id="idp166215872">grannda</headword>
+      <description>Quotation: duine grannda. Notes: nasty man.</description>
+    </item>
+    <item>
+      <headword id="idp166217672">gribheach</headword>
+      <description>Quotation: an gribheach. Notes: measles.</description>
+    </item>
+    <item>
+      <headword id="idp166219472">guirean</headword>
+      <description>[ɡu̟ʔɾɑ̃nʹ] Notes: pimple.</description>
+    </item>
+    <item>
+      <headword id="idp166221128">[ɡʹu̟s]</headword>
+      <description>Notes: call to a pig (repeated).</description>
+    </item>
+  </items>
+</fieldworkDocument>

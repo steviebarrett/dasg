@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 24 4 13 -->
+<fieldworkDocument docId="Peat_TaransayCNMacKenziemoine" docType="questionnaire" subType="Peat">
+  <title>Mòine / Peat-Working</title>
+  <date>[06/09/1967?]</date>
+  <fieldworker>[self]</fieldworker>
+  <informant>
+    <nameEnglish>Colin Norman MacKenzie</nameEnglish>
+    <nameGaelic>Cailein Tormod Mac Coinnich </nameGaelic>
+    <origin>[Taransay]</origin>
+  </informant>
+  <location>Siorrach Àr, Cille Chaonaig [Ayrshire, Kilwinning]</location>
+  <!-- ILLUSTRATIONS -->
+  <items>
+    <item><headword id="d0e34" type="heading" level="h1">1. Ag ullachadh na talmhainn airson mòine a bhuain</headword></item>
+    <item>
+      <headword id="d0e39">sgoradh</headword>
+      <description>toirt dheth a rusg mhullaich de fhraoch na fhiariach. (English: turfing.)</description>
+    </item>
+    <item>
+      <headword id="d0e48">rùsgadh</headword>
+      <description>toirt dheth a rusg mhullaich de fhraoch na fhiariach. (English: turfing.)</description>
+    </item>
+    <item>
+      <headword id="d0e57">feannadh</headword>
+      <description>toirt dheth a rusg mhullaich de fhraoch na fhiariach. (English: turfing.)</description>
+    </item>
+    <item>
+      <headword id="d0e66">glanadh</headword>
+      <description>a còmhnardachadh a “charcaire” [q.v.] an deidh fheannadh.</description>
+    </item>
+    <item>
+      <headword id="d0e75">carcaire</headword>
+      <description>an leud mònadh a leigeadh ris, e.g. 
+        <illustration src="TaransayCNMacKenziemoineillust1.jpg" width="300"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e86">fosgladh</headword>
+      <description>(1) fosgladh poll ùr. (2) a’ toirt a cheud fhàd as iochdar a phuill leis a spaid, air son beul-sgathaidh a thoirt dhan tairsgeir.</description>
+    </item>
+    <item>
+      <headword id="d0e95">poll</headword>
+      <description>an t-slochd sa bheil a mhòine ga cladhach. (Eng. peat bank.)</description>
+    </item>
+    <item>
+      <headword id="d0e104">poll-monadh</headword>
+      <description>an t-slochd sa bheil a mhòine ga cladhach. (Eng. peat bank.)</description>
+    </item>
+    <item>
+      <headword id="d0e113">grabhag</headword>
+      <description>poll-mònadh beag, goirid. Mar is trice cuideachd, staoin na aodainn (aon fhàd a dhoimhne).</description>
+    </item>
+    <item>
+      <headword id="d0e122">ceap</headword>
+      <description>am ploc talamhainn a thathar a feannadh far na mònadh. (Eng. turf.)</description>
+    </item>
+    <item>
+      <headword id="d0e131">an grinneal</headword>
+      <description>am morghan nan greabhal a ruigear nuair a theirgeas a mhòine.</description>
+    </item>
+    <item>
+      <headword id="d0e140">peirceal a phuill</headword>
+      <description>Aghaidh a phuill-mhònadh. (E. the face of the bank.)</description>
+    </item>
+    <item><headword id="d0e148" type="heading" level="h1">2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</headword></item>
+    <item>
+      <headword id="d0e153">sgoradair</headword>
+      <description>inneal colach ri spaid bhiorach ’s faobhar aig gach taobh dhi, air son moine fheannadh. 
+        <illustration src="TaransayCNMacKenziemoineillust2.jpg" width="200"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e164">tairsginn</headword>
+      <description>inneal air son mòine ghearradh. Co-ionnan ’sgach àite, ach le “sgiath” na’s giorra an cuid a dh’àitichean. 
+        <illustration src="TaransayCNMacKenziemoineillust3.jpg" width="300"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e175">tairsgir</headword>
+      <description>[See tairsginn]</description>
+    </item>
+    <item>
+      <headword id="d0e184">traoisginn</headword>
+      <description>[See tairsginn]</description>
+    </item>
+    <item>
+      <headword id="d0e193">iarrun monadh</headword>
+      <description>[See tairsginn]</description>
+    </item>
+    <item>
+      <headword id="d0e202">cas</headword>
+      <description>faic os cionn seo [i.e. tairsginn].</description>
+    </item>
+    <item>
+      <headword id="d0e211">ceum</headword>
+      <description>faic os cionn seo. [i.e. tairsginn].</description>
+    </item>
+    <item>
+      <headword id="d0e220">sgiath</headword>
+      <description>faic os cionn seo. [i.e. tairsginn].</description>
+    </item>
+    <item>
+      <headword id="d0e229">fàd</headword>
+      <description>an caob monadh mar thig i o’n tairisgeir. 
+        <illustration src="TaransayCNMacKenziemoineillust4.jpg" width="200"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e240">buain</headword>
+      <description>a cladhach a mach na mònadh.</description>
+    </item>
+    <item>
+      <headword id="d0e249">gearradh</headword>
+      <description>a cladhach a mach na mònadh.</description>
+    </item>
+    <item>
+      <headword id="d0e258">’cur a mach</headword>
+      <description>a togal na fàd o’n tairisgeir ’sgan cath a mach as a pholl.</description>
+    </item>
+    <item>
+      <headword id="d0e267">’sgaoileadh</headword>
+      <description>a togal na fàd o’n tairisgeir ’sgan cath a mach as a pholl.</description>
+    </item>
+    <item>
+      <headword id="d0e276">balla</headword>
+      <description>dòigh air nam fadan a chur air muin an cheile air bruaich a phuill air chor sgun tiormaich iad na’s fhearr. Cuideachd far eil am poll domhain ’se gun móran sgaoiltich a mach uaithe. 
+        <illustration src="TaransayCNMacKenziemoineillust5.jpg" width="200"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e287">gàradh</headword>
+      <description>dòigh air nam fadan a chur air muin an cheile air bruaich a phuill air chor sgun tiormaich iad na’s fhearr. Cuideachd far eil am poll domhain ‘se gun móran sgaoiltich a mach uaithe. 
+        <illustration src="TaransayCNMacKenziemoineillust5.jpg" width="200"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e298">ealagol</headword>
+      <description>mòine ’their tiormachadh cruaidh fo’n talamh a chionns gu robh “talamh-toll” [q.v.] na “gaoth-thalamh” [q.v.] san aite a’ ceadachadh do’n ghaoith ruigheachd orra.</description>
+    </item>
+    <item>
+      <headword id="d0e307">talamh-toll</headword>
+      <description>tuill troimh thalamh mònadh.</description>
+    </item>
+    <item>
+      <headword id="d0e316">gaoth-thalamh</headword>
+      <description>tuill troimh thalamh mònadh.</description>
+    </item>
+    <item>
+      <headword id="d0e325">moine dhubh</headword>
+      <description>mòine tha cruaidh dubh, bristeach nuair tha e tioram, ’s anabarrach trom, ach fior mhath go gabhail.</description>
+    </item>
+    <item>
+      <headword id="d0e334">mhoine-bhàn</headword>
+      <description>moine aodram, chòsach, ruadh san dath.</description>
+    </item>
+    <item>
+      <headword id="d0e343">moine-bhàn</headword>
+      <description>mòine dhomain gun móran teas agus dualach an t-uisge ghabhail an deigh an tiormachadh. [NOTES: “mhoine-bhàn” and its definition appear at the bottom of page 3 and “moine-bhàn” and its definition at the top of page 4; they may be meant to be just one item.]</description>
+    </item>
+    <item>
+      <headword id="d0e352">mòine-chòsach</headword>
+      <description>mòine aodram bhog, far eil móran còinnich ’sa riasg.</description>
+    </item>
+    <item>
+      <headword id="d0e361">amh-mhòine</headword>
+      <description>moine nach deach a thiormachadh doigheil, na “thàinig air ais” an deigh a tiormachadh. Bi e dualach gu robh poll sticte dubh am measg a reisg!</description>
+    </item>
+    <item>
+      <headword id="d0e370">fàd</headword>
+      <description>an doimhne ruigeas an tairisgeir le aon phutadh dhan chois a chuireas an “ceum” air cothrom ris “a’ charcaire”. Tha doimhne phuill air a thoimhis a reir ’ona th’ann a dh’fhoid os cionn a cheil.</description>
+    </item>
+    <item><headword id="d0e378" type="heading" level="h1">3. A’ tiormachadh na mònach</headword></item>
+    <item>
+      <headword id="d0e383">tionndadh</headword>
+      <description>ri side fhliuch, ma’s togaisde mhòine, thionndaisde uairean taobh eile ’n fhòid an uachdar.</description>
+    </item>
+    <item>
+      <headword id="d0e392">togail</headword>
+      <description>a deanamh “coileag” [q.v.] de na fadan; sin ceithir na cóig air am bonn ’s fear air a mhullach. 
+        <illustration src="TaransayCNMacKenziemoineillust6.jpg" width="200"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e403">coileag</headword>
+      <description>tha facal air a chleachdadh air son mònadh ’sair son sguaban airbhair.</description>
+    </item>
+    <item>
+      <headword id="d0e412">“air a cois-bhig”</headword>
+      <description>canar sin ri mòine th’air a togail.</description>
+    </item>
+    <item>
+      <headword id="d0e421">a rùdhadh</headword>
+      <description>sin a’ deanamh “cruach bheag” de’n mhonaidh mun teid a cruachadh dòigheil.</description>
+    </item>
+    <item>
+      <headword id="d0e430">rùdhan</headword>
+      <description>cruach bheag fhosgailte san dean a mhoine tuilleadh tiormachaidh. 
+        <illustration src="TaransayCNMacKenziemoineillust7.jpg" width="200"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e441">sgaoilteach</headword>
+      <description>am blar a mach a bhruach a phuill air a bheil a mhoine sgaoilte gus an togar i.</description>
+    </item>
+    <item><headword id="d0e449" type="heading" level="h1">4. A’ cruachadh na mònach</headword></item>
+    <item>
+      <headword id="d0e454">’cruachadh</headword>
+      <description>a deanamh dùn cnapach den mhonaidh an dara cuid aig a pholl, ’neo an deigh a toirt dhachaigh. Aig a pholl bhiodh corra chruach ann, ach aig an tigh, cha bhiodh ach aon té mhor fhada. 
+        <illustration src="TaransayCNMacKenziemoineillust8.jpg" width="400"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e465">gniomhadh</headword>
+      <description>cur na fad air am bonn san oir a mach air taobh a muigh na cruaiche air son a deanamh seasgan. Mar so gheibhiste pataran “beul-sgoradh” air a chruaich. 
+        <illustration src="TaransayCNMacKenziemoineillust9.jpg" width="300"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e476">tughadh</headword>
+      <description>far nach robh chruach air a tughadh, dh’feumadh i gniomhadh (na vice versa!). Bhithisde tughadh nan cruach (gu h’araidh aig a pholl) leis na ceapan a thugadh far a phuill ga fheannadh.</description>
+    </item>
+    <item>
+      <headword id="d0e485">ceapan</headword>
+      <description>na pluic-fheannaidh leis a robhar a tughadh na “sgrathadh” na cruaiche.</description>
+    </item>
+    <item>
+      <headword id="d0e494">sgrathan</headword>
+      <description>na pluic-fheannaidh leis a robhar a tughadh na “sgrathadh” na cruaiche.</description>
+    </item>
+    <item>
+      <headword id="d0e503">cruach-ghniomhaidh</headword>
+      <description>té mhór, mar bu trice.</description>
+    </item>
+    <item>
+      <headword id="d0e512">ceap-mullaich</headword>
+      <description>am ploc, na sgrath, a bha dùnadh a mhullaich aig cruach chruinn bhiorach.</description>
+    </item>
+    <item><headword id="d0e520" type="heading" level="h1">5. A’ toirt na mònach dhachaigh; an cliabh, etc.</headword></item>
+    <item>
+      <headword id="d0e525">cliabh-droma</headword>
+      <description>bascaid air a deanamh car comhnard air aon taobh air son laighe air druim fear an eallaich. Bhathar a cleachdadh a chleibh air son mòine, feamainn, inneir, iasg, ’sgach seòrsa ghiulain – eadhon bathar as na bùthan ma bha iad fad as! Bhathar a cleachdadh an ainm “cliabh-droma” air son eadardhealachadh o “chliabh-ghiomach”.</description>
+    </item>
+    <item>
+      <headword id="d0e534">iris</headword>
+      <description>an ball, nan crios a bha laighe tarsainn uchd fhir-an-eallaich ’sa bha cumail a chleibh air a dhruim. Cliabh-droma le iris, làn moine: 
+        <illustration src="TaransayCNMacKenziemoineillust10.jpg" width="200"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e545">sioman</headword>
+      <description>ròpa air a dheanamh air muran na fraoch air a shniomh na dhà na trì duail air a cheile. Sann de’n t-sioman a bha an t-seann iris daonnan.</description>
+    </item>
+    <item>
+      <headword id="d0e554">plàta</headword>
+      <description>se seorsa de phlaide shiomain a bha dol air druim nan each ga chumail socair fo’n da chliabh-monadh – fear air gach taobh den “strathair”. 
+        <illustration src="TaransayCNMacKenziemoineillust11.jpg" width="300"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e565">strathair-chliabh</headword>
+      <description>pios airneis a laigheadh air druim an eich air son cliabh a ghiulain air gach taobh. Bha’n iris a dol air gach adhairc.
+        <illustration src="TaransayCNMacKenziemoineillust12.jpg" width="200"/> 
+      </description>
+    </item>
+    <item>
+      <headword id="d0e576">bodrachan (bod-chrann)</headword>
+      <description> strap o’n strathair a bha dol mu’n cuairt earball an eich air son a luchd na’n t-eallach a chumail gun a dhol thairis air mullach cinn an eich, a dol sios leathad. (From “bod” – seann fhachal [sic] air son earball agus “crann” – uidheam, ceangail.)
+        <illustration src="TaransayCNMacKenziemoineillust13.jpg" width="300"/>
+      </description>
+    </item>
+    <item><headword id="d0e586" type="heading" level="h1">6. Seòrsachan mònach</headword></item>
+    <item>
+      <headword id="d0e591">“riasg”</headword>
+      <description>mar bu trice a’ cheud fhàd. Bha e car aodram an cuideam san dath, sgun moran cosg aige.</description>
+    </item>
+    <item>
+      <headword id="d0e600">moine chosach</headword>
+      <description>faic roinn 2.</description>
+    </item>
+    <item>
+      <headword id="d0e609">mòine bhàn</headword>
+      <description>faic roinn 2.</description>
+    </item>
+    <item>
+      <headword id="d0e618">mòine dhubh etc.</headword>
+      <description>faic roinn 2.</description>
+    </item>
+    <item>
+      <headword id="d0e627">moine fhraoch</headword>
+      <description>moine dhonn, ruighinn ri gearradh, faisg air uachdar na talmhainn. S’eiginn gur ann de fhraoch a chaidh fo thalamh a bha i air a deanamh suas.</description>
+    </item>
+    <item>
+      <headword id="d0e636">an caoran</headword>
+      <description>am fàd ma dheireadh a thigeadh as ùrlar a phuill mu ruigiste an grinneal. Pronn, dubh, trom, doirbh a tiormachadh ach a mhòine a b’fhearr aon uair’s gun deach i air teine.</description>
+    </item>
+    <item>
+      <headword id="d0e645">“mar an caineal”</headword>
+      <description>sin a chanaiste ris a mhonaidh a b’fhearr – gu robh i “mar an caineal”. Neo gun gabhadh i “mar na coinnlean”. Tha e annasach mothachadh gu can cuid de na meineirean ris a ghual chruaidh, shleamhuinn a tha fo ainm “purrit coal” – “canal” or “cannal”.</description>
+    </item>
+    <item><headword id="d0e653" type="heading" level="h1">7. Faclan eile</headword></item>
+  </items>
+</fieldworkDocument>

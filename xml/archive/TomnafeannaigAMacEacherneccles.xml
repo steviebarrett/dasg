@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 20 4 13 -->
+<fieldworkDocument docId="Ecclesiastical_TomnafeannaigAMacEacherneccles" docType="questionnaire" subType="EcclesiasticalTerms">
+  <title>An Eaglais / Ecclesiastical Terms</title>
+  <fieldworker>[self]</fieldworker>
+  <informant>
+    <nameEnglish>MacEachern</nameEnglish>
+    <nameGaelic>Alasdair MacEachearna</nameGaelic>
+    <age>tri fichead sa deich [70]</age>
+    <origin>[in the card index: Islay, Ballygrant] [the questionnaire gives Earraghaidhiell but it is most probably meant as the county not origin]</origin>
+  </informant>
+  <location>Ile, Baila Ghrain, [Islay, Ballygrant], Tomnafeannaig</location>
+  <items>
+    <item><headword id="d0e32" type="heading" level="h1">1. Various denominations</headword></item>
+    <item><headword id="d0e36" type="heading" level="h1">2. Member of each of these denominations</headword></item>
+    <item><headword id="d0e40" type="heading" level="h1">3. Different courts of the Presbyterian churches</headword></item>
+    <item>
+      <headword id="d0e45">seasion</headword>
+    </item>
+    <item>
+      <headword id="d0e51">a’ chlear</headword>
+      <description>presbytery.</description>
+    </item>
+    <item><headword id="d0e59" type="heading" level="h1">4. Members of the clergy and office-bearers with the Presbyterian churches</headword></item>
+    <item>
+      <headword id="d0e64">minister</headword>
+    </item>
+    <item>
+      <headword id="d0e70">foirbheach</headword>
+    </item>
+    <item>
+      <headword id="d0e76">clearach seasion</headword>
+    </item>
+    <item>
+      <headword id="d0e82">ionmhsar</headword>
+    </item>
+    <item>
+      <headword id="d0e88">maor eaglais</headword>
+    </item>
+    <item><headword id="d0e93" type="heading" level="h1">5. Members of the clergy and office-bearers in the Roman Catholic church</headword></item>
+    <item>
+      <headword id="d0e98">easpaig</headword>
+    </item>
+    <item>
+      <headword id="d0e104">sagart</headword>
+    </item>
+    <item><headword id="d0e109" type="heading" level="h1">6. Holy Orders within the Roman Catholic church</headword></item>
+    <item><headword id="d0e113" type="heading" level="h1">7. Articles of dress or adornment</headword></item>
+    <item><headword id="d0e117" type="heading" level="h1">8. Church building and churchyard</headword></item>
+    <item>
+      <headword id="d0e122">eaglais</headword>
+    </item>
+    <item>
+      <headword id="d0e128">cladh</headword>
+    </item>
+    <item>
+      <headword id="d0e134">tigh seasian</headword>
+    </item>
+    <item><headword id="d0e139" type="heading" level="h1">9. Church furniture and ornaments</headword></item>
+    <item>
+      <headword id="d0e144">crannaig</headword>
+      <description>pulpit.</description>
+    </item>
+    <item><headword id="d0e152" type="heading" level="h1">10. Different services during the week, feast days, sacraments, Sunday school etc.</headword></item>
+    <item>
+      <headword id="d0e157">la traisg</headword>
+      <description>fast day.</description>
+    </item>
+    <item>
+      <headword id="d0e166">comanachadh</headword>
+      <description>communion.</description>
+    </item>
+    <item>
+      <headword id="d0e175">urnaigh</headword>
+    </item>
+    <item>
+      <headword id="d0e181">seinn clue</headword>
+    </item>
+    <item>
+      <headword id="d0e187">searmoin</headword>
+      <description>sermon.</description>
+    </item>
+    <item>
+      <headword id="d0e196">tavartus</headword>
+    </item>
+    <item>
+      <headword id="d0e202">sgoil shabhaid</headword>
+    </item>
+    <item>
+      <headword id="d0e208">connaimh tigh</headword>
+    </item>
+    <item><headword id="d0e213" type="heading" level="h1">11. God, the Lord, Jesus Christ, the Holy Ghost, the Blessed Virgin, the angels, the apostles, Heaven, the Gospel, prayers etc.</headword></item>
+    <item>
+      <headword id="d0e218">Dia</headword>
+    </item>
+    <item>
+      <headword id="d0e224">Tighiarna</headword>
+    </item>
+    <item>
+      <headword id="d0e230">Iosa Criasd</headword>
+    </item>
+    <item>
+      <headword id="d0e236">Spirod Naomh</headword>
+    </item>
+    <item>
+      <headword id="d0e242">aingil</headword>
+    </item>
+    <item>
+      <headword id="d0e248">abostail</headword>
+    </item>
+    <item>
+      <headword id="d0e254">neamh</headword>
+    </item>
+    <item>
+      <headword id="d0e260">an oigh bheanacht</headword>
+    </item>
+    <item>
+      <headword id="d0e266">an soisgeul</headword>
+    </item>
+    <item>
+      <headword id="d0e272">uarnaigh an Tighearna</headword>
+    </item>
+    <item><headword id="d0e277" type="heading" level="h1">12. Satan, Hell, Purgatory, Limbo, different kinds of sin etc.</headword></item>
+    <item>
+      <headword id="d0e282">diabhol, taibhistear</headword>
+    </item>
+    <item>
+      <headword id="d0e288">ifrin</headword>
+    </item>
+    <item>
+      <headword id="d0e294">breagan</headword>
+    </item>
+    <item>
+      <headword id="d0e300">misg</headword>
+      <description>drunkenness.</description>
+    </item>
+    <item>
+      <headword id="d0e309">meirl</headword>
+      <description>theft.</description>
+    </item>
+    <item>
+      <headword id="d0e318">mort</headword>
+    </item>
+    <item>
+      <headword id="d0e324">mionnan</headword>
+      <description>swearing.</description>
+    </item>
+    <item>
+      <headword id="d0e333">tuasaid</headword>
+      <description>fighting.</description>
+    </item>
+  </items>
+</fieldworkDocument>

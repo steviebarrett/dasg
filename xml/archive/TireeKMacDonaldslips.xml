@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 27/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_TireeKMacDonaldslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>10/1970</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <informant>
+    <nameEnglish>K. MacDonald</nameEnglish>
+    <origin>Uig, Lewis</origin>
+  </informant>
+  <location>Tiree</location>
+  <items>
+    <item>
+      <headword id="idp117238824">rangais</headword>
+      <description>[rɑŋɡiʃ] Notes: the strap running the length of the boat on which the seats rest on each side.</description>
+    </item>
+    <item>
+      <headword id="idp117240552">reang</headword>
+      <description>Quotation: reangan stòbhaig [rɛ̃ɣəṉsṯɔ:viɡʹ]. Notes: ribs put between the “urlair”. Laid across the boat, steamed and stood on.</description>
+    </item>
+    <item>
+      <headword id="idp117242424">cailleach-bhàn</headword>
+      <description>Notes: a cod with parasites on it.</description>
+    </item>
+    <item>
+      <headword id="idp117243936">cròdach</headword>
+      <description>Quotation: a’ chròdach. Notes: animal rheumatism – sheep, cattle.</description>
+    </item>
+    <item>
+      <headword id="idp117245592">doire</headword>
+      <description>Quotation: doire an eathar. Notes: the hull of the boat.</description>
+    </item>
+    <item>
+      <headword id="idp117247248">dòrn</headword>
+      <description>Quotation: a’ toirt a mach an dòrn fhuar. Notes: feat of strength tried when a cow was killed. One of the legs was caught near the hoof and twisted till it broke from the knee, then twisting was continued till the skin broke.</description>
+    </item>
+  </items>
+</fieldworkDocument>

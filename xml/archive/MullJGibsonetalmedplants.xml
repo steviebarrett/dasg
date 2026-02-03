@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 13 4 14 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="TireeandMull_MullJGibsonetalmedplants" docType="questionnaire" subType="MedicinalPlants" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Blàthan-Leighis / Medicinal Plants</title>
+  <fieldworker>Ailean Boyd [Alan Boyd]</fieldworker>
+  <note>[NOTES: Mr Boyd uses different colours of ink to distinguish informants. In this file, in order to preserve the distinction, the informants’ names have been inserted before the sections they contributed.]</note>
+  <informant>
+    <nameEnglish>Jean (Jeannie) Gibson</nameEnglish>
+    <age>69</age>
+    <origin>Mull, Bunessan, Ardtun, Knockan</origin>
+  </informant>
+  <informant>
+    <nameEnglish>Christina MacGillivray</nameEnglish>
+    <age>80+</age>
+    <origin>Mull, Burg</origin>
+  </informant>
+  <informant>
+    <nameEnglish>Angus Henderson</nameEnglish>
+    <age>79</age>
+    <origin>Mull, Tobermory</origin>
+  </informant>
+  <informant>
+    <nameEnglish>John Campbell</nameEnglish>
+    <nameGaelic>Teonaidh Chailein</nameGaelic>
+    <origin>Mull, Bunessan, Taoslainn</origin>
+  </informant>
+  <location>Mull</location>
+  <items>
+    <item><headword id="d0e65" type="heading" level="h1">A. Plant medicines</headword></item>
+    <item><headword id="d0e69" type="heading" level="h2">1. Diseases in the head area</headword></item>
+    <item><headword id="d0e73" type="heading" level="h3">[Jeannie Gibson]</headword></item>
+    <item>
+      <headword id="d0e78">cairt a’ chaineil</headword>
+      <description>Mint tea. Disease: headache (ceann goirt). Part used: leaf and stem. How prepared: boiled. Sources of information: aunt.</description>
+    </item>
+    <item><headword id="d0e86" type="heading" level="h3">[Christina MacGillivray]</headword></item>
+    <item>
+      <headword id="d0e91">fuaran tuirneip</headword>
+      <description>Turnip poultice. Disease: abscess.</description>
+    </item>
+    <item><headword id="d0e99" type="heading" level="h2">2. Respiratory diseases</headword></item>
+    <item><headword id="d0e103" type="heading" level="h3">[Jeannie Gibson]</headword></item>
+    <item>
+      <headword id="d0e108">fuaran-sgeallain</headword>
+      <description>Wild mustard poultice. Disease: pneumonia, colds, pl [sic] [pleurisy?]. Part used: leaves and stems. How prepared: mixed with hot water to form a kind of paste, and then put between
+        two cloths. Can also simply use cold mustard leaves and stems in a bandage (bànn-arad).</description>
+    </item>
+    <item><headword id="d0e116" type="heading" level="h2">3. The blood</headword></item>
+    <item><headword id="d0e120" type="heading" level="h3">[Jeannie Gibson]</headword></item>
+    <item>
+      <headword id="d0e125">cama-mhil</headword>
+      <description>Camomile. Disease: chilblains (millicheartain). Part used: roots and flower and stem. How prepared: boiled to form camomile lotion (ola-cama-mhil). Lotion just rubbed on, not
+        covered.</description>
+    </item>
+    <item><headword id="d0e133" type="heading" level="h3">[Christina MacGillivray]</headword></item>
+    <item>
+      <headword id="d0e138">lìon an damhain allaidh</headword>
+      <description>Spider’s web. Disease: cuts, wounds.</description>
+    </item>
+    <item><headword id="d0e146" type="heading" level="h2">4. The bowels and stomach</headword></item>
+    <item><headword id="d0e150" type="heading" level="h3">[Angus Henderson, blacksmith (retired), Tobermory (79)]</headword></item>
+    <item>
+      <headword id="d0e155">cuach Phàraig</headword>
+      <description>Greater plantain. Disease: piles. How prepared: whole plant (including roots) boiled in water until very little water left. Butter then mixed with finely ground oatmeal. Formed an
+        ointment.</description>
+    </item>
+    <item><headword id="d0e163" type="heading" level="h2">5. Bladder and kidneys</headword></item>
+    <item><headword id="d0e167" type="heading" level="h2">6. Other internal organs</headword></item>
+    <item><headword id="d0e171" type="heading" level="h2">7. Gynaecological complaints</headword></item>
+    <item><headword id="d0e175" type="heading" level="h2">8. Skin diseases not already mentioned</headword></item>
+    <item><headword id="d0e179" type="heading" level="h3">[Jeannie Gibson]</headword></item>
+    <item>
+      <headword id="d0e184">a’ chopag</headword>
+      <description>Docken. Disease: burns. Parts used: leaves. How prepared: leaf put against burn with bandage.</description>
+    </item>
+    <item><headword id="d0e192" type="heading" level="h3">[Christina MacGillivray]</headword></item>
+    <item>
+      <headword id="d0e197">rusg buidhe nan creag</headword>
+      <description>Yellow lichen on rocks by shore. Disease: burns. How prepared: lichen boiled until nearly dry, then mixed with fresh butter to make an ointment.</description>
+    </item>
+    <item><headword id="d0e205" type="heading" level="h2">9. Acute diseases</headword></item>
+    <item><headword id="d0e209" type="heading" level="h2">10. The skeleton and muscles</headword></item>
+    <item><headword id="d0e213" type="heading" level="h1">B. Treatments which did not involve the use of plants</headword></item>
+    <item><headword id="d0e217" type="heading" level="h1">C. Veterinary medicine</headword></item>
+    <item><headword id="d0e221" type="heading" level="h3">[Jeannie Gibson]</headword></item>
+    <item>
+      <headword id="d0e226">seannas</headword>
+      <description>Like honeysuckle. For constipation in cattle and other stomach upsets. Leaves and roots boiled and then strained.</description>
+    </item>
+    <item><headword id="d0e234" type="heading" level="h3">[John Campbell (Teonaidh Chailein), Taoslainn, Buneasain]</headword></item>
+    <item>
+      <headword id="d0e239">mart trì foil</headword>
+      <description>Bog bean. Cattle – constipation. Boiled and then strained. Known as ‘tribhealach’ (also taken as tonic by people when mixed with lucozade and/or shandy, etc.)</description>
+    </item>
+    <item><headword id="d0e247" type="heading" level="h1">D. What do you think is the English name for the plants called in Gaelic:</headword></item>
+    <item><headword id="d0e251" type="heading" level="h3">[Jeannie Gibson]</headword></item>
+    <item>
+      <headword id="d0e256">móthan</headword>
+      <description>Ladynut. ‘Braonan’ in Mull. (Used to eat them.)</description>
+    </item>
+    <item>
+      <headword id="d0e265">[braonan]</headword>
+      <description>[See móthan]</description>
+    </item>
+    <item>
+      <headword id="d0e274">cairmeal, carra-meille</headword>
+      <description>Camomile.</description>
+    </item>
+    <item><headword id="d0e282" type="heading" level="h1">E. Any further information about your sources</headword></item>
+    <item><headword id="d0e286" type="heading" level="h1">F. Other information not covered above</headword></item>
+  </items>
+</fieldworkDocument>

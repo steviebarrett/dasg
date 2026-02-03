@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 5/8/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_ArinagourHMacKinnonslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>10/1970</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <informant>
+    <nameEnglish>Hugh MacKinnon</nameEnglish>
+  </informant>
+  <location>Coll, Arinagour</location>
+  <items>
+    <item>
+      <headword id="idp162122696">losaid</headword>
+      <description>[ɫosɑdʹʒ] Notes: ashet for potatoes.</description>
+    </item>
+    <item>
+      <headword id="idp162124424">mèilich</headword>
+      <description>Notes: bleating.</description>
+    </item>
+    <item>
+      <headword id="idp162125936">miagail</headword>
+      <description>Notes: mewing.</description>
+    </item>
+    <item>
+      <headword id="idp162127448">muc-stigean</headword>
+      <description>[mũ̜xkʃtʹiɡʹɑṉ] Notes: porpoise.</description>
+    </item>
+    <item>
+      <headword id="idp162129176">ròineag</headword>
+      <description>Notes: a single strand of hair.</description>
+    </item>
+    <item>
+      <headword id="idp162130688">rùdan</headword>
+      <description>Notes: knuckle.</description>
+    </item>
+    <item>
+      <headword id="idp162132200">sitearraich</headword>
+      <description>Notes: neighing.</description>
+    </item>
+    <item>
+      <headword id="idp162133712">oircean</headword>
+      <description>Notes: piglet.</description>
+    </item>
+    <item>
+      <headword id="idp162135224">pronnasg</headword>
+      <description>Notes: sulphur.</description>
+    </item>
+    <item>
+      <headword id="idp162136736">purraich</headword>
+      <description>[pu̜riç] Quotation: Bha i a’ ruith purraich air tharraich [hɛriç]. Notes: helter-skelter.</description>
+    </item>
+    <item>
+      <headword id="idp162138896">seall</headword>
+      <description>Quotation: Tha na neòil a’ sealltainn grannda.</description>
+    </item>
+    <item>
+      <headword id="idp162140408">sgùd</headword>
+      <description>Notes: a cloud.</description>
+    </item>
+    <item>
+      <headword id="idp162141920">slinntean</headword>
+      <description>Notes: a stone lintel.</description>
+    </item>
+    <item>
+      <headword id="idp162143432">sliop</headword>
+      <description>[ʃlʹip] Notes: lip.</description>
+    </item>
+    <item>
+      <headword id="idp162145160">smiogad</headword>
+      <description>Notes: chin.</description>
+    </item>
+    <item>
+      <headword id="idp162146672">sùil-chritheach</headword>
+      <description>Notes: quagmire (?).</description>
+    </item>
+    <item>
+      <headword id="idp162148184">tharraich</headword>
+      <description>Quotation: Bha i a’ ruith purraich air tharraich. Notes: helter skelter.</description>
+    </item>
+    <item>
+      <headword id="idp162149840">tòisneachadh</headword>
+      <description>[t̪ɔ:ʃnʹɑxəɣ] Quotation: a’ tòisneachadh but thoisich mi, toisichidh mi. Notes: beginning.</description>
+    </item>
+    <item>
+      <headword id="idp162151784">torranach</headword>
+      <description>Notes: a white maggot which eats potatoes.</description>
+    </item>
+    <item>
+      <headword id="idp162153296">urrachdag</headword>
+      <description>Notes: thole-pin.</description>
+    </item>
+    <item>
+      <headword id="idp162154808">bogha-muc</headword>
+      <description>Notes: wild hyacinth.</description>
+    </item>
+    <item>
+      <headword id="idp162156320">bolg-loisgte</headword>
+      <description>Notes: a kind of toadstool. A brownish powder comes out of it when it bursts.</description>
+    </item>
+    <item>
+      <headword id="idp162157832">bratag</headword>
+      <description>Notes: caterpillar.</description>
+    </item>
+    <item>
+      <headword id="idp162159344">buaile</headword>
+      <description>Quotation: Cuiridh sinn an crodh do’n bhuaile. Notes: stall.</description>
+    </item>
+    <item>
+      <headword id="idp162161000">cailleach-chròsdag</headword>
+      <description>Notes: slater (woodhouse).</description>
+    </item>
+    <item>
+      <headword id="idp162162512">cas</headword>
+      <description>Quotation: Tha e gu math cas. Notes: quick-tempered.</description>
+    </item>
+    <item>
+      <headword id="idp162164168">clàdan</headword>
+      <description>Notes: snowflake.</description>
+    </item>
+    <item>
+      <headword id="idp162165680">cnoimheag</headword>
+      <description>Notes: maggot.</description>
+    </item>
+    <item>
+      <headword id="idp162167192">deargan-tràghad</headword>
+      <description>Notes: like a young ling.</description>
+    </item>
+    <item>
+      <headword id="idp162168704">fiogann</headword>
+      <description>Notes: nail.</description>
+    </item>
+    <item>
+      <headword id="idp162170216">fleat</headword>
+      <description>[flɛṯ] Notes: saucer.</description>
+    </item>
+    <item>
+      <headword id="idp162171944">fluichnich</headword>
+      <description>Notes: sleet.</description>
+    </item>
+    <item>
+      <headword id="idp162173456">gartan</headword>
+      <description>Notes: garter.</description>
+    </item>
+    <item>
+      <headword id="idp162174968">gartan-fraoich</headword>
+      <description>Notes: tick found on sheep.</description>
+    </item>
+  </items>
+</fieldworkDocument>

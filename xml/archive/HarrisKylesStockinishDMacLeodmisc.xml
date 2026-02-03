@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 23 4 14 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="HarrisVarious_HarrisKylesStockinishDMacLeodmisc" docType="wordlist" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <fieldworker>[anonymous D]</fieldworker>
+  <informant>
+    <nameEnglish>Donald MacLeod</nameEnglish>
+    <age>89</age>
+  </informant>
+  <location>Harris, Kyles Stockinish</location>
+  <items>
+    <item>
+      <headword id="d0e27">dùmh ogha</headword>
+      <description>fourth cousin.</description>
+    </item>
+    <item>
+      <headword id="d0e36">cota drògaid</headword>
+      <description>a coat made up of bits of differently coloured wool. “De an cota drògaid a thoirt [sic] ann an sid?” – said if you had an unsightly piece of clothing on.</description>
+    </item>
+    <item>
+      <headword id="d0e45">uileachan</headword>
+      <description>cape, poncho.</description>
+    </item>
+    <item>
+      <headword id="d0e54">salach gheallach</headword>
+      <description>dimly lit night. “Oidhche na sallaich gheallaich”.</description>
+    </item>
+    <item>
+      <headword id="d0e63">drug(a)</headword>
+      <description>ball of fire, supposed to signify death.</description>
+    </item>
+    <item>
+      <headword id="d0e72">cogeal</headword>
+      <description>rye.</description>
+    </item>
+    <item>
+      <headword id="d0e81">cniamhaich</headword>
+      <description/>
+    </item>
+    <item>
+      <headword id="d0e89">bean glùine</headword>
+      <description>midwife.</description>
+    </item>
+    <item>
+      <headword id="d0e98">a’ smùiradh</headword>
+      <description>tarring sheep, tar mixed with fish oil.</description>
+    </item>
+    <item>
+      <headword id="d0e107">lugachan</headword>
+      <description>lug worm.</description>
+    </item>
+    <item>
+      <headword id="d0e116">cearban</headword>
+      <description>basking shark.</description>
+    </item>
+    <item>
+      <headword id="d0e125">bràilair</headword>
+      <description>net on a wind on the boat, holds 28 boxes of fish.</description>
+    </item>
+    <item>
+      <headword id="d0e134">sgomair</headword>
+      <description>large hand-held landing net.</description>
+    </item>
+    <item>
+      <headword id="d0e143">langadal</headword>
+      <description>tangle.</description>
+    </item>
+    <item>
+      <headword id="d0e152">an caoigh</headword>
+      <description>asthma.</description>
+    </item>
+  </items>
+</fieldworkDocument>

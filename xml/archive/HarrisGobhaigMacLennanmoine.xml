@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 20 04 13 -->
+<fieldworkDocument docId="HarrisMacLennan_HarrisGobhaigMacLennanmoine" docType="questionnaire" subType="Mòine">
+  <title>Mòine / Peat-Working</title>
+  <fieldworker>[self?]</fieldworker>
+  <informant>
+    <nameEnglish>A. MacLennan</nameEnglish>
+    <nameGaelic>A. MacGill Fhinnein</nameGaelic>
+    <age>19</age>
+  </informant>
+  <location>Na Hearadh, Gòbhaig [Harris, Gobhaig]</location>
+  <!-- ILLUSTRATIONS -->
+  <items>
+    <item><headword id="d0e31" type="heading" level="h1">1. Ag ullachadh na talmhainn airson mòine a bhuain</headword></item>
+    <item>
+      <headword id="d0e36">a feannadh</headword>
+    </item>
+    <item>
+      <headword id="d0e42">a rùsgadh</headword>
+    </item>
+    <item>
+      <headword id="d0e48">striochdadh</headword>
+    </item>
+    <item>
+      <headword id="d0e54">feanntach, na sgrath, ceap</headword>
+    </item>
+    <item>
+      <headword id="d0e60">pol-mona</headword>
+    </item>
+    <item>
+      <headword id="d0e66">grabhag</headword>
+      <description>pol-mona beag.</description>
+    </item>
+    <item>
+      <headword id="d0e75">carcair</headword>
+    </item>
+    <item>
+      <headword id="d0e81">peirceall</headword>
+      <description>aon taobh puill – fear goirid.</description>
+    </item>
+    <item><headword id="d0e89" type="heading" level="h1">2. A’ buain na mònach; na h-innealan a chleachdar, ainmean nam fàdan, etc.</headword></item>
+    <item>
+      <headword id="d0e94">tairisgear</headword>
+      <description><illustration src="HarrisGobhaigMacLennanmoineillust1.jpg" width="300"/></description>
+    </item>
+	<item>
+      <headword id="d0e103">smeachan</headword>
+	  <description>[See tairisgear.]</description>
+    </item>
+	<item>
+      <headword id="d0e112">sàl</headword>
+	  <description>[See tairisgear.]</description>
+    </item>
+	<item>
+      <headword id="d0e121">cas</headword>
+	  <description>[See tairisgear.]</description>
+    </item>
+	<item>
+      <headword id="d0e130">sgian</headword>
+	  <description>[See tairisgear.]</description>
+    </item>
+    <item>
+      <headword id="d0e139">iaran monadh</headword>
+    </item>
+    <item>
+      <headword id="d0e145">an fhad bhàn, na bàrr-fhad</headword>
+    </item>
+    <item>
+      <headword id="d0e151">an fhad dhubh</headword>
+    </item>
+    <item>
+      <headword id="d0e157">an caothran</headword>
+    </item>
+    <item>
+      <headword id="d0e163">còrr-fhàd</headword>
+    </item>
+    <item><headword id="d0e168" type="heading" level="h1">3. A’ tiormachadh na mònach</headword></item>
+    <item>
+      <headword id="d0e173">sgaoilteach</headword>
+    </item>
+    <item>
+      <headword id="d0e179">garradh</headword>
+    </item>
+    <item>
+      <headword id="d0e185">cailleagan</headword>
+    </item>
+    <item>
+      <headword id="d0e191">ruthain</headword>
+    </item>
+    <item>
+      <headword id="d0e197">a ruthadh</headword>
+    </item>
+    <item>
+      <headword id="d0e203">a togail</headword>
+    </item>
+    <item><headword id="d0e208" type="heading" level="h1">4. A’ cruachadh na mònach</headword></item>
+    <item>
+      <headword id="d0e213">cruach puill</headword>
+    </item>
+    <item>
+      <headword id="d0e219">cruach steidhidh</headword>
+      <description>Lewis.</description>
+    </item>
+    <item>
+      <headword id="d0e228">cruach gniomhaidh</headword>
+      <description>Harris.</description>
+    </item>
+    <item>
+      <headword id="d0e237">cruach tughaidh</headword>
+    </item>
+    <item>
+      <headword id="d0e243">cruach geamhraidh</headword>
+    </item>
+    <item>
+      <headword id="d0e249">cruach sgorraidh</headword>
+      <description>sgorraidhean deth sgrathan gus a’ ghaoth a’ leigeal a steach. 
+        <illustration src="HarrisGobhaigMacLennanmoineillust2.jpg" width="200"/>
+      </description>
+    </item>
+    <item><headword id="d0e259" type="heading" level="h1">5. A’ toirt na mònach dhachaigh; an cliabh, etc.</headword></item>
+    <item>
+      <headword id="d0e264">cliabh</headword>
+    </item>
+    <item>
+      <headword id="d0e270">poca</headword>
+    </item>
+    <item>
+      <headword id="d0e276">bara-cuidhle</headword>
+    </item>
+    <item><headword id="d0e281" type="heading" level="h1">6. Seòrsachan mònach</headword></item>
+    <item>
+      <headword id="d0e286">moine bhan - moine chòsach</headword>
+    </item>
+    <item>
+      <headword id="d0e292">caoran dubh</headword>
+    </item>
+    <item>
+      <headword id="d0e298">smùr</headword>
+    </item>
+    <item><headword id="d0e303" type="heading" level="h1">7. Faclan eile</headword></item>
+    <item>
+      <headword id="d0e308">spionadh</headword>
+    </item>
+    <item>
+      <headword id="d0e314">scrathadh</headword>
+    </item>
+    <item>
+      <headword id="d0e320">tuthadh</headword>
+    </item>
+    <item>
+      <headword id="d0e326">sgorraidhean</headword>
+    </item>
+  </items>
+</fieldworkDocument>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 25 4 13 -->
+<fieldworkDocument docId="CattleandSheep_GlasgowMMacLeodcoin" docType="wordlist" subType="Dogs">
+  <title>Stuigeadh Coin / Encouraging a Dog</title>
+  <fieldworker>[self]</fieldworker>
+  <note>[NOTES: all illustrations are on the second page but in this file they have been placed next to the relevant definitions.]</note>
+  <note>[NOTES: the words have been slipped and therefore, apart from the definitions provided by Mr MacLeod, the definitions from the slips have also been included (unless the two were the same).]</note>
+  <informant>
+    <nameEnglish>Murdo MacLeod</nameEnglish>
+    <nameGaelic>Murchadh MacLeòid</nameGaelic>
+    <origin>Leòdhas, [Lewis], Uig an Iar</origin>
+  </informant>
+  <location>[Glasgow]</location>
+  <!-- illustrations -->
+  <items>
+    <item>
+      <headword id="d0e38">stuigeadh</headword>
+      <description>“Stuig e an cù.”</description>
+    </item>
+    <item>
+      <headword id="d0e47">casg</headword>
+      <description>[sic] “Chaisg e an cù.” [NOTES: slipped under ‘caisg’.]</description>
+    </item>  
+    <item>
+      <headword id="d0e56">sgrìob</headword>
+      <description>“Chuir e air falbh air sgrìob e.” “Bheir an cù agam-sa sgrìob cho math ’sa thug cù a riamh.” Sgrìob:
+        <illustration src="GlasgowMMacLeodcoinillust1.jpg" width="200"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e67">seadadh</headword>
+      <description>A’ dealachadh nan caorach bho chèile. Aon, no dhà, no trì, no aireamh eile a mach bho chàch. “Tha e math air an seadadh.” (an cù) [SLIP: Separating one, two or several sheep from the main flock.]</description>
+    </item>    
+    <item>
+      <headword id="d0e76">cù-crodhaidh</headword>
+      <description>[NOTES: slip not found.]</description>
+    </item>
+    <item>
+      <headword id="d0e85">[cròdhadh]</headword>
+      <description>A’ dol timchioll orra agus ’gan cumail. Cròdhadh:
+        <illustration src="GlasgowMMacLeodcoinillust2.jpg" width="200"/>
+      </description>
+      <note>[NOTES: slip not found.]</note>
+    </item>  
+    <item>
+      <headword id="d0e99">cù-fuadaich</headword>
+      <description>Cha deanadh an cù-fuadaich càil ach am fuadach fhéin. Chan eil cù-fuadaich aca againne an àite sam bith an diugh cho fada ’s is aithne dhomh. [NOTES: slip not found.]</description>
+    </item>
+    <item>
+      <headword id="d0e108">[fuadach]</headword>
+      <description>A’ dol dìreach as am deidhidh ’g am fuadach air falbh. Fuadach:
+        <illustration src="GlasgowMMacLeodcoinillust3.jpg" width="200"/>
+      </description>
+      <note>[NOTES: slip not found.]</note>
+    </item>    
+    <item>
+      <headword id="d0e122">“Tha an cù a dol cas orra.”</headword>
+      <description>Tha e dol faisg air na caoraich. A’ dol cas riutha:
+        <illustration src="GlasgowMMacLeodcoinillust4.jpg" width="200"/>
+      </description>
+      <note>[NOTES: slip not found.]</note>
+    </item>
+    <item>
+      <headword id="d0e136">“Tha talamh ann.”</headword>
+      <description>Tha e cumail a mach fada bhuapa. Tha talamh ann:
+        <illustration src="GlasgowMMacLeodcoinillust5.jpg" width="200"/>
+      </description>
+      <note>[NOTES: slipped under ‘talamh’.]</note>
+    </item>  
+    <item>
+      <headword id="d0e150">“A mach á sin”, “Mach á sin.”</headword>
+      <description>A’ cur a’ choin air falbh.</description>
+    </item>
+    <item>
+      <headword id="d0e159">“Thig gu mo chois”, “Gu mo chois.”</headword>
+      <description>A’ toirt a’ choin thugad. Come ahint. “Come(r) ahint” (mar a bhiodh aig fear Port a’ Chuilinn [?]) Anns na Hearadh, an àiteachan có dhiù, ’se “cùl nan cas” a chanas iad ri “Gu mo chois” againne. [NOTES: slipped under ‘cas’.]</description>
+    </item>
+        <item>
+      <headword id="d0e168">“Mu mo chulaibh.”</headword>
+      <description>’Ga chuir air falbh mu do chùlaibh. [NOTES: slipped under ‘culaibh’.]</description>
+    </item>    
+    <item>
+      <headword id="d0e177">“Fan air d’ais”, “Fan a mach.”</headword>
+      <description>’Ga tharruing air ais a’ dol a mach air an sgrìob. Chan ann ’ga chasg air an sgrìob ach ’ga thoirt air falbh na’s fhaide a mach bho na caoraich. Cuideachd ’ga thoirt air a ais an aghaidh ’s mar a bha e roimhe. [NOTES: slipped under ‘fan’.]</description>
+    </item>
+    <item>
+      <headword id="d0e186">“Gheàrr e fead.”</headword>
+      <description>’Se ‘gheàrr’ a chanas sinne, có dhiù ri fead mhór le na meòir anns a’ bheul. [NOTES: slipped under ‘fead’.]</description>
+    </item>  
+    <item>
+      <headword id="d0e195">”Sig!”, “Sig a mach á sin.”</headword>
+      <description>’Se seo a chanas sinne ri cù airson a teiche as an rathad ort agus laighe. [NOTES: slipped under ‘sig!’.]</description>
+    </item>
+    <item>
+      <headword id="d0e204">“Do sheanmhair a stigh an sin!”</headword>
+      <description>’Se seo a chanadh sinne ri cù aig toll airson gu’n tòisicheadh e a’ sgrìobadh. Agus abair gu’n deanadh e sin! [NOTES: slipped under ‘seanmhair’.]</description>
+    </item>              
+  </items>
+</fieldworkDocument>

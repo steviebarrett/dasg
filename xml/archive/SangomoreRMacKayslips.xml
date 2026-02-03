@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 23/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_SangomoreRMacKayslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>10/1969</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <note>[NOTES: in IPA transcriptions, the fieldworker uses [w] for [ɯ].]</note>
+  <informant>
+    <nameEnglish>Robert MacKay</nameEnglish>
+    <age>c. 80-85</age>
+  </informant>
+  <location>Sutherland, Durness, Sangomore</location>
+  <items>
+    <item>
+      <headword id="idp161937576">lèanag</headword>
+      <description>[lʹɛ̃:ṉɑɡ] Notes: a green patch of ground.</description>
+    </item>
+    <item>
+      <headword id="idp161930952">leumachan</headword>
+      <description>Notes: frog.</description>
+    </item>
+    <item>
+      <headword id="idp161923176">lòineag</headword>
+      <description>Notes: dry snowflake.</description>
+    </item>
+    <item>
+      <headword id="idp161933832">mùran</headword>
+      <description>[mũ̟:ɾɑn] Notes: sea-bent.</description>
+    </item>
+    <item>
+      <headword id="idp161914032">roith</headword>
+      <description>[rɔi] Notes: male sheep, all ages.</description>
+    </item>
+    <item>
+      <headword id="idp161915472">isean</headword>
+      <description>Quotation: isean cat [sic]. Notes: kitten.</description>
+    </item>
+    <item>
+      <headword id="idp161918280">isean</headword>
+      <description>Quotation: isean muc. Notes: piglet.</description>
+    </item>
+    <item>
+      <headword id="idp161919576">pàillean</headword>
+      <description>[pɑ:lʹɑ̃ṉ] Notes: shorn fleece used as padding under saddle.</description>
+    </item>
+    <item>
+      <headword id="idp161848440">pleideag</headword>
+      <description>[plɤdʹɑɡ] Quotation: Chaidh e seachad le [plɤdʹɑɡəṉ] air. Notes: rags, tattered clothing.</description>
+    </item>
+    <item>
+      <headword id="idp161849016">sioman</headword>
+      <description>Quotation: sioman Sassunnach. Notes: prob. hemp.</description>
+    </item>
+    <item>
+      <headword id="idp161851680">sioman</headword>
+      <description>Quotation: sioman fodrach. Notes: straw rope.</description>
+    </item>
+    <item>
+      <headword id="idp161852400">smàgach</headword>
+      <description>Notes: toad.</description>
+    </item>
+    <item>
+      <headword id="idp161854128">snìomhair</headword>
+      <description>[ʃnʹĩɤ̃vəɾ] Notes: a rope-making tool.</description>
+    </item>
+    <item>
+      <headword id="idp161855928">sporaidh</headword>
+      <description>[spɔɾi] Notes: or sporaidh-taigh: house-sparrow.</description>
+    </item>
+    <item>
+      <headword id="idp161858088">tarmachan-nathair</headword>
+      <description>Notes: dragonfly.</description>
+    </item>
+    <item>
+      <headword id="idp161860248">thuiread</headword>
+      <description>[hu̟ɾəd̪] Quotation: “Tha e thuiread anns a’ bhail’ eile.” Notes: up.</description>
+    </item>
+    <item>
+      <headword id="idp161861976">ullag</headword>
+      <description>Quotation: ullag bàrr (sic). Notes: mixture of cream, oatmeal and sugar.</description>
+    </item>
+    <item>
+      <headword id="idp161863416">achair</headword>
+      <description>[ɑxəɾ] Notes: acre.</description>
+    </item>
+    <item>
+      <headword id="idp161863920">adhragag</headword>
+      <description>[ɤɾəɡɑɡ] Notes: lapwing.</description>
+    </item>
+    <item>
+      <headword id="idp161867952">àigeach</headword>
+      <description>Notes: 2-3 year old horse.</description>
+    </item>
+    <item>
+      <headword id="idp161867664">amhran</headword>
+      <description>[ɑ̃ũ̜ɾɑṉ] Notes: a song.</description>
+    </item>
+    <item>
+      <headword id="idp161869824">bàrd</headword>
+      <description>Quotation: bàrdachan. Notes: used sometimes as plural for “bards”.</description>
+    </item>
+    <item>
+      <headword id="idp161871840">bàrd</headword>
+      <description>Quotation: bàrd a’ loch. Notes: the head of the loch.</description>
+    </item>
+    <item>
+      <headword id="idp161873424">bàrr</headword>
+      <description>Quotation: ullag bàrr (sic). Notes: mixture of cream, oatmeal and sugar.</description>
+    </item>
+    <item>
+      <headword id="idp161875656">capall</headword>
+      <description>Notes: term used for ‘mare’ formerly. “Lair” more common now.</description>
+    </item>
+    <item>
+      <headword id="idp161876880">cat</headword>
+      <description>Quotation: isean cat. Notes: kitten.</description>
+    </item>
+    <item>
+      <headword id="idp161879616">cearc</headword>
+      <description>Quotation: na cearcan. Notes: haimes.</description>
+    </item>
+    <item>
+      <headword id="idp161880408">clach-feusanaidh</headword>
+      <description>[kɫɑxfe:sɑṉi] Notes: crow-step on gable end of house, used for standing on when thatching.</description>
+    </item>
+    <item>
+      <headword id="idp161881704">clacharan</headword>
+      <description>Notes: row of stepping stones.</description>
+    </item>
+    <item>
+      <headword id="idp161882280">colair</headword>
+      <description>Quotation: colair fodrach. Notes: straw collar worn by young horses.</description>
+    </item>
+    <item>
+      <headword id="idp161884512">crip</headword>
+      <description>[kɾip] Notes: fodder trough for horses.</description>
+    </item>
+    <item>
+      <headword id="idp161886312">cruthach</headword>
+      <description>[ˈkɾu̜ɑx] Notes: afterbirth.</description>
+    </item>
+    <item>
+      <headword id="idp161887608">drochaid</headword>
+      <description>Quotation: drochaid an druimeal. Notes: the groove across the top of the saddle which accommodates the back-chain (druimeal).</description>
+    </item>
+    <item>
+      <headword id="idp161889120">druimeal</headword>
+      <description>[d̪ɾĩmɑɫ] Notes: back-chain on a horse when pulling a cart.</description>
+    </item>
+    <item>
+      <headword id="idp161890632">dubh-pholl</headword>
+      <description>Notes: deep pool in a river.</description>
+    </item>
+    <item>
+      <headword id="idp161893152">eaman</headword>
+      <description>[ɛ̃mɑṉ] Notes: hard part of tail. [wɾəbəɫ]: the whole tail.</description>
+    </item>
+    <item>
+      <headword id="idp161895240">easchan</headword>
+      <description>[ɛsxɑ̃ṉ] Notes: a small waterfall in a stream.</description>
+    </item>
+    <item>
+      <headword id="idp161896680">falasgadh</headword>
+      <description>Quotation: a’ falasgadh [fɑɫɑsɡu̜]. Notes: setting the heather on fire.</description>
+    </item>
+    <item>
+      <headword id="idp161900568">feannag</headword>
+      <description>Notes: lazy-bed.</description>
+    </item>
+    <item>
+      <headword id="idp161900064">fodair</headword>
+      <description>Quotation: sioman fodrach. Notes: straw rope.</description>
+    </item>
+    <item>
+      <headword id="idp161901864">gath-muing</headword>
+      <description>[ɡɑmu̜i] Notes: mane.</description>
+    </item>
+    <item>
+      <headword id="idp161903304">guailleag</headword>
+      <description>[ɡu̟ɤlʹɑɡ] Notes: drag-chain.</description>
+    </item>
+  </items>
+</fieldworkDocument>

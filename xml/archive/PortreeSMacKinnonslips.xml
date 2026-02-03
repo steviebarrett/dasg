@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 23/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_PortreeSMacKinnonslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>07/1970</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <note>[NOTES: in IPA transcriptions, the fieldworker uses [w] for [ɯ].]</note>
+  <informant>
+    <nameEnglish>Sandy MacKinnon</nameEnglish>
+    <origin>Elgol</origin>
+  </informant>
+  <location>Skye, Portree</location>
+  <items>
+    <item>
+      <headword id="idp162203072">mìr</headword>
+      <description>Quotation: mìr arbhair, mìr fheòir. Notes: a quantity inside the barn.</description>
+    </item>
+    <item>
+      <headword id="idp162204296">seiseach</headword>
+      <description>[ʃ[ɤı]ʃɑx] Notes: wooden seat.</description>
+    </item>
+    <item>
+      <headword id="idp162207752">smotach</headword>
+      <description>Notes: nasal in speech.</description>
+    </item>
+    <item>
+      <headword id="idp162209336">beinge</headword>
+      <description>[b[ɤı]nʹhə] Notes: wooden seat.</description>
+    </item>
+    <item>
+      <headword id="idp162210560">brìg</headword>
+      <description>Quotation: brìg bhuntàta, brìg mhòineadh. Notes: a neatly stacked quantity. Potatoes would usually be inside the barn.</description>
+    </item>
+    <item>
+      <headword id="idp162212216">croislean</headword>
+      <description>Notes: a cross-piece of wood.</description>
+    </item>
+    <item>
+      <headword id="idp162195584">crom-riabhach</headword>
+      <description>[ɡɾɤmriɤɤx] Notes: bird, may be a snipe. Has a long beak.</description>
+    </item>
+    <item>
+      <headword id="idp162194072">cuinneag</headword>
+      <description>Notes: a small wooden tub-like vessel.</description>
+    </item>
+    <item>
+      <headword id="idp162090392">giurnalair</headword>
+      <description>[ɡʹw:ʴnʹəlɑɾ] Quotation: giurnalair mineadh. Notes: a barrel for holding meal and flour, sometimes with a partition down the middle. [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+  </items>
+</fieldworkDocument>

@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 7/10/15 -->
+<!-- illustrations -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_MorvichJClarkslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>03/1970</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <informant>
+    <nameEnglish>James Clark</nameEnglish>
+    <age>80s</age>
+  </informant>
+  <location>Ross-shire, Dornie, Morvich</location>
+  <items>
+    <item>
+      <headword id="idp119241960">là</headword>
+      <description>Quotation: là roimh ’n dé [ɫɑɾɔ̃nʹe:]. Notes: the day before yesterday.</description>
+    </item>
+    <item>
+      <headword id="idp119243832">linne</headword>
+      <description>Quotation: linne thuathal. Notes: whirlpool, as at the bottom of a waterfall.</description>
+    </item>
+    <item>
+      <headword id="idp119245488">maide-ceangail</headword>
+      <description>[mɑ̃dʹəcɛ̃u̜ɫ] Notes: rafter. (?)</description>
+    </item>
+    <item>
+      <headword id="idp119247216">marbh</headword>
+      <description>Quotation: Tha e duilich a mharbhadh. Notes: it is difficult to digest.</description>
+    </item>
+    <item>
+      <headword id="idp119248872">miosa</headword>
+      <description>Quotation: Ach gu mìle miosa, ’s ann a bha an duine sin roimpe. Notes: but a thousand times worse (than that)…</description>
+    </item>
+    <item>
+      <headword id="idp119250528">raonapo</headword>
+      <description>[rɤ̃:ṉəpo] Notes: rainbow.</description>
+    </item>
+    <item>
+      <headword id="idp119252256">ròd</headword>
+      <description>Quotation: ròd buntàta [rɔd̪]. Notes: potato drill.</description>
+    </item>
+    <item>
+      <headword id="idp119254128">slat</headword>
+      <description>Quotation: cabar-slait. Notes: his name for a stag which had antlers with no points on them, except, perhaps, for one at the base.</description>
+    </item>
+    <item>
+      <headword id="idp119255784">neothadh</headword>
+      <description>[nʹɔ̃həɡ] Quotation: a’ cur an crann gu neothadh. Notes: when the plough is adjusted to turn a narrower furrow.</description>
+    </item>
+    <item>
+      <headword id="idp119257728">salachar</headword>
+      <description>Notes: afterbirth.</description>
+    </item>
+    <item>
+      <headword id="idp119259240">sannt</headword>
+      <description>[s[ɑ̃ũ̜]n̪t̪] Quotation: a’ cur an crann gu sannt. Bha ’n còrr sannt air a’ chrann. Notes: when the plough is adjusted so as to turn a wider furrow.</description>
+    </item>
+    <item>
+      <headword id="idp119261544">seobhag</headword>
+      <description>Quotation: a’ seobhag-ghorm. Notes: peregrine falcon.</description>
+    </item>
+    <item>
+      <headword id="idp119263200">seòrsadh</headword>
+      <description>Quotation: a’ seòrsadh nan uan. Notes: sorting lambs according to quality for the sale. (gan topadh – 1st quality ’s gan seotadh – 2nd quality)</description>
+    </item>
+    <item>
+      <headword id="idp119265288">seotadh</headword>
+      <description>Quotation: a’ topadh agus a’ seotadh nan uan. Notes: separating the first and second quality.</description>
+    </item>
+    <item>
+      <headword id="idp119266944">sgathach</headword>
+      <description>Quotation: Tha móran sgathaich so an duine sin. Notes: boasting, exaggerated talk.</description>
+    </item>
+    <item>
+      <headword id="idp119268600">sgrùbhan</headword>
+      <description>[sɡɾu̜:ɑṉ] Notes: a “hut” of corn.</description>
+    </item>
+    <item>
+      <headword id="idp119270328">sguidsigeadh</headword>
+      <description>[sɡu̟ḏʃiɡʹəɣ] Notes: “switching” – cutting the top off the bracken.</description>
+    </item>
+    <item>
+      <headword id="idp119272128">slathais</headword>
+      <description>[sɫɑhɑʃ] Notes: strips of wood horizontally laid on the thatch and pinned down by the “dromanach”.</description>
+    </item>
+    <item>
+      <headword id="idp119273856">sléiteag</headword>
+      <description>[ʃlʹe:tʹɑɡ] Notes: sledge pulled by horses.</description>
+    </item>
+    <item>
+      <headword id="idp119275584">smàladh</headword>
+      <description>Quotation: a’ smàladh an teine. Notes: banking the fire.</description>
+    </item>
+    <item>
+      <headword id="idp119277240">smod</headword>
+      <description>[smɔ̃d̪] Quotation: a h-uile smod dheth. Notes: piece, particle.</description>
+    </item>
+    <item>
+      <headword id="idp119279112">spaigh</headword>
+      <description>[spɤi] Notes: swathe.</description>
+    </item>
+    <item>
+      <headword id="idp119280840">speal</headword>
+      <description>Quotation: a’ speal Ameireaganach. Notes: a scythe which just had the one shaft with two pegs on it.</description>
+    </item>
+    <item>
+      <headword id="idp119282496">spèic</headword>
+      <description>Quotation: na spèicean. Notes: the planks of wood used to carry the coffin.</description>
+    </item>
+    <item>
+      <headword id="idp119284152">stair</headword>
+      <description>[st̪ɤɾ] Notes: stepping stones.</description>
+    </item>
+    <item>
+      <headword id="idp119285880">stic</headword>
+      <description>[ʃtʹiçc] Quotation: droch stic. Notes: bad stick.</description>
+    </item>
+    <item>
+      <headword id="idp119287752">stuadh</headword>
+      <description>Quotation: stuadhan maola. Notes: end walls of thatched houses where the gable end only went as high as the front and back walls. <illustration src="MorvichJClarkslipsillust1.jpg" width="300"/></description>
+    </item>
+    <item>
+      <headword id="idp119289408">stuadh</headword>
+      <description>[st̪u̜ɤ] Notes: gable end.</description>
+    </item>
+    <item>
+      <headword id="idp119291136">tarbh-nathair-neimh</headword>
+      <description>[t̪ɑɾɑvn̪ɑ̃əɾnʹɛ̃] Notes: dragonfly.</description>
+    </item>
+    <item>
+      <headword id="idp119292864">teàrnadh</headword>
+      <description>Notes: descending.</description>
+    </item>
+    <item>
+      <headword id="idp119294376">tòrsginn</headword>
+      <description>[t̪ɔʴsɡʹĩṉ] Notes: tusker. [NOTES: the turned r used for the symbol which is unclear in the original.] [NOTES: slipped under ‘toirsginn’.]</description>
+    </item>
+    <item>
+      <headword id="idp119296392">topadh</headword>
+      <description>Quotation: a’ topadh agus a’ seotadh nan uan. Notes: separating the first and second quality lambs.</description>
+    </item>
+    <item>
+      <headword id="idp119298048">tormachan</headword>
+      <description>Notes: ptarmigan; butterfly.</description>
+    </item>
+    <item>
+      <headword id="idp119299560">trom</headword>
+      <description>Quotation: trom a’ chadail. Notes: nightmare.</description>
+    </item>
+    <item>
+      <headword id="idp119301216">uan-reith</headword>
+      <description>[[ũ̜ɑ̃]rɛ] Notes: young tup lamb.</description>
+    </item>
+    <item>
+      <headword id="idp119303376">udalan</headword>
+      <description>[u̟d̪əɫɑṉ] Notes: swivel.</description>
+    </item>
+    <item>
+      <headword id="idp119305104">ùireadh</headword>
+      <description>Quotation: ag úireadh [sic] a’ bhuntàta. Notes: earthing the potatoes.</description>
+    </item>
+    <item>
+      <headword id="idp119306760">ad</headword>
+      <description>Quotation: ad a chaibe-làir. Notes: the handle of the flauchter spade. <illustration src="MorvichJClarkslipsillust2.jpg" width="250"/></description>
+    </item>
+    <item>
+      <headword id="idp119308488">adharcan-luachrach</headword>
+      <description>Notes: lapwing.</description>
+    </item>
+    <item>
+      <headword id="idp119310000">alaire</headword>
+      <description>[ɑɫəɾə] Quotation: an alaire. Notes: whisky, biscuits and cheese given at a funeral.</description>
+    </item>
+    <item>
+      <headword id="idp119311872">bhann-uiridh (sic)</headword>
+      <description>Quotation: a’ bhann-uiridh [əv[ɑ̃ũ̜]n̪u̟ɾi]. Notes: the year before last.</description>
+    </item>
+    <item>
+      <headword id="idp119314176">bòcan</headword>
+      <description>Notes: a ghost, a spectre.</description>
+    </item>
+    <item>
+      <headword id="idp119315688">braon</headword>
+      <description>Notes: drizzle.</description>
+    </item>
+    <item>
+      <headword id="idp119317200">buail</headword>
+      <description>Quotation: Tha a’ ghaoth a’ bualadh. Notes: the wind is being diverted from its true course by the mountains.</description>
+    </item>
+    <item>
+      <headword id="idp119318856">bun-dubh</headword>
+      <description>Notes: bracken pulled out by the roots.</description>
+    </item>
+    <item>
+      <headword id="idp119320368">buntàta</headword>
+      <description>Quotation: Buntata [sic] atharnaich. Notes: potatoes which grew from some left in the ground the previous year.</description>
+    </item>
+    <item>
+      <headword id="idp119322024">cailbhe</headword>
+      <description>[kɑli] Quotation: pl. [kɑliəṉ]. Notes: wattle.</description>
+    </item>
+    <item>
+      <headword id="idp119324112">cana</headword>
+      <description>[kɑ̃ṉə] Notes: porpoise.</description>
+    </item>
+    <item>
+      <headword id="idp119325840">carbad</headword>
+      <description>Quotation: a’ charbad. Notes: base for a coffin with two shafts, one at the head and one at the rear, protruding from the sides. Four people carried it.</description>
+    </item>
+    <item>
+      <headword id="idp119327496">carcair</headword>
+      <description>[kɑɾkəɾ] Notes: byre drain.</description>
+    </item>
+    <item>
+      <headword id="idp119329224">càrn-slaod</headword>
+      <description>Notes: sledge.</description>
+    </item>
+    <item>
+      <headword id="idp119330736">cas-ruamhair</headword>
+      <description>Quotation: a’ chas-ruamhair. Notes: sometimes used for “a’ chas-chrom”.</description>
+    </item>
+    <item>
+      <headword id="idp119332392">ceanna-mhàg</headword>
+      <description>Notes: end-rig.</description>
+    </item>
+    <item>
+      <headword id="idp119333904">ceapaire</headword>
+      <description>Quotation: an ceapaire Glasach. Notes: Strathglass bannock – barley bread and mashed potatoes on top.</description>
+    </item>
+    <item>
+      <headword id="idp119335560">ciùrr</headword>
+      <description>Notes: hurt.</description>
+    </item>
+    <item>
+      <headword id="idp119337072">clòineag</headword>
+      <description>Notes: snowflake.</description>
+    </item>
+    <item>
+      <headword id="idp119338584">cona-mheur</headword>
+      <description>[kɔ̃ṉɑvĩɑ̃ɾ] Notes: the point at the base of an otherwise “unpointed” antler (see cabar-slait).</description>
+    </item>
+    <item>
+      <headword id="idp119340312">corra-sgritheach</headword>
+      <description>Quotation: a’ chorra-sgritheach [kɔrəsɡɾiɔx]. Notes: heron.</description>
+    </item>
+    <item>
+      <headword id="idp119342184">cródhadh</headword>
+      <description>Quotation: Bha mi a’ cródhadh a choirce. Notes: taking in the corn to the stackyard.</description>
+    </item>
+    <item>
+      <headword id="idp119343840">crùn</headword>
+      <description>Quotation: crùn a’ chaibe-làir. Notes: triangular cutter of the flauchter spade. <illustration src="MorvichJClarkslipsillust3.jpg" width="200"/></description>
+    </item>
+    <item>
+      <headword id="idp119345496">cù</headword>
+      <description>Quotation: an cù agus an gala. Notes: fox and vixen.</description>
+    </item>
+    <item>
+      <headword id="idp119347152">dalbhan-allaidh</headword>
+      <description>[d̪ɑɫɑvɑṉɑɫi] Notes: spider.</description>
+    </item>
+    <item>
+      <headword id="idp119348880">déadhann</headword>
+      <description>[dʹe:ən̪] Notes: hobble put on a horse.</description>
+    </item>
+    <item>
+      <headword id="idp119350608">diaball</headword>
+      <description>[dʹıɤbəɫ] Notes: the overhang of the thatch.</description>
+    </item>
+    <item>
+      <headword id="idp119352336">diùbhras</headword>
+      <description>[dʹu̜:ɾɑs] Notes: difference.</description>
+    </item>
+    <item>
+      <headword id="idp119354064">dorus</headword>
+      <description>Quotation: dorus na cadhan (?) [d̪ɔɾəsṉəˈkɑəṉ]. Notes: the door leading into the living room.</description>
+    </item>
+    <item>
+      <headword id="idp119355936">dromanach</headword>
+      <description>Notes: bent hazel wands (steamed) used for pinning down the strips which were laid horizontally on top of the thatch.</description>
+    </item>
+    <item>
+      <headword id="idp119357448">eibhleag</headword>
+      <description>Notes: ember.</description>
+    </item>
+    <item>
+      <headword id="idp119358960">faradh</headword>
+      <description>[fɑɾəɡ] Notes: hen roost.</description>
+    </item>
+    <item>
+      <headword id="idp119360688">fèith</headword>
+      <description>Notes: a quagmire where beasts get stuck.</description>
+    </item>
+    <item>
+      <headword id="idp119362200">feursaigean</headword>
+      <description>[fjɤ:ʴsıɡʹəṉ] Notes: warble flies. [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+    <item>
+      <headword id="idp119364072">fóidear</headword>
+      <description>Notes: one who follows the plough with a spade turning over the parts left unturned.</description>
+    </item>
+    <item>
+      <headword id="idp167456520">fuaidean</headword>
+      <description>Quotation: fuaidean a chruinn. Notes: the plough handles.</description>
+    </item>
+    <item>
+      <headword id="idp167453136">gad</headword>
+      <description>Quotation: gad beithe. Notes: rope made from thin birch wands.</description>
+    </item>
+    <item>
+      <headword id="idp167449176">gala</headword>
+      <description>Quotation: an cù agus an gala. Notes: fox and vixen.</description>
+    </item>
+    <item>
+      <headword id="idp167446152">gaoth</headword>
+      <description>Quotation: Tha a’ ghaoth a’ bualadh. Notes: the wind being diverted from its true course by the mountains.</description>
+    </item>
+    <item>
+      <headword id="idp167442840">glan</headword>
+      <description>Quotation: glan a bhó. Notes: when it has got rid of the afterbirth.</description>
+    </item>
+    <item>
+      <headword id="idp167439384">glas-talamh</headword>
+      <description>Notes: lea land.</description>
+    </item>
+    <item>
+      <headword id="idp166590144">gòrachd</headword>
+      <description>[ɡɔ:ɾɑxk] Quotation: a’ gòrachd a mach. Notes: peeping. (Or ag òrachd?)</description>
+    </item>
+    <item>
+      <headword id="idp166592016">gròmag</headword>
+      <description>Notes: oatmeal, whisky and sugar.</description>
+    </item>
+  </items>
+</fieldworkDocument>

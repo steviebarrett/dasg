@@ -1,0 +1,802 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 1/4/15 -->
+<fieldworkDocument xmlns:php="http://php.net/xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Word-lists_anonymousmisc3" docType="wordlist" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <note>[NOTES: two informants named: D. Thormoid and Mrs P. MacDonald, Applecross, 1967. On the first two pages most items attributed to either A or H, which probably refers to two informants (or two locations?).]</note>
+  <informant>
+    <nameEnglish>various</nameEnglish>
+  </informant>
+  <items>
+    <item>
+      <headword>feannadh</headword>
+      <description>stripping. (H)</description>
+    </item>
+    <item>
+      <headword>barradh</headword>
+      <description>(A)</description>
+    </item>
+    <item>
+      <headword>poll-monadh</headword>
+      <description>(H)</description>
+    </item>
+    <item>
+      <headword>bac-moine</headword>
+      <description>(A)</description>
+    </item>
+    <item>
+      <headword>1. barr-fhad</headword>
+      <description>(H, A)</description>
+    </item>
+    <item>
+      <headword>2. dubh-fhad</headword>
+      <description>(H, A)</description>
+    </item>
+    <item>
+      <headword>3. carcaire</headword>
+      <description>(H) (corr-fhad? A)</description>
+    </item>
+    <item>
+      <headword>caibe-làir</headword>
+      <description>(H)</description>
+    </item>
+    <item>
+      <headword>iarann-mònadh</headword>
+      <description>(H)</description>
+    </item>
+    <item>
+      <headword>torsgian</headword>
+      <description>(A)</description>
+    </item>
+    <item>
+      <headword>sgaoileadh</headword>
+      <description/>
+    </item>
+    <item>
+      <headword id="idp156271192">gàrradh air bial a’ bhac</headword>
+      <description>(H)</description>
+    </item>
+    <item>
+      <headword id="idp156272704">pìlichean air bial a’ bhac</headword>
+      <description>(A)</description>
+    </item>
+    <item>
+      <headword id="idp156275080">dà fhàd is caoran</headword>
+      <description>(H)</description>
+    </item>
+    <item>
+      <headword id="idp156277456">mòine ruadh</headword>
+    </item>
+    <item>
+      <headword id="idp156278968">mòine dhubh</headword>
+    </item>
+    <item>
+      <headword id="idp156280480">mòine chruaidh</headword>
+    </item>
+    <item>
+      <headword id="idp156281992">mòine chòsach</headword>
+    </item>
+    <item>
+      <headword id="idp156283504">mòine phoiteach</headword>
+      <description>(A)</description>
+    </item>
+    <item>
+      <headword id="idp156285880">togail na mòine</headword>
+      <description>(A)</description>
+    </item>
+    <item>
+      <headword id="idp156287392">coileagachadh na mònadh</headword>
+      <description>(H)</description>
+    </item>
+    <item>
+      <headword id="idp156289768">rùghan Eireannach</headword>
+    </item>
+    <item>
+      <headword id="idp156291280">coilleag</headword>
+      <description>small pile. (H)</description>
+    </item>
+    <item>
+      <headword id="idp156292792">grìomhadh</headword>
+      <description>building the stack. (H) (A)</description>
+    </item>
+    <item>
+      <headword id="idp156294304">[cas]</headword>
+      <description>Tha mhòine air a cas bheag = ’sa choilleig. (H)</description>
+    </item>
+    <item>
+      <headword id="idp156296680">cléibh an eich</headword>
+    </item>
+	<item>
+	  <headword id="idola412" type="heading" level="h1">Cliabh</headword>
+    </item>
+	<item>
+      <headword id="idp156299056">briagan</headword>
+    </item>
+    <item>
+      <headword id="idp156300568">na staing</headword>
+      <description>(H) stoban air a’ mhullach.</description>
+    </item>
+    <item>
+      <headword id="idp156302080">[cabar]</headword>
+      <description>Co mhiod cabar a th’agad air a shon? (H)</description>
+    </item>
+    <item>
+      <headword id="idp156303592">slat (caol)</headword>
+      <description>(A)</description>
+    </item>
+    <item>
+      <headword id="idp156305104">iris</headword>
+      <description>(H, A)</description>
+    </item>
+	<item>
+	  <headword id="idola413" type="heading" level="h1">Each</headword>
+	</item>
+    <item>
+      <headword id="idp156307480">searrach</headword>
+      <description>foal.</description>
+    </item>
+    <item>
+      <headword id="idp156308992">làir</headword>
+      <description>mare.</description>
+    </item>
+    <item>
+      <headword id="idp156310504">gearran</headword>
+      <description>gelding.</description>
+    </item>
+    <item>
+      <headword id="idp156312016">àigeach</headword>
+      <description>stallion. (H)</description>
+    </item>
+    <item>
+      <headword id="idp156313528">ga-muighe</headword>
+      <description>(A)</description>
+    </item>
+    <item>
+      <headword id="idp156315040">ga-meighe</headword>
+      <description>(H)</description>
+    </item>
+    <item>
+      <headword id="idp114000152">tadhd</headword>
+      <description>belts around the head of horse. (H)</description>
+    </item>
+    <item>
+      <headword id="idp113995256">srian</headword>
+      <description>bridle. (H)</description>
+    </item>
+    <item>
+      <headword id="idp113991368">diallaid</headword>
+      <description>saddle. (H, A)</description>
+    </item>
+    <item>
+      <headword id="idp114004184">stiorap</headword>
+      <description>stirrup.</description>
+    </item>
+    <item>
+      <headword id="idp114005696">strathair</headword>
+      <description>(H, A)</description>
+    </item>
+    <item>
+      <headword id="idp114006776">strap-druma</headword>
+    </item>
+    <item>
+      <headword id="idp114008288">na h-amaill</headword>
+      <description>shafts; swingle-trees.</description>
+    </item>
+    <item>
+      <headword id="idp114009800">a’ bhriogais</headword>
+      <description>(H, A)</description>
+    </item>
+	<item>
+	  <headword id="idola414" type="heading" level="h1">Crann</headword>
+    </item>
+    <item>
+      <headword id="idp114011888">stoc</headword>
+      <description>cutting the ground. (H)</description>
+    </item>
+    <item>
+      <headword id="idp114013544">sgian</headword>
+      <description>above ‘stoc’. (H)</description>
+    </item>
+    <item>
+      <headword id="idp114015056">soc</headword>
+      <description>(A)</description>
+    </item>
+    <item>
+      <headword id="idp114016856">cultair</headword>
+      <description>(A)</description>
+    </item>
+    <item>
+      <headword id="idp114018368">làmhan</headword>
+      <description>(H, A)</description>
+    </item>
+    <item>
+      <headword id="idp114019880">bòrd</headword>
+      <description>(H, A)</description>
+    </item>
+    <item>
+      <headword id="idp114021392">bonn a’ chruinn</headword>
+      <description>(H)</description>
+    </item>
+    <note>[blank]</note>
+    <item>
+      <headword id="idp114023624">liabag</headword>
+      <description>(H)</description>
+    </item>
+    <item>
+      <headword id="idp114025136">umhcsa</headword>
+      <description>(H)</description>
+    </item>
+    <item>
+      <headword id="idp114026792">umhcas</headword>
+      <description>(A)</description>
+    </item>
+    <item>
+      <headword id="idp114028304">triubhas</headword>
+      <description>(H) roe, iuchair.</description>
+    </item>
+    <item>
+      <headword id="idp114029816">mealg</headword>
+      <description>(H)</description>
+    </item>
+    <item>
+      <headword id="idp114029240">meilg</headword>
+      <description>(A)</description>
+    </item>
+	<item>
+	  <headword id="idola415" type="heading" level="h1">Net</headword>
+    </item>
+    <item>
+      <headword id="idp114032840">an druime gu h-àrd</headword>
+    </item>
+    <item>
+      <headword id="idp114034352">an druim iochdar</headword>
+    </item>
+    <item>
+      <headword id="idp114035864">an druime tarra?</headword>
+      <description>(Kishorn, Lochcarron)</description>
+    </item>
+    <item>
+      <headword id="idp114002744">sòl-rop</headword>
+    </item>
+    <item>
+      <headword id="idp113991440">an snàth beartachdainn</headword>
+      <description>tying on the ropes.</description>
+    </item>
+    <item>
+      <headword id="idp113993960">crocair</headword>
+    </item>
+    <item>
+      <headword id="idp113998712">àrcaichean</headword>
+      <description>(older people)</description>
+    </item>
+    <item>
+      <headword id="idp114001592">mogull</headword>
+      <description>mesh.</description>
+    </item>
+    <item>
+      <headword id="idp114867480">na géibheals</headword>
+      <description>ropes at end of net.</description>
+    </item>
+    <item>
+      <headword id="idp114865896">bolla</headword>
+      <description>buoy.</description>
+    </item>
+    <item>
+      <headword id="idp114866256">pocanan</headword>
+    </item>
+    <item>
+      <headword id="idp114864744">botaill</headword>
+    </item>
+    <item>
+      <headword id="idp2781216">lìon-grunna</headword>
+    </item>
+    <item>
+      <headword id="idp2787912">lìon-sgadan / rionnach</headword>
+    </item>
+    <item>
+      <headword id="idp2773224">breac-lìn</headword>
+    </item>
+    <item>
+      <headword id="idp3134080">tramail</headword>
+    </item>
+	<item>
+	  <headword id="idola416" type="heading" level="h1">Lìon-beag</headword>
+    </item>
+    <item>
+      <headword id="idp119403432">an druim</headword>
+    </item>
+    <item>
+      <headword id="idp119404944">an farslaman</headword>
+      <description>eadar an druim ’s an dubhan.</description>
+    </item>
+    <item>
+      <headword id="idp119406456">sgùile, sgùilean</headword>
+    </item>
+	<item>
+	  <headword id="idola417" type="heading" level="h1">Eathar</headword>
+    </item>
+    <item>
+      <headword id="idp119408832">geola</headword>
+    </item>
+    <item>
+      <headword id="idp119410344">an druim</headword>
+    </item>
+    <item>
+      <headword id="idp119411856">an stem</headword>
+    </item>
+    <item>
+      <headword id="idp119413368">na tobhtaichean</headword>
+    </item>
+    <item>
+      <headword id="idp119414880">na ceannachragan</headword>
+      <description>ceangal an tobhta ri cliathach an eathar.</description>
+    </item>
+    <item>
+      <headword id="idp119416392">an sguite / sgut</headword>
+    </item>
+    <item>
+      <headword id="idp119417904">am bial-mór</headword>
+    </item>
+    <item>
+      <headword id="idp119419416">putagan</headword>
+    </item>
+    <item>
+      <headword id="idp119420928">bac</headword>
+    </item>
+    <item>
+      <headword id="idp119422440">stringer</headword>
+    </item>
+    <item>
+      <headword id="idp119423952">na h-aisnean</headword>
+    </item>
+    <item>
+      <headword id="idp119425464">na reangan</headword>
+      <description>ribs.</description>
+    </item>
+    <item>
+      <headword id="idp119426976">fàsag</headword>
+      <description>plug.</description>
+    </item>
+	<item>
+	  <headword id="idola418" type="heading" level="h1">Ramh</headword>
+    </item>
+    <item>
+      <headword id="idp119429352">leasganan</headword>
+      <description>protection against thole-pins.</description>
+    </item>
+    <item>
+      <headword id="idp119430864">liagh</headword>
+    </item>
+    <item>
+      <headword id="idp119432376">lunnan</headword>
+      <description>cur fo’n an eathar ’na tarraing.</description>
+    </item>
+    <item>
+      <headword id="idp119433888">cruaidh</headword>
+      <description>stone anchor.</description>
+    </item>
+    <item>
+      <headword id="idp119435400">taoman</headword>
+    </item>
+    <item>
+      <headword id="idp119436912">spùidsear</headword>
+      <description>(D. Thormoid)</description>
+    </item>
+    <item>
+      <headword id="idp119438424">deireadh-màs</headword>
+      <description>blunt stern.</description>
+    </item>
+    <item>
+      <headword id="idp119439936">iarann ris an druim</headword>
+    </item>
+    <item>
+      <headword id="idp119441448">iarann-stiùrach</headword>
+    </item>
+    <item>
+      <headword id="idp119442960">locair</headword>
+      <description>locker.</description>
+    </item>
+    <item>
+      <headword id="idp119444472">maidean-ùmhlair</headword>
+    </item>
+    <item>
+      <headword id="idp119445984">mòradh</headword>
+      <description>mooring.</description>
+    </item>
+    <item>
+      <headword id="idp119447496">sgreidheadh</headword>
+    </item>
+    <item>
+      <headword id="idp119449008">triasgadh</headword>
+      <description>cracking with dryness.</description>
+    </item>
+    <item>
+      <headword id="idp119450520">socadh</headword>
+      <description>soaking. (N. Applecross)</description>
+    </item>
+    <item>
+      <headword id="idp119452032">soltadh</headword>
+      <description>soaking (N. Applecross)</description>
+    </item>
+	<item>
+	  <headword id="idola419" type="heading" level="h1">Eathar mór</headword>
+    </item>
+    <item>
+      <headword id="idp119454408">an duin’-iarainn</headword>
+      <description>line-hauler.</description>
+    </item>
+    <item>
+      <headword id="idp119455920">feandairean</headword>
+      <description>fenders.</description>
+    </item>
+    <item>
+      <headword id="idp119457432">ailm</headword>
+      <description>helm.</description>
+    </item>
+    <item>
+      <headword id="idp119458944">botaig</headword>
+      <description>boot-hook.</description>
+    </item>
+    <item>
+      <headword id="idp119460456">cromag</headword>
+      <description>gaff.</description>
+    </item>
+    <note>[blank]</note>
+    <item>
+      <headword id="idp119462832">a’ siabadh</headword>
+      <description>fishing with rod.</description>
+    </item>
+    <item>
+      <headword id="idp119464344">a’ dorghach</headword>
+    </item>
+    <item>
+      <headword id="idp119465856">a’ creagach</headword>
+    </item>
+    <item>
+      <headword id="idp119467368">na sìlichean</headword>
+      <description>spinners.</description>
+    </item>
+    <item>
+      <headword id="idp119468880">a’ breacach</headword>
+    </item>
+    <item>
+      <headword id="idp119470392">biathadh</headword>
+      <description>bait.</description>
+    </item>
+    <item>
+      <headword id="idp119471904">maghair</headword>
+      <description>islands.</description>
+    </item>
+    <note>[blank]</note>
+    <item>
+      <headword id="idp119474280">am bradan leathainn</headword>
+      <description>halibut.</description>
+    </item>
+    <item>
+      <headword id="idp119475792">turbaid</headword>
+      <description>turbot.</description>
+    </item>
+    <item>
+      <headword id="idp119478816">an cudaige, an saoidhean, an t-umhcas</headword>
+    </item>
+    <item>
+      <headword id="idp119484864">sgleotagan</headword>
+      <description>(Lewis) fliuthagan beaga.</description>
+    </item>
+    <item>
+      <headword id="idp119486376">lugais</headword>
+      <description>lugworm.</description>
+    </item>
+    <item>
+      <headword id="idp119487888">an cnòdan</headword>
+      <description>gurnet.</description>
+    </item>
+    <item>
+      <headword id="idp119489400">an cnàmh-rionnach</headword>
+      <description>horse-mackerel.</description>
+    </item>
+    <item>
+      <headword id="idp119490912">bànag</headword>
+      <description>sea-trout.</description>
+    </item>
+    <item>
+      <headword id="idp119492424">bradan</headword>
+      <description>salmon.</description>
+    </item>
+    <item>
+      <headword id="idp119493936">geadag</headword>
+      <description>grilse or pike?</description>
+    </item>
+    <item>
+      <headword id="idp119495448">geadais?</headword>
+    </item>
+    <item>
+      <headword id="idp119496960">muc-creige (creagag)</headword>
+      <description>wrasse.</description>
+    </item>
+    <item>
+      <headword id="idp119499984">griasaiche</headword>
+      <description>young monk-fish.</description>
+    </item>
+    <item>
+      <headword id="idp119501496">mac-làmhais</headword>
+      <description>monk-fish.</description>
+    </item>
+    <item>
+      <headword id="idp119504520">claoidheag</headword>
+    <description>[kl[əi]ɑk] </description></item>
+    <item>
+      <headword id="idp119506680">donnagan</headword>
+      <description>like little ling (inshore).</description>
+    </item>
+    <item>
+      <headword id="idp119508192">casgag-thràghad</headword>
+      <description>starfish.</description>
+    </item>
+    <item>
+      <headword id="idp119509704">magan</headword>
+      <description>sea-urchin.</description>
+    </item>
+    <item>
+      <headword id="idp119511216">muir-tiachdaidh</headword>
+      <description>jellyfish.</description>
+    </item>
+    <item>
+      <headword id="idp119512728">traille</headword>
+      <description>forked hake?</description>
+    </item>
+    <item>
+      <headword id="idp119514240">an dalag gharbh</headword>
+    </item>
+    <item>
+      <headword id="idp119515752">an dalag mhìn</headword>
+    </item>
+    <item>
+      <headword id="idp119517264">a’ bhiorach</headword>
+      <description>spiked dog-fish.</description>
+    </item>
+    <item>
+      <headword id="idp119518776">cana</headword>
+      <description>porpoise.</description>
+    </item>
+    <item>
+      <headword id="idp119520288">a’ mhuc-bhiorach</headword>
+      <description>dolphin.</description>
+    </item>
+    <item>
+      <headword id="idp119521800">an leumadair</headword>
+      <description>dolphin.</description>
+    </item>
+    <item>
+      <headword id="idp119523312">ròn</headword>
+      <description>seal.</description>
+    </item>
+    <item>
+      <headword id="idp119524824">cearbanach</headword>
+      <description>large shark.</description>
+    </item>
+    <item>
+      <headword id="idp119526336">muc-mhara</headword>
+      <description>whale.</description>
+    </item>
+	<item>
+	  <headword id="idola420" type="heading" level="h1">Maorach</headword>
+    </item>
+    <item>
+      <headword id="idp119528712">giomach</headword>
+    </item>
+    <item>
+      <headword id="idp119530224">crùbag</headword>
+    </item>
+    <item>
+      <headword id="idp119531736">partan</headword>
+    </item>
+    <item>
+      <headword id="idp119533248">partan-tuathal</headword>
+    </item>
+    <item>
+      <headword id="idp156893680">deimhseag</headword>
+      <description>[dɛ̃ʃɑk] crabs with flat, broad claws.</description>
+    </item>
+    <item>
+      <headword id="idp156895408">faochagan</headword>
+    </item>
+    <item>
+      <headword id="idp156896920">gilleachan fionn</headword>
+    </item>
+    <item>
+      <headword id="idp156898432">conphocan</headword>
+      <description>(Skye: cnògan.)</description>
+    </item>
+    <item>
+      <headword id="idp156899944">slige-chreachan</headword>
+    </item>
+    <item>
+      <headword id="idp156901456">muisgeannan</headword>
+    </item>
+    <item>
+      <headword id="idp156902968">coilleagan</headword>
+    </item>
+    <item>
+      <headword id="idp156904480">muasgan</headword>
+      <description>(Balachul.: mùsgan.)</description>
+    </item>
+    <item>
+      <headword id="idp156905992">beàrnaich</headword>
+      <description>limpets.</description>
+    </item>
+    <item>
+      <headword id="idp156907504">eisir</headword>
+      <description>oyster.</description>
+    </item>
+    <item>
+      <headword id="idp156909016">ìghneachan</headword>
+      <description>(N. Applecross) magan (asthma).</description>
+    </item>
+	<item>
+	  <headword id="idola421" type="heading" level="h1">Feamainn</headword>
+    </item>
+    <item>
+      <headword id="idp156911392">liaghag</headword>
+      <description>large-leafed seaweed.</description>
+    </item>
+    <item>
+      <headword id="idp156912904">barrochc</headword>
+    </item>
+    <item>
+      <headword id="idp156914416">barr a’ stamh</headword>
+    </item>
+    <item>
+      <headword id="idp156915928">an fheamainn dubh</headword>
+    </item>
+    <item>
+      <headword id="idp156917440">duileasg</headword>
+    </item>
+    <item>
+      <headword id="idp156918952">màthair an duilisg</headword>
+    </item>
+    <item>
+      <headword id="idp156920464">feamainn chirean</headword>
+    </item>
+    <item>
+      <headword id="idp156921976">gilemalung</headword>
+      <description>tangle.</description>
+    </item>
+    <item>
+      <headword id="idp156923488">meilsean</headword>
+      <description>[mɛ̃iʃɑn] thicker tangle.</description>
+    </item>
+    <note>[blank]</note>
+    <item>
+      <headword id="idp156926080">deargadan a’ chladaich</headword>
+    </item>
+    <item>
+      <headword id="idp156927592">sanndagan</headword>
+      <description>sand-eels (sìol).</description>
+    </item>
+    <note>[blank]</note>
+    <item>
+      <headword id="idp156929968">sùlaire is guga</headword>
+    </item>
+    <item>
+      <headword id="idp156931480">arspag</headword>
+    </item>
+    <item>
+      <headword id="idp156932992">faoileagan dubha</headword>
+    </item>
+    <item>
+      <headword id="idp156934504">stearnan</headword>
+      <description>tern.</description>
+    </item>
+    <item>
+      <headword id="idp156936016">corra-sgridheach</headword>
+    </item>
+    <item>
+      <headword id="idp156937528">sgarbh</headword>
+      <description>cormorant.</description>
+    </item>
+    <item>
+      <headword id="idp156939040">brìdean</headword>
+      <description>oyster-catcher.</description>
+    </item>
+    <item>
+      <headword id="idp156940552">fulmaire</headword>
+      <description>fulmar.</description>
+    </item>
+    <item>
+      <headword id="idp156942064">fasgadair</headword>
+      <description>follows other birds till they drop what they’ve got. Skua.</description>
+    </item>
+    <item>
+      <headword id="idp156943648">burrabhuchaill</headword>
+      <description>northern diver.</description>
+    </item>
+    <item>
+      <headword id="idp156945160">ducair</headword>
+    </item>
+    <item>
+      <headword id="idp156946672">a’ ghearra bhreac</headword>
+      <description>draoisean. (Rona)</description>
+    </item>
+    <item>
+      <headword id="idp156948184">a’ mhula-mhòid</headword>
+      <description>dab-chick? on sea seen before stormy weather. Very small birds.</description>
+    </item>
+    <item>
+      <headword id="idp156949768">guilbneach</headword>
+      <description>curlew.</description>
+    </item>
+    <item>
+      <headword id="idp156951280">giadh</headword>
+      <description>goose.</description>
+    </item>
+    <item>
+      <headword id="idp156952792">a’ chearc-uisge</headword>
+      <description>peewit?</description>
+    </item>
+    <item>
+      <headword id="idp156954304">a’ chearc-fhraoich</headword>
+      <description>grouse.</description>
+    </item>
+    <item>
+      <headword id="idp156955816">féasin</headword>
+      <description>[?] pheasant.</description>
+    </item>
+    <item>
+      <headword id="idp156957328">coileach-dubh</headword>
+      <description>blackcock.</description>
+    </item>
+    <item>
+      <headword id="idp156958840">coileach-coille</headword>
+      <description>capercaillie.</description>
+    </item>
+    <note>[blank]</note>
+    <item>
+      <headword id="idp156961864">mart-marbhaidh</headword>
+      <description>beef-cow.</description>
+    </item>
+    <item>
+      <headword id="idp156963376">toire</headword>
+      <description>bit (brace).</description>
+    </item>
+    <note>[blank]</note>
+    <item>
+      <headword id="idp156966400">[adag]</headword>
+      <description>“Dà spot dhubh air an adag ’s earball fad’ air a’ chaoiteag.”</description>
+    </item>
+    <item>
+      <headword id="idp156968056">an garbhanach</headword>
+      <description>Jerusalem haddie.</description>
+    </item>
+    <item>
+      <headword id="idp156969568">suil-òr</headword>
+      <description>small fish, golden eye?</description>
+    </item>
+    <item>
+      <headword id="idp156971080">sgait-mhìn</headword>
+    </item>
+    <item>
+      <headword id="idp156972592">sgait-gharbh</headword>
+    </item>
+    <item>
+      <headword id="idp156974104">falmar</headword>
+      <description>hake.</description>
+    </item>
+    <item>
+      <headword id="idp156975616">fabhfagan</headword>
+      <description>[fɤ:fɑkən] squids (sùil-an-tòin).</description>
+    </item>
+    <item>
+      <headword id="idp156977344">giobarnach</headword>
+      <description>octopus. (Lewis)</description>
+    </item>
+    <item>
+      <headword id="idp156978856">an t-snàthadag</headword>
+      <description>little bird that accompanies cuckoo.</description>
+    </item>
+    <item>
+      <headword id="idp156980368">prìobag</headword>
+      <description>“Bidh sin prìobag dhut.” – That will cost you something. Mrs P. MacDonald, Applecross, 1967.</description>
+    </item>
+  </items>
+</fieldworkDocument>

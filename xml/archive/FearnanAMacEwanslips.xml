@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 1/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_FearnanAMacEwanslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>1975</date>
+  <fieldworker>[Tony Dilworth?]</fieldworker>
+  <informant>
+    <nameEnglish>Alex MacEwan</nameEnglish>
+    <age>c. 85</age>
+  </informant>
+  <location>Perthshire, Fearnan</location>
+  <items>
+    <item>
+      <headword id="idp166269256">péillin</headword>
+      <description>[pɛ̜ḻinʹ] Notes: wire fencing.</description>
+    </item>
+    <item>
+      <headword id="idp166266160">saidhe</headword>
+      <description>[s[ɑi]] Notes: hay.</description>
+    </item>
+    <item>
+      <headword id="idp166282216">trùghan</headword>
+      <description>[tru̟ən] Notes: trowel.</description>
+    </item>
+    <item>
+      <headword id="idp166283944">uinnseann</headword>
+    <description>[ũ̟ĩʃən] </description></item>
+    <item>
+      <headword id="idp166285672">balg-séid</headword>
+      <description>Notes: bellows.</description>
+    </item>
+    <item>
+      <headword id="idp166287184">cèardach</headword>
+      <description>[kj[ɑu]rd̪əx] Notes: smithy.</description>
+    </item>
+    <item>
+      <headword id="idp166289344">feàrn</headword>
+      <description>[fjɛorn] Notes: alder.</description>
+    </item>
+    <item>
+      <headword id="idp166291072">Fearnan</headword>
+      <description>[fjɔrnən] Notes: place-name.</description>
+    </item>
+    <item>
+      <headword id="idp166292800">figheadair</headword>
+      <description>[fi:d̪ər] Notes: ‘weaver’.</description>
+    </item>
+    <item>
+      <headword id="idp166294528">geata</headword>
+    <description>[ɡʹaʰt] </description></item>
+    <item>
+      <headword id="idp166296256">gobha</headword>
+      <description>[ɡ[ɑu]ʼın] [?] Notes: nominative?</description>
+    </item>
+    <item>
+      <headword id="idp166298488">greusaiche</headword>
+    <description>[ɡrɛ̜:siç] </description></item>
+    <item>
+      <headword id="idp166300216">gual</headword>
+      <description>[ɡɔˈəɫ] Notes: N.B. pron.</description>
+    </item>
+  </items>
+</fieldworkDocument>

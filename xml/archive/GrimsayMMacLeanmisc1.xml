@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?><!-- checked by MM on 3 6 14 --><fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="AOHenley_GrimsayMMacLeanmisc1" docType="wordlist" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>[1987-88]</date>
+  <fieldworker personId="ohenleya">A. O’Henley</fieldworker>
+  <informant>
+    <nameEnglish>Mrs Mary MacLean</nameEnglish>
+  </informant>
+  <location>North Uist, Grimsay</location>
+  <items>
+    <item>
+      <headword id="idp109707408">fùideadh</headword>
+      <description>to rush a job.</description>
+    </item>
+    <item>
+      <headword id="idp109688544">sporran feannaig</headword>
+      <description>a pouch like bit of seaweed found on shore.</description>
+    </item>
+    <item>
+      <headword id="idp109749816">nemart</headword>
+      <description>a person who is lacking mentally.</description>
+    </item>
+    <item>
+      <headword id="idp109714032">fochal</headword>
+      <description>gossip.</description>
+    </item>
+    <item>
+      <headword id="idp109698048">feithean</headword>
+      <description>little glens between hills. Also in sense of gaps between little hummocks on moorland.</description>
+    </item>
+    <item>
+      <headword id="idp109712880">air aghaidh fhein</headword>
+      <description>self employed.</description>
+    </item>
+    <item>
+      <headword id="idp109710288">trinnsigeadh</headword>
+      <description>turning the furrow over with a spade when the plough fails due to the stubbornness of the soil.</description>
+    </item>
+    <item>
+      <headword id="idp109718928">as onarach</headword>
+      <description>dishonest.</description>
+    </item>
+    <item>
+      <headword id="idp109761912">emairt</headword>
+      <description>when is someone is left empty. [sic] “Dh’fhàg iad e air an emairt.”</description>
+    </item>
+    <item>
+      <headword id="idp109747512">staoig</headword>
+      <description>a portion, fragment, bit of something.</description>
+    </item>
+    <item>
+      <headword id="idp109689840">preis</headword>
+      <description>pot.</description>
+    </item>
+    <item>
+      <headword id="idp109745280">dol a’measad</headword>
+      <description>deteriorating.</description>
+    </item>
+    <item>
+      <headword id="idp109703016">air a’ pharais</headword>
+      <description>on social security.</description>
+    </item>
+    <item><headword id="d0e143" type="heading" level="h1">Seanfhaclan</headword></item>
+    <item>
+      <headword id="d0e148">[mèirleach]</headword>
+	  <description>“’S leis a’ mheirleach mhath a chuid gus a beirear air.”</description>
+    </item>
+    <item>
+      <headword id="d0e154">[marsanta]</headword>
+	  <description>“’S math am barr a riaraicheas am marsanta ged is olc an fhéill a dh’fhàgas duin’ e fhein air an emairt.”</description>
+    </item>
+    <item>
+      <headword id="d0e160">[beul]</headword>
+      <description>“Cha tig feuch air beul duinnte.” If you keep your lips sealed no one will know your secret.</description>
+    </item>
+    <item>
+      <headword id="d0e169">[urram]</headword>
+	  <description>“Urram chlaisneachd chluas na Roinn Eorpa aig an earba, ’s a dh’aindheoin na chloinn i cha teich i gu faic i.”</description>
+    </item>
+    <item>
+      <headword id="d0e175">[facal]</headword>
+	  <description>“Tuigidh fear leughaidh leth an fhacal.”</description>
+    </item>
+    <item>
+      <headword id="d0e181">[lite]</headword>
+      <description>“Na bi bogadh do shliopean air an lìte [sic] nach òl thu.” Make sure you know what you are getting involved in.</description>
+    </item>
+    <item>
+      <headword id="d0e190">[duine]</headword>
+	  <description>“Aon duin’ a dh’iarras ’sa dhà dheug a dh’òlas.”</description>
+    </item>
+    <item>
+      <headword id="d0e196">[gaoth]</headword>
+	  <description>“’S olc a ghaoth a shéideas nach dean feum a chuideigin.”</description>
+    </item>
+    <item>
+      <headword id="d0e202">[beò]</headword>
+	  <description>“’S ioma rud a chì an duine bhios fada beò; chì e sagart a’ gabhail pioba ’s sgriobhadh le ìte geoidh.”</description>
+    </item>
+    <item>
+      <headword id="d0e208">[laogh]</headword>
+	  <description>“’S fhearr aon laogh coir na dà chraiceann.”</description>
+    </item>
+    <item>
+      <headword id="d0e214">[làmh]</headword>
+	  <description>“’S fhearr aon ghiadh air làimh na dhà dheug air ìteag.”</description>
+    </item>
+    <item>
+      <headword id="d0e220">[ugh]</headword>
+	  <description>“Ugh aig eireag ’s bean aig sgalag.”</description>
+    </item>
+    <item>
+      <headword id="d0e226">[facal]</headword>
+	  <description>“’S mór am facal nach toill ’sa bheul.”</description>
+    </item>
+    <item>
+      <headword id="d0e232">[milis]</headword>
+	  <description>“Cha dean corrag mhilis ìm, cha dean glùtaire caise.”</description>
+    </item>
+    <item>
+      <headword id="d0e238">[comhairle]</headword>
+	  <description>“’S fhearr aon chomhairle bho Dhia na dhà dheug bho dhaoine.”</description>
+    </item>
+    <item>
+      <headword id="d0e244">[còta]</headword>
+	  <description>“’S fhearr an còta bhith fàs fada na bhith fàs goirid.”</description>
+    </item>
+    <item>
+      <headword id="d0e250">[eucoir]</headword>
+	  <description>“Cha bhith suaimhneas aig eucoir neo seasamh aig droch bhean.”</description>
+    </item>
+    <item>
+      <headword id="d0e256">[bròn]</headword>
+	  <description>“Chan fhiach bròn a ghnath agus chan fhiach ceòl a ghnath.”</description>
+    </item>
+    <item>
+      <headword id="d0e262">[bun]</headword>
+	  <description>“Cha do chuir a bhun nach do chinnich leis.”</description>
+    </item>
+    <item>
+      <headword id="d0e268">[creag]</headword>
+	  <description>“Na creagan siorruidh tuitidh sios ’san ùir, ach seasaidh firinn dhìleas Righ nan Dùl.”</description>
+    </item>
+    <item>
+      <headword id="d0e274">[Dia]</headword>
+	  <description>“Chan eil math nach teirig ach math Dhé.”</description>
+    </item>
+    <item>
+      <headword id="d0e280">[Dia]</headword>
+	  <description>“Is gearr gach reachd ach riaghailt Dhé.”</description>
+    </item>
+    <item>
+      <headword id="d0e286">[amadan]</headword>
+	  <description>“Chan eil eadar an duine glic is an t-amadan ach gur ceil an duine glic a rùn agus gun innis an t-amadan e.”</description>
+    </item>
+    <item>
+      <headword id="d0e292">[lag]</headword>
+	  <description>“Is fhearr an dicheall lag na an neart lag.”</description>
+    </item>
+    <item>
+      <headword id="d0e298">[teine]</headword>
+	  <description>“Na toir teine a tigh far a bheil leanabh gun fhiaclan.”</description>
+    </item>
+    <item>
+      <headword id="d0e304">[aodach]</headword>
+	  <description>“Nuair a gheibh thu brògan neo aodach ùr gabh greim arain nuair a chuireas tu umad e.”</description>
+    </item>
+    <item>
+      <headword id="d0e310">[pòsadh]</headword>
+	  <description>“Tha am pòsadh coltach ri siorram, tha mil ann is gathan.”</description>
+    </item>
+    <item>
+      <headword id="d0e316">[latha]</headword>
+	  <description>“Diardaoin latha Cholum Chille Chaomh, Di Sathuirne là crathadh na balg.”</description>
+    </item>
+    <item>
+      <headword id="d0e322">[Samhainn]</headword>
+	  <description>“Mas e ciadaineach an t-Samhain ’s largainneach fir domhain. ’S mairg is mathair dh’an Mhac Mhaoth mas e Diardaoin latha Samhna.”</description>
+    </item>
+    <item>
+      <headword id="d0e328">[faisg]</headword>
+	  <description>“Is fhaisg a’ ghlùin na’n uilinn.”</description>
+    </item>
+    <item>
+      <headword id="d0e334">[fuachd]</headword>
+      <description>“Cha tig fuachd gu earrach, cruaidh chàs no droch ceannachd, cha dean bean ach air eiginn gun aithnich i ceud ghin.” Not sure of meaning behind this one.</description>
+    </item>
+    <item>
+      <headword id="d0e343">[beul]</headword>
+	  <description>“Miaran bho bheul gu beul, ’s an t-eunan bho thòm gu tòm.”</description>
+    </item>
+    <item>
+      <headword id="d0e349">[uiseag]</headword>
+	  <description>“Thuirt an uiseag ris an fhaoilleach càite an do dh’fhàg thu an laoghan bochd. Dh’fhàg mise e an cùl a’ ghàraidh ’sa dhà shùil na cheann mar phlòc.”</description>
+    </item>
+    <item>
+      <headword id="d0e355">[eun]</headword>
+	  <description>“Ùgh air ionnad? (inid) ’s eun air Càsg, mur bidh sin aig an fhitheach bidh am bàs.”</description>
+    </item>
+    <item>
+      <headword id="d0e361">[gaoth]</headword>
+	  <description>“Gaoth a tuath a ruaigeas an ceò.”</description>
+    </item>
+    <item>
+      <headword id="d0e367">[teanga]</headword>
+	  <description>“A’ snaim a cheanglas an teanga ’s nach fhuasgail na fiaclan.” Am pòsadh.</description>
+    </item>
+    <item>
+      <headword id="d0e376">[Màrt]</headword>
+	  <description>“Ma gheibh a Màrt clais thiorram gun gleidh e tiorram i.”</description>
+    </item>
+    <item>
+      <headword id="d0e382">[grian]</headword>
+	  <description>“Grian fàs cuirp ’s dian fhàs fuilt.”</description>
+    </item>
+    <item>
+      <headword id="d0e388">[oidhche]</headword>
+	  <description>“Na mòl oidhche ’s na di mhol latha.”</description>
+    </item>
+  </items>
+</fieldworkDocument>

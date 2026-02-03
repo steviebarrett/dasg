@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 26/10/15 -->
+<fieldworkDocument xmlns:php="http://php.net/xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_SkyeKCampbellslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>1977</date>
+  <informant>
+    <nameEnglish>Kenna Campbell</nameEnglish>
+  </informant>
+  <location>Skye</location>
+  <items>
+    <item>
+      <headword id="idp115456216">leac-ard</headword>
+      <description>Notes: shoulder-blade of sheep.</description>
+    </item>
+    <item>
+      <headword id="idp115493368">sgart</headword>
+      <description>Notes: lining of the stomach, covering of intestines.</description>
+    </item>
+  </items>
+</fieldworkDocument>

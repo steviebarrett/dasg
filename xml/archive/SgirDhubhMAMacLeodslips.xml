@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 26/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_SgirDhubhMAMacLeodslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>05/1971</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <informant>
+    <nameEnglish>M.A. MacLeod</nameEnglish>
+  </informant>
+  <location>Canada, Cape Breton, Sgir Dhubh</location>
+  <items>
+    <item>
+      <headword id="idp115489744">réibeid</headword>
+      <description>[re:bɑdʹ] Notes: groove in the stempost of a boat into which ends of planks are fitted.</description>
+    </item>
+    <item>
+      <headword id="idp115451224">seilear</headword>
+      <description>[ʃelɑɾ] Notes: cellar.</description>
+    </item>
+  </items>
+</fieldworkDocument>

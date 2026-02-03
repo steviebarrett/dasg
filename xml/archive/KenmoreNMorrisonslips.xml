@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 7/10/15 -->
+<!-- illustrations -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_KenmoreNMorrisonslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>12/1969</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <informant>
+    <nameEnglish>Mrs N. Morrison</nameEnglish>
+    <origin>Harris</origin>
+  </informant>
+  <location>Kenmore</location>
+  <items>
+    <item>
+      <headword id="idp118995744">null</headword>
+      <description>Quotation: Bha e null ’s a nall. Notes: he was non-committal.</description>
+    </item>
+    <item>
+      <headword id="idp118997400">osan</headword>
+      <description>Quotation: osan a’ chléibh ghiomach. Notes: the entrance. (Harris)</description>
+    </item>
+    <item>
+      <headword id="idp118999056">poca-salainn</headword>
+      <description>Notes: spider.</description>
+    </item>
+    <item>
+      <headword id="idp119000568">prug</headword>
+      <description>Quotation: prug, prug! Notes: call to a calf. (Also prugan.)</description>
+    </item>
+    <item>
+      <headword id="idp119002224">prugan</headword>
+      <description>[pɾu̟ɡɑṉ] Quotation: prugan, prugan! Notes: call to a calf. (Prug also used.)</description>
+    </item>
+    <item>
+      <headword id="idp119004960">làir-bhreabach</headword>
+      <description>Quotation: làir-bhreabach [ɫɑ:ðəvðebɔx] (sic). Notes: swing.</description>
+    </item>
+    <item>
+      <headword id="idp119006904">léine</headword>
+      <description>Quotation: léine-gheal. Notes: the skin inside the shell of an egg.</description>
+    </item>
+    <item>
+      <headword id="idp119008560">mulad</headword>
+      <description>Notes: used in Kenmore for homesickness.</description>
+    </item>
+    <item>
+      <headword id="idp115456624">ròmag</headword>
+      <description>Notes: mixture of oatmeal, whisky and sugar. (Harris)</description>
+    </item>
+    <item>
+      <headword id="idp115493128">inneadh</headword>
+      <description>Notes: lack of yarn to complete a tweed. (Lewis – inneamh.)</description>
+    </item>
+    <item>
+      <headword id="idp115439200">ìongnachan</headword>
+      <description>[ĩ:ṉɑxɑṉ] Notes: sea-urchin. (Kenmore)</description>
+    </item>
+    <item>
+      <headword id="idp115469656">seilean</headword>
+      <description>Quotation: (1) seilean dubh. (2) seilean ruadh. Notes: (2) has nest deeper in the ground and has more honey.</description>
+    </item>
+    <item>
+      <headword id="idp115456048">seiplisg</headword>
+      <description>[sɛpliʃɡʹ] Notes: soapy water. (Harris)</description>
+    </item>
+    <item>
+      <headword id="idp166426568">sglòpan</headword>
+      <description>Notes: hen’s wattle.</description>
+    </item>
+    <item>
+      <headword id="idp166428080">sgoradh</headword>
+      <description>Quotation: dà sgoradh. Notes: earmark. <illustration src="KenmoreNMorrisonslipsillust1.jpg" width="200"/></description>
+    </item>
+    <item>
+      <headword id="idp166429736">siollaichean</headword>
+      <description>Notes: haimes. (Kenmore)</description>
+    </item>
+    <item>
+      <headword id="idp166431248">sionnachan</headword>
+      <description>Notes: phosphorescence. (Harris)</description>
+    </item>
+    <item>
+      <headword id="idp166432760">slaodag</headword>
+      <description>Notes: horse-drawn sledge. (Kenmore)</description>
+    </item>
+    <item>
+      <headword id="idp166434272">slis</headword>
+      <description>Quotation: dà shlis. Notes: earmark. (Harris) <illustration src="KenmoreNMorrisonslipsillust2.jpg" width="200"/></description>
+    </item>
+    <item>
+      <headword id="idp166435928">smeòrach</headword>
+      <description>Notes: earmark. (Kenmore) <illustration src="KenmoreNMorrisonslipsillust3.jpg" width="200"/></description>
+    </item>
+    <item>
+      <headword id="idp166437440">soitheamh</headword>
+      <description>[sɔ̃hi] Notes: well-behaved, tame as e.g. a cow.</description>
+    </item>
+    <item>
+      <headword id="idp166439168">splungag</headword>
+      <description>[spɫũ̜ŋɡɑɡ] Notes: a sling (for throwing stones, etc.).</description>
+    </item>
+    <item>
+      <headword id="idp166440896">spòg</headword>
+      <description>Quotation: spòg an trùsair. Notes: trouser leg. (Kenmore)</description>
+    </item>
+    <item>
+      <headword id="idp166442552">sùlag</headword>
+      <description>Notes: earmark. (Harris) <illustration src="KenmoreNMorrisonslipsillust4.jpg" width="200"/></description>
+    </item>
+    <item>
+      <headword id="idp166444064">tallainde</headword>
+      <description>[t̪ɑɫɑ̃nʹdʹə] Notes: partition in a house.</description>
+    </item>
+    <item>
+      <headword id="idp166445792">tarbh</headword>
+      <description>Quotation: tarbh mór nathair-neimh. Notes: dragonfly. (Kenmore)</description>
+    </item>
+    <item>
+      <headword id="idp166447448">tormachan-dé</headword>
+      <description>Notes: butterfly.</description>
+    </item>
+    <item>
+      <headword id="idp166448960">bacan</headword>
+      <description>Quotation: bacan aghaidh, bacan cùl. Notes: <illustration src="KenmoreNMorrisonslipsillust5.jpg" width="250"/></description>
+    </item>
+    <item>
+      <headword id="idp166450616">biadhtach</headword>
+      <description>Notes: raven. (Harris)</description>
+    </item>
+    <item>
+      <headword id="idp166452128">biast</headword>
+      <description>Quotation: biast a’ chàil. Notes: caterpillar.</description>
+    </item>
+    <item>
+      <headword id="idp166453784">bior</headword>
+      <description>Quotation: bior eallaidh [biɾˈiɑɫi]. Notes: an iron rod used to hold lighted peat as a torch. (Harris)</description>
+    </item>
+    <item>
+      <headword id="idp166455872">boiteas</headword>
+      <description>[botʹəs] Notes: bowel-worm.</description>
+    </item>
+    <item>
+      <headword id="idp166457600">breaban</headword>
+      <description>Notes: a half-sole.</description>
+    </item>
+    <item>
+      <headword id="idp166459112">brìdean</headword>
+      <description>Notes: oyster-catcher. (Kenmore)</description>
+    </item>
+    <item>
+      <headword id="idp166460624">caraide-spàgach</headword>
+      <description>Notes: daddy longlegs. (Harris)</description>
+    </item>
+    <item>
+      <headword id="idp166462136">casachan</headword>
+      <description>Notes: pedal of handloom. (Harris)</description>
+    </item>
+    <item>
+      <headword id="idp166463648">ceap-sgiath</headword>
+      <description>Notes: wool-winder (same as lianradh). (Kenmore)</description>
+    </item>
+    <item>
+      <headword id="idp166465160">cluais</headword>
+      <description>Quotation: cluais bhiorach. Notes: earmark. (Kenmore) <illustration src="KenmoreNMorrisonslipsillust6.jpg" width="200"/></description>
+    </item>
+    <item>
+      <headword id="idp166466816">cneaban</headword>
+      <description>[kɾɛ̃:bɑṉ] Notes: a small stool. (Kenmore)</description>
+    </item>
+    <item>
+      <headword id="idp166468544">cnoimheag</headword>
+      <description>[kɾɛ̃ɑɡ] Notes: sheep maggot.</description>
+    </item>
+    <item>
+      <headword id="idp166470272">cragan-feannaig</headword>
+      <description>Notes: sea-urchin. (Harris)</description>
+    </item>
+    <item>
+      <headword id="idp166471784">crann-aodaich</headword>
+      <description>Notes: cloth beam on a handloom. (Harris)</description>
+    </item>
+    <item>
+      <headword id="idp166473296">crann-snàth</headword>
+      <description>Notes: warp-beam. (Harris)</description>
+    </item>
+    <item>
+      <headword id="idp166474808">criomag</headword>
+      <description>Notes: earmark. <illustration src="KenmoreNMorrisonslipsillust7.jpg" width="200"/></description>
+    </item>
+    <item>
+      <headword id="idp166476320">cròcan</headword>
+      <description>[kɾɔ:xkɑṉ] Notes: implement used to go after sand eels.</description>
+    </item>
+    <item>
+      <headword id="idp166478048">cròcan</headword>
+      <description>Notes: earmark. (Harris) <illustration src="KenmoreNMorrisonslipsillust8.jpg" width="200"/></description>
+    </item>
+    <item>
+      <headword id="idp166479560">dùbhaich</headword>
+      <description>Notes: the anal passage in a beast. (Harris)</description>
+    </item>
+    <item>
+      <headword id="idp166481072">ealladh</headword>
+      <description>Quotation: bior eallaidh. Notes: an iron rod used to hold lighted peat as a torch. (Harris)</description>
+    </item>
+    <item>
+      <headword id="idp166482728">gearradh</headword>
+      <description>Notes: earmark. (Harris) <illustration src="KenmoreNMorrisonslipsillust9.jpg" width="250"/></description>
+    </item>
+    <item>
+      <headword id="idp166484240">gèidsear</headword>
+      <description>Notes: plough muzzle, to adjust its position.</description>
+    </item>
+    <item>
+      <headword id="idp166485752">gibneach</headword>
+      <description>[ɡıbṉɔ̃x] Notes: octopus. (Harris)</description>
+    </item>
+    <item>
+      <headword id="idp166487480">goilebianan</headword>
+      <description>[ɡɤləbiɤṉɑṉ] Notes: phosphorescence as seen on fish which has been hanging for a few days.</description>
+    </item>
+    <item>
+      <headword id="idp166489208">gormunn</headword>
+      <description>[ɡɔɾɑməṉ] Quotation: gormunn-uchd. Notes: the beam on to which the cloth goes before it goes on the crann-aodaich. (Harris)</description>
+    </item>
+    <item>
+      <headword id="idp166491080">great</headword>
+      <description>[ɡɾɛt̪] Notes: soapy water. (Kenmore)</description>
+    </item>
+    <item>
+      <headword id="idp166492808">gròbadh</headword>
+      <description>Quotation: Bheir gròbadh dhan an uinneig. Tha gròbadh air an dorus. Notes: slightly open.</description>
+    </item>
+    <item>
+      <headword id="idp166494464">gròmag</headword>
+      <description>Notes: mixture of oatmeal, whisky and sugar. (Kenmore)</description>
+    </item>
+    <item>
+      <headword id="idp166495976">gugaill</headword>
+      <description>[ɡu̟ɡilʹ] Quotation: Tha e na [ɣu̟ɡilʹ]. Notes: He is in a huddled position.</description>
+    </item>
+    <item>
+      <headword id="idp166499000">bulaidh-mhuc</headword>
+      <description>Quotation: Cho fliuch ris a’ b(m?)hulaidh-mhuc. Notes: wild hyacinth. Above phrase used of wet potatoes.</description>
+    </item>
+  </items>
+</fieldworkDocument>

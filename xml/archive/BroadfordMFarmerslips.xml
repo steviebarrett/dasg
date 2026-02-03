@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 6/8/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_BroadfordMFarmerslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>1979-83</date>
+  <informant>
+    <nameEnglish>Mrs M. Farmer</nameEnglish>
+  </informant>
+  <location>Skye, Broadford</location>
+  <items>
+    <item>
+      <headword id="idp161827920">mògais</headword>
+      <description>Notes: a messy mixture, e.g. of food.</description>
+    </item>
+    <item>
+      <headword id="idp161829432">rionnag</headword>
+      <description>Notes: ‘a spark of life in the fire.’</description>
+    </item>
+    <item>
+      <headword id="idp161830944">plìon</headword>
+      <description>Notes: a smile, smirk.</description>
+    </item>
+    <item>
+      <headword id="idp161832456">sgaimeic</headword>
+      <description>Quotation: sgaimeic (hd) – pronounced as if with -hd. Notes: stressed syllable has /ɛ/ sound. Has general meaning of ‘a mess’. Could be used of foods mixed together which aren’t usually mixed. Phrase ‘Rinn e s. dheth’ could be used of someone who’s messed some job up. [NOTES: on this slip ‘Broadford’ was crossed out and replaced with ‘Breakish’.]</description>
+    </item>
+  </items>
+</fieldworkDocument>

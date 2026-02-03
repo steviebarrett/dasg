@@ -1,0 +1,1427 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 7/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_LewisDSTslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>[see below]</date>
+  <fieldworker>DST [Derick S. Thomson]</fieldworker>
+  <note>[NOTES: most slips give ‘Lewis Scrapbook (DST)’ as the source.]</note>
+  <informant>
+    <nameEnglish>various</nameEnglish>
+  </informant>
+  <location>Lewis</location>
+  <items>
+    <item>
+      <headword id="idp167560408">là</headword>
+      <description>Quotation: là biathadh a’ bhannaich. Notes: i.e. when the barley (to feed the bannock) was ripening, in August and September, – a bad time for midges.</description>
+    </item>
+    <item>
+      <headword id="idp167557456">là</headword>
+      <description>Quotation: là cuileagach. Notes: i.e. when the barley (to feed the bannock) was ripening, in August and September, – a bad time for midges.</description>
+    </item>
+    <item>
+      <headword id="idp167554072">laibstear</headword>
+      <description>Notes: ‘a clumsy woman’ (Keose). Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp167550616">leamh</headword>
+      <description>Notes: various senses: e.g. sarcastic; disappointing (nach eil sin leamh). Dw. does not give sense of ‘sarcastic’ but gives ‘vexing, galling’.</description>
+    </item>
+    <item>
+      <headword id="idp167574232">leth-bhuinn</headword>
+      <description>Notes: half-soles (cf. Sutherland gearra-bhuinn). Presumably an old compound – strong initial stress, and bh &gt; f. In Dw.</description>
+    </item>
+    <item>
+      <headword id="idp167575744">leum-stall</headword>
+      <description>Notes: step down to the todhar. Not in Dwelly, who however gives stall ‘edge of the floor next the byre in old thatched houses’ (DMy).</description>
+    </item>
+    <item>
+      <headword id="idp167577256">liacradh</headword>
+      <description>Quotation: liacradh an ime, ‘spreading … with finger’; ìm air a liacradh air. Notes: liacradh rather than sliacradh in 2nd instance, since no initial breathing seemed present. Not in Dw. but he gives liacadh ‘besmearing’.</description>
+    </item>
+    <item>
+      <headword id="idp167579128">lidhe</headword>
+      <description>Notes: (Ness) grassy, sloping cliff. Not in Dw. Date: 1963.</description>
+    </item>
+    <item>
+      <headword id="idp167580784">liugach</headword>
+      <description>Notes: shy, holding head to one side. Not in Dw. Distinguish from liùgach.</description>
+    </item>
+    <item>
+      <headword id="idp167582296">loireach</headword>
+      <description>Notes: used e.g. of wishy-washy, ‘dish-water’ tea. Dw. gives loireach ‘soiled’ (Dmy), etc.</description>
+    </item>
+    <item>
+      <headword id="idp167583808">lonaid</headword>
+      <description>Notes: lane for cattle. Dw. has lònaid ‘lane’ (from the Kilmonivaig District).</description>
+    </item>
+    <item>
+      <headword id="idp167585320">luchruban</headword>
+      <description>Notes: pigmy. (&lt; lu + corpan) Ir. luchorpan. Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp167586832">luidsear</headword>
+      <description>Notes: ‘a clumsy (shabby?) man’. Dw. gives luidsear, see luidse ‘clumsy fellow’ etc. (No reference to ‘shabby’.)</description>
+    </item>
+    <item>
+      <headword id="idp167588344">lumachreach</headword>
+      <description>Notes: a large, very stout woman. Not in Dw. Var. of loma-chreach (not in Dw. either).</description>
+    </item>
+    <item>
+      <headword id="idp120254680">lungaid</headword>
+      <description>Quotation: lungaid (Tong); lungag (Lochs). Notes: Dw. has neither but quotes longadh (Armstrong) in sense of ‘casting, throwing’. Habost man who was displeased with small son-in-law: “Chunna sinn’ a là a chuireadh sinn le lungag a-null a Bhaltos e.”</description>
+    </item>
+    <item>
+      <headword id="idp120256336">lus a’ chorracha-mille</headword>
+      <description>Notes: not in Dw. A fern-like plant with long roots, and globules or nodules on the ends of the roots. Those were dug up, scraped and eaten – or stored and eaten later, like nuts. Found, e.g. at the Ard Fhalasgair, Keose. Cf. MacBain, sub carra-meille (in Dwelly).</description>
+    </item>
+    <item>
+      <headword id="idp120257848">maide siomaid/simid</headword>
+      <description>Notes: washing stick. Dw. has simid ‘mallet, beetle,’ etc.</description>
+    </item>
+    <item>
+      <headword id="idp120259432">maighstir</headword>
+      <description>Notes: the urine used to soak the tweed in before waulking. Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp120260944">man sìthean an eòrna</headword>
+      <description>Quotation: Bha e dìreach man sìthean an eòrna. (Catriona Mhór – of fair-haired person (?)/handsome.)</description>
+    </item>
+    <item>
+      <headword id="idp120262456">maois</headword>
+      <description>Notes: (Lochs) a ‘maois’ of seaweed is formed by laying down a square of rope, and filling in with criss-crossed ropes. The seaweed is then piled high on this framework, and towed by a boat. The above definition more precise than Dwelly’s.</description>
+    </item>
+    <item>
+      <headword id="idp120263968">maolag</headword>
+      <description>Notes: a woman with thinning hair. Dw. has maolag ‘a bald woman’ (MacEachen).</description>
+    </item>
+    <item>
+      <headword id="idp120265480">maolasach</headword>
+      <description>Notes: a man with a high brow, growing bald. Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp120266992">marbh</headword>
+      <description>Quotation: “Chan fhac e (a) mharbh ’s cha do dh’fhàiltich e (a) bheò.” (Catriona Mhór) Notes: He did not see him dead and he did not welcome him alive.</description>
+    </item>
+    <item>
+      <headword id="idp120268648">meadharra-theach (?)</headword>
+      <description>Quotation: Ged nach eil mi ’m Beàrnaraigh Bheag / Na creid nach eil e air m’ ùidh, / B’fheàrr leam na meadharra-theach / Bhi faicinn nan clach air an Stùidh. Notes: explained by Catriona Mhór as ‘stòras’ or ‘saidhbhreas’. Source: Catriona Mhór, from her telling of the story of the Norse Princess.</description>
+    </item>
+    <item>
+      <headword id="idp120270880">mealag</headword>
+      <description>Notes: a scrubber made of muran. Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp120272392">na minigeadanan</headword>
+      <description>Notes: (Keose) small butter. Not in Dw. Date: 1965.</description>
+    </item>
+    <item>
+      <headword id="idp120274048">miosaradh</headword>
+      <description>Quotation: Nall am muidhe ’s an ceann ann (3) / Fiach an teann am miosaradh. Notes: Dw. has measradh (from DMy) in sense of ‘churning’, etc. Source: Banntrach Iain Aonghuis Bhig (from Calanish) used to sing this when churning (in Keose).</description>
+    </item>
+    <item>
+      <headword id="idp120275992">mèaruid</headword>
+      <description>Notes: a small insignificant creature, usually a girl. Dw. has meuranda ‘weakly, delicate, tender; tiny’.</description>
+    </item>
+    <item>
+      <headword id="idp120277504">mobhsgaideach</headword>
+      <description>Quotation: Tha iad uabhasach mobhsgaideach ma dheidhinn sgrìobhadh. Notes: (Keose) unforthcoming. Not in Dw. Date: 1966.</description>
+    </item>
+    <item>
+      <headword id="idp120279304">mòine chràic</headword>
+      <description>Notes: (Keose) used of peat in which tree stumps, branches, etc. were found. Flared up quickly and burnt well. A patch behind the gàrradh in Keose. Not in Dwelly.</description>
+    </item>
+    <item>
+      <headword id="idp120280816">motan</headword>
+      <description>Notes: speck of fluff, e.g. from a blanket. Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp120282328">ràis</headword>
+      <description>Quotation: “Chuir e a cheann a-mach air an uinneig, ’s chuir e ràis dh’a theanga mach air a bhial.” Notes: my mother, telling story of Dr Alex Matheson’s action to the driver of a car following him on the Bayble road. Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp120283984">ràth</headword>
+      <description>Notes: (Lochs) a ràth of seaweed is formed by making a large circle of rope, twining seaweed round it, and then simply filling in the centre with seaweed. The whole ràth can then be towed by a boat, but it is very heavy to tow. (Dwelly gives ràth, ‘circle, raft’.)</description>
+    </item>
+    <item>
+      <headword id="idp120285496">ràth-thiodhlaicidh</headword>
+      <description>Notes: portion of churchyard set aside for family, or for croft.</description>
+    </item>
+    <item>
+      <headword id="idp120287008">ri</headword>
+      <description>Quotation: Cha robh te a Sasainn a sheinneadh rithe… Notes: rithe = as well as her.</description>
+    </item>
+    <item>
+      <headword id="idp120288664">riasaire</headword>
+      <description>Quotation: “A-mach á seo thu, a riasaire an diabhail.” Notes: Domhnall Liath, Keose, to Dùghall, brother of Rev. Donald MacCallum, whom he was helping aboard a smack in Loch Erisort. Dùghall had hurt his leg, and had to be slung aboard in a sling. Riasaire &lt; rias, cf. riasach ‘dirty’ (especially about the face). None of these forms in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp120290536">Ròmanach</headword>
+      <description>Quotation: Bu tu an Ròmanach. Notes: used in Lewis to denote an uncouth and possibly selfish person.</description>
+    </item>
+    <item>
+      <headword id="idp120292192">rothtach</headword>
+      <description>Quotation: Tha rothtach math gaoithe ann. Notes: there’s a good gale of wind. Dw. has rotach ‘rush, etc…; storm (Suth’d)’.</description>
+    </item>
+    <item>
+      <headword id="idp120293848">rotach</headword>
+      <description>See rothtach.</description>
+    </item>
+    <item>
+      <headword id="idp120295360">ruisg</headword>
+      <description>Notes: twelve beum’s of barley stood on end. Cf. Dwelly sub ruisg-eòrna. He gives ‘Twelve sheaves of barley in a semi-circle instead of six pairs of sheaves of oats in a straight line.’ (Lewis) (DMy)</description>
+    </item>
+    <item>
+      <headword id="idp120296872">rumastaireachd</headword>
+      <description>Notes: (a favourite word of my mother’s) rooting about for, searching for something. Not in Dw. (Norse?) Date: recalled 1971.</description>
+    </item>
+    <item>
+      <headword id="idp120298528">wheep</headword>
+      <description>Quotation: (Keose) Cha robh e wheep ris. Thuirt e gun tigeadh e ann a wheep. Notes: a very short time.</description>
+    </item>
+    <item>
+      <headword id="idp120300328">air a losd</headword>
+      <description>Notes: for his sake, on his account, because of it. Dw. has this sub ‘los’.</description>
+    </item>
+    <item>
+      <headword id="idp120301840">air a h-asaid</headword>
+      <description>Quotation: Tha i air a h-asaid. Notes: giving birth to a child, in childbirth. Dw. gives asaid see aisead, ‘delivery, child-birth’ (but not the phrase).</description>
+    </item>
+    <item>
+      <headword id="idp120303496">air a thobhtacha móra</headword>
+      <description>Notes: (Keose) in fine fettle, on top of the world (also heard in Skye). Not in Dw. Date: 1966.</description>
+    </item>
+    <item>
+      <headword id="idp120305008">ian (eun)</headword>
+      <description>Quotation: ’Se ian a th’unnad. Notes: What a card you are! Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp120306664">iginidh</headword>
+      <description>Notes: ‘mean’. Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp120308176">igineil</headword>
+      <description>Notes: ‘mean’. Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp120309688">inbhidh (?)</headword>
+      <description>Notes: time of cow to calve. Dwelly has inbhidh (from MacAlpine) with ref. to inbheach ‘mature, ripe’, etc.</description>
+    </item>
+    <item>
+      <headword id="idp120311200">ingheilt</headword>
+      <description>Notes: (Keose) grazing or pasture. Not in Dw. Dwelly gives inghilt as obsolete, ref. to ingilt and inilt (Armstrong), ‘feeding, grazing, pasture’. The word leasair used in Arran for cattle-grazings, according to my Uncle Angie, who lived most of his life there.</description>
+    </item>
+    <item>
+      <headword id="idp120312712">inneal-tarraing</headword>
+      <description>Quotation: Chan eil an t-inneal-tarraing aice. Notes: She has no sex-appeal. Dw. has inneal-tarruing, but only in the sense of ‘capstan’.</description>
+    </item>
+    <item>
+      <headword id="idp120314368">inneas</headword>
+      <description>Quotation: Rinn e inneas dhomh air a rud a thachair. Notes: account, telling. (-eas as -as in bas ‘palm’) Not in Dw. Presumably from same root as innis.</description>
+    </item>
+    <item>
+      <headword id="idp120316024">iomaghaoth</headword>
+      <description>Notes: gust of wind from unexpected direction. Dw. has ioma-ghaoth ‘whirlwind, eddywind’.</description>
+    </item>
+    <item>
+      <headword id="idp120317536">iomair</headword>
+      <description>Quotation: (Keose) Iomair, Ailein, fodh’ a Ruairidh, sud a’ phoit a’ tighinn an uachdair – mar a thuirt a Hearach nuair a chunnaic e a’ phéileag.</description>
+    </item>
+    <item>
+      <headword id="idp165259248">is</headword>
+      <description>Quotation: ’S ann a’ sgrìobadh nam praisean a bha i siud. Notes: said of a woman who got a wet day for her wedding. Some people had a habit of (or preference for) eating porridge out of the pot. The Rev. Dugald Macfarlane of Kingussie preferred this. [NOTES: slipped under ‘is’.]</description>
+    </item>
+    <item>
+      <headword id="idp165261120">is</headword>
+      <description>Quotation: ’Se gealach ùr mhath a th’ann, crochaidh tu do bhonaid oirr’. [NOTES: slipped under ‘is’.]</description>
+    </item>
+    <item>
+      <headword id="idp165262776">is</headword>
+      <description>Quotation: Is minic a chinnich fuigheall fanaid ’s a chaidh fuigheall farmaid a dholaidh. [NOTES: slipped under ‘is’.]</description>
+    </item>
+    <item>
+      <headword id="idp165264432">niodhlag/niùdhlag</headword>
+      <description>[ɲj̃ũɫaɡ] [?] Quotation: niodhlagan bhuntàta carrach (from Duan Callainn – Lewis). Notes: a small potato. Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp165266376">nuair</headword>
+      <description>Quotation: Nuair a dh’fhàsas am falt tana cha chòmhdaich e cùl a’ chinn agus clàr an aodainn.</description>
+    </item>
+    <item>
+      <headword id="idp165267888">nuair</headword>
+      <description>Quotation: Nuair a ruigeas tu ’n t-iar-ogha, na bi ’g iarraidh a’ chàirdeis.</description>
+    </item>
+    <item>
+      <headword id="idp165269400">ochd geòidh (= uchd g.?)</headword>
+      <description>Notes: a particular bone in a hen. Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp165270912">ochdnar</headword>
+      <description>Quotation: “Deanamaid ùrnaigh, is gabhaidh Dòmhnall Aonghuis Bhig òran, is bidh rìdhl’ againn, ’s bidh ochdnar againn.” The Rev. Donald MacCallum, presiding at a concert in Keose. Notes: eightsome reel. Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp165272568">oidhche na h-imrich</headword>
+      <description>Notes: the final night at the shieling, the eve of returning home, a night of feasting, singing, dancing, courting (e.g. the youth of Achmore and Luerbost would gather at the Keose shielings, between Soval and Cliascro.) Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp165274080">omhan a’ mhèig</headword>
+      <description>Notes: the froth of whey. Dw. gives omhan ‘froth of milk or whey…’ without having this specific phrase.</description>
+    </item>
+    <item>
+      <headword id="idp165275592">pàileid</headword>
+      <description>Quotation: Nach ann air tha a’ phàileid. Notes: ‘What a brass neck he has!’ (Stronger than ‘Nach ann air tha ’n aghaidh.’) Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp165277248">palla</headword>
+      <description>Notes: (Ness) (grassy) cliff ledge. Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp165278760">pearc</headword>
+      <description>Notes: clothes pulley. Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp165280272">placadaich</headword>
+      <description>Notes: (Ness) guttering of a lamp. Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp165281784">plocan</headword>
+      <description>Notes: (Kershader) toy boat, made of a solid bit of wood, shaped. Dwelly does not have this sense for the word.</description>
+    </item>
+    <item>
+      <headword id="idp165283296">poca-seic</headword>
+      <description>Notes: (Callanish) (seic – a semi-rigid bag, made of siaman, used for barley.) Used to describe the riding of children on an adult’s shoulder, one leg on each shoulder and round the adult’s neck. Smith A (Bragar) used for this ‘raoid (i.e. ride) a’ bhreacain uasail’. Dwelly has seic (with a Lewis definition) and poca-saic ‘a large sack thrown across a horse’s back, and large enough to contain a load’.</description>
+    </item>
+    <item>
+      <headword id="idp165284808">pùnnd</headword>
+      <description>Quotation: Cuir ann am pùnnd. Notes: ‘pound’ (of cattle). Cf. Anglo-Saxon pund ‘fold’. Dw. has punnd ‘fold to confine cattle that trespass’.</description>
+    </item>
+    <item>
+      <headword id="idp165286464">sabhdag</headword>
+      <description>Notes: a nudge. Not in Dw., who has sabhdag ‘little lie, fib’.</description>
+    </item>
+    <item>
+      <headword id="idp165287976">sainnsearachd</headword>
+      <description>Notes: ‘whispering’ (abstract constructed from sanas). Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp165289488">seacanaich na Samhna</headword>
+      <description>Notes: A spell of dry weather which frequently occurred early in November. Neither seacanaich nor the phrase in Dw. Source: Lewis Scrapbook (DST). (Father and mother) Date: Nov. 1962.</description>
+    </item>
+    <item>
+      <headword id="idp165291144">seachd</headword>
+      <description>Quotation: Seachd slatan anns a’ phlaide phailt. Notes: (Keose). Date: 1962.</description>
+    </item>
+    <item>
+      <headword id="idp165292800">seilch (an t-)</headword>
+      <description>Quotation: Beiridh an t-seilch ort (used by mothers as threat to children who ventured too near loch with water-lilies). Notes: Not in Dw. Monster reputed to live in lochs on which water-lily grows. It was supposed to suck people down into the loch. Cf. seilcheag ‘snail’. Scots selchie, a kind of enchanted seal.</description>
+    </item>
+    <item>
+      <headword id="idp165294456">séis</headword>
+      <description>Notes: The sing-song intonation of an enraptured preacher (Welsh hwyl). Not in Dw. He has séis ‘tune…; noise etc.</description>
+    </item>
+    <item>
+      <headword id="idp165295968">séiseant</headword>
+      <description>Quotation: Séiseant ort! Notes: (Keose) séiseant not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp165297624">sgailc</headword>
+      <description>Quotation: “Man a tha na mnathan-luaidh sin gu bhith fàgail duine ann a sgailc” – reported by my mother (1961) as the sort of remark her mother would sometimes make about the waulking women, if they did not turn up in time. Notes: (Keose) quandary. Not in Dw. in this sense.</description>
+    </item>
+    <item>
+      <headword id="idp165299280">sgathadh</headword>
+      <description>Notes: cutting the earthy ends off the barley stalks. They were left on for some time. In Dw.</description>
+    </item>
+    <item>
+      <headword id="idp165300792">sgàthan-guaille</headword>
+      <description>Quotation: ’S ged bu dubh le càch thu / Bu tù mo sgàthan-guaille (Eilean Fraoich, 77). Notes: Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp165302448">sgeir</headword>
+      <description>Quotation: Tha thusa ’na do sgeir airgid (you are worth a mint of money). Notes: idiomatic use of sgeir. This usage not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp165304104">sgionnscrach</headword>
+      <description>Notes: (Keose) hard-working (the sense is similar to that of sgoinneil). Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp165305616">sgiorsamaid</headword>
+      <description>Notes: Used of something protruding, like a splayed mouth (Keose). Also in a technical sense of the ‘apron’ or protruding lower works of a broch (James – recalling Carloway usage). Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp165307128">sgoinneil</headword>
+      <description>Notes: handsome, well set up (and active). In Dw., with these senses.</description>
+    </item>
+    <item>
+      <headword id="idp165308640">sgroig</headword>
+      <description>Notes: an old-fashioned, rather ill-favoured female. Dw. has sgroig (MacEachan), see sgroigean, see sgruigean neck of bottle etc.; short-necked person (in ridicule).</description>
+    </item>
+    <item>
+      <headword id="idp165310152">sgùil</headword>
+      <description>Notes: arrangement of cip (pieces of turf) around the fàrlas (on one side) to let the smoke out. Changed when the wind changed. Not in Dwelly, who gives sgùilean, with ref. to sgùlan, wicker basket …, hamper etc.</description>
+    </item>
+    <item>
+      <headword id="idp165311664">siaman</headword>
+      <description>Notes: Siaman Theàrlaich* = buidhe-ròp. Siaman fraoich – heather rope. (cf. Scots simman, rope of heather etc. used in thatching.)</description>
+    </item>
+    <item>
+      <headword id="idp165313176">sìoman</headword>
+      <description>See siaman.</description>
+    </item>
+    <item>
+      <headword id="idp165314688">sìliche</headword>
+      <description>Notes: A slippery, slìogach fellow. Dw. has sìliche ‘spare, meagre, lean, pithless creature. (Not quite the same.)</description>
+    </item>
+    <item>
+      <headword id="idp165316200">slàinidh</headword>
+      <description>Quotation: “Cuir strìochag ann airson slàinidh agus fàg Beathag gus a ruig thu d’athair.” Notes: Registrar’s son taking note of two girls’ names in South Lochs. (Related by my Uncle Willie, Registrar, Keose, in 1963.)</description>
+    </item>
+    <item>
+      <headword id="idp165317856">slàirig</headword>
+      <description>Quotation: slàirig / slàirigeadh. Notes: Smacking, hitting (often with something hard, e.g. wood.) The l neutral. Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp165319512">snàth</headword>
+      <description>Quotation: an t-snàth. Notes: Used of a herring-net by Neil MacLeod (Kershader). Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp165321168">soitheach</headword>
+      <description>Quotation: soitheach dà bhòrd. Notes: (Kershader) toy boat: top board, shaped like boat deck [and] keel (piece of lead fixed to it). Not in Dwelly. <illustration src="LewisDSTslipsillust1.jpg" width="350"/></description>
+    </item>
+    <item>
+      <headword id="idp165322824">soitheamh</headword>
+      <description>Notes: ‘docile’. In Dw.</description>
+    </item>
+    <item>
+      <headword id="idp165324336">sòrnach</headword>
+      <description>Notes: open (outdoor) fire built round with stones. Dwelly has sòrnach ‘great heap of boulders at the foot of a precipice’; and sòrnag ‘a little kiln’.</description>
+    </item>
+    <item>
+      <headword id="idp162214952">spàgach</headword>
+      <description>Quotation: Nam faighte griasaich gun a bhi briagach, ’S nam faighte tàillear gun a bhi spàgach, Chuírte an crùn air an rìgh gun aon bhuille. (from my Uncle Donald) Notes: A snatch, presumably, from a folktale remembered from youth. Dw. has it in sense ‘having awkward legs or feet’.</description>
+    </item>
+    <item>
+      <headword id="idp162216608">speiseanta</headword>
+      <description>Notes: very trim, well rigged-out (used of a well-dressed person). Well-groomed, particular as to dress etc. Var. of speisealta.</description>
+    </item>
+    <item>
+      <headword id="idp162218120">spiorad</headword>
+      <description>Quotation: spiorad air a thilgeil air. Notes: Mgr. Moraidh’s (Garrabost minister) theory that every blade of grass between midnight and 3am had a “spiorad air a thilgeil air,” acc. to Catriona Mhór.</description>
+    </item>
+    <item>
+      <headword id="idp162219776">sprogan</headword>
+      <description>Quotation: “A! chan eil càil as fheàrr leam na sprogan math air boireannach.” (The Piseag, Keose, to my Auntie Bella, who had one such.) Notes: Dw. has sprogaill in sense of crop, dewlap, double chin and sprogan ‘small tuft of hair under chin of deer’.</description>
+    </item>
+    <item>
+      <headword id="idp162221432">spùt</headword>
+      <description>Notes: ‘diarrhoea’. Dòmhnall Iseabail to Màiri Bheag: “An aon uan a th’agad-sa a’ dol dh’an t-sloc leis a spùt, ’s cha toir thu beathachadh dha le do làimh.” Dw. has spùt ‘diarrhoea in cattle or sheep’.</description>
+    </item>
+    <item>
+      <headword id="idp162222944">sradadh</headword>
+      <description>Quotation: “Tha thìde agad a dhol a shradadh na bà.” Notes: (Bayble) ‘milking’. Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp162224672">stapag</headword>
+      <description>Quotation: stapag gus am bi ’m pròs deis. Notes: Keose saying.</description>
+    </item>
+    <item>
+      <headword id="idp162226328">stealladair</headword>
+      <description>Notes: (Keose) tall rank weed with white blossom. Different shades of green in the branches or meuran. Is the name descriptive of the showering of seed? Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp162227840">stiall</headword>
+      <description>Quotation: Tha a’ bhó air a stéill (: géill). Nom. stiall heard from John MacArthur, Bayble (Oct. 1970). Notes: (Keose) The rope used to tie a cow when in the byre (the teadhair applied to the tethering rope used outside). Dwelly gives ‘head-post in a byre’ as a sense of stiall f. (Also ‘a piece of leather or cloth’.)</description>
+    </item>
+    <item>
+      <headword id="idp162229496">stiapan</headword>
+      <description>Quotation: stiapan/stèapan a’ bhùirn. Notes: (Cnoc Ard, Ness) Streaks of foam on sea, presaging rain. Dw. has stèapan ‘candle-wick’.</description>
+    </item>
+    <item>
+      <headword id="idp162231152">stìdeag</headword>
+      <description>Notes: The name of Crawford’s cat, which he usually had in school with him. Crawford was the Keose (Cnoc Ian Duibh?) schoolmaster in the time of Rev. Reid – married Reid’s niece. He came from about Forres, and was a Gaelic speaker. Dwelly has stidean ‘cat; call for a cat (Badenoch)’.</description>
+    </item>
+    <item>
+      <headword id="idp162232664">stioclach</headword>
+      <description>Notes: (Keose) clumsy (esp. in walking; used perhaps of a person with stilt-like feet). (l as in Eng. lady) Not in Dw., in forms stioclach or sticleach. Dw. has stiocach ‘crippled, limping’; stiocair ‘one who limps in walking, etc.’ sticil used of beam (some large, some small) laid across a corn-kiln.</description>
+    </item>
+    <item>
+      <headword id="idp162234176">stiodh</headword>
+      <description>Quotation: stiodh na creige. Notes: Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp162235832">[stiùir]</headword>
+      <description>Quotation: “Stiùirinn-s’ i, bhalaich, a mhàs na meanbh-chuileig.” Notes: Craig, my father’s half-brother, boasting of his steering powers (of a boat).</description>
+    </item>
+    <item>
+      <headword id="idp162237632">suaimhichte</headword>
+      <description>Quotation: ’Se duine suaimhichte a bh’ann. Notes: outrageous (a rather kindly term, in fact).</description>
+    </item>
+    <item>
+      <headword id="idp162239288">sùgh</headword>
+      <description>Quotation: Sùgh bradan earraich: theid e troimh sheachd bonnaich eòrna. (Colin John MacKenzie, Keose)</description>
+    </item>
+    <item>
+      <headword id="idp162240800">suil-dhìleas</headword>
+      <description>Quotation: ... suil-dhìleas (strong accent on 2nd element) a bh’aca, an tè a bhiodh a’ bleoghan dhaibh... (of a couple who were ill, and needed someone to look after their day-to-day affairs). Notes: Used in sense of ‘housekeeper’ by Rev. Norman MacDonald (Skye) – Gairm 52. Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp162242672">suitse</headword>
+      <description>Quotation: Cuir suitse ris an teine. Notes: cf. Rev. Norman MacDonald’s Skye form sitse (SGS XI, Pt. 1).</description>
+    </item>
+    <item>
+      <headword id="idp162244328">scràbadh</headword>
+      <description>Quotation: “Nuair a bha iad a’ scràbadh airson d’athair bha thusa fiachainn seotal na ciste” (to the son of a drowned man). Notes: (Keose) The grappling irons were called scràban (?). Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp162245984">tàbhaireadh</headword>
+      <description>Notes: (Keose) cf. Dwelly. sub tàbharnadh ‘state of being haunted, apparition’.</description>
+    </item>
+    <item>
+      <headword id="idp162247496">tàd</headword>
+      <description>Quotation: tàd / tàdach. Notes: (Keose) a feeble, ‘mem’ sort of woman / an adj. to describe such a person. Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp162249152">tafainn</headword>
+      <description>Quotation: “Tha a’ bhó ann an tafainn.” Notes: (Father and mother) in a bog, submerged, caught. Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp162250808">taomadh</headword>
+      <description>Notes: (Murdo Murray, Back) in sense of shovelling the earth at the sides of the feannagan and in the claisean, on top of the feannagan. Murdo Murray recalls an old woman telling him how she got 1/-6d a day for peat-cutting, but only 1/- a day for taomadh. Dwelly has this sense, without as much detail as above.</description>
+    </item>
+    <item>
+      <headword id="idp162252320">taosg</headword>
+      <description>Quotation: taosg a’ pheile (3/4 full of the pail). Notes: Dw. has taosg ‘precise full of a liquid measure; ... near the full of a dish, etc.’</description>
+    </item>
+    <item>
+      <headword id="idp162253976">tapadh</headword>
+      <description>Quotation: Cha dean duine tapadh sam bith. Notes: (subst.) In Dw.</description>
+    </item>
+    <item>
+      <headword id="idp162255632">tarbhach</headword>
+      <description>Notes: ‘hefty’. Dw. has tarbhach in sense of ‘like a bull’.</description>
+    </item>
+    <item>
+      <headword id="idp162257144">tha</headword>
+      <description>Quotation: Tha dath liath an lìonaidh air a’ mhuir.</description>
+    </item>
+    <item>
+      <headword id="idp162258800">tha</headword>
+      <description>Quotation: Tha do dhà chrann agad air do làimh. Notes: (Keose) You have your two alternatives. Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp162260672">tha</headword>
+      <description>Quotation: Tha sannt nan seachd sagart ann a fear gun mhac gun nighean.</description>
+    </item>
+    <item>
+      <headword id="idp162262328">tha</headword>
+      <description>Quotation: Tha sin a dh’aona mhathas air. Notes: That’s one consolation (for it).</description>
+    </item>
+    <item>
+      <headword id="idp162264128">thug</headword>
+      <description>Quotation: (Keose) Thug an cù a mhùn gu a mhaighstir.</description>
+    </item>
+    <item>
+      <headword id="idp162265640">tìdeil</headword>
+      <description>Notes: (used of a lamb) born at the right time, i.e. that had gone its full time. Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp162267152">tinneas-air-ais</headword>
+      <description>Quotation: an tinneas-air-ais. Notes: epilepsy. Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp162268808">tòc</headword>
+      <description>Notes: A growth that comes over a cow’s eye. Apparently a cataract. There were people (with a steady hand etc.) who were in regular demand for removing this (e.g. a bodach in Achmor). Dw. has tòc ‘Disease of the eyes, mostly peculiar to sheep – Rob Donn; “pink-eye” in horses.</description>
+    </item>
+    <item>
+      <headword id="idp162270320">toinneamh</headword>
+      <description>Quotation: A’ toinneamh shnòtan. Notes: cf. snòd affix a fishing hook to the line. See MacBain, who takes it from Sc. snood, the hair line to which the hook is attached. Dw. has snòd ‘twisted hairs which are fastened to a fishing-hook’.</description>
+    </item>
+    <item>
+      <headword id="idp162271976">toirbheart</headword>
+      <description>Quotation: “Tha mi air mo thoirbheart.” (e.g. said by a person exhausted working at peats). Notes: (father and mother) oi as in soirbh. Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp162273632">toirghlich</headword>
+      <description>Notes: rumbling, rattling noise (as of tin cans rattling, or bone-shaker cart or car on road). Var. of toirmrich ‘noise of thunder; clangour etc.’ (Dw.)</description>
+    </item>
+    <item>
+      <headword id="idp162275144">toirt</headword>
+      <description>Quotation: Toirt dùil bharr pisich. Nach i thug a dùil bharr a pisich nuair a phòs i Dòmhnall. Notes: giving up hope of betterment. Phrase not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp162276800">toll a’ bhacain</headword>
+      <description>Quotation: Cha b’e sùgan tràthach / A chàirear an toll a’ bhacain (?) / Ach an deagh ròp cainbe / Mar chalpannan each mo sheanar.</description>
+    </item>
+    <item>
+      <headword id="idp162278312">tom-uragaidh</headword>
+      <description>Notes: disgruntled, surly man (main stress on ‘ura’, with svarabhakti trill). Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp120319712">torra</headword>
+      <description>Notes: cold chisel. Dw. has tora ‘auger, wimble, iron for boring holes’.</description>
+    </item>
+    <item>
+      <headword id="idp120321224">tràigh na Féill Brìghde</headword>
+      <description>Notes: Very high tide about 12th Feb. Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp120322952">traodadh</headword>
+      <description>Quotation: Mana d’fhuair àsan traodadh (ref. to the cats when we were away on holiday). Notes: treaghdadh ‘tormenting’ (Duan. Finn, II, 168, St. 3). Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp120324608">treamhair (?)</headword>
+      <description>Notes: traces (?) (in harness). Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp120326120">troc</headword>
+      <description>Notes: (1) rubbish. (2) a rubbishy person. Dw. has troc ‘trash, rubbish, scum’ (sense of person not brought out).</description>
+    </item>
+    <item>
+      <headword id="idp120327632">trom</headword>
+      <description>Quotation: “... Sin a’ bhliadhna a bha a’ Mhoggaidh trom, is bhadhas a’ cur an trom air ...” Notes: (subst.) ‘pregnancy’. Cf. Skye song: “... cha leis a’ bhalach mo throm, ach leis a’ lasgaire dheas dhonn.” (Sc. Studies I, 106)</description>
+    </item>
+    <item>
+      <headword id="idp120329288">tuab</headword>
+      <description>Quotation: an tuab. Notes: (Tong) a growth on the gum of a cow, a hard swelling or ridge, which made eating difficult. It was cauterized in the old days with a red-hot iron. If this were not done, the cow would die for lack of nourishment. (ua as in fuaim, fuar) Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp120330944">tuairnealaich</headword>
+      <description>Quotation: Tha tuairnealaich ’na mo cheann. Notes: dizziness (?). Cf. Iain Lom’s tùirneal a’ chnatain (??). Var. of tuainealaich, which Dw. has.</description>
+    </item>
+    <item>
+      <headword id="idp120332600">tùc</headword>
+      <description>Notes: the plug in the water-escape in a small boat (the hole itself?). Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp120334112">tud / tad</headword>
+      <description>Quotation: Thuit a tud ’s a tad. Notes: (Keose) She became crestfallen. Dw. has tad ‘lowness of spirits’.</description>
+    </item>
+    <item>
+      <headword id="idp120335768">tulach</headword>
+      <description>Notes: ‘the green sward around the shieling’. A specialisation of the more general senses ‘small green hill’, ‘hillock’, etc. Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp120337280">tungaidh</headword>
+      <description>Notes: I think the sense was ‘dank’, but cannot be quite sure. Dw. has tùngaidh ‘moist’ (W. of Ross.) and tung * ‘tomb, vault, etc.’ (Argyll).</description>
+    </item>
+    <item>
+      <headword id="idp120338792">turraisg</headword>
+      <description>Notes: (Neil Murray – Vatisker) dumpling; also used of fat female. Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp120340304">ugh</headword>
+      <description>Quotation: Ugh gun luath gun salainn, an ceann seach bliadhna ni e galair. Notes: luath. Connect with muir-luath (?)</description>
+    </item>
+    <item>
+      <headword id="idp120341960">uinneag</headword>
+      <description>Notes: cupboard in shieling. About 1½' square. Dwelly reports a similar sense from Sutherland: ‘recess in the wall of the kitchen used as a repository for miscellaneous articles’.</description>
+    </item>
+    <item>
+      <headword id="idp120343472">ùireabac</headword>
+      <description>Notes: ‘the filling between two walls of stone, in [?] the wall of an old shieling or tigh-dubh’ (glutadh used for the same). Not in Dwelly.</description>
+    </item>
+    <item>
+      <headword id="idp120344984">ùrtan/òrtan/nòrtan</headword>
+      <description>Quotation: Ma fhuair thu nòrtan man càch / Chan fhaca ban-nabaidh càil: / Carson nach tug thu gloine làn / Ga b’ann dh’an an fhaoileig. Notes: At this ‘ceremony’, after the birth of a child, it was customary to offer whisky and e.g. biscuits and cheese. Dw. has urstan ‘feast when a child is born – Lewis.’</description>
+    </item>
+    <item>
+      <headword id="idp120346640">ùtarais</headword>
+      <description>Quotation: “Nach ann air tha’n ùtarais.” – What a hurry he’s in, what a commotion he’s making. Notes: (Murdo Murray and my mother – May, 1962) Norse derivation? Dw. has ùtrais f. ‘confused mass of anything; … restlessness, fidgeting’.</description>
+    </item>
+    <item>
+      <headword id="idp120348296">abhall</headword>
+      <description>Notes: Something overgrown e.g. a cabbage or carrot gone to seed. Donald MacAulay (Bernera) used it of a gangling American. Also used in Keose, and my mother had heard Mucka using it in Bayble. Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp120349808">àilleasach</headword>
+      <description>Notes: fastidious, proud. i.e. àilgheasach with ll to compensate for loss of gh sound.</description>
+    </item>
+    <item>
+      <headword id="idp120351320">ainme</headword>
+      <description>Quotation: an t-ainme. Notes: ‘blood on sea’ (?). Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp120352976">airgead</headword>
+      <description>Quotation: airgead ’na thàmh. Notes: Used of money in the bank. Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp120354632">airgead</headword>
+      <description>Quotation: airgead tioram. Notes: whole (unbroken) money, i.e. unbroken notes etc. (?) Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp120356288">airgead</headword>
+      <description>Quotation: airgead ullamh. Notes: ready money. In Dw.</description>
+    </item>
+    <item>
+      <headword id="idp120357944">anart</headword>
+      <description>Notes: ‘felt’. Not in Dwelly.</description>
+    </item>
+    <item>
+      <headword id="idp120359456">ancheard</headword>
+      <description>Quotation: Bha e cho làn dh’an an ancheard. Ancheardach (adj). Notes: (Keose) jape/japing. Dw. has aincheard (marked obsolete), ‘buffoon etc.; buffoonery, low jesting’. Also aincheardach (not marked obsolete), ‘like a buffoon etc. (Armstrong); ingenious’. Note the quality of n in the Lewis words, and the different nuances of meaning.</description>
+    </item>
+    <item>
+      <headword id="idp120361112">ancheirdeach</headword>
+      <description>Notes: full of japes, comic, lively. (For form of word, ancheardach more accurate.)</description>
+    </item>
+    <item>
+      <headword id="idp120362624">anradh</headword>
+      <description>Quotation: Anradh ort! Notes: Expression of disgust and annoyance.</description>
+    </item>
+    <item>
+      <headword id="idp120364280">àrach (vn.)</headword>
+      <description>Quotation: Bha mi ga àrach. (– used by Catriona Mhór of the doctor, apparently in sense of reproaching or blaming). Notes: Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp120365936">aran crì</headword>
+      <description>Notes: ‘gingerbread’ (sold esp. at Là na Dròbh). Cf. Irish arán cróich. Cf. Welsh bara croyw ‘unleavened bread’. ?? Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp120367448">àrd-dorus</headword>
+      <description>Notes: lintel. (pron. àdras)</description>
+    </item>
+    <item>
+      <headword id="idp120368960">àrdachadh</headword>
+      <description>Quotation: Chan fhaigh sibh a bheag a dh’àrdachadh bhuaithe-san (you will get little wealth from him). Notes: In Dw., in closely similar senses.</description>
+    </item>
+    <item>
+      <headword id="idp120370616">badachadh</headword>
+      <description>Quotation: “Tha a thìde againn a bhith a’ badachadh” – ‘it is time we were moving (going)’. Notes: Not in Dw. Connected with vb. bad ‘separate, divide into small heaps’. (?)</description>
+    </item>
+    <item>
+      <headword id="idp120372272">bàireasdail</headword>
+      <description>Quotation: bàireasdail Lili Mhóir / tha e làn bàireasdail. Notes: (Keose) self-confidence. Not in Dw. Date: 1964.</description>
+    </item>
+    <item>
+      <headword id="idp120374000">bal-laoghan</headword>
+      <description>Quotation: bal-laoghan (S. Lochs/Bragar), bla-laoghan (Tong). Notes: A fish with soft flesh, soften than the carbhanach. Also used of persons – ‘softie’. Not in Dw. Perhaps contains laodhan ‘pith, pulp’.</description>
+    </item>
+    <item>
+      <headword id="idp120375728">bàlanaich</headword>
+      <description>Quotation: Granny (Keose) to Coinneach Beag, when cart broke down: “’S ioma turas a bha sinn còmh’ ri chéile ann am bàlanaich.” Notes: extremity (as above?); going hither and thither, swithering, in a doubtful situation. Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp120377384">ban-fhuaighealaich</headword>
+      <description>Notes: dress-maker. Dw. has ban-fhuaighealaiche ‘sempstress, milliner (pron. banalaiche)’.</description>
+    </item>
+    <item>
+      <headword id="idp120378896">basdar (?)</headword>
+      <description>Notes: Descriptive of some sort of walking gait. Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp120380480">beilleag</headword>
+      <description>Notes: The usual Point word for lip. lip (lʹiʰp) also used. Not in Dw., who has béilleach ‘blubber-lipped, having thick lips’.</description>
+    </item>
+    <item>
+      <headword id="idp120382280">bheir</headword>
+      <description>Quotation: Bheir … ás a’ cheann/dà cheann … “Bheir an Néibhidh ás an dà cheann aige e.” Notes: … will teach him, the cocky beggar!</description>
+    </item>
+    <item>
+      <headword id="idp120383936">bìodan</headword>
+      <description>Notes: baby.</description>
+    </item>
+    <item>
+      <headword id="idp163582728">bìodag</headword>
+      <description>Notes: baby.</description>
+    </item>
+    <item>
+      <headword id="idp163584240">bìogais</headword>
+      <description>Notes: ‘a fish like the biorach’. Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp163585752">bith</headword>
+      <description>Quotation: Nach ann ann a bha bith an deamhain nuair a chaidh e a phòsadh, a’ streap ris a’ cheithir-fichead bliadhna. (Catriona Mhór of Billie Og Og in Stornoway) Notes: In Dw., in senses of ‘life, existence, being, living’. But above usage is more positive and explosive.</description>
+    </item>
+    <item>
+      <headword id="idp163587408">blàthaich</headword>
+      <description>Quotation: (West Side) Blàthaichidh an caoran dubh e fhéin mus blàthaich e duin’ eile.</description>
+    </item>
+    <item>
+      <headword id="idp163588920">bliam</headword>
+      <description>Quotation: “Tha iad a sin gun bhliam aca an tigh Cairstiona ’an Tàilleir. Tha iad sin a-mach a rathad gun scot a dh’òrdaich an Tighearna beannaichte aca.” (Catriona Mhór) Notes: Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp163590576">bodaroisean</headword>
+      <description>Quotation: Có fear agaibh bha ’na bhodaroisean aig a’ chéilidh. Notes: pawky old man (?). Not in Dw. (cf. roisean ‘tail of a cow’ ??)</description>
+    </item>
+    <item>
+      <headword id="idp163592232">bonnach-òrnaich (?)</headword>
+      <description>Notes: (Murdo Murray, Back) omelette-type of barley scone, with filling of eggs, cream, etc. Not in Dw. Note that òrna is a var. of eòrna.</description>
+    </item>
+    <item>
+      <headword id="idp163593744">bòrd-slios</headword>
+      <description>Quotation: Gad fhaicinn ’s gad fhàgail / A ghràidh ri bòrd-slios. Notes: (West Side) Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp163595400">breac-a-rionnaich</headword>
+      <description>Quotation: Breac-a-rionnaich ás an adhar, latha math a-màireach. Notes: Reminded of this by Auntie Chrissie (Tong and Canada). Dw. has breacadh-rionnaich ‘dappled sky’.</description>
+    </item>
+    <item>
+      <headword id="idp163597056">breus</headword>
+      <description>Notes: (short vowel) mantelpiece (&lt; Scots). Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp163598568">brìg</headword>
+      <description>Notes: (Gress) heap of potatoes inside sobhal. This specific usage not in Dw. Cf. Màiri Mhór’s ‘Ri taobh na brìg bhuntàta …’.</description>
+    </item>
+    <item>
+      <headword id="idp163600080">brògach</headword>
+      <description>Quotation: caora bhrògach. Catriona Mhór: “Hitler! b’e sin an Dia brògach!” Notes: shabby, etc. Special kind of sheep? Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp163601736">bruthainneach</headword>
+      <description>Notes: boiling hot, sultry. In Dw.</description>
+    </item>
+    <item>
+      <headword id="idp163603248">[dìol]</headword>
+      <description>Quotation: B’e siud an dìol dubh air a’ ghruth gheal. Notes: Catriona Mhór’s response to Murdag’s news that the missionary had to leave his house to make way for the officer. She added: “Is an duine bochd a’ dìogadh a mhionaich ach a faigh e còmhradh a ni e ri na daoine.”</description>
+    </item>
+    <item>
+      <headword id="idp163604976">bun-bac</headword>
+      <description>Notes: Where the ceangal met the tobhta (?) (See p. 156) Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp163606488">bùrlas</headword>
+      <description>Notes: (John MacArthur, Bayble, Lewis, Oct. 1970) Shot in game of marbles, where you take aim, resting the hand which holds the marble on the other fist. Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp163608000">bùrn-éirigh</headword>
+      <description>Notes: spring-water. Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp163609512">cachdanach</headword>
+      <description>Notes: (Ness) peeving, giving a sort of disappointment. Dw. gives cachdan ‘uneasiness of mind, vexation, chagrin’.</description>
+    </item>
+    <item>
+      <headword id="idp163611024">cadal</headword>
+      <description>Quotation: cadal-deilgneach. Notes: pins and needles (&lt; dealg, thorn). Not in Dw. (Oh!)</description>
+    </item>
+    <item>
+      <headword id="idp163612752">caidhleant</headword>
+      <description>Quotation: (cainnleant?, but no noticeable nasality in my mother’s pron.) It would be difficult (for a man with an artificial limb) to take two buses, ged a bhiodh e caidhleant. Notes: complete, able-bodied (?). (I think I heard Rev. Murdoch Campbell, Resolis – of Ness origin – use a form that suggested a variation of coimhliont, with a long -oi- diphthong.)</description>
+    </item>
+    <item>
+      <headword id="idp163614408">cailbean</headword>
+      <description>Notes: (Lochs) Swivel (= udalan). Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp163615920">caile-bianan</headword>
+      <description>Notes: Henderson, Norse Influence, 142, has an elaborate derivation. Dw. has coinnlean-bianain.</description>
+    </item>
+    <item>
+      <headword id="idp163617720">cailleach</headword>
+      <description>Quotation: a’ chailleach. Notes: the line of turf bounding the bed in an àirigh. The bed itself had a bolster of machair, etc. Not in Dwelly, but note the semantic connection with his cailleach-baic ‘… the outside peat in a bank’.</description>
+    </item>
+    <item>
+      <headword id="idp163619376">càineachadh</headword>
+      <description>Notes: the lightening of the day, i.e. early morning, dawn. Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp163620888">cainean</headword>
+      <description>Notes: paper spill used for lighting a pipe. Not in Dw., who has cainneag ‘plait of straw for making into bags’.</description>
+    </item>
+    <item>
+      <headword id="idp163622400">ceangal</headword>
+      <description>Quotation: (Auntie Bella – Keose) “Bhiodh sùgh freumhaichean nan sealbhag (sorrel) aca a’ ceangal a’ ghuirmein ris a’ chloimh.” Notes: ‘fixing (of dyes)’. By contrast, crotal had its own fixing agent. This precise sense not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp163624056">ceap</headword>
+      <description>Notes: Dwelly gives ‘Sort of sofa or couch formed of peats, placed between the fire and the bed in the ‘bothan-àiridh’, and used as a seat.’ The edge or boundary of the bed, instead of bòrd-slios – in old shielings. Also used for sitting on.</description>
+    </item>
+    <item>
+      <headword id="idp163625568">cèineach</headword>
+      <description>Notes: (Back) A mildly disparaging vague term used of a person not in the company. It implies someone who is just slightly outrageous or out-of-line. Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp163627080">cha</headword>
+      <description>Quotation: Cha tig olc á teine. Notes: Prov. saying.</description>
+    </item>
+    <item>
+      <headword id="idp163628880">cha</headword>
+      <description>Quotation: Cha chuir gigheagan umhail air geoghagan. Notes: (from my mother) Said of two people much alike in their ways, e.g. of an easy-going couple who were going to get married.</description>
+    </item>
+    <item>
+      <headword id="idp163630680">cha</headword>
+      <description>Quotation: Cha do dh’fhàg sinn adhairc air damh. Notes: (Keose) The force being ‘So proud we were!’</description>
+    </item>
+    <item>
+      <headword id="idp163632480">chaidh</headword>
+      <description>Quotation: Chaidh a’ phlàsd sìos, chaidh an t-srathair suas. Notes: (from Jessie MacLeod, Ness) Used of people falling out – the last line = ‘on one’s high horse’. Srathair – saddle, pack-saddle. For plàsd read plàt (?), cf. plàt-eich ‘straw-cloth of a pack-saddle’.</description>
+    </item>
+    <item>
+      <headword id="idp163634280">cha</headword>
+      <description>Quotation: Cha robh math gun mhulad. Notes: First heard from Calum Murray, Laxdale.</description>
+    </item>
+    <item>
+      <headword id="idp163636080">cho</headword>
+      <description>Quotation: Cho righinn ri cac á plangaid. Notes: Ness (also known in Lochs).</description>
+    </item>
+    <item>
+      <headword id="idp163637880">ciaslaichean</headword>
+      <description>Quotation: Tha mi creidse nach do nigheadh na ciaslaichean aige bho nigh a’ bhean-ghlùin iad. Notes: Dw. gives ceus ‘ham or lower part of the body; the coarser parts of wool on sheeps’ legs’.</description>
+    </item>
+    <item>
+      <headword id="idp163639536">cionacraich</headword>
+      <description>Notes: (Ness) fondling, handling (esp. of a woman). (&lt; cion?) Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp163641048">clamhan</headword>
+      <description>Notes: A favourite term of abuse among the Bayble boys. (Not specially ref. to greed.) &lt; clamhan buzzard? Or dimin. of clamh (Ir.) ‘a leper’. This usage not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp163642560">clap</headword>
+      <description>Quotation: a’ chlap. Notes: ‘the clap’ (note fem. art.). Dw. has clap, but makes it masc.</description>
+    </item>
+    <item>
+      <headword id="idp163644216">cleanan</headword>
+      <description>Quotation: Nach eil mi ’cleanan riut a’ mhòine thoirt a-steach. Notes: telling repeatedly. Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp163645872">cleitreach</headword>
+      <description>Quotation: cleitreach (Tong), cleidreach (Keose). Notes: Clumsy woman (also used in Tong in sense of an old horse). Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp116154232">cleidreach</headword>
+      <description>[See cleitreach.]</description>
+    </item>
+    <item>
+      <headword id="idp116155744">clibeach</headword>
+      <description>Notes: ‘clumsy’. My mother used it of hands especially, e.g. letting things drop (Keose). My father (Tong) tends to use it of feet as well. Dw. gives cliobach ‘clumsy, awkward’.</description>
+    </item>
+    <item>
+      <headword id="idp116157256">cliobadaich</headword>
+      <description>Quotation: a’ chliobadaich. Notes: (See p. 132 for story.) Used of the phenomena accompanying the famous Lewis revival of the 1930’s. Not in Dw., who has cliobaidich in other senses (sub cliob).</description>
+    </item>
+    <item>
+      <headword id="idp116158912">có</headword>
+      <description>Quotation: Có chuireadh dris no droigheann romhad. Notes: Rev. Morrison, of Baile na Cille, at a communion service in Garrabost.</description>
+    </item>
+    <item>
+      <headword id="idp116160568">comunn</headword>
+      <description>Quotation: Comunn gillean na geire – ged bu mhilis an toiseach bu mhosach an deireadh. (from Jessie MacLeod, Ness. 1957)</description>
+    </item>
+    <item>
+      <headword id="idp116162080">confadach</headword>
+      <description>Quotation: Na tha sin a chon(a)fadaich bhuidhe ’s gun ith a h-uile h-aon uimhir ri beathach. Notes: Not in Dw., who has confhadh ‘rage, fury’ etc.</description>
+    </item>
+    <item>
+      <headword id="idp116163808">còrn</headword>
+      <description>Quotation: còrn de chlò. Notes: (Keose) roll, bale. In Dw.</description>
+    </item>
+    <item>
+      <headword id="idp116165464">corrach</headword>
+      <description>Notes: ‘unsteady’ – used of hay or corn stack among other usages. Dw. has corrach ‘unstable’.</description>
+    </item>
+    <item>
+      <headword id="idp116166976">corran</headword>
+      <description>Quotation: (Keose) Corran math gealaich am beul a’ chomhar-thràth. Notes: Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp116168632">còsachadh</headword>
+      <description>Notes: quarrelling, arguing. (i.e. = connsachadh. In Dw.)</description>
+    </item>
+    <item>
+      <headword id="idp116170216">cotan</headword>
+      <description>Notes: ‘a hole in the bruthach, for the calf to lie in, if born at the shieling. Dwelly has cotan ‘small fold for a calf’. (MMcL, Uig, Lewis)</description>
+    </item>
+    <item>
+      <headword id="idp116171728">craidhneach</headword>
+      <description>Notes: (alt. cruidhneach) a bony man or cow. (Cf. MacLeod and Dewar ‘skeleton, collection of bones, gaunt figure, etc.’) Dw. gives craidhneach ‘… skeleton; collection of bones; … lean, gaunt figure …’.</description>
+    </item>
+    <item>
+      <headword id="idp116173240">craiteachan</headword>
+      <description>Quotation: craiteachan mine anns an uachdar; craiteachan salainn air an iasg. Notes: sprinkling (&lt; crath). Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp116174896">crom</headword>
+      <description>Quotation: (Auntie Bella – Keose) “Dh’iarradh iad (anns a’ bhùth) dà phunnd de dhath donn, agus ùnnsa crom (chrome?) agus ùnnsa tart (tartaric acid?) airson a cheangal.” Notes: (Eng. ‘bomb’.) Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp116176552">cromadh</headword>
+      <description>Quotation: ’Se man a thug thu orm cromadh chon na h-ùireach.</description>
+    </item>
+    <item>
+      <headword id="idp116178136">cruinn</headword>
+      <description>Quotation: Bha m’inntinn cruinn an uair sin (nuair a bha a’ chlann òg) ach tha i ’n diugh a’ falbh air feadh na rìoghachd ’s air feadh an t-saoghail. Notes: Dw. has cruinn in sense of ‘gathered, assembled, collected’, which is close to the above.</description>
+    </item>
+    <item>
+      <headword id="idp116179792">cuige?</headword>
+      <description>Quotation: Back elder to Catriona Mhór: “Cuige, a bhana-rascail, a thaine tusa a seo gu òrduighean?” Notes: Why? Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp116181448">cuileanan</headword>
+      <description>Quotation: na cuileanan. Notes: ankle-bones. Dw. gives cuilean ‘small bone in ankle or wrist’.</description>
+    </item>
+    <item>
+      <headword id="idp116183104">cuirean</headword>
+      <description>Notes: A bowl made of muran, or some such material. Probably used for flour. Not in Dw. (Cf. cuirean, ‘little turn’, etc.)</description>
+    </item>
+    <item>
+      <headword id="idp116184616">cùl na curraige</headword>
+      <description>Quotation: “Thoireadh iad dhaibh e gu cùl na curraige!”</description>
+    </item>
+    <item>
+      <headword id="idp116186200">cùm cainneal ri</headword>
+      <description>Quotation: Cha chumadh an Sàtan a chainneal ris an fhear as òige de chloinn Neilly.</description>
+    </item>
+    <item>
+      <headword id="idp116187712">cur ri druim</headword>
+      <description>Quotation: a’ cur ri druim, gan cur ri druim, a’ cur nam plaideachan ri druim. Notes: (Keose) seaming the two halves of a blanket.</description>
+    </item>
+    <item>
+      <headword id="idp116189368">curracag</headword>
+      <description>Quotation: Bhiodh na curracagan ud a’ falbh le oiliskin fo an gàirdeanan uabhasach sean. Notes: used of old men. Not in Dw. in this transferred sense.</description>
+    </item>
+    <item>
+      <headword id="idp116191096">cuthaigeadh</headword>
+      <description>Notes: (Keose) mixing of colours of wool to give marked effect. Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp116192608">dabhdail</headword>
+      <description>Notes: dawdling (&lt; dawdle) – Dw. has this suggestion. In Dw., with senses ‘prowl, saunter, loiter’.</description>
+    </item>
+    <item>
+      <headword id="idp116194120">deathadach</headword>
+      <description>Notes: Used in similar sense to cachdanach, i.e. peeving, disappointing. Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp116195632">dh’eubh i na creachan</headword>
+      <description>Notes: She set up a hullabaloo. Dw. has ag éigheach a creach ‘shouting that she was ruined’.</description>
+    </item>
+    <item>
+      <headword id="idp116197144">diomain</headword>
+      <description>Quotation: Bha na tighean agus na teaghlaichean aca diomain (of a family afflicted by illness and ill-luck). Notes: In Dw., sub diom-buan, with cross-ref.</description>
+    </item>
+    <item>
+      <headword id="idp116198800">dìorraich</headword>
+      <description>Notes: tingling sensation in the hand and arm, induced by striking a ball with a bad caman. You would say of such a caman: “Tha dìorraich ann.” Not in Dw., who gives dìorr ‘a spark of life’.</description>
+    </item>
+    <item>
+      <headword id="idp116200312">disearr</headword>
+      <description>Notes: chilly (with wet feel in air). Dw. has disear m. ‘susceptibility to cold, delicateness’ (Lewis).</description>
+    </item>
+    <item>
+      <headword id="idp116201824">diteag! diteag!</headword>
+      <description>Notes: said by one who is dripping wet (cf. foiteag! for cold – not in Dw.) Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp116203336">doirbeadan</headword>
+      <description>Notes: (Ness) ‘minnow’. Intervocalic d either Eng. d (as in ‘do’) or with hint of rd. Dw. has doirb, doirbeag ‘minnow’.</description>
+    </item>
+    <item>
+      <headword id="idp116204848">dol an ceann laoigh</headword>
+      <description>Quotation: Tha am beathach ud gus a dhol an ceann laoigh (about to calve). Notes: Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp116206504">dòlas</headword>
+      <description>Notes: imp, demon (applied to a person). Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp116208016">dorus-iadht</headword>
+      <description>Notes: the door of the shieling closed by cip (door facing the wind) &lt; iadhta past. part., with non-palatal t.</description>
+    </item>
+    <item>
+      <headword id="idp116209528">dreuganta</headword>
+      <description>Notes: fierce; like calma, but perhaps stronger. Dw. has dreaganta (without length-mark) ‘fierce, perverse’ etc.</description>
+    </item>
+    <item>
+      <headword id="idp116211040">drògaid</headword>
+      <description>Quotation: còta drògaid. Notes: ‘drugget’. Dw. has drògaid ‘drugget’, etc. but not còta-drògaid.</description>
+    </item>
+    <item>
+      <headword id="idp116212696">eadar</headword>
+      <description>Quotation: Eadar Tom a’ Bhealaich is Motrach d’ Imleig/na h-Imleig. Notes: reported by Hector Maciver, West Side.</description>
+    </item>
+    <item>
+      <headword id="idp116214352">earraicis</headword>
+      <description>Quotation: ann an earraicis, earraiciseach. Notes: makeshift. Not in Dw., who has earrag and earraig ‘shift’.</description>
+    </item>
+    <item>
+      <headword id="idp116216008">eiltich</headword>
+      <description>Notes: rejoice, exalt. In Dw.</description>
+    </item>
+    <item>
+      <headword id="idp116217520">Eireannaich Gharraboist</headword>
+    </item>
+    <item>
+      <headword id="idp116219032">failbhoin</headword>
+      <description>Quotation: “Cha do dh’fhailbhoin mi” – I didn’t hear. Notes: Jessie MacLeod reports common in (North) Ness. Cf. failbhean/failmhean apparently used for the lobe of the ear. Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp167328016">fàrlas</headword>
+      <description>Notes: (pron. fàlas) hole in roof to let smoke out. Dwelly gives fàrlus, with ref. to fairleus ‘smoke-hole in the ridge of a house…’.</description>
+    </item>
+    <item>
+      <headword id="idp167329528">farmad</headword>
+      <description>Quotation: Tha farmad fir a chéile aca. Notes: Used of two twin lambs that had been castrated. Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp167331184">farmhalach</headword>
+      <description>Notes: &lt; allmharach, with metathesis. In Dw. farbhalach.</description>
+    </item>
+    <item>
+      <headword id="idp167332768">feannadh sgrathan</headword>
+      <description>Notes: cutting turves. Dw. has the sense under fionn, a’ fionnadh.</description>
+    </item>
+    <item>
+      <headword id="idp167334280">feòil-réisg</headword>
+      <description>Quotation: Doilidh Frógaidh’s prayer: “Cuimhnich air an fheadhainn a tha tinn, air a réisgeadh suas air na leapannan.” Notes: hard dried meat. (Also f.-réisgidh (?)) Dw. has reisgeadh ‘hanging of fish or flesh up to dry (Suth’d)’.</description>
+    </item>
+    <item>
+      <headword id="idp167335936">feur-tarraing</headword>
+      <description>Notes: teazed hay, used for roofing the sìg. Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp167337520">fianach</headword>
+      <description>Notes: grass used on top of heather in shieling bed. Dwelly gives as ‘moor-grass’ (from Uig, Lewis).</description>
+    </item>
+    <item>
+      <headword id="idp167339032">flagach</headword>
+      <description>Notes: loose-jointed. Also, fig., ‘having a screw loose, not quite sound in the head’. Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp167340544">flodach</headword>
+      <description>Quotation: Nach i tha flodach – used of wishy-washy tea. Notes: Dwelly gives flodach as a variant of plodach ‘lukewarm’ etc.</description>
+    </item>
+    <item>
+      <headword id="idp167342272">flosgaidh</headword>
+      <description>Notes: used of the ‘springy’ quality of hay. Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp167343856">fluth</headword>
+      <description>Quotation: Fluthan air do chasan. Notes: corn, hard lump. Dw. gives fluth ‘wen’.</description>
+    </item>
+    <item>
+      <headword id="idp167345512">fo</headword>
+      <description>Quotation: A’ bhliadhna bha mo mhàthair fo’n a’ bhàs.</description>
+    </item>
+    <item>
+      <headword id="idp167347096">fochann</headword>
+      <description>Quotation: “Bha fochann a’ bhàis ’na aodann.” (Catriona Mhór) Notes: cf. Silva Gad. 234 “bad fochonn báis doib” – it would be an occasion of death to them. Any connection between these usages? Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp167348752">fortan</headword>
+      <description>Quotation: Fortan ann a lùib an dòrtaidh, ’s pòsadh ann a lùib a losgaidh.</description>
+    </item>
+    <item>
+      <headword id="idp167350264">freagairt</headword>
+      <description>Quotation: a’ freagairt. Notes: suiting. In Dw.</description>
+    </item>
+    <item>
+      <headword id="idp167351920">freanadh</headword>
+      <description>Quotation: “Feumaidh sinn an cù a leigeil a-steach ach an toir e franadh air an fheòil.” (Smith A about Dunfermline digs) “Thug siud freanadh air na bh’aige anns a’ bhanc.” (Keose) Notes: Bragar ‘franadh’. Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp167353576">fuar-lit</headword>
+      <description>Quotation: pron. fuailit. Notes: poultice. Dw. has fuar-lite ‘cataplasm, poultice’.</description>
+    </item>
+    <item>
+      <headword id="idp167355304">fuath</headword>
+      <description>Quotation: “Chan fhaigheadh fuath faisg air àit anns am biodh mionnt.”</description>
+    </item>
+    <item>
+      <headword id="idp167356816">fulainn</headword>
+      <description>Quotation: Used to describe the Uig bodach who wanted the “steall math uisge” when his own crops were secured. Notes: An ironic usage (var. of fallain?). Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp167358472">ga mharbh thu i</headword>
+      <description>Notes: (Catriona Mhór) ‘though you should kill her’.</description>
+    </item>
+    <item>
+      <headword id="idp167360056">gabhail ri</headword>
+      <description>Quotation: Chan eil e gabhail rium gu faca mi e. Notes: I am not conscious of (I do not recall) seeing it.</description>
+    </item>
+    <item>
+      <headword id="idp167361784">gad-droma</headword>
+      <description>Notes: ‘the long plank from gable to gable; ridge-pole’. Not in Dwelly. The first element more prob. gàd, though I heard it pron. definitely short.</description>
+    </item>
+    <item>
+      <headword id="idp167363296">gàdruisg</headword>
+      <description>Quotation: (South Lochs) gàdruisg chloinne (a hubbub of children). Notes: Dw. has gàdraisg ‘tumult, confusion; drunken riots’. (The above usage less strong than Dwelly’s.)</description>
+    </item>
+    <item>
+      <headword id="idp167364952">galair nan cóig oidhche</headword>
+      <description>Notes: Began when the child was 5 days old and carried off many children in old days. Puerperal fever? Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp167366464">galghad</headword>
+      <description>Notes: Affectionate address to a girl. Dw. gives only the form galad.</description>
+    </item>
+    <item>
+      <headword id="idp167367976">gàmag</headword>
+      <description>Notes: a large bite, as out of a piece of bread. Dw. has gàmag ‘stride’, etc. and gamag [sic] ‘large mouthful’.</description>
+    </item>
+    <item>
+      <headword id="idp167369488">A ghamhl-iomrachdain!</headword>
+      <description>Notes: (Neil MacLeod, Kershader) You fool! Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp167371000">gàrradh an t-slamain</headword>
+      <description>Notes: Not in Dwelly. The turf wall, within which the cattle must not go for a certain time after returning from the shieling. Slaman ‘curdled milk’ – the milk would have had to be carried home a considerable distance, thus tending to become curdled (?).</description>
+    </item>
+    <item>
+      <headword id="idp167372512">ged</headword>
+      <description>Quotation: (from Jessie MacLeod, Ness) Ged a chaochail innis cha do chaochail àbhaist.</description>
+    </item>
+    <item>
+      <headword id="idp167374024">gead</headword>
+      <description>Notes: ‘tuft’. Dw. has gead ‘lock of hair’.</description>
+    </item>
+    <item>
+      <headword id="idp167375536">geadach</headword>
+      <description>Notes: ‘tufty’. Dw. has geadach ‘having the hair in tufts or bunches’.</description>
+    </item>
+    <item>
+      <headword id="idp167377048">gèineag</headword>
+      <description>Notes: (Keose) Game sometimes called ‘Kings’. Two stances. Run from one to other. Person in centre tries to touch others as they run from one stance to other. Called gèinean in Tong.</description>
+    </item>
+    <item>
+      <headword id="idp167378560">gèinean</headword>
+      <description>[See gèineag.]</description>
+    </item>
+    <item>
+      <headword id="idp167380072">gibeag</headword>
+      <description>Quotation: gibeag fraoich – a small bundle of heather, tied with a string. Used by Smith A’s father (Bragar) for keeping sprigs of heather to light his pipe. Notes: He also believed in putting his old pipe out in the grass to rejuvenate itself. Dw. has gibeag ‘bundle, bunch,’ etc.</description>
+    </item>
+    <item>
+      <headword id="idp167381728">gigeach</headword>
+      <description>Notes: ‘fat’. (Cf. Welsh cig?) Dw. gives gigeach ‘hard-muscled’ (from MMcL, Uig, Lewis).</description>
+    </item>
+    <item>
+      <headword id="idp167383240">Gille Phàraig</headword>
+      <description>Quotation: Iain Aonghais Bhig’s father (in Keose) was Aonghas mac Gille Phàraig. Cf. West Side name: Botnaichean Clainn Gill’ Pheadair. Notes: (The Keose information from my mother, Dec. 1963.)</description>
+    </item>
+    <item>
+      <headword id="idp167384968">giodair</headword>
+      <description>Notes: muck, soft mud. Dw. has giodar ‘dung, ordure’.</description>
+    </item>
+    <item>
+      <headword id="idp167386552">girean</headword>
+      <description>Quotation: “Hó!, an girean!”, said my Uncle Alex, as he pulled the straggling hair of a girl in front of him in the Kinloch church. Notes: Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp167388208">giseag</headword>
+      <description>Notes: See sub naisg/nasg. In Dw.</description>
+    </item>
+    <item>
+      <headword id="idp167389720">glagaidh-shomh (?)</headword>
+      <description>Notes: (Keose) a buffoon, fool (used e.g. of a person with a loud laugh and a ‘baw’/‘baa’ face). Not in Dw. Relate to glag ‘horse-laugh’ etc.</description>
+    </item>
+    <item>
+      <headword id="idp167391232">glainne droma</headword>
+      <description>Notes: (Keose) A dram glass, a whisky glass (usually just one in a house). Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp167392744">glaodh an reothaidh</headword>
+      <description>Notes: the piercing cold of frost, which one feels in one’s bones. &lt; glaodh cry? / tingling? Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp167394256">gliogain</headword>
+      <description>Quotation: Bean-an-tighe a’ gliogain, / Bean-an-tighe a’ glagain, / Bean-an-tighe a dh’ith am biadh, / ’S cha deach i riamh a dh’eaglais.</description>
+    </item>
+    <item>
+      <headword id="idp167397280">gliogradh</headword>
+      <description>Quotation: “Well, well, tha iad ag innse dhòmhsa nach eil càil ann an tarbh Hàboist ach g’ eil e gliogradh.” Notes: (Habost) Story of the Habost bull-man, on his death-bed, breaking into the comforting and exhortation of two visitors. (A story of Uncle Neil’s, relayed by my mother.) Dw. has gliogradh, See gliongadh, and for the latter ‘tinkling, act of tinkling, clinking or rattling’.</description>
+    </item>
+    <item>
+      <headword id="idp167398936">goileach</headword>
+      <description>Quotation: Nigh do léine ann an goileach an uillt. Notes: the ‘swirl’ of the stream. Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp167400592">gonaig</headword>
+      <description>Quotation: Trì là gearraig, / Trì là gonaig, / Trì là sguabaig – / Suas an t-earrach. Notes: Dw. does not seem to have gearrag or gonag (in this sense), but has sguabag, the 3 days being 7th, 8th, and 9th April.</description>
+    </item>
+    <item>
+      <headword id="idp167402896">gos</headword>
+      <description>Quotation: Gos an ciall a chur air a muin. Notes: (South Lochs) ‘in order to frighten them out of their wits’. (Said of a boatman – Habost to Laxay – frightening women when he had a boatload of them.)</description>
+    </item>
+    <item>
+      <headword id="idp167404552">great</headword>
+      <description>Quotation: Cuir great air. Notes: (Keose) wash lightly (pron. like the English verb ‘grate’ e.g. to grate one’s teeth). Dw. has great ‘soap-sud – Badenoch. Scots, graith – warm water so wrought up with soap as to be fit for washing clothes’.</description>
+    </item>
+    <item>
+      <headword id="idp167406208">gréidheadh</headword>
+      <description>Quotation: Fhuair e droch ghréidheadh. Notes: tending, looking after (of a child, animal, pot, etc.). Used in neg. construction. In Dw.</description>
+    </item>
+    <item>
+      <headword id="idp167407864">gréim</headword>
+      <description>Quotation: an gréim mór. Notes: An old name for what may have been appendicitis. Dw. gives greim-mór ‘pleurisy’ (from DMy, Lewis).</description>
+    </item>
+    <item>
+      <headword id="idp167409520">gréim</headword>
+      <description>Quotation: an gréim. Notes: pneumonia. (Not in Dw.)</description>
+    </item>
+    <item>
+      <headword id="idp167411176">grìs</headword>
+      <description>Notes: gooseflesh etc. Dw. has grìs, with similar senses (not ‘gooseflesh’).</description>
+    </item>
+    <item>
+      <headword id="idp167412688">grobhail</headword>
+      <description>Quotation: “Dhia, nach iad tha grànda grobhail” – Catriona Mhór, on hearing Murdag Mhór’s description of the airmen at Broad Bay. Notes: Dw. has grabhail ‘horrible, causing horror, aversion or strong dislike’.</description>
+    </item>
+    <item>
+      <headword id="idp167414344">guma</headword>
+      <description>Quotation: (Keose) Guma h-éiseil dhut!</description>
+    </item>
+    <item>
+      <headword id="idp167415856">guth-shàmh</headword>
+      <description>Quotation: Thuirt e/i anns a’ ghuth-shàmh. Notes: He/She said pawkily (used of a witty remark; the idea of detachment may also be present). Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp167417512">gheibh</headword>
+      <description>Quotation: Gheibh cnàimh feòil. Notes: Banntrach Iain Scrochailidh, Bayble, talking about people away in the war: “Bu mhath gun tilleadh iad beò. Gheibh cnàimh feòil.”</description>
+    </item>
+    <item>
+      <headword id="idp167419168">higean-hoigean</headword>
+      <description>Quotation: (Park) Bheil feagal Ailean Sheonaidh ort / Gun dean e higean-hoigean ort, Bheil feagal Ailean Sheonaidh ort / Gun teid e ort gun taing dhut. (Ailean Sheonaidh cecinit) Notes: See pp. 132-3. Not in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp167421688">là</headword>
+      <description>Quotation: Là na Taingealachd. Notes: Thanksgiving Day. Not in Dw., though taingealachd is. Source: Lewis usage (D.S.T.). Date: 1972 (recalled).</description>
+    </item>
+    <item>
+      <headword id="idp167423560">lota</headword>
+      <description>Quotation: Tha gàrradh aig bonn na lot(a). Notes: lot/lota ‘croft’. Not in Dw. Source: common Lewis usage (D.S.T.). Date: 1973.</description>
+    </item>
+    <item>
+      <headword id="idp167425360">mac na sad</headword>
+      <description>Notes: used as a term of abuse, either in recall or directly. A’ mhic na sad – of a person who has annoyed one intensely (yet it is fairly mild). Sad ‘dust etc.’ is masc. Source: Lewis usage recalled (D.S.T.). Date: April, 1973.</description>
+    </item>
+    <item>
+      <headword id="idp167427088">mitheach</headword>
+      <description>Quotation: form of address to a girl: A mitheach/bitheach. A mitheach ort. Notes: bitheach used in Keose, Lochs. Dw. has bithe ‘female, of or belonging to the female sex (Armstrong) (an adj.). Source: Lewis usage recalled (D.S.T.). Date: July, 1973.</description>
+    </item>
+    <item>
+      <headword id="idp167431984">Mo chreubhag!</headword>
+      <description>Notes: Exclamation. Goodness! Good gracious! Note Iain Lom’s “… mo chreubhag làn tholl”. Source: Lewis usage recalled (D.S.T.). Date: 1974.</description>
+    </item>
+    <item>
+      <headword id="idp167433640">maise-mhullaich</headword>
+      <description>Notes: ‘baldness’ (an ironic usage). But note the earlier usage, of a luxuriant head of hair, e.g. Ort a dh’fhàs a’ mhaise mhullaiche … Maise gruaige dualach duinne i. (Heb. Folksongs II, 1568-70) Source: Lewis usage recalled (D.S.T.). Date: 1979.</description>
+    </item>
+    <item>
+      <headword id="idp167435656">riofanaich (na)</headword>
+      <description>Notes: loose ends of skin about base of fingernails (especially common in boys!). Not in Dw. Source: Lewis usage recalled (D.S.T.). Date: 1974.</description>
+    </item>
+    <item>
+      <headword id="idp167437312">ruid</headword>
+      <description>Quotation: Thainig e le ruid. Notes: ‘rush’. Dw. has ruite ‘revelry, rioting’ and also ruideas ‘frisking, leaping’. Source: Lewis usage recollected (D.S.T.). Date: 1974.</description>
+    </item>
+    <item>
+      <headword id="idp167439112">rùm</headword>
+      <description>Quotation: in phrase ‘fo rùm’. Notes: ‘under deck’. (&lt; Norse) Source: Lewis usage recalled (D.S.T.). Date: 1976.</description>
+    </item>
+    <item>
+      <headword id="idp167440912">ruit</headword>
+      <description>See ruid.</description>
+    </item>
+    <item>
+      <headword id="idp167442424">na ruifeanaich</headword>
+      <description>Quotation: frayed skin at cuticle-edge on fingers. Source: Lewis usage recalled. Date: noted 14/05/1983.</description>
+    </item>
+    <item>
+      <headword id="idp167444080">pat / patht (with pre-asp.)</headword>
+      <description>Notes: a bruise, black-and-blue mark. Dw. has a verbal form pat ‘bethump’. Source: Lewis usage (D.S.T.). Date: 1971.</description>
+    </item>
+    <item>
+      <headword id="idp167445736">sgot</headword>
+      <description>Quotation: See quotation sub bliam. Notes: ‘sense’. Not in Dw. Source: Lewis usage recalled (DST). Date: 1976.</description>
+    </item>
+    <item>
+      <headword id="idp167447536">silidh</headword>
+      <description>Notes: ‘jam’ &lt; jelly. Not in Dw. Source: Lewis usage recalled (D.S.T.). Date: Aug. 1975.</description>
+    </item>
+    <item>
+      <headword id="idp167449264">sileagan</headword>
+      <description>Notes: ‘jam-jar’. jelly-can (?) Not in Dw. Source: Lewis usage recalled (D.S.T.). Date: Aug. 1975.</description>
+    </item>
+    <item>
+      <headword id="idp167450992">snaoidheadh</headword>
+      <description>Quotation: Cha shnaoidheadh e a ghàirdean. Notes: Dw. has snaoth and snaothadh in sense of ‘jerk, twitch’. Source: Lewis usage (DST).</description>
+    </item>
+    <item>
+      <headword id="idp167452792">spiol</headword>
+      <description>Notes: Sense of ‘picking meat off bones’ is not made clear in Dwelly. Source: Lewis usage (D.S.T.).</description>
+    </item>
+    <item>
+      <headword id="idp167454448">spriotag</headword>
+      <description>Notes: Not in Dw. Splash (of the order of a drop or two). Pl. spriotagan. Vn. spriotagaich, spriotagraich. Source: Lewis usage recalled (D.S.T.). Date: March, 1973.</description>
+    </item>
+    <item>
+      <headword id="idp167456176">sradadh</headword>
+      <description>Quotation: A’ sradadh na bà. Notes: A term used in milking. Not in Dw. Source: Lewis usage recalled (D.S.T.) Date: 1972.</description>
+    </item>
+    <item>
+      <headword id="idp115736528">suidse</headword>
+      <description>Quotation: Ma bha iad leisg gu tòiseachadh chuir Dòmhnall suidse riutha. Notes: ‘haste, impetus’. Not in Dw. From Eng. ‘switch’ (?). Source: Lewis colloquial usage recalled (D.S.T.) Date: 27/12/1971.</description>
+    </item>
+    <item>
+      <headword id="idp115738328">sceamp</headword>
+      <description>Quotation: A’ deanamh sceamp – showing off. Notes: &lt; scamp. Retains the sc-, rather than sg-. Not in Dw. Source: Lewis usage (D.S.T.) Date: 1972 (recalled).</description>
+    </item>
+    <item>
+      <headword id="idp115740200">strianag</headword>
+      <description>Notes: Line, stripe. Not in Dw., who has strianagach ‘brindled’. Source: Lewis usage recalled (D.S.T.) Date: March, 1973.</description>
+    </item>
+    <item>
+      <headword id="idp115741928">beag-lochd</headword>
+      <description>Quotation: ’Se duine beag-lochd a bh’ann. Notes: More complimentary than ‘innocuous’. Not in Dw. Source: Lewis usage recalled (D.S.T.) Date: 13/2/1972.</description>
+    </item>
+    <item>
+      <headword id="idp115743800">bocadaich</headword>
+      <description>Quotation: A’ leumadaich ’s a’ bocadaich. Notes: Not in Dw. Cf. bocadh ‘leaping, skipping’. Source: Lewis usage recalled (D.S.T.) Date: 1972.</description>
+    </item>
+    <item>
+      <headword id="idp115745600">cham</headword>
+      <description>Notes: Used as a negative reply to a request e.g. “Falbh ’s dean sin dhomh.” “Cham.” Boy’s nickname: Calum Cham. Not in Dw. Source: Point (Lewis) usage recalled (D.S.T.) Date: July 1974.</description>
+    </item>
+    <item>
+      <headword id="idp115747328">clabadaich</headword>
+      <description>Quotation: Nach iongantach man a bhios na boireannaich a’ clabadaich … Notes: Not in Dw., though related forms are (clab, clabaireachd). Source: My uncle Willie (in conversation with DST). Date: June 1975.</description>
+    </item>
+    <item>
+      <headword id="idp115749128">colthas</headword>
+      <description>Quotation: Bha colthas eagalach oirre. – ‘She was in a terrible flurry.’ Notes: colthas is also used in the normal sense (= coltas). Not in Dw. Source: Lewis usage recalled (D.S.T.) Date: July 1973.</description>
+    </item>
+    <item>
+      <headword id="idp115750928">dalladh</headword>
+      <description>Quotation: Bha e dha dhalladh ás a deaghaidh – he was mad-keen on her. Notes: I don’t recall hearing this expression used of a woman (*Bha i ga dalladh). This usage not in Dw. Source: Lewis usage recalled (D.S.T.) Date: March 1974.</description>
+    </item>
+    <item>
+      <headword id="idp115752800">dìog</headword>
+      <description>Quotation: An duine bochd a’ dìogadh a mhionaich ach a faigh e còmhradh a nì e ris an t-sluagh. Notes: Common expression, used of ‘pressing’, ‘squeezing’. Does not seem to be in Dwelly. Source: D.S.T. (Lewis usage). Date: 19/12/1971.</description>
+    </item>
+    <note>[blank line]</note>
+    <item>
+      <headword id="idp115756112">ro-spors</headword>
+      <description>Quotation: ’Sann a bha iad ga dhèanamh le ro-spors. Notes: ‘show-off’. Both o’s short. Heavy accent on second part of word. Not in Dw. Source: John MacArthur (Bayble, Lewis). Date: October 1970.</description>
+    </item>
+    <item>
+      <headword id="idp115757984">roill</headword>
+      <description>Notes: used of strong-smelling ooze from fish which has been lying for a time (even a few hours). Also of thick spittle at cow’s mouth. Hence roilleach. Dw. has ròil ‘slaver’ (from DMy, Lewis). Also roille-chraos ‘slavering mouth’. Source: heard in conversation with Murdo Ferguson of Portvoller, Lewis. Date: 10/05/1969. (Also John MacArthur, Bayble – October 1970)</description>
+    </item>
+    <item>
+      <headword id="idp115759640">niùgail</headword>
+      <description>Notes: small (glass) marble. Not in Dw. Source: Angus MacKenzie, Burncrook, Bayble, Lewis. Date: October 1970.</description>
+    </item>
+    <item>
+      <headword id="idp115761296">suamhaid ??</headword>
+      <description>Quotation: ’Se duine suamhaid tha sin: duine eagallach go deoch ’s go sabaisd. Notes: cf. suaicheanta possibly. The diphthong in the first syllable is strongly nasalized. Dwelly has suathaid ‘notable’. See also suaimhichte and suamhaiteas. Source: DST. Point, Lewis, usage. Date: 1969.</description>
+    </item>
+    <item>
+      <headword id="idp115763096">suamhaiteas</headword>
+      <description>Quotation: Suamhaiteas duine a th’ann. Notes: Used of a person who would be described by the adj. suamhaid ‘unutterable, awful; wild’. Source: D.S.T. Point, Lewis, usage. Date: 1969.</description>
+    </item>
+    <item>
+      <headword id="idp115764896">craos</headword>
+      <description>Quotation: Chan eil air an aois ach a thigeil (sic) air a’ chraois (sic). Notes: Mack.’s genders tend to be eccentric. Source: Angus MacKenzie, Burncrook, Bayble, Lewis. Date: October 1970.</description>
+    </item>
+    <item>
+      <headword id="idp115766696">athainn</headword>
+      <description>Notes: (with nasal vowel in 1st syll.) A catch-word or phrase, e.g. ‘Tog seo orm, ’s gheibh thu stamp’. Source: Prof. D.S. Thomson, Lewis. Date: 1983.</description>
+    </item>
+    <item>
+      <headword id="idp115768568">falamh</headword>
+      <description>Quotation: copan falamh. Notes: used of a cup of tea with no accompanying eats. Source: Prof. D.S. Thomson, Lewis. Date: 1985.</description>
+    </item>
+  </items>
+</fieldworkDocument>

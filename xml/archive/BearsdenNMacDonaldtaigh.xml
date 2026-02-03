@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?><!-- checked by MM on 23 5 14 --><fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="AOHenley_BearsdenNMacDonaldtaigh" docType="questionnaire" subType="TaighGaidhealach" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Taigh Gàidhealach / House and Furnishings</title>
+  <date>[1987-88]</date>
+  <fieldworker personId="ohenleya">A. O’Henley</fieldworker>
+  <informant>
+    <nameEnglish>Neil MacDonald</nameEnglish>
+    <nameGaelic>Niall Domhnallach </nameGaelic>
+    <origin>Na Hearadh [Harris]</origin>
+  </informant>
+  <location>[Glasgow, Bearsden]</location>
+  <items>
+    <item><headword id="d0e32" type="heading" level="h1">1. An stéidh is am balla</headword></item>
+    <item>
+      <headword id="idp112065376">criath</headword>
+      <description>clay foundation. Also black soil was used.</description>
+    </item>
+    <item>
+      <headword id="idp112069552">snaidheadh</headword>
+      <description>dressing the stones.</description>
+    </item>
+    <item>
+      <headword id="idp112070128">a’ ghlaic</headword>
+      <description>the space between the outer and inner walls.</description>
+    </item>
+    <item>
+      <headword id="idp112085680">clachan meanbh</headword>
+    </item>
+    <item>
+      <headword id="idp112083592">glutraigeadh</headword>
+      <description>small stones and clay mixed and thereafter placed between the two walls.</description>
+    </item>
+    <item><headword id="d0e78" type="heading" level="h1">2. Am mullach ’s an tughadh</headword></item>
+    <item>
+      <headword id="idp112076032">tughadh</headword>
+      <description>thatch.</description>
+    </item>
+    <item>
+      <headword id="idp112059616">muran</headword>
+      <description>sea bent used for thatch.</description>
+    </item>
+    <item>
+      <headword id="idp112057744">sioman fraoich</headword>
+      <description>heather rope used to tie down the thatch.</description>
+    </item>
+    <item>
+      <headword id="idp112056016">ciadhàir</headword>
+      <description>quire (choir?) yarn brought from mainland. Also called sioman Thearlaich.</description>
+    </item>
+    <item>
+      <headword id="idp112054792">na casan ceangail</headword>
+      <description>placed on the inside of the wall. When finished a grown man could walk round the outside of the wall.</description>
+    </item>
+    <item>
+      <headword id="idp112052848">na sparran</headword>
+    </item>
+    <item>
+      <headword id="idp112052200">luidhear</headword>
+      <description>chimney.</description>
+    </item>
+    <item>
+      <headword id="idp112056736">maide starraig</headword>
+      <description>protruded from the end of the house.</description>
+    </item>
+    <item>
+      <headword id="idp112049104">bòrdan fiodh</headword>
+      <description>put across the beams under the thatch.</description>
+    </item>
+    <item><headword id="d0e160" type="heading" level="h1">3. Dorsan is uinneagan</headword></item>
+    <item>
+      <headword id="idp112046296">dorus a’ muigh</headword>
+    </item>
+    <item>
+      <headword id="idp112101088">lùdagan</headword>
+      <description>hinges.</description>
+    </item>
+    <item>
+      <headword id="idp2400392">ursunnan</headword>
+      <description>door frame.</description>
+    </item>
+    <item>
+      <headword id="idp2401904">sneac</headword>
+      <description>used to close the door. A small block of wood.</description>
+    </item>
+    <item>
+      <headword id="idp2403416">socrachadh</headword>
+      <description>word used for positioning the ‘sneac’ [q.v.] on the inside of the door.</description>
+    </item>
+    <item>
+      <headword id="idp2404928">clòsaid</headword>
+      <description>closet. Also called ‘cùlaiste’.</description>
+    </item>
+    <item>
+      <headword id="idp2406440">[cùlaiste]</headword>
+      <description>[See clòsaid.]</description>
+    </item>
+    <item>
+      <headword id="idp2407952">trannsa</headword>
+      <description>lobby.</description>
+    </item>
+    <item>
+      <headword id="idp2409464">mòt</headword>
+      <description>used for a fireplace not in the centre of the floor.</description>
+    </item>
+    <item>
+      <headword id="idp2410976">mòit</headword>
+      <description>[See mòt.]</description>
+    </item>
+    <item>
+      <headword id="idp2412488">busan</headword>
+      <description>on each side of the fire. Made of clay and stone. Flat on top and were useful for keeping pans near the fire.</description>
+    </item>
+    <item>
+      <headword id="idp2414000">leac an teinean</headword>
+      <description>stone slab in front of the fire.</description>
+    </item>
+    <item><headword id="d0e269" type="heading" level="h1">4. An broinn an taighe: na sèamraichean</headword></item>
+    <item>
+      <headword id="idp2416376">beinge fiodh</headword>
+      <description>bench capable of sitting six.</description>
+    </item>
+    <item>
+      <headword id="idp2417888">dreasair</headword>
+      <description>used to store china, silverware etc.</description>
+    </item>
+    <item>
+      <headword id="idp2419400">creathall</headword>
+      <description>cradle. Also a table that would sit about eight people.</description>
+    </item>
+    <item>
+      <headword id="idp2421128">cluinneagan uisge</headword>
+      <description>water containers, usually buckets to be found in the lobby or ‘trannsa’.</description>
+    </item>
+    <item>
+      <headword id="idp2422640">sguab fhraoich</headword>
+      <description>a brush made of heather used to sweep the sand of the floor every Saturday night to be replaced by new sand. On having done this the house was then said to be – “air a dhreasaigeadh”.</description>
+    </item>
+    <item><headword id="d0e318" type="heading" level="h1">5. An t-àite-teine</headword></item>
+    <item><headword id="d0e322" type="heading" level="h1">6. Airneis an taighe</headword></item>
+    <item><headword id="d0e326" type="heading" level="h1">7. Sobhal, bàthach, no bothanan sam bith eile</headword></item>
+    <item>
+      <headword id="idp2426744">balla cloiche</headword>
+      <description>between the house and the ‘sobhal’.</description>
+    </item>
+    <item>
+      <headword id="idp2428688">bothag chearc</headword>
+      <description>faisg air an taigh.</description>
+    </item>
+    <item>
+      <headword id="idp2430632">taigh sgàile</headword>
+      <description>extension to the house.</description>
+    </item>
+    <item>
+      <headword id="idp2432576">làr creatha</headword>
+    </item>
+  </items>
+</fieldworkDocument>

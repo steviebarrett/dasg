@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 20 4 13 -->
+<fieldworkDocument docId="Ecclesiastical_GlasgowDGrantbas" docType="questionnaire" subType="BàsIsAdhlachadh">
+  <title>Bàs is Adhlacadh / Death and Burial</title>
+  <fieldworker>[self]</fieldworker>
+  <informant>
+    <nameEnglish>Donald Grant</nameEnglish>
+    <nameGaelic>Domhnall Grannd</nameGaelic>
+    <age>66</age>
+    <origin>[Skye, Camus Chroise]</origin>
+  </informant>
+  <location>Glasgow</location>
+  <items>
+    <item><headword id="d0e32" type="heading" level="h1">1. Ag ullachadh a’ chuirp</headword></item>
+    <item>
+      <headword id="d0e37">air an déile (f)</headword>
+      <description>laid out.</description>
+    </item>
+    <item>
+      <headword id="d0e46">anart (f)</headword>
+      <description>shroud.</description>
+    </item>
+    <item><headword id="d0e54" type="heading" level="h1">2. A’ chiste</headword></item>
+    <item><headword id="d0e58" type="heading" level="h1">3. Faire</headword></item>
+    <item>
+      <headword id="d0e63">a’ caithris</headword>
+      <description>keeping watch: ‘wake’.</description>
+    </item>
+    <item><headword id="d0e71" type="heading" level="h1">4. A’ giùlan na ciste</headword></item>
+    <item>
+      <headword id="d0e76">a’ ghiulan</headword>
+      <description>the “procession”.</description>
+    </item>
+    <item>
+      <headword id="d0e85">“seas”, “seasaimh”</headword>
+      <description>stand aside for your turn to carry.</description>
+    </item>
+    <item>
+      <headword id="d0e94">alair (m)</headword>
+      <description>food provided for mourners.</description>
+    </item>
+    <item>
+      <headword id="d0e103">carbad (m)</headword>
+      <description>bier. (Sleat, Skye)</description>
+    </item>
+    <item><headword id="d0e111" type="heading" level="h1">5. An cladh agus an uaigh</headword></item>
+    <item>
+      <headword id="d0e116">roilig (f)</headword>
+      <description>lair.</description>
+    </item>
+    <item>
+      <headword id="d0e125">a’ cladhach</headword>
+      <description>digging (the grave).</description>
+    </item>
+    <item><headword id="d0e133" type="heading" level="h1">6. Cleachdaidhean sam bith co-cheangailte ri bàs no adhlacadh</headword></item>
+  </items>
+</fieldworkDocument>

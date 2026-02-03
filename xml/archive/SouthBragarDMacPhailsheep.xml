@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 3 5 13 -->
+<fieldworkDocument docId="CattleandSheep_SouthBragarDMacPhailsheep" docType="questionnaire" subType="Sheep">
+  <title>Caoraich / Sheep</title>
+  <fieldworker>[self]</fieldworker>
+  <informant>
+    <nameEnglish>Donald MacPhail</nameEnglish>
+    <age>59</age>
+    <origin>[the questionnaire gives Ross and Cromarty but it is most probably meant as the county not origin]</origin>
+  </informant>
+  <location>Lewis, Barvas, South Bragar</location>
+  <items>
+    <item><headword id="d0e29" type="heading" level="h1">1. Different stages in the growth of sheep (female)</headword></item>
+    <item>
+      <headword id="d0e34">uan firionn</headword>
+    </item>
+    <item>
+      <headword id="d0e40">uan boirionn</headword>
+    </item>
+    <item>
+      <headword id="d0e46">oisg fhirionn</headword>
+      <description>first shearing.</description>
+    </item>
+    <item>
+      <headword id="d0e55">oisg bhoirionn</headword>
+    </item>
+    <item>
+      <headword id="d0e61">tearuinnach boirionn</headword>
+      <description>second shearing.</description>
+    </item>
+    <item>
+      <headword id="d0e70">tearuinnach firionn</headword>
+    </item>
+    <item>
+      <headword id="d0e76">da’ bhliandhnach  muilt</headword>
+      <description>[sic] third shearing.</description>
+    </item>
+    <item>
+      <headword id="d0e85">beoch ciadan boirionn</headword>
+    </item>
+    <item>
+      <headword id="d0e91">da’ bhliandhnach  air a ceud uan</headword>
+    <description>[sic] </description></item>
+    <item>
+      <headword id="d0e97">caora shiasg</headword>
+      <description>without lamb.</description>
+    </item>
+    <item>
+      <headword id="d0e106">seann caora</headword>
+    </item>
+    <item><headword id="d0e111" type="heading" level="h1">2. Different stages in the growth of sheep (male)</headword></item>
+    <item>
+      <headword id="d0e116">reith</headword>
+      <description>from weaning till first shearing.</description>
+    </item>
+    <item>
+      <headword id="d0e125">uan reith ( uareith)</headword>
+      <description>[pron.?] from weaning till first shearing.</description>
+    </item>
+    <item>
+      <headword id="d0e134">bliadhnach ruita</headword>
+      <description>second shearing.</description>
+    </item>
+    <item>
+      <headword id="d0e143">da’ bhliadhnach</headword>
+    </item>
+    <item>
+      <headword id="d0e149">tri bliadhnach etc.</headword>
+    </item>
+    <item><headword id="d0e154" type="heading" level="h1">3. Different stages in the growth of the castrated male</headword></item>
+    <item>
+      <headword id="d0e159">oisg fhirionn</headword>
+      <description>up till first shearing.</description>
+    </item>
+    <item>
+      <headword id="d0e168">bliadhnach</headword>
+      <description>second shearing.</description>
+    </item>
+    <item>
+      <headword id="d0e177">da bhliadhnach</headword>
+    </item>
+    <item>
+      <headword id="d0e183">tri bliadhnach etc.</headword>
+    </item>
+    <item><headword id="d0e188" type="heading" level="h1">4. Sheep’s appearance</headword></item>
+    <item>
+      <headword id="d0e193">caora bhreac</headword>
+      <description>speckled.</description>
+    </item>
+    <item>
+      <headword id="d0e202">caora bhrogach</headword>
+      <description>black.</description>
+    </item>
+    <item>
+      <headword id="d0e211">caora bhan</headword>
+      <description>white.</description>
+    </item>
+    <item>
+      <headword id="d0e220">caora dhubh</headword>
+      <description>black.</description>
+    </item>
+    <item>
+      <headword id="d0e229">cloimh ghrabh</headword>
+      <description>[sic] coarse wooled.</description>
+    </item>
+    <item>
+      <headword id="d0e238">cloimh mhollach</headword>
+      <description>heavy fleeced.</description>
+    </item>
+    <item>
+      <headword id="d0e247">caora scrògach</headword>
+      <description>stunted horned sheep.</description>
+    </item>
+    <item>
+      <headword id="d0e256">caora mhaol</headword>
+      <description>with no horns.</description>
+    </item>
+    <item>
+      <headword id="d0e265">caora reamhar</headword>
+      <description>fat sheep.</description>
+    </item>
+    <item><headword id="d0e273" type="heading" level="h1">5. Miscellaneous</headword></item>
+    <item>
+      <headword id="d0e278">piatan</headword>
+      <description>pet lamb.</description>
+    </item>
+    <item>
+      <headword id="d0e287">leth-uan</headword>
+      <description>twin lamb.</description>
+    </item>
+    <item>
+      <headword id="d0e296">fior oisg</headword>
+      <description>late of weaning.</description>
+    </item>
+    <item>
+      <headword id="d0e305">uan fada gun thogail</headword>
+      <description>late of weaning.</description>
+    </item>
+    <item>
+      <headword id="d0e314">caora uain</headword>
+      <description>breeding ewe.</description>
+    </item>
+    <item>
+      <headword id="d0e323">ciora</headword>
+      <description>pet hogg or sheep.</description>
+    </item>
+    <item>
+      <headword id="d0e332">conadail</headword>
+      <description>stray sheep.</description>
+    </item>
+    <item>
+      <headword id="d0e341">tliamigear</headword>
+      <description>[?] partly castrated or one testicle wanting.</description>
+    </item>
+    <item>
+      <headword id="d0e350">fatach</headword>
+      <description>small ram.</description>
+    </item>
+    <item>
+      <headword id="d0e359">abhag</headword>
+      <description>small ram.</description>
+    </item>
+    <item><headword id="d0e367" type="heading" level="h1">6. Feeding and grazing</headword></item>
+    <item>
+      <headword id="d0e372">phrasach</headword>
+      <description>feeding trough, corn or hay.</description>
+    </item>
+    <item>
+      <headword id="d0e381">clar</headword>
+      <description>feeding trough, cut up turnips or other feeding stuff.</description>
+    </item>
+    <item>
+      <headword id="d0e390">innis</headword>
+      <description>regular beat on the moor.</description>
+    </item>
+    <item><headword id="d0e398" type="heading" level="h1">7. Handling of sheep</headword></item>
+    <item>
+      <headword id="d0e403">cur a mach na caorach</headword>
+      <description>driving them on to the grazings.</description>
+    </item>
+    <item>
+      <headword id="d0e412">toirt dhachaidh</headword>
+      <description>taking them home.</description>
+    </item>
+    <item>
+      <headword id="d0e421">deanamh faing</headword>
+      <description>fanking.</description>
+    </item>
+    <item>
+      <headword id="d0e430">treud caorach</headword>
+      <description>a flock.</description>
+    </item>
+    <item>
+      <headword id="d0e439">cnap caorach</headword>
+      <description>a smaller number.</description>
+    </item>
+    <item>
+      <headword id="d0e448">away out!</headword>
+      <description>command given to a sheep dog.</description>
+    </item>
+    <item>
+      <headword id="d0e457">come in!</headword>
+      <description>command given to a sheep dog.</description>
+    </item>
+    <item>
+      <headword id="d0e466">fetch em!</headword>
+      <description>command given to a sheep dog.</description>
+    </item>
+    <item>
+      <headword id="d0e475">cul mo chois</headword>
+      <description>come to heel.</description>
+    </item>
+    <item>
+      <headword id="d0e484">faing an rusgaidh</headword>
+      <description>fanking.</description>
+    </item>
+    <item>
+      <headword id="d0e493">faing an duppaidh</headword>
+      <description>fanking.</description>
+    </item>
+    <item>
+      <headword id="d0e502">ciora ciora ciora</headword>
+      <description>call addressed to lamb or sheep.</description>
+    </item>
+    <item><headword id="d0e510" type="heading" level="h1">8. Apparatus</headword></item>
+    <item>
+      <headword id="d0e515">stiall</headword>
+      <description>indoor tether stake.</description>
+    </item>
+    <item>
+      <headword id="d0e524">achuinn</headword>
+      <description>indoor tether.</description>
+    </item>
+    <item>
+      <headword id="d0e533">dudlan</headword>
+      <description>swivel.</description>
+    </item>
+    <item>
+      <headword id="d0e542">lúb</headword>
+      <description>band for tying legs while shearing.</description>
+    </item>
+    <item><headword id="d0e550" type="heading" level="h1">9. Diseases</headword></item>
+    <item>
+      <headword id="d0e555">cliambh</headword>
+      <description>[sic] sheep scab.</description>
+    </item>
+    <item>
+      <headword id="d0e564">tuathalan</headword>
+      <description>sturdy or gid (affecting the head).</description>
+    </item>
+    <item>
+      <headword id="d0e573">an car cam</headword>
+      <description>sturdy or gid (affecting the head).</description>
+    </item>
+    <item>
+      <headword id="d0e582">daille</headword>
+      <description>blindness.</description>
+    </item>
+    <item>
+      <headword id="d0e591">crodaich</headword>
+    </item>
+    <item>
+      <headword id="d0e597">searig, seargte</headword>
+      <description>decaying.</description>
+    </item>
+    <item>
+      <headword id="d0e606">spúit</headword>
+      <description>scour.</description>
+    </item>
+    <item>
+      <headword id="d0e615">tinneas gairtean</headword>
+      <description>caused by tick.</description>
+    </item>
+    <item>
+      <headword id="d0e624">mial caorach</headword>
+      <description>the common sheep lice.</description>
+    </item>
+    <item><headword id="d0e632" type="heading" level="h1">10. Parts of the body</headword></item>
+    <item><headword id="d0e636" type="heading" level="h1">11. Lambing</headword></item>
+    <item>
+      <headword id="d0e641">tide an reitheachd</headword>
+      <description>when sheep are put to ram.</description>
+    </item>
+    <item>
+      <headword id="d0e650">am breith</headword>
+    </item>
+    <item>
+      <headword id="d0e656">salchair</headword>
+    </item>
+    <item><headword id="d0e661" type="heading" level="h1">12. Miscellaneous: short tail that remains after docking, small tuft of hair under the chin of a ram, scabby sheep losing their wool, any other words</headword></item>
+    <item>
+      <headword id="d0e666">earbull stúuach (stùthach)</headword>
+      <description>[short tail that remains after docking.] [NOTES: ‘stùthach’ added in what looks like second hand.]</description> 
+    </item>
+    <item>
+      <headword id="d0e675">fiasag</headword>
+      <description>[small tuft of hair under the chin of a ram.]</description>
+    </item>
+    <item>
+      <headword id="d0e684">tilgeadh na cloimh</headword>
+      <description>[losing wool.]</description>
+    </item>
+	<item>
+	  <headword id="idola91">[note]</headword>
+	  <description>[NOTES: the informant does not provide definitions but as it is clear that he is following the definitions given in the questionnaire, these have been copied next to the headwords.]</description>
+	</item>
+  </items>
+</fieldworkDocument>

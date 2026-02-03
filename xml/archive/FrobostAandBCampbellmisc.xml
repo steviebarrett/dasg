@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 3 6 14 -->
+<fieldworkDocument docId="AOHenley_FrobostAandBCampbellmisc" docType="wordlist" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>[1987-88]</date>
+  <fieldworker personId="ohenleya">A. O’Henley</fieldworker>
+  <note>[NOTES: some notes added (most probably by K. D. MacDonald?). See below for details.]</note>
+  <informant>
+    <nameEnglish>Angus and Belle Campbell</nameEnglish>
+  </informant>
+  <location>South Uist, Frobost</location>
+  <items>
+    <item>
+      <headword id="idm224376">lus na Frainge</headword>
+      <description>a fragrant green plant often found in stackyards.</description>
+    </item>
+    <item>
+      <headword id="idm227544">rabladh</headword>
+      <description>hotch potch.</description>
+    </item>
+    <item>
+      <headword id="idm230784">spriùdan</headword>
+      <description>term given to the spiky wire on ryelock [sic] [Rylock?] type fences.</description>
+    </item>
+    <item>
+      <headword id="idm207744">leòbadh craicinn</headword>
+      <description>a layer of skin.</description>
+    </item>
+    <item>
+      <headword id="idm206232">“Cha do dh’fhàg i lann neo leob air”</headword>
+      <description>giving someone a roasting.</description>
+    </item>
+    <item>
+      <headword id="idm204720">greim mór</headword>
+      <description>appendicitis.</description>
+    </item>
+    <item>
+      <headword id="idm203208">ròtach</headword>
+      <description>applied to someone who was slurred and difficult to understand. [NOTES: corrected to ‘rotach’.]</description>
+    </item>
+    <item>
+      <headword id="idm201480">pronnastan</headword>
+      <description>sulphur.</description>
+    </item>
+    <item>
+      <headword id="idm199968">rothallach</headword>
+      <description>confused.</description>
+    </item>
+    <item>
+      <headword id="idm198456">sgiobag</headword>
+      <description>a small amount, measure of something.</description>
+    </item>
+    <item>
+      <headword id="idm196080">mainnearach de ghàradh</headword>
+      <description>the ruins of a garden.</description>
+    </item>
+    <item>
+      <headword id="idm194568">piob a’ choinnethal</headword>
+      <description>communal pipe. [NOTES: note added – (bagpipe).]</description>
+    </item>
+    <item>
+      <headword id="idm192912">“Bho fhear liath gu leanabh”</headword>
+      <description>something that is hereditary.</description>
+    </item>
+    <item>
+      <headword id="idm191400">aileasachadh</headword>
+      <description>scandalising. [NOTES: corrected to ‘àilleasachadh’.]</description>
+    </item>
+    <item>
+      <headword id="idm189744">sàr chinnteach</headword>
+      <description>definite.</description>
+    </item>
+    <item>
+      <headword id="idm188232">creallagan</headword>
+      <description>pinnian [sic] [pinion?] wheels in a mill. (Will look for a fuller definition.)</description>
+    </item>
+    <item>
+      <headword id="idm186720">peice</headword>
+      <description>a bushel.</description>
+    </item>
+    <item>
+      <headword id="idm185208">sùil na h-atha</headword>
+      <description>the hole at the top of a kiln.</description>
+    </item>
+    <item>
+      <headword id="idm183696">feadan</headword>
+      <description>a channel of any kind. Similar to ‘guitair’.</description>
+    </item>
+    <item>
+      <headword id="idm182184">bràt</headword>
+      <description>a measure of grain put on the wooden ‘ciullan’ in a kiln. Also used for a bedspread. [NOTES: corrected to ‘brat’.]</description>
+    </item>
+    <item>
+      <headword id="idm179664">fadhlais</headword>
+      <description>spokes in a cartwheel.</description>
+    </item>
+    <item>
+      <headword id="idm178152">ceathramh na roth</headword>
+      <description>the wheel was divided into four before the spokes were inserted, one of these segments called a ‘ceathramh’.</description>
+    </item>
+    <item>
+      <headword id="idm176640">cliongair</headword>
+      <description>a large measure of whisky or other. [NOTES: note added above ‘cliongair’ – clinceir.]</description>
+    </item>
+    <item>
+      <headword id="idm151072">puicainn</headword>
+      <description>a rogue. [NOTES: a note added above ‘puicainn’ – puicein.]</description>
+    </item>
+    <item>
+      <headword id="idm149344">broinnteagan</headword>
+      <description>rags. [NOTES: corrected to ‘brointeagan’.]</description>
+    </item>
+    <item>
+      <headword id="idm147688">badragan</headword>
+      <description>rags.</description>
+    </item>
+    <item>
+      <headword id="idm146176">luideagan</headword>
+      <description>rags.</description>
+    </item>
+    <item>
+      <headword id="idm144664">a’ chomh rath</headword>
+      <description>dusk.</description>
+    </item>
+    <item>
+      <headword id="idm143152">boirneach</headword>
+      <description>to persuade. [NOTES: corrected to ‘bòirneach’ and note added – cajole. Bha mi ga bhòirneachadh.]</description>
+    </item>
+    <item>
+      <headword id="idm141496">fiachadh an rathaid mhóir</headword>
+      <description>second hand invite.</description>
+    </item>
+  </items>
+</fieldworkDocument>
+

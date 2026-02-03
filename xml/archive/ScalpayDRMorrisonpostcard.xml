@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 5 2 15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="DRMorrisonetal_ScalpayDRMorrisonpostcard" docType="questionnaire" subType="Postcard" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <note>[NOTES: a postcard containing one bird name.]</note>
+  <informant>
+    <nameEnglish>D.R. Morrison</nameEnglish>
+  </informant>
+  <location>Harris, Scalpay</location>
+  <items>
+    <item>
+      <headword id="idp163552880">graidleachan</headword>
+      <description>Tha ainmeannan eòin agaibh a cheana. Tha aon fhacail (ainm) agam ann an daimh ri eoin is e sin. It may have originated from graibheal – gravel. That is a bird confined to the gravel shore, where he disperses gravel with his feet (perhaps I have already noted same).</description>
+    </item>
+  </items>
+</fieldworkDocument>

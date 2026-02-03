@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 23 4 13 -->
+<fieldworkDocument docId="HouseandFurnishings_CarlowayAandMMacKilloptaigh" docType="questionnaire" subType="TaighGaidhealach">
+  <title>Taigh Gàidhealach / House and Furnishings</title>
+  <fieldworker>[self]</fieldworker>
+  <note>[NOTES: the informants use adjectives ‘beag’, ‘mór’ and ‘math’ to show the gender of the nouns. In this file they have been replaced with ‘masc.’ and ‘fem.’.]</note>
+  <informant>
+    <nameEnglish>Angus and Margaret MacKillop</nameEnglish>
+    <nameGaelic>Aonghas is Mairead ’icIllip</nameGaelic>
+    <age>còrr is leth cheud [over 50]</age>
+    <origin>Eileanaich [natives of Lewis]</origin>
+  </informant>
+  <location>Leodhas, Carlobhadh [Lewis, Carloway]</location>
+  <items>
+    <item><headword id="d0e35" type="heading" level="h1">1. An stéidh is am balla</headword></item>
+    <item>
+      <headword id="d0e40">am bala stigh</headword>
+      <description>the inner wall.</description>
+    </item>
+    <item>
+      <headword id="d0e49">am bala muigh</headword>
+      <description>the outer wall.</description>
+    </item>
+    <item>
+      <headword id="d0e58">an glutadh</headword>
+      <description>[masc.] the earthen filling in between the inner and outer walls.</description>
+    </item>
+    <item>
+      <headword id="d0e67">an glutranadh  (Berneray)</headword>
+      <description>[See an glutadh]</description>
+    </item>
+    <item>
+      <headword id="d0e76">barr a’ bhala</headword>
+      <description>[masc.] the top of the wall(s) on which the beams were set.</description>
+    </item>
+    <item>
+      <headword id="d0e85">an tobhta</headword>
+      <description>[fem.] [See barr a’ bhala] ‘Tobhta’ also means a ruin in Lewis.</description>
+    </item>
+    <item><headword id="d0e93" type="heading" level="h1">2. Am mullach ’s an tughadh</headword></item>
+    <item>
+      <headword id="d0e98">an gad-droma</headword>
+      <description>[masc.] the top beam to which the joists were fixed.</description>
+    </item>
+    <item>
+      <headword id="d0e107">cas-a-ceanghail</headword>
+      <description>[fem.] one of the sloping roof joists.</description>
+    </item>
+    <item>
+      <headword id="d0e116">ceanghal</headword>
+      <description>[masc.] a pair of sloping roof joists meeting at the ‘gad-droma’ [q.v.]. The size or length of a house was given by the number of ‘ceanghail’. Thus – Tigh och [sic] ceanghail or Tigh mór nan deich ceanghail.</description>
+    </item>
+    <item>
+      <headword id="d0e125">na taobhain,</headword>
+      <description>[sg.] taobhan [masc.] the laths nailed across the ‘casan ceanghail’ [q.v.] to support the thatch.</description>
+    </item>
+    <item>
+      <headword id="d0e134">na sgrathan,</headword>
+      <description>[sg.] sgrath [fem.] the large flat slating divots were placed over the ‘taobhain’ [q.v.].</description>
+    </item>
+    <item>
+      <headword id="d0e143">tughadh</headword>
+      <description>[masc.] the thatch – could be: Tughadh connlaich no Tughadh fraoich no Tughadh de bhunan eòrna. Bhathar a’ buain no a’ spionadh an eòrna leis a bhun dubh agus ’ga cheanghail. ’Nuair a bha e tioram bhathar a’ sgathadh gach sguaib le coran [sic] mór a dh’aon ghnothaich air son so fhéin – ris an cainte corran sgathaidh. Bha na bunan so air am meas nan tughadh air leth dionach.</description>
+    </item>
+    <item>
+      <headword id="d0e152">sioman</headword>
+      <description>[masc.] the binding rope. The thatch was held down with ‘sioman fraoich’ no ‘sioman murain’ or latterly by coir rope still called in Lewis ‘sioman Thearlaich’ after the merchant who introduced it into the island.</description>
+    </item>
+    <item>
+      <headword id="d0e161">spàrr</headword>
+      <description>spar or rafter. There was the expression ‘luath mu spàrr’, e.g. Cha chuir e sud luath mu spàrr. – He will not cause any great stir or commotion.</description>
+    </item>
+    <item>
+      <headword id="d0e170">fuaraich</headword>
+      <description>drops of rain dripping through the thatch.</description>
+    </item>
+    <item>
+      <headword id="d0e179">deathach</headword>
+      <description>smoke.</description>
+    </item>
+    <item>
+      <headword id="d0e188">cailleachan suith</headword>
+      <description>hanging strands of sooty substance formed high up on the ‘slabhraidh’.</description>
+    </item>
+    <item>
+      <headword id="d0e197">gual</headword>
+      <description>a smudge on the hands or face (not of coal as coal had never been in use of old in Point, Lewis). Anyone having a smudge on the face and not knowing of it would be told: “Cuir do làmh far am beil an gual ort agus gheibh thu do roghainn”. ‘Gual’ is also the black formed on the outside of pots and pans exposed to an open flame. Still also ‘gual’ was the name for cold peat embers. Sgùradh le gual – before the advent of abrasive cleansers, a damp cloth dipped in a very finely crushed cold peat ember would be used on metal in place of sand paper or emery paper. And ‘gual’ for something burnt to a cinder – “Chaidh e ’na ghual dubh.”</description>
+    </item>
+    <item><headword id="d0e205" type="heading" level="h1">3. Dorsan is uinneagan</headword></item>
+    <item>
+      <headword id="d0e210">an starsach</headword>
+      <description>[fem.] the threshold.</description>
+    </item>
+    <item>
+      <headword id="d0e219">an t-ard dhorus</headword>
+      <description>[masc.] the door lintel.</description>
+    </item>
+    <item>
+      <headword id="d0e228">an ursainn</headword>
+      <description>[fem.] the door post.</description>
+    </item>
+    <item>
+      <headword id="d0e237">a’ chomhla</headword>
+      <description>[fem.] the actual door.</description>
+    </item>
+    <item>
+      <headword id="d0e246">na banntaichean,</headword>
+      <description>[sg.] bannta [masc.] the hinges.</description>
+    </item>
+    <item>
+      <headword id="d0e255">a’ ghlas</headword>
+      <description>[fem.] the lock.</description>
+    </item>
+    <item>
+      <headword id="d0e264">an claimhean</headword>
+      <description>the bolt.</description>
+    </item>
+    <item>
+      <headword id="d0e273">sneic</headword>
+      <description>a hasp.</description>
+    </item>
+    <item>
+      <headword id="d0e282">an dorus mór</headword>
+      <description>the main door as opposed to the back door which led into the barn and was called ‘dorus an t-sabhail’.</description>
+    </item>
+    <item>
+      <headword id="d0e291">[dorus an t-sabhail]</headword>
+      <description>the back door which led into the barn.</description>
+    </item>
+    <item>
+      <headword id="d0e300">dorus an tallain</headword>
+      <description>the door leading into the living room.</description>
+    </item>
+    <item>
+      <headword id="d0e309">dorus a’ chulaist</headword>
+      <description>the door leading from the living room to the sleeping apartment.</description>
+    </item>
+    <item>
+      <headword id="d0e318">uinneag an teine</headword>
+      <description>the living room window.</description>
+    </item>
+    <item>
+      <headword id="d0e327">uinneag a’ chulaist</headword>
+      <description>the bedroom window.</description>
+    </item>
+    <item>
+      <headword id="d0e336">uinneag an t-sobhail</headword>
+      <description>the barn window.</description>
+    </item>
+    <item>
+      <headword id="d0e345">lòsan</headword>
+      <description>a pane of glass.</description>
+    </item>
+    <item><headword id="d0e353" type="heading" level="h1">4. An broinn an taighe: na sèamraichean</headword></item>
+    <item>
+      <headword id="d0e358">cùl an tallain</headword>
+      <description>(behind the partition) The area into which one entered by the front door – the equivalent of the hall in the more modern houses.</description>
+    </item>
+    <item>
+      <headword id="d0e367">aig an teine</headword>
+      <description>I think the living room was always referred to like this.</description>
+    </item>
+    <item>
+      <headword id="d0e376">cùlaist</headword>
+      <description>[fem.] a bedroom latterly. Earlier it was a closet or windowless room – requiring to be lit.</description>
+    </item>
+    <item>
+      <headword id="d0e385">cùil mhònach</headword>
+      <description>a peat-closet.</description>
+    </item>
+    <item>
+      <headword id="d0e394">cùil lion</headword>
+      <description>a closet for nets.</description>
+    </item>
+    <item>
+      <headword id="d0e403">an airidh</headword>
+      <description>I am not sure what or where this was. I heard this expression ‘Shuas air an airidh’. Could have been a boarding or platform among the rafters. [NOTES: the following comment added later at the bottom of the page.] Have discovered that the ‘airidh’ was not part of the dwelling house – it was a broad shelf or suspended loft in the barn.</description>
+    </item>
+    <item>
+      <headword id="d0e412">tallan</headword>
+      <description>partition.</description>
+    </item>
+    <item>
+      <headword id="d0e421">clòsaid</headword>
+      <description>closet.</description>
+    </item>
+    <item><headword id="d0e429" type="heading" level="h1">5. An t-àite-teine</headword></item>
+    <item>
+      <headword id="d0e434">cladach-an-teine</headword>
+      <description>not clear what was meant by this unless it was directly in front of the fire.</description>
+    </item>
+    <item>
+      <headword id="d0e443">cagailt</headword>
+      <description>[fem.] the hearth.</description>
+    </item>
+    <item>
+      <headword id="d0e452">branndair</headword>
+      <description>[masc.] the bars of the grating on which the fire rested.</description>
+    </item>
+    <item>
+      <headword id="d0e461">slabhraidh</headword>
+      <description>[fem.] the hanging chain above the fire on which pots were suspended. I think it was also the name for the elongated iron hook at the end of the chain.</description>
+    </item>
+    <item>
+      <headword id="d0e470">cran</headword>
+      <description>[masc.] may have been ‘crann’ but it was always pronounced like an English word. It was an iron bar across the chimney from which hooks (as above [meaning slabhraidh]) were suspended – if there was no ‘slabhraidh’ [q.v.].</description>
+    </item>
+    <item>
+      <headword id="d0e479">clobha</headword>
+      <description>[masc.] tongs.</description>
+    </item>
+    <item>
+      <headword id="d0e488">spòg a’ chlobha</headword>
+      <description>a leg of the tongs.</description>
+    </item>
+    <item>
+      <headword id="d0e497">bòcair</headword>
+      <description>a pair of bellows.</description>
+    </item>
+    <item>
+      <headword id="d0e506">luath</headword>
+      <description>[fem.] ashes.</description>
+    </item>
+    <item>
+      <headword id="d0e515">griosach</headword>
+      <description>[fem.] red hot ashes.</description>
+    </item>
+    <item>
+      <headword id="d0e524">gallag</headword>
+      <description>[fem.] the bright red core of the fire.</description>
+    </item>
+    <item>
+      <headword id="d0e533">bràthadair</headword>
+      <description>[masc.] a roaring fire.</description>
+    </item>
+    <item>
+      <headword id="d0e542">braidseal</headword>
+      <description>a roaring fire.</description>
+    </item>
+    <item>
+      <headword id="d0e551">bìugan</headword>
+      <description>[masc.] a small flickering fire. Also applied to a poor light from the lamp.</description>
+    </item>
+    <item><headword id="d0e559" type="heading" level="h1">6. Airneis an taighe</headword></item>
+    <item>
+      <headword id="d0e564">angar  bùrn</headword>
+      <description>[masc.] the water cask. Water was always ‘bùrn’ in the Point district of Lewis.</description>
+    </item>
+    <item>
+      <headword id="d0e573">prais</headword>
+      <description>[fem.] a three legged pot.</description>
+    </item>
+    <item>
+      <headword id="d0e582">bord praise</headword>
+      <description>a wooden lid for the pot.</description>
+    </item>
+    <item>
+      <headword id="d0e591">sieaghag</headword>
+      <description>[sic] a wooden spurtle.</description>
+    </item>
+    <item>
+      <headword id="d0e600">liagh</headword>
+      <description>[fem.] a ladle.</description>
+    </item>
+    <item>
+      <headword id="d0e609">leabaidh ard</headword>
+      <description>box bed.</description>
+    </item>
+    <item>
+      <headword id="d0e618">bord-slios na leapa</headword>
+      <description>the front or side of the bed facing out into the room.</description>
+    </item>
+    <item>
+      <headword id="d0e627">pàma</headword>
+      <description>[masc.] the brightly coloured frill or valance round the bed.</description>
+    </item>
+    <item>
+      <headword id="d0e636">séis</headword>
+      <description>a long bench along the wall.</description>
+    </item>
+    <item>
+      <headword id="d0e645">being</headword>
+      <description>[fem.] a long bench along the wall.</description>
+    </item>
+    <item>
+      <headword id="d0e654">stòl mór</headword>
+      <description>a long stool that would seat two [?] people.</description>
+    </item>
+    <item>
+      <headword id="d0e663">stòl beag</headword>
+      <description>a small stool (a single seater).</description>
+    </item>
+    <item>
+      <headword id="d0e672">cùrtairean</headword>
+      <description>the window curtains.</description>
+    </item>
+    <item>
+      <headword id="d0e681">ciste mhine</headword>
+      <description>meal chest.</description>
+    </item>
+    <item>
+      <headword id="d0e690">ciste phlaideachan</headword>
+      <description>blanket chest.</description>
+    </item>
+    <item>
+      <headword id="d0e699">bord tuarnair</headword>
+      <description>the dining table – joiner-made with turned legs and drawer – as opposed to the home-made work table. I think I also heard ‘leabaidh tuarnair’.</description>
+    </item>
+    <item>
+      <headword id="d0e708">dreasair</headword>
+      <description>[masc.] dresser.</description>
+    </item>
+    <item>
+      <headword id="d0e717">bòrd an dreasair</headword>
+      <description>the top or work surface of the dresser.</description>
+    </item>
+    <item>
+      <headword id="d0e726">bonn an dreasair</headword>
+      <description>the bottom or cupboard part of the dresser.</description>
+    </item>
+    <item>
+      <headword id="d0e735">preas</headword>
+      <description>cupboard.</description>
+    </item>
+    <item>
+      <headword id="d0e744">clar-fuinne</headword>
+      <description>baking board.</description>
+    </item>
+    <item>
+      <headword id="d0e753">greideal</headword>
+      <description>baking girdle [sic].</description>
+    </item>
+    <item>
+      <headword id="d0e762">corca</headword>
+      <description>a big knife or bread knife.</description>
+    </item>
+    <item>
+      <headword id="d0e771">sioltachan</headword>
+      <description>a sieve.</description>
+    </item>
+    <item>
+      <headword id="d0e780">siliogan</headword>
+      <description>[masc.] a small cream jug with a spout.</description>
+    </item>
+    <item>
+      <headword id="d0e789">cuach</headword>
+      <description>[fem.] a big bowl or tureen.</description>
+    </item>
+    <item>
+      <headword id="d0e798">pùlais</headword>
+      <description>[masc.] detachable hanging handle for the ‘prais’ or three legged pot.</description>
+    </item>
+    <item>
+      <headword id="d0e807">cluaisean</headword>
+      <description>[masc.] the ‘ear’ on opposite sides of the ‘prais’ [q.v.] into which the ‘pulais’ [q.v.] was fitted.</description>
+    </item>
+    <item>
+      <headword id="d0e816">gucag uighe</headword>
+      <description>egg cup.</description>
+    </item>
+    <item>
+      <headword id="d0e825">truinnsear  domhain</headword>
+      <description>[masc.] a soup plate.</description>
+    </item>
+    <item>
+      <headword id="d0e834">truinnsear staoin</headword>
+      <description>a meat plate – any shallow plate.</description>
+    </item>
+    <item>
+      <headword id="d0e843">sgian lùthaidh</headword>
+      <description>a man’s pocket knife.</description>
+    </item>
+    <item>
+      <headword id="d0e852">measair</headword>
+      <description>[fem.] a small wooden tub used for animal feeding.</description>
+    </item>
+    <item>
+      <headword id="d0e861">maodar</headword>
+      <description>[masc.] [See measair]</description>
+    </item>
+    <item>
+      <headword id="d0e870">seotal</headword>
+      <description>[masc.] a small compartment in the ‘ciste’ or chest where money and other valuables were kept.</description>
+    </item>
+    <item>
+      <headword id="d0e879">baustair</headword>
+      <description>[masc.] a mattress.</description>
+    </item>
+    <item>
+      <headword id="d0e888">lamba</headword>
+      <description>a lamp.</description>
+    </item>
+    <item>
+      <headword id="d0e897">sifeac</headword>
+      <description>a wick for the above [i.e. lamba (q.v.)].</description>
+    </item>
+    <item>
+      <headword id="d0e906">lamba bheag</headword>
+      <description>a small lamp with a handle for taking from room to room.</description>
+    </item>
+    <item>
+      <headword id="d0e915">fleòdar</headword>
+      <description>this was the old name in Point, Lewis for tin. A tin pail or basin used for milk would be ‘peile fleòdair’ and ‘mios fleòdair’. (Is it conceivable that at one time they had pewter utensils?) I do not hear the word now – if there are any tin pails, etc. – it is ‘peile tiona’, ‘mios tiona’.</description>
+    </item>
+    <item>
+      <headword id="d0e924">imiolaid</headword>
+      <description>this was a special lid for the milking pail when it had to be carried some distance – as from the sheiling. It was of cured hide, ‘made to measure’ or fitted to cover the top of the pail and come a little way down the sides.</description>
+    </item>
+    <item><headword id="d0e932" type="heading" level="h1">7. Sobhal, bàthach, no bothanan sam bith eile</headword></item>
+    <item>
+      <headword id="d0e937">bàthach</headword>
+      <description>byre. [NOTES: it is not clear if the adjective ‘mhór’ added in brackets between ‘bàthach’ and ‘boghal’ refers to the former or the latter.]</description> 
+    </item>
+    <item>
+      <headword id="d0e946">boghal</headword>
+      <description>the cow’s bed or stall in the byre.</description>
+    </item>
+    <item>
+      <headword id="d0e955">stàpull</headword>
+      <description>stable.</description>
+    </item>
+    <item>
+      <headword id="d0e964">painnsear</headword>
+      <description>(in Point, Lewis) manger.</description>
+    </item>
+    <item>
+      <headword id="d0e973">fasglan</headword>
+      <description>a little ‘bothag’ built on to the front of the house and just missing the front door – possibly a shelter for the front door.</description>
+    </item>
+    <item>
+      <headword id="d0e982">bothag nan cearc</headword>
+      <description>hen house.</description>
+    </item>
+    <item>
+      <headword id="d0e991">bothag nan uan</headword>
+      <description>the little thatched bothy where the lambs were fed and wintered.</description>
+    </item>
+    <item>
+      <headword id="d0e1000">sobhal</headword>
+      <description>barn.</description>
+    </item>
+    <item>
+      <headword id="d0e1009">dileadh</headword>
+      <description>a drain leading out from the byre (I think).</description>
+    </item>
+    <item>
+      <headword id="d0e1018">stiall</headword>
+      <description>the short tether by which the cow was secured in the stall.</description>
+    </item>
+    <item>
+      <headword id="d0e1027">feist</headword>
+      <description>the long tether outside.</description>
+    </item>
+    <item>
+      <headword id="d0e1036">bacan</headword>
+      <description>the tether stake.</description>
+    </item>
+    <item>
+      <headword id="d0e1045">scalpan</headword>
+      <description>oat chaff. (Point, Lewis)</description>
+    </item>
+    <item>
+      <headword id="d0e1054">moll</headword>
+      <description>[masc.] barley chaff.</description>
+    </item>
+    <item>
+      <headword id="d0e1063">rulladh</headword>
+      <description>separating the barley grain from the chaff – an operation quite different from that of winnowing oats as barley chaff is heavier and does not so readily ‘go with the wind’.</description>
+    </item>
+    <item>
+      <headword id="d0e1072">criathar</headword>
+      <description>[masc.] the sieve, or riddle, used in the above process [i.e. rulladh (q.v.)] – made of perforated sheep hide stretched over a round wooden frame.</description>
+    </item>
+    <item>
+      <headword id="d0e1081">siolmhol</headword>
+      <description>barley chaff which was not free of grain and could be used for cattle feeding.</description>
+    </item>
+    <item>
+      <headword id="d0e1090">dias</headword>
+      <description>[fem.] as well as meaning an ear of corn, this also meant a fleck of barley chaff. Most irritating to the skin if a ‘dias’ adhered to one’s clothing. ‘Tha dias air mo dhruim’ could be awful. ‘Tha dias ’nam amhaich’ – worse!</description>
+    </item>
+    <item>
+      <headword id="d0e1099">suathadh an eòrna</headword>
+      <description>getting the barley grain off the stem by working the tops of the sheaves between the feet – wearing special boots the while.</description>
+    </item>
+    <item>
+      <headword id="d0e1108">calg</headword>
+      <description>[fem.] the same as ‘dias’ (above) [q.v.] in its irritating prickly sense.</description>
+    </item>
+    <item>
+      <headword id="d0e1117">a’ deanamh sobhail</headword>
+      <description>this meant the winter’s work in the barn – preparing the barley and oats for milling.</description>
+    </item>
+    <item>
+      <headword id="d0e1126">spoth an t-sìl</headword>
+      <description>shaking out from among the straw refuse any good grain that had become mixed up in it.</description>
+    </item>
+  </items>
+</fieldworkDocument>

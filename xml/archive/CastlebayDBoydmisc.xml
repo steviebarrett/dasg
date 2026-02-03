@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 1/4/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Word-lists_CastlebayDBoydmisc" docType="wordlist" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>8/10/1970</date>
+  <fieldworker>[self]</fieldworker>
+  <informant>
+    <nameEnglish>D[onald] Boyd</nameEnglish>
+    <origin>[North Uist acc. to the card index of informants]</origin>
+  </informant>
+  <location>Barra, Castlebay</location>
+  <items>
+    <item>
+	  <headword id="idola427" type="heading" level="h1">Words of interest to Gaelic speakers:</headword>
+    </item>
+	<item>
+      <headword id="idp161207952">féicheantas</headword>
+      <description>verbal sparring, parleying [?] with words.</description>
+    </item>
+    <item>
+      <headword id="idp161209464">tathanta</headword>
+      <description>[?] contrary, in speech or action. [NOTES: slipped as ‘tathanta’.]</description>
+    </item>
+    <item>
+      <headword id="idp161211120">plamaranta</headword>
+      <description>soft (as applied to fish or fowl).</description>
+    </item>
+    <item>
+      <headword id="idp161212632">briuthasach</headword>
+      <description>sexy (in North Uist parlance).</description>
+    </item>
+    <item>
+      <headword id="idp161214144">dion(n)ruigeach</headword>
+      <description>vindictive. [NOTES: slipped as ‘dionruigeach’.]</description>
+    </item>
+  </items>
+</fieldworkDocument>

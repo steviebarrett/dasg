@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 28 6 14 -->
+<fieldworkDocument docId="AOHenley_IochdarPMorrisonmisc" docType="wordlist" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>[1987-88]</date>
+  <fieldworker personId="ohenleya">A. O’Henley</fieldworker>
+  <note>[NOTES: some notes added (most probably by K. D. MacDonald?). See below for details.]</note>
+  <informant>
+    <nameEnglish>Penny Morrison</nameEnglish>
+  </informant>
+  <location>South Uist, Iochdar</location>
+  <items>
+    <item>
+      <headword id="idp534848">gioslainteach</headword>
+      <description>a superstitious person.</description>
+    </item>
+    <item>
+      <headword id="idp512240">balgan buarach</headword>
+      <description>mushrooms.</description>
+    </item>
+    <item>
+      <headword id="idp539816">[Latha Fheill Padruig]</headword>
+      <description>“Latha Fheill Padruig, leth an earraich, thig an niomhair as an talamh, cha bhith mise ris an niomhair, ’s cha mhotha bhios an niomhair ruim [sic].” The reference to the serpent is unclear to me and the informant cannot shed light on its significance.</description>
+    </item>
+    <item>
+      <headword id="idp526280">[sgarbh]</headword>
+      <description>“Biodh gach neach a’ toirt sgairbh a creagan dha fhein.” – let everyone fend for themselves.</description>
+    </item>
+    <item>
+      <headword id="idp482216">cùpa tì na’d laimh</headword>
+      <description>having tea without sitting at a table, e.g. “An gabh thu tì na’d laimh.”</description>
+    </item>
+    <item>
+      <headword id="idp451544">gàmhran</headword>
+      <description>a mischievous child who does not heed advice or censure.</description>
+    </item>
+    <item>
+      <headword id="idp472568">bàs gun sgread</headword>
+      <description>death without blemish.</description>
+    </item>
+    <item>
+      <headword id="idp511880">Latha Naomh Steaphain</headword>
+      <description>not sure of exact date but arises between Christmas and New Year.</description>
+    </item>
+    <item>
+      <headword id="idp458024">[laogh]</headword>
+      <description>“’S ioma rud a tha an cois a’ laoigh nach saoill a mhàthair.” – a proverb which refers to the unpredictability of someone you might trust implicitly.</description>
+    </item>
+    <item>
+      <headword id="idp570128">[ministear]</headword>
+      <description>“Nuair a bhios a’ pobull gann ni an gille càm ministear.”</description>
+    </item>
+    <item>
+      <headword id="idp492224">[ni]</headword>
+      <description>“’S fhearr duine gun ni na ni gun duine.”</description>
+    </item>
+    <item>
+      <headword id="idp513896">[comhairle]</headword>
+      <description>“Nuair a thig latha thig comhairle.”</description>
+    </item>
+    <item>
+      <headword id="idp466520">taigh pobuill</headword>
+      <description>a church.</description>
+    </item>
+    <item>
+      <headword id="idp527936">aran cuagach</headword>
+      <description>a bannock that was not properly shaped, not rounded.</description>
+    </item>
+    <item>
+      <headword id="idp486176">[gabhail]</headword>
+      <description>“Fhuair e gabhail aige.” – he was well treated.</description>
+    </item>
+    <item>
+      <headword id="idp551768">[crois]</headword>
+      <description>“’S fhearr suathadh ri crois na fuathal ri crois.”</description>
+    </item>
+    <item>
+      <headword id="idp562352">[cù]</headword>
+      <description>“’S fhearr an cù a dh’fhalbhas na an cù a dh’fhuiricheas.” – the more versatile you are the better chance you have of survival.</description>
+    </item>
+    <item>
+      <headword id="idp491000">[ròn]</headword>
+      <description>“’S leatha na ròn tònn eadar a thaigh.” – refers to the obesity which might strike someone who was eternally visiting houses. [NOTES: ‘tònn’ corrected to ‘tòn’.]</description>
+    </item>
+    <item>
+      <headword id="idp609296">[bean taighe]</headword>
+      <description>“’S math a bhean taighe a bheir a nuas a rud nach eil shuas.”</description>
+    </item>
+    <item>
+      <headword id="idp610808">snàth dearg</headword>
+      <description>according to the informant red wool was needed to make a successful ‘snàthla’. For description of ‘snàthla’ see earlier notes.</description>
+    </item>
+    <item>
+      <headword id="idp612320">eadar dà phort am beoil</headword>
+      <description>corner of the mouth. [NOTES: ‘beoil’ corrected to ‘beòil’.]</description>
+    </item>
+    <item>
+      <headword id="idp613976">comhachachadh</headword>
+      <description>to conquer. [NOTES: corrected to ‘cothach(ach)adh’.]</description>
+    </item>
+    <item>
+      <headword id="idp615632">frialadh</headword>
+      <description>throwing people off as in a skirmish.</description>
+    </item>
+    <item>
+      <headword id="idp617144">talamh toll</headword>
+      <description>a quagmire of mud and dirt which could pull you down.</description>
+    </item>
+    <item>
+      <headword id="idp618656">dìaulum</headword>
+      <description>an old word which referred to strong liquer [sic] [liquor?] of any kind. Informant has a song on this. [NOTES: note added above – Di-abhlam.]</description>
+    </item>
+    <item>
+      <headword id="idp621176">déasbhalach</headword>
+      <description>knowledgeable, skilful.</description>
+    </item>
+    <item>
+      <headword id="idp622688">fuidh</headword>
+      <description>noise, shouting, consternation.</description>
+    </item>
+    <item>
+      <headword id="idp624200">[fuine]</headword>
+      <description>“’S fhearr fuine thana na bhi uile falamh.”</description>
+    </item>
+    <item>
+      <headword id="idp625712">builliartaich</headword>
+      <description>a witch. [NOTES: a note added above – muileartach.]</description>
+    </item>
+    <item>
+      <headword id="idp627368">cabhalaids’</headword>
+      <description>something that is cumbersome and difficult to operate. Actually this was in reference to my recording machine!</description>
+    </item>
+    <item>
+      <headword id="idp628880">strùthan milleagach</headword>
+      <description>a rich, opulent stream. [NOTES: ‘strùthan’ corrected to ‘struthan’.]</description>
+    </item>
+    <item>
+      <headword id="idp630536">seilair</headword>
+      <description>a cellar.</description>
+    </item>
+    <item>
+      <headword id="idp632048">[aodach]</headword>
+      <description>“Cha be daoine an t-aodach, ’s cha be a cholunn bhreugach.” – a proverb which refers to the outward artificial appearance of someone. It is his inner personality which counts.</description>
+    </item>
+    <item>
+      <headword id="idp634424">[bò]</headword>
+      <description>Tòmhseachan: “Ceithir a ruidh, ceithir air chrith, ’s dithis a’ deanamh an rathaid, ’s fear ag éigheach.” Refers to different parts of a cow – legs, teats, eyes and mouth.</description>
+    </item>
+    <item>
+      <headword id="idp635936">muadhlanaich</headword>
+      <description>the lowing sound of cattle.</description>
+    </item>
+    <item>
+      <headword id="idp637448">tàpan</headword>
+      <description>a small bundle, in this instance a small bundle of wool. [NOTES: corrected to ‘tapan’.]</description>
+    </item>
+    <item>
+      <headword id="idp639176">peardachan</headword>
+      <description>when carding this was the amount of wool laid flat on the card.</description>
+    </item>
+    <item>
+      <headword id="idp640760">lus nan laogh</headword>
+      <description>black roots were boiled. Wool steeped in this to give a black colour.</description>
+    </item>
+    <item>
+      <headword id="idp642272">ìm smiaraidh</headword>
+      <description>added to the wool so that it would be easier to work with. This was done prior to carding.</description>
+    </item>
+    <item>
+      <headword id="idp644648">gu dìlum</headword>
+      <description>forever. [NOTES: note added above ‘um’ in ‘dìlum’ – eann.]</description>
+    </item>
+    <item>
+      <headword id="idp646376">feàirdean</headword>
+      <description>debts. Could also be interpreted as sins.</description>
+    </item>
+    <item>
+      <headword id="idp647888">gam iathadh</headword>
+      <description>surrounding.</description>
+    </item>
+    <item>
+      <headword id="idp649400">ag uaineachadh</headword>
+      <description>particular type of humiliation as a result of intimidation by your oppressors.</description>
+    </item>
+  </items>
+</fieldworkDocument>
+

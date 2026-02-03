@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 1/4/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Word-lists_BaybleCairstionamisc" docType="wordlist" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>11/12/67</date>
+  <fieldworker>[self]</fieldworker>
+  <note>[NOTES: the word-list appears in Cairstiona’s letter. She explains: ‘Bha mi cuideachd ag cumail mo chluas fosgailte airson focail nach’eil buileach tric air an cleachdadh. Mu tha gin ’nam measg a tha ùr dhuit cuiridh mi an tuilleadh soluis air.” Indeed, a few of the words had definitions added next to them but it is not clear if this was the result of further correspondence with the informant. The top of one of the pages was used to note down two words provided by a different informant (see below).]</note>
+  <informant>
+    <nameEnglish>Cairstiona</nameEnglish>
+  </informant>
+  <location>[Lewis], Stornoway, Upper Bayble</location>
+  <items>
+    <item>
+      <headword id="idp156308072">greòcadh</headword>
+    </item>
+    <item>
+      <headword id="idp156251624">smearradh</headword>
+    </item>
+    <item>
+      <headword id="idp156292088">buillman</headword>
+    </item>
+    <item>
+      <headword id="idp156293888">dildéirig</headword>
+      <description>puny person. [NOTES: definition added in second hand.]</description>
+    </item>
+    <item>
+      <headword id="idp156293312">peadrachan</headword>
+    </item>
+    <item>
+      <headword id="idp156294824">cruthagan</headword>
+    </item>
+    <item>
+      <headword id="idp156297272">scliuchaidh</headword>
+    </item>
+    <item>
+      <headword id="idp156215840">sgriugeach</headword>
+    <description>[?] </description></item>
+    <item>
+      <headword id="idp156300872">gorraireachd</headword>
+    </item>
+    <item>
+      <headword id="idp156302384">spealtrag</headword>
+      <description>herring slit open (and sometimes lightly salted). [NOTES: definition added in second hand.]</description>
+    </item>
+    <item>
+      <headword id="idp156304760">craousag</headword>
+      <description>small berry. [NOTES: definition added in second hand.]</description>
+    </item>
+    <item>
+      <headword id="idp156306128">cleigean</headword>
+    </item>
+    <item>
+      <headword id="idp156307712">gireach</headword>
+      <description>having straggling hair. [NOTES: definition added in second hand.]</description>
+    </item>
+    <item>
+      <headword id="idp156185240">fraochan</headword>
+    </item>
+    <item>
+      <headword id="idp156187040">fìogar</headword>
+    </item>
+    <item>
+      <headword id="idp156188552">sliopradh</headword>
+    </item>
+    <item>
+      <headword id="idp156190064">slòpraich</headword>
+    </item>
+    <item>
+      <headword id="idp156191576">slinnteach</headword>
+    </item>
+    <item>
+      <headword id="idp156193088">spudraisg</headword>
+      <description>messy rubbish (moist or wet normally). [NOTES: definition added in second hand.]</description>
+    </item>
+    <item>
+      <headword id="idp156194744">foirmealach</headword>
+    </item>
+    <item>
+      <headword id="idp156196256">siuthlaichean</headword>
+    </item>
+    <item>
+      <headword id="idp156197768">brout</headword>
+    </item>
+	<item>
+ 	  <headword id="idola425" type="heading" level="h1">Murdo Ferguson, 16/1/1968</headword>
+	</item>
+	<item>
+	  <headword id="idola423">sgait-adhair</headword>
+	  <description>kite.</description>
+	</item>
+	<item>
+	  <headword id="idola424">deantas</headword>
+	  <description>dainties.</description>
+	</item>
+  </items>
+</fieldworkDocument>

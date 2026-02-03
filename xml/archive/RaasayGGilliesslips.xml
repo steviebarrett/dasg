@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 23/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_RaasayGGilliesslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>1980</date>
+  <informant>
+    <nameEnglish>George Gillies</nameEnglish>
+  </informant>
+  <location>Raasay</location>
+  <items>
+    <item>
+      <headword id="idp115491000">tinnsgeadal</headword>
+      <description>Quotation: ’S ann as a thug e tinnsgeadal a bhàis. Notes: the origin of his death.</description>
+    </item>
+    <item>
+      <headword id="idp115472424">tomhadh</headword>
+      <description>Quotation: Airson rud a thomhadh dhut; na bi tomhadh do chorraig ris (pointing your finger at him). Notes: a’ tomhadh rud air duine – pressing something on someone.</description>
+    </item>
+  </items>
+</fieldworkDocument>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 23 4 13 -->
+<fieldworkDocument docId="Games_PirnmillDCurriegames" docType="questionnaire" subType="RecreationToysGamesContests">
+  <title>Cur-seachadan: Dèideagan, Geamaichean is Farpaisean / Recreation: Toys, Games, Contests</title>
+  <fieldworker>[self]</fieldworker>
+  <informant>
+    <nameEnglish>Donald Currie</nameEnglish>
+    <age>72</age>
+  </informant>
+  <location>Arran, Pirnmill</location>
+  <items>
+    <item><headword id="d0e26" type="heading" level="h1">1. Toys</headword></item>
+    <item>
+      <headword id="d0e31">tailm</headword>
+      <description>a sling.</description>
+    </item>
+    <item>
+      <headword id="d0e40">leanabh-liùdhag</headword>
+      <description>doll.</description>
+    </item>
+    <item>
+      <headword id="d0e49">gille-mirean</headword>
+      <description>top.</description>
+    </item>
+    <item>
+      <headword id="d0e58">fear-bréige</headword>
+      <description>puppet.</description>
+    </item>
+    <item><headword id="d0e66" type="heading" level="h1">2. Swings, see-saws</headword></item>
+    <item>
+      <headword id="d0e71">siùdain</headword>
+      <description>swings.</description>
+    </item>
+    <item>
+      <headword id="d0e80">seògan</headword>
+      <description>swings.</description>
+    </item>
+    <item><headword id="d0e88" type="heading" level="h1">3. Games played indoors</headword></item>
+    <item><headword id="d0e92" type="heading" level="h1">4. Outdoor games not involving a ball or puck</headword></item>
+    <item><headword id="d0e96" type="heading" level="h1">5. Ball games</headword></item>
+    <item>
+      <headword id="d0e101">ball-coise</headword>
+      <description>football.</description>
+    </item>
+    <item>
+      <headword id="d0e110">ball-iomain</headword>
+      <description>football.</description>
+    </item>
+    <item>
+      <headword id="d0e119">camanachd</headword>
+      <description>shinty.</description>
+    </item>
+    <item>
+      <headword id="d0e128">caman</headword>
+      <description>shinty stick.</description>
+    </item>
+    <item><headword id="d0e136" type="heading" level="h1">6. Athletics</headword></item>
+    <item><headword id="d0e140" type="heading" level="h1">7. Heavy events</headword></item>
+    <item><headword id="d0e144" type="heading" level="h1">8. Contests involving pulling or pushing</headword></item>
+    <item><headword id="d0e148" type="heading" level="h1">9. Boxing and wrestling</headword></item>
+    <item>
+      <headword id="d0e153">gleachd</headword>
+      <description>wrestle.</description>
+    </item>
+    <item><headword id="d0e161" type="heading" level="h1">10. Blows in general</headword></item>
+    <item>
+      <headword id="d0e166">buillean</headword>
+      <description>blows.</description>
+    </item>
+    <item>
+      <headword id="d0e175">bualadh</headword>
+      <description>blows.</description>
+    </item>
+    <item>
+      <headword id="d0e184">gleadhar</headword>
+      <description>blow.</description>
+    </item>
+    <item><headword id="d0e192" type="heading" level="h1">11. Injury and exhaustion</headword></item>
+    <item>
+      <headword id="d0e197">gearradh</headword>
+      <description>cut.</description>
+    </item>
+    <item>
+      <headword id="d0e206">leon</headword>
+      <description>cut.</description>
+    </item>
+    <item>
+      <headword id="d0e215">làrach</headword>
+      <description>mark.</description>
+    </item>
+    <item>
+      <headword id="d0e224">sgròb</headword>
+      <description>scrape.</description>
+    </item>
+    <item>
+      <headword id="d0e233">sgriob</headword>
+      <description>scratch.</description>
+    </item>
+    <item>
+      <headword id="d0e242">lot domhain</headword>
+      <description>gash.</description>
+    </item>
+    <item>
+      <headword id="d0e251">snìomh</headword>
+      <description>sprain.</description>
+    </item>
+    <item>
+      <headword id="d0e260">plosgadh</headword>
+      <description>panting.</description>
+    </item>
+    <item>
+      <headword id="d0e269">tha fallus ort</headword>
+      <description>sweating.</description>
+    </item>
+    <item>
+      <headword id="d0e278">tuainealaich</headword>
+      <description>stagger.</description>
+    </item>
+    <item>
+      <headword id="d0e287">na laighe ann an neul</headword>
+      <description>lying in a dazed state.</description>
+    </item>
+  </items>
+</fieldworkDocument>

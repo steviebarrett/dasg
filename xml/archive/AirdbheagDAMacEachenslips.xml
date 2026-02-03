@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 5/8/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_AirdbheagDAMacEachenslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>02/1969</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <note>[NOTES: the informant’s name appears as MacEachern on one of the slips.]</note>
+  <informant>
+    <nameEnglish>Donald Alex MacEachen</nameEnglish>
+    <age>c. 60</age>
+    <origin>Benbecula</origin>
+  </informant>
+  <location>Benbecula, Airdbheag</location>
+  <items>
+    <item>
+      <headword id="idp167335320">bonaid</headword>
+      <description>Quotation: “Bonaid an fhodair”. Notes: Said of a person who went from house to collect fodder in the spring. They would say, “Tha bonaid an fhodair air.”</description>
+    </item>
+    <item>
+      <headword id="idp167336976">fodair</headword>
+      <description>Quotation: bonaid an fhodair. Notes: Said of a person who went from house to house in the spring to collect fodder. They would say “Tha bonaid an fhodair air.”</description>
+    </item>
+  </items>
+</fieldworkDocument>

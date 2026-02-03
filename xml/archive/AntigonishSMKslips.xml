@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 5/8/15 -->
+<!-- illustrations -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_AntigonishSMKslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>05/1971</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <note>[NOTES: in IPA transcriptions, the fieldworker uses [w] for [ɯ].]</note>
+  <informant>
+    <nameEnglish>SMK</nameEnglish>
+  </informant>
+  <location>Canada, Cape Breton, Antigonish</location>
+  <items>
+    <item>
+      <headword id="idp167398248">làmhan a’ chruinn</headword>
+      <description>Notes: used for plough handles.</description>
+    </item>
+    <item>
+      <headword id="idp167345112">maighdean</headword>
+      <description>Quotation: na maighdeanan. Notes: uprights supporting the flyer axle in a spinning wheel.</description>
+    </item>
+    <item>
+      <headword id="idp167435400">mèipil</headword>
+      <description>[mɛ̃:pəl] Notes: maple.</description>
+    </item>
+    <item>
+      <headword id="idp167342304">mial</headword>
+      <description>Quotation: mialan a’ bhuntàta. Notes: worms in potatoes.</description>
+    </item>
+    <item>
+      <headword id="idp167327400">milearach</headword>
+      <description>[mĩlɑɾɑx] Notes: seaweed used for manure in some parts.</description>
+    </item>
+    <item>
+      <headword id="idp167455488">mór-roinn</headword>
+      <description>Notes: province.</description>
+    </item>
+    <item>
+      <headword id="idp167454840">rùda</headword>
+      <description>Quotation: uan-rùda. Notes: tup lamb or young ram.</description>
+    </item>
+    <item>
+      <headword id="idp167453328">rùda</headword>
+      <description>Notes: ram.</description>
+    </item>
+    <item>
+      <headword id="idp167451672">ruigein</headword>
+      <description>[rwɡʹɛ̃nʹ] [sic] Notes: ridgeling.</description>
+    </item>
+    <item>
+      <headword id="idp167449872">athairle</headword>
+      <description>[ɑhəʴɫə] Notes: a beast a little older than a heifer. [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+    <item>
+      <headword id="idp167447136">sitig</headword>
+      <description>Notes: area outside the kitchen where dirty water was thrown.</description>
+    </item>
+    <item>
+      <headword id="idp167445840">siug</headword>
+      <description>[ʃu̟ɡ] Quotation: siug, siug! siugan! Notes: call to a calf.</description>
+    </item>
+    <item>
+      <headword id="idp167443968">siugan</headword>
+      <description>[ʃu̟ɡɑ̃ṉ] Quotation: siug, siug! siugan! Notes: call to a calf.</description>
+    </item>
+    <item>
+      <headword id="idp167442528">pairce</headword>
+      <description>Notes: a field (didn’t use terms achadh, feannag).</description>
+    </item>
+    <item>
+      <headword id="idp167440584">póc</headword>
+      <description>[po:k] Notes: cockroach.</description>
+    </item>
+    <item>
+      <headword id="idp167439432">pràiseach</headword>
+      <description>Notes: cast-iron.</description>
+    </item>
+    <item>
+      <headword id="idp167437344">saighdear</headword>
+      <description>Quotation: na saighdearan. Notes: uprights which supported the wheel axle in the spinning wheel.</description>
+    </item>
+    <item>
+      <headword id="idp167340720">sgrìoban</headword>
+      <description>Notes: commonly used for rake.</description>
+    </item>
+    <item>
+      <headword id="idp167339280">sinnteachan</headword>
+      <description>Notes: older term for drag-chains.</description>
+    </item>
+    <item>
+      <headword id="idp167336832">siosar</headword>
+      <description>Notes: sheep shears.</description>
+    </item>
+    <item>
+      <headword id="idp167333808">spagh</headword>
+      <description>Notes: swathe.</description>
+    </item>
+    <item>
+      <headword id="idp167328696">speal</headword>
+      <description>Notes: blade of scythe.</description>
+    </item>
+    <item>
+      <headword id="idp167428704">spùt</headword>
+      <description>Notes: the scours.</description>
+    </item>
+    <item>
+      <headword id="idp167432232">steinseal</headword>
+      <description>[sṯɛ̃ṉʃɑɫ] Notes: stanchion (for tying cows in byre).</description>
+    </item>
+    <item>
+      <headword id="idp119549048">stràbh</headword>
+      <description>Notes: trail or scatter of hay on the field after bulk had been removed.</description>
+    </item>
+    <item>
+      <headword id="idp119550560">suamp</headword>
+      <description>[su̜ɑmp] Notes: swamp.</description>
+    </item>
+    <item>
+      <headword id="idp119552288">tir-mór</headword>
+      <description>Notes: mainland of Nova Scotia.</description>
+    </item>
+    <item>
+      <headword id="idp119553800">tlèim</headword>
+      <description>[t̪ɫɛ̃:m] Notes: handful of hay or grain. (Dw. handful of wool.)</description>
+    </item>
+    <item>
+      <headword id="idp119555528">treasachan</headword>
+      <description>Notes: traces, drag-chains.</description>
+    </item>
+    <item>
+      <headword id="idp119557040">treasadach</headword>
+      <description>Notes: ground in which grain was sown the previous year.</description>
+    </item>
+    <item>
+      <headword id="idp119558624">uan</headword>
+      <description>Quotation: uan-rùda. Notes: young ram or tup lamb.</description>
+    </item>
+    <item>
+      <headword id="idp119560280">amall</headword>
+      <description>Quotation: amall beag, amall mór. Notes: swingle-tree.</description>
+    </item>
+    <item>
+      <headword id="idp119561936">barag</headword>
+      <description>[bɑɾɑɡ] Notes: a place where hay or corn was stored, as the hay or corn was removed from below – the top could be slid down. </description>
+    </item>
+    <item>
+      <headword id="idp119563664">blianag</headword>
+      <description>Notes: a green, level patch of ground.</description>
+    </item>
+    <item>
+      <headword id="idp119565176">bogaich</headword>
+      <description>Notes: soft, muddy area.</description>
+    </item>
+    <item>
+      <headword id="idp119566688">boitean</headword>
+      <description>Notes: a bundle of hay or straw carried on the back.</description>
+    </item>
+    <item>
+      <headword id="idp119568200">buailtean</headword>
+      <description>Notes: often used for sùisd.</description>
+    </item>
+    <item>
+      <headword id="idp119569712">calc</headword>
+      <description>Quotation: a’ calcadh a’ bhalla le còineach is creadh. Notes: caulk (packing in between the logs).</description>
+    </item>
+    <item>
+      <headword id="idp119571440">càthadh</headword>
+      <description>Notes: winnowing.</description>
+    </item>
+    <item>
+      <headword id="idp119572952">ceathramh-dubh</headword>
+      <description>Notes: “Blackleg” in cattle. Would have to burn the carcase and bury it.</description>
+    </item>
+    <item>
+      <headword id="idp119574464">cire</headword>
+      <description>Quotation: cire, cire! Notes: call to a sheep.</description>
+    </item>
+    <item>
+      <headword id="idp119576120">cliath</headword>
+      <description>Notes: a panel in a log or board fence.</description>
+    </item>
+    <item>
+      <headword id="idp119577632">coille-dhubh</headword>
+      <description>Notes: area of burnt forest.</description>
+    </item>
+    <item>
+      <headword id="idp119579144">colaidh</headword>
+      <description>[koɫi] Quotation: Tha a’ mhart ann an deagh cholaidh. Notes: for culaidh. She is in fine condition, of good appearance.</description>
+    </item>
+    <item>
+      <headword id="idp119581016">còpadh</headword>
+      <description>Quotation: a’ còpadh a’ chairt. Notes: coping.</description>
+    </item>
+    <item>
+      <headword id="idp119582672">corrag</headword>
+      <description>Quotation: na corragan. Notes: heard this term used for plough handles.</description>
+    </item>
+    <item>
+      <headword id="idp119584328">corrag</headword>
+      <description>Notes: grip on a scythe.</description>
+    </item>
+    <item>
+      <headword id="idp119585840">crann-deilbh</headword>
+      <description>Notes: warping frame.</description>
+    </item>
+    <item>
+      <headword id="idp119587352">crann-speal</headword>
+      <description>Notes: wooden frame of scythe.</description>
+    </item>
+    <item>
+      <headword id="idp119588864">cuilean</headword>
+      <description>Quotation: mathan is cuilean. Notes: bear cub.</description>
+    </item>
+    <item>
+      <headword id="idp119590520">deoghal</headword>
+      <description>Quotation: a’ deoghal a’ bhoin; a’ deoghal sweetie. Notes: suckling or sucking.</description>
+    </item>
+    <item>
+      <headword id="idp119592248">dlòth</headword>
+      <description>Quotation: air a dhlòth. Notes: e.g. grain laid in an orderly swathe after the mower.</description>
+    </item>
+    <item>
+      <headword id="idp119593976">dromanach</headword>
+      <description>Notes: back-band.</description>
+    </item>
+    <item>
+      <headword id="idp119595488">dubhadh</headword>
+      <description>Notes: blight.</description>
+    </item>
+    <item>
+      <headword id="idp119597000">faod</headword>
+      <description>Quotation: math dh’fhaoidte. Notes: perhaps.</description>
+    </item>
+    <item>
+      <headword id="idp119598656">feurslan</headword>
+      <description>[fe:sᵊɫɑ̃nʹ] Notes: warble-fly (in cattle).</description>
+    </item>
+    <item>
+      <headword id="idp119600384">fiachadh</headword>
+      <description>Notes: inviting.</description>
+    </item>
+    <item>
+      <headword id="idp119601896">gamhnach</headword>
+      <description>Notes: farrow cow.</description>
+    </item>
+    <item>
+      <headword id="idp119603408">giort</headword>
+      <description>Notes: belly band.</description>
+    </item>
+    <item>
+      <headword id="idp119604920">glan</headword>
+      <description>Quotation: Na ghlan a’ bhó fhathast. Notes: Did she deposit the placenta.</description>
+    </item>
+    <item>
+      <headword id="idp119606576">gorm-glas</headword>
+      <description>Notes: dapple-grey (horses).</description>
+    </item>
+    <item>
+      <headword id="idp119608088">grìneas</headword>
+      <description>[ɡɾĩ:ṉəs] Notes: potato-pit.</description>
+    </item>
+  </items>
+</fieldworkDocument>

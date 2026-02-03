@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 15 4 14 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="HarrisVarious_HarrisArdveyCMacDonaldmisc" docType="wordlist" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <fieldworker>[anonymous D]</fieldworker>
+  <informant>
+    <nameEnglish>Catriona MacDonald</nameEnglish>
+    <age>[about 80]</age>
+  </informant>
+  <location>Harris, Ardvey</location>
+  <items>
+    <item>
+      <headword id="d0e27">smethag</headword>
+      <description>rope for tying cows to stall.</description>
+    </item>
+    <item>
+      <headword id="d0e36">colmadh</headword>
+      <description>fish oil (i.e. cuddy) mixed with coloured wool.</description>
+    </item>
+    <item>
+      <headword id="d0e45">amhlan</headword>
+      <description>butter, crowdie, cream, generally anything you could spread on bread.</description>
+    </item>
+    <item>
+      <headword id="d0e54">stapag uachdar</headword>
+      <description>trad. regarded as best thing to keep thirst away.</description>
+    </item>
+    <item>
+      <headword id="d0e63">uileachan</headword>
+      <description>cloak.</description>
+    </item>
+    <item>
+      <headword id="d0e72">peitean</headword>
+      <description>waistcoat.</description>
+    </item>
+    <item>
+      <headword id="d0e81">cota biorach</headword>
+    </item>
+    <item>
+      <headword id="d0e87">leibidach</headword>
+      <description>[sic] unfortunate.</description>
+    </item>
+  </items>
+</fieldworkDocument>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 19 7 14 -->
+<!-- ILLUSTRATIONS -->
+<fieldworkDocument docId="AOHenley_MilngavieAMacIomhairmisc" docType="wordlist" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>[1987-88]</date>
+  <fieldworker personId="ohenleya">A. O’Henley</fieldworker>
+  <note>[NOTES: some notes added (most probably by K. D. MacDonald?). See below for details.]</note>
+  <informant>
+    <nameEnglish>Alasdair MacIomhair</nameEnglish>
+  </informant>
+  <location>Milngavie</location>
+  <items>
+    <item>
+      <headword id="idp112493120">brod</headword>
+      <description>a gaff with a hook used to draw out lobsters. This could only be used at spring tide.</description>
+    </item>
+    <item>
+      <headword id="idp112499168">ceann cròpaig</headword>
+      <description>a dish, most likely a starter made with the liver of a fish, preferably that of a cod or ling. This was mixed with onions, oatmeal and seasoned with salt and pepper. The mix was then pushed into the fish’s head which was wrapped in white thread. It was then cooked along with another bit of fish. Could also be used to make soup. [NOTES: ‘cròpaig’ corrected to ‘cropaig’.]</description>
+    </item>
+    <item>
+      <headword id="idp112553672">fiasgain</headword>
+      <description>mussels.</description>
+    </item>
+    <item>
+      <headword id="idp112449200">maorach</headword>
+      <description>limpet.</description>
+    </item>
+    <item>
+      <headword id="idp112474040">bearneach [sic]</headword>
+      <description>limpet.</description>
+    </item>
+    <item>
+      <headword id="idp112546472">faochag</headword>
+      <description>winkle.</description>
+    </item>
+    <item>
+      <headword id="idp112522784">mursiunn [sic]</headword>
+      <description>razor fish.</description>
+    </item>
+    <item>
+      <headword id="idp112428968">conochgag</headword>
+      <description>oyster shell? <illustration src="MilngavieAMacIomhairmiscillust1.jpg" width="250"/> You can hear the echo of the sea if you put it close to your ear.</description>
+    </item>
+    <item>
+      <headword id="idp112544816">leòpag</headword>
+      <description>flounder. [NOTES: corrected to ‘leòbag’.]</description>
+    </item>
+    <item>
+      <headword id="idp112515656">portan</headword>
+      <description>small crab.</description>
+    </item>
+    <item>
+      <headword id="idp112539632">liaghag</headword>
+      <description>seaweed moving to and fro in the sea water.</description>
+    </item>
+    <item>
+      <headword id="idp112494920">creachain</headword>
+      <description>clams.</description>
+    </item>
+    <item>
+      <headword id="idp112511624">duiseagan</headword>
+      <description>entrails of a sheep before they have been cleaned.</description>
+    </item>
+  </items>
+</fieldworkDocument>
+

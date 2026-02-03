@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 6/8/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_BroadfordKFraserslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>03/1970</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <informant>
+    <nameEnglish>Kenny Fraser</nameEnglish>
+  </informant>
+  <location>Skye, Broadford</location>
+  <items>
+    <item>
+      <headword id="idp161864896">moighlean</headword>
+      <description>[m[ɔ̃ĩ]lʹɑṉ] Notes: bundle of hay or fodder given to beasts. “Cuiridh seo sgillinn air a’ mhoighlean” – a saying used when snow came: cattle would need more feeding.</description>
+    </item>
+    <item>
+      <headword id="idp161862448">móine</headword>
+      <description>Quotation: móine spaideadh. Notes: peat cut with an ordinary spade.</description>
+    </item>
+    <item>
+      <headword id="idp161861080">ròsaid</headword>
+      <description>Notes: resin.</description>
+    </item>
+    <item>
+      <headword id="idp161859352">sitig</headword>
+      <description>Notes: rubbish dump. (?)</description>
+    </item>
+    <item>
+      <headword id="idp161858344">peithir</headword>
+      <description>Quotation: ’S ann a tha e coltach ri àite as an tigeadh peithir. Notes: thunderbolt. (Hole in the ground.)</description>
+    </item>
+    <item>
+      <headword id="idp161856688">seangan</headword>
+      <description>Notes: ant. Lewis – “snioghan”.</description>
+    </item>
+    <item>
+      <headword id="idp161855608">sia-ràitheach</headword>
+      <description>Notes: a six-quarter old wedder.</description>
+    </item>
+    <item>
+      <headword id="idp161854096">slamag</headword>
+      <description>Quotation: Dh’òl e slàmag [sic] mhath. Notes: “a good slug”, when drinking.</description>
+    </item>
+    <item>
+      <headword id="idp161852440">sleamhnagan</headword>
+      <description>Notes: sty.</description>
+    </item>
+    <item>
+      <headword id="idp161850784">smior-chailleach</headword>
+      <description>Notes: marrow. “Ràinig e a’ smior-chailleach agam.” – extreme cold.</description>
+    </item>
+    <item>
+      <headword id="idp161849272">spal-dubh</headword>
+      <description>Quotation: Bha spal-dubh air a’ ghualainn. Notes: black round spot on the fleece of sheep. (Ball-dubh?)</description>
+    </item>
+    <item>
+      <headword id="idp161847688">spearrag</headword>
+      <description>Notes: a device to prevent sheep from jumping over dykes and fences – a piece of rope hanging from the sheep’s neck with a stick tied to the end of it. Whenever the sheep tried to jump the stick would hit its legs.</description>
+    </item>
+    <item>
+      <headword id="idp161845744">streangan</headword>
+      <description>Notes: string for mending shoes when treated with “ròsaid”.</description>
+    </item>
+    <item>
+      <headword id="idp161843944">teine-sionnachain</headword>
+      <description>Notes: phosphorescence at sea.</description>
+    </item>
+    <item>
+      <headword id="idp161842432">toirisgil</headword>
+      <description>[t̪ɤɾıʃɡʹəl] Notes: peat cutting iron.</description>
+    </item>
+    <item>
+      <headword id="idp161841136">aingealach</headword>
+      <description>Notes: numbness, e.g. due to cold.</description>
+    </item>
+    <item>
+      <headword id="idp161839192">aisne</headword>
+      <description>[ɑʃṉə] Notes: upright stave of a creel.</description>
+    </item>
+    <item>
+      <headword id="idp161838040">camhanaich</headword>
+      <description>Notes: twilight.</description>
+    </item>
+    <item>
+      <headword id="idp161835592">ciuchar</headword>
+      <description>Quotation: ciuchar uisge. Notes: fine rain, drizzle.</description>
+    </item>
+    <item>
+      <headword id="idp161833072">cliseach</headword>
+      <description>[kliʃɑx] Notes: a rough wooden gate; hinges also made of wood. C. MacLean, Kyleakin says “clisneach” as in Dw.</description>
+    </item>
+    <item>
+      <headword id="idp161832568">còcrach</headword>
+      <description>Notes: string used for making or repairing shoes. Becomes streangan when treated with ròsaid.</description>
+    </item>
+    <item>
+      <headword id="idp161831920">corra-chòsag</headword>
+      <description>Notes: slater.</description>
+    </item>
+    <item>
+      <headword id="idp161829544">corra-shùgain</headword>
+      <description>Notes: rope-making tool.</description>
+    </item>
+    <item>
+      <headword id="idp161828320">dionag</headword>
+      <description>Notes: gimmer.</description>
+    </item>
+    <item>
+      <headword id="idp161826808">dis</headword>
+      <description>Quotation: Tha e dis. Notes: prone to feeling the cold. (“disear” – Lewis)</description>
+    </item>
+    <item>
+      <headword id="idp161824792">dithisd</headword>
+      <description>Notes: two people.</description>
+    </item>
+    <item>
+      <headword id="idp161823568">dorusd</headword>
+      <description>Notes: door.</description>
+    </item>
+    <item>
+      <headword id="idp161822272">eadar-da-lunn</headword>
+      <description>[ɛd̪əɾd̪ɑlɤ̃ũ̜n̪] Notes: floating but half-submerged. Also used of indecision – “Bha mi eadar-da-lunn.”</description>
+    </item>
+    <item>
+      <headword id="idp161935024">èibhiseach</headword>
+      <description>[ɛ:viʃɑx] Quotation: aimsir èibhiseach math. Notes: unusually good.</description>
+    </item>
+  </items>
+</fieldworkDocument>

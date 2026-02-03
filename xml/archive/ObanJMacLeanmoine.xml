@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 24 4 13 -->
+<fieldworkDocument docId="Peat_ObanJMacLeanmoine" docType="questionnaire" subType="Peat">
+  <title>Mòine / Peat-Working</title>
+  <fieldworker>[self]</fieldworker>
+  <note>[NOTES: the informant uses ‘beag’ and ‘bheag’ to show the gender of the noun. They have been replaced with ‘masc.’ and ‘fem.’ respectively.]</note>
+  <informant>
+    <nameEnglish>John MacLean</nameEnglish>
+    <nameGaelic>Iain MacGilleathain </nameGaelic>
+    <age>57</age>
+    <origin>Ratharsaireach [Raasay]</origin>
+  </informant>
+  <location>An t-Oban [Oban]</location>
+  <items>
+    <item><headword id="d0e35" type="heading" level="h1">1. Ag ullachadh na talmhainn airson mòine a bhuain</headword></item>
+	<item>
+	  <headword id="idola201">[note]</headword>
+	  <description>Coal and wood were so much used in Raasay that peat cutting operations were on a very small scale. Used however were these terms.</description>
+	</item>
+    <item>
+      <headword id="d0e49">mòine, G. mònadh</headword>
+      <description>peat.</description>
+    </item>
+    <item>
+      <headword id="d0e58">mòin(t)each ()</headword>
+      <description>[fem.] peat moor.</description>
+    </item>
+    <item>
+      <headword id="d0e67">poll mònadh</headword>
+      <description>a bog.</description>
+    </item>
+    <item>
+      <headword id="d0e76">bota ()</headword>
+      <description>[masc.] an unused bog which had a peat face.</description>
+    </item>
+    <item>
+      <headword id="d0e85">caoran ()</headword>
+      <description>[masc.] a small piece of peat.</description>
+    </item>
+    <item>
+      <headword id="d0e94">fàd (), plural fòid or fàdan</headword>
+      <description>[masc.] a single peat.</description>
+    </item>
+    <item>
+      <headword id="d0e103">rùghan</headword>
+      <description>a small heap of peat.</description>
+    </item>
+    <item>
+      <headword id="d0e112">cruach</headword>
+      <description>a stack.</description>
+    </item>
+    <item>
+      <headword id="d0e121">caibe làir</headword>
+      <description>used for skinning turf. (caibe: short closed E sound in first syllable)</description>
+    </item>
+    <item>
+      <headword id="d0e130">iarunn mònadh</headword>
+      <description>peat cutting implement.</description>
+    </item>
+    <item><headword id="d0e138" type="heading" level="h1">2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</headword></item>
+    <item><headword id="d0e142" type="heading" level="h1">3. A’ tiormachadh na mònach</headword></item>
+    <item><headword id="d0e146" type="heading" level="h1">4. A’ cruachadh na mònach</headword></item>
+    <item><headword id="d0e150" type="heading" level="h1">5. A’ toirt na mònach dhachaigh; an cliabh, etc.</headword></item>
+    <item><headword id="d0e154" type="heading" level="h1">6. Seòrsachan mònach</headword></item>
+    <item><headword id="d0e158" type="heading" level="h1">7. Faclan eile</headword></item>
+  </items>
+</fieldworkDocument>

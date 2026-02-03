@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 23 4 13 -->
+<fieldworkDocument docId="Games_TomnafeannaigAMacEacherngames" docType="questionnaire" subType="RecreationToysGamesContests">
+  <title>Cur-seachadan: Dèideagan, Geamaichean is Farpaisean / Recreation: Toys, Games, Contests</title>
+  <fieldworker>[self]</fieldworker>
+  <informant>
+    <nameEnglish>MacEachern</nameEnglish>
+    <nameGaelic>Alasdair MacEachearna</nameGaelic>
+    <age>[70]</age>
+    <origin>[in the card index: Islay, Ballygrant]</origin>
+  </informant>
+  <location>[Islay, Port Askaig], Tomnafeannaig</location>
+  <items>
+    <item><headword id="d0e32" type="heading" level="h1">1. Toys</headword></item>
+    <item><headword id="d0e36" type="heading" level="h1">2. Swings, see-saws</headword></item>
+    <item>
+      <headword id="d0e41">greallag</headword>
+      <description>swing.</description>
+    </item>
+    <item><headword id="d0e49" type="heading" level="h1">3. Games played indoors</headword></item>
+    <item><headword id="d0e53" type="heading" level="h1">4. Outdoor games not involving a ball or puck</headword></item>
+    <item>
+      <headword id="d0e58">falach fead</headword>
+      <description>hide and seek.</description>
+    </item>
+    <item>
+      <headword id="d0e67">postadh</headword>
+      <description>throwing coins.</description>
+    </item>
+    <item><headword id="d0e75" type="heading" level="h1">5. Ball games</headword></item>
+    <item>
+      <headword id="d0e80">iomain</headword>
+      <description>shinty.</description>
+    </item>
+    <item>
+      <headword id="d0e89">caman</headword>
+    </item>
+    <item>
+      <headword id="d0e95">barr</headword>
+      <description>goal.</description>
+    </item>
+    <item><headword id="d0e103" type="heading" level="h1">6. Athletics</headword></item>
+    <item>
+      <headword id="d0e108">leum fada</headword>
+    </item>
+    <item>
+      <headword id="d0e114">leum ard</headword>
+    </item>
+    <item>
+      <headword id="d0e120">cruinn leum</headword>
+    </item>
+    <item>
+      <headword id="d0e126">car a mhuiltean</headword>
+    </item>
+    <item>
+      <headword id="d0e132">trotan</headword>
+    </item>
+    <item>
+      <headword id="d0e138">ruith an reis</headword>
+    </item>
+    <item><headword id="d0e143" type="heading" level="h1">7. Heavy events</headword></item>
+    <item>
+      <headword id="d0e148">tilgeil an ord</headword>
+    </item>
+    <item>
+      <headword id="d0e154">cur car an cabar</headword>
+    </item>
+    <item><headword id="d0e159" type="heading" level="h1">8. Contests involving pulling or pushing</headword></item>
+    <item><headword id="d0e163" type="heading" level="h1">9. Boxing and wrestling</headword></item>
+    <item>
+      <headword id="d0e168">searsadh</headword>
+      <description>menacing attitude.</description>
+    </item>
+    <item>
+      <headword id="d0e177">carachd, gleachd</headword>
+    </item>
+    <item>
+      <headword id="d0e183">casbachaid</headword>
+    </item>
+    <item><headword id="d0e188" type="heading" level="h1">10. Blows in general</headword></item>
+    <item>
+      <headword id="d0e193">buille trom</headword>
+    </item>
+    <item>
+      <headword id="d0e199">buille aotran</headword>
+    <description>[sic] </description></item>
+    <item>
+      <headword id="d0e205">pailairt</headword>
+      <description>slap.</description>
+    </item>
+    <item>
+      <headword id="d0e214">breab no kichd</headword>
+    </item>
+    <item>
+      <headword id="d0e220">Bhuail e ghluin orm.</headword>
+    </item>
+    <item>
+      <headword id="d0e226">Bhuail e mi le a ceann .</headword>
+    <description>[sic] </description></item>
+    <item><headword id="d0e231" type="heading" level="h1">11. Injury and exhaustion</headword></item>
+    <item>
+      <headword id="d0e236">sgriobadh</headword>
+    </item>
+    <item>
+      <headword id="d0e242">gearradh domhain</headword>
+    </item>
+    <item>
+      <headword id="d0e248">siachadh</headword>
+      <description>sprain.</description>
+    </item>
+    <item>
+      <headword id="d0e257">seidean le laigse</headword>
+    </item>
+    <item>
+      <headword id="d0e263">gun deo</headword>
+    </item>
+    <item>
+      <headword id="d0e269">fallus</headword>
+    </item>
+    <item>
+      <headword id="d0e275">a turamanich le laigse</headword>
+    </item>
+    <item>
+      <headword id="d0e281">Thuit e air an dair.</headword>
+    </item>
+    <item>
+      <headword id="d0e287">na laidhe leath mharbh</headword>
+    </item>
+  </items>
+</fieldworkDocument>

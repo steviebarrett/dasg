@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 5/8/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_BaybleCDunnslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>1980-81</date>
+  <informant>
+    <nameEnglish>Mrs C. Dunn</nameEnglish>
+  </informant>
+  <location>Lewis, Point, Bayble</location>
+  <items>
+    <item>
+      <headword id="idp162090992">Murchadh na Mòintich</headword>
+      <description>Notes: (quoting girl from Uig, Lewis) “daddy-long-legs”.</description>
+    </item>
+    <item>
+      <headword id="idp162092576">nòta</headword>
+      <description>Notes: illustrative anecdote in sermon.</description>
+    </item>
+    <item>
+      <headword id="idp162094088">oileag</headword>
+      <description>Notes: a large stone.</description>
+    </item>
+    <item>
+      <headword id="idp162095600">sainnsearachd</headword>
+      <description>Quotation: Bha iad a’ sainnsearachd ri chéile. Notes: ‘whispering’.</description>
+    </item>
+    <item>
+      <headword id="idp162097256">suathalas</headword>
+      <description>Notes: resemblance.</description>
+    </item>
+  </items>
+</fieldworkDocument>

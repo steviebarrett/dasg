@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 27/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_SydneyForksDJMacMullenslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>05/1971</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <informant>
+    <nameEnglish>D. J. MacMullen</nameEnglish>
+  </informant>
+  <location>Canada, Cape Breton, Sydney Forks</location>
+  <items>
+    <item>
+      <headword id="idp117237824">sgalpan</headword>
+      <description>Notes: chaff.</description>
+    </item>
+    <item>
+      <headword id="idp117239336">spìdeil</headword>
+      <description>[spi:dɑl] Notes: brazen, bold.</description>
+    </item>
+    <item>
+      <headword id="idp117241064">banachdach</headword>
+      <description>Notes: vaccination, smallpox.</description>
+    </item>
+    <item>
+      <headword id="idp117242576">fuireachail</headword>
+      <description>Quotation: “Bithidh mi nam fhuireachail [nɑmu̟ɾɑxɑl] nuair a bhios mi a’ ceannach tape a rithist. Notes: careful.</description>
+    </item>
+  </items>
+</fieldworkDocument>

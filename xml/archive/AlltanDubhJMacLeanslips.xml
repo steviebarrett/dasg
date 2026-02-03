@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 5/8/15 -->
+<!-- illustrations -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_AlltanDubhJMacLeanslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>10/1969</date>
+  <fieldworker>[AJ Smith]</fieldworker>
+  <informant>
+    <nameEnglish>John MacLean (“Shonnie Ruadh”)</nameEnglish>
+    <age>over 80</age>
+  </informant>
+  <location>Ross-shire, Achiltibuie, Alltan Dubh</location>
+  <items>
+    <item>
+      <headword id="idp162095328">ladarna</headword>
+      <description>Notes: cheeky bold.</description>
+    </item>
+    <item>
+      <headword id="idp162092664">làir-mhaide</headword>
+      <description>Notes: sea-saw.</description>
+    </item>
+    <item>
+      <headword id="idp162089712">leóbag-bhreac</headword>
+      <description>Notes: plaice (with red spots).</description>
+    </item>
+    <item>
+      <headword id="idp162085680">leum-droma</headword>
+      <description>Notes: slipped disc. Cured by one born feet first walking on the back of the afflicted person.</description>
+    </item>
+    <item>
+      <headword id="idp162110592">leumrochan</headword>
+      <description>[lʹe:mɾɔxɑṉ] Notes: frog.</description>
+    </item>
+    <item>
+      <headword id="idp162112320">lion-chladaich</headword>
+      <description>Notes: net set out straight from shore. Had 5" mesh for lythe.</description>
+    </item>
+    <item>
+      <headword id="idp162113904">lom</headword>
+      <description>Quotation: Bha am muir lom. Notes: The sea was calm.</description>
+    </item>
+    <item>
+      <headword id="idp162115560">lùdan</headword>
+      <description>Notes: hinge.</description>
+    </item>
+    <item>
+      <headword id="idp162117072">lùdan</headword>
+      <description>Notes: the little finger.</description>
+    </item>
+    <item>
+      <headword id="idp162118584">lugais</headword>
+      <description>Notes: lugworm.</description>
+    </item>
+    <item>
+      <headword id="idp162120096">maide-ri-froigh</headword>
+      <description>[mɑ̃dʹəɾifɾɤi] Notes: a length of wood on the wall in front of the cattle. It ran the length of the stalls. Cattle tied to it.</description>
+    </item>
+    <item>
+      <headword id="idp162121824">meanachdainn</headword>
+      <description>[mɛ̃ṉɑxkĩnʹ] Quotation: Fhuair e [mɛ̃ṉɑxkĩnʹ] leis an fhuachd.</description>
+    </item>
+    <item>
+      <headword id="idp162123840">mèilich</headword>
+      <description>Notes: bleating.</description>
+    </item>
+    <item>
+      <headword id="idp162125352">mi-bhaigheil</headword>
+      <description>Notes: unsympathetic.</description>
+    </item>
+    <item>
+      <headword id="idp162126864">miamhail</headword>
+      <description>[m[ĩɑ̃]vilʹ] Quotation: an cat a miamhail. Notes: mewing.</description>
+    </item>
+    <item>
+      <headword id="idp162129168">móine</headword>
+      <description>Quotation: móine chopach. Notes: spongy peat.</description>
+    </item>
+    <item>
+      <headword id="idp162130824">molach</headword>
+      <description>Quotation: Bha am muir glé mholach. Notes: The sea was very rough.</description>
+    </item>
+    <item>
+      <headword id="idp162132480">muir</headword>
+      <description>Quotation: Bha am muir lom. Notes: The sea was calm.</description>
+    </item>
+    <item>
+      <headword id="idp162134136">muir</headword>
+      <description>Quotation: Bha am muir glé mholach. Notes: The sea was very rough.</description>
+    </item>
+    <item>
+      <headword id="idp162135792">mula-mhògag</headword>
+      <description>Notes: toad.</description>
+    </item>
+    <item>
+      <headword id="idp162137304">raopair</headword>
+      <description>[rɤ:pɑɾ] Notes: heavy piece of lead attached to a string. Had a hook perhaps 2" from lead with or without bait. Pulled up and down. Fish supposedly attracted by the lead.</description>
+    </item>
+    <item>
+      <headword id="idp162139032">raopaireachd</headword>
+      <description>[rɤ:pɑɾɑxk] Quotation: a’ raopaireachd. Notes: working with the “raopair” q.v.</description>
+    </item>
+    <item>
+      <headword id="idp162140904">reubaltach</headword>
+      <description>Notes: troublemaker.</description>
+    </item>
+    <item>
+      <headword id="idp162142416">rionnag</headword>
+      <description>[rũ̜n̪ɑɡ] Quotation: rionnag thuiteamach. Notes: shooting star.</description>
+    </item>
+    <item>
+      <headword id="idp162144288">ruamhair</headword>
+      <description>Quotation: a’ ruamhair le spaid. Notes: turning with a spade.</description>
+    </item>
+    <item>
+      <headword id="idp162145944">rungas</headword>
+      <description>Notes: rung of a ladder.</description>
+    </item>
+    <item>
+      <headword id="idp162147456">iasg</headword>
+      <description>Quotation: an iasg gheal. Notes: the salmon was sometimes referred to as this.</description>
+    </item>
+    <item>
+      <headword id="idp162149112">iasg</headword>
+      <description>Quotation: an iasg gheal. Notes: the salmon was referred to as this.</description>
+    </item>
+    <item>
+      <headword id="idp162150768">peilear</headword>
+      <description>Notes: bullet.</description>
+    </item>
+    <item>
+      <headword id="idp162152280">planc</headword>
+      <description>Quotation: am planc abhras. Notes: the plank nearest the keel in a boat.</description>
+    </item>
+    <item>
+      <headword id="idp162153936">sanndag</headword>
+      <description>[s[ɑ̃ũ̜]n̪d̪ɑɡ] Notes: sand-eel.</description>
+    </item>
+    <item>
+      <headword id="idp162156096">saoghal</headword>
+      <description>Quotation: Ann an ceann saoghal. Notes: Long, long ago.</description>
+    </item>
+    <item>
+      <headword id="idp162157752">sgeth-loisgeann</headword>
+      <description>[sɡɛɫoʃɡʹəṉ] Notes: tadpole.</description>
+    </item>
+    <item>
+      <headword id="idp162159480">sgramhail</headword>
+      <description>[sɡɾ[ɑu̜]ilʹ] Notes: This piece of wood about a foot long used to dig for [mũ̟ʃɡʹɑṉ]. Iron was not allowed as it might repel them.</description>
+    </item>
+    <item>
+      <headword id="idp162162576">sgròbag</headword>
+      <description>Quotation: An òrdag, a’ sgròbag, Mairi fada, Mac an Aba, frìdeag. Notes: the index finger.</description>
+    </item>
+    <item>
+      <headword id="idp162164232">siablach</headword>
+      <description>[ʃiɤbɫɑx] Notes: rubber eel trailed behind the boat.</description>
+    </item>
+    <item>
+      <headword id="idp162165960">sioman-ruadh</headword>
+      <description>Notes: hemp rope.</description>
+    </item>
+    <item>
+      <headword id="idp162167472">slacan</headword>
+      <description>Notes: Wooden board fixed to the horns of Highland cattle to prevent them from fighting. Fixed over the forehead. When they started to run, the board would start flapping, making the animal stop.</description>
+    </item>
+    <item>
+      <headword id="idp162168984">snasaich</headword>
+      <description>Quotation: Shnasaich e an dà mhaide ri a chéile. Notes: two pieces of wood morticed together.</description>
+    </item>
+    <item>
+      <headword id="idp162170640">snòt</headword>
+      <description>[sṉɔ:t̪] Notes: </description>
+    </item>
+    <item>
+      <headword id="idp162172368">stàrn</headword>
+      <description>Notes: rough grass growing in lochs and used for thatching.</description>
+    </item>
+    <item>
+      <headword id="idp162173952">stir</headword>
+      <description>[ʃtʹiɾ] Notes: barb, as in fish such as gunnard, dogfish, etc. pl. [ʃtʹiɾəṉ].</description>
+    </item>
+    <item>
+      <headword id="idp162175968">streathan</headword>
+      <description>[st̪ɾɛhɑ̃ṉ] Quotation: Cha robh ann ach streathan. Notes: a very thin, weak thing, without substance.</description>
+    </item>
+    <item>
+      <headword id="idp162177840">strèip</headword>
+      <description>Quotation: Tha na balaich a strèip ri cheile. Notes: mock-fighting.</description>
+    </item>
+    <item>
+      <headword id="idp162179496">tadhal</headword>
+      <description>[t̪ɤɣəɫ] Quotation: Chuir e tadhal oirnn. Notes: goal in shinty.</description>
+    </item>
+    <item>
+      <headword id="idp162181368">tionndaidh</headword>
+      <description>Quotation: a’ tionntan (sic) [tʹ[ɤu]t̪ɑ̃ṉ]. Notes: turning.</description>
+    </item>
+    <item>
+      <headword id="idp162183672">toroisgil</headword>
+      <description>[t̪ɔɾɔʃɡʹəl] Notes: peat-cutting iron.</description>
+    </item>
+    <item>
+      <headword id="idp162185400">tòrr</headword>
+      <description>Quotation: Tha e a deanamh tòrr dhan an tudan sin. Notes: tòrr – a badly made corn-rick.</description>
+    </item>
+    <item>
+      <headword id="idp162187056">tòtam</headword>
+      <description>[ṯɔ:ṯəm] Notes: spinning top.</description>
+    </item>
+    <item>
+      <headword id="idp162188784">truailleabach</headword>
+      <description>[t̪ɾu̟ɤlʹəbɑx] Quotation: Chaneil ann dheth ach truailleabach duine.</description>
+    </item>
+    <item>
+      <headword id="idp162190512">tudan</headword>
+      <description>[t̪u̟d̪ɑ̃ṉ] Notes: the usual word for a cornrick on the field.</description>
+    </item>
+    <item>
+      <headword id="idp162192240">tuiteamach</headword>
+      <description>Quotation: rionnag thuiteamach. Notes: shooting star.</description>
+    </item>
+    <item>
+      <headword id="idp162193896">abhras</headword>
+      <description>Quotation: am planc abhras. Notes: the plank nearest the keel in a boat.</description>
+    </item>
+    <item>
+      <headword id="idp162195552">acfhuinn-mhara</headword>
+      <description>[ɔkw̃nʹvɑɾə] Notes: fishing gear.</description>
+    </item>
+    <item>
+      <headword id="idp162197280">alp</headword>
+      <description>Quotation: air an [ɑɫpəɡ] ’na cheile. [ɣɑɫpiɡʹ] e ri a cheile iad. Notes: morticed together, joined together as two pieces of wood.</description>
+    </item>
+    <item>
+      <headword id="idp162199512">bliong</headword>
+      <description>[blũ̟ŋɡ] Notes: a large lythe.</description>
+    </item>
+    <item>
+      <headword id="idp162201240">bodag</headword>
+      <description>[bod̪ɑɡ] Notes: </description>
+    </item>
+    <item>
+      <headword id="idp162202968">branagach</headword>
+      <description>[bɾɑ̃ṉɑɡɑx] Quotation: Balach piullach agus loth bhranagach cha chòir tàir a chuir air gin dhe’n dithis aca.</description>
+    </item>
+    <item>
+      <headword id="idp162204696">bratainn</headword>
+      <description>[bɾɑt̪ĩnʹ] Notes: for Breatainn.</description>
+    </item>
+    <item>
+      <headword id="idp162206424">caibe</headword>
+      <description>Quotation: caibe-làir. Notes: spade used for cutting “sgrathan”.</description>
+    </item>
+    <item>
+      <headword id="idp162208080">caibe</headword>
+      <description>Notes: cutting iron on a cas-chrom.</description>
+    </item>
+    <item>
+      <headword id="idp162209592">càinear</headword>
+      <description>[kɑ̃:nʹɑɾ] Notes: term used for a salmon fisherman. (Sugg. it came from “canner”.)</description>
+    </item>
+    <item>
+      <headword id="idp162211320">camag</headword>
+      <description>Notes: shinty stick.</description>
+    </item>
+    <item>
+      <headword id="idp162212832">càrnag</headword>
+      <description>Notes: small eel caught in streams and used for bait.</description>
+    </item>
+    <item>
+      <headword id="idp119549664">ceann</headword>
+      <description>Quotation: ann an ceann saoghal. Notes: Long, long ago.</description>
+    </item>
+    <item>
+      <headword id="idp119551320">cìobair</headword>
+      <description>Quotation: Tha ’n cìobair as na blocaichean. Notes: heard on board a boat when the wind whistled in the rigging.</description>
+    </item>
+    <item>
+      <headword id="idp119552976">còineach</headword>
+      <description>[ko:nʹɑx] Notes: moss used for plugging holes in house walls.</description>
+    </item>
+    <item>
+      <headword id="idp119554704">copach</headword>
+      <description>Quotation: móine chopach. Notes: spongy peat.</description>
+    </item>
+    <item>
+      <headword id="idp119556360">crann</headword>
+      <description>Quotation: Bha iad a’ cur cruinn air an t-iasg. Notes: casting lots, for sharing fish.</description>
+    </item>
+    <item>
+      <headword id="idp119558016">creathach</headword>
+      <description>Quotation: crocan creathaich. Notes: earthen vessel.</description>
+    </item>
+    <item>
+      <headword id="idp119559672">cròcag</headword>
+      <description>Notes: “cleat” on which creels were hung on horses.</description>
+    </item>
+    <item>
+      <headword id="idp119561184">cròcag</headword>
+      <description>Notes: the curved part of a walking stick.</description>
+    </item>
+    <item>
+      <headword id="idp119562696">crocan</headword>
+      <description>Quotation: crocan creathaich. Notes: earthen vessel.</description>
+    </item>
+    <item>
+      <headword id="idp119564352">cródan</headword>
+      <description>[kɾo:d̪ɑṉ] Notes: gurnard.</description>
+    </item>
+    <item>
+      <headword id="idp119566080">crogas</headword>
+      <description>[kɾɔɡəs] Notes: a cork.</description>
+    </item>
+    <item>
+      <headword id="idp119567808">cuagach</headword>
+      <description>Quotation: Tha an rathad uamhasach cuagach. Notes: winding.</description>
+    </item>
+    <item>
+      <headword id="idp119569464">cuir</headword>
+      <description>Quotation: Bha iad a cur cruinn air an t-iasg. Notes: casting lots, for sharing fish.</description>
+    </item>
+    <item>
+      <headword id="idp119571120">cuir-laoigh</headword>
+      <description>Quotation: Tha cuir-laoigh air a bhó or Tha toiseach cuir-laoigh air a bhó. Notes: The cow is showing, or beginning to show, signs of calving.</description>
+    </item>
+    <item>
+      <headword id="idp119572776">dinn</headword>
+      <description>Quotation: Bha e a’ dinneadh an amhaich aige. Notes: press.</description>
+    </item>
+    <item>
+      <headword id="idp119574432">dòcha</headword>
+      <description>Quotation: ’S e sin bu dàch [d̪ɑ:x].</description>
+    </item>
+    <item>
+      <headword id="idp119576160">doirbh</headword>
+      <description>[d̪ɤɾɤv] Notes: for fishing. </description>
+    </item>
+    <item>
+      <headword id="idp119577888">doire</headword>
+      <description>[d̪ɤɾə] Notes: a large wart growing on cattle (also found on horses). Removed by tying a silk thread round its base.</description>
+    </item>
+    <item>
+      <headword id="idp119579616">donnag</headword>
+      <description>Quotation: donnag langa. Notes: a small young ling found inshore in the “tràigh”.</description>
+    </item>
+    <item>
+      <headword id="idp119581344">ealamh</headword>
+      <description>Quotation: ealamh beag [jɑɫəbeɡ]. Notes: a small portion, amount.</description>
+    </item>
+    <item>
+      <headword id="idp119583216">falmaire</headword>
+      <description>[fɑɫɑməðə] Notes: hake.</description>
+    </item>
+    <item>
+      <headword id="idp119584944">frìdeag</headword>
+      <description>[fɾı:dʹɑɡ] Quotation: An òrdag, a’ sgròbag, Mairi fada, Mac an Aba, frìdeag. Notes: the little finger.</description>
+    </item>
+    <item>
+      <headword id="idp119586816">frith-ainm</headword>
+      <description>Notes: nickname.</description>
+    </item>
+    <item>
+      <headword id="idp119588328">fùdar-cluais</headword>
+      <description>[fu̟:d̪əɾkɫu̜ɤʃ] Notes: a small amount of powder which was put in through a nipple in the side of the gun. This was placed between the cap and the powder in the barrel to make sure that the powder ignited.</description>
+    </item>
+    <item>
+      <headword id="idp119590056">geadag</headword>
+      <description>[ɡʹɛd̪ɑɡ] Notes: grilse.</description>
+    </item>
+    <item>
+      <headword id="idp119591784">gleathadh (sic)</headword>
+      <description>Quotation: a gleathadh [ɡlɛhəɡ]. Notes: wrestling. (or gleac?)</description>
+    </item>
+    <item>
+      <headword id="idp119593656">glùinean</headword>
+      <description>Notes: garter.</description>
+    </item>
+    <item>
+      <headword id="idp119595168">greagadaich</headword>
+      <description>[ɡɾɛɡəd̪iç] Quotation: Shìn am bàta air greagadaich. Notes: creaking.</description>
+    </item>
+    <item>
+      <headword id="idp119597040">greigh</headword>
+      <description>[ɡɾ[ɤi]] Notes: herd, e.g. of deer.</description>
+    </item>
+    <item>
+      <headword id="idp119599200">gunna-crip</headword>
+      <description>Notes: toy made from bamboo rod cut in half length-wise. Paper pellet at one end, stick lying in the groove, jutting out at the other end. Clapped in with the hand, pellet ejected.</description>
+    </item>
+  </items>
+</fieldworkDocument>

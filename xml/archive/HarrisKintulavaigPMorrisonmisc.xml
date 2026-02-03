@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 23 4 14 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="HarrisVarious_HarrisKintulavaigPMorrisonmisc" docType="wordlist" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <fieldworker>[anonymous D]</fieldworker>
+  <informant>
+    <nameEnglish>Peggy Morrison</nameEnglish>
+    <age>90</age>
+  </informant>
+  <location>[Harris], Leverburgh, Kintulavaig</location>
+  <items>
+    <item><headword id="d0e26" type="heading" level="h1">An t-suil</headword></item>
+    <item>
+      <headword id="d0e31">rasg</headword>
+      <description>eyelash.</description>
+    </item>
+    <item>
+      <headword id="d0e40">sleannagan</headword>
+      <description>stye.</description>
+    </item>
+    <item>
+      <headword id="d0e49">fiar shùileach</headword>
+      <description>person with a stye.</description>
+    </item>
+    <item>
+      <headword id="d0e58">fradharc</headword>
+      <description>vision.</description>
+    </item>
+    <item>
+      <headword id="d0e67">leirsginn</headword>
+      <description>[sic] visibility.</description>
+    </item>
+    <item>
+      <headword id="d0e76">leirsinneach</headword>
+      <description>“Chaneil [sic] e leirsinneach.”– it  is not distinct.</description>
+    </item>
+    <item>
+      <headword id="d0e85">[mùigean]</headword>
+      <description>“Rinn thu fo na mùigean e.” – “Rinn thu gun fhiosad dha e.”</description>
+    </item>
+    <item>
+      <headword id="d0e94">drèun</headword>
+      <description>a funny face.</description>
+    </item>
+    <item>
+      <headword id="d0e103">[suarach]</headword>
+      <description>“Thug e suil shuarach orm.” – he gave me a disgusting glance.</description>
+    </item>
+    <item>
+      <headword id="d0e112">sealladh</headword>
+      <description>glance.</description>
+    </item>
+    <item>
+      <headword id="d0e121">sùil cham</headword>
+      <description>squint eye.</description>
+    </item>
+    <item>
+      <headword id="d0e130">duine cam</headword>
+      <description>a one eyed man.</description>
+    </item>
+    <item>
+      <headword id="d0e139">an droch shùil</headword>
+      <description>the evil eye.</description>
+    </item>
+    <item>
+      <headword id="d0e148">buistreach</headword>
+      <description>witchcraft.</description>
+    </item>
+    <item><headword id="d0e156" type="heading" level="h1">Am beul</headword></item>
+    <item>
+      <headword id="d0e161">cairean</headword>
+      <description>palate.</description>
+    </item>
+    <item>
+      <headword id="d0e170">bioragan</headword>
+      <description>wisdom teeth.</description>
+    </item>
+    <item>
+      <headword id="d0e179">an daorach</headword>
+      <description>the “drink”. “Tha e fo’n daoraich.”</description>
+    </item>
+    <item>
+      <headword id="d0e188">[glamhadh]</headword>
+      <description>“Lig an cù glamhadh thige.” – “Lig e leum thige”.</description>
+    </item>
+    <item>
+      <headword id="d0e197">a’ saileagan</headword>
+      <description>water brash, a baby putting up bitter water.</description>
+    </item>
+    <item>
+      <headword id="d0e206">a’ cireasail</headword>
+      <description>smiling, giggly – ref. to a baby.</description>
+    </item>
+    <item>
+      <headword id="d0e215">a’ sanais</headword>
+      <description>whispering into ear.</description>
+    </item>
+    <item>
+      <headword id="d0e224">a’ saiseagraich</headword>
+      <description>two people whispering.</description>
+    </item>
+    <item>
+      <headword id="d0e233">glug na amhaich</headword>
+      <description>sound made before someone cries.</description>
+    </item>
+    <item>
+      <headword id="d0e242">sgal (n)</headword>
+      <description>a shout or yell.</description>
+    </item>
+    <item>
+      <headword id="d0e251">duine meabach</headword>
+      <description>deceitful man.</description>
+    </item>
+    <item><headword id="d0e259" type="heading" level="h1">A chluas</headword></item>
+    <item>
+      <headword id="d0e264">smuig</headword>
+      <description>nose of an animal.</description>
+    </item>
+    <item>
+      <headword id="d0e273">torclosach</headword>
+      <description>man with big ears.</description>
+    </item>
+    <item>
+      <headword id="d0e282">[cluas]</headword>
+      <description>“Thionndaidh e cluas bhodhar ruim [sic]”</description>
+    </item>
+    <item>
+      <headword id="d0e291">a “farclais”</headword>
+      <description>eavesdropping.</description>
+    </item>
+    <item>
+      <headword id="d0e300">“cho bodhar ri creag”</headword>
+    </item>
+    <item>
+      <headword id="d0e306">“cho bodhar ris an talamh”</headword>
+    </item>
+    <item><headword id="d0e311" type="heading" level="h1">Fuaimean</headword></item>
+    <item>
+      <headword id="d0e316">a’ gladhraich</headword>
+      <description>shrill yelling.</description>
+    </item>
+    <item>
+      <headword id="d0e325">ròthanaich na mara</headword>
+      <description>sound of sea carried on a still night.</description>
+    </item>
+    <item>
+      <headword id="d0e334">a tartraich</headword>
+      <description>a repetitive sound, like the breaking of [?].</description>
+    </item>
+    <item>
+      <headword id="d0e343">duine a flodanaich</headword>
+      <description>paddling.</description>
+    </item>
+    <item>
+      <headword id="d0e352">ceilearadh nan eòin</headword>
+    </item>
+    <item>
+      <headword id="d0e358">nuallaich nam bà</headword>
+    </item>
+    <item>
+      <headword id="d0e364">sitrich nan eich</headword>
+    </item>
+    <item>
+      <headword id="d0e370">gragail nan cearc</headword>
+    </item>
+    <item>
+      <headword id="d0e376">dranndan</headword>
+      <description>a dog’s growling.</description>
+    </item>
+    <item>
+      <headword id="d0e385">a’ dunalaich</headword>
+      <description>whimpering of a dog.</description>
+    </item>
+    <item>
+      <headword id="d0e394">guth cròseanta</headword>
+      <description>a lilting voice.</description>
+    </item>
+    <item>
+      <headword id="d0e403">a’ tabag</headword>
+      <description>swearing, exclaiming.</description>
+    </item>
+    <item>
+      <headword id="d0e412">sturaichd</headword>
+      <description>scowl.</description>
+    </item>
+    <item>
+      <headword id="d0e421">deiseag</headword>
+      <description>a light smack.</description>
+    </item>
+    <item>
+      <headword id="d0e430">[spìgeil]</headword>
+      <description>“Tha sibh fhèin cho spìgeil.” – “Tha sibh cho math”.</description>
+    </item>
+    <item>
+      <headword id="d0e439">plocan</headword>
+      <description>potato masher.</description>
+    </item>
+    <item>
+      <headword id="d0e448">òdanan</headword>
+      <description>fingers.</description>
+    </item>
+    <item>
+      <headword id="d0e457">ribhanaich</headword>
+      <description>the peeling of skin beside the nail.</description>
+    </item>
+    <item>
+      <headword id="d0e466">dàsannach</headword>
+      <description>determined. “Chaidh e sàs ann gu dasannach [sic].”</description>
+    </item>
+    <item>
+      <headword id="d0e475">bathathais</headword>
+      <description>forehead, ‘maladh’.</description>
+    </item>
+    <item>
+      <headword id="d0e484">[bais]</headword>
+      <description>“Nach ann aige bha a bhais.”</description>
+    </item>
+    <item><headword id="d0e492" type="heading" level="h1">The tweed</headword></item>
+    <item>
+      <headword id="d0e497">preas dhath</headword>
+      <description>preas mhòr le tri casan.</description>
+    </item>
+    <item>
+      <headword id="d0e506">clè luadh</headword>
+      <description>board for waulking.</description>
+    </item>
+    <item>
+      <headword id="d0e515">slacan</headword>
+      <description>pios maide trom airson a chlò a bhualladh.</description>
+    </item>
+    <item>
+      <headword id="d0e524">rollagan</headword>
+      <description>long threads produced after carding.</description>
+    </item>
+    <item>
+      <headword id="d0e533">muilean</headword>
+      <description>cnap rollagan.</description>
+    </item>
+    <item>
+      <headword id="d0e542">a sniomh</headword>
+      <description>spinning.</description>
+    </item>
+    <item>
+      <headword id="d0e551">crois iarna</headword>
+      <description>used for making hanks.</description>
+    </item>
+    <item>
+      <headword id="d0e560">liathreadh</headword>
+      <description>used for making balls (cearlean) from hanks.</description>
+    </item>
+    <item>
+      <headword id="d0e569">rèm</headword>
+      <description>run [?] of spinning wheel.</description>
+    </item>
+    <item>
+      <headword id="d0e578">cur is dlùth</headword>
+      <description>warp and weft.</description>
+    </item>
+    <item>
+      <headword id="d0e587">inneogh</headword>
+      <description>shortage of wool (for that much which is short).</description>
+    </item>
+    <item>
+      <headword id="d0e596">guirman</headword>
+      <description>indigo.</description>
+    </item>
+    <item>
+      <headword id="d0e605">maighstir</headword>
+      <description>urine for washing.</description>
+    </item>
+    <item>
+      <headword id="d0e614">sealbhag</headword>
+      <description>sorrel, for darkening colours.</description>
+    </item>
+    <item>
+      <headword id="d0e623">beartachadh a chlo</headword>
+      <description>pulling wool on loom.</description>
+    </item>
+    <item>
+      <headword id="d0e632">alt</headword>
+      <description>way of arranging threads. “A cuir [sic] an t-alt air.”</description>
+    </item>
+    <item>
+      <headword id="d0e641">biurna</headword>
+      <description>reel.</description>
+    </item>
+    <item>
+      <headword id="d0e650">spèicean</headword>
+      <description>spokes of spinning wheel.</description>
+    </item>
+    <item>
+      <headword id="d0e659">siol-coise</headword>
+      <description>peddle.</description>
+    </item>
+    <item>
+      <headword id="d0e668">slibhag</headword>
+      <description>attached to peddle to work wheel.</description>
+    </item>
+    <item>
+      <headword id="d0e677">bann beag</headword>
+    </item>
+    <item>
+      <headword id="d0e683">bann mor</headword>
+    </item>
+    <item>
+      <headword id="d0e689">sèicle</headword>
+      <description>where reel goes on the spinning wheel, horseshoe shaped.</description>
+    </item>
+    <item>
+      <headword id="d0e698">iuchair na cuibhle</headword>
+      <description>knob at opposite end to wheel.</description>
+    </item>
+    <item>
+      <headword id="d0e707">ball is corran</headword>
+      <description>herringbone pattern.</description>
+    </item>
+    <item>
+      <headword id="d0e716">suil-eoin</headword>
+      <description>bird’s eye pattern.</description>
+    </item>
+    <item>
+      <headword id="d0e725">eagan</headword>
+      <description>cuts in wool.</description>
+    </item>
+    <item><headword id="d0e733" type="heading" level="h1">Fuine is biadh</headword></item>
+    <item>
+      <headword id="d0e738">clàr fuine</headword>
+      <description>baking board.</description>
+    </item>
+    <item>
+      <headword id="d0e747">follaig</headword>
+      <description>flour sprinkled on board to prevent dough sticking.</description>
+    </item>
+    <item>
+      <headword id="d0e756">blonaig</headword>
+      <description>fat found in fish.</description>
+    </item>
+    <item>
+      <headword id="d0e765">lì</headword>
+      <description>fat that settles on surface of soup after cooking with meat.</description>
+    </item>
+    <item>
+      <headword id="d0e774">slibhag</headword>
+      <description>stick for mixing porridge.</description>
+    </item>
+    <item>
+      <headword id="d0e783">seiplis</headword>
+      <description>soapy water.</description>
+    </item>
+    <item>
+      <headword id="d0e792">taois</headword>
+      <description>dough.</description>
+    </item>
+    <item>
+      <headword id="d0e801">currachd a righ</headword>
+      <description>plated, patterned rounded part of sheep’s stomach used for maragan.</description>
+    </item>
+    <item>
+      <headword id="d0e810">lua</headword>
+      <description>long thin intestines.</description>
+    </item>
+    <item>
+      <headword id="d0e819">maodal</headword>
+      <description>large stomach.</description>
+    </item>
+    <item>
+      <headword id="d0e828">slug an amadain</headword>
+      <description>gullet.</description>
+    </item>
+    <item>
+      <headword id="d0e837">aotroman</headword>
+      <description>bladder.</description>
+    </item>
+    <item>
+      <headword id="d0e846">donnglas</headword>
+      <description>bile duct attached to liver.</description>
+    </item>
+    <item>
+      <headword id="d0e855">snaidhle</headword>
+      <description>as lua [q.v.].</description>
+    </item>
+    <item>
+      <headword id="d0e864">sgamhan</headword>
+      <description>lungs.</description>
+    </item>
+    <item>
+      <headword id="d0e873">airnean</headword>
+      <description>kidneys.</description>
+    </item>
+    <item>
+      <headword id="d0e882">duagan</headword>
+      <description>[?] kidneys.</description>
+    </item>
+    <item>
+      <headword id="d0e891">loinneachan</headword>
+      <description>fat round kidneys.</description>
+    </item>
+    <item>
+      <headword id="d0e900">aran cridhe</headword>
+      <description>gingerbread.</description>
+    </item>
+    <item>
+      <headword id="d0e909">bonnach greideil</headword>
+      <description>pancake.</description>
+    </item>
+    <item>
+      <headword id="d0e918">maide buntata</headword>
+      <description>potato masher.</description>
+    </item>
+    <item>
+      <headword id="d0e927">lodair</headword>
+      <description>ladle.</description>
+    </item>
+    <item>
+      <headword id="d0e936">sioltachan</headword>
+      <description>sieve.</description>
+    </item>
+    <item>
+      <headword id="d0e945">rollagan</headword>
+      <description>rolling pin.</description>
+    </item>
+    <item>
+      <headword id="d0e954">sguman</headword>
+      <description>scoop for lifting cream of milk, clam shell.</description>
+    </item>
+  </items>
+</fieldworkDocument>

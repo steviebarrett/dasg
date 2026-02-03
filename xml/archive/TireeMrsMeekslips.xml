@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 27/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_TireeMrsMeekslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>10/1970</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <informant>
+    <nameEnglish>Mrs Meek</nameEnglish>
+    <origin>Skye</origin>
+  </informant>
+  <location>Tiree</location>
+  <items>
+    <item>
+      <headword id="idp115459872">pràiseach</headword>
+      <description>Notes: an uncouth person.</description>
+    </item>
+    <item>
+      <headword id="idp115490904">sgreat</headword>
+      <description>[sɡɾɛt̪] Quotation: a’ gabhail sgreat air rud. Notes: loathing, disgust. (Skye.)</description>
+    </item>
+  </items>
+</fieldworkDocument>

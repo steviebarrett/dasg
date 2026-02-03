@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 20 04 13 -->
+<fieldworkDocument docId="HarrisMacLennan_HarrisGobhaigMacLennaneathar" docType="questionnaire" subType="Eathraichean">
+  <title>Eathraichean / Boats</title>
+  <fieldworker>[self?]</fieldworker>
+  <informant>
+    <nameEnglish>A. MacLennan</nameEnglish>
+    <nameGaelic>A. MacGill Fhinnein</nameGaelic>
+    <age>19</age>
+  </informant>
+  <location>Na Hearadh, Gòbhaig [Harris, Gobhaig]</location>
+  <!-- ILLUSTRATIONS -->
+  <items>
+    <item><headword id="d0e31" type="heading" level="h1">1. Ainmean air seòrsachan eathraichean</headword></item>
+    <item>
+      <headword id="d0e36">geola</headword>
+      <description>(transom stern), eathar beag.</description>
+    </item>
+    <item>
+      <headword id="d0e45">sgoth</headword>
+      <description>eathar de’n t-seorsa a tha air an togail ann an Nis gu h-araidh, gu math leathann le clagan deiridh.</description>
+    </item>
+    <item>
+      <headword id="d0e54">arcach</headword>
+      <description>an da chlagan cas, a steach foidhpe, tòrr uisge oirre.</description>
+    </item>
+    <item>
+      <headword id="d0e63">leiteach</headword>
+      <description>seachd troighean deug, da chlagan deireach, air a togail airson seol a chur rithe.</description>
+    </item>
+    <item>
+      <headword id="d0e72">coble lochlannach</headword>
+      <description><illustration src="HarrisGobhaigMacLennaneatharillust1.jpg" width="400"/></description>
+    </item>
+    <item>
+      <headword id="d0e81">sula</headword>
+      <description>seachad air fichead troigh. 
+        <illustration src="HarrisGobhaigMacLennaneatharillust2.jpg" width="300"/>
+      </description>
+    </item>
+    <item><headword id="d0e91" type="heading" level="h1">2. Ainm gach pàirt dhen eathar eadar an druim ’s am beul, agus na broinn</headword></item>
+    <item>
+      <headword id="d0e96">clagann toisich ’s deiridh</headword>
+      <description>stem and stern.</description>
+    </item>
+    <item>
+      <headword id="d0e105">bior snaois</headword>
+      <description>na tha mach air a beul de’n chlagann.</description>
+    </item>
+    <item>
+      <headword id="d0e114">cuairt</headword>
+      <description>maide eadar a dà bheul.</description>
+    </item>
+    <item>
+      <headword id="d0e123">oxter</headword>
+      <description>fuail buird ris a chlagan, cuta de fhiodh.</description>
+    </item>
+    <item>
+      <headword id="d0e132">gluin</headword>
+      <description>a ceangal a chlagainn ris an druim. Cumadh: 
+        <illustration src="HarrisGobhaigMacLennaneatharillust3.jpg" width="50"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e143">beul</headword>
+      <description>an oir àrd.</description>
+    </item>
+    <item>
+      <headword id="d0e152">timcheal ard</headword>
+      <description>am bord as àirde.</description>
+    </item>
+    <item>
+      <headword id="d0e161">cluasag</headword>
+      <description>buird gualain gun a chiad snaim.</description>
+    </item>
+    <item>
+      <headword id="d0e170">meanbh</headword>
+      <description>an dàra bòrd bho’n druim.</description>
+    </item>
+    <item>
+      <headword id="d0e179">am fliuch bhord</headword>
+      <description>am bord ris an druim.</description>
+    </item>
+    <item>
+      <headword id="d0e188">fearra dhruim</headword>
+      <description>(false keel) nuair a chnamhadh am fear eile.</description>
+    </item>
+    <item>
+      <headword id="d0e197">maide bulg</headword>
+      <description>(fender) air a meadhon.</description>
+    </item>
+    <item>
+      <headword id="d0e206">saoil</headword>
+      <description>(bung).</description>
+    </item>
+    <item>
+      <headword id="d0e215">aparan</headword>
+      <description>bord, na broinn air uachdar an droma.</description>
+    </item>
+    <item>
+      <headword id="d0e224">rangan</headword>
+      <description>asnaichean an eathair.</description>
+    </item>
+    <item>
+      <headword id="d0e233">rangas</headword>
+      <description>maide air uachdar na rangan, air a bheil na tobhtaichean ceangailte.</description>
+    </item>
+    <item>
+      <headword id="d0e242">ceannachraidh</headword>
+      <description>a ceangal nan tobhtaichean ris na buird.</description>
+    </item>
+    <item>
+      <headword id="d0e251">bac(an)</headword>
+      <description>(rowlocks).</description>
+    </item>
+    <item>
+      <headword id="d0e260">sòla</headword>
+      <description>maide urlair na toiseach ’sna deireadh.</description>
+    </item>
+    <item>
+      <headword id="d0e269">urlair</headword>
+      <description>maide air a meadhon, eadar na sòlaichean.</description>
+    </item>
+    <item>
+      <headword id="d0e278">tobhta a’chruinn</headword>
+      <description>a chiod tobhta agus glaim cuirte [?] airson crann.</description>
+    </item>
+    <item>
+      <headword id="d0e287">brog chruinn</headword>
+      <description>ris an druim airson sàil a chruinn.</description>
+    </item>
+    <item>
+      <headword id="d0e296">tobhta brollaich</headword>
+      <description>an dara tobhta.</description>
+    </item>
+    <item>
+      <headword id="d0e305">tobhta mheadhoin</headword>
+      <description>an treas tè.</description>
+    </item>
+    <item>
+      <headword id="d0e314">an scuit</headword>
+      <description>an tè dheiridh.</description>
+    </item>
+    <item>
+      <headword id="d0e323">maothan</headword>
+      <description>far a bheil ceann da bhord a dol ri cheille [sic].</description>
+    </item>
+    <item>
+      <headword id="d0e332">calcas</headword>
+      <description>cop cloimheadh agus tearr ann am maothan.</description>
+    </item>
+    <item>
+      <headword id="d0e341">an t-sail</headword>
+      <description>far a bheil an clagan deiridh san druim a coinneachadh.</description>
+    </item>
+    <item>
+      <headword id="d0e350">aparan bac</headword>
+      <description>protecting the boat from the oar with a tin plate.</description>
+    </item>
+    <item><headword id="d0e358" type="heading" level="h1">3. Stiùir is ailm</headword></item>
+      <item>
+      <headword id="d0e363">falamadair</headword>
+	  <description><illustration src="HarrisGobhaigMacLennaneatharillust4.jpg" width="300"/></description>
+    </item>
+    <item>
+      <headword id="d0e372">iarunn stiùireach</headword>
+	  <description><illustration src="HarrisGobhaigMacLennaneatharillust4.jpg" width="300"/></description>
+    </item>
+    <item>
+      <headword id="d0e381">stiùir</headword>
+	  <description><illustration src="HarrisGobhaigMacLennaneatharillust4.jpg" width="300"/></description>
+    </item>
+    <item><headword id="d0e389" type="heading" level="h1">4. Ràmh, is faclan co-cheangailte ri iomradh</headword></item>
+    <item>
+      <headword id="d0e394">liadh</headword>
+	  <description><illustration src="HarrisGobhaigMacLennaneatharillust5.jpg" width="400"/></description>
+    </item>
+    <item>
+      <headword id="d0e403">lunn</headword>
+	  <description><illustration src="HarrisGobhaigMacLennaneatharillust5.jpg" width="400"/></description>
+    </item>
+    <item>
+      <headword id="d0e412">cnot</headword>
+	  <description><illustration src="HarrisGobhaigMacLennaneatharillust5.jpg" width="400"/></description>
+    </item>
+    <item>
+      <headword id="d0e421">dornan</headword>
+	  <description><illustration src="HarrisGobhaigMacLennaneatharillust5.jpg" width="400"/></description>
+    </item>
+    <item><headword id="d0e429" type="heading" level="h1">5. Crann is seòl is gach uidheam co-cheangailte riutha</headword></item>
+    <item>
+      <headword id="d0e434">slat shuil</headword>
+    </item>
+    <item>
+      <headword id="d0e440">crann toisich</headword>
+    </item>
+    <item>
+      <headword id="d0e446">crann deiridh</headword>
+    </item>
+    <item>
+      <headword id="d0e452">crann meadhoin</headword>
+    </item>
+    <item>
+      <headword id="d0e458">long tri crannaibh</headword>
+    </item>
+    <item>
+      <headword id="d0e464">long ceithir crannaibh</headword>
+    </item>
+    <item>
+      <headword id="d0e470">spreod thoisich</headword>
+    </item>
+    <item>
+      <headword id="d0e476">seol mór</headword>
+    </item>
+    <item>
+      <headword id="d0e482">sgòd thoisich</headword>
+    </item>
+    <item>
+      <headword id="d0e488">sgòd dheiridh</headword>
+    </item>
+    <item>
+      <headword id="d0e494">ceanglaichean</headword>
+    </item>
+    <item>
+      <headword id="d0e500">slat bhuinn</headword>
+    </item>
+    <item>
+      <headword id="d0e506">cluas thoisich</headword>
+    </item>
+    <item>
+      <headword id="d0e512">cluas dheiridh</headword>
+    </item>
+    <item>
+      <headword id="d0e518">corsa</headword>
+    </item>
+    <item>
+      <headword id="d0e524">bonn</headword>
+    </item>
+    <item>
+      <headword id="d0e530">ceann</headword>
+    </item>
+    <item>
+      <headword id="d0e536">ball mór</headword>
+    </item>
+    <item>
+      <headword id="d0e542">ulag</headword>
+    </item>
+    <item>
+      <headword id="d0e548">dealg</headword>
+    </item>
+    <item>
+      <headword id="d0e554">slugan</headword>
+    </item>
+    <item>
+      <headword id="d0e560">ruidhlean</headword>
+    </item>
+    <item>
+      <headword id="d0e566">eag</headword>
+    </item>
+    <item>
+      <headword id="d0e572">slige</headword>
+    </item>
+    <item>
+      <headword id="d0e578">udulan</headword>
+    </item>
+  </items>
+</fieldworkDocument>

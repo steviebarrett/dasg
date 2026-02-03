@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 3 5 13 -->
+<fieldworkDocument docId="MurdoMacLeod_GlasgowMMacLeodtaigh" docType="questionnaire" subType="TaighGaidhealach">
+  <title>Taigh Gàidhealach / House and Furnishings</title>
+  <date>[1972 on the slips]</date>
+  <fieldworker>[self]</fieldworker>
+  <note>[NOTES: the informant uses E and I to mark the gender of the nouns, masculine and feminine respectively.]</note>
+  <informant>
+    <nameEnglish>Murdo MacLeod</nameEnglish>
+    <nameGaelic>Murchadh MacLeòid </nameGaelic>
+    <age>56 10 [sic – probably 10/12 meant]</age>
+    <origin>Leòdhas [Lewis], Uig an Iar</origin>
+  </informant>
+  <location>Glaschu [Glasgow]</location>
+  <!-- illustrations -->
+  <items>
+    <item><headword id="d0e40" type="heading" level="h1">1. An stéidh is am balla</headword><description>[the page is missing but see below] </description></item>
+	<item>
+	  <headword id="idola188">[note]</headword>
+	  <description>[NOTES: the following appears on an additional slip of paper stapled between 5. and 7. It may be a part of the missing page.] Bha tiuighead mhór anns na ballachan aig 1. 2. 3. Grunn mór, mór throighean. Bhiodh fosgalan aig dorus feadhainn de na seann thighean airson fasgaidh agus airson ruma. Cha chreid mi nach ann anns an fhosgalan a bhiodh a’ bhrà aca air an taobh siar ’s an eilean. Aig feadhainn dhiubh có dhiù.</description>
+    </item>
+	<item><headword id="d0e53" type="heading" level="h1">2. Am mullach ’s an tughadh</headword></item>
+    <item>
+      <headword id="d0e58">connlach (I)</headword>
+    </item>
+    <item>
+      <headword id="d0e64">muran (E)</headword>
+    </item>
+    <item>
+      <headword id="d0e70">luachair (I)</headword>
+    </item>
+    <item>
+      <headword id="d0e76">fraoch (E)</headword>
+    </item>
+	<item>
+	  <headword id="idola189">[tughadh]</headword>
+	  <description>B’e seo [i.e. connlach, muran, luachair, fraoch] an tughadh.</description>
+	</item>
+    <item>
+      <headword id="d0e91">ceann (E)</headword>
+      <description>Ceann an tighe, b’e sin am fiodh. “Chuir iad an ceann air an tigh.”</description>
+    </item>
+	<item>
+	  <headword id="idola190">[‘taigh’]</headword>
+	  <description>A’ ruith air na h-ainmeannan a th’aig Dwelly fo’n cheann ‘taigh’ (t-d 923 Names of Parts of a “Black” House):</description>
+	</item>
+    <item>
+      <headword id="d0e109">1. Ceangal, Cas-cheangail</headword>
+      <description>Cha robh againn idir.</description>
+    </item>
+    <item>
+      <headword id="d0e118">2. Am bun-cheangal</headword>
+      <description>Cha robh. No a’ chrùp. Bun-baca, bha e againn.</description>
+    </item>
+    <item>
+      <headword id="d0e127">3. Cliathan (pl.)</headword>
+      <description>’S ann a bha iad againne an àirde.</description>
+    </item>
+    <item>
+      <headword id="d0e136">4. Cabair</headword>
+      <description>Chanadh sinn ‘cabair ri cabair’ an cumantas mu cheann an tighe.</description>
+    </item>
+    <item>
+      <headword id="d0e145">5. Spàrr, Spàrra-ghaoithe</headword>
+      <description>Aon spàrr a bhiodh againne. Ach tha an dà ainm beò air na bilean fhathast.
+        <illustration src="GlasgowMMacLeodtighillust1.jpg" width="200"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e156">6. An gath-droma</headword>
+      <description>a bh’ againne.</description>
+    </item>
+    <item>
+      <headword id="d0e165">7. Corra-thulachainn</headword>
+      <description>Bha e againn.</description>
+    </item>
+    <item>
+      <headword id="d0e174">8. Cabair-oisinn</headword>
+      <description>Bhà.</description>
+    </item>
+    <item>
+      <headword id="d0e183">9. Maide-eòin, maide-feannaig</headword>
+      <description>Bha na dhà againne. Ach ’se ‘maide-feannaig’ bu trice a chanadh sinn.</description>
+    </item>
+    <item>
+      <headword id="d0e192">10. Similear-crochaidh</headword>
+      <description>Cha robh e againn idir.</description>
+    </item>
+    <item>
+      <headword id="d0e201">11. Luidhear</headword>
+      <description>’S e ‘a’ bheant’ a chanadh sinne.</description>
+    </item>
+    <item>
+      <headword id="d0e210">Acair</headword>
+      <description>Bha e againn.</description>
+    </item>
+    <item>
+      <headword id="d0e219">Annainn</headword>
+      <description>Cha robh. ‘Bàrr-a’-bhalla’ a chanadh sinne.</description>
+    </item>
+    <item>
+      <headword id="d0e228">Bàircean</headword>
+      <description>[sic] Cha robh.</description>
+    </item>
+    <item>
+      <headword id="d0e237">Balla-tarsuinn</headword>
+      <description>Bhà.</description>
+    </item>
+    <item>
+      <headword id="d0e246">Bonnacha-bac</headword>
+      <description>Cha robh. ‘Bun-bac’ a bh’againne airson a stigh ri bonn nan ceangal air bàrr a’ bhalla. Cailleach à Beàrnaraidh (Leòdhais) – bha ‘bun-bac’ aice airson ‘bun-sgòth’.</description>
+    </item>
+    <item>
+      <headword id="d0e255">Buabhall</headword>
+      <description>‘Bualla’ a chanas sinne. ‘Stàla’, an eich, a chanas sinn.</description>
+    </item>
+    <item>
+      <headword id="d0e264">Bunntair</headword>
+      <description>Cha robh.</description>
+    </item>
+    <item>
+      <headword id="d0e273">Cabar-droma</headword>
+      <description>Smait gu’n canaist e uaireannan airson ‘gath-droma’.</description>
+    </item>
+    <item>
+      <headword id="d0e282">Cabar-fraighe</headword>
+      <description>Cha robh.</description>
+    </item>
+    <item>
+      <headword id="d0e291">Calpa</headword>
+      <description>Cha robh.</description>
+    </item>
+    <item>
+      <headword id="d0e300">Casan-ceangail</headword>
+      <description>Bhà.</description>
+    </item>
+    <item>
+      <headword id="d0e309">Cas an teannachaidh</headword>
+      <description>Cha robh.</description>
+    </item>
+    <item>
+      <headword id="d0e318">Ceàrn</headword>
+      <description>Cha robh.</description>
+    </item>
+    <item>
+      <headword id="d0e327">Clàidhean</headword>
+      <description>Bhà. Air a fhuaimhneachadh [sic] ‘clàimhean’ mar làimh + ean ann am ‘bean’ [?]: làimhean, clàimhean.</description>
+    </item>
+    <item>
+      <headword id="d0e336">Sneic</headword>
+      <description>Bha ‘sneic’ (‘snaic’ a chanas sinne – fuaimnich mar ‘faic’) againn.</description>
+    </item>
+    <item>
+      <headword id="d0e345">Deasp</headword>
+    </item>
+    <item>
+      <headword id="d0e351">Clèithean-buinn</headword>
+      <description>Cha robh.</description>
+    </item>
+    <item>
+      <headword id="d0e360">Clèithean-mullaich</headword>
+      <description>Cha robh.</description>
+    </item>
+    <item>
+      <headword id="d0e369">Cotan</headword>
+      <description>Cha robh. Ach tha e againn an ainm àite.</description>
+    </item>
+    <item>
+      <headword id="d0e378">Crann-thairgnean</headword>
+      <description>Cha robh. Ach an cas-chrom.</description>
+    </item>
+    <item>
+      <headword id="d0e387">Cuaille</headword>
+      <description>Cha robh.</description>
+    </item>
+    <item>
+      <headword id="d0e396">Cùil</headword>
+      <description>Cha robh.</description>
+    </item>
+    <item>
+      <headword id="d0e405">Cùlaisd</headword>
+      <description>Cha robh. Ach ann an cuid de dh’àiteachan ’s an eilean canaidh iad ‘cùlaisd’ airson ‘uachdar-an-tighe’ againne.</description>
+    </item>
+    <item>
+      <headword id="d0e414">Dragh</headword>
+      <description>Cha robh.</description>
+    </item>
+    <item>
+      <headword id="d0e423">Dromanaich</headword>
+      <description>Cha robh.</description>
+    </item>
+    <item>
+      <headword id="d0e432">Dronn</headword>
+      <description>Cha robh.</description>
+    </item>
+    <item>
+      <headword id="d0e441">Druim an tighe</headword>
+      <description>Bhà.</description>
+    </item>
+    <item>
+      <headword id="d0e450">Duibheid</headword>
+      <description>Cha robh.</description>
+    </item>
+    <item>
+      <headword id="d0e459">Eadar-dha-bhìth</headword>
+      <description>[sic] Bhà.</description>
+    </item>
+    <item>
+      <headword id="d0e468">Faradh</headword>
+      <description>Cha robh.</description>
+    </item>
+    <item>
+      <headword id="d0e477">Fòid-buinn</headword>
+      <description>Cha robh.</description>
+    </item>
+    <item>
+      <headword id="d0e486">Fòid-fàil</headword>
+      <description>Cha robh.</description>
+    </item>
+    <item>
+      <headword id="d0e495">Fraigh</headword>
+      <description>Cha robh.</description>
+    </item>
+    <item>
+      <headword id="d0e504">Frioghan</headword>
+      <description>Cha robh.</description>
+    </item>
+    <item>
+      <headword id="d0e513">Gath-droma</headword>
+      <description>Bhà.</description>
+    </item>
+    <item>
+      <headword id="d0e522">Glutranadh</headword>
+      <description>Bhà.</description>
+    </item>
+    <item>
+      <headword id="d0e531">Lathus</headword>
+      <description>Cha robh.</description>
+    </item>
+    <item>
+      <headword id="d0e540">Maide-aide</headword>
+      <description>Cha robh.</description>
+    </item>
+    <item>
+      <headword id="d0e549">Maide-slabhruidh</headword>
+      <description>Bha.</description>
+    </item>
+    <item>
+      <headword id="d0e558">Màs an tighe</headword>
+      <description>Bhà.</description>
+    </item>
+    <item>
+      <headword id="d0e567">Mathair-shìomain</headword>
+      <description>Bhà.</description>
+    </item>
+    <item>
+      <headword id="d0e576">Sgolb</headword>
+      <description>Cha robh.</description>
+    </item>
+    <item>
+      <headword id="d0e585">Sgonn</headword>
+      <description>Cha robh.</description>
+    </item>
+    <item>
+      <headword id="d0e594">Sgrathan</headword>
+      <description>Bhà.</description>
+    </item>
+    <item>
+      <headword id="d0e603">Sìoman-fraoich</headword>
+      <description>Bhà.</description>
+    </item>
+    <item>
+      <headword id="d0e612">Spàrr-ealaig</headword>
+      <description>Cha robh.</description>
+    </item>
+    <item>
+      <headword id="d0e621">Spàrr-gaoithe</headword>
+      <description>Bhà. “An àirde chun na spàrra-ghaoithe.”</description>
+    </item>
+    <item>
+      <headword id="d0e630">Spiris</headword>
+      <description>Bhà.</description>
+    </item>
+    <item>
+      <headword id="d0e639">Stagh</headword>
+      <description>Cha robh.</description>
+    </item>
+    <item>
+      <headword id="d0e648">Stall</headword>
+      <description>Bhà. “Air an lic-stall”. B’e seo air an lic a bhiodh aig bonn an doruis-a-muigh.</description>
+    </item>
+    <item>
+      <headword id="d0e657">Talan</headword>
+      <description>Bhà.</description>
+    </item>
+    <item>
+      <headword id="d0e666">Tràigh</headword>
+      <description>Cha robh.</description>
+    </item>
+    <item>
+      <headword id="d0e675">Tughadh</headword>
+      <description>Bhà. ‘Bunan-dubha’ againn mar aig M.McL.</description>
+    </item>
+    <item><headword id="d0e683" type="heading" level="h1">3. Dorsan is uinneagan</headword></item>
+    <item>
+      <headword id="d0e688">dorus an tigh’ mhóir</headword>
+    </item>
+    <item>
+      <headword id="d0e694">dorus an talain</headword>
+    </item>
+    <item>
+      <headword id="d0e700">dorus uachdar an tighe</headword>
+    </item>
+    <item>
+      <headword id="d0e706">dorus na clòsaid</headword>
+      <description>(Far am bitheadh clòsaid.)</description>
+    </item>
+    <item>
+      <headword id="d0e715">dorus a’ chruidh</headword>
+    </item>
+    <item>
+      <headword id="d0e721">dorus an t-sabhail</headword>
+      <description>(Far am biodh tigh agus sabhal ri chèile.)
+        <illustration src="GlasgowMMacLeodtighillust3.jpg" width="300"/>
+      </description>
+    </item>
+    <item><headword id="d0e731" type="heading" level="h1">4. An broinn an taighe: na sèamraichean</headword></item>
+    <item><headword id="d0e735" type="heading" level="h2">Na seòmraichean:</headword></item>
+    <illustration src="GlasgowMMacLeodtighillust4.jpg" width="300"/>
+    <item>
+      <headword id="d0e742">1. Uachdar an tighe</headword>
+    </item>
+    <item>
+      <headword id="d0e748">2. Aig an teine</headword>
+    </item>
+    <item>
+      <headword id="d0e754">3. Air feadh an tighe (far am biodh na h-ainmhidhean)</headword>
+    </item>
+    <item>
+      <headword id="d0e760">clòsaid (I)</headword>
+      <description>(Far am biodh clòsaid.)</description>
+    </item>
+	<item>
+	  <headword id="idola191">[Tigh Bhurns]</headword>
+	  <description>Tigh Bhurns an Alloway (Allamhaigh):
+	    <illustration src="GlasgowMMacLeodtighillust5.jpg" width="300"/>
+	  </description>
+	</item>
+    <item><headword id="d0e779" type="heading" level="h1">5. An t-àite-teine</headword></item>
+    <item>
+      <headword id="d0e784">an teinntean (E)</headword>
+    </item>
+    <item>
+      <headword id="d0e790">leac an teinntean</headword>
+    </item>
+    <item>
+      <headword id="d0e796">a’ chagailte (I)</headword>
+    </item>
+    <item>
+      <headword id="d0e802">[similear (E)]</headword>
+      <description>Nuair a chaidh an teine a thoirt air falbh bho mheadhon an làir b’e seo an seòrsa àite-teine a thòisicheadh a’ deanamh. As déidh seo thòisicheadh a’ deanamh similear le sgeilpe.
+        <illustration src="GlasgowMMacLeodtighillust6.jpg" width="300"/>
+        <illustration src="GlasgowMMacLeodtighillust7.jpg" width="300"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e815">hobail (E agus I mar a fhreagradh)</headword>
+      <description>Tha mi deanamh a mach gur h-ann airson cho coltach ’s a bha an seorsa similear-sa ri sgiortaichean nam boirionnach a chaidh an t-ainm ‘hobail’ a thogail. Agus lean e ris.</description>
+    </item>
+    <item>
+      <headword id="d0e824">sgiorta (hobble) (I)</headword>
+    </item>
+    <item><headword id="d0e829" type="heading" level="h1">6. Airneis an taighe</headword></item>
+    <item>
+      <headword id="d0e834">Aig an teine</headword>
+    </item>
+    <item>
+      <headword id="d0e840">stùil</headword>
+      <description>(Beag agus mór.)</description>
+    </item>
+    <item>
+      <headword id="d0e849">stòl (E)</headword>
+    </item>
+    <item>
+      <headword id="d0e855">being (I)</headword>
+    </item>
+    <item>
+      <headword id="d0e861">ciste-chaol (being)</headword>
+      <description>Bha i mar an seo shìos. Bha bonn innte agus bòrd-uachdair oirre. Bha i math airson rudan a ghleidheadh. “C’àit am bheil an lìon a bha siod?” “Tha e anns a’ chiste-chaoil.”
+        <illustration src="GlasgowMMacLeodtighillust8.jpg" width="300"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e872">séis (I)</headword>
+      <description>Bha i faisg air an aon seòrsa ris an tè eile [i.e. being?] ach gun bonn idir innte. Casan a bh’oirre. Bha i math airson rudan a ghleidheadh a stigh fòidhe agus airson àite do an chù. Chanadh sinn ‘beinge’ ri na dhà. ‘Séis’ agus ‘ciste-chaol’.</description>
+    </item>
+    <item>
+      <headword id="d0e881">dreasair (E)</headword>
+    </item>
+    <item>
+      <headword id="d0e887">ciste-mhine (I)</headword>
+    </item>
+    <item>
+      <headword id="d0e893">séidhear (E)</headword>
+      <description>Airson séidhear faodaidh sibh smaoineachadh air séidhear cumanta, séidhear sìomain, agus séidhear bean an tighe. Séidhear-gàirdeanach, ’s ann a bhiodh e aig daoine a bha ’na b’ fheàrr air an dòigh ’s mar sin. An sìoman a bhiodh air séidhear sìomain b’e sìoman gathan–gainnisg no sìoman de phunnd-bàn. Agus mar sin.</description>
+    </item>
+    <item>
+      <headword id="d0e902">An uachdar an tighe</headword>
+    </item>
+    <item>
+      <headword id="d0e908">leabaidh (I)</headword>
+      <description>Box-bed.</description>
+    </item>
+    <item>
+      <headword id="d0e917">leabaidh-phostach (I)</headword>
+      <description>Leabaidh fhosgailte.</description>
+    </item>
+    <item>
+      <headword id="d0e926">preas (E)</headword>
+    </item>
+    <item>
+      <headword id="d0e932">ciste (I)</headword>
+      <description>Airson ciste faic ‘seotal’. Cha bhiodh seotal anns a h-uile ciste idir. Ach a’ chiste a b’fheàrr a bhiodh a stigh bhiodh seotal innte. Bha port aig fear uaireigin anns an àite, agus bha aige: “Ciompull de na notaichean an seotal na cist’-aodaich.”</description>
+    </item>
+    <item>
+      <headword id="d0e941">ciste-dhràthraichean (I)</headword>
+      <description>(Ma dh’fhaoidte.)</description>
+    </item>
+    <item>
+      <headword id="d0e950">driunga (no drunga) (I)</headword>
+      <description>Bhiodh i aotrom. Bhiodh i mar ciste chumanta, no le mullach cruinn oirre. ’S mar sin. Drunga, is ann aig feadhainn a bhiodh a’ siubhal a bhiodh i mar clann-nighean a bhiodh a’ dol air mhuinntireas, ’s clann-nighean an sgadain, ’s feadhainn mar sin.
+        <illustration src="GlasgowMMacLeodtighillust2.jpg" width="400"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e961">sgàthan (E)</headword>
+    </item>
+    <item><headword id="d0e966" type="heading" level="h1">7. Sobhal, bàthach, no bothanan sam bith eile</headword></item>
+    <item>
+      <headword id="d0e971">sobhal (E)</headword>
+    </item>
+    <item>
+      <headword id="d0e977">toll-fasgnaidh (E)</headword>
+      <description>Toll ris an làr anns a’ bhalla ann an taobh an t-sobhail airson a’ ghaoth a leigeil a steach airson am bodach am fasgnadh a dheanamh a stigh. Bhiodh e mu 2½ troigh air àirde. Mar dorus beag ach gun còmhla idir ris. Bhiodh e dùinte ach nuair a bhiodh feum dha.</description>
+    </item>
+    <item>
+      <headword id="d0e986">bàthach (I)</headword>
+    </item>
+    <item>
+      <headword id="d0e992">toll-dilidh (E)</headword>
+      <description>Toll agus àrd-dhorus air ann am màs na bàthach airson sùghadh sam bith a thigeadh as a’ bhàthaich a leigeil a mach. Bhiodh e anns na tighean far am biodh na h-ainmhidhean cuideachd.</description>
+    </item>
+    <item>
+      <headword id="d0e1001">tigh-òisgean (E)</headword>
+    </item>
+    <item>
+      <headword id="d0e1007">bothag-chearc (I)</headword>
+      <description>Deanta le sgrathan. Bhiodh sinn a’ deanamh fosgalan (E) aig dorus bothag nan cearc. Tha e coltach gu’n cumadh seo na fithich agus na starragan gun a dhol a steach do an bhothaig a chur dragh air na cearcan.
+        <illustration src="GlasgowMMacLeodtighillust9.jpg" width="500"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e1018">àirigh (I)</headword>
+      <description>Chan eil ainmeannan àrraid sam bith agam mu àirigh seach tigh sam bith eile, ach: àrlus [q.v.], an ceap [q.v.], crabhcan [q.v.]. Àirigh – mar tigh beag, aon seòmar.</description>
+    </item>
+    <item>
+      <headword id="d0e1027">àrlus (E)</headword>
+      <description>Faic fàrlus.</description>
+    </item>
+    <item>
+      <headword id="d0e1036">an ceap (E)</headword>
+      <description>Faic Ceap 9. Dwelly. ’Se suidheachan dèanta de chlachan (mar gàradh) agus sgrath mhór thiugh air muin sin a bh’ann. Agus is è a bhà comhfhurtail! ’Se ‘a’ chailleach’ a chanadh iad ris ann an ceàrnaidhean eile de an eilean.</description>
+    </item>
+    <item>
+      <headword id="d0e1045">crabhcan (E)</headword>
+      <description>’Se seo a bhiodh againn air a’ bhabht anns a’ bhalla a bhiodh a’ cumail an àirde na slabhruidh bhos cionn an teine.</description>
+    </item>
+    <item>
+      <headword id="d0e1054">muileann</headword>
+      <description>Mar àirigh [q.v.] bheag.</description>
+    </item>
+  </items>
+</fieldworkDocument>

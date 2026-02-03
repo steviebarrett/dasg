@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?><!-- checked by MM on 3 6 14 --><fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="AOHenley_GlasgowFMacNeilnadur" docType="questionnaire" subType="NadurAnDuine" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Nàdur an Duine / Personality</title>
+  <date>[1987-88]</date>
+  <fieldworker personId="ohenleya">A. O’Henley [and self]</fieldworker>
+  <informant>
+    <nameEnglish>Flora MacNeil</nameEnglish>
+    <nameGaelic>Floraidh Nic Neill</nameGaelic>
+  </informant>
+  <location>Glasgow</location>
+  <items>
+	<item>
+	  <headword id="idola24">[note]</headword>
+	  <description>(Tha mi duilich cha do rinn mi ro mhath! Cha builear dhomh am peann a bhi aig mo laimh fad na h-ùine.)</description>
+	</item>
+    <item>
+      <headword id="idp109722864">breòite</headword>
+      <description>slow.</description>
+    </item>
+    <item>
+      <headword id="idp109727904">teoruinnte</headword>
+      <description>sensible.</description>
+    </item>
+    <item>
+      <headword id="idp109775712">tasdalach</headword>
+      <description>pleasant, brave. Praise word.</description>
+    </item>
+    <item>
+      <headword id="idp109771536">smearail</headword>
+      <description>strong.</description>
+    </item>
+    <item>
+      <headword id="idp109793928">trusdair</headword>
+    </item>
+    <item>
+      <headword id="idp109756992">tomatach</headword>
+      <description>plump woman.</description>
+    </item>
+    <item>
+      <headword id="idp109750224">burgaid</headword>
+      <description>derogatory sense.</description>
+    </item>
+    <item>
+      <headword id="idp109779816">fialidh</headword>
+      <description>kind, generous.</description>
+    </item>
+    <item>
+      <headword id="idp109770240">fiaragach</headword>
+      <description>touchy, twisted.</description>
+    </item>
+    <item><headword id="d0e116" type="heading" level="h1">Good company / Bad company</headword></item>
+    <item>
+      <headword id="idp109769736">flathail</headword>
+      <description>charming.</description>
+    </item>
+    <item>
+      <headword id="idp109770024">mosach</headword>
+    </item>
+    <item>
+      <headword id="idp109758936">gabhaidh</headword>
+      <description>uncompromising.</description>
+    </item>
+    <item>
+      <headword id="idp109772040">eirmseach</headword>
+      <description>witty.</description>
+    </item>
+    <item>
+      <headword id="idp109813944">aimeasach</headword>
+      <description>witty.</description>
+    </item>
+    <item>
+      <headword id="idp109815312">fiadhaich</headword>
+      <description>wild.</description>
+    </item>
+    <item>
+      <headword id="idp109801272">Chan eil a bheil [sic] e buidheach neo diombach</headword>
+      <description>don’t know where you stand. Not giving anything away.</description>
+    </item>
+    <item><headword id="d0e180" type="heading" level="h1">Cheerful / Gloomy</headword></item>
+    <item>
+      <headword id="idp109707672">leamh</headword>
+      <description>silly person.</description>
+    </item>
+    <item>
+      <headword id="idp109705008">air bhioran</headword>
+    </item>
+    <item>
+      <headword id="idp109748136">reidh</headword>
+      <description>agreeable.</description>
+    </item>
+    <item>
+      <headword id="idp109789392">socharach</headword>
+      <description>gentle, even-tempered.</description>
+    </item>
+    <item><headword id="d0e217" type="heading" level="h1">A wise man / Foolish</headword></item>
+    <item>
+      <headword id="idp109703064">buraid</headword>
+      <description>silly woman.</description>
+    </item>
+    <item>
+      <headword id="idp109716096">clap sgàin</headword>
+      <description>a loud woman.</description>
+    </item>
+    <item>
+      <headword id="idp109719624">èispal</headword>
+      <description>a silly man.</description>
+    </item>
+    <item>
+      <headword id="idp109693272">brotsach</headword>
+      <description>a big sturdy man – a bit fat. Used for a child as well.</description>
+    </item>
+    <item>
+      <headword id="idp109700976">sgaorach</headword>
+      <description>a loud woman, a bit crazy [?].</description>
+    </item>
+    <item>
+      <headword id="idp109812648">guigeinach</headword>
+      <description>neat, sweet (girl).</description>
+    </item>
+    <item><headword id="d0e275" type="heading" level="h1">Agus faclan sam bith eile</headword></item>
+    <item>
+      <headword id="idp109798536">ballan</headword>
+      <description>a tub (wooden).</description>
+    </item>
+  </items>
+</fieldworkDocument>

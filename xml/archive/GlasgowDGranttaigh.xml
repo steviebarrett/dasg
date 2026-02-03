@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 23 4 13 -->
+<fieldworkDocument docId="HouseandFurnishings_GlasgowDGranttaigh" docType="questionnaire" subType="TaighGaidhealach">
+  <title>Taigh Gàidhealach / House and Furnishings</title>
+  <fieldworker>[self]</fieldworker>
+  <informant>
+    <nameEnglish>Donald Grant</nameEnglish>
+    <nameGaelic>Domhnall Grannd </nameGaelic>
+    <age>66</age>
+    <origin>[Skye, Camus Chroise]</origin>
+  </informant>
+  <location>Glasgow</location>
+  <items>
+    <item><headword id="d0e32" type="heading" level="h1">1. An stéidh is am balla</headword></item>
+    <item>
+      <headword id="d0e37">funnd (m)</headword>
+      <description>foundation.</description>
+    </item>
+    <item>
+      <headword id="d0e46">starsach (f)</headword>
+      <description>threshold.</description>
+    </item>
+    <item>
+      <headword id="d0e55">anainn (f)</headword>
+      <description>top of wall of house or byre.</description>
+    </item>
+    <item><headword id="d0e63" type="heading" level="h1">2. Am mullach ’s an tughadh</headword></item>
+    <item>
+      <headword id="d0e68">fà(r)las (m)</headword>
+      <description>smoke vent.</description>
+    </item>
+    <item><headword id="d0e76" type="heading" level="h1">3. Dorsan is uinneagan</headword></item>
+    <item>
+      <headword id="d0e81">leòsan (m)</headword>
+      <description>pane.</description> 
+    </item>
+    <item>
+      <headword id="d0e90">potai (m)</headword>
+      <description>putty.</description>
+    </item>
+    <item>
+      <headword id="d0e99">dealan (m)</headword>
+      <description>door-catch, sneck.</description>
+    </item>
+    <item><headword id="d0e107" type="heading" level="h1">4. An broinn an taighe: na sèamraichean</headword></item>
+    <item>
+      <headword id="d0e112">an ceann-shìos</headword>
+      <description>the ‘parlour’, the ‘other’ room, ‘ben the house’.</description>
+    </item>
+    <item>
+      <headword id="d0e121">an rum</headword>
+      <description>[See an ceann-shìos]</description>
+    </item>
+    <item>
+      <headword id="d0e130">a’ chlòsaid</headword>
+      <description>the closet, little off-room.</description>
+    </item>
+    <item>
+      <headword id="d0e139">an lobhta</headword>
+      <description>the loft (upper space or room).</description>
+    </item>
+    <item>
+      <headword id="d0e148">an cidsin</headword>
+      <description>some houses might qualify for this description for the main living-room. I don’t remember any other special name, unless ‘an ceann shuas’.</description>
+    </item>
+    <item>
+      <headword id="d0e157">an tallan (m)</headword>
+      <description>partition separating rooms.</description>
+    </item>
+    <item><headword id="d0e165" type="heading" level="h1">5. An t-àite-teine</headword></item>
+    <item>
+      <headword id="d0e170">leac-an-teintein</headword>
+      <description>hearth.</description>
+    </item>
+    <item>
+      <headword id="d0e179">similear-crochaidh (m)</headword>
+      <description>canopy over fire (on floor at end of room).</description>
+    </item>
+    <item>
+      <headword id="d0e188">slabhraidh (m)</headword>
+      <description>chain holding hook for pot or kettle.</description>
+    </item>
+    <item><headword id="d0e196" type="heading" level="h1">6. Airneis an taighe</headword></item>
+    <item>
+      <headword id="d0e201">furm (m)</headword>
+      <description>stool.</description>
+    </item>
+    <item>
+      <headword id="d0e210">séithear (m)</headword>
+      <description>chair.</description>
+    </item>
+    <item>
+      <headword id="d0e219">beinge (f)</headword>
+      <description>bench, settle.</description>
+    </item>
+    <item>
+      <headword id="d0e228">dreasair (m)</headword>
+      <description>dresser.</description>
+    </item>
+    <item><headword id="d0e236" type="heading" level="h1">7. Sobhal, bàthach, no bothanan sam bith eile</headword></item>
+    <item>
+      <headword id="d0e241">brìg (f)</headword>
+      <description>mass, load, heap, of hay, etc. Brìg fheòir, brìg arbhair.</description>
+    </item>
+    <item>
+      <headword id="d0e250">buaghal (m)</headword>
+      <description>stall.</description>
+    </item>
+    <item>
+      <headword id="d0e259">a’ cartadh na bàthcha</headword>
+      <description>cleaning the byre.</description>
+    </item>
+    <item>
+      <headword id="d0e268">buachar (m)</headword>
+      <description>dung.</description>
+    </item>
+    <item>
+      <headword id="d0e277">praise (f)</headword>
+      <description>manger.</description>
+    </item>
+    <item>
+      <headword id="d0e286">crò (m)</headword>
+      <description>temporary henhouse (during growing season).</description>
+    </item>
+    <item>
+      <headword id="d0e295">sailghean (?)</headword>
+      <description>rafters.</description>
+    </item>
+  </items>
+</fieldworkDocument>

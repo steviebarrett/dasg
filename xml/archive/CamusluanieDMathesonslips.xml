@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 10/8/15 -->
+<!-- illustrations -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_CamusluanieDMathesonslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>03/1970</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <note>[NOTES: in IPA transcriptions, the fieldworker uses [w] for [ɯ].]</note>
+  <informant>
+    <nameEnglish>Duncan Matheson</nameEnglish>
+    <age>40-50</age>
+    <origin>Camusluanie</origin>
+  </informant>
+  <location>Ross-shire, Killilan, Camusluanie</location>
+  <items>
+    <item>
+      <headword id="idp161847664">leth-tithich</headword>
+      <description>[lʹɛtʹiiç] Notes: gullet.</description>
+    </item>
+    <item>
+      <headword id="idp161844496">athairle</headword>
+      <description>[ɑhɤu̜] Notes: two year old heifer.</description>
+    </item>
+    <item>
+      <headword id="idp161840896">slat</headword>
+      <description>Quotation: cabar-slait. Notes: stag with no points on its antlers. (Cf. James Clark, Morvich: “slat-chabrach”.)</description>
+    </item>
+    <item>
+      <headword id="idp161861992">sàileach</headword>
+      <description>Notes: a Kintail man.</description>
+    </item>
+    <item>
+      <headword id="idp161863504">searrachan-taois</headword>
+      <description>[ʃɑrɑxɑṉt̪w:ʃ] Notes: oval bannock, made from oatmeal, hot water and salt, and given to cattle.</description>
+    </item>
+    <item>
+      <headword id="idp161865304">seilbh</headword>
+      <description>[ʃeli] Notes: cattle (collect.).</description>
+    </item>
+    <item>
+      <headword id="idp161867032">siollaichean</headword>
+      <description>Notes: haimes.</description>
+    </item>
+    <item>
+      <headword id="idp161868544">stair</headword>
+      <description>[st̪ɤɾ] Notes: stepping stones across a burn.</description>
+    </item>
+    <item>
+      <headword id="idp161870272">treabhair</headword>
+      <description>[t̪ɾɔəɾ] Quotation: Tha móran treabhair aige. Notes: collection of buildings such as a steading.</description>
+    </item>
+    <item>
+      <headword id="idp161872144">bràidean</headword>
+      <description>Notes: a kind of wooden collar made from willow or hazel for tying cattle. <illustration src="CamusluanieDMathesonslipsillust1.jpg" width="350"/></description>
+    </item>
+    <item>
+      <headword id="idp161873656">bualaidh</headword>
+      <description>[bu̜ɤɫi] Notes: cow stall.</description>
+    </item>
+    <item>
+      <headword id="idp161875384">bualaidh</headword>
+      <description>Quotation: bualaidh Galld. Notes: fixture for securing Highland cattle in the byre. Two upright posts, one fixed, the other moveable. The horns of the cow were put in with moveable post to the side, post then put upright and fixed. <illustration src="CamusluanieDMathesonslipsillust2.jpg" width="250"/></description>
+    </item>
+    <item>
+      <headword id="idp161877040">bun</headword>
+      <description>Quotation: bun-dubh. Notes: bracken pulled up by the roots and used for thatching.</description>
+    </item>
+    <item>
+      <headword id="idp161878768">cabhsair</headword>
+      <description>[kɑu̟sɑɾ] Notes: says it’s area of ground in front of a house.</description>
+    </item>
+    <item>
+      <headword id="idp161880496">cailbhe</headword>
+      <description>[kɑli] Notes: wattle door.</description>
+    </item>
+    <item>
+      <headword id="idp161882224">càise</headword>
+      <description>Quotation: càise-baile. Notes: home-made cheese.</description>
+    </item>
+    <item>
+      <headword id="idp161883880">caolan</headword>
+      <description>Quotation: an caolan tóin. Notes: anal passage.</description>
+    </item>
+    <item>
+      <headword id="idp161885536">ceapaire</headword>
+      <description>Quotation: ceapaire-Sàileach. Notes: slice of cheese with a spread of butter. [NOTES: unclear – it may be ‘ceapaire-Tàileach’.]</description>
+    </item>
+    <item>
+      <headword id="idp161887408">crannag</headword>
+      <description>Notes: a butter churn.</description>
+    </item>
+    <item>
+      <headword id="idp161888920">curruchd</headword>
+      <description>[ku̜ru̜xk] Notes: a man’s cap. [NOTES: slipped under ‘currac’.]</description>
+    </item>
+    <item>
+      <headword id="idp161890792">drathais</headword>
+      <description>Notes: horse’s breeches.</description>
+    </item>
+    <item>
+      <headword id="idp161892304">eaga</headword>
+      <description>Notes: a notch, as one makes in wood.</description>
+    </item>
+    <item>
+      <headword id="idp161893816">feathladair</headword>
+      <description>[fiɑɫəd̪ɑɾ] Quotation: “Agus ciamar a tha am feathladair an diugh?” Notes: Heard an old gamekeeper say this to him once when enquiring about his father, who was a stalker.</description>
+    </item>
+    <item>
+      <headword id="idp161895760">fiodhagach</headword>
+      <description>[fjwɣɑɡɑx] Notes: the wild cherry.</description>
+    </item>
+    <item>
+      <headword id="idp161897488">frainneach</headword>
+    <description>[fɾɑ̃nʹɑx] </description></item>
+    <item>
+      <headword id="idp161899216">greimeadair</headword>
+      <description>[ɡɾɤməd̪ɑɾ] Notes: a fork.</description>
+    </item>
+  </items>
+</fieldworkDocument>

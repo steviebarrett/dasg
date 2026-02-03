@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 5/8/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_BayheadALaingslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>02/1969</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <informant>
+    <nameEnglish>Andrew Laing</nameEnglish>
+    <age>c. 80</age>
+    <origin>Bayhead</origin>
+  </informant>
+  <location>North Uist, Bayhead</location>
+  <items>
+    <item>
+      <headword id="idp162092408">bot</headword>
+      <description>Notes: bank (sand, etc.).</description>
+    </item>
+    <item>
+      <headword id="idp162093920">cliath</headword>
+      <description>Quotation: Fiaclan cléithidh. Notes: harrow spikes.</description>
+    </item>
+    <item>
+      <headword id="idp162095576">corran</headword>
+      <description>Notes: sand bank jutting out to sea.</description>
+    </item>
+    <item>
+      <headword id="idp162097088">fiacal</headword>
+      <description>Quotation: Fiaclan cléithidh. Notes: harrow spikes.</description>
+    </item>
+    <item>
+      <headword id="idp162098744">fòidear</headword>
+      <description>Notes: a person who was responsible for turning with the spade after the plough.</description>
+    </item>
+    <item>
+      <headword id="idp162100256">fòidearachd</headword>
+      <description>Quotation: a’ fòidearachd. Notes: turning with the spade after the plough. (See fòidear.)</description>
+    </item>
+    <item>
+      <headword id="idp162101984">fòidearachd</headword>
+      <description>Notes: turning with the spade after the plough, i.e. what had been left unturned. (See fòidear.)</description>
+    </item>
+  </items>
+</fieldworkDocument>

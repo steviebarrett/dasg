@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 1/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_GrimsayIMacDonaldslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>1977-1988</date>
+  <informant>
+    <nameEnglish>Iain MacDonald</nameEnglish>
+  </informant>
+  <location>North Uist, Grimsay</location>
+  <items>
+    <item>
+      <headword id="idp166506112">rogal</headword>
+      <description>Notes: a loose-fitting shapeless (knitted) garment, a knitted garment that had lost its shape.</description>
+    </item>
+    <item>
+      <headword id="idp166505032">ròmhanaich</headword>
+      <description>[sic] Quotation: Romhanaich na Samhna. Notes: applied to quiet period at the end of autumn.</description>
+    </item>
+    <item>
+      <headword id="idp166503664">sainnseal</headword>
+      <description>Quotation: Gheibh thu sainnseal. Notes: unexpected shock, something you don’t bargain for.</description>
+    </item>
+    <item>
+      <headword id="idp166501936">snaoisean</headword>
+      <description>Quotation: Gheibh thu snaoisean. Notes: a sudden accident or calamity, cf. sainnseal.</description>
+    </item>
+    <item>
+      <headword id="idp166499416">clotcheann</headword>
+      <description>Notes: (1) an untidy head of hair. (2) ’Se do chlotcheann a th’ann – it’s actually you.</description>
+    </item>
+    <item>
+      <headword id="idp166498336">peachaireachd</headword>
+      <description>Notes: teasing; horseplay. Cf. feachaireachd (Barra).</description>
+    </item>
+    <item>
+      <headword id="idp166496536">ceann-mara</headword>
+      <description>Notes: end of fence extending into the sea, to prevent access by animals.</description>
+    </item>
+    <item>
+      <headword id="idp166495888">iarann</headword>
+      <description>Notes: the amount of peats two men could cut in a day.</description>
+    </item>
+    <item>
+      <headword id="idp166494520">noigean</headword>
+      <description>Quotation: bodach beag nan noigeanan. Notes: playful term of endearment.</description>
+    </item>
+    <item>
+      <headword id="idp166492720">sàilleagan</headword>
+      <description>Quotation: Chuireadh e sàilleagan air a’ chat. Notes: phrase used in reaction to pompous or boastful talk, or someone giving himself airs. Cf. Applecross use of searbhan.</description>
+    </item>
+    <item>
+      <headword id="idp166491064">sgamaichdidh</headword>
+      <description>Quotation: Sgamaichdidh mi thu! Notes: ‘I’ll hammer you’ or (verbally) tear off a strip.</description>
+    </item>
+    <item>
+      <headword id="idp166489480">taigh-oifis</headword>
+      <description>Notes: privy.</description>
+    </item>
+    <item>
+      <headword id="idp166487464">tarbh-shìolag</headword>
+      <description>Notes: small fish that stings and causes drowsiness.</description>
+    </item>
+    <item>
+      <headword id="idp166485736">bannas</headword>
+      <description>Notes: gum, roof of mouth. Cf. Neil MacLeod, Songs (1893 edn) p. 159.</description>
+    </item>
+    <item>
+      <headword id="idp166484944">bòil</headword>
+      <description>Quotation: Bhòil e mach. Notes: used of someone suddenly vomiting. Eng. bowl?</description>
+    </item>
+    <item>
+      <headword id="idp166483288">camairneach</headword>
+      <description>Notes: a person with some deformity. (Quoting D. Boyd, Barra.)</description>
+    </item>
+    <item>
+      <headword id="idp166481704">clabag</headword>
+      <description>Quotation: (1) Tha clabag mhath oirre. (2) Phàigh e clabag mhath air. Dh’fhàg e clabag mhath. Notes: (1) Of wind causing a choppy sea. Cf. Applecross clabach. (2) Of sum of money.</description>
+    </item>
+    <item>
+      <headword id="idp166479760">cle-sheanchainn</headword>
+      <description>Quotation: Dé chle-sheanchainn a th’agad ann a sin? Notes: used of any old, ramshackle object. From cliar-sheanchainn?</description>
+    </item>
+    <item>
+      <headword id="idp166478248">comharsba(dh)</headword>
+      <description>Quotation: Na bithibh a’ comharsba riumsa idir. Notes: ? Competing, striving. Could be used by host who has finished eating, but still urges the others at the table to carry on.</description>
+    </item>
+    <item>
+      <headword id="idp166476016">druineach</headword>
+      <description>Notes: ? Outlandish person.</description>
+    </item>
+    <item>
+      <headword id="idp166474216">gulm</headword>
+      <description>Notes: raging fire, inferno.</description>
+    </item>
+  </items>
+</fieldworkDocument>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 5/8/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_BarraCMacInnesslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>1986-88, 1993-97</date>
+  <informant>
+    <nameEnglish>Mrs Christine MacInnes</nameEnglish>
+  </informant>
+  <location>Barra, Northbay</location>
+  <items>
+    <item>
+      <headword id="idp161921576">là</headword>
+      <description>Quotation: Là na strùthan. Notes: Michaelmas – 29 September.</description>
+    </item>
+    <item>
+      <headword id="idp161918624">mont</headword>
+      <description>Quotation: aig mont. Notes: out courting.</description>
+    </item>
+    <item>
+      <headword id="idp161917400">dronn</headword>
+      <description>Notes: corncrake.</description>
+    </item>
+    <item>
+      <headword id="idp161912504">lethsgoran</headword>
+      <description>Notes: a portion of a round bannock cut horizontally with butter and/or jam in between the layers. (leth + sgor)</description>
+    </item>
+    <item>
+      <headword id="idp161840936">feachaireachd</headword>
+      <description>Quotation: Là na feachaireachd. Thug e an fheachaireachd aisde. Notes: April Fools’ Day.</description>
+    </item>
+    <item>
+      <headword id="idp161869808">là na feachaireachd</headword>
+      <description>Notes: April Fools’ Day.</description>
+    </item>
+    <item>
+      <headword id="idp161871464">doirean</headword>
+      <description>Quotation: na doirean. Notes: ringworm.</description>
+    </item>
+    <item>
+      <headword id="idp161827760">sìlinn</headword>
+      <description>Notes: ‘grain’ (of sugar).</description>
+    </item>
+    <item>
+      <headword id="idp161873912">seannlachadh</headword>
+      <description>Quotation: Bha mi gu seannlachadh leis an acras. Notes: ‘famished’ with hunger. (? seann + lathachadh)</description>
+    </item>
+    <item>
+      <headword id="idp161876144">clamag</headword>
+      <description>Quotation: an deagh chlamag airgid. Notes: ‘a substantial sum of money’. Source: essay by Faye MacLeod, Barra, confirmed by Mrs Christine MacInnes, Barra.</description>
+    </item>
+    <item>
+      <headword id="idp161877656">biothlathadh</headword>
+      <description>Quotation: Tha (’m) biothlathadh orm. Notes: ravenously hungry. (? biadh + lathadh)</description>
+    </item>
+    <item>
+      <headword id="idp161879888">sgudalach</headword>
+      <description>Quotation: tè sgudalach. Notes: used of weak, watery tea.</description>
+    </item>
+    <item>
+      <headword id="idp161881688">strùthan</headword>
+      <description>Notes: Michaelmas cake – scone with treacle batter covering.</description>
+    </item>
+    <item>
+      <headword id="idp161884208">taigh-studaidh</headword>
+      <description>Notes: privy.</description>
+    </item>
+    <item>
+      <headword id="idp161886008">tollaig</headword>
+      <description>Notes: sultry weather.</description>
+    </item>
+    <item>
+      <headword id="idp161885432">tollaigeach</headword>
+      <description>Notes: sultry (of weather).</description>
+    </item>
+    <item>
+      <headword id="idp161888312">badag</headword>
+      <description>Notes: feather brush used when baking.</description>
+    </item>
+    <item>
+      <headword id="idp161890400">breothach</headword>
+      <description>Notes: ‘Angry’. Not a Barra word – S. Uist, and possibly Eriskay.</description>
+    </item>
+    <item>
+      <headword id="idp161891912">breothaich (n.)</headword>
+      <description>Quotation: A bheil a’ bhreothaich ort? Notes: anger. S. Uist, and possibly Eriskay word.</description>
+    </item>
+    <item>
+      <headword id="idp161892488">bulgais</headword>
+      <description>Quotation: Cuiridh e a’ bhulgais ort. Notes: will make you sick/vomit.</description>
+    </item>
+    <item>
+      <headword id="idp161892848">cè</headword>
+      <description>Quotation: Cè dhomh e. Notes: ‘Hand, pass it to me.’ Applecross form: cì.</description>
+    </item>
+    <item>
+      <headword id="idp161894360">cnàpladh</headword>
+      <description>Notes: noisy munching.</description>
+    </item>
+    <item>
+      <headword id="idp161896376">cricket</headword>
+      <description>Quotation: Nach e “chricket” i. Notes: bold girl.</description>
+    </item>
+    <item>
+      <headword id="idp161897744">dideis</headword>
+      <description>Quotation: ‘Dè ’n dideis a th’ort?’ Notes: ?Eng. fidget?</description>
+    </item>
+    <item>
+      <headword id="idp161899904">fàlan</headword>
+      <description>Notes: party on Easter Sunday or Palm Sunday.</description>
+    </item>
+    <item>
+      <headword id="idp161902208">fallaid</headword>
+      <description>Notes: remains of flour on the griddle.</description>
+    </item>
+    <item>
+      <headword id="idp161903288">garrthadh</headword>
+      <description>Quotation: Tha garr(a)thadh air an aodach/air an fheur. Notes: of clothes beginning to get dry. Cf. Applecross sgiath.</description>
+    </item>
+  </items>
+</fieldworkDocument>

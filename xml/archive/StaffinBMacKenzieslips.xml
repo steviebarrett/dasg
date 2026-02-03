@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 27/10/15 -->
+<!-- illustrations -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_StaffinBMacKenzieslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>07/1970</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <informant>
+    <nameEnglish>Bertie MacKenzie</nameEnglish>
+  </informant>
+  <location>Skye, Staffin</location>
+  <items>
+    <item>
+      <headword id="idp118681968">lamp-eòlan</headword>
+      <description>[ɫ[ɑ̃ũ̟]mpjɔ:ɫɑ̃ṉ] Notes: oil lamp, sometimes applied to the crùisgean.</description>
+    </item>
+    <item>
+      <headword id="idp118697520">lonaig</headword>
+      <description>Notes: a path through the croft.</description>
+    </item>
+    <item>
+      <headword id="idp118699032">maor-cladaich</headword>
+      <description>Notes: he regulated the distribution of seaweed.</description>
+    </item>
+    <item>
+      <headword id="idp118700544">milteag</headword>
+      <description>Notes: bundle of 12 “slògagan” q.v.</description>
+    </item>
+    <item>
+      <headword id="idp118702056">slògag</headword>
+      <description>[sɫɔ:ɡɑɡ] Notes: “slates” made up of small sheaves of corn. The seed was removed and the sheaf tied at the top of the stalks. The bottom part was then spread out like a fan. This was done in autumn. They were then laid in “bundles” of a dozen over the winter. By spring they were placed flat. Put on roof like slates.</description>
+    </item>
+    <item>
+      <headword id="idp118703784">traon</headword>
+      <description>[t̪ɾw̃:ṉ] Notes: corncrake.</description>
+    </item>
+    <item>
+      <headword id="idp118705512">beart-shùgan</headword>
+      <description>Notes: rope-making tool. <illustration src="StaffinBMacKenzieslipsillust1.jpg" width="300"/></description>
+    </item>
+    <item>
+      <headword id="idp118707024">ceirle-shiomain</headword>
+      <description>Notes: could be a ball of hay, straw or heather rope.</description>
+    </item>
+    <item>
+      <headword id="idp118708536">froigh-shnighe</headword>
+      <description>Notes: a slight dripping of water from the thatch after it had been newly thatched.</description>
+    </item>
+    <item>
+      <headword id="idp118710048">glùn</headword>
+      <description>Notes: support for the rafter between it and the top of the wall inside. <illustration src="StaffinBMacKenzieslipsillust2.jpg" width="250"/></description>
+    </item>
+    <item>
+      <headword id="idp118711560">gormariachan</headword>
+      <description>[ɡɔɾɔmɑɾiɑxɑṉ] Notes: a snipe.</description>
+    </item>
+  </items>
+</fieldworkDocument>

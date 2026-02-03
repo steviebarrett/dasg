@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 7/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_NorthUistPStewartslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>1979</date>
+  <informant>
+    <nameEnglish>Peggy Stewart</nameEnglish>
+  </informant>
+  <location>North Uist</location>
+  <items>
+    <item>
+      <headword id="idp165156504">blàr aodhainn</headword>
+      <description>Quotation: Nach ann a tha am blàr-aodhainn. Notes: fireannach gòrach.</description>
+    </item>
+    <item>
+      <headword id="idp165158160">blineas</headword>
+      <description>Quotation: Nach ann air a tha am blineas a’ gaireachdainn. Notes: facial expression.</description>
+    </item>
+    <item>
+      <headword id="idp165159888">conaghadh</headword>
+      <description>Quotation: Ghabh e conaghadh. Notes: over-excitement.</description>
+    </item>
+    <item>
+      <headword id="idp165161544">druidsear</headword>
+      <description>Notes: see druidsearachd.</description>
+    </item>
+    <item>
+      <headword id="idp165163056">druidsearachd</headword>
+      <description>Quotation: Bha e druidsearachd bho àite gu àite. Notes: going from place to place and not getting much done.</description>
+    </item>
+    <item>
+      <headword id="idp165164784">geodail</headword>
+      <description>Quotation: Nach ann ort a tha a’ gheodail bruidhne.</description>
+    </item>
+    <item>
+      <headword id="idp165166296">gobag</headword>
+      <description>Quotation: Chan eil innte ach gobag boireannaich.</description>
+    </item>
+    <item>
+      <headword id="idp165167808">lonaid</headword>
+      <description>Notes: boireannach gòrach.</description>
+    </item>
+    <item>
+      <headword id="idp165169320">miastadh</headword>
+      <description>Quotation: Tha iad sud ’sa mhiastadh a rithist. Notes: destruction.</description>
+    </item>
+    <item>
+      <headword id="idp165170976">ònaid</headword>
+      <description>Notes: boireannach gòrach.</description>
+    </item>
+    <item>
+      <headword id="idp165172488">rapach</headword>
+      <description>Quotation: Nach e tha ràpach [sic]. Notes: untidy.</description>
+    </item>
+    <item>
+      <headword id="idp165174144">rongach</headword>
+      <description>Quotation: Nach e tha rongach. Notes: duine bhiodh fadalach.</description>
+    </item>
+    <item>
+      <headword id="idp165175800">seotaire</headword>
+      <description>Quotation: Nach b’e seotaire. Notes: lazy, idle person.</description>
+    </item>
+    <item>
+      <headword id="idp165177456">sgraing</headword>
+      <description>Quotation: Nach ann ort a tha an sgraing. Notes: facial expression.</description>
+    </item>
+    <item>
+      <headword id="idp165179112">speilbheis</headword>
+      <description>Quotation: Nach ann annad a tha an speilbheis. Notes: “duine bhiodh fadalach ag ithe”.</description>
+    </item>
+    <item>
+      <headword id="idp165180768">spiulag</headword>
+      <description>Quotation: O spiulag ort! Notes: addressing someone who’d had some accident, e.g. had just dropped a cup, or something like that.</description>
+    </item>
+    <item>
+      <headword id="idp165182424">trilleach</headword>
+      <description>Quotation: Cha ruig thu leas a dhol gu trilleach ’sam bith air mo shon. Notes: dragh.</description>
+    </item>
+    <item>
+      <headword id="idp165184080">tutanachadh</headword>
+      <description>Quotation: Bha iad ’gam thutanachadh airson a dhol ann. Notes: “They were trying to push me into going.”</description>
+    </item>
+  </items>
+</fieldworkDocument>

@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 3 6 14 -->
+<fieldworkDocument docId="AOHenley_GarrynamonieROHenleymisc2" docType="wordlist" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>[1987-88]</date>
+  <fieldworker personId="ohenleya">A. O’Henley</fieldworker>
+  <note>[NOTES: some notes in pencil most probably added by K. D. MacDonald. See below for details.]</note>
+  <informant personId="ohenleyr">
+    <nameEnglish>R[oderick] O’Henley</nameEnglish>
+  </informant>
+  <location>South Uist, Garrynamonie</location>
+  <items>
+    <item>
+      <headword id="idp2629240">adhann</headword>
+      <description>position of a capsized sheep. “Chaidh i air a h-adhann.”</description>
+    </item>
+    <item>
+      <headword id="idp2625856">loradh</headword>
+      <description>a nick or groove.</description>
+    </item>
+    <item>
+      <headword id="idp2622400">asg</headword>
+      <description>skin and bone. “Chan eil ann ach an asg.”</description>
+    </item>
+    <item>
+      <headword id="idp2646160">laighe siubhla</headword>
+      <description>a woman in state of travail.</description>
+    </item>
+    <item>
+      <headword id="idp2647672">leabaidh siubhla</headword>
+      <description>the bed on which such a woman [i.e. woman in state of travail] is placed. [Cf. laighe siubhla].</description>
+    </item>
+    <item>
+      <headword id="idp2649184">bainne siamain</headword>
+      <description>curds.</description>
+    </item>
+    <item>
+      <headword id="idp112159056">ball searaist</headword>
+      <description>a quarrelsome, scolding woman.</description>
+    </item>
+    <item>
+      <headword id="idp112155888">is dithis dhuinn sin</headword>
+      <description>expression for people having shared some experience.</description>
+    </item>
+    <item>
+      <headword id="idp112153944">fìdeag</headword>
+      <description>fetter put on a sheep. Also used on lambs. Is this from Scots word ‘fittock’ which was an overshoe made from stocking heads??</description>
+    </item>
+    <item>
+      <headword id="idp112143288">barracha biod</headword>
+      <description>on tiptoes.</description>
+    </item>
+    <item>
+      <headword id="idp112140048">gille mo ghnothaich</headword>
+      <description>applied to a smart boy.</description>
+    </item>
+    <item>
+      <headword id="idp112162656">sgràilleag</headword>
+      <description>a morsel.</description>
+    </item>
+    <item>
+      <headword id="idp112164168">barr suma</headword>
+      <description>amount of animals allowed in a particular township.</description>
+    </item>
+    <item>
+      <headword id="idp112165464">iolghaothach</headword>
+      <description>variable winds.</description>
+    </item>
+    <item>
+      <headword id="idp112167048">bior chul chas</headword>
+      <description>a cross pin pushed through hind legs of flayed animal and hung up to dry.</description>
+    </item>
+    <item>
+      <headword id="idp112168848">a mullach nam bothannan</headword>
+      <description>seventh degree of rage.</description>
+    </item>
+    <item>
+      <headword id="idp112170360">braoid</headword>
+      <description>a halter.</description>
+    </item>
+    <item>
+      <headword id="idp112171872">braoidseach</headword>
+      <description>a bridled horse.</description>
+    </item>
+    <item>
+      <headword id="idp112173384">caban</headword>
+      <description>an instrument used in capping.</description>
+    </item>
+    <item>
+      <headword id="idp112174896">màrach</headword>
+      <description>used of a cow that cannot be satiated, satisfied.</description>
+    </item>
+    <item>
+      <headword id="idp112175544">calman codhail</headword>
+      <description>a godsend, windfall.</description>
+    </item>
+    <item>
+      <headword id="idp112175184">lìthseag</headword>
+      <description>a skin like covering on cattle’s excrement. Indicates that the beast is not in good health.</description>
+    </item>
+    <item>
+      <headword id="idp112154952">caora chàraidh</headword>
+      <description>sheep taken from tenants by proprietor at Halloween.</description>
+    </item>
+    <item>
+      <headword id="idp112139832">balt</headword>
+      <description>the side of a shoe. “Thàinig i air falbh bho’n bhalt.”</description>
+    </item>
+    <item>
+      <headword id="idp112141848">clamhan</headword>
+      <description>someone who has not progressed in shape or body weight.</description>
+    </item>
+    <item>
+      <headword id="idp112146744">duine miarranda</headword>
+      <description>someone who had no appetite for food.</description>
+    </item>
+    <item>
+      <headword id="idp112151568">càrr</headword>
+      <description>mist. “Nuair a thogas a càrr far na beinne.”</description>
+    </item>
+    <item>
+      <headword id="idp112154160">ràpair</headword>
+      <description>a piece of canvas used as a makeshift towel. Variant on ‘riopair’.</description>
+    </item>
+    <item>
+      <headword id="idp112155456">cathalladh</headword>
+      <description>trouble, burden especially in rearing children.</description>
+    </item>
+    <item>
+      <headword id="idp112159704">rèidh riobaineach</headword>
+      <description>this would be said for example after a tempestuous meeting which you had expected – “Bha fios nach biodh gnothaichean cho reidh riobaineach sin.”</description>
+    </item>
+    <item>
+      <headword id="idp112121400">ceannardach</headword>
+      <description>end of ploughed fields temporarily left fallow.</description>
+    </item>
+    <item>
+      <headword id="idp112122552">cliathair</headword>
+      <description>waulking board.</description>
+    </item>
+    <item>
+      <headword id="idp112124640">clamadh</headword>
+      <description>castration by tying horse hair around the scrotum.</description>
+    </item>
+    <item>
+      <headword id="idp112126224">clioba</headword>
+      <description>a box which held straw for horses and cattle.</description>
+    </item>
+    <item>
+      <headword id="idp112126512">crann</headword>
+      <description>in sense of a coffin. “Anns a’ chrann air a chàradh ’n deidh na tàirnean a dhlùthadh.”</description>
+    </item>
+    <item>
+      <headword id="idp112129536">trotag tràghad</headword>
+      <description>sandpiper.</description>
+    </item>
+    <item>
+      <headword id="idp112130976">cuan</headword>
+      <description>young of animals. A litter.</description>
+    </item>
+    <item>
+      <headword id="idp112131912">tomadan choin</headword>
+      <description>little hummocks found in fields and against which dogs frequently relieve themselves.</description>
+    </item>
+    <item>
+      <headword id="idp112134288">cùmhlach</headword>
+      <description>smaller feathers on chickens before developing bigger feathers.</description>
+    </item>
+    <item>
+      <headword id="idp112137096">tèamain</headword>
+      <description>attractive, stiff cloth made from the longest and best type of wool. Women’s dresses and men’s coats and capes made from this material. Sent to the mainland to be finished or dressed. Then called ‘caimleid’. [NOTES: note added in pencil: fuaim?]</description>
+    </item>
+    <item>
+      <headword id="idp112132704">gruidheam</headword>
+      <description>a meal something like black pudding. When cattle had come down from shieling there was a custom of extracting blood since the cattle were healthy enough after their summer pasturage on the shieling land. This blood was boiled and then salted in a container and set aside as an ‘aindeal geamhraidh’. When it was needed it was put in a pot with fat and onions. Eaten with bread like a black pudding.</description>
+    </item>
+    <item>
+      <headword id="idp2942112">cuir dhachaidh</headword>
+      <description>harvesting term. “An do thòisich sibh air a chuir dhachaidh fhathast.”</description>
+    </item>
+    <item>
+      <headword id="idp2943336">caileap</headword>
+      <description>base of souming, i.e. 1/8 cow.</description>
+    </item>
+    <item>
+      <headword id="idp2944488">fasglann</headword>
+      <description>a shelter, e.g. bus shelter.</description>
+    </item>
+    <item>
+      <headword id="idp2945712">bil(e)</headword>
+      <description>term associated with constructing cornstacks. As you prepare to taper off towards the top, a special layer of sheaves are laid right round the stack so that they protrude about six inches out from the stack. This allows the rain to run off. “Bil(e) a’ mhullain.”</description>
+    </item>
+  </items>
+</fieldworkDocument>
+

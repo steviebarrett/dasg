@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 27/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_SleatMissFraserslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>1967</date>
+  <informant>
+    <nameEnglish>Miss Fraser</nameEnglish>
+  </informant>
+  <location>Skye, Sleat, Duisdale School</location>
+  <items>
+    <item>
+      <headword id="idp115447704">abaichean</headword>
+      <description>Quotation: na h-abaichean. Notes: the alphabet (Badenoch).</description>
+    </item>
+    <item>
+      <headword id="idp115444680">cille</headword>
+      <description>Quotation: Cille mhainn (?) [kʹiLʹə vəiNʹ]. Notes: a pencil (Badenoch).</description>
+    </item>
+  </items>
+</fieldworkDocument>

@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 15 1 15 -->
+<!-- no IDs yet -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="DRMorrisonetal_FolkestoneCKostermisc" docType="wordlist" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <fieldworker>[self]</fieldworker>
+  <note>[NOTES: the informant explains in the letter attached to the word-list that it contains ‘some unusual words I heard from my parents – my mother being a native of Applecross (…) A few of these words I heard on holiday in Melness last summer.’]</note>
+  <informant>
+    <nameEnglish>Catherine Koster</nameEnglish>
+    <origin>Applecross [mother]</origin>
+  </informant>
+  <location>Kent, Folkestone</location>
+  <items>
+    <item>
+      <headword id="d0e31">biortachdain</headword>
+      <description>uplift (e.g. as given by a cup of tea to a person when ‘fann’).</description>
+    </item>
+    <item>
+      <headword id="d0e40">sgolthach</headword>
+      <description>cloudy.</description>
+    </item>
+    <item>
+      <headword id="d0e49">sgloidseach</headword>
+      <description>flabby and clumsy (applied to a person).</description>
+    </item>
+    <item>
+      <headword id="d0e58">frithile</headword>
+      <description>impatient.</description>
+    </item>
+    <item>
+      <headword id="d0e67">drun</headword>
+      <description>ro dhrun ris – at a particular job too long causing tiredness.</description>
+    </item>
+    <item>
+      <headword id="d0e76">a’ bamhran</headword>
+      <description>wandering aimlessly.</description>
+    </item>
+    <item>
+      <headword id="d0e85">a’ siubhlaid</headword>
+      <description>wandering.</description>
+    </item>
+    <item>
+      <headword id="d0e94">briùchd</headword>
+      <description>melt or milt (male roe).</description>
+    </item>
+    <item>
+      <headword id="d0e103">gorgad</headword>
+      <description>a scold, e.g. Thug e gorgad orm.</description>
+    </item>
+    <item>
+      <headword id="d0e112">lorgag</headword>
+      <description>a piece of rowan stick given to babies to chew when teething.</description>
+    </item>
+    <item>
+      <headword id="d0e121">grìogagan</headword>
+      <description>beads.</description>
+    </item>
+    <item>
+      <headword id="d0e130">monusg</headword>
+      <description>mush (always used for overdone potatoes – Tha ’m buntàta ’nam monusg).</description>
+    </item>
+    <item>
+      <headword id="d0e139">dachag</headword>
+      <description>a small dish or vase.</description>
+    </item>
+    <item>
+      <headword id="d0e148">cuanàrd</headword>
+      <description>a crowd of people.</description>
+    </item>
+    <item>
+      <headword id="d0e157">a’ dlìgheach</headword>
+      <description>about to vomit, what we call ‘boaking’ in Scots.</description>
+    </item>
+    <item>
+      <headword id="d0e166">meaban</headword>
+      <description>a bedraggled object.</description>
+    </item>
+    <item>
+      <headword id="d0e175">papach</headword>
+      <description>(accent on the pap) peely-wally, pale-faced.</description>
+    </item>
+    <item>
+      <headword id="d0e184">gliùineach</headword>
+      <description>lukewarm.</description>
+    </item>
+    <item>
+      <headword id="d0e193">séill</headword>
+      <description>a haze (on the sun).</description>
+    </item>
+    <item>
+      <headword id="d0e202">cànalas orra</headword>
+      <description>a kind of curse (don’t know what it means).</description>
+    </item>
+    <item>
+      <headword id="d0e211">dìsidh</headword>
+      <description>chilly (more than grìseach).</description>
+    </item>
+    <item>
+      <headword id="d0e220">fidealach bheag</headword>
+      <description>the game of hide and seek.</description>
+    </item>
+    <item>
+      <headword id="d0e229">glòman</headword>
+      <description>[?] noise made by eider ducks in company or a crowd of people.</description>
+    </item>
+    <item>
+      <headword id="d0e238">coilleag</headword>
+      <description>as coilleag with long ‘o’ – fat globules on a liquid.</description>
+    </item>
+    <item>
+      <headword id="d0e247">ag aobraich</headword>
+      <description>working to no purpose (as children’s activity).</description>
+    </item>
+    <item>
+      <headword id="d0e256">griùigar</headword>
+      <description>a surly look.</description>
+    </item>
+    <item>
+      <headword id="d0e265">fròlaisgean</headword>
+      <description>a frayed edge (as on a skirt).</description>
+    </item>
+    <item>
+      <headword id="d0e274">fròluisgean</headword>
+      <description>[See fròlaisgean.]</description>
+    </item>
+    <item>
+      <headword id="d0e283">fìgearsan</headword>
+      <description>titbits, dainties.</description>
+    </item>
+    <item>
+      <headword id="d0e292">griùlas</headword>
+      <description>beginning of a cry in a baby (like boilleag).</description>
+    </item>
+    <item>
+      <headword id="d0e301">tràbach</headword>
+      <description>soaking (as of a day – used at Melness).</description>
+    </item>
+    <item>
+      <headword id="d0e310">bith-aighe</headword>
+      <description>(? sounds like eye) an earthworm. (at Melness)</description>
+    </item>
+    <item>
+      <headword id="d0e319">pagan</headword>
+      <description>a puffin. (Melness)</description>
+    </item>
+    <item>
+      <headword id="d0e328">eileag</headword>
+      <description>for eireag. (Melness)</description>
+    </item>
+    <item>
+      <headword id="d0e337">donas-creige</headword>
+      <description>blenny. (Melness)</description>
+    </item>
+    <item>
+      <headword id="d0e346">bròg-shìlig</headword>
+      <description>a cod-roe.</description>
+    </item>
+    <item>
+      <headword id="d0e355">ming</headword>
+      <description>pronunciation of miùg (whey) at Melness.</description>
+    </item>
+    <item>
+      <headword id="d0e364">soillt</headword>
+      <description>fat of a herring (blonaig). (Melness)</description>
+    </item>
+    <item>
+      <headword id="d0e373">Chuir e turbhan orm</headword>
+      <description>he disgusted me.</description>
+    </item>
+    <item>
+      <headword id="d0e382">Cha dèan e car a churan</headword>
+      <description>he won’t do a stroke.</description>
+    </item>
+    <item>
+      <headword id="d0e391">[eòlas cocha-féithe ]</headword>
+      <description>my mother talks of eòlas cocha-féithe – a method of curing by tying a string round the patient’s wrist and murmuring a verse.</description>
+    </item>
+    <item>
+      <headword id="d0e400">[‘Na Cóig’ or a’ Ghriùthran]</headword>
+      <description>“She [my mother] played a game called ‘Na Cóig’ or a’ Ghriùthran with five pebbles. Various moves were undertaken while tossing them, these I recollect: Cóig, Deich, Co’deug, Fichead Roisinne mhór, Roisinne bheag, Slipean mór, Slipean beag, Cóig dhuilich, Fad na h-uilinn, Cóig na cearraig, Cóig dhall, Garra mór, garra beag, Cóig an aoidh, Cóig an aoidh ’n adhar, Griùthran, Crogais mhóra, Crogais bheaga.”</description>
+    </item>
+    <item>
+      <headword id="d0e409">[Rutchumas (?)</headword>
+      <description>[?] ] She [my mother] also played a game called Rutchumas (?) with 2 teams of 6, each with a tree branch which the other team tried to capture.</description>
+    </item>
+  </items>
+</fieldworkDocument>

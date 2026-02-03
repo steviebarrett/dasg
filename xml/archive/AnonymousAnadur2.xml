@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 11 6 13 -->
+<fieldworkDocument docId="AssortedFieldworkers_AnonymousAnadur2" docType="questionnaire" subType="NadurAnDuine">
+  <title>Nàdur an Duine / Personality</title>
+  <fieldworker>Anonymous A</fieldworker>
+  <note>[NOTES: the questionnaire has not been stapled in any particular order and it seems that some pages have been stapled separately.]</note>
+  <items>
+    <item><headword id="d0e17" type="heading" level="h1">Polite / Coarse</headword></item>
+    <item>
+      <headword id="d0e22">duine suairce</headword>
+      <description>to us would be a friendly, gentle, kind man.</description>
+    </item>
+    <item>
+      <headword id="d0e31">modhail</headword>
+      <description>well-mannered.</description>
+    </item>
+    <item>
+      <headword id="d0e40">grinn</headword>
+      <description>neat.</description>
+    </item>
+    <item>
+      <headword id="d0e49">snasmhòr</headword>
+      <description>neat.</description>
+    </item>
+    <item>
+      <headword id="d0e58">fìnealta</headword>
+      <description>dainty.</description>
+    </item>
+    <item>
+      <headword id="d0e67">snòg</headword>
+      <description>dainty.</description>
+    </item>
+    <item>
+      <headword id="d0e76">garg</headword>
+      <description>coarse.</description>
+    </item>
+    <item>
+      <headword id="d0e85">droch nàdur</headword>
+      <description>bad temper.</description>
+    </item>
+    <item>
+      <headword id="d0e94">salach</headword>
+      <description>dirty.</description>
+    </item>
+    <item>
+      <headword id="d0e103">mi-mhodhail</headword>
+      <description>bad-mannered.</description>
+    </item>
+    <item><headword id="d0e111" type="heading" level="h1">A successful man / A failure</headword></item>
+    <item>
+      <headword id="d0e116">miannach</headword>
+      <description>ambitious.</description>
+    </item>
+    <item>
+      <headword id="d0e125">comasach</headword>
+      <description>capable.</description>
+    </item>
+    <item>
+      <headword id="d0e134">beothail</headword>
+      <description>lively.</description>
+    </item>
+    <item>
+      <headword id="d0e143">leisg</headword>
+      <description>lazy.</description>
+    </item>
+    <item>
+      <headword id="d0e152">leisgeid</headword>
+      <description>a lazy female.</description>
+    </item>
+    <item>
+      <headword id="d0e161">leisgaire</headword>
+      <description>a lazy male.</description>
+    </item>
+    <item>
+      <headword id="d0e170">leògaire</headword>
+      <description>a lazy male.</description>
+    </item>
+    <item>
+      <headword id="d0e179">drealan</headword>
+      <description>daydream.</description>
+    </item>
+    <item>
+      <headword id="d0e188">mi-iomchuidh</headword>
+      <description>incompetent.</description>
+    </item>
+    <item>
+      <headword id="d0e197">[luid]</headword>
+      <description>For an untidy housewife we used the word – “luid”.</description>
+    </item>
+    <item>
+      <headword id="d0e206">ròpach</headword>
+      <description>untidy.</description>
+    </item>
+    <item>
+      <headword id="d0e215">luideach</headword>
+      <description>untidy.</description>
+    </item>
+    <item>
+      <headword id="d0e224">mi-sgoinneil</headword>
+      <description>untidy.</description>
+    </item>
+    <item>
+      <headword id="d0e233">creutair suarach</headword>
+      <description>an insignificant [sic].</description>
+    </item>
+    <item>
+      <headword id="d0e242">gun fheum</headword>
+      <description>useless.</description>
+    </item>
+    <item><headword id="d0e250" type="heading" level="h1">Good company / Bad company</headword></item>
+    <item>
+      <headword id="d0e255">blàth chridheach agus coibhneil</headword>
+      <description>warm-hearted and kind.</description>
+    </item>
+    <item>
+      <headword id="d0e264">geur</headword>
+      <description>witty.</description>
+    </item>
+    <item>
+      <headword id="d0e273">suilbhir</headword>
+      <description>cheerful.</description>
+    </item>
+    <item>
+      <headword id="d0e282">aighearach</headword>
+      <description>cheerful.</description>
+    </item>
+    <item>
+      <headword id="d0e291">cracaire math</headword>
+      <description>good talker.</description>
+    </item>
+    <item>
+      <headword id="d0e300">deadh fhear ceilidh</headword>
+      <description>an entertaining fellow.</description>
+    </item>
+    <item>
+      <headword id="d0e309">dibhearsain</headword>
+      <description>joking.</description>
+    </item>
+    <item>
+      <headword id="d0e318">fealla-dha</headword>
+      <description>joking.</description>
+    </item>
+    <item>
+      <headword id="d0e327">cruaidh chridheach</headword>
+      <description>hard-hearted.</description>
+    </item>
+    <item>
+      <headword id="d0e336">spiocach</headword>
+      <description>mean.</description>
+    </item>
+    <item>
+      <headword id="d0e345">bradach</headword>
+      <description>thieving.</description>
+    </item>
+    <item>
+      <headword id="d0e354">sgeigeach</headword>
+      <description>sarcastic.</description>
+    </item>
+    <item>
+      <headword id="d0e363">magail</headword>
+      <description>mocking.</description>
+    </item>
+    <item>
+      <headword id="d0e372">capach</headword>
+      <description>gossipy.</description>
+    </item>
+    <item>
+      <headword id="d0e381">cabag</headword>
+      <description>a gossip.</description>
+    </item>
+    <item>
+      <headword id="d0e390">gobag</headword>
+      <description>a gossip.</description>
+    </item>
+    <item>
+      <headword id="d0e399">duine fada thall</headword>
+      <description>a loner.</description>
+    </item>
+    <item><headword id="d0e407" type="heading" level="h1">A good man / A bad man</headword></item>
+    <item>
+      <headword id="d0e412">ònarach</headword>
+      <description>honest.</description>
+    </item>
+    <item>
+      <headword id="d0e421">earbsach</headword>
+      <description>dependable.</description>
+    </item>
+    <item>
+      <headword id="d0e430">ceart</headword>
+      <description>just.</description>
+    </item>
+    <item>
+      <headword id="d0e439">treibhdhireach</headword>
+      <description>just.</description>
+    </item>
+    <item>
+      <headword id="d0e448">diadhaidh</headword>
+      <description>religious.</description>
+    </item>
+    <item>
+      <headword id="d0e457">fior-ghlan</headword>
+      <description>pure.</description>
+    </item>
+    <item>
+      <headword id="d0e466">slàn fallain</headword>
+      <description>pure.</description>
+    </item>
+    <item>
+      <headword id="d0e475">dileas</headword>
+      <description>faithful, sincere.</description>
+    </item>
+    <item>
+      <headword id="d0e484">[costadh]</headword>
+      <description>We would say of anyone doing a good deed – “’S math an costadh a rinn e.” And men of good deeds – “daoine costach”.</description>
+    </item>
+    <item>
+      <headword id="d0e493">[costach]</headword>
+      <description>[Daoine costach – men of good deeds. Cf. costadh.]</description>
+    </item>
+    <item>
+      <headword id="d0e502">mi-ònarach</headword>
+      <description>dishonest.</description>
+    </item>
+    <item>
+      <headword id="d0e511">slaoightire</headword>
+      <description>rogue.</description>
+    </item>
+    <item>
+      <headword id="d0e520">mi-earbsach</headword>
+      <description>not dependable.</description>
+    </item>
+    <item>
+      <headword id="d0e529">mi cheart</headword>
+      <description>unjust.</description>
+    </item>
+    <item>
+      <headword id="d0e538">carach</headword>
+      <description>unjust.</description>
+    </item>
+    <item>
+      <headword id="d0e547">peacach</headword>
+      <description>sinner, sinful.</description>
+    </item>
+    <item>
+      <headword id="d0e556">neo-ghlan</headword>
+      <description>impure.</description>
+    </item>
+    <item>
+      <headword id="d0e565">iseinean</headword>
+      <description>mischievous children.</description>
+    </item>
+    <item>
+      <headword id="d0e574">gasain</headword>
+      <description>mischievous children.</description>
+    </item>
+    <item>
+      <headword id="d0e583">peasain</headword>
+      <description>impertinent.</description>
+    </item>
+    <item>
+      <headword id="d0e592">cronail</headword>
+      <description>mischievous.</description>
+    </item>
+    <item><headword id="d0e600" type="heading" level="h1">Cheerful / Gloomy</headword></item>
+    <item>
+      <headword id="d0e605">sona</headword>
+      <description>happy.</description>
+    </item>
+    <item>
+      <headword id="d0e614">àghmhor</headword>
+      <description>happy.</description>
+    </item>
+    <item>
+      <headword id="d0e623">sòcrach</headword>
+      <description>easygoing.</description>
+    </item>
+    <item>
+      <headword id="d0e632">féin smachd</headword>
+      <description>self control.</description>
+    </item>
+    <item>
+      <headword id="d0e641">foighidinn</headword>
+      <description>patience.</description>
+    </item>
+    <item>
+      <headword id="d0e650">soirbh</headword>
+      <description>placid.</description>
+    </item>
+    <item>
+      <headword id="d0e659">toilichte</headword>
+      <description>content.</description>
+    </item>
+    <item>
+      <headword id="d0e668">sàsaichte</headword>
+      <description>content.</description>
+    </item>
+    <item>
+      <headword id="d0e677">suilbhir</headword>
+      <description>cheerful.</description>
+    </item>
+    <item>
+      <headword id="d0e686">àbhachdach</headword>
+      <description>joyful, merry.</description>
+    </item>
+    <item>
+      <headword id="d0e695">tlachdmhor</headword>
+      <description>pleasant.</description>
+    </item>
+    <item>
+      <headword id="d0e704">taitneach</headword>
+      <description>pleasant.</description>
+    </item>
+    <item>
+      <headword id="d0e713">ciatach</headword>
+      <description>pleasant.</description>
+    </item>
+    <item>
+      <headword id="d0e722">gruamach</headword>
+      <description>gloomy.</description>
+    </item>
+    <item>
+      <headword id="d0e731">mùgach</headword>
+      <description>gloomy.</description>
+    </item>
+    <item>
+      <headword id="d0e740">gnùig</headword>
+      <description>surly look.</description>
+    </item>
+    <item>
+      <headword id="d0e749">stùic</headword>
+      <description>surly look.</description>
+    </item>
+    <item>
+      <headword id="d0e758">air bhioradh</headword>
+      <description>excitable.</description>
+    </item>
+    <item>
+      <headword id="d0e767">gnòigean</headword>
+      <description>sulky person.</description>
+    </item>
+    <item>
+      <headword id="d0e776">gnùigein</headword>
+      <description>surly person.</description>
+    </item>
+    <item>
+      <headword id="d0e785">stùicaire</headword>
+      <description>surly.</description>
+    </item>
+    <item>
+      <headword id="d0e794">stùiceag</headword>
+      <description>surly.</description>
+    </item>
+    <item>
+      <headword id="d0e803">trom inntinn</headword>
+      <description>depression.</description>
+    </item>
+    <item>
+      <headword id="d0e812">sprochd</headword>
+      <description>depression.</description>
+    </item>
+    <item>
+      <headword id="d0e821">bras</headword>
+      <description>impetuous.</description>
+    </item>
+    <item><headword id="d0e829" type="heading" level="h1">A wise man / Foolish</headword></item>
+    <item>
+      <headword id="d0e834">duine glic</headword>
+      <description>a wise man.</description>
+    </item>
+    <item>
+      <headword id="d0e843">tùrail</headword>
+      <description>sensible.</description>
+    </item>
+    <item>
+      <headword id="d0e852">ciallach</headword>
+      <description>sensible.</description>
+    </item>
+    <item>
+      <headword id="d0e861">toinisgeil</headword>
+      <description>sensible.</description>
+    </item>
+    <item>
+      <headword id="d0e870">fiosrachail</headword>
+      <description>intelligent.</description>
+    </item>
+    <item>
+      <headword id="d0e879">sgileil</headword>
+      <description>skilful.</description>
+    </item>
+    <item>
+      <headword id="d0e888">sgaomach</headword>
+      <description>lightheaded.</description>
+    </item>
+    <item>
+      <headword id="d0e897">gogaideach</headword>
+      <description>lightheaded.</description>
+    </item>
+    <item>
+      <headword id="d0e906">òinseach</headword>
+      <description>a foolish female.</description>
+    </item>
+    <item>
+      <headword id="d0e915">glaoichd</headword>
+      <description>a foolish female.</description>
+    </item>
+    <item>
+      <headword id="d0e924">burraidh</headword>
+      <description>a fool (male).</description>
+    </item>
+    <item>
+      <headword id="d0e933">baothaire</headword>
+      <description>a fool (male).</description>
+    </item>
+    <item>
+      <headword id="d0e942">gòrach</headword>
+      <description>foolish.</description>
+    </item>
+    <item>
+      <headword id="d0e951">[tiugh]</headword>
+      <description>For stupid we had the saying – “tiugh sa chlaigeann”.</description>
+    </item>
+    <item>
+      <headword id="d0e960">gun toinisg</headword>
+      <description>stupid, without common sense.</description>
+    </item>
+    <item>
+      <headword id="d0e969">glagaid</headword>
+      <description>a noisy woman.</description>
+    </item>
+    <item><headword id="d0e977" type="heading" level="h1">Bold / Timid</headword></item>
+    <item>
+      <headword id="d0e982">dalma</headword>
+      <description>bold.</description>
+    </item>
+    <item>
+      <headword id="d0e991">ladarna</headword>
+      <description>impudent.</description>
+    </item>
+    <item>
+      <headword id="d0e1000">calma</headword>
+      <description>brave.</description>
+    </item>
+    <item>
+      <headword id="d0e1009">coimheach</headword>
+      <description>shy.</description>
+    </item>
+    <item>
+      <headword id="d0e1018">clisgeach</headword>
+      <description>timid.</description>
+    </item>
+  </items>
+</fieldworkDocument>

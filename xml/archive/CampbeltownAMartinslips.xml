@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 10/8/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_CampbeltownAMartinslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>04/04/1976 (letter)</date>
+  <informant>
+    <nameEnglish>Angus Martin</nameEnglish>
+  </informant>
+  <location>Kintyre, Campbeltown</location>
+  <items>
+    <item>
+      <headword id="idp161827296">monais</headword>
+      <description>Notes: ‘coarse woolly twine used for setting up nets to ropes’. SND s.v. monish ‘orig. unascertained’.</description>
+    </item>
+    <item>
+      <headword id="idp161828808">bad</headword>
+      <description>Quotation: “We’ll try a bad.” Notes: ‘Shooting overboard 2 or 3 fathoms of net on a breezy night, as a test for presence of herring.’</description>
+    </item>
+    <item>
+      <headword id="idp161830464">ceannair</headword>
+      <description>Notes: the end of the bridle-rope, which is attached to the wing of the net. (Tarbert)</description>
+    </item>
+  </items>
+</fieldworkDocument>

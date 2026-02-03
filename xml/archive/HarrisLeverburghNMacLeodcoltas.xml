@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 23 4 14 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="HarrisVarious_HarrisLeverburghNMacLeodcoltas" docType="questionnaire" subType="ColtasAnDuine" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Coltas an Duine / Personal Appearance</title>
+  <fieldworker>[anonymous D]</fieldworker>
+  <informant>
+    <nameEnglish>Norman MacLeod</nameEnglish>
+    <age>late 60’s</age>
+  </informant>
+  <location>[Harris], Leverburgh</location>
+  <items>
+    <item><headword id="d0e26" type="heading" level="h1">Shapes and general appearance</headword></item>
+    <item>
+      <headword id="d0e31">rèic</headword>
+      <description>[?] a glutton.</description>
+    </item>
+    <item><headword id="d0e39" type="heading" level="h1">Deformities, blemishes, scars</headword></item>
+    <item>
+      <headword id="d0e44">ball-dòrain</headword>
+      <description>mole.</description>
+    </item>
+    <item>
+      <headword id="d0e53">buile thig</headword>
+      <description>swelling due to [sic].</description>
+    </item>
+    <item>
+      <headword id="d0e62">deaghrach</headword>
+      <description>a pain.</description>
+    </item>
+    <item>
+      <headword id="d0e71">deighreach</headword>
+      <description>bare-footed.</description>
+    </item>
+    <item>
+      <headword id="d0e80">duine ciorramach</headword>
+      <description>disformed [sic] person.</description>
+    </item>
+    <item>
+      <headword id="d0e89">làthrach</headword>
+      <description>[?] scar.</description>
+    </item>
+	<item><headword id="d0e97" type="heading" level="h1">Beauty and ugliness</headword></item>
+    <item><headword id="d0e101" type="heading" level="h1">Strength, fitness and the opposite</headword></item>
+    <item>
+      <headword id="d0e106">aigeannach</headword>
+      <description>active man.</description>
+    </item>
+    <item>
+      <headword id="d0e115">duine mea</headword>
+      <description>[?] slow moving, unfit person.</description>
+    </item>
+    <item><headword id="d0e123" type="heading" level="h1">Ways of walking, sitting, lying</headword></item>
+    <item>
+      <headword id="d0e128">a trotan</headword>
+      <description>walking quickly.</description>
+    </item>
+    <item>
+      <headword id="d0e137">duine slaodach</headword>
+      <description>slow.</description>
+    </item>
+    <item>
+      <headword id="d0e146">duine crotach</headword>
+      <description>hunchbacked man.</description>
+    </item>
+    <item>
+      <headword id="d0e155">duine na bhoill</headword>
+      <description>duine cabhagach.</description>
+    </item>
+	<item><headword id="d0e163" type="heading" level="h1">Pulling faces, frowns, other expressions</headword></item>
+    <item><headword id="d0e167" type="heading" level="h1">Clean and untidy</headword></item>
+    <item>
+      <headword id="d0e172">reibseach</headword>
+      <description>untidy person.</description>
+    </item>
+    <item>
+      <headword id="d0e181">luibseach</headword>
+      <description>untidy.</description>
+    </item>
+  </items>
+</fieldworkDocument>

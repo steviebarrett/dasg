@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 1 8 14 -->
+<!-- illustration -->
+<fieldworkDocument docId="AOHenley_WestKilbrideMMacLeanmisc2" docType="wordlist" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>[1987-88]</date>
+  <fieldworker personId="ohenleya">A. O’Henley</fieldworker>
+  <note>[NOTES: some notes added (most probably by K. D. MacDonald?). See below for details.]</note>
+  <informant>
+    <nameEnglish>Mary MacLean</nameEnglish>
+  </informant>
+  <location>South Uist, West Kilbride</location>
+  <items>
+    <item>
+      <headword id="idp112489728">siochan</headword>
+      <description>twisted ankle. [NOTES: corrected to ‘sìochan’.]</description>
+    </item>
+    <item>
+      <headword id="idp112505496">lògaidh</headword>
+      <description>the top of a hay or corn stack.</description>
+    </item>
+    <item>
+      <headword id="idp112424064">guitair</headword>
+      <description>a drain around the house to drain off excess water.</description>
+    </item>
+    <item>
+      <headword id="idp112489944">uachdar an taighe</headword>
+      <description>sleeping chamber. [Cf. clòsaid.]</description>
+    </item>
+    <item>
+      <headword id="idp112523424">clòsaid</headword>
+      <description>another sleeping chamber. [Cf. uachdar an taighe.]</description>
+    </item>
+    <item>
+      <headword id="idp112552080">trannsa</headword>
+      <description>lobby.</description>
+    </item>
+    <item>
+      <headword id="idp112455744">ùrlar mhollagan</headword>
+      <description>a floor made with pebbles which were stuck down by clay. When the floor had been finished it was said to be ‘air a’ chàsaigeadh’.</description>
+    </item>
+    <item>
+      <headword id="idp112436952">ceann shimileir</headword>
+      <description>where the chimney joins the thatch.</description>
+    </item>
+    <item>
+      <headword id="idp112521192">snighe</headword>
+      <description>water seeping down walls.</description>
+    </item>
+    <item>
+      <headword id="idp112443720">froidhnigh</headword>
+      <description>dampness.</description>
+    </item>
+    <item>
+      <headword id="idp112508160">sglàmhaire</headword>
+      <description>an over zealous worker.</description>
+    </item>
+    <item>
+      <headword id="idp112505208">snìsair</headword>
+      <description>not sure of meaning but had something to do with boats. [NOTES: corrected to ‘snisair’.]</description>
+    </item>
+    <item>
+      <headword id="idp112529472">an tròm</headword>
+      <description>a weight for a fishing line. First the shape of the weight was cut out of a peat. The lead was then melted and poured into this mould and left to set. A nail was pushed through each side so that the gut could be attached. [NOTES: ‘tròm’ corrected to ‘trom’.]</description>
+    </item>
+	<item>
+	  <headword id="idola31">[caora]</headword>
+	  <description>An uncompleted proverb: “A chaora, na loisg mo chnamhan, ’s na sgàin mo sheice ars an t-each.” There was also a section dealing with cattle. As regards the horse, his skin could not be easily repaired if it was torn.</description>
+    </item>
+	<item>
+      <headword id="idp112483104">griasach</headword>
+      <description>little embers found in the ashes.</description>
+    </item>
+    <item>
+      <headword id="idp112526016">smàladh</headword>
+      <description>smooring.</description>
+    </item>
+    <item>
+      <headword id="idp112526232">mòine chiopach</headword>
+      <description>soft peat. Same as ‘mòine chòsach’. [NOTES: ‘chiopach’ corrected to ‘chìbeach’.]</description>
+    </item>
+    <item>
+      <headword id="idp112481232">sgriosadh</headword>
+      <description>prior to cutting but after turfing a thin layer was taken off the surface so that the peat would be softer and easier to cut.</description>
+    </item>
+    <item>
+      <headword id="idp112439328">barr fhàd</headword>
+      <description>top layer [of peat].</description>
+    </item>
+    <item>
+      <headword id="idp112492536">golad</headword>
+      <description>the first peat in every line. On the outside of the line.</description>
+    </item>
+    <item>
+      <headword id="idp117549496">atharachadh</headword>
+      <description>after lifting the peats could then be shifted another bit and turned round so that the damp side can be dried.</description>
+    </item>
+    <item>
+      <headword id="idp117551008">rùbhan</headword>
+      <description>consisted of five peats.</description>
+    </item>
+    <item>
+      <headword id="idp117552520">connochrachan</headword>
+      <description>little peat stacks.</description>
+    </item>
+    <item>
+      <headword id="idp117554032">sgliatadh cruach mhònadh</headword>
+      <description>arranging peats on the top of a peat stack so that it looks as though it has been tiled.</description>
+    </item>
+    <item>
+      <headword id="idp117556408">currachdan</headword>
+      <description>small haystack. Smaller than a ‘còca’.</description>
+    </item>
+    <item>
+      <headword id="idp117557920">a’ bearradh a’ bhac</headword>
+      <description>cutting the peat.</description>
+    </item>
+    <item>
+      <headword id="idp117559432">bac mònadh</headword>
+      <description>peat bog. Variant for ‘poll mònadh’.</description>
+    </item>
+    <item>
+      <headword id="idp117560944">tuic</headword>
+      <description>a large, obese person. [NOTES: corrected to ‘tùic’.]</description>
+    </item>
+    <item>
+      <headword id="idp117562600">turraghanaich</headword>
+      <description>moaning.</description>
+    </item>
+    <item>
+      <headword id="idp117564112">leopa arbhair</headword>
+      <description>a field of corn. [NOTES: ‘leopa’ corrected to ‘leòba’.]</description>
+    </item>
+    <item>
+      <headword id="idp117565768">clachan iomaire</headword>
+      <description>boundary rocks.</description>
+    </item>
+    <item>
+      <headword id="idp117567280">pinnteachadh</headword>
+      <description>the act of putting salt in butter. Was then left to mature in a crock ‘cròga ruadh’.]</description>
+    </item>
+    <item>
+      <headword id="idp117568792">[cròga ruadh]</headword>
+      <description>[a crock. Cf. pinnteachadh.]</description>
+    </item>
+    <item>
+      <headword id="idp117570304">ìm an iuchair</headword>
+      <description>butter that would be available at the end of July. Generally held to be the best. The cream would be saved from April.</description>
+    </item>
+    <item>
+      <headword id="idp117572680">mullachag chaise</headword>
+      <description>this was the name given to the cheese once it had been taken out of the cheese press (fiodhan).</description>
+    </item>
+    <item>
+      <headword id="idp117574192">[fiodhan]</headword>
+      <description>[cheese press. Cf. mullachag chaise.]</description>
+    </item>
+    <item>
+      <headword id="idp117575704">spainnean ioma</headword>
+      <description>wooden spoons, used for shaping and designing butter.</description>
+    </item>
+    <item>
+      <headword id="idp117577216">ball na sgòthaidh</headword>
+      <description>the rope that tied the boat to the pier. Hosar? [sic] [hawser?] [NOTES: ‘sgòthaidh’ corrected to ‘sgothaidh’.]</description>
+    </item>
+    <item>
+      <headword id="idp117579016">crois iarna</headword>
+      <description>a wooden cross with hooks. Used to make ropes. <illustration src="WestKilbrideMMacLeanmisc2illust1.jpg" width="150"/></description>
+    </item>
+    <item>
+      <headword id="idp117580600">eathannan</headword>
+      <description>fathoms.</description>
+    </item>
+    <item>
+      <headword id="idp117582112">druim lìn</headword>
+      <description>the rope that runs along the top of the net.</description>
+    </item>
+    <item>
+      <headword id="idp117583624">strionca</headword>
+      <description>string.</description>
+    </item>
+    <item>
+      <headword id="idp117585136">cearraigeach</headword>
+      <description>applied to someone who is always looking for trouble.</description>
+    </item>
+    <item>
+      <headword id="idp117587512">ròghanaich na Samhna</headword>
+      <description>calm, dull, hazy weather. Usually have a period of such weather before the onset of winter.</description>
+    </item>
+  </items>
+</fieldworkDocument>
+

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 23 4 14 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="HarrisVarious_Harrisloosepage" docType="questionnaire" subType="LoosePage" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <fieldworker>[anonymous D]</fieldworker>
+  <note>[NOTES: a loose page at the end of the box file with no staple marks. Handwriting appears the same as throughout the box file.]</note>
+  <informant/>
+  <items>
+    <item>
+      <headword id="d0e20">cu a meangail</headword>
+      <description>whining.</description>
+    </item>
+    <item>
+      <headword id="d0e29">cu a dunalaich</headword>
+      <description>howling.</description>
+    </item>
+    <item>
+      <headword id="d0e38">crodh a muallaich</headword>
+      <description>bellowing.</description>
+    </item>
+    <item>
+      <headword id="d0e47">ag eumnaich</headword>
+      <description>lowing.</description>
+    </item>
+    <item>
+      <headword id="d0e56">clann a’ sgiorghail</headword>
+      <description>children.</description>
+    </item>
+  </items>
+</fieldworkDocument>

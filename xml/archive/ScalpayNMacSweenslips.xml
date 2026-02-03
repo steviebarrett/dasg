@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 26/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_ScalpayNMacSweenslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>06/1971</date>
+  <informant>
+    <nameEnglish>Rev. N. MacSween</nameEnglish>
+  </informant>
+  <location>Harris, Scalpay</location>
+  <items>
+    <item>
+      <headword id="idp115438432">mearal</headword>
+      <description>Notes: “sàl is uisge ’n ceann a chéile”. Applecross: “Cho saillt ris a’ mheireal”.</description>
+    </item>
+    <item>
+      <headword id="idp115464352">stragaidh (n.)</headword>
+      <description>Notes: used of the catch of fish in a net.</description>
+    </item>
+    <item>
+      <headword id="idp115475368">sùireadh</headword>
+      <description>Notes: favourable current in towards shore, against main current. (&lt; sùgh + ruith?)</description>
+    </item>
+    <item>
+      <headword id="idp115479760">abartach</headword>
+      <description>Quotation: duine abartach. Notes: Duine nach b’urrainn rud a chumail aige fhéin.</description>
+    </item>
+    <item>
+      <headword id="idp115478896">cuaireadh</headword>
+      <description>Quotation: Cuaireadh ort! Notes: mild malediction.</description>
+    </item>
+    <item>
+      <headword id="idp161846912">diridh-oichinn</headword>
+      <description>Quotation: Dé ’n diridh-oichinn a th’ort? Notes: used of person running about from one thing to another.</description>
+    </item>
+	<item><headword id="idola1000" type="heading" level="h1">Rev. Norman MacSween, Kinloch, Lewis (Scalpay), 1979</headword></item>
+	<item>
+      <headword id="idp161843672">cnothag</headword>
+      <description>Quotation: An ròs a’ tighinn ás a’ chnothaig. Notes: a bud.</description>
+    </item>
+  </items>
+</fieldworkDocument>

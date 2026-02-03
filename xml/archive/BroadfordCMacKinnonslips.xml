@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 6/8/15 -->
+<!-- illustrations -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_BroadfordCMacKinnonslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>03/1970</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <informant>
+    <nameEnglish>Charles MacKinnon</nameEnglish>
+    <age>c. 90</age>
+    <origin>Skye, Torrin</origin>
+  </informant>
+  <location>Skye, Broadford</location>
+  <items>
+    <item>
+      <headword id="idp161891440">làmh</headword>
+      <description>Notes: a “hand” in measuring the height of horses. Said by Charles MacKinnon to be two closed fists one on top of each other.</description>
+    </item>
+    <item>
+      <headword id="idp161888776">lunn</headword>
+      <description>Quotation: na lunnan [ɫũ̜n̪əṉ]. Notes: rollers put underneath the boat.</description>
+    </item>
+    <item>
+      <headword id="idp161884888">madadh</headword>
+      <description>Notes: brown shellfish, shaped like a “fiasgan” but about twice as big.</description>
+    </item>
+    <item>
+      <headword id="idp161905552">miosar</headword>
+      <description>[mĩsiɾ] Notes: wooden bucket for holding milk.</description>
+    </item>
+    <item>
+      <headword id="idp161907280">musal</headword>
+      <description>[mũ̜səɫ] Notes: muzzle at the head of the plough.</description>
+    </item>
+    <item>
+      <headword id="idp161909008">reòdhtach</headword>
+      <description>Notes: frosty.</description>
+    </item>
+    <item>
+      <headword id="idp161910520">air</headword>
+      <description>Quotation: Bha iad air an deanamh air fiodh. Notes: made of wood.</description>
+    </item>
+    <item>
+      <headword id="idp161912176">sabhal</headword>
+      <description>[soəɫ] Notes: barn.</description>
+    </item>
+    <item>
+      <headword id="idp161913904">sgonnan</headword>
+      <description>Notes: foot-rest on the cas-chrom.</description>
+    </item>
+    <item>
+      <headword id="idp161915416">siataig</headword>
+      <description>Notes: rheumatism.</description>
+    </item>
+    <item>
+      <headword id="idp161916928">sìneachan</headword>
+      <description>[ʃ[ɤi]ṉɑxəṉ] Notes: drag chains.</description>
+    </item>
+    <item>
+      <headword id="idp161919088">siollachan</headword>
+      <description>Notes: muzzle at the head of the plough.</description>
+    </item>
+    <item>
+      <headword id="idp161920600">sleamhragan</headword>
+      <description>[ʃlʹ[ɛ̃ũ]ɾəɡɑṉ] Notes: sty.</description>
+    </item>
+    <item>
+      <headword id="idp161922760">slifeag</headword>
+      <description>[ʃlʹifɑɡ] Notes: flat piece of wood used for digging for “muirsginn”. </description>
+    </item>
+    <item>
+      <headword id="idp161924488">snàgail</headword>
+      <description>Quotation: Bha am bàta ri snàgail. Notes: slow movement.</description>
+    </item>
+    <item>
+      <headword id="idp161926144">statha</headword>
+      <description>[st̪ɑə] Quotation: statha choirc. Notes: a swathe.</description>
+    </item>
+    <item>
+      <headword id="idp161928016">stùr</headword>
+      <description>[st̪u̟:ɾ] Notes: dust.</description>
+    </item>
+    <item>
+      <headword id="idp161929744">súil</headword>
+      <description>Notes: part of potato with eye in it – sown.</description>
+    </item>
+    <item>
+      <headword id="idp161931256">toll</headword>
+      <description>Quotation: toll a’ chruinn. Notes: semi-circle in the “tobhta-toisich” to admit the mast.</description>
+    </item>
+    <item>
+      <headword id="idp161932912">udalan</headword>
+      <description>Notes: swivel.</description>
+    </item>
+    <item>
+      <headword id="idp161934424">ailm</headword>
+      <description>[elem] Notes: tiller.</description>
+    </item>
+    <item>
+      <headword id="idp161936152">aondragaich</headword>
+      <description>[w̃:n̪d̪ɾɑɡiç] Quotation: Bha an t-each dha aondragaich fhéin. Notes: wallowing, rolling from side to side on its back.</description>
+    </item>
+    <item>
+      <headword id="idp161938312">asbhuain</headword>
+      <description>Notes: stubble.</description>
+    </item>
+    <item>
+      <headword id="idp161939824">bodach</headword>
+      <description>Notes: a stick placed behind the horse and attached to panniers on either side by lengths of rope to prevent them from swinging forward when the horse was descending a slope.</description>
+    </item>
+    <item>
+      <headword id="idp161941336">bolla</headword>
+      <description>Quotation: Bolla coin. Notes: buoy made from dogskin.</description>
+    </item>
+    <item>
+      <headword id="idp161942992">bonnach</headword>
+      <description>Quotation: Bonnach donn. Notes: cod liver, oatmeal, salt. Boiled in water.</description>
+    </item>
+    <item>
+      <headword id="idp161944648">bràghaid</headword>
+      <description>[bɾ[ɤı]dʹ] Notes: collar of the horse.</description>
+    </item>
+    <item>
+      <headword id="idp161946808">breaca-sianan</headword>
+      <description>Notes: freckles.</description>
+    </item>
+    <item>
+      <headword id="idp161948320">caibe</headword>
+      <description>Quotation: caibe-làir [cebəɫɑ:ɾ]. Notes: flauchter spade.</description>
+    </item>
+    <item>
+      <headword id="idp161950192">ceaba</headword>
+      <description>[cebə] Notes: the iron part of the flauchter spade; the iron blade of the cas-chrom.</description>
+    </item>
+    <item>
+      <headword id="idp161951920">ceanna-chnag</headword>
+      <description>Notes: bracket at ends of boat seats. <illustration src="BroadfordCMacKinnonslipsillust2.jpg" width="250"/></description>
+    </item>
+    <item>
+      <headword id="idp115738056">ceannard</headword>
+      <description>[cɑ̃n̪ɑʴḏ] Notes: where the horses turn at the end of the field when ploughing. [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+    <item>
+      <headword id="idp115739928">cipean</headword>
+      <description>Notes: tethering pin.</description>
+    </item>
+    <item>
+      <headword id="idp115741440">cliùchdair</headword>
+      <description>Notes: net-mender.</description>
+    </item>
+    <item>
+      <headword id="idp115742952">cnag</headword>
+      <description>Quotation: na cnagan. Notes: thole-pin.</description>
+    </item>
+    <item>
+      <headword id="idp115744608">cnaimh</headword>
+      <description>Quotation: cnàmhan. Notes: part of potato which doesn’t have the eye in it.</description>
+    </item>
+    <item>
+      <headword id="idp115746336">coc</headword>
+      <description>Quotation: coc fheòir.</description>
+    </item>
+    <item>
+      <headword id="idp115747848">crann-ruslaidh</headword>
+      <description>Notes: a “gripper” for cleaning potatoes.</description>
+    </item>
+    <item>
+      <headword id="idp115749360">creadhag</headword>
+      <description>[kɾɛɑɡ] Quotation: creadhag a’ bhuntàta. Notes: a white worm which is found in potatoes.</description>
+    </item>
+    <item>
+      <headword id="idp115751232">crog</headword>
+      <description>Notes: sheep when five years old.</description>
+    </item>
+    <item>
+      <headword id="idp115752744">cuach</headword>
+      <description>Quotation: cuach fhraoich. Notes: a coil, a coil of heather rope.</description>
+    </item>
+    <item>
+      <headword id="idp115754400">crota</headword>
+      <description>Quotation: an crota. Notes: square piece in the middle of the oar where it passes through the rowlock.</description>
+    </item>
+    <item>
+      <headword id="idp115756056">cuiseag</headword>
+      <description>Notes: potato stalk.</description>
+    </item>
+    <item>
+      <headword id="idp115757568">dealan</headword>
+      <description>[dʹɑɫɑṉ] Notes: locking device on a door. </description>
+    </item>
+    <item>
+      <headword id="idp115759296">dorusd</headword>
+      <description>Notes: door.</description>
+    </item>
+    <item>
+      <headword id="idp115760808">driamlach</headword>
+      <description>Notes: rod-line.</description>
+    </item>
+    <item>
+      <headword id="idp115762320">dubhadh</headword>
+      <description>Notes: blight.</description>
+    </item>
+    <item>
+      <headword id="idp115763832">faradh</headword>
+      <description>Quotation: faradh nan cearc.</description>
+    </item>
+    <item>
+      <headword id="idp115765344">feursnan</headword>
+      <description>Notes: warble-fly.</description>
+    </item>
+    <item>
+      <headword id="idp115766856">fodha</headword>
+      <description>Quotation: Tha na fiasgain fodha sin. Notes: under that.</description>
+    </item>
+    <item>
+      <headword id="idp115768512">forca</headword>
+      <description>Notes: cramp.</description>
+    </item>
+    <item>
+      <headword id="idp115770024">friodhan</headword>
+      <description>Notes: ragnails.</description>
+    </item>
+    <item>
+      <headword id="idp115771536">gréim-lòin</headword>
+      <description>Notes: lumbago.</description>
+    </item>
+  </items>
+</fieldworkDocument>

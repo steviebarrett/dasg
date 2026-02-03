@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 11 9 14 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="AJSmith_NorthtonJMorrisonmisc" docType="wordlist" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>June 1972</date>
+  <fieldworker>A. J. Smith</fieldworker>
+  <note>[NOTES: in IPA transcriptions, the fieldworker uses [w] for [ɯ].]</note>
+
+  <informant>
+    <nameEnglish>John Morrison</nameEnglish>
+  </informant>
+  <location>Harris, Northton</location>
+  <items>
+    <item>
+      <headword id="idp118826400">bota</headword>
+      <description>[bɔt̪ə] Note: a very low hillock. Equivalent of “tom” or “brugan”.</description>
+    </item>
+    <item>
+      <headword id="idp118753464">fèith</headword>
+      <description>[fɛ:] Note: equates “fèith” with “sùil-chruthaich”.</description>
+    </item>
+    <item>
+      <headword id="idp118797888">trogail</headword>
+      <description>Quot.: “crodh air throgail” [hɾoɡɑl]. Note: when winter feeding was finished cattle sent out to graze on new grass.</description>
+    </item>
+    <item>
+      <headword id="idp118758648">dile-bhogain</headword>
+      <description>[dʹıləvoɡɑnʹ] Note: a soft, boggy spot.</description>
+    </item>
+    <item>
+      <headword id="idp118738416">dìle</headword>
+      <description>Quot.: “Tha a’ chlach shios as an dìle.” Note: used of a stone which is well embedded in the ground.</description>
+    </item>
+    <item>
+      <headword id="idp118762608">bàsadair</headword>
+      <description>Note: used of any place which could be dangerous to sheep or cattle – e.g. soft, boggy place.</description>
+    </item>
+    <item>
+      <headword id="idp118827624">tart</headword>
+      <description>Quot.: “Nuair a bhiodh tart as na h-aibhnichean.” Note: drought.</description>
+    </item>
+    <item>
+      <headword id="idp118723728">àl</headword>
+      <description>Quot.: caora trom le àl. Note: a ewe in lamb.</description>
+    </item>
+    <item>
+      <headword id="idp118757568">gil</headword>
+      <description>[ɡʹıl] Note: where a stream flows through a passage in the rocks – small gulley.</description>
+    </item>
+    <item>
+      <headword id="idp118813872">fead</headword>
+      <description>Quot.: “Chan e fead a bhainne a tha ’muigh.” Note: used of wild weather outside. J.M. thinks the comparison is between the sound of the wind and the sound of the milk going into a pail or jug, the milk being warm, the wind cold.</description>
+    </item>
+    <item>
+      <headword id="idp118738704">caisean-coimheach</headword>
+      <description>[kɑʃɑṉkɛ̃ɑx] Quot.: “’S e fìor chaisean-coimheach a th’ann.” Note: used of a short-tempered, aggressive man. (“Caisean-coimheach” primarily [?] a “rotach”.)</description>
+    </item>
+    <item>
+      <headword id="idp118778880">starran</headword>
+      <description>[st̪ɑrɑṉ] Note: usually for a path over a stream.</description>
+    </item>
+  </items>
+</fieldworkDocument>

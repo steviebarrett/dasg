@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 1/4/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Word-lists_anonymousbirds" docType="questionnaire" subType="Birds" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Eòin / Birds</title>
+  <note>[NOTES: it seems that the original word-list was edited and commented on by a number of people (there are at least five different colours of ink and probably just as many different hands), which makes it rather unclear at places. The list is signed ‘D.R.M.’ but not in the same ink as the list itself.]</note>
+  <informant>
+    <nameEnglish>?</nameEnglish>
+  </informant>
+  <items>
+    <item>
+      <headword id="idm112125264">cnagag-choille</headword>
+      <description>grosbeak. [NOTES: question mark added in second hand.]</description>
+    </item>
+    <item>
+      <headword id="idm112129440">obag</headword>
+      <description>hobby. [NOTES: the original definition crossed out and replaced with ‘hobby falcon’.]</description>
+    </item>
+    <item>
+      <headword id="idm112110072">smeorach</headword>
+      <description>thrush.</description>
+    </item>
+    <item>
+      <headword id="idm112108128">cam-ghob</headword>
+      <description>cross-bill.</description>
+    </item>
+    <item>
+      <headword id="idm112106184">lòn-dubh</headword>
+      <description>black-bird.</description>
+    </item>
+    <item>
+      <headword id="idm112104240">liath-truisg</headword>
+      <description>field-fare.</description>
+    </item>
+    <item>
+      <headword id="idm112102296">iolair</headword>
+      <description>eagle.</description>
+    </item>
+    <item>
+      <headword id="idm112100352">cradh-gheadh</headword>
+      <description>shelduck.</description>
+    </item>
+    <item>
+      <headword id="idm112098408">bòdhag</headword>
+      <description>plover or sea-lark.</description>
+    </item>
+    <item>
+      <headword id="idm112096464">garra-ghart</headword>
+      <description>quail.</description>
+    </item>
+    <item>
+      <headword id="idm112094520">lach-mhòr</headword>
+      <description>eider-duck.</description>
+    </item>
+    <item>
+      <headword id="idm112092576">iolair iasgaich</headword>
+      <description>fishing eagle or osprey.</description>
+    </item>
+    <item>
+      <headword id="idm112090632">bricein-beithe</headword>
+      <description>chaffinch. [NOTES: originally ‘bricean-beatha’.]</description>
+    </item>
+    <item>
+      <headword id="idm112088544">gealan-lìn</headword>
+      <description>linnet.</description>
+    </item>
+    <item>
+      <headword id="idm112086600">clamhan-gobhlach</headword>
+      <description>kite.</description>
+    </item>
+    <item>
+      <headword id="idm112084656">cnagag-choille</headword>
+      <description>grosbeak.</description>
+    </item>
+    <item>
+      <headword id="idm112082712">clamhan lòin</headword>
+      <description>harrier. [NOTES: the original definition crossed out and replaced with ‘buzzard’.]</description>
+    </item>
+    <item>
+      <headword id="idm112080624">sioltan</headword>
+      <description>smew. [NOTES: the original definition crossed out and replaced with ‘teal duck’.]</description>
+    </item>
+    <item>
+      <headword id="idm112078536">bru-gheal</headword>
+      <description>stonechat. [NOTES: question mark added in second hand.]</description>
+    </item>
+    <item>
+      <headword id="idm112076376">an t’ amadan mòintich</headword>
+      <description>[sic] dotterel.</description>
+    </item>
+    <item>
+      <headword id="idm112074432">gabhagan</headword>
+      <description>pipit. [NOTES: the original definition crossed out and replaced with ‘titlark’.]</description>
+    </item>
+    <item>
+      <headword id="idp4065808">gobhlachan</headword>
+      <description>turnstone. [NOTES: the original definition crossed out and replaced with ‘sandpiper’.]</description>
+    </item>
+    <item>
+      <headword id="idp4067896">liath-chearc</headword>
+      <description>“heath-hen”.</description>
+    </item>
+    <item>
+      <headword id="idp4069840">cam-ghob</headword>
+      <description>cross-bill.</description>
+    </item>
+    <item>
+      <headword id="idp4071784">faireag</headword>
+      <description>kittiwake.</description>
+    </item>
+    <item>
+      <headword id="idp4073728">traona</headword>
+      <description>crake. [NOTES: the original definition crossed out and replaced with ‘corn craik’.]</description>
+    </item>
+    <item>
+      <headword id="idp4075816">ceann-dearg</headword>
+      <description>red-start.</description>
+    </item>
+    <item>
+      <headword id="idp4077760">naosg</headword>
+      <description>snipe.</description>
+    </item>
+    <item>
+      <headword id="idp4079704">falcag</headword>
+      <description>auk.</description>
+    </item>
+    <item>
+      <headword id="idp4081648">mionnaran</headword>
+      <description>tit.</description>
+    </item>
+    <item>
+      <headword id="idp4083592">fachach</headword>
+      <description>shearwater. [NOTES: ‘puffin’ added in second hand.]</description>
+    </item>
+    <item>
+      <headword id="idp4085680">faoileag</headword>
+      <description>“sea-gull”.</description>
+    </item>
+    <item>
+      <headword id="idp4087624">druid</headword>
+      <description>starling.</description>
+    </item>
+    <item>
+      <headword id="idp4089568">gobhlan-gaoithe</headword>
+      <description>swallow.</description>
+    </item>
+    <item>
+      <headword id="idp4091512">arspag</headword>
+      <description>“black backed seagull”.</description>
+    </item>
+    <item>
+      <headword id="idp4093456">luaireag</headword>
+      <description>petrel.</description>
+    </item>
+    <item>
+      <headword id="idp4095400">eala</headword>
+      <description>swan.</description>
+    </item>
+    <item>
+      <headword id="idp4097344">cearc-fhraoiche</headword>
+      <description>“heather-hen”.</description>
+    </item>
+    <item>
+      <headword id="idp42719824">deargan-seilich</headword>
+      <description>redpole.</description>
+    </item>
+    <item>
+      <headword id="idp42721768">bricein-caorainn</headword>
+      <description>ring-ouzel. [NOTES: originally ‘bricean-caorain’. The original definition crossed out and replaced with ‘mountain finch’.]</description>
+    </item>
+    <item>
+      <headword id="idp42723856">lach-ghlas</headword>
+      <description>“gadwall duck”. [NOTES: the original definition crossed out and replaced with ‘mallard duck’.]</description>
+    </item>
+    <item>
+      <headword id="idp42725944">lach-bhinn</headword>
+      <description>long tailed duck.</description>
+    </item>
+    <item>
+      <headword id="idp42727888">gealbhonn-glas</headword>
+      <description>hedge sparrow.</description>
+    </item>
+    <item>
+      <headword id="idp42729832">faoilinn</headword>
+      <description>sea-gull.</description>
+    </item>
+    <item>
+      <headword id="idp42731776">breac-an-t’ sil</headword>
+      <description>wagtail. [NOTES: ‘sil’ written in second hand – not clear what the original word was (àil?).]</description>
+    </item>
+    <item>
+      <headword id="idp42733864">coileach-fraoich</headword>
+      <description>heath-cock.</description>
+    </item>
+    <item>
+      <headword id="idp42735808">lach-bhreac</headword>
+      <description>‘golden eye’ duck.</description>
+    </item>
+  </items>
+</fieldworkDocument>

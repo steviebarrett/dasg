@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 23 4 13 -->
+<fieldworkDocument docId="HouseandFurnishings_ClachanNMacDonaldtaigh" docType="questionnaire" subType="TaighGaidhealach">
+  <title>Taigh Gàidhealach / House and Furnishings</title>
+  <date>[2/1968 on the slips]</date>
+  <fieldworker>[self]</fieldworker>
+  <note>[NOTES: the words have been slipped and therefore in this file, apart from the definitions provided by the informant, the definitions as they appear on the slips have also been included (unless the two were the same).]</note>
+  <informant>
+    <nameEnglish>(Rev.) Norman MacDonald</nameEnglish>
+    <age>63</age>
+    <origin>Skye</origin>
+  </informant>
+  <location>North Uist, Locheport, Clachan</location>
+  <!-- ILLUSTRATIONS -->
+  <items>
+    <item><headword id="d0e37" type="heading" level="h1">1. An stéidh is am balla</headword></item>
+    <item>
+      <headword id="d0e42">àrd-dorus</headword>
+      <description>Lintel, this could be a stone flag, or wood.</description>
+    </item>
+    <item>
+      <headword id="d0e51">starrsach</headword>
+      <description>Threshold. [NOTES: slipped under ‘stàrrsach’.]</description> 
+    </item>
+    <item>
+      <headword id="d0e60">feadan</headword>
+      <description>When the foundation of a byre was laid, a square opening was made in the gable end whose chief purpose was to let water (cow’s urine) out and to prevent it accumulating.
+        <illustration src="ClachanNMacDonaldtaighillust1.jpg" width="300"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e71">uinneag nan cearc</headword>
+      <description>A square open hole at top of the gable wall of a byre, convenient to ‘faradh [q.v.] nan cearc’ on the inside. The hens’ roost is pronounced ‘fairidh’ in Skye.
+        <illustration src="ClachanNMacDonaldtaighillust1.jpg" width="300"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e82">[faradh]</headword>
+      <description>[SLIP: Pronounced ‘fairidh’ in Skye. Hen’s roost.]</description>
+    </item>
+    <item>
+      <headword id="d0e91">ùdabachd</headword>
+      <description>A roofless semicircular wall made of drystone which was constructed as a primitive porch or windbreaker to give shelter to the main outside door of a dwelling.</description>
+    </item>
+    <item>
+      <headword id="d0e100">glasceap</headword>
+      <description>The very top of a wall, where wall and thatch join. This was where the small windows were made in the old “black” houses.</description>
+    </item>
+    <item>
+      <headword id="d0e109">tallan</headword>
+      <description>The partition between rooms, built of stone as a rule, and sometimes of wood, especially the wall which separated the living room from the sleeping quarters. In early times it was made of interwoven twigs. Also called ‘balla-tarrsuinn’.</description>
+    </item>
+    <item>
+      <headword id="d0e118">[balla-tarrsuinn]</headword>
+      <description>[See tallan.] [NOTES: slipped under ‘balla-tarsuinn’.]</description> 
+    </item>
+    <item><headword id="d0e126" type="heading" level="h1">2. Am mullach ’s an tughadh</headword></item>
+    <item>
+      <headword id="d0e131">cràgaisgean</headword>
+      <description>See the meaning which I gave in Scottish Gaelic Studies page 44, 1966.
+        <illustration src="ClachanNMacDonaldtaighillust2.jpg" width="300"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e142">gath-droma</headword>
+      <description>Rooftree.</description>
+    </item>
+    <item>
+      <headword id="d0e151">taobhan,  na taobhain</headword>
+      <description>[pl.] A long piece (or pieces) of timber which was laid across ‘maidean-ceangail’, horizontally, and tied to them to hold them firmly together. Also the smaller or shorter pieces which were placed perpendicularly, side by side, to fill in the gaps between ‘maidean-ceangail’, before the thatch could be laid on.
+        
+      </description>
+    </item>
+    <item>
+      <headword id="d0e162">[maidean-ceangail]</headword>
+      <description>[See taobhan, na taobhain.]</description>
+    </item>
+    <item>
+      <headword id="d0e171">fàrlas</headword>
+      <description>When the fire was in the middle of the floor, a hole was made in the roof directly above it, to let out the peat smoke. This hole was called ‘am fàrlas’. This is the Skye pronunciation and spelling.</description>
+    </item>
+    <item>
+      <headword id="d0e180">na sgrathan</headword>
+      <description>These were square pieces of green sod or turf thinly cut with a sharp kind of spade called a ‘caibe-làir’. There was an art in the cutting of a ‘sgrath’ and an ordinary spade would not do. The ‘sgrathan’ were laid on top of the rafters, ‘taobhain’ [q.v.] and ‘maidean-ceangail’ [q.v.] in a very methodical way, so that every inch of wood was covered. Finally the thatch, rushes or heather, was carefully spread on top of ‘sgrathan’ and held down by heather ropes, ‘sioman fraoich’, in criss-cross pattern. To the ends of these ropes, which dangled over the top of wall below, heavy stones called ‘acraichean’ were attached to keep thatch secure in place in time of storm. If the least flaw was detected in a ‘sgrath’ after it was cut, it was at once discarded as unsuitable for the roof of a building.</description>
+    </item>
+    <item>
+      <headword id="d0e189">[sioman fraoich]</headword>
+      <description>[Heather ropes holding down the thatch (see na sgrathan).]</description>
+    </item>
+    <item>
+      <headword id="d0e198">[acraichean]</headword>
+      <description>[Heavy stones attached to keep thatch secure in place in time of storm (see na strathan).]</description>
+    </item>
+    <item>
+      <headword id="d0e207">caibe làir</headword>
+      <description>[See na sgrathan.]
+        <illustration src="ClachanNMacDonaldtaighillust4.jpg" width="150"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e218">[simileir-crochaidh]</headword>
+      <description>Three styles or periods – There were three styles or periods of thatched houses: (1) The house which had a ‘cùlaist’. See description of ‘cùlaist’ on page 4. (2) Second period house had no ‘cùlaist’. In both (1) and (2) the fire was in the middle of the floor. (3) In the third period house the fire was removed from the middle of the floor and set against the ‘tallan’ [q.v.] or ‘balla-tarrsuinn’ [q.v.] and a ‘simileir-crochaidh’ made of wood erected directly above fire. This wooden erection caught the smoke, sucked it up through it and out through the new ‘fàrlas’ [q.v.] above.
+        <illustration src="ClachanNMacDonaldtaighillust5.jpg" width="300"/>
+      </description>
+    </item>
+    <item><headword id="d0e228" type="heading" level="h1">3. Dorsan is uinneagan</headword></item>
+    <item>
+      <headword id="d0e233">an dorus-mór</headword>
+      <description>The main door of a house.</description>
+    </item>
+    <item>
+      <headword id="d0e242">an dorus-beag</headword>
+      <description>The inside door of living room.</description>
+    </item>
+    <item>
+      <headword id="d0e251">dorus braighe-an-tighe</headword>
+      <description>The door of the upper room or sleeping quarters.</description>
+    </item>
+    <item>
+      <headword id="d0e260">glas-chrò</headword>
+      <description>Padlock.</description>
+    </item>
+    <item>
+      <headword id="d0e269">stéilleag</headword>
+      <description>The short iron slide inside a lock which locks a door when key is turned.</description>
+    </item>
+    <item>
+      <headword id="d0e278">crann</headword>
+      <description>Bolt of door (on the inside) usually made of iron. Cuir an crann air an dorus – bolt the door.</description>
+    </item>
+    <item>
+      <headword id="d0e287">dealan</headword>
+      <description>Sneck of door (made of wood).</description>
+    </item>
+    <item>
+      <headword id="d0e296">uinneag mhór</headword>
+      <description>‘Uinneag mhór’ was the large square window made in the wall of a house and is to be distinguished from the much smaller window which was in the thatch on top of wall and was no more than a foot in height. To have an ‘uinneag mhór’ in a thatched house was regarded as a mark of affluence and distinction in the bad old days. If a crofter in those times put an ‘uinneag-mhór’ in the wall of his dwelling, his rent was increased by as much as five or six pounds, or more. No wonder the crofter was forced to live in a “black house”, he had to pay dearly for his share of God’s daylight.</description>
+    </item>
+    <item><headword id="d0e304" type="heading" level="h1">4. An broinn an taighe: na sèamraichean</headword></item>
+    <item>
+      <headword id="d0e309">aig an teine</headword>
+      <description>Term used for main living room. I have never heard a single word used to designate this part of a house. [NOTES: slipped under ‘teine’ with ‘aig an teine’ as the quotation.]</description> 
+    </item>
+    <item>
+      <headword id="d0e318">bràighe-an-taighe</headword>
+      <description>Upper room, the sleeping quarters.</description>
+    </item>
+    <item>
+      <headword id="d0e327">clòsaid</headword>
+      <description>A small closet which contained a single four poster bed. It was usually adjacent to the living room, and in some houses opened off the narrow passage between the outer door and door of living room.</description>
+    </item>
+    <item>
+      <headword id="d0e336">cùlaist</headword>
+      <description>The earliest of the Skye “black” houses had a ‘cùlaist’, or ‘cùl-taighe’, as it was sometimes called. This room was situated beyond ‘bràighe-an-taighe’ [q.v.], next to the gable, and was so narrow that it could only have been used as a store room. I have seen several of these ruins which were so ancient that they were overgrown with turf, yet the dimensions of the ‘cùlaist’ and other rooms were perfectly clear. In my boyhood days only the older people, the 80-90 group were familiar with ‘cùl-taighe’, or ‘cùlaist’.
+        <illustration src="ClachanNMacDonaldtaighillust6.jpg" width="300"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e347">[cùl-taighe]</headword>
+      <description>[See cùlaist.]</description>
+    </item>
+    <item><headword id="d0e355" type="heading" level="h1">5. An t-àite-teine</headword></item>
+    <item>
+      <headword id="d0e360">clach an teinntean</headword>
+      <description>The hearth, raised flagstones in centre of floor on which the fire burned.</description>
+    </item>
+    <item>
+      <headword id="d0e369">an t-slabhraidh</headword>
+      <description>The long iron chain which was suspended from the rafter, immediately above the fire. The lower link or links of chain held the pot-hook. Through the years, a thick layer of soot accumulated on this chain, and its whole length from pot-hook links to its end which was tied to rafter was called ‘maide na slabhraidh’.
+        <illustration src="ClachanNMacDonaldtaighillust7.jpg" width="300"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e380">[maide na slabhraidh]</headword>
+      <description>[See an t-slabhraidh.]</description>
+    </item>
+    <item>
+      <headword id="d0e389">a’ phoit ghuirmein</headword>
+      <description>An enormous three legged iron pot which always rested on the hearth behind the fire, and which contained the ‘guirmean’, a beautiful blue dye used for tweeds, etc. A lid of wood, or a thick, strong piece of canvas tied round it, kept the mouth well sealed.</description>
+    </item>
+    <item>
+      <headword id="d0e398">bialag</headword>
+      <description>When peats were put on a fire, the live cinders were not wholly covered right round. An opening was left in front (where a current of air would soon kindle a flame) and let out the heat. This opening was called a ‘bialag’.</description>
+    </item>
+    <item><headword id="d0e406" type="heading" level="h1">6. Airneis an taighe</headword></item>
+    <item>
+      <headword id="d0e411">sunnag</headword>
+      <description>(in living room) A chair made from a barrel. On one side the staves were sawn off to the middle of barrel, with two arm rests (one on each side) left at the proper height. The back side of barrel was left intact to support back of sitter. The lid of barrel served as seat, nailed down of course. On top of seat a cushion was placed.</description>
+    </item>
+    <item>
+      <headword id="d0e420">suthag</headword>
+      <description>(in living room) A fairly low chair whose seat was made of twisted straw or rushes, with or without arms. This seat was specially designed for the comfort of the very old woman of the house and must not be confused with ‘sunnag’ [q.v.], as ‘suthag’ is of much more ancient design.</description>
+    </item>
+    <item>
+      <headword id="d0e429">séis</headword>
+      <description>(in living room) A long, plain, wooden bench with high back and an arm at each end. It was placed alongside the wall and could hold from four to six people. There were in addition one or more ordinary chairs (without arms) in the living room.</description>
+    </item>
+    <item>
+      <headword id="d0e438">an dreasair</headword>
+      <description>(in living room) The dresser, the high back of which held various dishes: plates, bowls, cups and saucers, stood against the other wall (of living room) opposite ‘séis’ [q.v.]. At one end of the dresser there was a table, at the other end two barrels, one of which held oatmeal and the other flour.</description>
+    </item>
+    <item>
+      <headword id="d0e447">girneilear</headword>
+      <description>In some houses, instead of the barrels, a large wooden chest called ‘an girneilear’ held the meal.</description>
+    </item>
+    <item>
+      <headword id="d0e456">cuidheall or cuidhle-shniomh</headword>
+      <description>A spinning wheel with a set of cards for carding wool occupied one corner of living room, and with them a ‘fearsaid’ or spindle.</description>
+    </item>
+    <item>
+      <headword id="d0e465">fearsaid</headword>
+      <description>[SLIP: spindle.]
+        <illustration src="ClachanNMacDonaldtaighillust8.jpg" width="200"/>
+      </description>      
+    </item>
+    <item>
+      <headword id="d0e476">guite</headword>
+      <description>A large, round, shallow receptacle resembling a tray made of sheep-skin stretched on a hoop, used for holding the long rolls of wool as they left the cards for the spinning wheel. When not in use it hung on a nail on wall.
+        <illustration src="ClachanNMacDonaldtaighillust9.jpg" width="200"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e487">cruisgean</headword>
+      <description>Primitive oil lamp. Consisted of two open shells, an upper and a lower. The lower shell was a trifle larger and longer in spout to catch the drop of oil which at intervals fell from the wick (which terminated in spout of upper shell) when lit.</description>
+    </item>
+    <item>
+      <headword id="d0e496">buaic</headword>
+      <description>The wick of a ‘cruisgean’ [q.v.] was called a ‘buaic’ and must on no account be called a ‘siobhag’. The name ‘buaic’ is most expressive and specific and means exactly what it was, something soaked in oil or grease, a ‘siobhag’ on the other hand is not very specific and could mean a bit of any kind of rag. ‘Siobhag’, again, is of fairly modern coinage and came into use when paraffin lamps were introduced into Gaeldom. ‘Buaic’ was made of the inside of rushes. The whole of this wick was submerged in the oil of cruisie, the other end, which was lit, lay along the upper spout. As a cruisie had no screw on it, a long, sharp bodkin lay near and was used to move the ‘buaic’ up into spout periodically as flame wore it out. ‘Buaic’, a very ancient name.</description>
+    </item>
+    <item>
+      <headword id="d0e505">braighe-an-taighe</headword>
+      <description>The sleeping quarters held two to three four-poster beds, a table in centre of room, sometimes a ‘séis’ [q.v.] along the partition and two or more small chairs. Beds were nicely curtained with home grown linen.</description>
+    </item>
+    <item><headword id="d0e513" type="heading" level="h1">7. Sobhal, bàthach, no bothanan sam bith eile</headword></item>
+    <item>
+      <headword id="d0e518">sùiste</headword>
+      <description>In addition to the crops of hay, oats, barley, etc. the barn held many crofting or farming implements such as the ‘sùiste’ or flail with its long, thick, wooden handle, to the end of which a ‘buailtean’ or beater was attached with strong leather thongs. The ‘buailtean’ was a shorter club and when the flail was swung over the sheaves, the ‘buailtean’ threshed them. ‘Cliath-chliata’, harrow; ‘amull’, the first swingle-tree in a plough and ‘dreallag’, a swingle-tree, were also kept there. In addition to these, one could see ‘plocan’ [q.v.].</description>
+    </item>
+    <item>
+      <headword id="d0e527">plocan</headword>
+      <description>A long-handled wooden mallet which was used in smoothing down clods of earth in the parts of a ploughed field which a harrow could not reach. A ‘plocan’, or mallet, is very rarely seen now.</description>
+    </item>
+    <item>
+      <headword id="d0e536">[buailtean]</headword>
+      <description>[SLIP: the beater of the flail.]</description>
+    </item>
+    <item>
+      <headword id="d0e545">[cliath-chliata]</headword>
+      <description>[Harrow.]</description>
+    </item>
+    <item>
+      <headword id="d0e554">[amull]</headword>
+      <description>[The first swingle-tree in a plough.]</description>
+    </item>
+    <item>
+      <headword id="d0e563">[dreallag]</headword>
+      <description>[A swingle-tree.]</description>
+    </item>
+    <item>
+      <headword id="d0e572">bàthach</headword>
+      <description>When the cows occupied one end of the “tigh dubh” that end had no stalls. A short post was driven into the wall and a cow was tied to it by a strong rope. Earlier still, instead of the wooden post, two stones in the shape of two horns meeting each other at their extremities and forming a sort of circle were built into the wall. The end of the rope which tied the cow was fixed to this circle. As many of these circles as were deemed necessary were built into the wall on each side of byre.</description>
+    </item>
+    <item>
+      <headword id="d0e581">buabhall</headword>
+      <description>The cow’s bed was called a ‘buabhall’, a good Gaelic word for stall.</description>
+    </item>
+    <item>
+      <headword id="d0e590">criathar</headword>
+      <description>Exactly the same as ‘guite’ [q.v.] but as a ‘criathar’ was made for winnowing, it resembled a sieve. Innumerable tiny holes were made in the skin with a red hot wire. The ‘criathar’ hung up on barn wall.</description>
+    </item>
+    <item>
+      <headword id="d0e599">taigh a’ bhainne</headword>
+      <description>The milk house. A small bothy built of drystone and thatched. It had no window and this kept the milk and cream delightfully cold in hot summer weather. ‘Tigh a’ bhainne’ had a press or cupboard where milk vessels were kept. Here the housewife kept her ‘crannachan’ or churn, a tall round wooden vessel with its perforated lid, or ‘lumachan’, through which the long handle of the ‘loinid’ (churn-staff) entered. Here, too, she kept her ‘crog’ of butter with its immaculately white skin covering called ‘imideal’, and ‘fiodhan’ [q.v.], a wooden receptacle, where cheese was made.</description>
+    </item>
+    <item>
+      <headword id="d0e608">[crannachan]</headword>
+      <description>[Churn. A tall round wooden vessel with a perforated lid (lumachan), through which the long handle of the churn-staff (loinid) entered.]</description>
+    </item>
+    <item>
+      <headword id="d0e617">lumachan</headword>
+      <description>Pronounced ‘laomachan’ in Skye. [SLIP: The wooden lid of a churn with hole in it for the ‘loinid’ (churn-staff).]</description>
+    </item>
+    <item>
+      <headword id="d0e626">[loinid]</headword>
+      <description>[SLIP: churn-staff.]</description>
+    </item>
+    <item>
+      <headword id="d0e635">[crog]</headword>
+      <description>[SLIP: vessel for holding butter covered by the ‘imideal’.]</description>
+    </item>
+    <item>
+      <headword id="d0e644">imideal</headword>
+      <description>[SLIP: white skin covering of the butter ‘crog’.]</description>
+    </item>
+    <item>
+      <headword id="d0e653">fiodhan</headword>
+      <description>A wooden receptacle where cheese was made. ‘Fiodhan’ was shaped square, like a box. Some fiodhans were round. A heavy weight was placed on the cheese and round holes were made in the fiodhan’s bottom to let the whey, which this pressure wrung from the cheese, out. [SLIP: a wooden receptacle where cheese was made. (See questionnaire).]</description>
+    </item>
+  </items>
+</fieldworkDocument>

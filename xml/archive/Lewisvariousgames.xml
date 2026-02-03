@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 23 4 13 -->
+<fieldworkDocument docId="Games_Lewisvariousgames" docType="questionnaire" subType="RecreationToysGamesContests">
+  <title>Cur-seachadan: Dèideagan, Geamaichean is Farpaisean / Recreation: Toys, Games, Contests</title>
+  <fieldworker>Major N. T. MacLeod</fieldworker>
+  <note>[NOTES: one informant identified on the first page as ‘Norman Campbell (75), 6 [?] Arnol, Isle of Lewis’.]</note>
+  <informant>
+    <nameEnglish>various</nameEnglish>
+  </informant>
+  <location>Leodhas [Lewis], an taobh siar</location>
+  <!-- ILLUSTRATIONS -->
+  <items>
+    <item><headword id="d0e28" type="heading" level="h1">1. Toys</headword></item>
+    <item>
+      <headword id="d0e33">liùdhag</headword>
+      <description>doll.</description>
+    </item>
+    <item><headword id="d0e41" type="heading" level="h1">2. Swings, see-saws</headword></item>
+    <item>
+      <headword id="d0e46">lair a mhaide</headword>
+      <description>see-saw.</description>
+    </item>
+    <item><headword id="d0e54" type="heading" level="h1">3. Games played indoors</headword></item>
+    <item>
+      <headword id="d0e59">tudalan na h àthe</headword>
+      <description>blind man’s bluff.</description>
+    </item>
+    <item><headword id="d0e67" type="heading" level="h1">4. Outdoor games not involving a ball or puck</headword></item>
+	<item>
+	  <headword id="idola119">[boc]</headword>
+	  <description>Aon air buicean / Dhà air buicean / Maide sùirn / Cul an duirn / Cearc bheag / Bhiorach bhàn / Rug an t-ubh / Air a’ spàr / Bhrist’ e mus an ruig e làr / Cunnt romhaid s ’as do dheigh / Cia mheud adharc th’ air a Bhoc. A game played by two: ‘tormentor’ sits in a chair, ‘tormented’ sits on the floor between the tormentor’s knees. Tormentor, while repeating the refrain, sustains a constant knocking with his knuckles on the tormented’s head. Whenever the refrain is finished, the tormentor’s hand is placed on the tormented’s head. The tormented has to guess how many horns the Buck may have. A clenched fist – maol am boc. One finger – one horn, aon arc. Two fingers – two horns, da. Three fingers – three horns, trì. Four fingers – four horns, ceithir. Five fingers – five horns, coig arcan. The game continues until the tormented guesses the number of horns correctly. The players then change places. Tormentor v tormented or king v subject or officer v soldier or uachdran v iochdran.</description>
+	</item>
+    <item>
+      <headword id="d0e81">Peilistairean</headword>
+      <description>Righ, Banrigh. A set of seven stones erected by opposing teams. Team: 1, 2 or 3 players who in turn hurled stones at the opposition’s peilistairean. The King and Queen were usually the first victims and the subjects behind might fall with the Royal family. All Peilistairean down first were declared winners.
+        <illustration src="Lewisvariousgamesillust1.jpg" width="200"/>
+      </description>
+	</item>
+	<item>
+	  <headword id="idola120">[note]</headword>
+	  <description>[NOTES: the word and definition appear under Section 6. Athletics.]</description>
+	</item>
+    <item><headword id="d0e100" type="heading" level="h1">5. Ball games</headword></item>
+    <item>
+      <headword id="d0e105">ag gioman</headword>
+	  <description>camanachd. [NOTES: not clear what the connection between the two items is.]</description>
+    </item>
+    <item>
+      <headword id="d0e114">caman</headword>
+      <description>stick.</description>
+    </item>
+    <item>
+      <headword id="d0e123">càisball</headword>
+      <description>[NOTES: the word is circled. Another circle appears near the word ‘goal’ a few lines down. Is there a connection?]</description>
+    </item>
+    <item>
+      <headword id="d0e132">coileag</headword>
+      <description>shinty ball.</description>
+    </item>
+    <item>
+      <headword id="d0e141">crioch</headword>
+      <description>boundary.</description>
+    </item>
+    <item>
+      <headword id="d0e150">tuili</headword>
+      <description>[?] point scored, goal, when ball is driven to boundary.</description>
+    </item>
+    <item>
+      <headword id="d0e159">seas do thulaichean</headword>
+      <description>do not go between your opponent and the ball.</description>
+    </item>
+    <item>
+      <headword id="d0e168">speilipan</headword>
+      <description>See attached slip. [NOTES: the following copied from the attached piece of paper.] L – Lever, which was hit with a bat, cromag [?] stave etc., which flung the ball into the air. From then the game was similar to cluich air house i.e. rounders. When the players were few, the catcher had the privilege of wielding the bat. There was quite an art in playing the ball in the hole: central, or to the left slightly or to the right slightly depending on how the field was set. Also the wielding of the bat gave room for the display of skill. Hit for 4, hit for 6 or interval for trot.
+        <illustration src="Lewisvariousgamesillust2.jpg" width="300"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e179">cluich air house</headword>
+      <description>rounder[s] (English), baseball (American).</description>
+    </item>
+    <item>
+      <headword id="d0e188">coileag</headword>
+      <description>cockle.</description>
+    </item>
+    <item><headword id="d0e196" type="heading" level="h1">6. Athletics</headword></item>
+    <item>
+      <headword id="d0e201">car a mhultainn</headword>
+      <description>somersault.</description>
+    </item>
+    <item>
+      <headword id="d0e210">leum</headword>
+      <description>long jump.</description>
+    </item>
+    <item>
+      <headword id="d0e219">cruinn leum</headword>
+      <description>standing jump.</description>
+    </item>
+    <item>
+      <headword id="d0e228">leum staraig</headword>
+      <description>one step and jump.</description>
+    </item>
+    <item>
+      <headword id="d0e237">leum a mhilitia</headword>
+      <description>[?] hop step and jump.</description>
+    </item>
+    <item>
+      <headword id="d0e246">leth chois, sinnteag ’s leum</headword>
+      <description>[hop step and jump.]</description>
+    </item>
+    <item>
+      <headword id="d0e255">leum a mhaide</headword>
+      <description>leum mach as a bhalá, held by both hands.</description>
+    </item>
+    <item><headword id="d0e263" type="heading" level="h1">7. Heavy events</headword></item>
+    <item>
+      <headword id="d0e268">dòrnag</headword>
+      <description>shot putt.</description>
+    </item>
+    <item><headword id="d0e276" type="heading" level="h1">8. Contests involving pulling or pushing</headword></item>
+    <item>
+      <headword id="d0e281">maide leisg</headword>
+      <description>Domhnull Mòr Taileir [?] agus Iain Mhurican [?] bhris spaid ùr eatóra leis a mhaide leisg.</description>
+    </item>
+    <item><headword id="d0e289" type="heading" level="h1">9. Boxing and wrestling</headword></item>
+    <item>
+      <headword id="d0e294">Bheil thu deònach air</headword>
+    </item>
+    <item>
+      <headword id="d0e300">An gabh thu air</headword>
+    </item>
+    <item>
+      <headword id="d0e306">car gleachd</headword>
+      <description>wrestling.</description>
+    </item>
+    <item>
+      <headword id="d0e315">cas a bhacaig</headword>
+      <description>tripping backward.</description>
+    </item>
+    <item>
+      <headword id="d0e324">Thoir ging dha</headword>
+      <description>Kick him.</description>
+    </item>
+    <item>
+      <headword id="d0e333">dorochan  corrach</headword>
+    <description>[?] </description></item>
+    <item>
+      <headword id="d0e339">putadh a bhunàt</headword>
+      <description>planting with a dibble.</description>
+    </item>
+    <item><headword id="d0e347" type="heading" level="h1">10. Blows in general</headword></item>
+    <item>
+      <headword id="d0e352">fuarag</headword>
+      <description>knock out. Thug mi fuarag dha.</description>
+    </item>
+    <item><headword id="d0e360" type="heading" level="h1">11. Injury and exhaustion</headword></item>
+    <item>
+      <headword id="d0e365">buile-léig</headword>
+      <description>(knock blood) [blow] causing effusion of blood.</description>
+    </item>
+    <item>
+      <headword id="d0e374">màrstanan</headword>
+      <description>casan. [NOTES: not clear if the two words are connected.]</description> 
+    </item>
+    <item>
+      <headword id="d0e383">gàgan mìne</headword>
+    </item>
+    <item>
+      <headword id="d0e389">fannachadh</headword>
+    </item>
+    <item>
+      <headword id="d0e395">sgóthadh</headword>
+      <description>sprain.</description>
+    </item>
+    <item>
+      <headword id="d0e404">laigse</headword>
+    </item>
+    <item>
+      <headword id="d0e410">leig e roimhe</headword>
+    </item>
+    <item>
+      <headword id="d0e416">leig e ànn</headword>
+    </item>
+  </items>
+</fieldworkDocument>

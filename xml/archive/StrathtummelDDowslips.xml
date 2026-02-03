@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 27/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_StrathtummelDDowslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <note>[NOTES: note on the slips – ‘tape’.]</note>
+  <informant>
+    <nameEnglish>Donald Dow</nameEnglish>
+  </informant>
+  <location>Strathtummel</location>
+  <items>
+    <item>
+      <headword id="idp118692432">latha</headword>
+      <description>Quotation: fo fonn latha. Notes: in daylight.</description>
+    </item>
+    <item>
+      <headword id="idp118694088">ionndraich</headword>
+      <description>[jə̃ũ̜n̪d̪ɾiç] Notes: miss.</description>
+    </item>
+    <item>
+      <headword id="idp118695816">siamar</headword>
+      <description>[sĩɑ̃məɾ] Notes: a room.</description>
+    </item>
+    <item>
+      <headword id="idp118697544">stìc</headword>
+    <description>[ʃtʹi:kʹ] </description></item>
+    <item>
+      <headword id="idp118699272">bris</headword>
+      <description>Quotation: ceud mìle gun bhris.</description>
+    </item>
+    <item>
+      <headword id="idp118700784">fonn</headword>
+      <description>Quotation: fo fonn latha. Notes: in daylight.</description>
+    </item>
+    <item>
+      <headword id="idp118702440">grisichean</headword>
+      <description>[ɡɾiʃiçən] Quotation: “Bha tiormachd uamhasach ann … na barran, móran dhiubh cha ghabhadh iad cuir ann an grisichean.”</description>
+    </item>
+    <item>
+      <headword id="idp118704168">gun</headword>
+      <description>Quotation: ceud mìle gun bhris.</description>
+    </item>
+  </items>
+</fieldworkDocument>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 1/4/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Word-lists_NessACampbellmisc" docType="wordlist" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <note>[NOTES: the word-list is accompanied by a short note from Jessie: ‘My good neighbour has just been in with his answers, and I hasten to get them into the pillar box. He is a brother of Rev. Murdo Campbell, Angus, nicknamed the “Pulan”. I think Derick met him on one of his visits to Ness. (…)’]</note>  <informant>
+    <nameEnglish>Angus Campbell “Pulan”</nameEnglish>
+  </informant>
+  <location>[Lewis], Ness</location>
+  <items>
+    <item>
+      <headword id="idp161262784">buillman</headword>
+      <description>bubble.</description>
+    </item>
+    <item>
+      <headword id="idp161252920">peadrachan</headword>
+      <description>a garland. Peaderan buidhe: large yellow flowers that grow in cornfields.</description>
+    </item>
+    <item>
+      <headword id="idp161257024">crathagan</headword>
+      <description>uncertain. Have heard it applied to washing on a line, i.e. crathagan aodaich air an t-sreing. There’s crathtachan – a small sprinkling as of salt or oatmeal, etc.</description>
+    </item>
+    <item>
+      <headword id="idp161222968">sliuchaidh</headword>
+      <description>the fine, green, slippery seaweed on rocks. Especially on Western seaboard: “an tonn a cireadh an t-sliuchaidh”.</description>
+    </item>
+    <item>
+      <headword id="idp161225560">sgreingeach</headword>
+      <description>this applies to the humourless, ‘no-nonsense’, prim-and-proper type of woman: ’Se sgreingeach gun uidh e [sic] th’innte.</description>
+    </item>
+    <item>
+      <headword id="idp161226136">gorraireachd</headword>
+      <description>loitering about in an inquisitive manner. Gorraidair – a loitering nuisance type.</description>
+    </item>
+    <item>
+      <headword id="idp161227720">cleigean</headword>
+      <description>compressed lumps still attached to animals when shedding their hair or fur. Falt cleigeach – unruly, uncombed hair.</description>
+    </item>
+    <item>
+      <headword id="idp161228872">fiògar</headword>
+      <description>[sic] slight movement: Thig air adhairt fiògar. Gluais am fiògar is lugha.</description>
+    </item>
+    <item>
+      <headword id="idp161231176">sliopeadh</headword>
+      <description>uncertain. Sliop bhog applied to anything messy, oily or blubbery.</description>
+    </item>
+    <item>
+      <headword id="idp161232688">slòpraich</headword>
+      <description>to a person engaged on such tasks as loading dung, clearing muck, etc. you could say: Tha thu slòpraich.</description>
+    </item>
+    <item>
+      <headword id="idp161234344">foirmealach</headword>
+      <description>Duine foirmealach – a local version of ‘foghainnteach’. The word ‘foirmeigeach’ is a male sheep that cannot be successfully castrated, and is still virile.</description>
+    </item>
+    <item>
+      <headword id="idp161235856">siuthlaichean</headword>
+      <description>the substance in male whitefish as opposite to roe in female. Also, the collar hames in horse’s harness.</description>
+    </item>
+    <item>
+      <headword id="idp158253592">fraochan</headword>
+      <description>the pattern or embroidery on brogue shoes (quite common word).</description>
+    </item>
+    <item>
+      <headword id="idp158264248">brout</headword>
+      <description>a thick coarse bannock kept for growing boys.</description>
+    </item>
+  </items>
+</fieldworkDocument>

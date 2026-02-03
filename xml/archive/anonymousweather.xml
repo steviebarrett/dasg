@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?><!-- checked by MM on 22 5 14 --><fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="AOHenley_anonymousweather" docType="questionnaire" subType="Weather" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Sìde / Weather</title>
+  <date>[1987-88]</date>
+  <fieldworker personId="ohenleya">A. O’Henley</fieldworker>
+  <note>[NOTES: is this a compilation of a few different word-lists? Was Mr O’Henley himself the informant? No information anywhere in the questionnaire.]</note>
+  <note>[NOTES: some notes added (most probably by K. D. MacDonald?). See below for details.]</note>
+  <informant>
+    <nameEnglish>anonymous</nameEnglish>
+  </informant>
+  <items>
+    <item><headword id="d0e29" type="heading" level="h1">1. General terms</headword></item>
+    <item><headword id="d0e33" type="heading" level="h2">1.1. Good weather</headword></item>
+    <item>
+      <headword id="idp20824">alainn</headword>
+      <description/>
+    </item>
+    <item><headword id="d0e45" type="heading" level="h2">1.2. Bad weather</headword></item>
+    <item>
+      <headword id="idp16000">latha eadar dà shian</headword>
+      <description>weather that is between two extremes.</description>
+    </item>
+    <item><headword id="d0e58" type="heading" level="h2">1.3. Temperature</headword></item>
+    <item>
+      <headword id="idp37816">muirteach</headword>
+      <description>can hardly draw your breath.</description>
+    </item>
+    <item><headword id="d0e71" type="heading" level="h2">1.4. Dryness, wetness</headword></item>
+    <item><headword id="d0e75" type="heading" level="h1">2. The sky and the weather</headword></item>
+    <item><headword id="d0e79" type="heading" level="h2">2.1. A clear sky by day</headword></item>
+    <item><headword id="d0e83" type="heading" level="h2">2.2. A clear night sky</headword></item>
+    <item><headword id="d0e87" type="heading" level="h2">2.3. A red sky</headword></item>
+    <item><headword id="d0e91" type="heading" level="h2">2.4. An overcast sky</headword></item>
+    <item>
+      <headword id="idp44512">sgleo air an adhar</headword>
+      <description/>
+    </item>
+    <item><headword id="d0e103" type="heading" level="h2">2.5. Unusual appearance of the moon or the sun</headword></item>
+    <item><headword id="d0e107" type="heading" level="h2">2.6. The northern lights</headword></item>
+    <item>
+      <headword id="idp47680">fir chlis</headword>
+      <description/>
+    </item>
+    <item>
+      <headword id="idp49120">Grioglachan</headword>
+      <description>plaids [sic] [Pleiades?].</description>
+    </item>
+    <item><headword id="d0e128" type="heading" level="h2">2.7. Stars</headword></item>
+    <item><headword id="d0e132" type="heading" level="h1">3. Clouds</headword></item>
+    <item><headword id="d0e136" type="heading" level="h2">3.1. Light cloud</headword></item>
+    <item><headword id="d0e140" type="heading" level="h2">3.2. Cirrus cloud</headword></item>
+    <item><headword id="d0e144" type="heading" level="h2">3.3. Thick cloud</headword></item>
+    <item><headword id="d0e148" type="heading" level="h2">3.4. Rainbow</headword></item>
+    <item>
+      <headword id="idp55816">ruinne bò</headword>
+      <description>also used.</description>
+    </item>
+    <item><headword id="d0e161" type="heading" level="h1">4. Wind</headword></item>
+    <item><headword id="d0e165" type="heading" level="h2">4.1. Dead calm</headword></item>
+    <item><headword id="d0e169" type="heading" level="h2">4.2. Light breeze</headword></item>
+    <item><headword id="d0e173" type="heading" level="h2">4.3. Fresh breeze</headword></item>
+    <item>
+      <headword id="idp60784">latha fionnar</headword>
+      <description/>
+    </item>
+    <item><headword id="d0e185" type="heading" level="h2">4.4. Gusts</headword></item>
+    <item>
+      <headword id="idp63088">sguallaichean</headword>
+      <description/>
+    </item>
+    <item><headword id="d0e197" type="heading" level="h2">4.5. Wind of variable direction</headword></item>
+    <item><headword id="d0e201" type="heading" level="h2">4.6. Strong wind</headword></item>
+    <item><headword id="d0e205" type="heading" level="h2">4.7. Gale</headword></item>
+    <item><headword id="d0e209" type="heading" level="h2">4.8. Hurricane</headword></item>
+    <item><headword id="d0e213" type="heading" level="h2">4.9. Rising wind</headword></item>
+    <item><headword id="d0e217" type="heading" level="h2">4.10. Dying wind</headword></item>
+    <item><headword id="d0e221" type="heading" level="h2">4.11. Winds associated with particular seasons of the year</headword></item>
+    <item><headword id="d0e225" type="heading" level="h1">5. Tides</headword></item>
+    <item><headword id="d0e229" type="heading" level="h2">5.1. Flowing</headword></item>
+    <item>
+      <headword id="idp253160">sioladh</headword>
+      <description/>
+    </item>
+    <item><headword id="d0e241" type="heading" level="h2">5.2. Ebbing</headword></item>
+    <item><headword id="d0e245" type="heading" level="h2">5.3. High tide</headword></item>
+    <item>
+      <headword id="idp256328">rothart</headword>
+      <description/>
+    </item>
+    <item>
+      <headword id="idp257768">mullach làn àrd</headword>
+      <description>moon at its height.</description>
+    </item>
+    <item><headword id="d0e266" type="heading" level="h2">5.4. Low tide</headword></item>
+    <item><headword id="d0e270" type="heading" level="h2">5.5. Spring tide</headword></item>
+    <item><headword id="d0e274" type="heading" level="h2">5.6. Neap tide</headword></item>
+    <item><headword id="d0e278" type="heading" level="h2">5.7. Turn of the tide</headword></item>
+    <item><headword id="d0e282" type="heading" level="h1">6. Weather and the sea</headword></item>
+    <item><headword id="d0e286" type="heading" level="h2">6.1. A calm sea</headword></item>
+    <item><headword id="d0e290" type="heading" level="h2">6.2. A light swell</headword></item>
+    <item><headword id="d0e294" type="heading" level="h2">6.3. A heavy swell</headword></item>
+    <item><headword id="d0e298" type="heading" level="h2">6.4. A choppy sea</headword></item>
+    <item><headword id="d0e302" type="heading" level="h2">6.5. A stormy sea</headword></item>
+    <item><headword id="d0e306" type="heading" level="h2">6.6. Large waves</headword></item>
+    <item><headword id="d0e310" type="heading" level="h2">6.7. Breakers</headword></item>
+    <item><headword id="d0e314" type="heading" level="h2">6.8. Surf</headword></item>
+    <item><headword id="d0e318" type="heading" level="h2">6.9. Spindrift</headword></item>
+    <item><headword id="d0e322" type="heading" level="h1">7. Rain</headword></item>
+    <item><headword id="d0e326" type="heading" level="h2">7.1. Drizzle</headword></item>
+    <item>
+      <headword id="idp273104">uisge bog</headword>
+      <description/>
+    </item>
+    <item>
+      <headword id="idp274544">smugraich</headword>
+      <description/>
+    </item>
+    <item><headword id="d0e346" type="heading" level="h2">7.2. Light shower</headword></item>
+    <item>
+      <headword id="idp276848">fras</headword>
+      <description/>
+    </item>
+    <item><headword id="d0e358" type="heading" level="h2">7.3. Heavy shower</headword></item>
+    <item><headword id="d0e362" type="heading" level="h2">7.4. Prolonged rain</headword></item>
+    <item>
+      <headword id="idp280016">latha druideach</headword>
+      <description>[NOTES: ‘druideach’ corrected to ‘drùiteach’.]</description>
+    </item>
+    <item><headword id="d0e375" type="heading" level="h2">7.5. Driving rain</headword></item>
+    <item><headword id="d0e379" type="heading" level="h2">7.6. Getting soaked</headword></item>
+    <item>
+      <headword id="idp283256">bog fliuch</headword>
+      <description/>
+    </item>
+    <item>
+      <headword id="idp284696">Dhruidh an t-uisge orm.</headword>
+      <description>[NOTES: ‘Dhruidh’ corrected to ‘Dhrùidh’.]</description>
+    </item>
+    <item><headword id="d0e400" type="heading" level="h1">8. Mist</headword></item>
+    <item><headword id="d0e404" type="heading" level="h2">8.1. Light mist</headword></item>
+    <item><headword id="d0e408" type="heading" level="h2">8.2. Heavy mist</headword></item>
+    <item><headword id="d0e412" type="heading" level="h2">8.3. Sea mist</headword></item>
+    <item><headword id="d0e416" type="heading" level="h2">8.4. Other terms associated with mist</headword></item>
+    <item><headword id="d0e420" type="heading" level="h1">9. Thunder and lightning</headword></item>
+    <item><headword id="d0e424" type="heading" level="h2">9.1. Thunder</headword></item>
+    <item><headword id="d0e428" type="heading" level="h2">9.2. Lightning</headword></item>
+    <item>
+      <headword id="idp293120">peadhair</headword>
+      <description>thunderbolt. [NOTES: note added above – peithir.]</description>
+    </item>
+    <item><headword id="d0e441" type="heading" level="h1">10. Snow and hail</headword></item>
+    <item><headword id="d0e445" type="heading" level="h2">10.1. Snowflakes</headword></item>
+    <item>
+      <headword id="idp296504">bleideagan</headword>
+      <description/>
+    </item>
+    <item><headword id="d0e457" type="heading" level="h2">10.2. Sleet</headword></item>
+    <item>
+      <headword id="idp298808">flìn</headword>
+      <description/>
+    </item>
+    <item><headword id="d0e469" type="heading" level="h2">10.3. Types of snow</headword></item>
+    <item><headword id="d0e473" type="heading" level="h2">10.4. Driving snow</headword></item>
+    <item>
+      <headword id="idp301976">cabhadh sneachda</headword>
+      <description/>
+    </item>
+    <item><headword id="d0e485" type="heading" level="h2">10.5. Heavy fall</headword></item>
+    <item><headword id="d0e489" type="heading" level="h2">10.6. Snowdrifts</headword></item>
+    <item>
+      <headword id="idp305144">cidheachan sneachda</headword>
+      <description/>
+    </item>
+    <item><headword id="d0e501" type="heading" level="h2">10.7. A few flakes floating in the wind</headword></item>
+    <item><headword id="d0e505" type="heading" level="h2">10.8. Snowman and rolled ball of snow</headword></item>
+    <item>
+      <headword id="idp308312">bodach sneachda</headword>
+      <description/>
+    </item>
+    <item>
+      <headword id="idp309752">ball sneachda</headword>
+      <description/>
+    </item>
+    <item><headword id="d0e525" type="heading" level="h2">10.9. Hailstones</headword></item>
+    <item>
+      <headword id="idp312056">clachan meallain</headword>
+      <description/>
+    </item>
+    <item><headword id="d0e537" type="heading" level="h1">11. Frost</headword></item>
+    <item><headword id="d0e541" type="heading" level="h2">11.1. Hoarfrost</headword></item>
+    <item><headword id="d0e545" type="heading" level="h2">11.2. Hard frost</headword></item>
+    <item><headword id="d0e549" type="heading" level="h2">11.3. Ice</headword></item>
+    <item>
+      <headword id="idp341616">liath reothadh</headword>
+      <description/>
+    </item>
+    <item><headword id="d0e561" type="heading" level="h2">11.4. Thaw</headword></item>
+    <item>
+      <headword id="idp343920">aiteabh</headword>
+      <description/>
+    </item>
+    <item><headword id="d0e573" type="heading" level="h1">12. Signs foretelling weather</headword></item>
+    <item><headword id="d0e577" type="heading" level="h2">12.1. Foretelling good weather.</headword></item>
+    <item>
+      <headword id="idp347088">[còta]</headword>
+      <description>“An crochadh tu do chota orra [sic].” In reference to the moon. If you could hang your coat on the moon according to its shape then a good day was in prospect. If you could not then the opposite applied.</description>
+    </item>
+    <item><headword id="d0e590" type="heading" level="h2">12.2 Foretelling bad weather.</headword></item>
+    <item><headword id="d0e594" type="heading" level="h1">13. General sayings or proverbs connected with the weather</headword></item>
+    <item>
+      <headword id="idp350400">[earrach]</headword>
+      <description>“Mios faoillaich, naoi latha gearran, trì latha sguabaig, suas an t-earrach.” Used to herald the beginning of spring.</description>
+    </item>
+  </items>
+</fieldworkDocument>

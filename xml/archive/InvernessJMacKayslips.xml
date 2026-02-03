@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 1/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_InvernessJMacKayslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>05/1969</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <note>[NOTES: in IPA transcriptions, the fieldworker uses [w] for [ɯ].]</note>
+  <informant>
+    <nameEnglish>James MacKay</nameEnglish>
+    <age>c. 70</age>
+    <origin>Sutherland, Embo</origin>
+  </informant>
+  <location>Inverness</location>
+  <items>
+    <item>
+      <headword id="idp118951984">laogh</headword>
+      <description>[ɫw:ɣ] Notes: calf.</description>
+    </item>
+    <item>
+      <headword id="idp118948672">liop</headword>
+      <description>[lʹip] Notes: lip.</description>
+    </item>
+    <item>
+      <headword id="idp118945288">losgaid</headword>
+      <description>[ɫosɡidʹ] Notes: frog.</description>
+    </item>
+    <item>
+      <headword id="idp118966240">losgaid</headword>
+      <description>Quotation: pollag losgaid. Notes: toadstool.</description>
+    </item>
+    <item>
+      <headword id="idp118967896">luirg</headword>
+      <description>[ɫu̜ɾiɡʹ] Notes: shin.</description>
+    </item>
+    <item>
+      <headword id="idp118969624">mearaig</headword>
+      <description>[mɛ̃ɾiɡʹ] Quotation: Tha mi air [mɛ̃ɾiɡʹəɣ] leis an fhuachd or Tha mi air mo [vɛ̃ɾiɡʹəɣ] leis an fhuachd or leis an t-acras. Notes: perish.</description>
+    </item>
+    <item>
+      <headword id="idp118972072">meung</headword>
+      <description>[mjɤŋɡ] Notes: whey.</description>
+    </item>
+    <item>
+      <headword id="idp118973800">muc</headword>
+      <description>Quotation: cuilean muc. Notes: piglet.</description>
+    </item>
+    <item>
+      <headword id="idp118975456">raith</headword>
+      <description>[rɑi] Notes: ram.</description>
+    </item>
+    <item>
+      <headword id="idp118977184">reothadh-liath</headword>
+      <description>Notes: hoarfrost.</description>
+    </item>
+    <item>
+      <headword id="idp118978696">rionnag</headword>
+      <description>[rw̃n̪ɑɡ] Notes: star.</description>
+    </item>
+    <item>
+      <headword id="idp118980496">robaidh an t-sneachd</headword>
+      <description>[rɔbiən̪t̪ɾɑ̃xk] Notes: robin redbreast.</description>
+    </item>
+    <item>
+      <headword id="idp118982224">roiseag</headword>
+      <description>Notes: small potato. More commonly used in plural.</description>
+    </item>
+    <item>
+      <headword id="idp118983736">innean</headword>
+      <description>Quotation: an t-innean [ətʹenʹɑ̃ṉ]. Notes: the ankle.</description>
+    </item>
+    <item>
+      <headword id="idp118985608">iongna</headword>
+      <description>[jũ̜ĩnʹ] Quotation: pl. [jũ̜:nʹəṉ]. Notes: fingernail.</description>
+    </item>
+    <item>
+      <headword id="idp118987696">iul a’ mhàgain</headword>
+      <description>[ju̜ɫəvɑ̃:ɡɑ̃ṉ] Notes: toad.</description>
+    </item>
+    <item>
+      <headword id="idp118989424">omhaich</headword>
+      <description>[ɔ̃iç] Notes: neck.</description>
+    </item>
+    <item>
+      <headword id="idp118991152">ospag</headword>
+      <description>[ospɑɡ] Notes: a gust of wind.</description>
+    </item>
+    <item>
+      <headword id="idp118992880">pollach</headword>
+      <description>[poɫɑx] Notes: cod.</description>
+    </item>
+    <item>
+      <headword id="idp118994608">pollag</headword>
+      <description>Quotation: pollag losgaid. Notes: toadstool.</description>
+    </item>
+    <item>
+      <headword id="idp118996264">seall</headword>
+      <description>Quotation: Tha na neòil a’ sealltainn glè throm.</description>
+    </item>
+    <item>
+      <headword id="idp118997776">sgorail</headword>
+      <description>[sɡɔɾɑl] Notes: a squirrel.</description>
+    </item>
+    <item>
+      <headword id="idp118999504">sguil</headword>
+      <description>[sɡu̜l] Notes: basket used to hold fishing lines.</description>
+    </item>
+    <item>
+      <headword id="idp119001232">siataig</headword>
+      <description>[ʃɛ:t̪iɡ] Notes: rheumatism.</description>
+    </item>
+    <item>
+      <headword id="idp119002960">sìolag</headword>
+      <description>[ʃıɔɫɑɡ] Notes: a saw.</description>
+    </item>
+    <item>
+      <headword id="idp119004688">soitheach</headword>
+      <description>Quotation: dòrtadh shoithichean. Notes: a heavy downpour.</description>
+    </item>
+    <item>
+      <headword id="idp119006344">spoirig</headword>
+      <description>[spɔɾiɡʹ] Notes: a sparrow.</description>
+    </item>
+    <item>
+      <headword id="idp119008072">stràilleach</headword>
+      <description>Notes: seaware driven ashore.</description>
+    </item>
+    <item>
+      <headword id="idp115456784">tarbh</headword>
+    <description>[t̪ɑɾo] </description></item>
+    <item>
+      <headword id="idp167328136">tàrnaich</headword>
+      <description>Notes: thunder.</description>
+    </item>
+    <item>
+      <headword id="idp167329648">torc</headword>
+      <description>Notes: male pig.</description>
+    </item>
+    <item>
+      <headword id="idp167331160">abhrad</headword>
+      <description>[ɤu̟ɾəd̪] Notes: eyebrow.</description>
+    </item>
+    <item>
+      <headword id="idp167332888">adha</headword>
+      <description>Quotation: an t-adha [ən̪t̪ɑ:]. Notes: liver.</description>
+    </item>
+    <item>
+      <headword id="idp167334760">àirne</headword>
+      <description>Notes: kidney.</description>
+    </item>
+    <item>
+      <headword id="idp167336272">aisinn</headword>
+      <description>[ɑʃĩnʹ] Notes: rib.</description>
+    </item>
+    <item>
+      <headword id="idp167338000">barr-gùg</headword>
+      <description>[bɑrəɡu̜:ɡ] Notes: potato blossom.</description>
+    </item>
+    <item>
+      <headword id="idp167339728">bathas</headword>
+      <description>[bɑs] Notes: forehead.</description>
+    </item>
+    <item>
+      <headword id="idp167341456">bodach-ròcais</headword>
+      <description>Notes: scarecrow.</description>
+    </item>
+    <item>
+      <headword id="idp167342968">bròg</headword>
+      <description>Notes: a cod roe.</description>
+    </item>
+    <item>
+      <headword id="idp167344480">brù(gh)</headword>
+      <description>Notes: belly.</description>
+    </item>
+    <item>
+      <headword id="idp167345992">caor</headword>
+      <description>[kw:ɾ] Notes: sheep.</description>
+    </item>
+    <item>
+      <headword id="idp167347720">coinnean</headword>
+      <description>Notes: rabbit.</description>
+    </item>
+    <item>
+      <headword id="idp167349232">corra-chritheach</headword>
+      <description>[kɔɾəˈxɾiɤx] Notes: heron.</description>
+    </item>
+    <item>
+      <headword id="idp167350960">cròidh</headword>
+      <description>[kɾɔ:] Quotation: Tha iad a’ cròidheadh an arbhair. Notes: “leading”.</description>
+    </item>
+    <item>
+      <headword id="idp167352832">cuairtich-shiataig</headword>
+      <description>Quotation: an cuairtich-shiataig [ku̜ɤʴsṯıçhɛ:t̪iɡʹ]. [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+    <item>
+      <headword id="idp167354704">cuideam</headword>
+      <description>Quotation: Tha cuideam mór air an speur an diugh.</description>
+    </item>
+    <item>
+      <headword id="idp167356216">cuidhteag</headword>
+      <description>[k[ɔı]:tʹɑɡ] Notes: whiting.</description>
+    </item>
+    <item>
+      <headword id="idp167358376">cuilean</headword>
+      <description>Quotation: cuilean muc (sic). Notes: piglet.</description>
+    </item>
+    <item>
+      <headword id="idp167360032">dòrtadh</headword>
+      <description>Quotation: dòrtadh shoithichean. Notes: a downpour.</description>
+    </item>
+    <item>
+      <headword id="idp167361688">droman-allaidh</headword>
+      <description>[d̪ɾomɑṉɑɫi] Notes: spider.</description>
+    </item>
+    <item>
+      <headword id="idp167363416">fàladair</headword>
+      <description>[fɑ:ɫəd̪ɑɾ] Notes: scythe.</description>
+    </item>
+    <item>
+      <headword id="idp167365144">feòsag</headword>
+      <description>[fjɔ:sɑɡ] Notes: beard.</description>
+    </item>
+    <item>
+      <headword id="idp167366872">gath</headword>
+      <description>[kɑ] Notes: sting.</description>
+    </item>
+  </items>
+</fieldworkDocument>

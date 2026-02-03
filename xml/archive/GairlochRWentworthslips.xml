@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 1/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_GairlochRWentworthslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>1987</date>
+  <informant>
+    <nameEnglish>Ray Wentworth</nameEnglish>
+  </informant>
+  <location>Ross-shire, Gairloch</location>
+  <items>
+    <item>
+      <headword id="idp161827760">beubanachd</headword>
+      <description>Quotation: Rinn iad beubanachd oirre. Notes: [the surgeons] mangled her.</description>
+    </item>
+    <item>
+      <headword id="idp161829416">àird</headword>
+      <description>Quotation: ’Se cion àird a bu choireach. Notes: lack of attention.</description>
+    </item>
+    <item>
+      <headword id="idp161831072">comach</headword>
+      <description>Quotation: Thuit mar chomach ris an deibh. Notes: ‘on account of’.</description>
+    </item>
+  </items>
+</fieldworkDocument>

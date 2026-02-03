@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 24 4 13 -->
+<fieldworkDocument docId="Peat_peatloosepage" docType="wordlist" subType="Peat">
+  <title>Mòine / Peat-Working</title>
+  <note>[NOTES: a loose page that looks more like a draft than a proper word-list. The first half is divided into three columns but the purpose of the arrangement is unclear (to allow comparison between dialectal variants?).]</note>
+  <items>
+    <item>
+	  <headword id="d0e15">fosgladh poll ùr</headword>
+	</item>
+    <item><headword id="d0e20" type="heading" level="h1">[blank]</headword></item>
+    <item>
+	  <headword id="d0e25">am blàr mònach</headword>
+	</item>
+    <item>
+	  <headword id="d0e31">am poll mònach</headword>
+	</item>
+    <item>
+	  <headword id="d0e37">am poll ùr</headword>
+	</item>
+    <item><headword id="d0e42" type="heading" level="h1">[blank]</headword></item>
+    <item>
+	  <headword id="d0e47">bac-mòine</headword>
+	</item>
+    <item>
+	  <headword id="d0e53">grunnd a’ bhaic</headword>
+	</item>
+    <item>
+	  <headword id="d0e59">mullach a’ bhaic</headword>
+	</item>
+    <item>
+	  <headword id="d0e65">ceann/ceann shìos (Skye)</headword>
+	</item>
+    <item><headword id="d0e70" type="heading" level="h1">[blank]</headword></item>
+    <item>
+	  <headword id="d0e75">sgaoilteach (Gairloch)</headword>
+	</item>
+    <item>
+	  <headword id="d0e81">fuar-thalamh (Gairloch)</headword>
+	</item>
+    <item>
+	  <headword id="d0e87">mòinteach bheò (Gairloch)</headword>
+	</item>
+    <item><headword id="d0e92" type="heading" level="h1">[blank]</headword></item>
+    <item>
+	  <headword id="d0e97">leigeil nam poll</headword>
+	</item>
+    <item>
+	  <headword id="d0e103">ligeadh (North Uist)</headword>
+	</item>
+    <item><headword id="d0e108" type="heading" level="h1">[blank]</headword></item>
+    <item>
+	  <headword id="d0e113">riachadh</headword>
+	</item>
+    <item>
+	  <headword id="d0e119">priogadh</headword>
+	</item>
+    <item>
+	  <headword id="d0e125">a’ rodaigeadh</headword>
+	</item>
+    <item>
+	  <headword id="d0e131">a’ breacadh (Sleat)</headword>
+	</item>
+    <item>
+	  <headword id="d0e137">a’ susadh (North Uist)</headword>
+	</item>
+    <item><headword id="d0e142" type="heading" level="h1">[blank]</headword></item>
+    <item>
+	  <headword id="d0e147">cargur</headword>
+	</item>
+    <item>
+	  <headword id="d0e153">riasg / sgrath</headword>
+	</item>
+    <item><headword id="d0e158" type="heading" level="h1">[blank]</headword></item>
+    <item>
+	  <headword id="d0e163">rùsgadh</headword>
+	</item>
+    <item>
+	  <headword id="d0e169">feannadh</headword>
+	</item>
+    <item>
+	  <headword id="d0e175">faileadh (Harris)</headword>
+	</item>
+    <item>
+	  <headword id="d0e181">barradh</headword>
+	</item>
+    <item>
+	  <headword id="d0e187">a’ sgoltadh</headword>
+	</item>
+    <item>
+	  <headword id="d0e193">sgoradh (Taransay)</headword>
+	</item>
+    <item><headword id="d0e198" type="heading" level="h1">[blank]</headword></item>
+    <item>
+	  <headword id="d0e203">leagail nan rùsg</headword>
+	</item>
+    <item>
+	  <headword id="d0e209">a càradh nan rùsg / an fheanntach</headword>
+	</item>
+    <item>
+	  <headword id="d0e215">glanadh</headword>
+	</item>
+    <item>
+	  <headword id="d0e221">leagail nan ceap / càradh nan ceap</headword>
+	</item>
+    <item><headword id="d0e226" type="heading" level="h1">[blank]</headword></item>
+    <item>
+	  <headword id="d0e231">ceann is earball</headword>
+	</item>
+    <item>
+	  <headword id="d0e237">ceaba làir</headword>
+	</item>
+    <item><headword id="d0e242" type="heading" level="h1">[blank]</headword></item>
+    <item>
+	  <headword id="d0e247">meighe = carcaire</headword>
+	</item>
+    <item>
+	  <headword id="d0e253">meithe (width – Grimsay)</headword>
+	</item>
+    <item><headword id="d0e258" type="heading" level="h1">[blank]</headword></item>
+    <item>
+	  <headword id="d0e263">carcaire</headword>
+	  <description>an leud mònadh a leigeadh ris.</description>
+	</item>
+    <item>
+	  <headword id="d0e269">[grabhag]</headword>
+	  <description>grabhag – poll-mònadh beag, goirid.</description>
+	</item>
+    <item>
+	  <headword id="d0e275">[grinneal]</headword>
+	  <description>an grinneal – a ruigear nuair a theirgeas a’ mhòine.</description>
+	</item>
+    <item>
+	  <headword id="d0e281">[peirceal]</headword>
+	  <description>peirceal a’ phuill: aghaidh a’ ph[uill].</description>
+	</item>
+    <item>
+	  <headword id="d0e287">sgriosadh</headword>
+	  <description>‘slicing last portions before coming to peat proper’. (Barra)</description>
+	</item>
+    <item>
+	  <headword id="d0e293">a’ sadhsadh</headword>
+	  <description>stripping face of peat bog. (Skye)</description>
+	</item>
+  </items>
+</fieldworkDocument>

@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 1 8 14 -->
+<fieldworkDocument docId="AOHenley_SouthBoisdaleJMacPheemisc" docType="wordlist" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>[1987-88]</date>
+  <fieldworker personId="ohenleya">A. O’Henley</fieldworker>
+  <informant>
+    <nameEnglish>John MacPhee</nameEnglish>
+  </informant>
+  <location>South Uist, South Boisdale</location>
+  <items>
+    <item>
+      <headword id="idm2954312">seillean mór</headword>
+      <description>bumble bee.</description>
+    </item>
+    <item>
+      <headword id="idm3026672">ainbheach</headword>
+      <description>drone bee.</description>
+    </item>
+    <item>
+      <headword id="idm3054104">seillean dìomhain</headword>
+      <description>drone bee.</description>
+    </item>
+    <item>
+      <headword id="idm2950856">seillean achaidh</headword>
+      <description>field bee.</description>
+    </item>
+    <item>
+      <headword id="idm2972672">bunnan</headword>
+      <description>black beetle.</description>
+    </item>
+    <item>
+      <headword id="idm2998520">farachan</headword>
+      <description>death watch beetle.</description>
+    </item>
+    <item>
+      <headword id="idm2964464">amadan dè</headword>
+      <description>butterfly.</description>
+    </item>
+    <item>
+      <headword id="idm2990888">dealan dè</headword>
+      <description>butterfly.</description>
+    </item>
+    <item>
+      <headword id="idm3027104">learbad</headword>
+      <description>butterfly.</description>
+    </item>
+    <item>
+      <headword id="idm3014792">ailseag</headword>
+      <description>caterpillar.</description>
+    </item>
+    <item>
+      <headword id="idm3019832">bràtag a’ chàil</headword>
+      <description>caterpillar.</description>
+    </item>
+    <item>
+      <headword id="idm2989952">cruimh càil</headword>
+      <description>caterpillar.</description>
+    </item>
+    <item>
+      <headword id="idm2961728">bratag</headword>
+      <description>furry caterpillar.</description>
+    </item>
+    <item>
+      <headword id="idm2972528">ana bhiorach</headword>
+      <description>centipede.</description>
+    </item>
+    <item>
+      <headword id="idm2989304">ceudchasach</headword>
+      <description>centipede.</description>
+    </item>
+    <item>
+      <headword id="idm2964608">cearan</headword>
+      <description>cockroach.</description>
+    </item>
+    <item>
+      <headword id="idm2986784">buail a’ chnag</headword>
+      <description>cricket.</description>
+    </item>
+    <item>
+      <headword id="idp2374744">breabadair</headword>
+      <description>daddy long legs.</description>
+    </item>
+    <item>
+      <headword id="idp2376256">tarbh nathrach</headword>
+      <description>dragonfly.</description>
+    </item>
+    <item>
+      <headword id="idp2377768">corra ghobhlach</headword>
+      <description>earwig.</description>
+    </item>
+    <item>
+      <headword id="idp2379280">gobhlag</headword>
+      <description>earwig.</description>
+    </item>
+    <item>
+      <headword id="idp2380792">cruimh gheala</headword>
+      <description>glow worm.</description>
+    </item>
+    <item>
+      <headword id="idp2383168">brobhadan</headword>
+      <description>grasshopper.</description>
+    </item>
+    <item>
+      <headword id="idp2384680">fionnan feòir</headword>
+      <description>grasshopper.</description>
+    </item>
+    <item>
+      <headword id="idp2386192">srannan</headword>
+      <description>grasshopper.</description>
+    </item>
+    <item>
+      <headword id="idp2387704">brìdeach</headword>
+      <description>grub.</description>
+    </item>
+    <item>
+      <headword id="idp2389216">seillean nimhe</headword>
+      <description>hornet. Also ‘connspeach’.</description>
+    </item>
+    <item>
+      <headword id="idp2390728">[connspeach]</headword>
+      <description>[hornet.]</description>
+    </item>
+    <item>
+      <headword id="idp2392240">daolag bhreac</headword>
+      <description>ladybird.</description>
+    </item>
+    <item>
+      <headword id="idp2393752">dannsair dubhan uisge</headword>
+      <description>water spider.</description>
+    </item>
+    <item>
+      <headword id="idp2395264">speach</headword>
+      <description>wasp.</description>
+    </item>
+    <item>
+      <headword id="idp2396776">raodan</headword>
+      <description>woodworm.</description>
+    </item>
+    <item>
+      <headword id="idp2398288">maoirnean</headword>
+      <description>small cockle.</description>
+    </item>
+    <item>
+      <headword id="idp2399800">giomach cuain</headword>
+      <description>crayfish.</description>
+    </item>
+    <item>
+      <headword id="idp2401312">giomach spàinneach</headword>
+      <description>crayfish.</description>
+    </item>
+    <item>
+      <headword id="idp2402824">carnag</headword>
+      <description>eel.</description>
+    </item>
+    <item>
+      <headword id="idp2404336">deal, deala</headword>
+      <description>leech.</description>
+    </item>
+    <item>
+      <headword id="idp2405848">muasgan caol</headword>
+      <description>prawn.</description>
+    </item>
+    <item>
+      <headword id="idp2407360">luga</headword>
+      <description>sandworm.</description>
+    </item>
+    <item>
+      <headword id="idp2408872">conan mara</headword>
+      <description>sea urchin.</description>
+    </item>
+    <item>
+      <headword id="idp2410384">crogan feannaig</headword>
+      <description>sea urchin.</description>
+    </item>
+    <item>
+      <headword id="idp2411896">carran</headword>
+      <description>shrimp.</description>
+    </item>
+    <item>
+      <headword id="idp2413408">ialtag</headword>
+      <description>a bat.</description>
+    </item>
+    <item>
+      <headword id="idp2414920">cù odhar</headword>
+      <description>beaver.</description>
+    </item>
+    <item>
+      <headword id="idp2416432">dobharchù</headword>
+      <description>beaver.</description>
+    </item>
+    <item>
+      <headword id="idp2417944">àr chù</headword>
+      <description>bloodhound.</description>
+    </item>
+    <item>
+      <headword id="idp2419456">torc</headword>
+      <description>boar.</description>
+    </item>
+    <item>
+      <headword id="idp2421832">boc</headword>
+      <description>buck.</description>
+    </item>
+    <item>
+      <headword id="idp2423344">agh allaidh</headword>
+      <description>buffalo.</description>
+    </item>
+    <item>
+      <headword id="idp2424856">deilf</headword>
+      <description>dolphin.</description>
+    </item>
+    <item>
+      <headword id="idp2426368">luch fheòir</headword>
+      <description>dormouse.</description>
+    </item>
+    <item>
+      <headword id="idp2427880">ailp</headword>
+      <description>elephant.</description>
+    </item>
+    <item>
+      <headword id="idp2429392">lon</headword>
+      <description>elk.</description>
+    </item>
+    <item>
+      <headword id="idp2430904">neas</headword>
+      <description>ferret.</description>
+    </item>
+    <item>
+      <headword id="idp2432416">sioraf</headword>
+      <description>giraffe.</description>
+    </item>
+    <item>
+      <headword id="idp2433928">madadh chuain</headword>
+      <description>grampus.</description>
+    </item>
+    <item>
+      <headword id="idp2435440">leumnach</headword>
+      <description>grampus.</description>
+    </item>
+    <item>
+      <headword id="idp2436952">cù gorm</headword>
+      <description>greyhound.</description>
+    </item>
+    <item>
+      <headword id="idp2438464">gràineag</headword>
+      <description>hedgehog.</description>
+    </item>
+    <item>
+      <headword id="idp1653632">breog</headword>
+      <description>leveret.</description>
+    </item>
+    <item>
+      <headword id="idp1655144">os</headword>
+      <description>moose.</description>
+    </item>
+    <item>
+      <headword id="idp1656656">maoileann</headword>
+      <description>mule.</description>
+    </item>
+    <item>
+      <headword id="idp1658168">faindeal</headword>
+      <description>panther.</description>
+    </item>
+    <item>
+      <headword id="idp1659680">taghan</headword>
+      <description>pine marten.</description>
+    </item>
+    <item>
+      <headword id="idp1661192">peileag</headword>
+      <description>porpoise.</description>
+    </item>
+    <item>
+      <headword id="idp1662704">muc bhiorach</headword>
+      <description>porpoise.</description>
+    </item>
+    <item>
+      <headword id="idp1664216">muc steallain</headword>
+      <description>porpoise.</description>
+    </item>
+    <item>
+      <headword id="idp1665728">badalan</headword>
+      <description>water rat.</description>
+    </item>
+    <item>
+      <headword id="idp1667240">radan uisge</headword>
+      <description>water rat.</description>
+    </item>
+    <item>
+      <headword id="idp1668752">brac</headword>
+      <description>reindeer.</description>
+    </item>
+    <item>
+      <headword id="idp1670264">reinfhiadh</headword>
+      <description>reindeer.</description>
+    </item>
+    <item>
+      <headword id="idp1671776">tasd</headword>
+      <description>reindeer.</description>
+    </item>
+    <item>
+      <headword id="idp1673288">ruadh bhoc</headword>
+      <description>roebuck.</description>
+    </item>
+    <item>
+      <headword id="idp1674800">earba</headword>
+      <description>roe deer.</description>
+    </item>
+    <item>
+      <headword id="idp1677176">iallag [?] an fhraoich</headword>
+      <description>shrew.</description>
+    </item>
+    <item>
+      <headword id="idp1678688">neas bheag</headword>
+      <description>stoat.</description>
+    </item>
+    <item>
+      <headword id="idp1680200">abhag</headword>
+      <description>terrier.</description>
+    </item>
+    <item>
+      <headword id="idp1681712">buaidh iomlan</headword>
+      <description>lesser-tailed vole.</description>
+    </item>
+    <item>
+      <headword id="idp1683224">badalan</headword>
+      <description>water vole.</description>
+    </item>
+    <item>
+      <headword id="idp1684736">fadan uisge</headword>
+      <description>water vole.</description>
+    </item>
+    <item>
+      <headword id="idp1686248">each mara</headword>
+      <description>walrus.</description>
+    </item>
+    <item>
+      <headword id="idp1687760">neas</headword>
+      <description>weasel.</description>
+    </item>
+  </items>
+</fieldworkDocument>
+

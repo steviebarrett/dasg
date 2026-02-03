@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 5/8/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_AberfeldyPStewartslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>1975</date>
+  <fieldworker>[Tony Dilworth?]</fieldworker>
+  <informant>
+    <nameEnglish>Petrine Stewart</nameEnglish>
+    <age>c. 70</age>
+    <origin>Loch Rannoch</origin>
+  </informant>
+  <location>Aberfeldy</location>
+  <items>
+    <item>
+      <headword id="idp115439680">milis</headword>
+      <description>Quotation: guth milis. Notes: a sweet voice – not ‘guth binn’ in Perthshire.</description>
+    </item>
+    <item>
+      <headword id="idp115474168">Raineach</headword>
+      <description>Quotation: sgoil [rɛ̜ˈṉəx]. Notes: Rannoch (school).</description>
+    </item>
+    <item>
+      <headword id="idp115488712">air falbh</headword>
+      <description>Quotation: Tha Iain bochd air falbh. Notes: euphemism for ‘dead’.</description>
+    </item>
+    <item>
+      <headword id="idp115442128">only</headword>
+      <description>Quotation: ’S mi ’n only té òg a bh’ann.</description>
+    </item>
+    <item>
+      <headword id="idp117990368">Pàp</headword>
+      <description>Quotation: An Eaglais Phàp.</description>
+    </item>
+    <item>
+      <headword id="idp117988856">pungail</headword>
+      <description>Notes: well gathered together; tidy; fastidious.</description>
+    </item>
+    <item>
+      <headword id="idp117987632">sgorra mhór</headword>
+      <description>Notes: bird – ?</description>
+    </item>
+    <item>
+      <headword id="idp117986408">tinneas-cléibh</headword>
+      <description>[kḻɛ̜:] Notes: bronchitis (from Skye friend).</description>
+    </item>
+    <item>
+      <headword id="idp117984104">uair-a-tìm</headword>
+      <description>Notes: for ‘uair-a-thìde’ – ‘an hour’.</description>
+    </item>
+    <item>
+      <headword id="idp117982880">aimsir</headword>
+      <description>[imiʃər] Quotation: Chan eil aimsir math ann. Notes: Weather.</description>
+    </item>
+    <item>
+      <headword id="idp117981296">caithnidh</headword>
+      <description>Quotation: [ə x[ɑı]nʹi]. Notes: consumption.</description>
+    </item>
+    <item>
+      <headword id="idp117978992">caoir-ghìnidh</headword>
+      <description>[kɤ:r ji:nʹi] Quotation: Bha caoir-ghìnidh ann. Notes: wild cherries.</description>
+    </item>
+    <item>
+      <headword id="idp117976832">casd</headword>
+      <description>[ka:sd̪] Quotation: Tha casd orm. Notes: I’ve a cough.</description>
+    </item>
+    <item>
+      <headword id="idp117974672">clach-uaigh</headword>
+      <description>Notes: tombstone.</description>
+    </item>
+    <item>
+      <headword id="idp117973160">cnoidh</headword>
+      <description>Quotation: [ə xr[ɔi]]. Notes: toothache.</description>
+    </item>
+    <item>
+      <headword id="idp117970856">crìoch</headword>
+      <description>Quotation: Chrìoch e. Notes: He died.</description>
+    </item>
+    <item>
+      <headword id="idp117969776">drodhail</headword>
+      <description>[drɔ:ᵊɫ] Notes: = iongantach.</description>
+    </item>
+    <item>
+      <headword id="idp117967904">duircean</headword>
+      <description>[du̜ʼrkən] Notes: peeweep.</description>
+    </item>
+    <item>
+      <headword id="idp117966464">Dun Chaillinn</headword>
+      <description>Notes: Dunkeld.</description>
+    </item>
+    <item>
+      <headword id="idp117964808">eaglais</headword>
+      <description>Quotation: An Eaglais Phàp. Notes: R.C. Church.</description>
+    </item>
+    <item>
+      <headword id="idp117963296">fairtichill</headword>
+      <description>[fɑrʃtiçil] Notes: Fortingall.</description>
+    </item>
+    <item>
+      <headword id="idp117961136">feirm</headword>
+      <description>[fɛ̜ɛ̜rım] Notes: farm.</description>
+    </item>
+  </items>
+</fieldworkDocument>

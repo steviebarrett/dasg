@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 7/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_KyltraJMacDonaldslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>04/1969</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <informant>
+    <nameEnglish>John MacDonald</nameEnglish>
+    <age>85</age>
+    <origin>Blackburn, near Glentarff</origin>
+  </informant>
+  <location>Inverness-shire, Fort Augustus, “Kyltra”</location>
+  <items>
+    <item>
+      <headword id="idp118887944">là</headword>
+      <description>Quotation: Là fosgladh an t-sealg. Notes: 12th August.</description>
+    </item>
+    <item>
+      <headword id="idp118884560">mul a’ mhàgain</headword>
+      <description>[mũ̜ɫəvɑ̃:ɡɑṉʹ] Notes: toad.</description>
+    </item>
+    <item>
+      <headword id="idp118881176">ri</headword>
+      <description>Quotation: “Bha iad ri sionnaich.” Notes: They were after foxes.</description>
+    </item>
+    <item>
+      <headword id="idp118901048">planndais</headword>
+      <description>[pɫɑ̃ũ̜n̪d̪ɑʃ] Notes: a plant.</description>
+    </item>
+    <item>
+      <headword id="idp118902776">sealg</headword>
+      <description>Quotation: Là fosgladh an t-sealg. Notes: 12th August.</description>
+    </item>
+    <item>
+      <headword id="idp118904648">sgarbhlaich</headword>
+      <description>[sɡɑɾɑɫiç] Notes: loose stones, usually on a mountainside.</description>
+    </item>
+    <item>
+      <headword id="idp118906376">soitheamh</headword>
+      <description>[sɔ̃i] Notes: tame.</description>
+    </item>
+    <item>
+      <headword id="idp118908104">spoireag</headword>
+      <description>[spɔɾɑɡ] Notes: sparrow.</description>
+    </item>
+    <item>
+      <headword id="idp118909832">adharc</headword>
+      <description>[ɛɾəɡ] Notes: a horn.</description>
+    </item>
+    <item>
+      <headword id="idp118911560">adharcan</headword>
+      <description>[ɛɾəɡɑ̃ṉ] Notes: lapwing.</description>
+    </item>
+    <item>
+      <headword id="idp118913288">breacan-beithe</headword>
+      <description>Notes: chaffinch.</description>
+    </item>
+    <item>
+      <headword id="idp118914800">cràigean</headword>
+      <description>Notes: frog.</description>
+    </item>
+    <item>
+      <headword id="idp118916312">cù-eunach</headword>
+      <description>Notes: gun dog.</description>
+    </item>
+    <item>
+      <headword id="idp118917824">dithis</headword>
+      <description>Quotation: fear na dhithis dhuibh [dhiubh?].</description>
+    </item>
+    <item>
+      <headword id="idp118919336">freanach</headword>
+      <description>[fɾɛ̃ṉɑx] Notes: bracken.</description>
+    </item>
+    <item>
+      <headword id="idp118921064">gaoth</headword>
+      <description>Quotation: “… gus am faigheadh iad gaoth air na h-eòin, agus an sin bha iad a stad.” Notes: i.e. the gundogs.</description>
+    </item>
+  </items>
+</fieldworkDocument>

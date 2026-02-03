@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 16 1 15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="DRMorrisonetal_ScalpayDMacLeodmisc" docType="wordlist" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>1975</date>
+  <fieldworker>[self]</fieldworker>
+  <note>[NOTES: Miss MacLeod is Mr D.R. Morrison’s niece, as he explains in the letter attached to the list.]</note>
+  <informant>
+    <nameEnglish>Donalda MacLeod</nameEnglish>
+    <age>9</age>
+  </informant>
+  <location>Harris, Scalpay</location>
+  <items>
+    <item>
+      <headword id="idola349" type="heading" level="h1">Eoin</headword>
+    </item>
+    <item>
+      <headword id="idp118767400">stearrag</headword>
+      <description>crow.</description>
+    </item>
+    <item>
+      <headword id="idp118782160">lon duabh</headword>
+      <description>[sic] black bird.</description>
+    </item>
+    <item>
+      <headword id="idp118783672">truit</headword>
+      <description>starling.</description>
+    </item>
+    <item>
+      <headword id="idp118785184">naosg</headword>
+      <description>snipe.</description>
+    </item>
+    <item>
+      <headword id="idp118786696">fhaoileag</headword>
+      <description>gull.</description>
+    </item>
+    <item>
+      <headword id="idp118788208">trilleachan</headword>
+      <description>oyster catcher.</description>
+    </item>
+    <item>
+      <headword id="idp118789720">feadag</headword>
+      <description>plover.</description>
+    </item>
+    <item>
+      <headword id="idp118791232">churracag</headword>
+      <description>lapwing.</description>
+    </item>
+    <item>
+      <headword id="idp118792744">ruth</headword>
+      <description>black headed gull.</description>
+    </item>
+    <item>
+      <headword id="idp118794256">farspach</headword>
+      <description>black backed gull.</description>
+    </item>
+    <item>
+      <headword id="idp118795768">scarbh</headword>
+      <description>shag.</description>
+    </item>
+    <item>
+      <headword id="idp118797280">bugaire</headword>
+      <description>puffin.</description>
+    </item>
+    <item>
+      <headword id="idp118798792">stearnag</headword>
+      <description>tern.</description>
+    </item>
+    <item>
+      <headword id="idp118800304">fhaileag an sgadan</headword>
+      <description>[sic] herring gull.</description>
+    </item>
+    <item>
+      <headword id="idp118801816">gobhlachan</headword>
+      <description>turnstone.</description>
+    </item>
+    <item>
+      <headword id="idp118803328">guilbneach</headword>
+      <description>curlew.</description>
+    </item>
+    <item>
+      <headword id="idp118804840">dru-dreag</headword>
+      <description>[sic] robin red breast.</description>
+    </item>
+    <item>
+      <headword id="idp118806352">chutag</headword>
+      <description>cuckoo.</description>
+    </item>
+    <item>
+      <headword id="idp118807864">sgarbh</headword>
+      <description>cormorant.</description>
+    </item>
+    <item>
+      <headword id="idp118809376">uiseag</headword>
+      <description>lark.</description>
+    </item>
+    <item>
+      <headword id="idp118810888">gobhlan-gaoithe</headword>
+      <description>swallow.</description>
+    </item>
+    <item>
+      <headword id="idp118812400">gealb onn</headword>
+      <description>[sic] sparrow.</description>
+    </item>
+    <item>
+      <headword id="idp118813912">cearc fhraoich</headword>
+      <description>moorhen.</description>
+    </item>
+    <item>
+      <headword id="idp118815424">clacharan</headword>
+      <description>stone chat.</description>
+    </item>
+    <item>
+      <headword id="idp118816936">tunnag</headword>
+      <description>duck.</description>
+    </item>
+    <item>
+      <headword id="idp118818448">eala</headword>
+      <description>swan.</description>
+    </item>
+    <item>
+      <headword id="idp118819960">cailleach oidche</headword>
+      <description>[sic] owl.</description>
+    </item>
+    <item>
+      <headword id="idp118821472">corra-ghriadhach</headword>
+      <description>heron.</description>
+    </item>
+    <item>
+      <headword id="idp118822984">Eun Frangoch</headword>
+      <description>turkey.</description>
+    </item>
+    <item>
+      <headword id="idp118824496">pheveag</headword>
+      <description>[?] peacock.</description>
+    </item>
+    <item>
+      <headword id="idp118826008">iolaire</headword>
+      <description>eagle.</description>
+    </item>
+    <item>
+      <headword id="idp118827520">rochaich</headword>
+      <description>[?] rook.</description>
+    </item>
+    <item>
+      <headword id="idp118829032">fitheach</headword>
+      <description>raven.</description>
+    </item>
+	<item>
+	  <headword id="idola352"> </headword>
+	  <description>penguin.</description>
+	</item>
+    <item>
+      <headword id="idp118830760">speireag</headword>
+      <description>sparrow hawk.</description>
+    </item>
+    <item>
+      <headword id="idp118832272">clamhan</headword>
+      <description>buzzard.</description>
+    </item>
+    <item>
+      <headword id="idola350" type="heading" level="h1">Trees in Gaelic</headword>
+    </item>
+    <item>
+      <headword id="idp118834648">sicamor</headword>
+      <description>sycamore.</description>
+    </item>
+    <item>
+      <headword id="idp118836160">beithe</headword>
+      <description>birch.</description>
+    </item>
+    <item>
+      <headword id="idp118837672">clarach</headword>
+      <description>oak.</description>
+    </item>
+    <item>
+      <headword id="idp118839184">gean chno faidhaich</headword>
+      <description>[sic] horse chestnut.</description>
+    </item>
+    <item>
+      <headword id="idp118840696">craoran</headword>
+      <description>rowan.</description>
+    </item>
+    <item>
+      <headword id="idp118842208">seileach</headword>
+      <description>willow.</description>
+    </item>
+    <item>
+      <headword id="idp118843720">guithas</headword>
+      <description>fir, pine.</description>
+    </item>
+    <item>
+      <headword id="idola351" type="heading" level="h1">Flowers in Gaelic</headword>
+    </item>
+    <item>
+      <headword id="idp118846096">neòinean</headword>
+      <description>daisy.</description>
+    </item>
+    <item>
+      <headword id="idp118847608">sobhrag</headword>
+      <description>primrose.</description>
+    </item>
+    <item>
+      <headword id="idp118849120">lùs buidhe Bealtainn</headword>
+      <description>marsh Marigold.</description>
+    </item>
+    <item>
+      <headword id="idp118850632">buidheag an t-samhraidh</headword>
+      <description>buttercup.</description>
+    </item>
+    <item>
+      <headword id="idp118852144">fail chuach</headword>
+      <description>violet.</description>
+    </item>
+    <item>
+      <headword id="idp118853656">fluir na cuathaige</headword>
+      <description>lady smock.</description>
+    </item>
+    <item>
+      <headword id="idp118855168">fluir na cuathaige</headword>
+      <description>cuckoo flower.</description>
+    </item>
+    <item>
+      <headword id="idp118856680">beàrnan brìde</headword>
+      <description>dandelion.</description>
+    </item>
+    <item>
+      <headword id="idp118858192">urach-bhalich</headword>
+      <description>spotted orchid.</description>
+    </item>
+    <item>
+      <headword id="idp118859704"> </headword>
+      <description>purple orchid.</description>
+    </item>
+    <item>
+      <headword id="idp118861216"> </headword>
+      <description>Bird’s foot trefoil.</description>
+    </item>
+    <item>
+      <headword id="idp118862728"> </headword>
+      <description>milkwort.</description>
+    </item>
+    <item>
+      <headword id="idp118864240"> </headword>
+      <description>cinquefoil.</description>
+    </item>
+    <item>
+      <headword id="idola353" type="heading" level="h1">Fish in Gaelic</headword>
+    </item>
+	<item>
+      <headword id="idola354" type="heading" level="h2">Iasgan</headword>
+    </item>
+    <item>
+      <headword id="idp118868128">easgunn</headword>
+      <description>eel.</description>
+    </item>
+    <item>
+      <headword id="idp118869640">trosg</headword>
+      <description>cod.</description>
+    </item>
+    <item>
+      <headword id="idp118871152">sgadan</headword>
+      <description>herring.</description>
+    </item>
+    <item>
+      <headword id="idp118872664">nonnach</headword>
+      <description>mackerel.</description>
+    </item>
+    <item>
+      <headword id="idp118874176">leabag</headword>
+      <description>flounder.</description>
+    </item>
+    <item>
+      <headword id="idp118875688">leabag bhreac</headword>
+      <description>plaice.</description>
+    </item>
+    <item>
+      <headword id="idp118877200">cudaice</headword>
+      <description>[sic] cuddies.</description>
+    </item>
+  </items>
+</fieldworkDocument>

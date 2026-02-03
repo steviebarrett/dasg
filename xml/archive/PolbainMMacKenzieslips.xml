@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 23/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_PolbainMMacKenzieslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>10/1969</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <note>[NOTES: in IPA transcriptions, the fieldworker uses [w] for [ɯ].]</note>
+  <informant>
+    <nameEnglish>Morag MacKenzie</nameEnglish>
+  </informant>
+  <location>Ross-shire, Polbain</location>
+  <items>
+    <item>
+      <headword id="idp119280304">le</headword>
+      <description>Quotation: “Duine leis am bu leis Tanera.” Notes: a man to whom Tanera belonged.</description>
+    </item>
+    <item>
+      <headword id="idp119277352">liath-reothadh</headword>
+      <description>[lʹiɤɾɔɡ] Notes: hoar-frost.</description>
+    </item>
+    <item>
+      <headword id="idp119273896">loinn</headword>
+      <description>Quotation: Ghabh e loinn dheth dhol air ais. Notes: He took a notion/fancy to go back.</description>
+    </item>
+    <item>
+      <headword id="idp119269576">robhas</headword>
+      <description>[rɔəs] Quotation: Chaneil robhas agam air. Notes: “Chaneil sgeul agam air.”</description>
+    </item>
+    <item>
+      <headword id="idp119294704">athais</headword>
+      <description>[ɑhiʃ] Quotation: Mas na poit a’ cuir athais air bathais na slabhraidh. Notes: The pot calling the kettle black.</description>
+    </item>
+    <item>
+      <headword id="idp119296576">iarunn-biorach</headword>
+      <description>Notes: goffering iron.</description>
+    </item>
+    <item>
+      <headword id="idp119298088">sean-fhasanach</headword>
+      <description>Notes: normally “sean-fhasanta”.</description>
+    </item>
+    <item>
+      <headword id="idp119299600">strangan</headword>
+      <description>[st̪ɾɑ̃ɣɑṉ] Notes: twine used by cobblers. Normally “sreangan”.</description>
+    </item>
+    <item>
+      <headword id="idp119301328">struthach</headword>
+      <description>Notes: whooping cough.</description>
+    </item>
+    <item>
+      <headword id="idp119302840">teine-dé</headword>
+      <description>Notes: shingles. (?)</description>
+    </item>
+    <item>
+      <headword id="idp119304352">tudan</headword>
+      <description>Quotation: Ithidh feadhain na cruachan ’s thig iad suas air na tudanan. Notes: extravagance. Tudan: a “hut” of corn.</description>
+    </item>
+    <item>
+      <headword id="idp119306008">ullag</headword>
+      <description>Quotation: ullag bhàrr. Notes: mixture of oatmeal and cream. Ordinary “ullag” with milk.</description>
+    </item>
+    <item>
+      <headword id="idp119307664">abhrad</headword>
+      <description>[ɑu̟ɾəd̪] Notes: eyelash.</description>
+    </item>
+    <item>
+      <headword id="idp119309392">anabharrach</headword>
+      <description>Notes: for “anabarrach”.</description>
+    </item>
+    <item>
+      <headword id="idp119311048">at-bàn</headword>
+      <description>Notes: T.B. in the hip-joint.</description>
+    </item>
+    <item>
+      <headword id="idp119312560">bathais</headword>
+      <description>Quotation: Màs na poit a’ cur athais air bathais na slabhraidh. Notes: The pot calling the kettle black.</description>
+    </item>
+    <item>
+      <headword id="idp119314216">bloiseag</headword>
+      <description>[bɫ[ɤı]ʃəɡ] Quotation: Thàinig [bɫ[ɤı]ʃəɡ] dhan a’ ghrian. Notes: a short sunny interval between dull or rainy spells. Prob.</description>
+    </item>
+    <item>
+      <headword id="idp119317240">boicneach</headword>
+      <description>Quotation: a’ bhoicneach [əvɔcṉɑx]. Notes: smallpox, vaccination.</description>
+    </item>
+    <item>
+      <headword id="idp119319112">buicean</headword>
+      <description>[bu̟cɑṉ] Notes: a pimple.</description>
+    </item>
+    <item>
+      <headword id="idp119320840">cadal</headword>
+      <description>Quotation: cadal-iongnach. Notes: “pins and needles”.</description>
+    </item>
+    <item>
+      <headword id="idp119322496">ceannruigeach</headword>
+      <description>[cɑ̃n̪ru̜ɡʹɑx] Quotation: ’S math adhaircean goirid a bhi air a’ chrodh cheannruigeach. Notes: rebellious. [NOTES: slipped under ‘ceannraigeach’.]</description>
+    </item>
+    <item>
+      <headword id="idp119324512">ceisteachan</headword>
+      <description>Quotation: na ceisteachan. Notes: pl. of “ceist”, in general and for questions in Shorter Catechism.</description>
+    </item>
+    <item>
+      <headword id="idp119326168">crùbach</headword>
+      <description>Notes: lame.</description>
+    </item>
+    <item>
+      <headword id="idp119327680">cuagach</headword>
+      <description>Notes: deformed physically, twisted.</description>
+    </item>
+    <item>
+      <headword id="idp119329192">cruach</headword>
+      <description>Quotation: “Ithidh feadhain na cruachan ’s thig iad suas air na tudanan.” Notes: extravagance.</description>
+    </item>
+    <item>
+      <headword id="idp119330848">cuairteanach</headword>
+      <description>Quotation: gaoth chuairteanaich. Notes: whirlwind, eddying wind.</description>
+    </item>
+    <item>
+      <headword id="idp119332504">cuartach-eanchainn</headword>
+      <description>Quotation: a’ chuartach-eanchainn [əxu̜ɤʴsṯɑxɛṉɑxĩnʹ]. Notes: meningitis. [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+    <item>
+      <headword id="idp119335096">deimh</headword>
+      <description>[dʹev] Notes: ice.</description>
+    </item>
+    <item>
+      <headword id="idp119336824">easbhuidh</headword>
+      <description>Quotation: Chaneil dad [əjɛsi] orm. Notes: I want for nothing.</description>
+    </item>
+    <item>
+      <headword id="idp119338768">eilteachdainn</headword>
+      <description>[elʹtʹɑxkĩnʹ] Quotation: “’S mi rinn an eilteachdainn ris.” Notes: showing great pleasure at seeing somebody.</description>
+    </item>
+    <item>
+      <headword id="idp119340640">fraochran</headword>
+      <description>[fɾw:xɾɑṉ] Notes: fretted strip across the toe of a shoe, for adornment. Normally “fraochan”.</description>
+    </item>
+    <item>
+      <headword id="idp119342368">frioghan</headword>
+      <description>Notes: pig’s bristle, put on the end of the “sreangan” in cobbling for easy insertion through holes made by the awl.</description>
+    </item>
+    <item>
+      <headword id="idp119343880">gaoth</headword>
+      <description>Quotation: gaoth chuairteanaich. Notes: whirlwind; eddying wind.</description>
+    </item>
+    <item>
+      <headword id="idp119345536">glìfeid</headword>
+      <description>Notes: sleet.</description>
+    </item>
+    <item>
+      <headword id="idp119347048">glinn</headword>
+      <description>[ɡl[ɤ̃ĩ]nʹ] Notes: for “grinn”.</description>
+    </item>
+    <item>
+      <headword id="idp119349208">griùrach</headword>
+      <description>[ɡɾu̟:ɾɑx] Notes: measles.</description>
+    </item>
+  </items>
+</fieldworkDocument>

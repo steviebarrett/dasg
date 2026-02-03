@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 11 9 14 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="AJSmith_UigJNMacDonaldmisc1" docType="wordlist" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>May 1972</date>
+  <fieldworker>A. J. Smith</fieldworker>
+  <note>[NOTES: in IPA transcriptions, the fieldworker uses [w] for [ɯ].]</note>
+
+  <informant>
+    <nameEnglish>J. N. MacDonald</nameEnglish>
+    <origin>Uig</origin>
+  </informant>
+  <location>Lewis, Uig, Meavaig, Post Office</location>
+  <items>
+    <item>
+      <headword id="idp121012000">priach</headword>
+      <description>[pðiɑx] Note: his pronunciation of the word we have as “briachd” [bɾiɑxk]. A soft place on the moor where sheep or cattle are apt to get stuck.</description>
+    </item>
+    <item>
+      <headword id="idp121008400">léig</headword>
+      <description>[lʹe:ɡʹ] Note: a bog which has a bouncy surface.</description>
+    </item>
+    <item>
+      <headword id="idp121005304">suil-chruthaich</headword>
+      <description>Note: a small area of bog which has a bouncy surface.</description>
+    </item>
+    <item>
+      <headword id="idp121005808">stadhar</headword>
+      <description>[ˈstɑəɾ] Quot.: stadhar chruich. Note: usually means here an area of churned mud caused by the passage of cattle.</description>
+    </item>
+    <item>
+      <headword id="idp121002640">staran</headword>
+      <description>Note: path from a house to a gate or stepping stones across a stream.</description>
+    </item>
+    <item>
+      <headword id="idp121001344">breunlach</headword>
+      <description>[bɾĩɑ̃ɫɑx] Note: a wet marshy area.</description>
+    </item>
+    <item>
+      <headword id="idp120998536">lus-na-laogh</headword>
+      <description>Note: grows in wet places.</description>
+    </item>
+    <item>
+      <headword id="idp120997888">feanntag</headword>
+      <description>[fȷ[ɑ̃ũ]n̪t̪ɑɡ] Note: nettle.</description>
+    </item>
+    <item>
+      <headword id="idp120996160">feanntag-bhrògach</headword>
+      <description>Note: a weed which flowers. Can’t sting. Usually in a cultivated ground.</description>
+    </item>
+    <item>
+      <headword id="idp120996016">gìogan</headword>
+      <description>[ɡʹı:ɡɑṉ] Note: thistle. (very near dʹ at the beginning)</description>
+    </item>
+    <item>
+      <headword id="idp120992056">dorus</headword>
+      <description>Quot.: dorus iadht [iɤt̪]. Note: the door in a shieling which was closed because of the direction of the wind.</description>
+    </item>
+    <item>
+      <headword id="idp120992560">cachalaith</headword>
+      <description>[kɑxəlɑi] Note: a gate, an opening in a wall.</description>
+    </item>
+    <item>
+      <headword id="idp120989104">glóran</headword>
+      <description>[ɡɫo:ɾɑṉ] Note: burdock.</description>
+    </item>
+    <item>
+      <headword id="idp120987088">copag</headword>
+      <description>Note: docken leaf.</description>
+    </item>
+    <item>
+      <headword id="idp120984856">cuiseag</headword>
+      <description>Quot.: cuiseag ruadh. Note: docken stalk.</description>
+    </item>
+    <item>
+      <headword id="idp120983560">gallan</headword>
+      <description>Note: wild rhubarb (?). Very like rhubarb growing wild.</description>
+    </item>
+    <item>
+      <headword id="idp120982408">canach</headword>
+      <description>Note: bog-cotton.</description>
+    </item>
+    <item>
+      <headword id="idp120980680">fianach</headword>
+      <description>[fĩɤ̃n̪ɑx] Note: moor-bent.</description>
+    </item>
+    <item>
+      <headword id="idp120975856">lus-na-Fraing</headword>
+      <description>Note: tansy.</description>
+    </item>
+    <item>
+      <headword id="idp120978232">sìthean</headword>
+      <description>Quot.: “sìthean cac a’ choin”. Note: dandelion.</description>
+    </item>
+    <item>
+      <headword id="idp120974560">lus-Cu-Chulainn</headword>
+      <description>Note: yellow bedstraw.</description>
+    </item>
+    <item>
+      <headword id="idp120973552">peallag-buarach</headword>
+      <description>Note: as he pronounces word for toadstool.</description>
+    </item>
+    <item>
+      <headword id="idp120972616">fiùran</headword>
+      <description>[fȷu̟:ɾɑṉ] Note: cow parsnip.</description>
+    </item>
+    <item>
+      <headword id="idp120970744">buathallan</headword>
+      <description>Note: ragwort (yellow).</description>
+    </item>
+    <item>
+      <headword id="idp120968584">seileastair</headword>
+      <description>[ʃeləst̪ɑð] Note: wild iris.</description>
+    </item>
+    <item>
+      <headword id="idp120967144">corra-mhidheag</headword>
+      <description>[kɔrəˈvĩɑɡ] Note: grows among the heather. Small black berries. Blackberries?</description>
+    </item>
+    <item>
+      <headword id="idp120964768">corra-dearg</headword>
+      <description>[kɔrədʹɛɾɑɡ] Note: hard red berries, inside like pith, growing among the heather. Oval leaf.</description>
+    </item>
+    <item>
+      <headword id="idp120963040">muc-fàileag</headword>
+      <description>Note: rose hip (dog-rose).</description>
+    </item>
+    <item>
+      <headword id="idp120960952">sgriathlach</headword>
+      <description>[sɡɾıɑɫɑx] Note: scree.</description>
+    </item>
+    <item>
+      <headword id="idp120959872">litear</headword>
+      <description>[lʹıtʹɑð] Note: bedding of rushes, straw, etc. as in a shieling.</description>
+    </item>
+    <item>
+      <headword id="idp120957712">conas</headword>
+      <description>[kɔ̃ṉəs] Note: whin.</description>
+    </item>
+    <item>
+      <headword id="idp120955840">neòinean</headword>
+      <description>Note: daisy.</description>
+    </item>
+    <item>
+      <headword id="idp120954472">seóbhrach</headword>
+      <description>Note: primrose.</description>
+    </item>
+    <item>
+      <headword id="idp120952600">sgeallan</headword>
+      <description>Note: yellow flower which often grows among corn.</description>
+    </item>
+    <item>
+      <headword id="idp120952456">fliogh-chearc</headword>
+      <description>Note: chickweed.</description>
+    </item>
+    <item>
+      <headword id="idp121014808">cearban</headword>
+      <description>[cɛɾɛbɑṉ] Note: buttercup.</description>
+    </item>
+    <item>
+      <headword id="idp115927656">seacanaich</headword>
+      <description>[ʃɛkɑṉiç] Quot.: “seacanaich na Samhna”. Note: period of good weather in the late autumn. Indian Summer.</description>
+    </item>
+    <item>
+      <headword id="idp115929672">tràthach</headword>
+      <description>Note: mown hay being cured. “Tràthach altanach” – grass which is tall and has “joints” in it.</description>
+    </item>
+    <item>
+      <headword id="idp115930824">liathruisgean</headword>
+      <description>[lʹıɤɾu̟ʃɡʹəṉ] Quot.: na liathruisgean. Note: According to J. N. the lean time in early autumn when the shorter barley growing in shallow ground ripened earlier and was cut to provide food.</description>
+    </item>
+    <item>
+      <headword id="idp115932552">caisean-cumhach</headword>
+      <description>[kɑʃɑnkũ̟ɑx] Quot.: “caisean-cumhach na Bealltainn”. Note: a “rotach”, spell of bad weather at the beginning of May.</description>
+    </item>
+    <item>
+      <headword id="idp115936440">sneachda</headword>
+      <description>Quot.: “sneachda na Càisg”. Note: a “rotach” (spell of bad weather coming about Easter). Comes with a north wind.</description>
+    </item>
+    <item>
+      <headword id="idp115938096">tuil</headword>
+      <description>Quot.: “tuiltean na Liùnasdal”.</description>
+    </item>
+    <item>
+      <headword id="idp115938456">tarmachan-tuinne</headword>
+      <description>[t̪ɑɾɑmɑxɑṉt̪ɤnʹə] Note: the sandpiper (Not “fìdhleir” as said on a previous sheet.) [NOTES: the “previous sheet” referred to is most probably the other word-list completed by the same informant and found in the same box. It gives “fìdhlear” as a sandpiper.]</description>
+    </item>
+    <item>
+      <headword id="idp115941624">làir-mhaide</headword>
+      <description>Note: a trestle on which a full creel was rested so as to hoist it on to the back more easily.</description>
+    </item>
+    <item>
+      <headword id="idp115943280">bodach-sàbhaidh</headword>
+      <description>Note: the figure of a man, its hands stretched out in front of it holding a stick which came down at an angle and passed under its feet. A potato, for balance, was stuck on its lower end. The man then was put standing on a line and it swayed backwards and forwards without toppling. <illustration src="UigJNMacDonaldmisc1illust1.jpg" width="200"/></description>
+    </item>
+    <item>
+      <headword id="idp115944504">tòtaman</headword>
+      <description>[ṯɔ:ṯəmɑṉ] Note: spinning top, usually made from a cotton reel.</description>
+    </item>
+    <item>
+      <headword id="idp115947384">cas-bheag</headword>
+      <description>Quot.: cas-bheag, sinnteag, is leum. Note: hop, stem and jump.</description>
+    </item>
+    <item>
+      <headword id="idp115949184">bròg-ghlaodh</headword>
+      <description>Note: said that these were made in his father’s time from “guttapercha” – a resin-like substance that used to come ashore. Called by them [kɑd̪ɑbɤɾkɑ]. Sometimes shinty balls were made from it.</description>
+    </item>
+    <item>
+      <headword id="idp115950840">ball</headword>
+      <description>[bɑuɫ] Note: shinty ball.</description>
+    </item>
+    <item>
+      <headword id="idp115953432">hoighlidh</headword>
+      <description>[hɤıli] Note: what they called a goal in shinty.</description>
+    </item>
+    <item>
+      <headword id="idp115954368">buail</headword>
+      <description>Quot.: “Buaileam ort!” Note: when two people were to pick opposing teams, one would call “Buaileam ort!” The second would then say “Leigeam leat!” and the first would pick his first choice. (Two shinty teams.)</description>
+    </item>
+    <item>
+      <headword id="idp115955952">breabadh</headword>
+      <description>Quot.: “breabadh-nan-eich”. Note: played by boys in Valtos. Two of the bigger boys got a hold of two small boys (one each), took them on their backs with their arms round their necks and held by the hands. The small boys then dangled behind them. The two sets then went back to back, the small boys kicking each other like horses.</description>
+    </item>
+    <item>
+      <headword id="idp115957320">éididh</headword>
+      <description>[e:dʹi] Quot.: boirionnach beag éididh. Note: a very slightly-built woman.</description>
+    </item>
+    <item>
+      <headword id="idp119098768">éideag</headword>
+      <description>[e:dʹɑɡ] Note: a slightly-built woman.</description>
+    </item>
+    <item>
+      <headword id="idp119098912">fargnaich</headword>
+      <description>Quot.: Bha ’m bàgh air [ɑɾɑɡṉɑxəɣ] aig na tràlairean. Note: said of a place being cleaned up of fish.</description>
+    </item>
+    <item>
+      <headword id="idp119105680">fìogoir</headword>
+      <description>[fı:ɡɔɾ] Note: a small, thin lively person.</description>
+    </item>
+    <item>
+      <headword id="idp119119576">eubhais</headword>
+      <description>[e:vɑʃ] Quot.: “Tha beag eubhais ort a’ deanamh sin.” Note: “It is pointless / a waste of time for you to do that.” Cf. eubhais (Barvas): “Fhuair e eubhais” – He got a good haul.</description>
+    </item>
+    <item>
+      <headword id="idp119134192">acadal</headword>
+      <description>[ɑkəd̪əɫ] Quot.: “Nach tu a fhuair an t-acadal.” Note: a good thing (got in one’s need).</description>
+    </item>
+    <item>
+      <headword id="idp119089768">cafan</headword>
+      <description>Quot.: “cafan air a’ ghaoith”. Note: sharp edge to the wind.</description>
+    </item>
+    <item>
+      <headword id="idp119092000">caf</headword>
+      <description>[kɑf] Quot.: “Abair caf!” Note: a strong smell that catches one’s breath.</description>
+    </item>
+    <item>
+      <headword id="idp119138872">rath</headword>
+      <description>[rɑ] Quot.: “Chaneil rath air.” Note: said of a person lacking in grace and manners. Uncouth person.</description>
+    </item>
+    <item>
+      <headword id="idp119098552">stùirc</headword>
+      <description>[st̪u̟:ɾc] Quot.: “crodh a’ cumail stùirc ri cheile”. Note: facing each other in a hostile attitude.</description>
+    </item>
+    <item>
+      <headword id="idp119089336">leigeas</headword>
+      <description>[lʹeɡʹɑs] Quot.: “Nach e do leigeas a tha glas!” Note: cheek.</description>
+    </item>
+    <item>
+      <headword id="idp119088904">pliachd</headword>
+      <description>[plıɑxk] Quot.: “Bha mi air mo phliachd air a’ làr.” Note: I was lying stretched out on the floor.</description>
+    </item>
+    <item>
+      <headword id="idp119098984">beul</headword>
+      <description>Quot.: “Bha e air a bheul ’s a shròin fodha.” Note: He was lying face down. (Put also under sròn and fo.)</description>
+    </item>
+    <item>
+      <headword id="idp119137720">plosg</headword>
+      <description>[pɫɔsɡ] Quot.: “Tha e air phlosg.” Note: unsteady, unbalanced, liable to fall over. (Would tend to be used of soft things e.g. a bag of wool, a haystack.)</description>
+    </item>
+    <item>
+      <headword id="idp119120944">glagan</headword>
+      <description>Quot.: “Tha a’ chlach air ghlagan.” Note: wobbly, unsteady.</description>
+    </item>
+    <item>
+      <headword id="idp119083504">suathalas</headword>
+      <description>[su̜ɤhɑɫəs] Quot.: (1) “Chaneil suathalas aige ris.” (2) “Thug mi suathalas thuige.” Note: (1) He is not like him. (2) I sort of half identified him (i.e. there was something familiar about him).</description>
+    </item>
+    <item>
+      <headword id="idp118799032">earchall</headword>
+      <description>Quot.: “earchall an Earraich”. Note: loss of animals, most likely in the time of scarcity.</description>
+    </item>
+    <item>
+      <headword id="idp118726888">caol</headword>
+      <description>Quot.: “Cha robh ann ach a’ chaola ghorm.” Note: time of a dire lack of food, etc.</description>
+    </item>
+    <item>
+      <headword id="idp118822792">oidhche</headword>
+      <description>Quot.: “oidhche nan trì suipearan”. Note: longest night (winter solstice).</description>
+    </item>
+    <item>
+      <headword id="idp118818832">deireadh</headword>
+      <description>Quot.: deireadh-bhuain [dʹeɾəɣvu̟ɤṉ] Note: harvest home.</description>
+    </item>
+    <item>
+      <headword id="idp118736464">cadha</headword>
+      <description>[kɑə] Note: narrow pass on the side of a hill or between two hills.</description>
+    </item>
+    <item>
+      <headword id="idp1876888">stiodha</headword>
+      <description>[ʃtʹwɣə] Quot.: plural na stiodhannan. Note: used in Uig of very steep places on hillsides used for ascent (e.g. the rest of the hillside might be rocky).</description>
+    </item>
+    <item>
+      <headword id="idp1871992">banais</headword>
+      <description>[bɛ̃ṉiʃ] Quot.: “banais tighe”. Note: a sort of housewarming celebration attended by close relatives in the house the newly-married couple were going to live in.</description>
+    </item>
+    <item>
+      <headword id="idp1873504">losaid</headword>
+      <description>[ɫɔsidʹ] Quot.: “Bó air a dhol as a losaid.” Note: cow with a dislocated hip joint.</description>
+    </item>
+    <item>
+      <headword id="idp1875016">liadh</headword>
+      <description>[lʹıɤɣ] Note: blade of an oar.</description>
+    </item>
+    <item>
+      <headword id="idp120330584">lann</headword>
+      <description>[ɫ[ɑ̃ũ̜]n̪] Quot.: “Bu tu a’ lann!” Note: a good worker.</description>
+    </item>
+    <item>
+      <headword id="idp120332960">dosgainneach</headword>
+      <description>[d̪ɔsɡĩnʹɑx] Quot.: àite dosgainneach air beathaichean. Note: a place where animals are liable to be lost.</description>
+    </item>
+    <item>
+      <headword id="idp120334904">corracha-cagailt</headword>
+      <description>[kɔrɑxəkɑɡılʹtʹ] Note: seen among embers with a covering of ash on them when a poker is drawn through them. Coloured flames.</description>
+    </item>
+    <item>
+      <headword id="idp120336632">teine-sionnachain</headword>
+      <description>Note: phosphorescence at sea.</description>
+    </item>
+    <item>
+      <headword id="idp120338144">galla</headword>
+      <description>Note: usual word for ‘bitch’ in Uig.</description>
+    </item>
+    <item>
+      <headword id="idp120339656">gamhainn</headword>
+      <description>[ɡɑvinʹ] Note: Uig pronunciation ([ˈɡõĩnʹ] usually in Lewis).</description>
+    </item>
+    <item>
+      <headword id="idp120341672">seamlach</headword>
+      <description>[ʃɛ̃məɫɑx] Note: a cow which has calved this year.</description>
+    </item>
+    <item>
+      <headword id="idp120343400">gamhnach</headword>
+      <description>Note: a cow which hasn’t calved for a year.</description>
+    </item>
+    <item>
+      <headword id="idp120344912">seachlach</headword>
+      <description>Note: a cow in its second year without calf.</description>
+    </item>
+    <item>
+      <headword id="idp120346424">tri-ghamhnach</headword>
+      <description>[ˈt̪ɾɤɣɑṉɑx] Note: a cow in its third year without calf.</description>
+    </item>
+    <item>
+      <headword id="idp120348152">anaglaich</headword>
+      <description>[ˈɑ̃ṉɑɡɫiç] Note: used of making a person who was bed-ridden comfortable by shifting his position.</description>
+    </item>
+    <item>
+      <headword id="idp120350744">seóin</headword>
+      <description>[ʃo:nʹ] Quot.: “Rinn e seóin air an fheòil.” Note: [He] made a feast of the meat.</description>
+    </item>
+    <item>
+      <headword id="idp120352688">gàtaire</headword>
+      <description>Note: a person who is very open to feeling the cold and hogs the fire.</description>
+    </item>
+    <item>
+      <headword id="idp120354200">iaradh</headword>
+      <description>[ıɤɾəɣ] Quot.: “Cha d’thainig iaradh air a’ bheul aige.” Note: He never stopped talking.</description>
+    </item>
+    <item>
+      <headword id="idp120356216">eileabanachd</headword>
+      <description>Quot.: “Dé ’n eileabanachd a th’ort.” Note: making mischief.</description>
+    </item>
+    <item>
+      <headword id="idp120358232">bòidheanachd</headword>
+      <description>Quot.: “Na bi ’na bhòidheanachd.” Note: petting (e.g. a dog, a child).</description>
+    </item>
+    <item>
+      <headword id="idp120360464">gearra-ghobach</headword>
+      <description>Note: witty.</description>
+    </item>
+    <item>
+      <headword id="idp120361976">siabhan</headword>
+      <description>[ʃiɑvɑṉ] Quot.: “caora air an t-siabhan”. Note: a stray.</description>
+    </item>
+    <item>
+      <headword id="idp120363920">càpraid</headword>
+      <description>Quot.: “Bha mi as a’ chàpraid.” Note: usually used when one is right in the middle of hustle and bustle, e.g. a crowd of people.</description>
+    </item>
+    <item>
+      <headword id="idp120365648">uilleagan</headword>
+      <description>[u̟lʹəɡɑṉ] Quot.: “Bha e a’ deanamh uilleagan dhith.” Note: He was spoiling her (by being too kind).</description>
+    </item>
+    <item>
+      <headword id="idp120368456">geadruisg</headword>
+      <description>[ɡɛd̪ɾwʃɡʹ] Note: the grey mullet.</description>
+    </item>
+    <item>
+      <headword id="idp120370184">capallan</headword>
+      <description>[kɑpəɫɑṉ] Note: the bearded rockling.</description>
+    </item>
+    <item>
+      <headword id="idp120371912">troille</headword>
+      <description>[t̪ɾɔlʹə] tusk (fish).</description>
+    </item>
+    <item>
+      <headword id="idp120373640">carran-creige</headword>
+      <description>Note: small spiky fish found among rocks inshore.</description>
+    </item>
+    <item>
+      <headword id="idp120375152">falamair</headword>
+      <description>[fɑɫɑmɑɾ] Note: hake.</description>
+    </item>
+    <item>
+      <headword id="idp120376880">siol-ghainmheach</headword>
+      <description>[ʃwɫɣɛṉɑvɑx] Note: sand-eel.</description>
+    </item>
+    <item>
+      <headword id="idp120378608">garbhag</headword>
+      <description>Note: sprat.</description>
+    </item>
+    <item>
+      <headword id="idp120380120">claimheag</headword>
+      <description>Note: very small, spotted fish like a ling in appearance. Thinks it’s the butterfish or gunnel in the book (Seashore).</description>
+    </item>
+    <item>
+      <headword id="idp120381632">raingeis</headword>
+      <description>[rɛŋɡʹɑʃ] Note: a very small fish of triangular cross section, flat underside with a sucker on its underside which enables it to attach itself to rocks.</description>
+    </item>
+    <item>
+      <headword id="idp120383360">biast</headword>
+      <description>Quot.: “na biastan-maol”. Note: either the porbeagle shark or fox shark.</description>
+    </item>
+    <item>
+      <headword id="idp120385088">cearban</headword>
+      <description>[cɛɾɛbɑṉ] Note: basking shark.</description>
+    </item>
+    <item>
+      <headword id="idp120386816">stire</headword>
+      <description>[ʃtʹiɾə] Note: sturgeon.</description>
+    </item>
+    <item>
+      <headword id="idp120388544">leóbag-bhrathainn</headword>
+      <description>Note: turbot.</description>
+    </item>
+    <item>
+      <headword id="idp120390056">stiùp</headword>
+      <description>[ʃtʹu̟:p] Note: spout or something spout-shaped.</description>
+    </item>
+    <item>
+      <headword id="idp120392648">geàlaban</headword>
+      <description>[ɡʹɑ:ləbɑṉ] Note: minnow.</description>
+    </item>
+    <item>
+      <headword id="idp120394376">madadh</headword>
+      <description>[mɑ̃d̪əɣ] Note: horse mussel.</description>
+    </item>
+    <item>
+      <headword id="idp120396104">breallach</headword>
+      <description>Note: razor clam.</description>
+    </item>
+    <item>
+      <headword id="idp120397616">cluasag</headword>
+      <description>Note: variegated clam (bearded).</description>
+    </item>
+    <item>
+      <headword id="idp120399128">leòdag</headword>
+      <description>[lʹɔ:d̪ɑɡ] Note: hunchback scallop (shellfish – in book).</description>
+    </item>
+    <item>
+      <headword id="idp120400856">deargann-tràghad</headword>
+      <description>Note: shore flea.</description>
+    </item>
+    <item>
+      <headword id="idp120402368">faochag-bhàn</headword>
+      <description>Note: common whelk (large, white).</description>
+    </item>
+    <item>
+      <headword id="idp120403880">càbon</headword>
+      <description>Note: Rayed Artemis (shellfish).</description>
+    </item>
+    <item>
+      <headword id="idp120405392">guirean</headword>
+      <description>Quot.: “Chaneil ann ach guirean air tóin bainndean [b[ɑ̃ĩ]dʹɑṉ].” Note: said when dismissing something as not being as big as it is made out to be. Usually applied to small injuries, cuts etc. [bɑ̃ĩdʹɑṉ] – bann tighearna.</description>
+    </item>
+    <item>
+      <headword id="idp120408200">roinn</headword>
+      <description>Quot.: “roinn mhic is athair”. Note: Fair deal. (Barvas – Roinn mhic is mhàthair.)</description>
+    </item>
+    <item>
+      <headword id="idp120409928">annsporag</headword>
+      <description>[[ɑ̃ũ̜]spɔɾɑɡ] Note: J. N. understands it to mean the ox tongue and what naturally attaches to it at the back when it is removed to be cooked.</description>
+    </item>
+    <item>
+      <headword id="idp120412088">at-góbhlach</headword>
+      <description>Note: carbuncle (says that its foundation radiates in different directions).</description>
+    </item>
+    <item>
+      <headword id="idp120413600">bucaid-ruaidh</headword>
+      <description>[bu̟kɑdʹru̜ɤi] Note: a boil.</description>
+    </item>
+    <item>
+      <headword id="idp120416192">ruadh-ghlas</headword>
+      <description>Note: erysipelas.</description>
+    </item>
+    <item>
+      <headword id="idp120417704">mialan-crion</headword>
+      <description>Note: eczema.</description>
+    </item>
+    <item>
+      <headword id="idp120419216">màirteanan</headword>
+      <description>Note: hacks on the legs, brought on by the east wind in March.</description>
+    </item>
+    <item>
+      <headword id="idp120420800">buille-thuig</headword>
+      <description>Note: small injury to the toes when going barefoot.</description>
+    </item>
+    <item>
+      <headword id="idp120422312">cas-ma-sheach</headword>
+      <description>Note: cross-legged.</description>
+    </item>
+    <item>
+      <headword id="idp120423824">mionaideach</headword>
+      <description>Quot.: “Tha e mionaideach air a ghnothaich.” Note: particular.</description>
+    </item>
+    <item>
+      <headword id="idp120425552">ruadhan</headword>
+      <description>Quot.: “Tha am biadh a’ dol na ruadhan air an teine.” Note: getting spoilt.</description>
+    </item>
+    <item>
+      <headword id="idp120427352">teóthadh</headword>
+      <description>[tʹo:əɣ] Quot.: “C’àite robh thu gu seo ’s mise teóthadh do bhiadh air an teine?” Note: warming, keeping warm.</description>
+    </item>
+    <item>
+      <headword id="idp120429296">tòit</headword>
+      <description>Quot.: tòit uisge. Note: misty rain.</description>
+    </item>
+    <item>
+      <headword id="idp120431024">tàbhanadh</headword>
+      <description>Quot.: “Thig a nuas a sin ’s mi faicinn do thàbhanadh.” Note: e.g. if a person was in a dangerous place – person seeing (or maintaining he was seeing) the result, e.g. injury.</description>
+    </item>
+    <item>
+      <headword id="idp120432824">ath-fhradharc</headword>
+      <description>Note: second sight.</description>
+    </item>
+    <item>
+      <headword id="idp120434336">tuaileas</headword>
+      <description>Quot.: “tuaileas an ath-fhradharc”. Note: what a person with second sight saw.</description>
+    </item>
+    <item>
+      <headword id="idp120436064">uspardaich</headword>
+      <description>Note: understands it to mean flailing of arms and legs and changing position as when having a nightmare.</description>
+    </item>
+  </items>
+</fieldworkDocument>

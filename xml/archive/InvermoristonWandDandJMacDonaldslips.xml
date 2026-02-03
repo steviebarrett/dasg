@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 1/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_InvermoristonWandDandJMacDonaldslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>04/1969</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <informant>
+    <nameEnglish>William, Duncan and Jean MacDonald</nameEnglish>
+    <age>c. 75 (William)</age>
+    <origin>Invermoriston</origin>
+  </informant>
+  <location>Inverness-shire, Invermoriston</location>
+  <items>
+    <item>
+      <headword id="idp118877448">mial</headword>
+      <description>Quotation: a’ mhial [əvĩɑ̃ɫ]. Notes: disease in horses causing the top gum to extend downwards.</description>
+    </item>
+    <item>
+      <headword id="idp118891920">tarraingean</headword>
+      <description>[t̪ɑ:ʴnʹəṉ] Notes: (pl) horse’s shoulder chains. [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+    <item>
+      <headword id="idp118893792">bolg-séid</headword>
+      <description>[bɔɫɔɡ ʃe:dʹ] Notes: bellows.</description>
+    </item>
+    <item>
+      <headword id="idp118895520">caibe</headword>
+      <description>Quotation: caibe-fàd. Notes: turfing knife.</description>
+    </item>
+    <item>
+      <headword id="idp118897176">ceàrdaich</headword>
+    <description>[cɛ:rd̪iç] </description></item>
+    <item>
+      <headword id="idp118898904">druimealais</headword>
+      <description>[d̪ɾũ̜məleʃ] Notes: back-chain going over the saddle.</description>
+    </item>
+    <item>
+      <headword id="idp118900632">duilleag</headword>
+      <description>Quotation: duilleag a’ speal.</description>
+    </item>
+    <item>
+      <headword id="idp118902144">geat</headword>
+      <description>[ɡʹɛxt̪] Notes: gate.</description>
+    </item>
+    <item>
+      <headword id="idp118903872">góbhlag</headword>
+      <description>Notes: grape.</description>
+    </item>
+    <item>
+      <headword id="idp118905384">gramaich</headword>
+      <description>Notes: blacksmith’s vice.</description>
+    </item>
+  </items>
+</fieldworkDocument>

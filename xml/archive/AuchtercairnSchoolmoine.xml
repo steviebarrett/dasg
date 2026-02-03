@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 23 4 13 -->
+<fieldworkDocument docId="Peat_AuchtercairnSchoolmoine" docType="questionnaire" subType="Peat">
+  <title>Mòine / Peat-Working</title>
+  <fieldworker>[school]</fieldworker>
+  <informant>
+    <nameEnglish>Auchtercairn School</nameEnglish>
+    <nameGaelic>Sgoil Achadh a’ Chairn</nameGaelic>
+  </informant>
+  <location>Gearrloch, Achadh a’ Chairn [Gairloch, Auchtercairn]</location>
+  <items>
+    <item><headword id="d0e26" type="heading" level="h1">1. Ag ullachadh na talmhainn airson mòine a bhuain</headword></item>
+    <item>
+      <headword id="d0e31">a’ riachadh</headword>
+      <description>marking.</description>
+    </item>
+    <item>
+      <headword id="d0e40">a’ rusgadh</headword>
+      <description>stripping.</description>
+    </item>
+    <item>
+      <headword id="d0e49">a’ glanadh a’ bhaic</headword>
+      <description>stripping.</description>
+    </item>
+    <item>
+      <headword id="d0e58">a’ barradh</headword>
+      <description>stripping.</description>
+    </item>
+    <item>
+      <headword id="d0e67">poll-mona</headword>
+      <description>peat area.</description>
+    </item>
+    <item>
+      <headword id="d0e76">blar-mona</headword>
+      <description>peat area.</description>
+    </item>
+    <item>
+      <headword id="d0e85">bac</headword>
+      <description>[peat] bank.</description>
+    </item>
+    <item>
+      <headword id="d0e94">grunnd a’ bhaic</headword>
+      <description>lower level [of the peat bank].</description>
+    </item>
+    <item>
+      <headword id="d0e103">mullach a’ bhaic</headword>
+      <description>higher level [of the peat bank].</description>
+    </item>
+    <item>
+      <headword id="d0e112">sgaoilteach</headword>
+      <description>spreading area.</description>
+    </item>
+    <item>
+      <headword id="d0e121">fuar-thalamh</headword>
+      <description>top soil to be stripped.</description>
+    </item>
+    <item>
+      <headword id="d0e130">mointeach bheò</headword>
+      <description>peat to be cut.</description>
+    </item>
+    <item><headword id="d0e138" type="heading" level="h1">2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</headword></item>
+    <item>
+      <headword id="d0e143">tair-sgian</headword>
+      <description>peat-knife.</description>
+    </item>
+    <item>
+      <headword id="d0e152">caibe-lair</headword>
+      <description>stripper.</description>
+    </item>
+    <item>
+      <headword id="d0e161">goblag</headword>
+      <description>[sic] stripper. [NOTES: re spelling see Duncan MacLeod’s comment in his letter of 29/8/67 (under ‘gobhlag’).]</description> 
+    </item>
+    <item>
+      <headword id="d0e170">spaid</headword>
+      <description>stripper.</description>
+    </item>
+    <item>
+      <headword id="d0e179">sgian-mona</headword>
+      <description>(One child only brought this word. It is not in common use here but her parent is from Lewis.)</description>
+    </item>
+    <item>
+      <headword id="d0e188">fàd</headword>
+    </item>
+    <item>
+      <headword id="d0e194">dubh-fhad</headword>
+    </item>
+    <item>
+      <headword id="d0e200">tru-fhad ( troo-fhad)</headword>
+      <description>[pron.] third peat down. (I have not met this word myself; two children used it – corruption of tri?)</description>
+    </item>
+    <item>
+      <headword id="d0e209">gearr-fhad</headword>
+      <description>3rd peat down. (Not in general use. Few banks have more than 2 peats downward.)</description>
+    </item>
+    <item>
+      <headword id="d0e218">ath-fhad</headword>
+      <description>3rd peat down. (Not in general use. Few banks have more than 2 peats downward.)</description>
+    </item>
+    <item>
+      <headword id="d0e227">gàradh-baic</headword>
+      <description>drying on a narrow area, as a wall.</description>
+    </item>
+    <item><headword id="d0e235" type="heading" level="h1">3. A’ tiormachadh na mònach</headword></item>
+    <item>
+      <headword id="d0e240">togail na mona</headword>
+      <description>lifting the peats.</description>
+    </item>
+    <item>
+      <headword id="d0e249">rudhadh na mona</headword>
+      <description>gathering [peats] into heaps.</description>
+    </item>
+    <item>
+      <headword id="d0e258">rughan</headword>
+      <description>secondary heap [of peats], smaller than stack.</description>
+    </item>
+    <item>
+      <headword id="d0e267">rughan Frangach</headword>
+      <description>(Not in common use but one child brought the phrase without being able to say quite what it was!) [NOTES: see also Duncan MacLeod’s comment in his letter of 29/8/67 (under ‘rughan Frangach’).]</description> 
+    </item>
+    <item><headword id="d0e275" type="heading" level="h1">4. A’ cruachadh na mònach</headword></item>
+    <item>
+      <headword id="d0e280">cruach</headword>
+      <description>stack.</description>
+    </item>
+    <item>
+      <headword id="d0e289">cruachadh</headword>
+      <description>stacking.</description>
+    </item>
+    <item>
+      <headword id="d0e298">steidheadh</headword>
+      <description>building the outside wall of peats.</description>
+    </item>
+    <item>
+      <headword id="d0e307">dunadh na cruaich</headword>
+      <description>finishing the stack (with the final top peats).</description>
+    </item>
+    <item><headword id="d0e315" type="heading" level="h1">5. A’ toirt na mònach dhachaigh; an cliabh, etc.</headword></item>
+    <item>
+      <headword id="d0e320">cliabh</headword>
+      <description>creel.</description>
+    </item>
+    <item>
+      <headword id="d0e329">iris</headword>
+      <description>carrying strap [of the creel].</description>
+    </item>
+    <item>
+      <headword id="d0e338">briagan</headword>
+      <description>special holes [in the creel] for fixing ‘iris’ [q.v.].</description>
+    </item>
+    <item>
+      <headword id="d0e347">aisnean</headword>
+      <description>ribs [of the creel].</description>
+    </item>
+    <item>
+      <headword id="d0e356">slat-beoil</headword>
+      <description>(One boy produced this as the upmost cane, locking the creel. I know it only as boat-gunwale.)</description>
+    </item>
+    <item>
+      <headword id="d0e365">lòd (!)</headword>
+      <description>load.</description>
+    </item>
+    <item><headword id="d0e373" type="heading" level="h1">6. Seòrsachan mònach</headword></item>
+    <item>
+      <headword id="d0e378">moine dhubh</headword>
+      <description>hard, black peat, best for burning.</description>
+    </item>
+    <item><headword id="d0e386" type="heading" level="h1">7. Faclan eile</headword></item>
+  </items>
+</fieldworkDocument>

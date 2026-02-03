@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 13 4 14 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="WoolworkingandFishing_KeoseRSmithwool" docType="questionnaire" subType="GaelicTermsConnectedWithWeaving" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Obair na Clòimhe / Wool-Working</title>
+  <date>April 1962</date>
+  <fieldworker>self</fieldworker>
+  <note>[NOTES: the original title of the list is “Gaelic Terms Connected with Weaving”.]</note>
+  <informant>
+    <nameEnglish>R. Smith</nameEnglish>
+  </informant>
+  <location>Lewis, Keose</location>
+  <items>
+    <item>
+      <headword id="d0e30">beart-mheodhain</headword>
+      <description>the centre part of loom, across which shuttle runs, and which moves back and forward to make a tightly-woven cloth.</description>
+    </item>
+    <item>
+      <headword id="d0e39">sleinn</headword>
+      <description>the reed inserted in the ‘beart-mheodhain’ [q.v.].</description>
+    </item>
+    <item>
+      <headword id="d0e48">iomallan</headword>
+      <description>a combination of reeds whose movement can be altered to give different patterns of cloth.</description>
+    </item>
+    <item>
+      <headword id="d0e57">deilbh</headword>
+      <description>process of getting the yarn arranged so as to be fed into the loom.</description>
+    </item>
+    <item>
+      <headword id="d0e66">cura</headword>
+      <description>yarn used for filling bobbins which fit into shuttle (weft).</description>
+    </item>
+    <item>
+      <headword id="d0e75">iteachan</headword>
+      <description>bobbin used in shuttle.</description>
+    </item>
+    <item>
+      <headword id="d0e84">làd</headword>
+      <description>a number of ‘full‘ bobbins. The number may vary in different places, but may be roughly taken as being 1 gross.</description>
+    </item>
+    <item>
+      <headword id="d0e93">spearrach</headword>
+      <description>the weavers’ nightmare! Sometimes some of the yarn in the loom may twist together, usually causing breakages. This is known as a ‘spearrach’.</description>
+    </item>
+    <item>
+      <headword id="d0e102">inneamh</headword>
+      <description>Very often when tweed is issued (i.e. warp and weft), there isn’t enough weft (cura) issued to finish the tweed. The amount of ‘cura’ short is known as ‘inneamh’. “Cha d’fhuair mi air an clò a chriochnachadh a raoir, oir bha tri slàt [sic] de dh’inneamh orm.”</description>
+    </item>
+    <item>
+      <headword id="d0e111">slat</headword>
+      <description>a weaver’s yard being 7 feet in length. The weaver is paid by the number of these 7 feet ‘yards’ in tweed.</description>
+    </item>
+    <item>
+      <headword id="d0e120">sgillinn</headword>
+      <description>small circular disc (about the size of a penny) which is part of the loom’s mechanism.</description>
+    </item>
+  </items>
+</fieldworkDocument>

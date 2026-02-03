@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 6 11 14 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="DRMorrison_ScalpayDRMorrison2herring" docType="questionnaire" subType="HerringFishing" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Iasgach an Sgadain / Herring-Fishing</title>
+  <date>[?]</date>
+  <fieldworker>[self]</fieldworker>
+  <note>[NOTES: the questionnaire gives definitions and expects the informant to provide the appropriate words and phrases, therefore in this file, in most cases the definitions as they appear in the questionnaire have been copied together with the word or phrase that Mr Morrison entered next to them.]</note>
+  <informant>
+    <nameEnglish/>
+    <age>[?]</age>
+  </informant>
+  <location>[Harris], Scalpay</location>
+  <items>
+    <item><headword id="d0e31" type="heading" level="h1">1. Fish location by natural means</headword></item>
+    <item><headword id="d0e35" type="heading" level="h2">1.1. Listening</headword></item>
+    <item>
+      <headword id="idp116391664">frasadh</headword>
+      <description>the jump of an individual herring.</description>
+    </item>
+    <item>
+      <headword id="idp116393176">cliucheadh  fiataidh</headword>
+      <description>[sic] a herring or other fish’s breaking the surface, a much less distinct sound.</description>
+    </item>
+    <item>
+      <headword id="idp116394688">na chnapan dearga</headword>
+      <description>means it [i.e. herring] being thickly congregated on the point of breaking into playful practice or movement – reference ‘an t-uamhas dhe cliucheadh [sic]’.</description>
+    </item>
+    <item>
+      <headword id="idp116396200">goil</headword>
+      <description>the activity of herring, en masse, on the surface. [?]</description>
+    </item>
+    <item>
+      <headword id="idp116397712">[sgaothbhag (sic)]</headword>
+      <description>[a small shoal?] Caoirnean ag cliuchadh [sic] or sgaothbhag. [NOTES: not clear what is meant here – is ‘sgaothbhag’ meant to be a synonym of ‘caoirnean’? See ‘sgaothag thana’ on the following page meaning ‘a thin shoal’.]</description>
+    </item>
+    <item>
+      <headword id="idp116399512">caoirnean</headword>
+      <description>a small shoal of herring. Caoirnean ag cliuchadh [sic] – a small shoal of herring playing.</description>
+    </item>
+    <item>
+      <headword id="idp116401168">mar a gabhadh</headword>
+      <description>a heavy play of herring or mackerel.</description>
+    </item>
+	<item>
+	  <headword id="idola274">[sounds of other kinds of fish]</headword>
+	  <description>The sounds of other kinds of fish, either breaking the surface individually or playing in shoals: a’ leum, sìnteagan, cliucheadh [sic] am bàrr (am bàrr na mara), a’ cliucheadh [sic] mar abhainn.</description>
+	</item>
+    <item><headword id="d0e111" type="heading" level="h2">1.2. Losgadh / the burning</headword></item>
+    <item>
+      <headword id="idp116404624">[losgadh]</headword>
+      <description>phosphorescence in the sea. Tha e losgadh roimh sròin (of boat). Chì mi a’ losgadh e.</description>
+    </item>
+    <item>
+      <headword id="idp116406424">[steall]</headword>
+      <description>E falbh na steall.</description>
+    </item>
+    <item>
+      <headword id="idp116407936">solus</headword>
+      <description>the first sparks of ‘burning’, in early evening. Tha solus a’ tighinn dha’n mhuir.</description>
+    </item>
+    <item>
+      <headword id="idp116409592">sgadan losgaidh</headword>
+      <description>individual herring seen in the ‘burning’.</description>
+    </item>
+    <item>
+      <headword id="idp116411104">sgaothag thana</headword>
+      <description>a thin shoal seen in the burning.</description>
+    </item>
+    <item>
+      <headword id="idp116412616">cruinn ann dhe</headword>
+      <description>a large shoal seen in the burning.</description>
+    </item>
+    <item>
+      <headword id="idp116414128">[steall]</headword>
+      <description>Bhuail sinn pliu’ an acair air a bial, ’s chitheadh tu e a’ falbh na steall anns a cholbh-bianain. – the striking of anchor on boat’s rail, forward at the bow, to cause herring to ‘show’ in the phosphorescence.</description>
+    </item>
+    <item><headword id="d0e178" type="heading" level="h2">1.3. Herring-feeding</headword></item>
+    <item>
+      <headword id="idp115117792">sul dearg</headword>
+      <description>red plankton.</description>
+    </item>
+    <item>
+      <headword id="idp115121392">tighinn beò air an t-sul</headword>
+      <description>black feeding.</description>
+    </item>
+    <item><headword id="d0e200" type="heading" level="h2">1.4. The gannet / emhsan</headword></item>
+    <item>
+      <headword id="idp115125568">a’ bualadh</headword>
+      <description>the high vertical plummet of gannet working on herring.</description>
+    </item>
+    <item>
+      <headword id="idp115130176">a sriuchdadh</headword>
+      <description>the skimming dive of a gannet, perhaps on mackerel or fry on the surface.</description>
+    </item>
+    <item>
+      <headword id="idp163518168">a’ feitheamh ri bualadh</headword>
+      <description>a gannet’s circling hesitantly.</description>
+    </item>
+    <item>
+      <headword id="idp163519680">ag sgiathalaich</headword>
+      <description>a gannet’s circling hesitantly.</description>
+    </item>
+    <item><headword id="d0e240" type="heading" level="h2">1.5. Miscellaneous</headword></item>
+    <item>
+      <headword id="idp163522056">fàileadh an éisg</headword>
+      <description>smell of herring.</description>
+    </item>
+    <item>
+      <headword id="idp163523568">lìth</headword>
+      <description>oil of herring on surface.</description>
+    </item>
+    <item>
+      <headword id="idp163525080">liam</headword>
+      <description>oil of herring on surface.</description>
+    </item>
+    <item>
+      <headword id="idp163526592">batal</headword>
+      <description>cluster of feeding gulls or other sea-birds.</description>
+    </item>
+    <item>
+      <headword id="idp163528104">[cuir-an-àird]</headword>
+      <description>An anail aige cuir-an-àird (term) – patches of bubbles on surface of sea, caused by expulsion of air from the swim-bladders of herring rising.</description>
+    </item>
+    <item>
+      <headword id="idp163529616">cnap</headword>
+      <description>general term of reference for a shoal of herring. ‘Cnap’ was used on Scalpay. Not heard of ‘sùil’ so far on Scalpay.</description>
+    </item>
+    <item>
+      <headword id="idp163531272">sgadan caoich</headword>
+      <description>now here, now there, herring.</description>
+    </item>
+    <item>
+      <headword id="idp163532784">[barrail]</headword>
+      <description>Bheir sinn ar barrail as. – a piece of the end of a ring net shot, in weather conditions unsuited to listening or looking for herring in the water, with the hope of a few herrings mashing and so encouraging the fishermen to ‘chance’ a ring.</description>
+    </item>
+    <item>
+      <headword id="idp163534296">[tur]</headword>
+      <description>Nach e tha tur. – for a ring made without any sign of herring whatever.</description>
+    </item>
+    <item>
+      <headword id="idp163535808">[botha]</headword>
+      <description>Cnap (sgadain) mar botha – similar to a submerged seaweed covered rock.</description>
+    </item>
+    <item>
+      <headword id="idp163537320">[duslach]</headword>
+      <description>Mar an duslach – a shoal of herring showing black in daylight or at evening.</description>
+    </item>
+    <item><headword id="d0e343" type="heading" level="h1">2. The ring-net</headword></item>
+    <item><headword id="d0e347" type="heading" level="h2">2.1. Its construction</headword></item>
+    <item>
+      <headword id="idp163540560">lion-cruinn</headword>
+      <description>ring-net.</description>
+    </item>
+    <item>
+      <headword id="idp163542072">ball-cùil</headword>
+      <description>the back rope.</description>
+    </item>
+    <item>
+      <headword id="idp163543584">ball-iochdair</headword>
+      <description>the sole-rope.</description>
+    </item>
+    <item>
+      <headword id="idp163545096">sgiathan</headword>
+      <description>the wings of the net.</description>
+    </item>
+    <item>
+      <headword id="idp163546608">guaillean</headword>
+      <description>the shoulders of the net.</description>
+    </item>
+    <item>
+      <headword id="idp163548120">boca</headword>
+      <description>the bags of the net, upper and lower.</description>
+    </item>
+    <item>
+      <headword id="idp163549632">beartachadh</headword>
+      <description>row of heavy-ply netting, attached along the entire length of the net, top and bottom.</description>
+    </item>
+    <item>
+      <headword id="idp163551144">àrcannan</headword>
+      <description>the corks.</description>
+    </item>
+    <item>
+      <headword id="idp163552656">luaitheadh</headword>
+      <description>the lead rings.</description>
+    </item>
+    <item>
+      <headword id="idp163554168">butaichean</headword>
+      <description>the buoys.</description>
+    </item>
+    <item>
+      <headword id="idp163555680">beartachadh</headword>
+      <description>the joins of the pieces, e.g. between wing and shoulder netting.</description>
+    </item>
+    <item>
+      <headword id="idp163557192">cluais</headword>
+      <description>the ends or gables of the ring-net.</description>
+    </item>
+    <item>
+      <headword id="idp163558704">buill-slaodaidh</headword>
+      <description>the bridle ropes at the end of the net.</description>
+    </item>
+    <item>
+      <headword id="idp163560216">ball-tobhaidh</headword>
+      <description>the rope – generally termed sweepline – attached to bridle-rope, for towing and closing the net.</description>
+    </item>
+    <item><headword id="d0e477" type="heading" level="h2">2.2. Setting up and mending a ring-net</headword></item>
+    <item>
+      <headword id="idp163562592">alt</headword>
+      <description>setting up and mending a ring-net. [?]</description>
+    </item>
+    <item>
+      <headword id="idp163564104">snathadan-lion</headword>
+      <description>netting needle.</description>
+    </item>
+    <item>
+      <headword id="idp163565616">teanga na snathaide</headword>
+      <description>tongue of needle.</description>
+    </item>
+    <item>
+      <headword id="idp163567128">sùil</headword>
+      <description>eye or hole of needle.</description>
+    </item>
+    <item>
+      <headword id="idp163568640">cóm</headword>
+      <description>eag far bi snàth ’na cois.</description>
+    </item>
+    <item>
+      <headword id="idp163570152">gob</headword>
+      <description>point of needle.</description>
+    </item>
+    <item>
+      <headword id="idp163571664">[snàth]</headword>
+      <description>Net twine, both tarred and untarred: snàth lion, snàth còcrach, snàth geal, snàth tearraidh. Setting-up twine – different types, thicknesses for sole and back ropes respectively: snàth foighn, snàth garbh, snàth caol, snàth aotram, snàth dùbailt.</description>
+    </item>
+    <item>
+      <headword id="idp163574616">sgian-càraidh</headword>
+      <description>mending knife.</description>
+    </item>
+    <item>
+      <headword id="idp163576128">clach-liathra</headword>
+      <description>sharpening-stone.</description>
+    </item>
+    <item>
+      <headword id="idp163577640">clach ghiarachaidh</headword>
+      <description>sharpening stone.</description>
+    </item>
+    <item>
+      <headword id="idp163579152">bocsa-snàth</headword>
+      <description>‘twine-box’, in which were kept needles, hanks of twine, etc.</description>
+    </item>
+    <item>
+      <headword id="idp163580664">bocsa-shnàthadan</headword>
+      <description>‘twine-box’, in which were kept needles, hanks of twine, etc.</description>
+    </item>
+    <item>
+      <headword id="idp163582176">beartachadh</headword>
+      <description>the ‘setting up’ of a net to ropes.</description>
+    </item>
+    <item>
+      <headword id="idp160543584">beartachadh</headword>
+      <description>the measurement between points of knotting to back-rope.</description>
+    </item>
+    <item>
+      <headword id="idp160545168">snaimnanan</headword>
+      <description>knots.</description>
+    </item>
+    <item>
+      <headword id="idp160546680">slat-tomhais</headword>
+      <description>the measuring stick or other device used when setting up.</description>
+    </item>
+    <item>
+      <headword id="idp160548264">togail</headword>
+      <description>the hanging part of twine and netting – in Eng. drop – once set up.</description>
+    </item>
+    <item>
+      <headword id="idp160549776">cruinneachadh</headword>
+      <description>the gathering of netting to create bag effect.</description>
+    </item>
+    <item>
+      <headword id="idp160551288">mogal dùbailte</headword>
+      <description>selvedge or double-meshed edge, for strengthening purposes.</description>
+    </item>
+    <item>
+      <headword id="idp160552872">alt</headword>
+      <description>‘fair’ netting, that is the meshes stretched in their ‘natural’ diamond-shaped form.</description>
+    </item>
+    <item>
+      <headword id="idp160554384">far-alt</headword>
+      <description>netting stretched or lying ‘across the mesh’, that is lying the opposite way, and so, difficult to mend accurately.</description>
+    </item>
+    <item>
+      <headword id="idp160555896">thogail air alt</headword>
+      <description>‘hanging’ a net to mend it.</description>
+    </item>
+    <item>
+      <headword id="idp160557408">càradh</headword>
+      <description>mending.</description>
+    </item>
+    <item>
+      <headword id="idp160558920">cliuchdair</headword>
+      <description>a net-mender.</description>
+    </item>
+    <item>
+      <headword id="idp160560432">stracadh</headword>
+      <description>a long split in a net.</description>
+    </item>
+    <item>
+      <headword id="idp160561944">[ceangail]</headword>
+      <description>Ceangail ri chéile – a meanbh bhristeadh (etc.). The running along a split to search for and ‘catch’ together broken meshes which correspond, so enabling as many fishermen as possible to start mending on a single tear, and so hasten completion of the task.</description>
+    </item>
+    <item>
+      <headword id="idp160563600">gearradh</headword>
+      <description>cutting the surround of a hole ‘on the leg’, that is at an angle, when shaping netting for repair, so reducing wastage.</description>
+    </item>
+    <item>
+      <headword id="idp160565112">iomrall</headword>
+      <description>a five-legged mesh knitted in error; a three-legged mesh knitted in error.</description>
+    </item>
+    <item>
+      <headword id="idp160566624">gròbadh</headword>
+      <description>lacing together a split quickly, to enable fishing to continue.</description>
+    </item>
+    <item><headword id="d0e742" type="heading" level="h2">2.3. The buoy</headword></item>
+    <item>
+      <headword id="idp160569072">amhaich</headword>
+      <description>the stock of buoy.</description>
+    </item>
+    <item>
+      <headword id="idp160570584">mullach</headword>
+      <description>the stock of buoy.</description>
+    </item>
+    <item>
+      <headword id="idp160572096">bung</headword>
+      <description>the plug of buoy.</description>
+    </item>
+    <item>
+      <headword id="idp160573608">claigeann</headword>
+      <description>the top of buoy.</description>
+    </item>
+    <item>
+      <headword id="idp160575120">ball-a-phuta</headword>
+      <description>the string by which buoy is attached to back-rope.</description>
+    </item>
+    <item>
+      <headword id="idp160576632">toll-a’ phuta</headword>
+      <description>the hole in stock through which string is laced.</description>
+    </item>
+    <item><headword id="d0e800" type="heading" level="h1">3. Fishing</headword></item>
+    <item>
+      <headword id="idp160579008">a’ cur</headword>
+      <description>the shooting of the net.</description>
+    </item>
+    <item>
+      <headword id="idp160580520">tobhadh</headword>
+      <description>the towing of the net.</description>
+    </item>
+    <item>
+      <headword id="idp160582032">dùnadh</headword>
+      <description>‘closing the boats’, the neighbour-boats’ meeting one another having made ring of the net.</description>
+    </item>
+    <item>
+      <headword id="idp160583544">dol fodha</headword>
+      <description>a bend on end of net, calculated to bear down, on the tidal current, upon a shoal.</description>
+    </item>
+    <item>
+      <headword id="idp160585056">slaodadh</headword>
+      <description>hauling net.</description>
+    </item>
+    <item>
+      <headword id="idp160586568">maiseadh</headword>
+      <description>a meshing of herring.</description>
+    </item>
+    <item>
+      <headword id="idp160588080">crathadh</headword>
+      <description>the shaking of meshed herring clear.</description>
+    </item>
+    <item>
+      <headword id="idp160589592">moglachadh</headword>
+      <description>an entangled fish.</description>
+    </item>
+    <item>
+      <headword id="idp160591104">sàs</headword>
+      <description>a net ‘fast’ on seabed.</description>
+    </item>
+    <item>
+      <headword id="idp160592616">stracadh</headword>
+      <description>a net tearing.</description>
+    </item>
+    <item>
+      <headword id="idp160594128">[sàs]</headword>
+      <description>Sàs ’s a’ stracadh bharr nam ball neo ròpan. – netting, ‘fast’, and ‘stripping’ from the ropes.</description>
+    </item>
+    <item>
+      <headword id="idp160595640">còmhnard</headword>
+      <description>when the walls of netting flew into the middle of the ring due to incorrect judgment of the set of tide, or to cross-tides.</description>
+    </item>
+    <item>
+      <headword id="idp160597152">[taobh]</headword>
+      <description>cuideachd, ri taobh a chéile – the neighbouring boats lying together to discharge herring from bag of net.</description>
+    </item>
+    <item>
+      <headword id="idp160598664">cumail o chéile</headword>
+      <description>fending off with poles or oars.</description>
+    </item>
+    <item>
+      <headword id="idp160600176">tàbh-taomaidh</headword>
+      <description>the basket for discharging herring from the net.</description>
+    </item>
+    <item>
+      <headword id="idp160601688">stopairean</headword>
+      <description>the ropes used for lashing bag to boat’s side prior to discharging herring.</description>
+    </item>
+    <item>
+      <headword id="idp160603200">toinneamh</headword>
+      <description>a net rolled up about the sole, through having been snagged by shells, coral, etc.</description>
+    </item>
+    <item>
+      <headword id="idp160604712">laidhigeadh</headword>
+      <description>the hauling of net aft in preparation for re-shooting.</description>
+    </item>
+    <item>
+      <headword id="idp160606224">tiormachadh-an-àird</headword>
+      <description>the ‘drying up’ of herring in bag.</description>
+    </item>
+    <item><headword id="d0e975" type="heading" level="h2">3.1. Additional equipment</headword></item>
+    <item>
+      <headword id="idp119423104">fandairean</headword>
+      <description>fenders, whether of rope, rope-and-nets, or rubber tyres.</description>
+    </item>
+    <item>
+      <headword id="idp119424688">boillsgeadair</headword>
+      <description>light on end of ring-net.</description>
+    </item>
+    <item>
+      <headword id="idp119426200">cromag</headword>
+      <description>special boat-hook for lifting end of ring-net.</description>
+    </item>
+    <item>
+      <headword id="idp119427712">caismeachd-soluis</headword>
+      <description>torch, paraffin-fuelled and lit as soon as bag of net was closed, and for summoning herring-buying steamers.</description>
+    </item>
+    <item>
+      <headword id="idp119429224">luaitheadh</headword>
+      <description>the ‘feeling-wire’.</description>
+    </item>
+    <item>
+      <headword id="idp119430736">ball-slaodaidh</headword>
+      <description>tow-rope, which linked neighbouring boats when lifting net.</description>
+    </item>
+    <item>
+      <headword id="idp119432320">solus-rannsachaidh</headword>
+      <description>search-light.</description>
+    </item>
+    <item>
+      <headword id="idp119433832">sluaisead</headword>
+      <description>herring-scoop.</description>
+    </item>
+    <item>
+      <headword id="idp119435344">sgiùleachan</headword>
+      <description>[unclear – could be sgùileachan?] shallow ‘spill-baskets’ which preceded the adoption of metal scoops.</description>
+    </item>
+    <item>
+      <headword id="idp119436856">bùird-an-tuill</headword>
+      <description>dividing boards in skiffs’ holds, for distributing catch.</description>
+    </item>
+    <item>
+      <headword id="idp119438440">soluis-taoibh</headword>
+      <description>outboard light on wheelhouse.</description>
+    </item>
+    <item>
+      <headword id="idp119439952">solus-a-chroinn-mhoir</headword>
+      <description>mast-head light.</description>
+    </item>
+    <item>
+      <headword id="idp119441464">solus-na-uinch</headword>
+      <description>winch-light.</description>
+    </item>
+    <item>
+      <headword id="idp119442976">solus-cur</headword>
+      <description>‘shooting-light’.</description>
+    </item>
+    <item>
+      <headword id="idp119444488">tuil-sholuis</headword>
+      <description>for buying-steamers.</description>
+    </item>
+    <item><headword id="d0e1114" type="heading" level="h1">4. Drying and barking of nets</headword></item>
+    <item>
+      <headword id="idp119446864">slìm</headword>
+      <description>herring slime.</description>
+    </item>
+    <item>
+      <headword id="idp119448376">tiormachadh</headword>
+      <description>drying net.</description>
+    </item>
+    <item>
+      <headword id="idp119449888">polaichean-tiomachaidh</headword>
+      <description>net-hanging poles.</description>
+    </item>
+    <item>
+      <headword id="idp119451400">tigh-cairteach</headword>
+      <description>bark-house.</description>
+    </item>
+    <item>
+      <headword id="idp119452912">cairt-blogaidh</headword>
+      <description>bark, as originally used.</description>
+    </item>
+    <item>
+      <headword id="idp119454424">cairt-cheannachd</headword>
+      <description>the later imported substance [i.e. bark].</description>
+    </item>
+    <item>
+      <headword id="idp119455936">tuba-cairteach</headword>
+      <description>barking boiler and tub.</description>
+    </item>
+    <item>
+      <headword id="idp119457448">taomain</headword>
+      <description>baling buckets.</description>
+    </item>
+    <item>
+      <headword id="idp119458960">lion suas is sios</headword>
+      <description>a long ‘steep’ in catch solution.</description>
+    </item>
+    <item>
+      <headword id="idp119460472">slaodadh-cabhagach</headword>
+      <description>a quick ‘pull through’ of the net.</description>
+    </item>
+    <item><headword id="d0e1208" type="heading" level="h1">5. Herring</headword></item>
+    <item>
+      <headword id="idp119462848">i làn</headword>
+      <description>a good or extremely good catch of herring.</description>
+    </item>
+    <item>
+      <headword id="idp119464360">beagan</headword>
+      <description>a poor catch of herring.</description>
+    </item>
+    <item>
+      <headword id="idp119465872">druaip</headword>
+      <description>a catch of rubbishy, unmarketable fish.</description>
+    </item>
+    <item>
+      <headword id="idp119467384">sgadan-tiomachaidh</headword>
+      <description>herring split and dried in the sun.</description>
+    </item>
+    <item>
+      <headword id="idp119468896">sgadan-làn</headword>
+      <description>‘gut-poke’ herring, that is, herring full of feeding.</description>
+    </item>
+    <item>
+      <headword id="idp119470480">sgadan beag</headword>
+      <description>small herring.</description>
+    </item>
+    <item>
+      <headword id="idp119471992">sgadan miosgaichte</headword>
+      <description>mixed herring.</description>
+    </item>
+    <item>
+      <headword id="idp119473504">duilich a ghlacadh</headword>
+      <description>herring prone to diving, and therefore difficult to net.</description>
+    </item>
+    <item>
+      <headword id="idp119475088">sgadan athair</headword>
+      <description>herring sluggish and so unlikely to mesh in drift-nets.</description>
+    </item>
+    <item>
+      <headword id="idp119476600">sgadan malcaidh</headword>
+      <description>herring de-scaled through excessive contact with rain or seawater in hold.</description>
+    </item>
+    <item><headword id="d0e1302" type="heading" level="h1">6. Drift netting</headword></item>
+    <item>
+      <headword id="idp119478976">lion-chlach</headword>
+      <description>drift-nets [sic].</description>
+    </item>
+    <item>
+      <headword id="idp119480488">piosan</headword>
+      <description>individual pieces of drift-nets.</description>
+    </item>
+    <item>
+      <headword id="idp119482000">bàca</headword>
+      <description>back-rope.</description>
+    </item>
+    <item>
+      <headword id="idp119483512">ròp-iochdair</headword>
+      <description>sole or bottom of net, and rope if any attached.</description>
+    </item>
+    <item>
+      <headword id="idp119485024">lion-garbh</headword>
+      <description>row of heavy-ply netting along top and bottom of nets.</description>
+    </item>
+    <item>
+      <headword id="idp119486536">àrcannan</headword>
+      <description>small floats attached to back-rope.</description>
+    </item>
+    <item>
+      <headword id="idp162698104">butaichean</headword>
+      <description>buoys.</description>
+    </item>
+    <item>
+      <headword id="idp162699616">butaichean-cinn</headword>
+      <description>end-buoys.</description>
+    </item>
+    <item>
+      <headword id="idp162701128">ròp-puta</headword>
+      <description>buoy-string.</description>
+    </item>
+    <item>
+      <headword id="idp162702640">suing</headword>
+      <description>rope by which boat hung on to train of nets.</description>
+    </item>
+    <item>
+      <headword id="idp162704152">snaim-ceangail</headword>
+      <description>point of attachment of one piece of netting to another, a rope and an eye.</description>
+    </item>
+    <item>
+      <headword id="idp162705664">cur</headword>
+      <description>shooting of net.</description>
+    </item>
+    <item>
+      <headword id="idp162707176">(dha) fiachail</headword>
+      <description>the checking of nets, during the night, for the presence of meshed herring.</description>
+    </item>
+    <item>
+      <headword id="idp162708688">barrachd de ròp-puta</headword>
+      <description>the sinking of nets to deep-swimming herring.</description>
+    </item>
+    <item>
+      <headword id="idp162710200">moglachadh</headword>
+      <description>an eel, dogfish, etc., entangled in the netting.</description>
+    </item>
+    <item>
+      <headword id="idp162711712">iasg trom</headword>
+      <description>a heavy meshing of fish.</description>
+    </item>
+    <item>
+      <headword id="idp162713224">crathadh</headword>
+      <description>the shaking of herring from the net.</description>
+    </item>
+    <item>
+      <headword id="idp162714736">lobhta-na-lion</headword>
+      <description>the moveable beam on which a fisherman would stand to shake nets.</description>
+    </item>
+    <item>
+      <headword id="idp162716248">toinneamh</headword>
+      <description>tangled or twisted net.</description>
+    </item>
+    <item>
+      <headword id="idp162717760">laighigeadh</headword>
+      <description>the sorting out of nets before shooting again.</description>
+    </item>
+    <item>
+      <headword id="idp162719272">rolair tarrain</headword>
+      <description>hauling roller (on large, steam or motor drift-net boats only).</description>
+    </item>
+    <item>
+      <headword id="idp162720856">rolair tuill</headword>
+      <description>hauling roller (on large, steam or motor drift-net boats only).</description>
+    </item>
+    <item>
+      <headword id="idp162722440">crannladh</headword>
+      <description>light amount of herring in a drift-net is referred to [as] ‘crannladh’ derived from ‘cranning’ and pronounced ‘greannladh’.</description>
+    </item>
+  </items>
+</fieldworkDocument>

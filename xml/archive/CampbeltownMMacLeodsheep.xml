@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 1 5 13 -->
+<fieldworkDocument docId="CattleandSheep_CampbeltownMMacLeodsheep" docType="questionnaire" subType="Sheep">
+  <title>Caoraich / Sheep</title>
+  <fieldworker>[self]</fieldworker>
+  <note>[NOTES: the informant uses ‘beag’ or ‘bheag’ to show the gender of the noun. They have been replaced with ‘masc.’ and ‘fem.’ respectively.]</note>
+  <informant>
+    <nameEnglish>Murdo MacLeod</nameEnglish>
+    <age>60</age>
+    <origin>Lewis, Uig</origin>
+  </informant>
+  <location>Argyll, Campbeltown</location>
+  <!-- illustrations -->
+  <items>
+    <item><headword id="d0e34" type="heading" level="h1">1. Different stages in the growth of sheep (female)</headword></item>
+    <item>
+      <headword id="d0e39">uan firionn</headword>
+    </item>
+    <item>
+      <headword id="d0e45">uan boirionn</headword>
+    </item>
+    <item>
+      <headword id="d0e51">odhaisg</headword>
+      <description>up to a year old.</description>
+    </item>
+    <item>
+      <headword id="d0e60">odhaisg fhirionn</headword>
+      <description>wedder.</description>
+    </item>
+    <item>
+      <headword id="d0e69">odhaisg bhoirionn</headword>
+    </item>
+    <item>
+      <headword id="d0e75">odhaisg reith</headword>
+      <description>ram.</description>
+    </item>
+    <item>
+      <headword id="d0e84">bliadhnach firionn</headword>
+      <description>1 year old.</description>
+    </item>
+    <item>
+      <headword id="d0e93">bliadhnach boirionn</headword>
+      <description>1 year old.</description>
+    </item>
+    <item>
+      <headword id="d0e102">bliadhnach reith</headword>
+      <description>1 year old.</description>
+    </item>
+    <item>
+      <headword id="d0e111">dò-bhliadhnach firionn agus dò-bhliadhnach muilt</headword>
+    </item>
+    <item>
+      <headword id="d0e117">dò-bhliadhnach boirionn</headword>
+    </item>
+    <item>
+      <headword id="d0e123">dò-bhliadhnach reith</headword>
+    </item>
+    <item>
+      <headword id="d0e129">tri-bhliadhnach muilt no mult</headword>
+    </item>
+    <item>
+      <headword id="d0e135">tri-bhliadhnach boirionn</headword>
+    </item>
+    <item>
+      <headword id="d0e141">tearrainneach</headword>
+      <description>missed having a lamb for a year.</description>
+    </item>
+    <item>
+      <headword id="d0e150">caora</headword>
+      <description>over three years old.</description>
+    </item>
+    <item>
+      <headword id="d0e159">beitheach caorach</headword>
+      <description>can be male or female.</description>
+    </item>
+    <item>
+      <headword id="d0e168">rùd</headword>
+      <description>ram.</description>
+    </item>
+    <item>
+      <headword id="d0e177">reith</headword>
+      <description>ram.</description>
+    </item>
+    <item>
+      <headword id="d0e186">ciora</headword>
+      <description>a pet lamb, hand-fed, male or female. The name still applies to the same animal after reaching maturity, i.e. once a ciora always a ciora!</description>
+    </item>
+    <item>
+      <headword id="d0e195">croga</headword>
+      <description>cast ewe.</description>
+    </item>
+    <item><headword id="d0e203" type="heading" level="h1">2. Different stages in the growth of sheep (male)</headword></item>
+    <item>
+      <headword id="d0e208">uanreith (pronounced ooah-ray)</headword>
+    </item>
+    <item>
+      <headword id="d0e214">odhaisg rùid</headword>
+      <description>up to 1 year old. (The ‘r’ in ‘ruid’ is aspirated.)</description>
+    </item>
+    <item>
+      <headword id="d0e223">bliadhnach rùid</headword>
+      <description>1 year old. (The ‘r’ is not aspirated.)</description>
+    </item>
+    <item>
+      <headword id="d0e232">dò-bhliadhnach</headword>
+    </item>
+    <item>
+      <headword id="d0e238">tri-bhliadhnach</headword>
+    </item>
+    <item>
+      <headword id="d0e244">ceithir-bhliadhnach</headword>
+    </item>
+    <item>
+      <headword id="d0e250">clamair</headword>
+      <description>an old, well horned ram. (Single ‘l’ sound as in English ‘clam’.) “Ach co leis an clamair?”</description>
+    </item>
+    <item><headword id="d0e258" type="heading" level="h1">3. Different stages in the growth of the castrated male</headword></item>
+    <item>
+      <headword id="d0e263">uan firionn</headword>
+      <description>before and after castration.</description>
+    </item>
+    <item>
+      <headword id="d0e272">odhaisg fhirionn</headword>
+    </item>
+    <item>
+      <headword id="d0e278">odhaisg mhuilt</headword>
+    </item>
+    <item>
+      <headword id="d0e284">bliadhnach firionn</headword>
+    </item>
+    <item>
+      <headword id="d0e290">bliadhnach muilt</headword>
+    </item>
+    <item>
+      <headword id="d0e296">dò-bhliadhnach firionn</headword>
+    </item>
+    <item>
+      <headword id="d0e302">dò-bhliadhnach muilt</headword>
+    </item>
+    <item>
+      <headword id="d0e308">tri-bhliadhnach muilt (never fiorionn )</headword>
+    <description>[sic] </description></item>
+    <item>
+      <headword id="d0e314">ceithir-bhliadhnach muilt (not ceithir bhliadhnach firionn)</headword>
+    </item>
+    <item><headword id="d0e319" type="heading" level="h1">4. Sheep’s appearance</headword></item>
+    <item>
+      <headword id="d0e324">[sgrogag]</headword>
+      <description>Caora bheag, nùlach le sgrogagan beag de dh adhaircean oirre. (‘Sgrogag’ has the same nasal sound as ‘crocan’ (‘cnocan’, a hillock).)</description>
+    </item>
+    <item>
+      <headword id="d0e333">[liabhach]</headword>
+      <description>Caora bheag mhollach le adhaircean liabhach (wide-spread).</description>
+    </item>
+    <item>
+      <headword id="d0e342">caora-ghireach</headword>
+      <description>short wool.</description>
+    </item>
+    <item>
+      <headword id="d0e351">caora-mhaol</headword>
+      <description>no horns.</description>
+    </item>
+    <item>
+      <headword id="d0e360">caora-chiar</headword>
+      <description>off-white.</description>
+    </item>
+    <item>
+      <headword id="d0e369">caora-dhubh</headword>
+    </item>
+    <item>
+      <headword id="d0e375">caora ‘air a duppadh’</headword>
+    </item>
+    <item><headword id="d0e380" type="heading" level="h1">5. Miscellaneous</headword></item>
+    <item>
+      <headword id="d0e385">raige</headword>
+      <description>ram with one testicle, English ‘rig’. (The ‘a’ in ‘raige’ is sounded the same as the first ‘a’ in ‘aghaidh’, a face.)</description>
+    </item>
+    <item><headword id="d0e393" type="heading" level="h1">6. Feeding and grazing</headword></item>
+    <item>
+      <headword id="d0e398">a h-àbhais</headword>
+      <description>her usual beat. Cha deach i bh air [?] a h-àbhais(d) fad na bliadhna.</description>
+    </item>
+    <item>
+      <headword id="d0e407">frasach</headword>
+      <description>This was fixed on the wall and filled with hay which the sheep pulled through narrow slats and so avoiding waste. Set at an angle to the wall.
+        <illustration src="CampbeltownMMacLeodsheepillust1.jpg" width="500"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e418">miodar</headword>
+      <description>a small wooden vessel for holding liquids e.g. milk for a calf, miodar a’ laoigh. Also held ‘bree’ from boiled salt herring, herring bones, potato peelings etc. given to the cows.</description>
+    </item>
+    <item>
+      <headword id="d0e427">fracus</headword>
+      <description>fracus sgadain – bits and pieces of herring.</description>
+    </item>
+    <item><headword id="d0e435" type="heading" level="h1">7. Handling of sheep</headword></item>
+    <item>
+      <headword id="d0e440">a’ cur a mach nan caorach</headword>
+    </item>
+    <item>
+      <headword id="d0e446">a’ cur nan caorach go na mòintich</headword>
+    </item>
+    <item>
+      <headword id="d0e452">a’ toirt dhachaidh nan caorach</headword>
+    </item>
+    <item>
+      <headword id="d0e458">a’ faingeadh</headword>
+      <description>fanking.</description>
+    </item>
+    <item>
+      <headword id="d0e467">trusadh nan caorach</headword>
+      <description>gathering. Or simply ‘trusadh’. A’ trusadh na mointich, nam beannaidh, a’ mhonaidh.</description>
+    </item>
+    <item>
+      <headword id="d0e476">grunn chaorach</headword>
+      <description>a number of sheep.</description>
+    </item>
+    <item>
+      <headword id="d0e485">grunnan math chaorach</headword>
+      <description>a fair number [of sheep].</description>
+    </item>
+    <item>
+      <headword id="d0e494">treud chaorach</headword>
+      <description>a flock of sheep (usually strung out behind one another), e.g. ‘Tha treud chaorach a mach a rathad.’</description>
+    </item>
+    <item>
+      <headword id="d0e503">‘Fen e falbh’, ‘Fen e d ais’</headword>
+      <description>‘way out’, ‘go back’. [commands given to a sheep-dog]</description>
+    </item>
+    <item>
+      <headword id="d0e512">‘Go mu chois’</headword>
+      <description>‘heel’. [command given to a sheep-dog]</description>
+    </item>
+    <item>
+      <headword id="d0e521">‘Mach e sen’</headword>
+      <description>‘away out’. [command given to a sheep-dog]</description>
+    </item>
+    <item>
+      <headword id="d0e530">‘Stigh e’</headword>
+      <description>‘after it’, i.e. encouraging the dog to chase harder, not at all in the sense of  taking an animal to an enclosure, in fact the opposite.</description>
+    </item>
+    <item>
+      <headword id="d0e539">faing rùsgaidh</headword>
+    </item>
+    <item>
+      <headword id="d0e545">faing dhuppaidh</headword>
+    </item>
+    <item>
+      <headword id="d0e551">faing nan uan</headword>
+      <description>when lambs are separated from their mothers.</description>
+    </item>
+    <item>
+      <headword id="d0e560">amar or amar duppaidh</headword>
+    </item>
+    <item>
+      <headword id="d0e566">a’ duppadh</headword>
+    </item>
+    <item>
+      <headword id="d0e572">a’ cur gorm no dearg as na caoraich</headword>
+      <description>marking with blue or red keel.</description>
+    </item>
+    <item>
+      <headword id="d0e581">a’ cohharrachadh  nan uan</headword>
+      <description>[sic] lug marking.</description>
+    </item>
+    <item>
+      <headword id="d0e590">a’ spoth</headword>
+      <description>castrating. A more ‘genteel’ term used is ‘spogadh’ but not used often.</description>
+    </item>
+    <item>
+      <headword id="d0e599">‘ciorrag bheag’</headword>
+      <description>[call to a lamb or sheep] or sometimes imitating the bleat, e.g. ‘maa bheag’.</description>
+    </item>
+    <item><headword id="d0e607" type="heading" level="h1">8. Apparatus</headword></item>
+    <item>
+      <headword id="d0e612">smiag (pronounced smeeag)</headword>
+      <description>a piece of wood with three holes, one at each end and one in the middle. The rope forming the lamb’s collar went through the two outer holes and were fixed by means of a knot. The tether went through the centre hole and [was] kept from running through by a knot on the end.
+        <illustration src="CampbeltownMMacLeodsheepillust2.jpg" width="600"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e623">bacan</headword>
+      <description>tether stake.</description>
+    </item>
+    <item>
+      <headword id="d0e632">suidhbheal ( soo-i-vil)</headword>
+      <description>[pron.] swivel. (This is the pronunciation I heard a Southend fisherman use although he has no Gaelic.)</description>
+    </item>
+    <item><headword id="d0e640" type="heading" level="h1">9. Diseases</headword></item>
+    <item>
+      <headword id="d0e645">cleimh, a’ chleimh</headword>
+      <description>scab; itchiness leaving bare patches of skin.</description>
+    </item>
+    <item>
+      <headword id="d0e654">miul (), miulan caorach</headword>
+      <description>[fem.] keds.</description>
+    </item>
+    <item>
+      <headword id="d0e663">gartan ()</headword>
+      <description>[masc.] tick.</description>
+    </item>
+    <item>
+      <headword id="d0e672">fiarrsannan (), pl. fiarrsannanan</headword>
+      <description>[masc.] worm in skin, usually of a cow.</description>
+    </item>
+    <item>
+      <headword id="d0e681">an doille ()</headword>
+      <description>[fem.] blindness, the eye turning whitish, opaque.</description>
+    </item>
+    <item>
+      <headword id="d0e690">an tuathalan ()</headword>
+      <description>[masc.] giddiness; lack of balance.</description>
+    </item>
+    <item>
+      <headword id="d0e699">am pluc ()</headword>
+      <description>[masc.] liver fluke disease.</description>
+    </item>
+    <item>
+      <headword id="d0e708">leòbagan air an adha</headword>
+      <description>liver flukes.</description>
+    </item>
+    <item>
+      <headword id="d0e717">spùt</headword>
+      <description>diarrhoea.</description>
+    </item>
+    <item>
+      <headword id="d0e726">lot ()</headword>
+      <description>[fem.] lot air a sgamhan, a blemish on the lungs.</description>
+    </item>
+    <item>
+      <headword id="d0e735">a’ cleith a’ bhoinne</headword>
+      <description>withholding the milk; ‘Cha do leag i ’m boinne.’</description>
+    </item>
+    <item>
+      <headword id="d0e744">Tha galair innt.</headword>
+      <description>She has a disease (not specific).</description>
+    </item>
+    <item>
+      <headword id="d0e753">Tha gaod innt.</headword>
+      <description>She has a disease (not specific). Similarly, a blemish in a piece of sound-looking wood: ‘Tha gaod ann.’</description>
+    </item>
+    <item><headword id="d0e761" type="heading" level="h1">10. Parts of the body</headword></item>
+    <item>
+      <headword id="d0e766">ceann ()</headword>
+      <description>[masc.] sùil, bus, eanachainn, cluas, teanga, stròn, duileasg na stròine.</description>
+    </item>
+    <item>
+      <headword id="d0e775">ochd ()</headword>
+      <description>[masc.] breast.</description>
+    </item>
+    <item>
+      <headword id="d0e784">caisean ochd</headword>
+      <description>skin on breast, a tit-bit at killing time. Skin was cut off, with wool still on, a red hot cinder put inside and left to cook!</description>
+    </item>
+    <item>
+      <headword id="d0e793">casan cinn</headword>
+      <description>forelegs.</description>
+    </item>
+    <item>
+      <headword id="d0e802">crudhanan beaga</headword>
+      <description>fetlocks.</description>
+    </item>
+    <item>
+      <headword id="d0e811">créimh an droma</headword>
+      <description>back-bone.</description>
+    </item>
+    <item>
+      <headword id="d0e820">smior cailleach</headword>
+      <description>spinal cord. (‘ai’ sound in Uig is more like ‘ei’, thus: ‘ceilleach’; ‘spaid’ is ‘speid’; ‘maide’ is ‘meide’; ‘sen’ is used instead of ‘sin’.)</description>
+    </item>
+    <item>
+      <headword id="d0e829">an crudha deiridh</headword>
+      <description>hindquarters.</description>
+    </item>
+    <item>
+      <headword id="d0e838">cruachan (), pl. cruachanan</headword>
+      <description>[masc.] hip.</description>
+    </item>
+    <item>
+      <headword id="d0e847">suil a’ leis</headword>
+      <description>socket joint at hip.</description>
+    </item>
+    <item>
+      <headword id="d0e856">losaid ()</headword>
+      <description>[fem.] Chaidh i as a losaid – her hip-joint is out.</description>
+    </item>
+    <item>
+      <headword id="d0e865">an cridhe</headword>
+      <description>heart.</description>
+    </item>
+    <item>
+      <headword id="d0e874">cuisil</headword>
+      <description>artery. (Vein, I don’t know Gaelic of.)</description>
+    </item>
+    <item>
+      <headword id="d0e883">fuil ()</headword>
+      <description>[fem.] blood.</description>
+    </item>
+    <item>
+      <headword id="d0e892">sgamhanan ()</headword>
+      <description>[masc.] lungs.</description>
+    </item>
+    <item>
+      <headword id="d0e901">sgòrnan ()</headword>
+      <description>[masc.] trachea.</description>
+    </item>
+    <item>
+      <headword id="d0e910">ubhal a’ sgornain</headword>
+      <description>larynx.</description>
+    </item>
+    <item>
+      <headword id="d0e919">adha ()</headword>
+      <description>[fem.] liver.</description>
+    </item>
+    <item>
+      <headword id="d0e928">duagan ()</headword>
+      <description>[masc.] kidneys.</description>
+    </item>
+    <item>
+      <headword id="d0e937">staoig () an amadain</headword>
+      <description>[fem.] found stuck to the maodal [q.v.] (spleen?).</description>
+    </item>
+    <item>
+      <headword id="d0e946">domalas ()</headword>
+      <description>[masc.] gall-bladder.</description>
+    </item>
+    <item>
+      <headword id="d0e955">a’ spoth aige</headword>
+      <description>its genital organs.</description>
+    </item>
+    <item>
+      <headword id="d0e964">am poc</headword>
+      <description>the bag.</description>
+    </item>
+    <item>
+      <headword id="d0e973">na clachan</headword>
+      <description>the testicles.</description>
+    </item>
+    <item>
+      <headword id="d0e982">am bogan</headword>
+      <description>the penis.</description>
+    </item>
+    <item>
+      <headword id="d0e991">am bod</headword>
+      <description>the penis.</description>
+    </item>
+    <item>
+      <headword id="d0e1000">an t-slat</headword>
+      <description>the penis.</description>
+    </item>
+    <item>
+      <headword id="d0e1009">an cochull ()</headword>
+      <description>[masc.] the sheath.</description>
+    </item>
+    <item>
+      <headword id="d0e1018">it-itheach ( i-each)</headword>
+      <description>[fem.]) ([pron.?] gullet.</description>
+    </item>
+    <item>
+      <headword id="d0e1027">a’ mhaodal ()</headword>
+      <description>[fem.] stomach.</description>
+    </item>
+    <item>
+      <headword id="d0e1036">caolanan ()</headword>
+      <description>[masc.] intestines.</description>
+    </item>
+    <item>
+      <headword id="d0e1045">na caolanan beaga</headword>
+      <description>small intestines.</description>
+    </item>
+    <item>
+      <headword id="d0e1054">na caolanan gorma</headword>
+      <description>small intestines.</description>
+    </item>
+    <item>
+      <headword id="d0e1063">an caolan mor</headword>
+      <description>large intestine.</description>
+    </item>
+    <item>
+      <headword id="d0e1072">na caolanan mora</headword>
+      <description>large intestines.</description>
+    </item>
+    <item>
+      <headword id="d0e1081">am brallein ()</headword>
+      <description>[masc.] colon (?).</description>
+    </item>
+    <item>
+      <headword id="d0e1090">geir na maodail</headword>
+      <description>fat on the stomach.</description>
+    </item>
+    <item>
+      <headword id="d0e1099">na lòineachan</headword>
+      <description>fat round kidneys.</description>
+    </item>
+    <item><headword id="d0e1107" type="heading" level="h1">11. Lambing</headword></item>
+    <item>
+      <headword id="d0e1112">cur nan caorach gu ’na rùid</headword>
+    </item>
+    <item>
+      <headword id="d0e1118">cur nan caorach gu ’na reithe</headword>
+    </item>
+    <item>
+      <headword id="d0e1124">Tha reitheachd oirre</headword>
+      <description>wanting the ram.</description>
+    </item>
+    <item>
+      <headword id="d0e1133">Chaidh i air reitheachd</headword>
+      <description>she was served. (Double ‘r’ sound as in Nom. case.)</description>
+    </item>
+    <item>
+      <headword id="d0e1142">Reithich a’ rùd i</headword>
+      <description>the ram served her.</description>
+    </item>
+    <item>
+      <headword id="d0e1151">Chaidh i seach reitheachd</headword>
+      <description>she has gone past the time.</description>
+    </item>
+    <item>
+      <headword id="d0e1160">leum reitheachd</headword>
+      <description>the effective jump.</description>
+    </item>
+    <item>
+      <headword id="d0e1169">leabaidh an uain</headword>
+      <description>inside the sheep.</description>
+    </item>
+    <item>
+      <headword id="d0e1178">salchar</headword>
+      <description>placenta.</description>
+    </item>
+    <item><headword id="d0e1186" type="heading" level="h1">12. Miscellaneous</headword></item>
+    <item>
+      <headword id="d0e1191">toban</headword>
+      <description>tuft.</description>
+    </item>
+    <item>
+      <headword id="d0e1200">caora chleimheach</headword>
+      <description>scabby sheep.</description>
+    </item>
+    <item>
+      <headword id="d0e1209">caora chùlanach</headword>
+      <description>sheep with black wool round the neck like a black collar (nothing to do with disease, just as a matter of interest).</description>
+    </item>
+    <item>
+      <headword id="d0e1218">cùlan</headword>
+      <description>black wool round a sheep’s neck (nothing to do with disease, just as a matter of interest).</description>
+    </item>
+  </items>
+</fieldworkDocument>

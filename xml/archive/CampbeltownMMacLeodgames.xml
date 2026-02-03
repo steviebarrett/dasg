@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 23 4 13 -->
+<fieldworkDocument docId="Games_CampbeltownMMacLeodgames" docType="questionnaire" subType="RecreationToysGamesContests">
+  <title>Cur-seachadan: Dèideagan, Geamaichean is Farpaisean / Recreation: Toys, Games, Contests</title>
+  <fieldworker>[self]</fieldworker>
+  <note>[NOTES: the informant uses the adjective ‘beag’ to show the gender of the noun.]</note>
+  <informant>
+    <nameEnglish>Murdo MacLeod</nameEnglish>
+    <nameGaelic>Murchadh MacLeòid</nameGaelic>
+    <age>60</age>
+    <origin>Leòdhas [Lewis], Uig</origin>
+  </informant>
+  <location>Kintyre, Campbeltown</location>
+  <!-- ILLUSTRATIONS -->
+  <items>
+    <item><headword id="d0e37" type="heading" level="h1">1. Toys</headword></item>
+    <item>
+      <headword id="d0e42">liùbhag (bheag)</headword>
+      <description>a doll made of rags.</description>
+    </item>
+    <item>
+      <headword id="d0e51">gille-mirean (gille-mirean beag)</headword>
+      <description>a top, usually made from a cotton-thread reel (pirn). Two tops were made from one ‘pirn’.
+        <illustration src="CampbeltownMMacLeodgamesillust1.jpg" width="200"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e62">goileach-gaoith (beag)</headword>
+      <description>made with a small potato and strong feathers. The feathers were stuck in at all angles and it was thrown in a fairly strong wind. 
+        <illustration src="CampbeltownMMacLeodgamesillust2.jpg" width="100"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e73">lungag (bheag)</headword>
+      <description>sling made from a piece of leather, to hold a stone, and two strings, one looped to go on the forefinger and the end of the other knotted to hold between forefinger and thumb. It was swung round the head until sufficient momentum was obtained and then the knotted end was released allowing the stone to fly off. 
+        <illustration src="CampbeltownMMacLeodgamesillust3.jpg" width="500"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e84">bodach-sàbhaidh</headword>
+      <description>made with wood and a potato. It was balanced on the edge of a shelf and made to rock backwards and forwards. A well-made one could keep going for quite a while!
+        <illustration src="CampbeltownMMacLeodgamesillust4.jpg" width="500"/>
+      </description>
+    </item>
+    <item><headword id="d0e94" type="heading" level="h1">2. Swings, see-saws</headword></item>
+    <item>
+      <headword id="d0e99">riaba-steallag (bheag)</headword>
+      <description>swing made with rope thrown over an overhead beam. (Usually in the barn.)</description>
+    </item>
+    <item>
+      <headword id="d0e108">bousigeadh</headword>
+      <description>sea-sawing. (The first part of the word is pronounced like the English bow i.e. bow of a ship.)</description>
+    </item>
+    <item><headword id="d0e116" type="heading" level="h1">3. Games played indoors</headword></item>
+    <item>
+      <headword id="d0e121">dùla-dallag</headword>
+      <description>Blind Man’s Buff.</description>
+    </item>
+    <item>
+      <headword id="d0e130">cluiche-chaorain</headword>
+      <description>a row of players sat with their hands cupped in their laps. A ‘caoran’ (fragment of peat) was passed surreptitiously from one to the other. One player was chosen to find where the caoran was. He went round, pointing to each in turn and was asked ‘Co aige tha e?’ If his guess was right, his place was taken by the player whom he had guessed. The caoran was secretly passed around again and the game restarted.</description>
+    </item>
+    <item>
+      <headword id="d0e139">marbhadh a’ bhodaich</headword>
+      <description>a game for boys. The player stretched face downwards on the floor and put his two clenched fists, one beyond and touching the other at his own head, thus measuring his own length plus the breadth of two fists. This was marked – one mark at his toes and the other at the second fist. A wooden peg was set up at the ‘fist’ mark and the player took up position at the other mark (where his toes had been). He was given two short pointed pegs – one in each hand – shaped like the ‘dealgan’ used for twisting yarn [see illustration below] and balancing his body forwards on these lifting one at a time, he had to stretch his full length and knock the ‘bodach’ down, without overbalancing and collapsing on the floor. The crucial point came when he was about fully stretched. He was asked “Càite bheil thu dol?” He replied, “Tha mi dol a mharbhadh a bhodaich.” “De fhads’ a tha thu dol a ruighinn?” and balancing on one peg the poor player had to lift the other one and point to one ear, and putting that one down and balancing on it, he had to do the same with the other peg. While he was doing this he replied, “Tha gu na cluais ud, agus gu na cluais ud.” Not many could finish the game!
+        <illustration src="CampbeltownMMacLeodgamesillust5.jpg" width="200"/>
+      </description>
+    </item>
+    <item><headword id="d0e149" type="heading" level="h1">4. Outdoor games not involving a ball or puck</headword></item>
+    <item>
+      <headword id="d0e154">maide-ruibh</headword>
+      <description>a game played among the corn stacks. Two sides chosen, one trying to capture the other. A challenge was given: “Maide-ruibh, / As a ghaoith / seotha sinn.” Sometimes ‘sinn’ was emphasised, sometimes ‘seotha’.</description>
+    </item>
+    <item>
+      <headword id="d0e163">gugalaghù no fiog-falach-fead</headword>
+      <description>hide and seek. The player who had to ‘seek’ the others had the following to recite after he had finished counting up to the previously agreed upon number: “Gugalaghù air a chathair / Ma tha duine air mo chùlthaobh / No air mo bheulthaobh, / Sgiob air a shon, tha mise ri ’g eiridh.” Anyone trying to take an unfair advantage by staying too close to the ‘cathair’ was thus automatically counted out.</description>
+    </item>
+    <item>
+      <headword id="d0e172">a madadh-ruadh ’s a’ chearc</headword>
+      <description>The ‘Cearc’ had all her ‘chickens’ strung along behind her, each clasping the one in front round the waist, the nearest one to the ‘Cearc’ clasping her. The ‘Fox’ came along and pretended to dig in front of the Hen, who asked him: “De tha thu cladhach ann a shen? [?]” “Tha mi lorg snathad.” “De tha thu dol a dheanamh leis an t-snàthaid?” “Tha mi dol a dh’fhuaigheal pac.” “De tha thu dol a dheanamh leis a phac?” “Tha mi dol a chur gual ann.” “De tha thu dol a dheanamh leis a ghual?” “Tha mi dol a dheanamh teine.” “De tha thu dol a dheanamh leis an teine?” “Tha mi dol a chur prais air.” “De tha thu dol a dheanamh leis a phrais?” “Tha mi dol a chur feòil innt.” “De an fheòil?” “Tha feòil do chuid iseanan is tu fhein as an deidh.” The Hen, with arms outstretched like wings, tried to guard her brood, while the Fox captured them, one by one.</description>
+    </item>
+    <item>
+      <headword id="d0e181">peileastar</headword>
+      <description>a game of marksmanship. A flat stone was put up in a prominent position, perhaps on a boulder. The competitors lined up at an agreed upon range, with so many stones apiece. Each in turn tried to hit the target, known as ‘geal’. This game usually took place on the shore where there was plenty of ammunition!</description>
+    </item>
+    <item>
+      <headword id="d0e190">cabhadh-phloc</headword>
+      <description>Two sides ranged against one another using clods of earth as missiles. Pieces of dried ‘sgrath’ were very suitable when available.</description>
+    </item>
+    <item><headword id="d0e198" type="heading" level="h1">5. Ball games</headword></item>
+    <item>
+      <headword id="d0e203">iomain</headword>
+      <description>“Buail am port.” “Leigeam leat.” “Iain.” … “Calum.” A button was usually used instead of a penny to decide who was to get first choice.</description>
+    </item>
+    <item>
+      <headword id="d0e212">ball-àrc</headword>
+      <description>[shinty] [A ball] made from the cork of a herring net. The hole in the cork was filled with a wooden peg. This type of ball was not a favourite as it was too light and it broke easily.</description>
+    </item>
+    <item>
+      <headword id="d0e221">ball-fiodha</headword>
+      <description>[shinty] The shaft of an old spade or graip was the best material. The ball was rather small but it could stand up to hard hitting.</description>
+    </item>
+    <item>
+      <headword id="d0e230">spuadag</headword>
+      <description>[shinty] A hit at the ball. It also meant a blow given to a person. “Thug mi spuadag air.” – ‘I gave him a blow.’</description>
+    </item>
+    <item>
+      <headword id="d0e239">haoidhlidh</headword>
+      <description>[shinty] When the ball was hit past a certain mark – the equivalent of a goal – only there were no goal posts and no confined space through which the ball had to pass.</description>
+    </item>
+    <item>
+      <headword id="d0e248">ri bhus</headword>
+      <description>[shinty] “Fhalbh ri bhus.” – ‘Go and tackle him.’</description>
+    </item>
+    <item>
+      <headword id="d0e257">‘Loisg air a’ bhall.’</headword>
+      <description>[shinty] ‘Hit the ball.’</description>
+    </item>
+    <item><headword id="d0e265" type="heading" level="h1">6. Athletics</headword></item>
+    <item>
+      <headword id="d0e270">leum (beag)</headword>
+      <description>long jump.</description>
+    </item>
+    <item>
+      <headword id="d0e279">sinteag, cas bheag is leum</headword>
+      <description>hop, step and jump.</description>
+    </item>
+    <item>
+      <headword id="d0e288">cruidh-leum (beag)</headword>
+      <description>standing jump, with both feet together.</description>
+    </item>
+    <item>
+      <headword id="d0e297">car a mhuiltean (beag)</headword>
+      <description>somersault.</description>
+    </item>
+    <item>
+      <headword id="d0e306">[leum]</headword>
+      <description>“Siuthad! Gearr do leum.” – ‘Come on! Jump.’</description>
+    </item>
+    <item>
+      <headword id="d0e315">buille-trot</headword>
+      <description>jogging along, running slowly. It also meant forcing a person to do something e.g. “Theid thu ann air do bhuille-trot.” – ‘You will go in spite of yourself.’</description>
+    </item>
+    <item><headword id="d0e323" type="heading" level="h1">7. Heavy events</headword></item>
+    <item>
+      <headword id="d0e328">cur air an dornaig</headword>
+      <description>putting the stone.</description>
+    </item>
+    <item>
+      <headword id="d0e337">cur air a’ chloich</headword>
+      <description>putting the stone.</description>
+    </item>
+    <item>
+      <headword id="d0e346">geal</headword>
+      <description>the mark, i.e. where the stone hit.</description>
+    </item>
+    <item><headword id="d0e354" type="heading" level="h1">8. Contests involving pulling or pushing</headword></item>
+    <item>
+      <headword id="d0e359">maide-leisg</headword>
+    </item>
+    <item><headword id="d0e364" type="heading" level="h1">9. Boxing and wrestling</headword></item>
+    <item>
+      <headword id="d0e369">fiachainn car</headword>
+      <description>wrestling.</description>
+    </item>
+    <item>
+      <headword id="d0e378">cas bhac</headword>
+      <description>to trip. “Chuir e cas-bhac air an fhear a bha na aghaidh.” – ‘He tripped his opponent.’</description>
+    </item>
+    <item><headword id="d0e386" type="heading" level="h1">10. Blows in general</headword></item>
+    <item>
+      <headword id="d0e391">sgal (bheag)</headword>
+      <description>blow with palm of the hand.</description>
+    </item>
+    <item>
+      <headword id="d0e400">sgailc (bheag)</headword>
+      <description>blow with palm of the hand.</description>
+    </item>
+    <item>
+      <headword id="d0e409">spuadag (bheag)</headword>
+      <description>a light blow, with the fist.</description>
+    </item>
+    <item>
+      <headword id="d0e418">àlach (bheag)</headword>
+      <description>a succession of mighty blows.</description>
+    </item>
+    <item>
+      <headword id="d0e427">uinnleag</headword>
+      <description>a push with the elbow.</description>
+    </item>
+    <item>
+      <headword id="d0e436">blocs</headword>
+      <description>a butt with the head.</description>
+    </item>
+    <item>
+      <headword id="d0e445">sautag (sabhtag?)</headword>
+      <description>a push with the head, sideways.</description>
+    </item>
+    <item><headword id="d0e453" type="heading" level="h1">11. Injury and exhaustion</headword></item>
+    <item>
+      <headword id="d0e458">eàrradh</headword>
+      <description>a scar.</description>
+    </item>
+    <item>
+      <headword id="d0e467">pat</headword>
+      <description>a bruise.</description>
+    </item>
+    <item>
+      <headword id="d0e476">put</headword>
+      <description>a swelling left by a blow.</description>
+    </item>
+    <item>
+      <headword id="d0e485">scròbag</headword>
+      <description>a scratch.</description>
+    </item>
+    <item>
+      <headword id="d0e494">Chaidh e bhair an adhbrainn.</headword>
+      <description>He sprained his ankle.</description>
+    </item>
+    <item>
+      <headword id="d0e503">a’ anail ’na uchd</headword>
+      <description>panting.</description>
+    </item>
+    <item>
+      <headword id="d0e512">gus an adha dhubh a chur a mach</headword>
+      <description>utter exhaustion.</description>
+    </item>
+    <item>
+      <headword id="d0e521">gus an gog a thoirt suas</headword>
+      <description>utter exhaustion.</description>
+    </item>
+    <item>
+      <headword id="d0e530">’na chlod marbh air an talamh</headword>
+      <description>lying ‘flat out’ on the ground.</description>
+    </item>
+    <item>
+      <headword id="d0e539">’a daubhdail null ’s a nall</headword>
+      <description>staggering this way and that.</description>
+    </item>
+    <item>
+      <headword id="d0e548">’a ròmhanaich</headword>
+      <description>moaning with pain (usually lying on the ground).</description>
+    </item>
+  </items>
+</fieldworkDocument>

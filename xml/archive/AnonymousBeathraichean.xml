@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 11 6 13 -->
+<fieldworkDocument docId="AssortedFieldworkers_AnonymousBeathraichean" docType="questionnaire" subType="Eathraichean">
+  <title>Eathraichean / Boats</title>
+  <fieldworker>Anonymous B</fieldworker>
+  <items>
+    <item><headword id="d0e14" type="heading" level="h1">1. Ainmean air seòrsachan eathraichean</headword></item>
+    <item>
+      <headword id="d0e19">sgàf</headword>
+      <description>skiff.</description>
+    </item>
+    <item>
+      <headword id="d0e28">copla</headword>
+      <description>cobble.</description>
+    </item>
+    <item><headword id="d0e36" type="heading" level="h1">2. Ainm gach pàirt dhen eathar eadar an druim ’s am beul, agus na broinn</headword></item>
+    <item>
+      <headword id="d0e41">tobhtaichean</headword>
+    </item>
+    <item>
+      <headword id="d0e47">srac bheol</headword>
+      <description>1st layer of wood.</description>
+    </item>
+    <item>
+      <headword id="d0e56">giuthas</headword>
+    </item>
+    <item>
+      <headword id="d0e62">sail</headword>
+      <description>(in that order)</description>
+    </item>
+    <item>
+      <headword id="d0e71">cnot</headword>
+      <description>[?]</description>
+    </item>
+    <item>
+      <headword id="d0e80">druim</headword>
+    </item>
+    <item>
+      <headword id="d0e86">tobhta chruinn</headword>
+    </item>
+    <item>
+      <headword id="d0e92">sròn</headword>
+    </item>
+    <item>
+      <headword id="d0e98">ball acair</headword>
+    </item>
+    <item>
+      <headword id="d0e104">ropa an t-siul</headword>
+      <description>to adjust sail up and down.</description>
+    </item>
+    <item>
+      <headword id="d0e113">riofainean</headword>
+    </item>
+    <item>
+      <headword id="d0e119">àsag</headword>
+      <description>bung.</description>
+    </item>
+    <item>
+      <headword id="d0e128">lodair</headword>
+      <description>baler, bowl with a hand.</description>
+    </item>
+    <item>
+      <headword id="d0e137">ropa ceangail an t-siul</headword>
+      <description>can’t be knotted [?] [NOTES: both the definition and the accompanying illustration unclear.]</description> 
+    </item>
+    <item><headword id="d0e145" type="heading" level="h1">3. Stiùir is ailm – ainm gach pàirt</headword></item>
+    <item>
+      <headword id="d0e150">an fhuilim</headword>
+      <description>in hand.</description>
+    </item>
+    <item>
+      <headword id="d0e159">liath a raimh</headword>
+    </item>
+    <item><headword id="d0e164" type="heading" level="h1">4. Gach pàirt dhen ràmh, is faclan co-cheangailte ri iomradh</headword></item>
+    <item><headword id="d0e168" type="heading" level="h1">5. Crann is seòl is gach uidheam co-cheangailte riutha – ainm gach pàirt</headword></item>
+    <item><headword id="d0e172" type="heading" level="h1">6. Faclan sam bith eile co-cheangailte ri eathraichean no ri seòladh</headword></item>
+  </items>
+</fieldworkDocument>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 11 6 13 -->
+<fieldworkDocument docId="AssortedFieldworkers_BruernishRMacPhersonmedplants" docType="questionnaire" subType="MedicinalPlants">
+  <title>Blàthan-Leighis / Medicinal Plants</title>
+  <fieldworker>[Ian Quick]</fieldworker>
+  <date>09/1983</date>
+  <informant>
+    <nameEnglish>Roderick MacPherson</nameEnglish>
+    <nameGaelic>Ruairidh Mac a’ phearsain</nameGaelic>
+    <age>81</age>
+    <origin>[Barra]</origin>
+  </informant>
+  <location>Barraigh, Brudharnais [Barra, Bruernish]</location>
+  <items>
+    <item><headword id="d0e35" type="heading" level="h1">A. Plant medicines</headword></item>
+    <item><headword id="d0e39" type="heading" level="h1">1. Diseases in the head area</headword></item>
+    <item>
+      <headword id="d0e44">pionnd</headword>
+      <description>mint. (Cha robh fios aige an e ainmear f. no b. a tha seo.) Disease: ceann goirt. Part used: every part, dried. How prepared: mint-tea. Sources of information: parents and people around.</description>
+    </item>
+    <item>
+      <headword id="d0e53">piobar</headword>
+      <description>pepper. Disease: sore tonsils. How prepared: put on tonsils with spoon-handle. Sources of information: parents and people around.</description>
+    </item>
+    <item><headword id="d0e61" type="heading" level="h2">2. Respiratory diseases</headword></item>
+    <item>
+      <headword id="d0e66">pionnd</headword>
+      <description>mint. Disease: asthma. How prepared: mint-tea.</description>
+    </item>
+    <item><headword id="d0e74" type="heading" level="h2">3. The blood</headword></item>
+    <item>
+      <headword id="d0e79">cuach Phàdraig</headword>
+      <description>(St.) Patrick’s wort. Disease: cuts. How prepared: leaf raw on cut.</description>
+    </item>
+    <item>
+      <headword id="d0e88">còinneach</headword>
+      <description>sphagnum moss. Disease: burst blister. Blister caused by back of shoe rubbing back of foot. Chafing between shoe and back of shoe [sic], after blister had burst and left open wound. How prepared: kept wet, and plaster on top.</description>
+    </item>
+    <item><headword id="d0e96" type="heading" level="h2">4. The bowels and stomach</headword></item>
+    <item>
+      <headword id="d0e101">pionnd</headword>
+      <description>mint. Disease: ruadh (rud sam bith a tha ceàrr air an stamaig). How prepared: tè.</description>
+    </item>
+    <item><headword id="d0e109" type="heading" level="h2">5. Bladder and kidneys</headword></item>
+    <item><headword id="d0e113" type="heading" level="h2">6. Other internal organs</headword></item>
+    <item><headword id="d0e117" type="heading" level="h2">7. Gynaecological complaints</headword></item>
+    <item><headword id="d0e121" type="heading" level="h2">8. Skin diseases not already mentioned</headword></item>
+    <item><headword id="d0e125" type="heading" level="h2">9. Acute diseases</headword></item>
+    <item><headword id="d0e129" type="heading" level="h2">10. The skeleton and muscles</headword></item>
+    <item>
+      <headword id="d0e134">an fheanndag</headword>
+      <description>nettle. Disease: rheumatics. How prepared: sting part affected.</description>
+    </item>
+    <item><headword id="d0e142" type="heading" level="h1">B. Treatments which did not involve the use of plants</headword></item>
+    <item>
+      <headword id="d0e147">cnàimh bod an dòbhrain</headword>
+      <description>dried otter’s penis-bone – chewed to relieve toothache.</description>
+    </item>
+    <item>
+      <headword id="d0e156">sùgh nam bàirneach</headword>
+      <description>(am b. air a bhruich) purgative, whether ill or not. Also, to purify the blood.</description>
+    </item>
+    <item>
+      <headword id="d0e165">[bidse]</headword>
+      <description>bidse bh’air cuileanan a bhreith reimhid – bha i math gus creuchdan a leighiseadh le bhith gan imlich.</description>
+    </item>
+    <item>
+      <headword id="d0e174">butter and boiled egg mixed</headword>
+      <description>for diarrhoea.</description>
+    </item>
+    <item>
+      <headword id="d0e183">peileir luaidhe</headword>
+      <description>swallowed whole to cure appendicitis. (Eriskay)</description>
+    </item>
+    <item>
+      <headword id="d0e192">gruthan an èisg</headword>
+      <description>good for gut. Cooked in a ‘bonnach’.</description>
+    </item>
+    <item>
+      <headword id="d0e201">stad-mhaighistir</headword>
+      <description>cured by standing feet in warm water.</description>
+    </item>
+	<item>
+	  <headword id="d0e210">stad-uisge</headword>
+      <description>cured by standing feet in warm water.</description>
+	  </item>
+    <item>
+      <headword id="d0e219">bainne-teth</headword>
+      <description>cure for cholera (used in Hellisay, according to old man who lived in Bruernish).</description>
+    </item>
+    <item>
+      <headword id="d0e228">bloineig-circe</headword>
+      <description>rubbed on strained muscles.</description>
+    </item>
+    <item><headword id="d0e236" type="heading" level="h1">C. Veterinary medicine</headword></item>
+    <item>
+      <headword id="d0e241">[faochagan]</headword>
+      <description>faochagan beaga glas gam pronnadh – for constipation in cattle.</description>
+    </item>
+    <item><headword id="d0e249" type="heading" level="h1">D. What do you think is the English name for the plants called in Gaelic:</headword></item>
+    <item><headword id="d0e253" type="heading" level="h1">E. Any further information about your sources</headword></item>
+    <item><headword id="d0e257" type="heading" level="h1">F. Other information not covered above</headword></item>
+  </items>
+</fieldworkDocument>

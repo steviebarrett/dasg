@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 7/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_LondubhACameronslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>12/1969</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <informant>
+    <nameEnglish>Angus Cameron</nameEnglish>
+  </informant>
+  <location>Ross-shire, Poolewe, Londubh</location>
+  <items>
+    <item>
+      <headword id="idp167336448">ileag</headword>
+      <description>Notes: elver.</description>
+    </item>
+    <item>
+      <headword id="idp167337960">slaodach</headword>
+      <description>Quotation: an t-slaodach. Notes: long, yellowish-brown seaweed with bubbles on it.</description>
+    </item>
+    <item>
+      <headword id="idp167339688">tomaidh-an-toll</headword>
+      <description>[ṯɔ̃miən̪t̪ɤu̜ɫ] Notes: hedge-sparrow (local).</description>
+    </item>
+    <item>
+      <headword id="idp167341632">buidheag</headword>
+      <description>Notes: a sheaf that has been threshed by hand.</description>
+    </item>
+    <item>
+      <headword id="idp167343144">doirean</headword>
+      <description>[d̪ɤĩɑ̃ṉ] Notes: young tangle.</description>
+    </item>
+    <item>
+      <headword id="idp167344872">fóthannan</headword>
+      <description>[fo:hən̪ɑ̃ṉ] Notes: polecat.</description>
+    </item>
+  </items>
+</fieldworkDocument>

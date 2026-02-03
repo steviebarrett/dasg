@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 1/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_InvergarryAKennedyslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>04/1969</date>
+  <fieldworker>[AJ Smith]</fieldworker>
+  <note>[NOTES: the location on the slips – Mandally Road, Glengarry.]</note>
+  <informant>
+    <nameEnglish>Angus Kennedy</nameEnglish>
+    <age>c. 55</age>
+    <origin>Strontian</origin>
+  </informant>
+  <location>Inverness-shire, Invergarry</location>
+  <items>
+    <item>
+      <headword id="idp118888288">lus-am-baistidh (sic)</headword>
+      <description>Notes: St. John’s wort.</description>
+    </item>
+    <item>
+      <headword id="idp118889800">ròmach</headword>
+      <description>Notes: fluffy.</description>
+    </item>
+    <item>
+      <headword id="idp118891312">iomair-chrann</headword>
+      <description>[ĩməɾxɾɑu̜n̪] Notes: honeysuckle.</description>
+    </item>
+    <item>
+      <headword id="idp118893328">teumach</headword>
+      <description>[tʹʃe:mɑx] Notes: quick-tempered.</description>
+    </item>
+    <item>
+      <headword id="idp118895056">fearg</headword>
+      <description>[fɑrɑɡʹ] Notes: anger.</description>
+    </item>
+    <item>
+      <headword id="idp118896784">feargach</headword>
+      <description>[fɑrɑɡʹɑx] Notes: angry.</description>
+    </item>
+  </items>
+</fieldworkDocument>

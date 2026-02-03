@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 5 2 15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="DRMorrisonetal_ScalpayDRMorrisonmisc5" docType="wordlist" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>[1975 on the slips]</date>
+  <fieldworker>[self]</fieldworker>
+  <note>[NOTES: the words have been slipped and therefore, apart from the definitions provided by Mr Morrison, the definitions as they appear on the slips have also been included (unless the two were the same).]</note>
+  <informant>
+    <nameEnglish>Donald R. Morrison</nameEnglish>
+    <nameGaelic>Dòmhnall R. Moireasdan</nameGaelic>
+    <age>[55]</age>
+  </informant>
+  <location>Na Hearadh, Scalpaigh [Harris,Scalpay]</location>
+  <items>
+    <item>
+      <headword id="idola348" type="heading" level="h1">Word-list (‘Cruinneachadh de dh’fhaclan’)</headword>
+    </item>
+    <item>
+      <headword id="idp1304296">acrachadh</headword>
+      <description>anchoring.</description>
+    </item>
+    <item>
+      <headword id="idp1306024">smeiligeadh</headword>
+      <description>proud / smelling.</description>
+    </item>
+    <item>
+      <headword id="idp1307536">ruileadh</headword>
+      <description>rolling.</description>
+    </item>
+    <item>
+      <headword id="idp1309048">ribleachadh</headword>
+      <description>ends getting loose. [SLIP: Ends becoming loose.]</description>
+    </item>
+    <item>
+      <headword id="idp1310776">rotachadh</headword>
+      <description>chasing.</description>
+    </item>
+    <item>
+      <headword id="idp1312288">ràcadh</headword>
+      <description>raking.</description>
+    </item>
+    <item>
+      <headword id="idp1314016">tóbhaigeadh</headword>
+      <description>hoeing.</description>
+    </item>
+    <item>
+      <headword id="idp1315744">cruid</headword>
+      <description>horse shoe but cruid na bròige. [SLIP: Horse-shoe. Also: cruid na bròige.]</description>
+    </item>
+    <item>
+      <headword id="idp1317472">tacaid</headword>
+      <description>shoe stud.</description>
+    </item>
+    <item>
+      <headword id="idp1319200">dis</headword>
+      <description>cold. [NOTES: the slip is among the “Doubtful” words.]</description>
+    </item>
+    <item>
+      <headword id="idp1320928">stòbhaigeadh</headword>
+      <description>stoving. [sic] [NOTES: the slip is among the “Doubtful” words. Definition: Stoving (?) – stowing?]</description>
+    </item>
+    <item>
+      <headword id="idp1322656">shemigeadh</headword>
+      <description>shemming. [?] [NOTES: the slip is among the “Doubtful” words. Catch-word: seimigeadh [SE:m].]</description>
+    </item>
+    <item>
+      <headword id="idp1324672">sìbhligeadh</headword>
+      <description>starving.</description>
+    </item>
+    <item>
+      <headword id="idp1326184">dìtheanach</headword>
+      <description>flowery.</description>
+    </item>
+    <item>
+      <headword id="idp1327696">sìtheanach</headword>
+      <description>flowery.</description>
+    </item>
+    <item>
+      <headword id="idp1329280">labraigeadh</headword>
+      <description>labouring.</description>
+    </item>
+    <item>
+      <headword id="idp1331656">dàrnaigeadh</headword>
+      <description>darning.</description>
+    </item>
+    <item>
+      <headword id="idp1333384">slabhaireachd</headword>
+      <description>slaving.</description>
+    </item>
+    <item>
+      <headword id="idp1334968">daibheadh</headword>
+      <description>diving.</description>
+    </item>
+    <item>
+      <headword id="idp1336480">seòrsigeadh</headword>
+      <description>examining. [NOTES: the slip has ‘seòrsaigeadh’.]</description>
+    </item>
+    <item>
+      <headword id="idp1338208">thaiseadh</headword>
+      <description>storm. Fhuair iad thaiseadh oirre. [sic] (storm and rain) (Perhaps from tais.) [SLIP: Rain-filled storm.]</description>
+    </item>
+    <item>
+      <headword id="idp1340368">diogadaich</headword>
+      <description>ticking.</description>
+    </item>
+    <item>
+      <headword id="idp1341880">cabadaireachd</headword>
+      <description>gabbling.</description>
+    </item>
+    <item>
+      <headword id="idp1343392">drongair</headword>
+      <description>drunkard (common).</description>
+    </item>
+    <item>
+      <headword id="idp1344904">botraigeadh</headword>
+      <description>bother.</description>
+    </item>
+    <item>
+      <headword id="idp3316880">plèin</headword>
+      <description>plain.</description>
+    </item>
+    <item>
+      <headword id="idp3261872">ramasaigeadh</headword>
+      <description>ramming.</description>
+    </item>
+    <item>
+      <headword id="idm994344">diasgail</headword>
+      <description>screeching.</description>
+    </item>
+    <item>
+      <headword id="idp1430104">sgòrnanaich</headword>
+      <description>croak.</description>
+    </item>
+    <item>
+      <headword id="idp1431616">briachain</headword>
+      <description>broken porcelain.</description>
+    </item>
+    <item>
+      <headword id="idp1433128">briachan</headword>
+      <description>bit of broken porcelain. [NOTES: both of the above slipped under ‘briachan’ – A piece of broken porcelain. Also: briachain – Broken porcelain.]</description>
+    </item>
+    <item>
+      <headword id="idp1434856">breacadh</headword>
+      <description>‘fire-prints on the feet’ caused by continually sitting by a large fire and the feet bare, gradually the fire impression sets in. I cannot think of an English word for it at the moment. [SLIP: “Fire-prints” on feet.]</description>
+    </item>
+    <item>
+      <headword id="idp1437448">dùsgadh</headword>
+      <description>revival.</description>
+    </item>
+    <item>
+      <headword id="idp1439176">slipearsaich</headword>
+      <description>(also) slipping.</description>
+    </item>
+    <item>
+      <headword id="idp1440688">slupaigeadh</headword>
+      <description>slipping.</description>
+    </item>
+    <item>
+      <headword id="idp1442200">greighear</headword>
+      <description>flock attendant.</description>
+    </item>
+    <item>
+      <headword id="idp1443712">graill</headword>
+      <description>(also) gravel. [NOTES: the slip is among the “Doubtful” words.]</description>
+    </item>
+    <item>
+      <headword id="idp1445440">grailleachan</headword>
+      <description>fine gravel. (I am not sure of these two [i.e. graill and grailleachan]. I take it as a matter of guess – grailleachan could be the name of a bird? I haven’t traced their meaning. Perhaps you have the meanings yourself? It could be a bird associated with a gravel habitat?) [NOTES: the slip is among the “Doubtful” words. Definition: Fine gravel.]</description>
+    </item>
+    <item>
+      <headword id="idp1447312">ribheadh</headword>
+      <description>redness.</description>
+    </item>
+    <item>
+      <headword id="idp1448824">bruchdach</headword>
+      <description>fat (red faced), fresh coloured person. Duine bruchdach dearg. [SLIP: Used of a fat, ruddy-coloured person.]</description>
+    </item>
+    <item>
+      <headword id="idp1451992">sgumaigeadh</headword>
+      <description>sgumming. [sic] [NOTES: the slip is among the “Doubtful” words.]</description>
+    </item>
+    <item>
+      <headword id="idp1454152">spiorsaid</headword>
+      <description>an unpopular, authoritative female. [SLIP: An unpopular, authoritarian woman.]</description>
+    </item>
+    <item>
+      <headword id="idp1455880">splaoid</headword>
+      <description>splide. [sic] [NOTES: the slip is among the “Doubtful” words.]</description>
+    </item>
+    <item>
+      <headword id="idp1457608">splaoighseadh</headword>
+      <description>splicing.</description>
+    </item>
+    <item>
+      <headword id="idp1459120">òrdichean</headword>
+      <description>communion festival in churches.</description>
+    </item>
+    <item>
+      <headword id="idp1460848">òrduighean</headword>
+      <description>communion festival in churches.</description>
+    </item>
+    <item>
+      <headword id="idp1462576">tradaireachd</headword>
+      <description>trading in trash material or pawning, trading. [SLIP: Trading in trashy material.]</description>
+    </item>
+    <item>
+      <headword id="idp1464304">bocsaigeadh</headword>
+      <description>boxing.</description>
+    </item>
+    <item>
+      <headword id="idp1466032">sponsaireadh</headword>
+      <description>sponsoring.</description>
+    </item>
+    <item>
+      <headword id="idp1467544">tradair</headword>
+      <description>trader.</description>
+    </item>
+    <item>
+      <headword id="idp1469488">fear-na-luathadh</headword>
+      <description>dustman.</description>
+    </item>
+    <item>
+      <headword id="idp1471432">cìr-mhìn</headword>
+      <description>dust-comb.</description>
+    </item>
+    <item>
+      <headword id="idp1472944">liuthaireachd</headword>
+      <description>lythe fishing.</description>
+    </item>
+    <item>
+      <headword id="idp1474456">gròbadh</headword>
+      <description>groving. [sic]</description>
+    </item>
+    <item>
+      <headword id="idp1476184">plaister</headword>
+      <description>plaster.</description>
+    </item>
+    <item>
+      <headword id="idp1478776">còta-drògaid</headword>
+      <description>coat made of drugget cloth material.</description>
+    </item>
+    <item>
+      <headword id="idp1480504">bóthaig</headword>
+      <description>(also) torsal [sic] part of a garment. [NOTES: the slip is among the “Doubtful” words.]</description>
+    </item>
+    <item>
+      <headword id="idp1482232">salainn-mìn</headword>
+      <description>table salt.</description>
+    </item>
+    <item>
+      <headword id="idp1483960">puist</headword>
+      <description>(fencing) posts.</description>
+    </item>
+    <item>
+      <headword id="idp1485688">slabaisteachadh</headword>
+      <description>drenching.</description>
+    </item>
+    <item>
+      <headword id="idp1487416">snaim-cruaimen</headword>
+      <description>single-knot, difficult to untie. [NOTES: the slip has ‘snaim-cruaimean’. Definition: Single-knot which is difficult to untie.]</description>
+    </item>
+    <item>
+      <headword id="idp1489144">cìleag</headword>
+      <description>soft boy or person, cowardly. [SLIP: A cowardly boy (also used of older persons).]</description>
+    </item>
+    <item>
+      <headword id="idp1490872">bugailean</headword>
+      <description>(softie), soft, nervous person. [SLIP: A timid, nervous person.]</description>
+    </item>
+    <item>
+      <headword id="idp1492600">seisear</headword>
+      <description>six. Seisear ghillean.</description>
+    </item>
+    <item>
+      <headword id="idp1494328">tùchadh</headword>
+      <description>hoarseness in the throat.</description>
+    </item>
+    <item>
+      <headword id="idp1495840">thamsach</headword>
+      <description>confusion, mixed, mixture. Tha e air a dhol ’na thamsach ort.</description>
+    </item>
+    <item>
+      <headword id="idp1497712">tum-tàmh</headword>
+      <description>complete silence. Tha e air a dhol ’na thum-thàmh.</description>
+    </item>
+    <item>
+      <headword id="idp1499656">cadalan-tràghad</headword>
+      <description>sleep before the ebb, wee sleep. I am not sure of this compound word either. Does it mean the nap, wee nap people used to do before the ebb tide when engaged at sea-weed cutting in the Highlands of Scotland, or is it the name of a bird or shell-fish, but if you do not find any other definition, I think you will be ‘safe’ in noting the meaning I have here, see the bottom of page 5 [i.e. above] and thus: ’S ann a tha e cuimhneachadh dhomhsa an cadalan-tràghad. – reference to a ‘slow or easy going’ person. [SLIP: Sleep before the ebb; ref. to a slow and easy-going person.]</description>
+    </item>
+    <item>
+      <headword id="idp1502608">caorann</headword>
+      <description>broken peat (singular). Caorainn mhònadh (plural). [NOTES: the slip has ‘caoran’ – pl. caorainn mhònadh.]</description>
+    </item>
+    <item>
+      <headword id="idp1504552">garran</headword>
+      <description>crank.</description>
+    </item>
+    <item>
+      <headword id="idp1506064">deiligeadh</headword>
+      <description>dealing.</description>
+    </item>
+    <item>
+      <headword id="idp1507792">cnèimh</headword>
+      <description>core.</description>
+    </item>
+    <item>
+      <headword id="idp1509304">armadh</headword>
+      <description>urine which was kept for days for to ‘sour’ for the process of tweed making.</description>
+    </item>
+    <item>
+      <headword id="idp1511968">buntaigeadh</headword>
+      <description>bunting.</description>
+    </item>
+    <item>
+      <headword id="idp1513696">cleith-luaidh</headword>
+      <description>waulking bench.</description>
+    </item>
+    <item>
+      <headword id="idp1515208">fiaclan-fuadain</headword>
+      <description>false teeth.</description>
+    </item>
+    <item>
+      <headword id="idp1516720">òrd-barraidh</headword>
+      <description>clinching hammer.</description>
+    </item>
+    <item>
+      <headword id="idp1518232">òrd-ladhrach</headword>
+      <description>claw hammer.</description>
+    </item>
+    <item>
+      <headword id="idp1519744">sgolag</headword>
+      <description>a little wash. Cuir sgolag air t’ aodann. [SLIP: Cat’s lick – little wash.]</description>
+    </item>
+    <item>
+      <headword id="idp1521616">crabsag</headword>
+      <description>crab.</description>
+    </item>
+    <item>
+      <headword id="idp1523128">sniomh</headword>
+      <description>(also) a winding, a grassy winding path in a rock face. [SLIP: A grassy, winding path on a rock face.]</description>
+    </item>
+    <item>
+      <headword id="idp1524856">snagadaich</headword>
+      <description>(also) teeth striking against each other, as when a person shivers in the cold. [SLIP: Teeth chattering through cold.]</description>
+    </item>
+    <item>
+      <headword id="idp1526584">càmhsachadh</headword>
+      <description>debating.</description>
+    </item>
+    <item>
+      <headword id="idp1528096">aicearsaich</headword>
+      <description>bickering.</description>
+    </item>
+    <item>
+      <headword id="idp1529608">draus</headword>
+      <description>sizzling.</description>
+    </item>
+    <item>
+      <headword id="idp1531120">dubhach</headword>
+      <description>(also) blackish.</description>
+    </item>
+    <item>
+      <headword id="idp1532848">dreip</headword>
+      <description>tape. [NOTES: the slip is among the “Doubtful” words.]</description>
+    </item>
+    <item>
+      <headword id="idp1534576">salainn-garbh</headword>
+      <description>coarse salt.</description>
+    </item>
+    <item>
+      <headword id="idp1536952">druganta</headword>
+      <description>draggingly [sic]. Is sibhse’ tha druganta. (addressing an old person) [SLIP: “Draggingly”. Used when addressing an old person.]</description>
+    </item>
+    <item>
+      <headword id="idp1538896">crausg</headword>
+      <description>person of bended knees, awkward.</description>
+    </item>
+    <item>
+      <headword id="idp1540624">smuil</headword>
+      <description>(also) huff.</description>
+    </item>
+    <item>
+      <headword id="idp1542136">groban</headword>
+      <description>the very point or the part signifying the very top. Ràinig e ’n fhior ghroban. (common) [SLIP: The very top.]</description>
+    </item>
+    <item>
+      <headword id="idp1544296">trèist</headword>
+      <description>mixed.</description>
+    </item>
+    <item>
+      <headword id="idp1545808">treis</headword>
+      <description>a while; greis.</description>
+    </item>
+    <item>
+      <headword id="idp1547536">spònaigeadh</headword>
+      <description>spawning (fish).</description>
+    </item>
+    <item>
+      <headword id="idp1549048">sporan(n)ach</headword>
+      <description>having pouches or purses. [NOTES: The slip has ‘sporannach’. Definition: Having pouches.]</description>
+    </item>
+    <item>
+      <headword id="idp1550776">sporan dallaig</headword>
+      <description>this fish species having pouches, through which spawning process comes into existence.</description>
+    </item>
+    <item>
+      <headword id="idp1552288">sgaultar</headword>
+      <description>jellyfish.</description>
+    </item>
+  </items>
+</fieldworkDocument>

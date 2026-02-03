@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 6 11 14 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="DRMorrison_ScalpayDRMorrison2misc5" docType="wordlist" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>[?]</date>
+  <fieldworker>[self]</fieldworker>
+  <note>[NOTES: the original title of the list is “Harris words”.]</note>
+  <informant>
+    <nameEnglish>Donald R. Morrison</nameEnglish>
+    <nameGaelic>D.R. Moireasdan </nameGaelic>
+    <age>[?]</age>
+  </informant>
+  <location>[Harris], Scalpaigh [Scalpay]</location>
+  <items>
+    <item>
+      <headword id="idp164250552">tralabhaid</headword>
+      <description>haberdashery.</description>
+    </item>
+    <item>
+      <headword id="idp164248320">eagadh</headword>
+      <description>notching, cutting a notch in wood. (Harris)</description>
+    </item>
+    <item>
+      <headword id="idp164245152">giuchag (pl. giuchagan)</headword>
+      <description>breasts of a junior female.</description>
+    </item>
+    <item>
+      <headword id="idp164242344">coidseach</headword>
+      <description>his fill, fill, his amount. Nach gabh e choidseach dhe. (Harris).</description>
+    </item>
+    <item>
+      <headword id="idp164192736">brùag</headword>
+      <description>small belly. (Harris)</description>
+    </item>
+    <item>
+      <headword id="idp164189640">bibli, bibli, boan (interj.)</headword>
+      <description>term used to draw, introduce, the attention of a baby by touching the entertainer’s lips, thence touching the baby with the fingers to revive him to humour.</description>
+    </item>
+    <item>
+      <headword id="idp164199936">garach</headword>
+      <description>more than enough in eating process. A’ garach air.</description>
+    </item>
+    <item>
+      <headword id="idp164203392">mearal</headword>
+      <description>Cho saillte ris a mhearal.</description>
+    </item>
+    <item>
+      <headword id="idp164157744">ioramaidh</headword>
+      <description>[?] worry.</description>
+    </item>
+    <item>
+      <headword id="idp164160120">capàll</headword>
+      <description>roudysm [sic].</description>
+    </item>
+    <item>
+      <headword id="idp164162136">slaopadh</headword>
+      <description>Slaopadh a fhrith-iasg – limpets being wringed in boiling water.</description>
+    </item>
+    <item>
+      <headword id="idp164163720">fiuchdan</headword>
+      <description>fastener for clothes.</description>
+    </item>
+    <item>
+      <headword id="idp164165016">clàr-meidhe</headword>
+      <description>Cinn [?] [Rinn?] e clàr meidhe [sic] dhe.</description>
+    </item>
+  </items>
+</fieldworkDocument>

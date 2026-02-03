@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 10/8/15 -->
+<!-- illustrations -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_CornaigmoreKMacDonaldslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>10/1970</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <informant>
+    <nameEnglish>Kenny MacDonald</nameEnglish>
+    <origin>Uig, Lewis</origin>
+  </informant>
+  <location>Tiree, Cornaigmore</location>
+  <items>
+    <item>
+      <headword id="idp161836856">rangais</headword>
+      <description>[rɑŋɡiʃ] Notes: the strap running the length of the boat on which the seats rest on each side.</description>
+    </item>
+    <item>
+      <headword id="idp161838584">reang</headword>
+      <description>Quotation: reangan stòbhaig [rɛ̃ɣəṉsṯɔ:viɡʹ]. Notes: ribs put between the “urlair”. Laid across the boat, steamed and stood on.</description>
+    </item>
+    <item>
+      <headword id="idp161840456">it-fhiach</headword>
+      <description>Notes: gullet.</description>
+    </item>
+    <item>
+      <headword id="idp161841968">tòc</headword>
+      <description>Quotation: a’ toirt an tòc bho bhó, bho chaora, na bho each. Notes: lump on the skin over the eye. Skin was lifted, needle put through this skin with double thread, held, and slivers were cut off the lump with a knife.</description>
+    </item>
+    <item>
+      <headword id="idp161843624">treaghanach</headword>
+      <description>[t̪ɾɤɣɑ̃ṉɔx] Notes: a cow which hasn’t calved for over three years.</description>
+    </item>
+    <item>
+      <headword id="idp161845424">ceannachradh</headword>
+      <description>[cɑ̃nɑxɾɑɣ] Notes: thwart brace.  [NOTES: slipped under ‘ceannachnadh’.]</description>
+    </item>
+    <item>
+      <headword id="idp161847296">fàladair</headword>
+      <description>[fɑ:ɫəd̪ɛð] Notes: grass that comes up later on in the year in a place which has been grazed in early summer.</description>
+    </item>
+    <item>
+      <headword id="idp161849024">feannadh-builg</headword>
+      <description>[fjɑ̃n̪əɣbu̟liɡʹ] Quotation: a’ deanamh feannadh-builg. Notes: a method of skinning a rabbit or even a sheep (?). A hole was made in the skin. The person doing the skinning would then blow through the hole forcing the skin to rise from the carcase.</description>
+    </item>
+    <item>
+      <headword id="idp161850896">fuar</headword>
+      <description>Quotation: a’ toirt a mach an dòrn fhuar. Notes: feat of strength tried when a cow was killed. One of the legs was caught near the hoof and twisted till it broke from the knee, then twisting was continued till the skin broke.</description>
+    </item>
+    <item>
+      <headword id="idp161852552">gamhnach</headword>
+      <description>Notes: a cow which hasn’t calved for over a year.</description>
+    </item>
+  </items>
+</fieldworkDocument>

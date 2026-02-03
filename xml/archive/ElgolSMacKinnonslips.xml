@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 29/9/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_ElgolSMacKinnonslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>07/1970</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <informant>
+    <nameEnglish>S. MacKinnon</nameEnglish>
+  </informant>
+  <location>Skye, Elgol</location>
+  <items>
+    <item>
+      <headword id="idp166265176">maide-froisidh</headword>
+    </item>
+    <item>
+      <headword id="idp166262512">nòs</headword>
+      <description>Quotation: a’ cur bàta dhan a’ nòs [n̪ɔ̃:s]. Notes: a sort of nest made for boats. Could be [ɔ̃:s].</description>
+    </item>
+    <item>
+      <headword id="idp166279792">sguab</headword>
+      <description>Quotation: sguab deireadh buanadh.</description>
+    </item>
+    <item>
+      <headword id="idp166281304">stac-fhuaim</headword>
+      <description>Notes: the body of a violin.</description>
+    </item>
+    <item>
+      <headword id="idp166282816">blas</headword>
+      <description>Quotation: Tha iad air blas a’ chnagain a ghabhail dheth. Notes: It went against them, revolted them through getting too much of it.</description>
+    </item>
+    <item>
+      <headword id="idp166284544">cabhanach</headword>
+      <description>[kɑvɑ̃ṉɑx] Notes: small brown trout.</description>
+    </item>
+    <item>
+      <headword id="idp166286272">clisneach</headword>
+      <description>Quotation: clisneach duine. Notes: “Duine ’s e a dol as a rathad air e fhéin.”</description>
+    </item>
+    <item>
+      <headword id="idp166288000">cnagan</headword>
+      <description>Quotation: Tha iad air blas a’ chnagain a ghabhail dheth. Notes: They’ve had enough of it.</description>
+    </item>
+    <item>
+      <headword id="idp166289728">donalaich</headword>
+      <description>[d̪oṉɑɫiç] Quotation: A’ bho a’ donalaich nuair a theid a’ laogh a thoirt air falbh uaipe. Notes: low, mourning sound.</description>
+    </item>
+    <item>
+      <headword id="idp166291600">eadar-da-lunn</headword>
+      <description>Notes: half submerged but floating.</description>
+    </item>
+    <item>
+      <headword id="idp166293112">glais-cheap</headword>
+      <description>Notes: on top of the wall to prevent water seeping in.</description>
+    </item>
+    <item>
+      <headword id="idp166294624">grocach</headword>
+      <description>[ɡɾɔxkɔx] Notes: heard a Staffin woman use it for thrifty; careful about money or possessions.</description>
+    </item>
+  </items>
+</fieldworkDocument>

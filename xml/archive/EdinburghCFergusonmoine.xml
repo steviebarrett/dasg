@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 23 4 13 -->
+<fieldworkDocument docId="Peat_EdinburghCFergusonmoine" docType="questionnaire" subType="Peat">
+  <title>Mòine / Peat-Working</title>
+  <fieldworker>[self]</fieldworker>
+  <informant>
+    <nameEnglish>Calum Ferguson</nameEnglish>
+    <age>37</age>
+    <origin>Leódhas, An Rudha [Lewis, Rudha]</origin>
+  </informant>
+  <location>Edinburgh</location>
+  <!-- ILLUSTRATIONS -->
+  <items>
+    <item><headword id="d0e28" type="heading" level="h1">1. Ag ullachadh na talmhainn airson mòine a bhuain</headword></item>
+    <item>
+      <headword id="d0e33">poll</headword>
+      <description>peat bank.</description>
+    </item>
+    <item>
+      <headword id="d0e42">grobhag</headword>
+      <description>a little wasting bank (often the cause of feuds since over a century perhaps the ‘grobhag’ has wandered into someone else’s staked territory).</description>
+    </item>
+    <item>
+      <headword id="d0e51">ath-bhlar</headword>
+      <description>second or third generation peat bank.
+        <illustration src="EdinburghCFergusonmoineillust1.jpg" width="400"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e62">eilean mònach</headword>
+      <description>
+        <illustration src="EdinburghCFergusonmoineillust1.jpg" width="400"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e73">an rùsgadh</headword>
+      <description>turfing (removing top layer of peat attached to sward).</description>
+    </item>
+    <item>
+      <headword id="d0e82">spaid rùsgaidh</headword>
+      <description>an ordinary garden spade sharpened and its blade shortened usually by usage. 
+        <illustration src="EdinburghCFergusonmoineillust2.jpg" width="100"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e93">a’ riachadh a’ phuill</headword>
+      <description>demarking the inner edge of the ‘ceap’.</description>
+    </item>
+    <item>
+      <headword id="d0e102">dileadh a’ phuill</headword>
+      <description>the bank drain. After the ‘ceap’ [q.v.] has been turned over along the whole length of the poll, the ‘ceap’ is transferred to the ‘dileadh’.
+        <illustration src="EdinburghCFergusonmoineillust3.jpg" width="200"/> 
+      </description>
+    </item>
+	<item>
+	  <headword id="d0e113">ceap</headword>
+	  <description>After the ‘ceap’ has been turned over along the whole length of the poll, the ‘ceap’ is transferred to the ‘dileadh [a’ phuill’] [q.v.].
+	    <illustration src="EdinburghCFergusonmoineillust4.jpg" width="400"/>
+	  </description>
+	</item>
+    <item>
+      <headword id="d0e124">a’ glanadh a’ phuill</headword>
+      <description>removing small ridges off the ‘carcaill’ [q.v.].</description>
+    </item>
+    <item>
+      <headword id="d0e133">a’ charcaill</headword>
+      <description>
+        <illustration src="EdinburghCFergusonmoineillust5.jpg" width="300"/>
+      </description>
+    </item>
+    <item><headword id="d0e143" type="heading" level="h1">2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</headword></item>
+    <item>
+      <headword id="d0e148">an taraisgeir</headword>
+      <description>
+        <illustration src="EdinburghCFergusonmoineillust6.jpg" width="400"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e159">an smeachan</headword>
+      <description>foot piece. [See taraisgeir.]</description>
+    </item>
+    <item>
+      <headword id="d0e168">an iarunn</headword>
+      <description>[See taraisgeir.]</description>
+    </item>
+    <item>
+      <headword id="d0e177">an sgian</headword>
+      <description>[See taraisgeir.]</description>
+    </item>
+    <item>
+      <headword id="d0e186">sgiobadh-buain-na-mònach</headword>
+      <description>the peat cutting team.</description>
+    </item>
+    <item>
+      <headword id="d0e195">am barr fhad ( barr’ad)</headword>
+      <description>[pron.] top ‘carcaill’ [q.v.]. 
+        
+      </description>
+    </item>
+    <item>
+      <headword id="d0e206">an caoran</headword>
+      <description>the last layer of peat, usually not the recognised depth of a ‘fàd’. 
+        <illustration src="EdinburghCFergusonmoineillust7.jpg" width="400"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e217">an corr-fhad ( corr’ad)</headword>
+      <description>[pron.] the outermost peat of a ‘carcaill’ [q.v.] cut thick (esp. in ‘mòine dhubh’ [q.v.] because it has already undergone a year of weathering and tends to crumble if cut thin). 
+        
+      </description>
+    </item>
+    <item>
+      <headword id="d0e228">riasg</headword>
+      <description>raw peat.</description>
+    </item>
+    <item>
+      <headword id="d0e237">mòine bhàn</headword>
+      <description>light, brown peat of the hilltops.</description>
+    </item>
+    <item>
+      <headword id="d0e246">mòine dhubh</headword>
+      <description>heavy, bluey-black peat of the marshlands.</description>
+    </item>
+    <item>
+      <headword id="d0e255">mòine chòsach</headword>
+      <description>a stringy type of peat which has bent many a ‘sgian’; ‘còsach’ was smoked by the bodach when he had the ‘carathas’ – the craving for tobacco: this out of ‘ine crùbaig’!</description>
+    </item>
+    <item>
+      <headword id="d0e264">blàr mònach</headword>
+      <description>peat moor.</description>
+    </item>
+    <item>
+      <headword id="d0e273">sliabh mònach</headword>
+      <description>peat moor. Air an t-shleibh-mhònach - out tending the peat.</description>
+    </item>
+    <item>
+      <headword id="d0e282">‘poll gearraibh-ás-e’</headword>
+      <description>the last bank to be cut.</description>
+    </item>
+    <item><headword id="d0e290" type="heading" level="h1">3. A’ tiormachadh na mònach</headword></item>
+    <item>
+      <headword id="d0e295">a’ rùmhadh (the ù is nasal)</headword>
+      <description>first lifting into five or six peats; structures in which twites and other varieties of birds nest.</description>
+    </item>
+    <item>
+      <headword id="d0e304">rùmhan</headword>
+      <description>
+        <illustration src="EdinburghCFergusonmoineillust8.jpg" width="200"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e315">ag ath rùmhadh</headword>
+      <description>building into bigger structure of about ten or a dozen peats.</description>
+    </item>
+    <item>
+      <headword id="d0e324">ath-rùmhan</headword>
+      <description>
+        <illustration src="EdinburghCFergusonmoineillust9.jpg" width="200"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e335">a’ torradh</headword>
+      <description>next stage, four foot high.</description>
+    </item>
+    <item>
+      <headword id="d0e344">tòrr</headword>
+      <description>
+        <illustration src="EdinburghCFergusonmoineillust10.jpg" width="200"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e355">ag ath-thorradh</headword>
+      <description>same height of structure; just turning peats so that they are completely baked.</description>
+    </item>
+    <item>
+      <headword id="d0e364">a’ cruachadh</headword>
+      <description>building into seven foot ‘beehive structures’; this will be brought home at the woman’s leisure during good days in Autumn, Winter and Spring; few do this nowadays. Their work on the ‘sliabh’ halts at ‘tòrr’ [q.v.] at which stage the tractor is called into action.
+        <illustration src="EdinburghCFergusonmoineillust11.jpg" width="200"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e375">a’ tughadh</headword>
+      <description>Bhiodh mòine dhubh a bhithear a fàgail air a’ pholl (airson eallaich cleibhe aig toiseach Earraich) g’a tughadh le cip; ainneamh a tha sin a tachairt an diugh.</description>
+    </item>
+    <item>
+      <headword id="d0e384">smùir</headword>
+      <description>dross. 
+        <illustration src="EdinburghCFergusonmoineillust12.jpg" width="200"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e395">criomag mònach</headword>
+      <description>
+        <illustration src="EdinburghCFergusonmoineillust13.jpg" width="200"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e406">caoran</headword>
+      <description>a piece of ‘fàd’ [q.v.]. 
+        <illustration src="EdinburghCFergusonmoineillust14.jpg" width="200"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e417">fàd</headword>
+      <description>the peat as cut by the ‘taraisgeir’ [q.v.]. 
+        <illustration src="EdinburghCFergusonmoineillust15.jpg" width="200"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e428">asgairt</headword>
+      <description>rubble left after main mass of peat has been carted away. This word is also used to describe inferior seed potato.</description>
+    </item>
+    <item><headword id="d0e436" type="heading" level="h1">4. A’ cruachadh na mònach</headword></item>
+    <item>
+      <headword id="d0e441">glutadh na cruaich</headword>
+      <description>the amorphous mass within. 
+        <illustration src="EdinburghCFergusonmoineillust16.jpg" width="300"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e452">iomall na cruaiche</headword>
+      <description>the perimeter where the ‘stéidheadh’ [q.v.] is to be done. 
+        <illustration src="EdinburghCFergusonmoineillust16.jpg" width="300"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e463">glutadh</headword>
+      <description>
+        <illustration src="EdinburghCFergusonmoineillust17.jpg" width="300"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e474">an stéidheach</headword>
+      <description>the exterior wall. 
+        <illustration src="EdinburghCFergusonmoineillust17.jpg" width="300"/>
+      </description>
+    </item>
+	<item>
+	  <headword id="idola197">[note]</headword>
+	  <description>(This incidentally is in our district the final operation, at the crofter’s house.)</description>
+	</item>
+    <item><headword id="d0e493" type="heading" level="h1">5. A’ toirt na mònach dhachaigh; an cliabh, etc.</headword></item>
+    <item>
+      <headword id="d0e498">‘an eallach’</headword>
+      <description>‘Fo’n an eallach’ Taking home the peats with creel or (in the case of male) sacks.
+	    <illustration src="EdinburghCFergusonmoineillust18.jpg" width="300"/>
+		<illustration src="EdinburghCFergusonmoineillust19.jpg" width="200"/>
+	  </description>
+    </item>
+    <item>
+      <headword id="d0e511">na briagan</headword>
+      <description>
+        <illustration src="EdinburghCFergusonmoineillust18.jpg" width="400"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e522">an ithris ( ee-reesh)</headword>
+      <description>[pron.] 
+        
+      </description>
+    </item>
+    <item>
+      <headword id="d0e533">an dronag</headword>
+      <description>
+        <illustration src="EdinburghCFergusonmoineillust18.jpg" width="400"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e544">osanan</headword>
+      <description>Not used in our area since about 1944. Had dual function (a) to keep skin fair (only men should be tanned!) and (b) to save the calves from the rough brush heather lying across parts of the ‘frith rathad’. ‘Osan’ (from ‘hose’?) was specially knitted, or formed by cutting foot part from woollen stocking.
+        <illustration src="EdinburghCFergusonmoineillust18.jpg" width="400"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e555">casan luirmeachd</headword>
+      <description>
+        <illustration src="EdinburghCFergusonmoineillust18.jpg" width="400"/>
+      </description>
+    </item>
+    <item><headword id="d0e565" type="heading" level="h1">6. Seòrsachan mònach</headword></item>
+    <item><headword id="d0e569" type="heading" level="h1">7. Faclan eile</headword></item>
+    <item>
+      <headword id="d0e574">sorachan mònach</headword>
+      <description>a stack of peats for sitting upon. 
+        <illustration src="EdinburghCFergusonmoineillust20.jpg" width="100"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e585">craos teine</headword>
+      <description>white hot fire (as with ‘mòine dhubh’ [q.v.]).</description>
+    </item>
+    <item>
+      <headword id="d0e594">an tasgadh</headword>
+      <description>banking fire overnight; using ash to cover peats so as to slow down burning.</description>
+    </item>
+    <item>
+      <headword id="d0e603">foiteag foiteag!</headword>
+      <description>exclamation to indicate cold.</description>
+    </item>
+    <item>
+      <headword id="d0e612">iteag-iteag!</headword>
+      <description>exclamation to indicate heat (e.g. fingers in hot water, on embers, etc.)</description>
+    </item>
+    <item>
+      <headword id="d0e621">ultach mònach</headword>
+      <description>as much of a load as arms can carry. 
+        <illustration src="EdinburghCFergusonmoineillust21.jpg" width="200"/>
+      </description>
+    </item>
+  </items>
+</fieldworkDocument>

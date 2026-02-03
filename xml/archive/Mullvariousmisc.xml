@@ -1,0 +1,1147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 1/4/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Word-lists_Mullvariousmisc" docType="wordlist" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <fieldworker>[D. MacQuarrie?]</fieldworker>
+  <note>[NOTES: a notebook with seven word-lists. These are clearly the informant’s personal notes and are therefore rather difficult to decipher in places. Gaelic terms are noted down next to numbers, which most probably refer to a list of English equivalents or, which seems even more likely, to illustrations which were used to prompt the informants. In fact, in the case of fish the source used by the informant seems to have been Gwynne Vevers’ Fishes In Colour (London, 1963), copy of which is found in the Departmental Library; some of the illustrations in the book have been ticked and others have Gaelic names written next to them, which suggests that this may have been the very copy used by the fieldworker. In the case of seashore, the book used as the source of illustrations seems to have been Collins Pocket Guide to the Sea Shore (London, 1967), which is also found in the MacLean Room and which also contains some ticks and notes. Unfortunately, the source of illustrations for the word-lists of birds and wild flowers has not been found.]</note>
+  <note>[NOTES: except for Betsy Fraser, all informants appear in D. MacQuarrie’s list of informants in the card index of informants. John Cameron, Tobermory, Mull, birds – 2pp.; Betsy Fraser, Tobermory, Mull, wild flowers – 3 pp.; Lachlan MacLean and Mrs MacLean, Torloisk, Mull, wild flowers – 4pp.; Alasdair MacDonald, Tobermory, Mull, birds and fish – 3pp.; John Robertson, Tobermory, Mull, fish and birds – 3pp.; Mrs Sarah Munro, Gruline, Mull, wild flowers – 2pp.; John Robertson, Tobermory, Mull, seashore – 2pp.]</note>
+  <informant>
+    <nameEnglish>various – see below</nameEnglish>
+  </informant>
+  <location>Mull [see below for details]</location>
+  <items>
+    <item>
+	  <headword id="idola691" type="heading" level="h1">Birds – John Cameron, Tobermory, Mull</headword>
+	</item>
+	<item>
+	  <headword id="idola692">fitheach</headword>
+	</item>
+	<item>
+	  <headword id="idola693">feannag</headword>
+	</item>
+	<item>
+	  <headword id="idola694">cathag</headword>
+	</item>
+	<item>
+	  <headword id="idola695">ròcais</headword>
+	</item>
+	<item>
+	  <headword id="idola696">breac an t-sìl</headword>
+	</item>
+	<item>
+	  <headword id="idola697">uiseag choille</headword>
+	</item>
+	<item>
+	  <headword id="idola698">uiseag</headword>
+	</item>
+	<item>
+	  <headword id="idola699">smeorach</headword>
+	</item>
+	<item>
+	  <headword id="idola700">lon dubh</headword>
+	</item>
+	<item>
+	  <headword id="idola701">clacharan</headword>
+	</item>
+	<item>
+	  <headword id="idola702">ròbin</headword>
+	<description>[rob̥iṉ] </description></item>
+	<item>
+	  <headword id="idola703">[drijɑnd̥onn]</headword>
+	</item>
+	<item>
+	  <headword id="idola704">[ɡɔɫəxɑnɡɤ̈ʔə]</headword>
+	</item>
+	<item>
+	  <headword id="idola705">[kuʔɑ̟ɡ̊]</headword>
+	</item>
+	<item>
+	  <headword id="idola706">[cɔ̃ʔəxɑ̟ɡ̊]</headword>
+	</item>
+	<item>
+	  <headword id="idola707">[klɑ̟vɑ̟n̪] (?)</headword>
+	</item>
+	<item>
+	  <headword id="idola708">[iəɫe̜rə]</headword>
+	</item>
+	<item>
+	  <headword id="idola709">[kɔrəɣriʔəx],</headword>
+	<description>[kɔrəxrɑ̟n] </description></item>
+	<item>
+	  <headword id="idola710">eala</headword>
+	</item>
+	<item>
+	  <headword id="idola711">[ɡ̊eɔwj]</headword>
+	</item>
+	<item>
+	  <headword id="idola712">[tun̪ɑ̟ɡɑn fiəwiç, mɑ̟rə]</headword>
+	</item>
+	<item>
+	  <headword id="idola713">[sɡɑ̟rv]</headword>
+	</item>
+	<item>
+	  <headword id="idola714">[iɑn duəsɡɑ̟d̥ɑinʹ]</headword>
+	</item>
+	<item>
+	  <headword id="idola715">calaman</headword>
+	<description>[eɤlə] [?] </description></item>
+	<item>
+	  <headword id="idola716">calamain</headword>
+	</item>
+	<item>
+	  <headword id="idola717">[ɡiləbərnəx]</headword>
+	</item>
+	<item>
+	  <headword id="idola718">[kɤləx kɤlə]</headword>
+	</item>
+	<item>
+	  <headword id="idola719">[ɡoʔər ɑʔɑr]</headword>
+	</item>
+	<item>
+	  <headword id="idola720">[ən eɑd̥ɑɡ̊]</headword>
+	  <description>golden plover.</description>
+	</item>
+	<item>
+	  <headword id="idola721">[əntɤ:rkɑ̟n]</headword>
+	</item>
+	<item>
+	  <headword id="idola722">[ɡiləbridʹə]</headword>
+	</item>
+	<item>
+	  <headword id="idola723">[ɸɤlʹɑ̟ɡ̊]</headword>
+	</item>
+	<item>
+	  <headword id="idola724">[sklimləx]</headword>
+	<description>[?] </description></item>
+	<item>
+	  <headword id="idola725">trian ri trian</headword>
+	</item>
+	<item>
+	  <headword id="idola726">[kɛrk rɤ:ç]</headword>
+	</item>
+	<item>
+	  <headword id="idola727">[tɑrəmɑxɑn]</headword>
+	</item>
+	<item>
+	  <headword id="idola728">[ɸɛ:sɑnt]</headword>
+	</item>
+	<item>
+	  <headword id="idola729">[kɤləx d̥u]</headword>
+	  <description>black cock.</description>
+	</item>
+	<item>
+	  <headword id="idola562" type="heading" level="h1">Wild Flowers – Betsy Fraser, Tobermory, Mull</headword>
+    </item>
+    <item>
+	  <headword id="idola563">bramasag</headword>
+	  <description>bur reed.</description>
+	</item>
+	<item>
+	  <headword id="idola564">crebh</headword>
+	  <description>[cre̜f] field garlic.</description>
+	</item>
+	<item>
+	  <headword id="idola565">fearan</headword>
+	  <description>chives.</description>
+	</item>
+	<item>
+	  <headword id="idola566">siolastar buidhe</headword>
+	  <description>flag iris.</description>
+	</item>
+	<item>
+	  <headword id="idola567">luachar</headword>
+	</item>
+	<item>
+	  <headword id="idola568">feur</headword>
+	</item>
+	<item>
+	  <headword id="idola569">sobhraidh  balach breac</headword>
+	  <description>[ʃo:rej] wild spotted orchid.</description>
+	</item>
+	<item>
+	  <headword id="idola570">seileach</headword>
+	</item>
+	<item>
+	  <headword id="idola571">roid</headword>
+	</item>
+	<item>
+	  <headword id="idola572">beithe</headword>
+	</item>
+	<item>
+	  <headword id="idola573">calltuinn</headword>
+	</item>
+	<item>
+	  <headword id="idola574">darach</headword>
+	</item>
+	<item>
+	  <headword id="idola575">deanndag</headword>
+	<description>[dʹɛən̪d̥ɑ̟ɡ̊] </description></item>
+	<item>
+	  <headword id="idola576">copagach</headword>
+	</item>
+	<item>
+	  <headword id="idola577">sùrrag also suc sùnrag</headword>
+	</item>
+	<item>
+	  <headword id="idola578">flidh</headword>
+	  <description>[flʹiɣ] chickweed.</description>
+	</item>
+	<item>
+	  <headword id="idola793">[?]ag</headword>
+	  <description>waterlily.</description>
+	</item>
+	<item>
+	  <headword id="idola792">buttercups always</headword>
+	</item>
+	<item>
+	  <headword id="idola579">didhearan buidhe</headword>
+	  <description>wild marigolds.</description>
+	</item>
+	<item>
+	  <headword id="idola794">poppy always in</headword>
+	<description>[?] </description></item>
+	<item>
+	  <headword id="idola580">dearca(n) dubh</headword>
+	</item>
+	<item>
+	  <headword id="idola581">dearca(n) dearg</headword>
+	</item>
+	<item>
+	  <headword id="idola582">sgeachagan</headword>
+	  <description>hawthorn hips.</description>
+	</item>
+	<item>
+	  <headword id="idola583">caoran or craobh chaoran</headword>
+	</item>
+	<item>
+	  <headword id="idola584">ròs feathaich , gucagan</headword>
+	<description>[fiəwiç] </description></item>
+	<item>
+	  <headword id="idola585">sùgh-craobh</headword>
+	</item>
+	<item>
+	  <headword id="idola586">smearan</headword>
+	<description>[smiɑrən] </description></item>
+	<item>
+	  <headword id="idola587">tribhileach</headword>
+	<description>[tri:viləx] </description></item>
+	<item>
+	  <headword id="idola588">clover</headword>
+	<description>[klɔ:vẹr] </description></item>
+	<item>
+	  <headword id="idola589">pleandaran</headword>
+	<description>[plɛnd̥ərən] </description></item>
+	<item>
+	  <headword id="idola590">luith  Chalum Chille</headword>
+	<description>[luiç] </description></item>
+	<item>
+	  <headword id="idola591">eadhlain</headword>
+	<description>[iɑɫẹnʹ] </description></item>
+	<item>
+	  <headword id="idola592">giuran</headword>
+	  <description>[ɡʹiu:rɑn] hemlock? cow parsley?</description>
+	</item>
+	<item>
+	  <headword id="idola593">fraoch</headword>
+	</item>
+	<item>
+	  <headword id="idola594">dearcan tomain</headword>
+	  <description>black bearberry.</description>
+	</item>
+	<item>
+	  <headword id="idola595">sobhrag(an)</headword>
+	<description>[ʃo:rɑ̟ɡ̊] </description></item>
+	<item>
+	  <headword id="idola596">miaran / ciochan na cailleachan marbh</headword>
+	<description>[ki:əxən nɑ ɡ̊ɑ̟ləxə mɑ̟rv] </description></item>
+	<item>
+	  <headword id="idola597">saighdearan</headword>
+	</item>
+	<item>
+	  <headword id="idola598">gille guramain</headword>
+	  <description>mun a[?] gille guramain no buala mi dorn ort.</description>
+	</item>
+	<item>
+	  <headword id="idola599">dìdheanan</headword>
+	  <description>daisy.</description>
+	</item>
+	<item>
+	  <headword id="idola600">fundan</headword>
+	<description>[fɤwndɑn] </description></item>
+	<item>
+	  <headword id="idola601">bodach dubh</headword>
+	  <description>knapweed.</description>
+	</item>
+	<item>
+	  <headword id="idola602" type="heading" level="h1">Wild Flowers – Lachlan MacLean and Mrs MacLean, Torloisk, Mull</headword>
+    </item>
+	<item>
+	  <headword id="idola603">bramasagan</headword>
+	</item>
+	<item>
+	  <headword id="idola603">fearan</headword>
+	  <description>chives.</description>
+	</item>
+    <item>
+	  <headword id="idola604">sileastar</headword>
+	</item>
+	<item>
+	  <headword id="idola605">luachair</headword>
+	</item>
+	<item>
+	  <headword id="idola606">feur</headword>
+	</item>
+	<item>
+	  <headword id="idola607">caineachan</headword>
+	<description>[kenẹçẹn] [kɔinʹẹçe̜nʹ] </description></item>
+	<item>
+	  <headword id="idola608">sobhraidh ballach breac</headword>
+	  <description>butterfly orchis.</description>
+	</item>
+	<item>
+	  <headword id="idola609">seileach, seileach Frangach</headword>
+	</item>
+	<item>
+	  <headword id="idola610">roid</headword>
+	</item>
+	<item>
+	  <headword id="idola795">[ʃeorɑɡən]</headword>
+	</item>
+	<item>
+	  <headword id="idola611">miundain</headword>
+	  <description>mint.</description>
+	</item>
+	<item>
+	  <headword id="idola612">currachd na cuthaig</headword>
+	  <description>violets [sic].</description>
+	</item>
+	<item>
+	  <headword id="idola613">beithe</headword>
+	</item>
+	<item>
+	  <headword id="idola614">calltuinn</headword>
+	</item>
+	<item>
+	  <headword id="idola615">darach</headword>
+	</item>
+	<item>
+	  <headword id="idola616">deannag</headword>
+	</item>
+	<item>
+	  <headword id="idola617">sealabhag</headword>
+	</item>
+	<item>
+	  <headword id="idola618">càl Phàraig</headword>
+	  <description>duileag air aran airson lionachadh [?].</description>
+	</item>
+	<item>
+	  <headword id="idola619">gonair (or )</headword>
+	<description>[ɡɔnʹẹrʹ] </description></item>
+	<item>
+	  <headword id="idola620">fliodh</headword>
+	</item>
+	<item>
+	  <headword id="idola621">flùir an t-sagairt</headword>
+	  <description>Northern monkshood.</description>
+	</item>
+	<item>
+	  <headword id="idola622">dearca dubha</headword>
+	</item>
+	<item>
+	  <headword id="idola623">dearca dearg</headword>
+	</item>
+	<item>
+	  <headword id="idola624">dreathan</headword>
+	<description>[driʔən̪], Mull [drɛʔən̪], seachagan [?] </description></item>
+	<item>
+	  <headword id="idola625">didhean</headword>
+	  <description>daisy.</description>
+	</item>
+	<item>
+	  <headword id="idola626">biolairich</headword>
+	  <description>watercress.</description>
+	</item>
+	<item>
+	  <headword id="idola627">càl riobach</headword>
+	  <description>greens.</description>
+	</item>
+	<item>
+	  <headword id="idola628">[fiodh]</headword>
+	  <description>Machu mach [?] ’s a n fiodh air a charn chollach.</description>
+	</item>
+	<item>
+	  <headword id="idola629">[duine]</headword>
+	  <description>Bheil duine ann an tigh [?] a bhruidh.</description>
+	</item>
+	<item>
+	  <headword id="idola630">[buain]</headword>
+	  <description>An t aon a chuireas ’s a Mhàrt ’s t foghar bidh buain aige.</description>
+	</item>
+	<item>
+	  <headword id="idola631">dreathan dubh</headword>
+	  <description>sloes growing on it. Blackthorn.</description>
+	</item>
+	<item>
+	  <headword id="idola632">fairneagan</headword>
+	  <description>sloes.</description>
+	</item>
+	<item>
+	  <headword id="idola633">gucagan, ròs fiathaich</headword>
+	</item>
+	<item>
+	  <headword id="idola634">clòvair</headword>
+	</item>
+	<item>
+	  <headword id="idola635">peasair nan luch, peasair fheathaich</headword>
+	</item>
+	<item>
+	  <headword id="idola636">currachd na cuthaig</headword>
+	</item>
+	<item>
+	  <headword id="idola637">aiteanach , eadhlain</headword>
+	<description>[etʹən̪əx] </description></item>
+	<item>
+	  <headword id="idola638">soragan</headword>
+	</item>
+	<item>
+	  <headword id="idola639">[ũʃən̪]</headword>
+	</item>
+	<item>
+	  <headword id="idola640">deandagan</headword>
+	</item>
+	<item>
+	  <headword id="idola641">miundain</headword>
+	</item>
+	<item>
+	  <headword id="idola642">cioch nan cailleach marbh</headword>
+	</item>
+	<item>
+	  <headword id="idola643">saighdearan</headword>
+	</item>
+	<item>
+	  <headword id="idola644">dribhleach</headword>
+	  <description>[?] duileag dorn [?] air bharr an uisge.</description>
+	</item>
+	<item>
+	  <headword id="idola645">sùibheagan</headword>
+	  <description>rasps [raspberries?].</description>
+	</item>
+	<item>
+	  <headword id="idola646">braonan</headword>
+	  <description>lady [?] nuts.</description>
+	</item>
+	<item>
+	  <headword id="idola647">creabh</headword>
+	  <description>[kre̜f] garlic.</description>
+	</item>
+	<item>
+      <headword id="idola648">dromanach</headword>
+	</item>
+	<item>
+	  <headword id="idola649">caoran</headword>
+	</item>
+	<item>
+	  <headword id="idola650">gille guramain</headword>
+	</item>
+	<item>
+	  <headword id="idola651">didhean</headword>
+	</item>
+	<item>
+	  <headword id="idola652">tansag</headword>
+	  <description>tansy.</description>
+	</item>
+	<item>
+	  <headword id="idola653">bualtan buidhe</headword>
+	  <description>ragwood.</description>
+	</item>
+	<item>
+	  <headword id="idola654">foundain</headword>
+	  <description>thistles.</description>
+	</item>
+	<item>
+	  <headword id="idola655">bodach dubh</headword>
+	</item>
+	<item>
+	  <headword id="idola656">silistear</headword>
+	  <description>iris.</description>
+	</item>
+	<item>
+	  <headword id="idola657" type="heading" level="h1">Birds – Alasdair MacDonald, Tobermory, Mull</headword>
+    </item>
+	<item>
+	  <headword id="idola658">feannag</headword>
+	</item>
+	<item>
+	  <headword id="idola659">ròcais</headword>
+	</item>
+	<item>
+	  <headword id="idola660">druid</headword>
+	</item>
+	<item>
+	  <headword id="idola661">an uiseag</headword>
+	</item>
+	<item>
+	  <headword id="idola662">smeòrach</headword>
+	</item>
+	<item>
+	  <headword id="idola663">lon dubh</headword>
+	</item>
+	<item>
+	  <headword id="idola664">an clachair</headword>
+	</item>
+	<item>
+	  <headword id="idola665">an ròbin, bru dearg</headword>
+	</item>
+	<item>
+	  <headword id="idola666">reabhag</headword>
+	  <description>hedge sparrow.</description>
+	</item>
+	<item>
+	  <headword id="idola667">dreabhlan</headword>
+	<description>[drewlɑn] </description></item>
+	<item>
+	  <headword id="idola668">gealan gaobh</headword>
+	</item>
+	<item>
+	  <headword id="idola669">cùthag</headword>
+	</item>
+	<item>
+	  <headword id="idola670">cailleach oidhche</headword>
+	</item>
+	<item>
+	  <headword id="idola671">spiorag</headword>
+	  <description>a hawk (spearag).</description>
+	</item>
+	<item>
+	  <headword id="idola672">an iolaire</headword>
+	</item>
+	<item>
+	  <headword id="idola673">corra chran, corra ghritheach</headword>
+	</item>
+	<item>
+	  <headword id="idola674">an eala</headword>
+	</item>
+	<item>
+	  <headword id="idola675">geo(dh)</headword>
+	<description>[?] </description></item>
+	<item>
+	  <headword id="idola676">tunnaga(n) fiathach</headword>
+	</item>
+	<item>
+	  <headword id="idola677">an t-asan</headword>
+	  <description>also tasan.</description>
+	</item>
+	<item>
+	  <headword id="idola678">sgarbh</headword>
+	</item>
+	<item>
+	  <headword id="idola679">calaman</headword>
+	</item>
+	<item>
+	  <headword id="idola680">geach gileaberneach</headword>
+	<description>[?] </description></item>
+	<item>
+	  <headword id="idola681">coileach coille</headword>
+	</item>
+	<item>
+	  <headword id="idola682">gobhar adhar</headword>
+	</item>
+	<item>
+	  <headword id="idola683">an fheadag</headword>
+	</item>
+	<item>
+	  <headword id="idola684">adharcan</headword>
+	</item>
+	<item>
+	  <headword id="idola685">gille brìd crotag</headword>
+	</item>
+	<item>
+	  <headword id="idola686">trian ri trian</headword>
+	</item>
+	<item>
+	  <headword id="idola687">cearc uisge</headword>
+	  <description>water hen.</description>
+	</item>
+	<item>
+	  <headword id="idola688">cearc fraoch</headword>
+	</item>
+	<item>
+	  <headword id="idola689">phèasant</headword>
+	</item>
+	<item>
+	  <headword id="idola556" type="heading" level="h1">Fish – Alasdair MacDonald, Tobermory, Mull</headword>
+    </item>
+	<item>
+	  <headword id="idola557">[note]</headword>
+	  <description>[NOTES: numbers refer to illustrations in Gwynne Vevers’ Fishes In Colour (London, 1963). The definitions have been copied in square brackets.]</description>
+	</item>
+    <item>
+      <headword id="idp46176368">bearach</headword>
+      <description>7, 8, 9 [Lesser Spotted Dogfish; Smooth Hound; Tope].</description>
+    </item>
+    <item>
+      <headword id="idp46174424">sgàt</headword>
+      <description>13, 14, 15, 16 Ray [Starry Ray; Thornback Ray; Common Skate; Shagreen Ray].</description>
+    </item>
+    <item>
+      <headword id="idp46170680">mac làmhaich or mac slamhaich also carachanich</headword>
+      <description>[?] 19 [Monkfish].</description>
+    </item>
+    <item>
+      <headword id="idp46170536">sgadan</headword>
+      <description>24 [Herring].</description>
+    </item>
+    <item>
+      <headword id="idp46167728">bradan</headword>
+      <description>28 [Salmon].</description>
+    </item>
+    <item>
+      <headword id="idp46166648">iasg geal</headword>
+      <description>29 [Sea Trout].</description>
+    </item>
+    <item>
+      <headword id="idp46164128">easgan</headword>
+      <description>66f [Common eel (f) Silver eel].</description>
+    </item>
+    <item>
+      <headword id="idp46162832">trosg</headword>
+      <description>76 [Cod].</description>
+    </item>
+    <item>
+      <headword id="idp46159952">adag</headword>
+      <description>78 [Haddock].</description>
+    </item>
+    <item>
+      <headword id="idp46158872">lithe, liùth</headword>
+      <description>[?] 82 [Pollack].</description>
+    </item>
+    <item>
+      <headword id="idp46156352">runnach eich</headword>
+      <description>104 [Scad or Horse Mackerel].</description>
+    </item>
+    <item>
+      <headword id="idp46155128">runnach</headword>
+      <description>121 [Mackerel].</description>
+    </item>
+    <item>
+      <headword id="idp46152464">cnòtan</headword>
+      <description>145, 146, 147 [Red Gurnard; Yellow Gurnard or Tubfish; Grey Gurnard].</description>
+    </item>
+    <item>
+      <headword id="idp46149296">liabag</headword>
+      <description>171 [Plaice].</description>
+    </item>
+    <item>
+      <headword id="idp46149152">carabhanach</headword>
+      <description>silver haddock.</description>
+    </item>
+    <item>
+      <headword id="idp46146776">cnòtan</headword>
+      <description>gurnet.</description>
+    </item>
+    <item>
+      <headword id="idp4267208">lãnga</headword>
+      <description>ling.</description>
+    </item>
+    <item>
+      <headword id="idp4269152">liabag</headword>
+      <description>flounder.</description>
+    </item>
+    <item>
+      <headword id="idp4271096">rionach</headword>
+      <description>[?] saithe.</description>
+    </item>
+    <item>
+      <headword id="idp4273040">giomach giuil</headword>
+      <description>crayfish.</description>
+    </item>
+    <item>
+      <headword id="idp4274984">cudainn</headword>
+    </item>
+    <item>
+      <headword id="idp4276928">piocach</headword>
+    </item>
+    <item>
+	  <headword id="idola558" type="heading" level="h1">Fish – John Robertson, Tobermory, Mull</headword>
+	</item>
+	<item>
+      <headword id="idola559">[note]</headword>
+	  <description>[NOTES: numbers refer to illustrations in Gwynne Vevers’ Fishes In Colour (London, 1963). The definitions have been copied in square brackets.]</description>
+	</item>
+    <item>
+      <headword id="idp4283768">burga ghlas ( h  bh, gh)</headword>
+      <description>[?] 9 [Tope].</description>
+    </item>
+    <item>
+      <headword id="idm112225456">cearaban</headword>
+      <description>6 [Basking Shark].</description>
+    </item>
+    <item>
+      <headword id="idm112245688">dallag</headword>
+      <description>7, 10 [Lesser Spotted Dogfish; Spinax].</description>
+    </item>
+    <item>
+      <headword id="idp46302568">bearach (a’ bh)</headword>
+      <description>11 [Spur Dog].</description>
+    </item>
+    <item>
+      <headword id="idp46304512">sgàt</headword>
+      <description>13, 15 ,17 [Starry Ray; Common Skate; Long-nosed Skate].</description>
+    </item>
+    <item>
+      <headword id="idp46306456">sòrnan</headword>
+      <description>[sɔ:n̪a̟n] 14 [Thornback Ray].</description>
+    </item>
+    <item>
+      <headword id="idp46308832">mac slamhaich</headword>
+      <description>19 [Monkfish].</description>
+    </item>
+    <item>
+      <headword id="idp46310776">sgadan</headword>
+      <description>24 [Herring].</description>
+    </item>
+    <item>
+      <headword id="idp46312720">sìol, cabhag sìl</headword>
+      <description>[kafa̟ɡʃi:lʹ] 26 [Anchovy].</description>
+    </item>
+    <item>
+      <headword id="idp46315096">bradan</headword>
+      <description>28 [Salmon] breac (iasg geal; descending to sea) &gt; guilse (at [?] sea and growing) &gt; bradan.</description>
+    </item>
+    <item>
+      <headword id="idp46317184">easgan dubh, easgann gheall</headword>
+      <description>66 [Common Eel] Ceann na natharach air an easgann is ceann an eisginn air an nathair.</description>
+    </item>
+    <item>
+      <headword id="idp46319272">ploidhag(an)</headword>
+      <description>66b [Elver].</description>
+    </item>
+    <item>
+      <headword id="idp46321216">clòidheag</headword>
+    </item>
+    <item>
+      <headword id="idp46323160">trosg also bodach</headword>
+      <description>76 [Cod].</description>
+    </item>
+    <item>
+      <headword id="idp46325104">cùidhteag(an)</headword>
+      <description>[kuijɑ̟ɡ̊] 77 [Whiting].</description>
+    </item>
+    <item>
+      <headword id="idp46327048">an adag</headword>
+      <description>78 [Haddock].</description>
+    </item>
+    <item>
+      <headword id="idp46328992">murair</headword>
+      <description>[mɔrərʹ] / [murərʹ] 101 [Perch].</description>
+    </item>
+    <item>
+      <headword id="idp46332160">liuthag(an)</headword>
+      <description>82 [Pollack].</description>
+    </item>
+    <item>
+      <headword id="idp46334104">piocach, saoidhean, saoidhean mor = Sherlock</headword>
+      <description>[?? sillock?] 83 [Saithe or Coalfish] cuideann &gt; broineag (brìdeagan [?]) &gt; piocach &gt; saoidhean (ceiteanach [?]) &gt; s mòr (ucsa).</description>
+    </item>
+    <item>
+      <headword id="idp313512">langa, langaichean</headword>
+      <description>88 [Trade Ling].</description>
+    </item>
+    <item>
+      <headword id="idp315456">langa an ruic</headword>
+      <description>93, 94, 95 [Five-bearded Rockling; Four-Bearded Rockling; Three-bearded Rockling].</description>
+    </item>
+    <item>
+      <headword id="idp317400">runnach eich, r. dubh, r. ciuil, an cnàimh r.</headword>
+      <description>104 [Scad or Horse Mackerel].</description>
+    </item>
+    <item>
+      <headword id="idp319344">morair</headword>
+      <description>108 [Rock Cook].</description>
+    </item>
+    <item>
+      <headword id="idp321288">creagag</headword>
+      <description>112 [Ballan Wrasse].</description>
+    </item>
+    <item>
+      <headword id="idp323232">sìolagan</headword>
+      <description>sand eels. Shore [?] went lo [? looking?] for them. 113 [Greater Sand-eel].</description>
+    </item>
+    <item>
+      <headword id="idp325464">runnach</headword>
+      <description>121 [Mackerel].</description>
+    </item>
+    <item>
+      <headword id="idp327408">cnòtan</headword>
+      <description>146, 147 [Yellow Gurnard or Tubfish; Grey Gurnard].</description>
+    </item>
+    <item>
+      <headword id="idp329352">bacach ceann</headword>
+      <description>160 [Turbot].</description>
+    </item>
+    <item>
+      <headword id="idp331296">bradan leathann</headword>
+      <description>166 [Halibut].</description>
+    </item>
+    <item>
+      <headword id="idp333240">liabag</headword>
+      <description>170, 171 [Flounder; Plaice].</description>
+    </item>
+	<item>
+	  <headword id="idola690" type="heading" level="h1">Birds – John Robertson, Tobermory, Mull</headword>
+	</item>
+	<item>
+	  <headword id="idola730">ròcais</headword>
+	  <description>common crow.</description>
+	</item>
+	<item>
+	  <headword id="idola731">deasgainn</headword>
+	</item>
+	<item>
+	  <headword id="idola732">uiseag</headword>
+	</item>
+	<item>
+	  <headword id="idola733">smeorach</headword>
+	</item>
+	<item>
+	  <headword id="idola734">lòn dubh</headword>
+	</item>
+	<item>
+	  <headword id="idola735">clacharan</headword>
+	</item>
+	<item>
+	  <headword id="idola736">brù dearg</headword>
+	</item>
+	<item>
+	  <headword id="idola737">dreolann</headword>
+	  <description>[drewɫɑṇ] tir na dreolainn, gleann a’ mhurain.</description>
+	</item>
+	<item>
+	  <headword id="idola738">gobhlan or gealan gaoith</headword>
+	</item>
+	<item>
+	  <headword id="idola739">a’ chomhachag, comhachag na sabhuil also conachag</headword>
+	</item>
+	<item>
+	  <headword id="idola740">cailleach oidhche</headword>
+	</item>
+	<item>
+	  <headword id="idola741">corra ghritheach</headword>
+	</item>
+	<item>
+	  <headword id="idola742">an eala</headword>
+	</item>
+	<item>
+	  <headword id="idola743">geoidh</headword>
+	</item>
+	<item>
+	  <headword id="idola744">an t-asan</headword>
+	</item>
+	<item>
+	  <headword id="idola745">sgarbh</headword>
+	</item>
+	<item>
+	  <headword id="idola746">an gulabarneach</headword>
+	</item>
+	<item>
+	  <headword id="idola747">faolann</headword>
+	</item>
+	<item>
+	  <headword id="idola748">eun dubh a sgadain, am faicheach</headword>
+	</item>
+	<item>
+	  <headword id="idola749">am faisgeadar</headword>
+	</item>
+	<item>
+	  <headword id="idola750">a’ chàlag</headword>
+	</item>
+	<item>
+	  <headword id="idola751">geomas ruadh</headword>
+	</item>
+	<item>
+	  <headword id="idola752">tàrmachan</headword>
+	</item>
+	<item>
+	  <headword id="idola753" type="heading" level="h1">Wild Flowers – Sarah Munro, Gruline, Mull</headword>
+	</item>
+	<item>
+	  <headword id="idola754">giuthas</headword>
+	</item>
+	<item>
+	  <headword id="idola755">sileastar</headword>
+	</item>
+	<item>
+	  <headword id="idola756">luith an eorna</headword>
+	</item>
+	<item>
+	  <headword id="idola757">currachd na cuthaig</headword>
+	</item>
+	<item>
+	  <headword id="idola758">gailearach</headword>
+	<description>[?] </description></item>
+	<item>
+	  <headword id="idola759">seileach</headword>
+	</item>
+	<item>
+	  <headword id="idola760">beithe</headword>
+	</item>
+	<item>
+	  <headword id="idola761">calltuinn, snodhach, cro</headword>
+	</item>
+	<item>
+	  <headword id="idola762">darach</headword>
+	</item>
+	<item>
+	  <headword id="idola763">feanndag</headword>
+	</item>
+	<item>
+	  <headword id="idola764">copagach</headword>
+	  <description>fras = seeds.</description>
+	</item>
+	<item>
+	  <headword id="idola765">teth teotha</headword>
+	<description>[tʹewʔə] </description></item>
+	<item>
+	  <headword id="idola766">sgitheach, sgeachagan</headword>
+	</item>
+	<item>
+	  <headword id="idola767">luith a’ chneas</headword>
+	</item>
+	<item>
+	  <headword id="idola768">nós fiathach, gucagan</headword>
+	</item>
+	<item>
+	  <headword id="idola769">flùr na smiar, smiaran</headword>
+	</item>
+	<item>
+	  <headword id="idola770">conasg</headword>
+	  <description>“gur boidheach an conasg g[?] stoban gu léir ann.”</description>
+	</item>
+	<item>
+	  <headword id="idola771">braonan</headword>
+	</item>
+	<item>
+	  <headword id="idola772">seamarag dhearg</headword>
+	</item>
+	<item>
+	  <headword id="idola773">seamarag gheal</headword>
+	</item>
+	<item>
+	  <headword id="idola774">clobhair</headword>
+	</item>
+	<item>
+	  <headword id="idola775">cuileann</headword>
+	</item>
+	<item>
+	  <headword id="idola776">cuach Pharaig</headword>
+	  <description>airson [?].</description>
+	</item>
+	<item>
+	  <headword id="idola777">pleandaran</headword>
+	</item>
+	<item>
+	  <headword id="idola778">an fhearna</headword>
+	  <description>elder.</description>
+	</item>
+	<item>
+	  <headword id="idola779">currachd na cuthaig</headword>
+	</item>
+	<item>
+	  <headword id="idola780">fraoch meagain</headword>
+	</item>
+	<item>
+	  <headword id="idola781">sobhrachan</headword>
+	</item>
+	<item>
+	  <headword id="idola782">feanndagan</headword>
+	</item>
+	<item>
+	  <headword id="idola783">castal, a chastal</headword>
+	</item>
+	<item>
+	  <headword id="idola784">luith na tea</headword>
+	<description>[ɫuiçnəti:] </description></item>
+	<item>
+	  <headword id="idola785">cioch nan cailleacha marbh</headword>
+	</item>
+	<item>
+	  <headword id="idola786">na gilleacha dubh</headword>
+	</item>
+	<item>
+	  <headword id="idola787">dromanach</headword>
+	</item>
+	<item>
+	  <headword id="idola788">gille guarmain</headword>
+	</item>
+	<item>
+	  <headword id="idola789">didhean</headword>
+	</item>
+	<item>
+	  <headword id="idola790">bualtan buidhe</headword>
+	</item>
+	<item>
+	  <headword id="idola791">foundain</headword>
+	</item>
+	<item>
+	  <headword id="idola560" type="heading" level="h1">Seashore – John Robertson, Tobermory, Mull</headword>
+	</item>
+	<item>
+	  <headword id="idola561">[note]</headword>
+	  <description>[NOTES: numbers refer to illustrations in Collins Pocket Guide to the Sea Shore (London, 1967) but the fieldworker included most of the definitions anyway. The missing definitions have been copied in square brackets.]</description>
+    </item>
+	<item>
+      <headword id="idp341520">air a’ ghrinneal = grunnd</headword>
+    </item>
+    <item>
+      <headword id="idp343464">sgeith ròin</headword>
+      <description>3, 4 a jellyfish.</description>
+    </item>
+    <item>
+      <headword id="idm334456">na cìochan</headword>
+      <description>5 sea anemone; 6h [Plumose Anemone].</description>
+    </item>
+    <item>
+      <headword id="idm332512">peaslag (an n)</headword>
+      <description>[?] 8 [Ribbon Worms].</description>
+    </item>
+    <item>
+      <headword id="idm330568">lunga, lugnich, buain lunga</headword>
+      <description>9 [Bristle Worms].</description>
+    </item>
+    <item>
+      <headword id="idm328624">giomach ciuil</headword>
+      <description>14a crayfish.</description>
+    </item>
+    <item>
+      <headword id="idm326680">giomach</headword>
+      <description>14b [Lobster] araball, com, spog, casan, suil, bàrr an arabuil, cabhaul [? or cabhail?] (a’ ch), suil nan cliabh, dorus.</description>
+    </item>
+    <item>
+      <headword id="idm324376">crubàn</headword>
+      <description>14a [?] [Lobster].</description>
+    </item>
+    <item>
+      <headword id="idm322432">creachan, slige chreachain</headword>
+      <description>22 [Mussels and Scallops].</description>
+    </item>
+    <item>
+      <headword id="idm320488">fiasgan</headword>
+      <description>22 common mussel.</description>
+    </item>
+    <item>
+      <headword id="idm318544">sput fish &gt;  squibs, razorfish</headword>
+      <description>[?] 23 [Razor and Sunset Shells, and Gapers].</description>
+    </item>
+    <item>
+      <headword id="idm316600">coinean mara (conan mara)</headword>
+      <description>27a [Common Sea Urchin].</description>
+    </item>
+    <item>
+      <headword id="idm314656">creagag</headword>
+      <description>30 goldsinny wrasse, rock cook.</description>
+    </item>
+    <item>
+      <headword id="idm312712">murair(ean)</headword>
+      <description>30 Ballan wrasse, corkwing wrasse.</description>
+    </item>
+    <item>
+      <headword id="idm310768">craobh</headword>
+      <description>[?] 33 Codium tomentosum, Chaetomorpha, found on grunnd adaig.</description>
+    </item>
+    <item>
+      <headword id="idm308752">carrageen</headword>
+      <description>37 Cryptopleura ramosum.</description>
+    </item>
+    <item>
+      <headword id="idm306808">dulasg</headword>
+      <description>Rhodymenia palmata.</description>
+    </item>
+    <item>
+      <headword id="idm304864">feamainn chirein</headword>
+      <description>IV Fucus serratus.</description>
+    </item>
+    <item>
+      <headword id="idm302920">deargan tràghad</headword>
+      <description>VII, VIII [Crustacea – Isopoda, Leptostraca, Amphipoda].</description>
+    </item>
+    <item>
+      <headword id="idm300904">faochag</headword>
+      <description>XIV edible whelk.</description>
+    </item>
+    <item>
+      <headword id="idm298960">gilleacha(n) geala</headword>
+      <description>XVI dog whelk.</description>
+    </item>
+    <item>
+      <headword id="idm297016">conachag</headword>
+      <description>XVI g [Common Whelk].</description>
+    </item>
+    <item>
+      <headword id="idm295072">eisear, eisearan</headword>
+      <description>XVII native oyster.</description>
+    </item>
+    <item>
+      <headword id="idm293128">guileag (an)</headword>
+      <description>XVIII common cockle.</description>
+    </item>
+    <item>
+      <headword id="idm291184">reòdan</headword>
+      <description>XX wood borers (wood, oval, piddocks).</description>
+    </item>
+    <item>
+      <headword id="idm289240">an easgann dubh</headword>
+      <description>XXII conger eel.</description>
+    </item>
+    <item>
+      <headword id="idm287296">an easgan</headword>
+      <description>[sic] XXII common eel.</description>
+    </item>
+    <item>
+      <headword id="idm285352">an dearagan</headword>
+      <description>XXIII 3 beard [Three-bearded] rockling.</description>
+    </item>
+    <item>
+      <headword id="idm283408">sìolag</headword>
+      <description>XXIII lesser sand eel.</description>
+    </item>
+    <item>
+      <headword id="idm281464">siol na faochaig</headword>
+      <description>XXV.</description>
+    </item>
+    <item>
+      <headword id="idm279520">feamain dhubh</headword>
+      <description>XXXII saw wrack.</description>
+    </item>
+    <item>
+      <headword id="idm277576">an fheamain bhuidhe</headword>
+      <description>XXXII knotted wrack.</description>
+    </item>
+    <item>
+      <headword id="idm275632">roc</headword>
+      <description>XXXII wrack with a stalk.</description>
+    </item>
+	<item>
+      <headword id="idm270160">[dulasg]</headword>
+	  <description>Dulasg port a ròin / aran eorna an t-luichd / Buirn an apair mhóir / ’S gur math a dh’fhagnadh.</description>
+	</item>
+    <item>
+      <headword id="idm268216">barag</headword>
+      <description>fem. crab.</description>
+    </item>
+    <item>
+      <headword id="idm266272">sporran</headword>
+      <description>egg pouch.</description>
+    </item>
+    <item>
+      <headword id="idm264328">druim</headword>
+    </item>
+    <item>
+      <headword id="idm262384">iuchairean</headword>
+    </item>
+    <item>
+      <headword id="idm260440">crealach</headword>
+      <description>masc. crab.</description>
+    </item>
+  </items>
+</fieldworkDocument>

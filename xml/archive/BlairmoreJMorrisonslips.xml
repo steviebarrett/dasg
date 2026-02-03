@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 5/8/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_BlairmoreJMorrisonslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>10/1969</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <informant>
+    <nameEnglish>J. Morrison</nameEnglish>
+  </informant>
+  <location>Sutherland, Kinlochbervie, Blairmore</location>
+  <items>
+    <item>
+      <headword id="idp118020760">làgan</headword>
+      <description>Notes: sowens.</description>
+    </item>
+    <item>
+      <headword id="idp118018096">lang</headword>
+      <description>[ɫɑ̃ɣ] Notes: ling.</description>
+    </item>
+    <item>
+      <headword id="idp118014496">leas</headword>
+      <description>[lʹɛs] Notes: garden or stackyard.</description>
+    </item>
+    <item>
+      <headword id="idp118010392">leóbag</headword>
+    <description>[lʹo:bɑɡ] </description></item>
+    <item>
+      <headword id="idp118034944">leumachan</headword>
+      <description>[lʹe:mɑxɑṉ] Notes: frog.</description>
+    </item>
+    <item>
+      <headword id="idp118036672">mealc</headword>
+      <description>[mjɑɫk] Notes: milt.</description>
+    </item>
+    <item>
+      <headword id="idp118038400">meanbh-chuileag</headword>
+    <description>[mɑ̃ɾɑxu̟lɑɡ] </description></item>
+    <item>
+      <headword id="idp118040128">mean-thudan</headword>
+      <description>[mɛ̃ṉhu̟d̪ɑṉ] Notes: a small stack of corn on a field containing 10-12 stooks.</description>
+    </item>
+    <item>
+      <headword id="idp118041856">meung</headword>
+      <description>[mjɤ̃ŋɡ] Notes: whey.</description>
+    </item>
+    <item>
+      <headword id="idp118043584">moll</headword>
+      <description>[mũ̜:ɫ] Notes: chaff.</description>
+    </item>
+    <item>
+      <headword id="idp118045312">ràmh</headword>
+      <description>[rɑ̃:v] Notes: oar.</description>
+    </item>
+    <item>
+      <headword id="idp118047040">rùbhag</headword>
+      <description>[ru̜:ɑɡ] Notes: crab.</description>
+    </item>
+    <item>
+      <headword id="idp118048768">rùbhan</headword>
+      <description>[ru̜:ɑṉ] Notes: made up of 2-3 “stòragan” q.v. (“stòrag” equivalent to common “rùbhan”)</description>
+    </item>
+    <item>
+      <headword id="idp118050496">ath-storadh</headword>
+      <description>Notes: “stòragan” made first, then 2-3 put together to form a “rùbhan”.</description>
+    </item>
+    <item>
+      <headword id="idp118052008">innean</headword>
+      <description>[ĩnʹɑṉ] Notes: onion.</description>
+    </item>
+    <item>
+      <headword id="idp118053736">iomradh</headword>
+      <description>[ɤɾəmu̜] Notes: rowing.</description>
+    </item>
+    <item>
+      <headword id="idp118055464">iris</headword>
+      <description>Notes: band on creel.</description>
+    </item>
+    <item>
+      <headword id="idp118056976">it</headword>
+      <description>[itʹ] Notes: fin.</description>
+    </item>
+    <item>
+      <headword id="idp167327312">iuchar</headword>
+      <description>[joxəɾ] Notes: herring roe.</description>
+    </item>
+    <item>
+      <headword id="idp167329040">poll</headword>
+      <description>[pɤu̜ɫ] Quotation: poll buntata. Notes: potato pit.</description>
+    </item>
+    <item>
+      <headword id="idp167330912">sìthean</headword>
+      <description>[si:ɑṉ] Notes: bigger than “glasag”, which is about the size of a big herring. [NOTES: slipped under ‘saoidhean’.]</description>
+    </item>
+    <item>
+      <headword id="idp167332784">sgait</headword>
+      <description>[sɡɑtʹ] Notes: skate.</description>
+    </item>
+    <item>
+      <headword id="idp167334512">sìlt</headword>
+      <description>[ʃı:lʹtʹ] Notes: bunghole in a boat.</description>
+    </item>
+    <item>
+      <headword id="idp167336240">siolagan (pl.)</headword>
+      <description>Notes: small potatoes.</description>
+    </item>
+    <item>
+      <headword id="idp167337752">smàgach</headword>
+      <description>Notes: toad.</description>
+    </item>
+    <item>
+      <headword id="idp167339264">smùrach</headword>
+      <description>Notes: dross.</description>
+    </item>
+    <item>
+      <headword id="idp167340776">snèib</headword>
+      <description>[ʃṉɛ̃:b] Notes: turnip.</description>
+    </item>
+    <item>
+      <headword id="idp167342504">stéidheadh</headword>
+      <description>[ʃtʹe:u̜] Quotation: a’ stéidheadh na cruaich.</description>
+    </item>
+    <item>
+      <headword id="idp167344232">stòrag</headword>
+      <description>[st̪ɔ:ɾɑɡ] Notes: the first lifting of peats. (4-5 peats)</description>
+    </item>
+    <item>
+      <headword id="idp167345960">strainnsear</headword>
+      <description>Notes: butterfly.</description>
+    </item>
+    <item>
+      <headword id="idp167347472">stùcan</headword>
+    </item>
+    <item>
+      <headword id="idp167348984">sar</headword>
+      <description>[sɑɾ] Notes: a tick found on sheep.</description>
+    </item>
+    <item>
+      <headword id="idp167350712">tobac</headword>
+      <description>[t̪ɔˈbɑk] Notes: tobacco.</description>
+    </item>
+    <item>
+      <headword id="idp167352440">toroisgeil</headword>
+      <description>[t̪ɔɾɔʃɡʹəl] Notes: peat-cutting iron.</description>
+    </item>
+    <item>
+      <headword id="idp167354168">turbaid</headword>
+      <description>[t̪u̟ɾu̟bɑdʹ] Notes: halibut.</description>
+    </item>
+    <item>
+      <headword id="idp167355896">ucas</headword>
+      <description>[u̜ɡs] Notes: blackjack.</description>
+    </item>
+    <item>
+      <headword id="idp167357624">uiseag</headword>
+      <description>[iʃɑɡ] Notes: lark.</description>
+    </item>
+    <item>
+      <headword id="idp167359352">adhragag</headword>
+      <description>[ɤɾəɡɑɡ] Notes: lapwing.</description>
+    </item>
+    <item>
+      <headword id="idp167361080">ailm</headword>
+      <description>[ɤləm] Notes: tiller.</description>
+    </item>
+    <item>
+      <headword id="idp167362808">baighd</headword>
+      <description>[b[ɤı]dʹ] Notes: bait. [ə b[ɤi]dʹu̜]: baiting.</description>
+    </item>
+    <item>
+      <headword id="idp167365256">barra-gùg</headword>
+      <description>[bɑrəɡu̜:ɡ] Notes: blossom on potatoes.</description>
+    </item>
+    <item>
+      <headword id="idp167366984">biast-lot</headword>
+      <description>Notes: earwig.</description>
+    </item>
+    <item>
+      <headword id="idp167368496">biathag</headword>
+      <description>Notes: earthworm.</description>
+    </item>
+    <item>
+      <headword id="idp167370008">bliong</headword>
+      <description>[blw̃ŋɡ] Notes: lythe.</description>
+    </item>
+    <item>
+      <headword id="idp167371736">bodach</headword>
+      <description>Notes: scarecrow.</description>
+    </item>
+    <item>
+      <headword id="idp167373248">bodach-bac</headword>
+      <description>Notes: 1st peat cut.</description>
+    </item>
+    <item>
+      <headword id="idp167374976">bròg</headword>
+      <description>Notes: roe.</description>
+    </item>
+    <item>
+      <headword id="idp167376488">brutag</headword>
+      <description>Notes: brownish caterpillar found among heather.</description>
+    </item>
+    <item>
+      <headword id="idp167378000">bùrag</headword>
+      <description>[bu̟:ɾɑɡ] Notes: turf divot.</description>
+    </item>
+    <item>
+      <headword id="idp167379728">caibe</headword>
+      <description>Quotation: caibe-làir [kɤbɫɑ:ɾ]. Notes: turfing spade.</description>
+    </item>
+    <item>
+      <headword id="idp167381600">caraisd</headword>
+      <description>[kɑɾɑʃdʹ] Notes: carrot.</description>
+    </item>
+    <item>
+      <headword id="idp167383328">cìlig</headword>
+      <description>[cı:lʹıɡʹ] Notes: cod.</description>
+    </item>
+    <item>
+      <headword id="idp167385056">clach-bhleith</headword>
+      <description>Notes: honing stone.</description>
+    </item>
+    <item>
+      <headword id="idp167386568">croman</headword>
+      <description>[kɾɤmɑ̃ṉ] Notes: implement for lifting potatoes.</description>
+    </item>
+    <item>
+      <headword id="idp167388296">crùdan</headword>
+      <description>[kɾũ̜:d̪ɑn] Notes: gurnard.</description>
+    </item>
+    <item>
+      <headword id="idp167390024">cullaidh</headword>
+      <description>[ku̜ɫi] Notes: a boat.</description>
+    </item>
+    <item>
+      <headword id="idp167391752">diasd</headword>
+      <description>[dʹıɤsd̪] Notes: ear of corn.</description>
+    </item>
+    <item>
+      <headword id="idp167393480">dirid-dubh</headword>
+      <description>[dʹiɾıdʹd̪u̜] Notes: starling.</description>
+    </item>
+    <item>
+      <headword id="idp167395208">easgainn</headword>
+      <description>[ɛsɡĩnʹ] Notes: eel.</description>
+    </item>
+    <item>
+      <headword id="idp167396936">eun-breac</headword>
+      <description>[ɛ̃:nbɾɛk] Notes: puffin.</description>
+    </item>
+    <item>
+      <headword id="idp167398664">fàldair</headword>
+      <description>Notes: scythe.</description>
+    </item>
+    <item>
+      <headword id="idp167400176">feusgan</headword>
+      <description>[fɛ:sɡɑṉ] Notes: mussel.</description>
+    </item>
+    <item>
+      <headword id="idp167401904">gaiseadh</headword>
+      <description>[ɡɑʃu̜] Notes: blight.</description>
+    </item>
+    <item>
+      <headword id="idp167403632">garbhan</headword>
+      <description>[ɡɑɾɑvɑṉ] Notes: gills.</description>
+    </item>
+    <item>
+      <headword id="idp167405360">glasag</headword>
+      <description>Notes: saithe, about the size of a large herring.</description>
+    </item>
+  </items>
+</fieldworkDocument>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 13 4 14 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="WoolworkingandFishing_SiabostMJMacLeodiasgach" docType="questionnaire" subType="AcfhuinnIasgaich" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Acfhuinn Iasgaich / Fishing Tackle</title>
+  <fieldworker>[self]</fieldworker>
+  <note>[NOTES: the only details on the front page are the informant’s name and language (Gaelic) and the name of the school (Siabost).]</note>
+  <informant>
+    <nameEnglish>Miss M. J. MacLeod</nameEnglish>
+  </informant>
+  <location>[Lewis], Siabost</location>
+  <items>
+    <item><headword id="d0e26" type="heading" level="h1">1. Lìon-mór</headword></item>
+    <item>
+      <headword id="d0e31">lìon-mór</headword>
+      <description>long fishing lines.</description>
+    </item>
+    <item>
+      <headword id="d0e40">puta</headword>
+      <description>buoy.</description>
+    </item>
+    <item>
+      <headword id="d0e49">biathadh</headword>
+      <description>bait.</description>
+    </item>
+    <item><headword id="d0e57" type="heading" level="h1">2. Lìon-beag</headword></item>
+    <item>
+      <headword id="d0e62">lìon-beag</headword>
+      <description>short fishing lines.</description>
+    </item>
+    <item><headword id="d0e70" type="heading" level="h1">3. Lìon-sgadanach</headword></item>
+    <item>
+      <headword id="d0e75">lìon-sgadanach</headword>
+      <description>herring net.</description>
+    </item>
+    <item>
+      <headword id="d0e84">mogul</headword>
+      <description>mesh.</description>
+    </item>
+    <item><headword id="d0e92" type="heading" level="h1">4. Lìon sam bith eile</headword></item>
+    <item>
+      <headword id="d0e97">lìon-leóbag</headword>
+      <description>flounder-net.</description>
+    </item>
+    <item><headword id="d0e105" type="heading" level="h1">5. Duirgh, slatan, driamlaichean</headword></item>
+    <item>
+      <headword id="d0e110">dorgh</headword>
+      <description>handline for fishing.</description>
+    </item>
+    <item>
+      <headword id="d0e119">sreang</headword>
+      <description>part of line held in the hand.</description>
+    </item>
+    <item>
+      <headword id="d0e128">clach-luaidhe</headword>
+      <description>lead.</description>
+    </item>
+    <item>
+      <headword id="d0e137">dubhan</headword>
+      <description>hook.</description>
+    </item>
+    <item>
+      <headword id="d0e146">slat</headword>
+      <description>rod.</description>
+    </item>
+    <item>
+      <headword id="d0e155">driamlach</headword>
+      <description>line for a fishing-rod.</description>
+    </item>
+    <item><headword id="d0e163" type="heading" level="h1">6. Acfhuinn sam bith eile</headword></item>
+    <item>
+      <headword id="d0e168">cabhull</headword>
+      <description>a creel for catching fish.</description>
+    </item>
+  </items>
+</fieldworkDocument>

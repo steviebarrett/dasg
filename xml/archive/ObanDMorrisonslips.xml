@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 7/10/15 -->
+<fieldworkDocument xmlns:php="http://php.net/xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_ObanDMorrisonslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>1977</date>
+  <informant>
+    <nameEnglish>D. Morrison</nameEnglish>
+  </informant>
+  <location>Oban</location>
+  <items>
+    <item>
+      <headword id="idp115483872">uchdach</headword>
+      <description>Notes: = iris (of a creel).</description>
+    </item>
+    <item>
+      <headword id="idp115482360">buidse</headword>
+      <description>Notes: butt from a ram.</description>
+    </item>
+  </items>
+</fieldworkDocument>

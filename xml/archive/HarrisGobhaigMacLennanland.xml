@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 20 04 13 -->
+<fieldworkDocument docId="HarrisMacLennan_HarrisGobhaigMacLennanland" docType="questionnaire" subType="LandscapeFeatures">
+  <title>Cruth na Tìre / Landscape Features</title>
+  <fieldworker>[self?]</fieldworker>
+  <informant>
+    <nameEnglish>A. MacLennan</nameEnglish>
+    <nameGaelic>A. MacGill Fhinnein</nameGaelic>
+    <age>19</age>
+  </informant>
+  <location>Na Hearadh, Gòbhaig [Harris, Gobhaig]</location>
+  <items>
+    <item><headword id="d0e29" type="heading" level="h1">Mountains, hills</headword></item>
+    <item>
+      <headword id="d0e34">beinn</headword>
+      <description>mountain.</description>
+    </item>
+    <item>
+      <headword id="d0e43">mam</headword>
+      <description>mountain.</description>
+    </item>
+    <item>
+      <headword id="d0e52">tulloch</headword>
+      <description>hillock.</description>
+    </item>
+    <item>
+      <headword id="d0e61">cnoc</headword>
+      <description>hillock.</description>
+    </item>
+    <item>
+      <headword id="d0e70">sithean</headword>
+      <description>a hummock on the summit.</description>
+    </item>
+    <item>
+      <headword id="d0e79">tacsa</headword>
+      <description>foot of a mountain.</description>
+    </item>
+    <item>
+      <headword id="d0e88">sliabh</headword>
+      <description>heath, rough grazing on mountain slope.</description>
+    </item>
+    <item>
+      <headword id="d0e97">gualain</headword>
+      <description>shoulder.</description>
+    </item>
+    <item>
+      <headword id="d0e106">coirre</headword>
+      <description>corrie.</description>
+    </item>
+    <item>
+      <headword id="d0e115">faobhar</headword>
+      <description>the very summit, skyline.</description>
+    </item>
+    <item><headword id="d0e123" type="heading" level="h1">Moorland features</headword></item>
+    <item><headword id="d0e127" type="heading" level="h2">1.</headword><description>[bogs] </description></item>
+    <item>
+      <headword id="d0e132">surag</headword>
+    </item>
+    <item>
+      <headword id="d0e138">lòn</headword>
+    </item>
+    <item>
+      <headword id="d0e144">rias</headword>
+      <description>soft muddle indentation.</description>
+    </item>
+    <item>
+      <headword id="d0e153">boglach</headword>
+      <description>soft muddle indentation.</description>
+    </item>
+    <item>
+      <headword id="d0e162">feith</headword>
+    </item>
+    <item>
+      <headword id="d0e168">suil chruthaich</headword>
+      <description>quagmire.</description>
+    </item>
+    <item>
+      <headword id="d0e177">pòll-damhair</headword>
+      <description>a stags wallowing place.</description>
+    </item>
+    <item><headword id="d0e185" type="heading" level="h2">2.</headword><description>[hollows] </description></item>
+    <item>
+      <headword id="d0e190">lag</headword>
+      <description>hollow.</description>
+    </item>
+    <item>
+      <headword id="d0e199">slochd</headword>
+      <description>hollow.</description>
+    </item>
+    <item>
+      <headword id="d0e208">glaic</headword>
+      <description>hollow.</description>
+    </item>
+    <item>
+      <headword id="d0e217">bearn</headword>
+      <description>a gap.</description>
+    </item>
+    <item>
+      <headword id="d0e226">feadan</headword>
+      <description>a narrow passage between two truncated spurs.</description>
+    </item>
+    <item>
+      <headword id="d0e235">cadha</headword>
+      <description>a rocky gap at side or foot of a mountain.</description>
+    </item>
+    <item><headword id="d0e243" type="heading" level="h2">3.</headword><description>[banks] </description></item>
+    <item>
+      <headword id="d0e248">bruthach</headword>
+      <description>brae.</description>
+    </item>
+    <item>
+      <headword id="d0e257">bruaich</headword>
+      <description>bank.</description>
+    </item>
+    <item>
+      <headword id="d0e266">bòta</headword>
+      <description>hummock.</description>
+    </item>
+    <item>
+      <headword id="d0e275">toman</headword>
+      <description>hummock.</description>
+    </item>
+    <item><headword id="d0e283" type="heading" level="h1">Coastal features</headword></item>
+    <item>
+      <headword id="d0e288">bagh</headword>
+      <description>bay.</description>
+    </item>
+    <item>
+      <headword id="d0e297">camus</headword>
+      <description>bay.</description>
+    </item>
+    <item>
+      <headword id="d0e306">caigean</headword>
+      <description>a narrow pass flooded by the sea, tidal.</description>
+    </item>
+    <item>
+      <headword id="d0e315">geotha</headword>
+      <description>small cave.</description>
+    </item>
+    <item>
+      <headword id="d0e324">òb</headword>
+      <description>bay.</description>
+    </item>
+    <item>
+      <headword id="d0e333">sgor</headword>
+      <description>a cleft.</description>
+    </item>
+    <item>
+      <headword id="d0e342">rubha</headword>
+      <description>headland.</description>
+    </item>
+    <item>
+      <headword id="d0e351">gob</headword>
+      <description>headland.</description>
+    </item>
+    <item>
+      <headword id="d0e360">pala</headword>
+      <description>narrow s[h]elf on a cliff.</description>
+    </item>
+    <item>
+      <headword id="d0e369">piorra</headword>
+      <description>pinnacle.</description>
+    </item>
+    <item>
+      <headword id="d0e378">bogha</headword>
+      <description>tidal rock.</description>
+    </item>
+    <item>
+      <headword id="d0e387">sgeir</headword>
+      <description>tidal rock.</description>
+    </item>
+    <item>
+      <headword id="d0e396">fideach</headword>
+      <description>tidal grazing, usually machair.</description>
+    </item>
+    <item><headword id="d0e404" type="heading" level="h1">Rivers, burns, streams, pools, waterfalls</headword></item>
+	<item>
+      <headword id="d0e409">amhainn</headword>
+      <description>river.</description>
+    </item>
+	<item>
+      <headword id="d0e418">allt</headword>
+      <description>stream.</description>
+    </item>
+    <item>
+      <headword id="d0e427">sruth</headword>
+      <description>fast flowing stream.</description>
+    </item>
+    <item>
+      <headword id="d0e436">gluba</headword>
+      <description>pool.</description>
+    </item>
+    <item>
+      <headword id="d0e445">linne</headword>
+      <description>a long river pool.</description>
+    </item>
+    <item>
+      <headword id="d0e454">pollag</headword>
+      <description>small pool.</description>
+    </item>
+    <item>
+      <headword id="d0e463">glumag</headword>
+      <description>small pool.</description>
+    </item>
+    <item>
+      <headword id="d0e472">steall</headword>
+      <description>waterfall.</description>
+    </item>
+    <item>
+      <headword id="d0e481">èas</headword>
+      <description>waterfall.</description>
+    </item>
+    <item><headword id="d0e489" type="heading" level="h1">Types of beach</headword></item>
+    <item>
+      <headword id="d0e494">traigh</headword>
+      <description>gainmheach.</description>
+    </item>
+    <item>
+      <headword id="d0e503">mòl</headword>
+      <description>clachan beaga.</description>
+    </item>
+    <item>
+      <headword id="d0e512">maroghan</headword>
+      <description>[?] gravel beach.</description>
+    </item>
+    <item><headword id="d0e520" type="heading" level="h1">Sea-pools, waves</headword></item>
+    <item>
+      <headword id="d0e525">gluba</headword>
+      <description>sea pool.</description>
+    </item>
+    <item>
+      <headword id="d0e534">tonnadh</headword>
+      <description>wave.</description>
+    </item>
+    <item>
+      <headword id="d0e543">tonn</headword>
+      <description>wave.</description>
+    </item>
+    <item>
+      <headword id="d0e552">stuagh</headword>
+      <description>wave.</description>
+    </item>
+    <item>
+      <headword id="d0e561">sùradh-bàn</headword>
+      <description>surf carrying sand.</description>
+    </item>
+    <item>
+      <headword id="d0e570">sioban</headword>
+      <description>spray or drifting sand.</description>
+    </item>
+  </items>
+</fieldworkDocument>

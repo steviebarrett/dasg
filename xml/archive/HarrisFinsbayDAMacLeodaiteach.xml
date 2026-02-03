@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 23 4 14 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="HarrisVarious_HarrisFinsbayDAMacLeodaiteach" docType="questionnaire" subType="Iteach" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Àiteach / Agriculture</title>
+  <fieldworker>[anonymous D]</fieldworker>
+  <note>[NOTES: second informant (NM) identified on p. 5 as Norman MacLeod from Leverburgh.]</note>
+  <informant>
+    <nameEnglish>Donald A MacLeod</nameEnglish>
+    <age>mu [about] 70</age>
+  </informant>
+  <location>Na Hearadh [Harris], Finsbay</location>
+  <items>
+    <item><headword id="d0e29" type="heading" level="h1">1. Na togalaichean: sobhal, bàthach is mar sin, agus ainm gach pàirt dhiubh</headword></item>
+    <item>
+      <headword id="d0e34">àth</headword>
+      <description>aite mar bothag airson a blath an eòrna – for drying.</description>
+    </item>
+    <item>
+      <headword id="d0e43">“isean a chait chrion”</headword>
+      <description>a boy who was brought up wisely, by a wise father.</description>
+    </item>
+    <item>
+      <headword id="d0e52">smethag</headword>
+      <description>toggle on rope for tying up cow.</description>
+    </item>
+    <item>
+      <headword id="d0e61">leac an t-teinnean</headword>
+      <description>hearth. [NOTES: the last word made unclear by corrections, possibly meant to be replaced by the word underneath it ‘an teinean’]</description>
+    </item>
+    <item>
+      <headword id="d0e70">liughair</headword>
+      <description>[?] bocsa a tighinn a nuas meadhon an taighe os cinn an teinne, mar simileir.</description>
+    </item>
+    <item>
+      <headword id="d0e79">donnag</headword>
+      <description>young ling (fish).</description>
+    </item>
+    <item><headword id="d0e87" type="heading" level="h1">2. A’ mathachadh no a’ leasachadh na talmhainn</headword></item>
+    <item>
+      <headword id="d0e92">a’ taomadh</headword>
+      <description>turning over soil for drainage of lazybed.</description>
+    </item>
+    <item>
+      <headword id="d0e101">leoba</headword>
+      <description>lazybeds.</description>
+    </item>
+    <item>
+      <headword id="d0e110">langadal</headword>
+      <description>seaweed specifically for carrot.</description>
+    </item>
+    <item>
+      <headword id="d0e119">sioman</headword>
+      <description>rope of heather.</description>
+    </item>
+    <item>
+      <headword id="d0e128">lodair</headword>
+      <description>(soup) ladle.</description>
+    </item>
+    <item>
+      <headword id="d0e137">ealagol</headword>
+      <description>old peat from walls, used for fuel.</description>
+    </item>
+    <item>
+      <headword id="d0e146">glutranadh</headword>
+      <description>cavity wall filled with anything for insulation.</description>
+    </item>
+    <item><headword id="d0e154" type="heading" level="h1">3. A’ treabhadh no a’ ruamhar: an crann agus ainm gach pàirt dheth</headword></item>
+    <item><headword id="d0e158" type="heading" level="h2">(Norman MacLeod)</headword></item>
+    <item>
+      <headword id="d0e163">cultair</headword>
+      <description>[?] sgian a bhiodh a gearradh an sgrath.</description>
+    </item>
+    <item>
+      <headword id="d0e172">soc</headword>
+      <description>gob a tha dol fo an sgriob.</description>
+    </item>
+    <item>
+      <headword id="d0e181">bord ùrach</headword>
+      <description>pios tilgeal an sgrath gu aon taobh.</description>
+    </item>
+    <item><headword id="d0e189" type="heading" level="h1">4. Innealan beaga leithid spaid, gràp, ràcan is mar sin</headword></item>
+    <item><headword id="d0e193" type="heading" level="h1">5. Acfhuinn an eich airson gach seòrsa obair</headword></item>
+    <item><headword id="d0e197" type="heading" level="h1">6. A’ cur an t-sìl</headword></item>
+    <item><headword id="d0e201" type="heading" level="h1">7. A’ buain agus a’ tiormachadh an arbhair no an fheòir</headword></item>
+    <item>
+      <headword id="d0e206">a fioneadh an t-sìl</headword>
+      <description>pounding with a wooden stick (buailtean).</description>
+    </item>
+    <item>
+      <headword id="d0e215">a faisgneadh</headword>
+      <description>winnowing.</description>
+    </item>
+    <item>
+      <headword id="d0e224">moll</headword>
+      <description>chaff, flies away.</description>
+    </item>
+    <item>
+      <headword id="d0e233">sgallan</headword>
+      <description>chaff, flies away.</description>
+    </item>
+    <item>
+      <headword id="d0e242">cuiseag</headword>
+    </item>
+    <item><headword id="d0e247" type="heading" level="h1">8. A’ togail a’ bhuntàta</headword></item>
+    <item><headword id="d0e251" type="heading" level="h2">(DA Fins)</headword><description>[bay] </description></item>
+    <item>
+      <headword id="d0e256">cròcan</headword>
+      <description>implement for picking potatoes.</description>
+    </item>
+    <item>
+      <headword id="d0e265">a’ putadh</headword>
+    </item>
+    <item>
+      <headword id="d0e271">putair</headword>
+      <description>one who breaks up soil ahead of those who pick potatoes.</description>
+    </item>
+    <item>
+      <headword id="d0e280">buntat atharnaich</headword>
+      <description>last years potato.</description>
+    </item>
+    <item>
+      <headword id="d0e289">madadh grèine</headword>
+      <description>sun dog – sign of bad weather, seen in front of sun, also moon.</description>
+    </item>
+    <item>
+      <headword id="d0e298">sitheachaire tholl</headword>
+      <description>one who planted drill potatoes.</description>
+    </item>
+    <item><headword id="d0e306" type="heading" level="h1">9. A’ tasgadh an arbhair agus a’ bhuntàta</headword></item>
+    <item><headword id="d0e310" type="heading" level="h1">10. A’ bualadh ’s a’ criathradh</headword></item>
+    <item><headword id="d0e314" type="heading" level="h1">11. A’ bleith an t-sìl</headword></item>
+    <item><headword id="d0e318" type="heading" level="h1">12. Ainmean a chleachdar ri earrainn fearainn</headword></item>
+    <item>
+      <headword id="d0e323">gearraidh</headword>
+      <description>area of more than 12 lazybeds.</description>
+    </item>
+    <item>
+      <headword id="d0e332">gearraidh feoir</headword>
+    </item>
+    <item>
+      <headword id="d0e338">gearraidh buntata</headword>
+    </item>
+    <item>
+      <headword id="d0e344">cachala</headword>
+      <description>wall and gate of enclosure.</description>
+    </item>
+    <item><headword id="d0e352" type="heading" level="h1">13. Faclan sam bith eile</headword></item>
+  </items>
+</fieldworkDocument>

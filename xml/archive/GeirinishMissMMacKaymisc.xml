@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 3 6 14 -->
+<fieldworkDocument docId="AOHenley_GeirinishMissMMacKaymisc" docType="wordlist" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>[1987-88]</date>
+  <fieldworker personId="ohenleya">A. O’Henley</fieldworker>
+  <note>[NOTES: some notes added (most probably by K. D. MacDonald?). See below for details.]</note>
+  <informant>
+    <nameEnglish>Miss M. MacKay</nameEnglish>
+  </informant>
+  <location>South Uist, Geirinish</location>
+  <items>
+    <item>
+      <headword id="idp112520048">geaslagan</headword>
+      <description>superstitions. “Tha thu làn de na geaslagan.”</description>
+    </item>
+    <item>
+      <headword id="idp112544096">geaslagach</headword>
+      <description>superstitious.</description>
+    </item>
+    <item>
+      <headword id="idp112546184">réip</headword>
+      <description>a long, untidy beard. “Bha réip air.” [NOTES: note added above ‘p’ in ‘réip’ – b.]</description>
+    </item>
+    <item>
+      <headword id="idp112434296">còta breac</headword>
+      <description>a stripy long skirt, characterised by striking colours, usually red, white and blue.</description>
+    </item>
+    <item>
+      <headword id="idp112430480">còta drògaid</headword>
+      <description>also a long skirt [cf. còta drògaid], usually wine coloured.</description>
+    </item>
+    <item>
+      <headword id="idp112429328">còta fleinail</headword>
+      <description>a flannel underskirt, usually scarlet coloured.</description>
+    </item>
+    <item>
+      <headword id="idp112424000">dual</headword>
+      <description>cable stitch in knitting. [NOTES: note added above ‘dual’ – dubhal.]</description>
+    </item>
+    <item>
+      <headword id="idp112460360">craobh [?] na roinntich</headword>
+      <description>fern leaf pattern in knitting.</description>
+    </item>
+    <item>
+      <headword id="idp112459424">githagan</headword>
+      <description>thistle pattern. [NOTES: corrected to ‘githeagan’.]</description>
+    </item>
+    <item>
+      <headword id="idp112459784">calais</headword>
+      <description>chalice. [NOTES: note added – cailis.]</description>
+    </item>
+    <item>
+      <headword id="idp112459496">balga buachaill(e)</headword>
+      <description>mushroom.</description>
+    </item>
+    <item>
+      <headword id="idp112455896">cois ceum</headword>
+      <description>this was a mode of measurement which involved putting the heel of one shoe next to the toe of the other foot. Distance was measured using this system.</description>
+    </item>
+    <item>
+      <headword id="idp112451360">rudaneadh</headword>
+      <description>informant uses this in the sense of trudging as in trudging your feet. [NOTES: corrected to ‘rudanadh’.]</description>
+    </item>
+    <item>
+      <headword id="idp112466408">[Latha Fheill Moire]</headword>
+      <description>“Latha Fheill Moire, mór ’s t-fhoghar, buain is ceangal” – this saying would be uttered on the 15th of August.</description>
+    </item>
+    <item>
+      <headword id="idp112552520">trùdhleach</headword>
+      <description>would be applied to a mischievous person, someone who was always in trouble. “Nach ’be tu an trùdhleach.”</description>
+    </item>
+    <item>
+      <headword id="idp112550720">clann na mithalamh</headword>
+      <description>similar in meaning to the above [i.e. trùdhleach (q.v.)].</description>
+    </item>
+    <item>
+      <headword id="idp112509896">an drochd fhasg ort</headword>
+      <description>a desire to give someone a ticking off due to having committed some trivial but annoying offence. [NOTES: ‘fhasg’ corrected to ‘fhàsg’.]</description>
+    </item>
+    <item>
+      <headword id="idp112513280">latha buidhe Bealltuinn</headword>
+      <description>so called since traditionally, this day was expected to be sunny.</description>
+    </item>
+    <item>
+      <headword id="idp112515656">seathd</headword>
+      <description>a group, e.g. of people. “’Se droch sheathd a tha sin.” [NOTES: note added above ‘seathd’ – seat.]</description>
+    </item>
+    <item>
+      <headword id="idp112485632">coiteachadh</headword>
+      <description>to force something on someone else.</description>
+    </item>
+    <item>
+      <headword id="idp112520120">blàcadh</headword>
+      <description>to polish your shoes. [NOTES: corrected to ‘blacadh’.]</description>
+    </item>
+    <item>
+      <headword id="idp112531784">bléicinn</headword>
+      <description>shoe polish. [NOTES: corrected to ‘bleicinn’.]</description>
+    </item>
+    <item>
+      <headword id="idp2830128">garadh càil</headword>
+      <description>cabbage garden.</description>
+    </item>
+    <item>
+      <headword id="idp2831640">mointeag (-an)</headword>
+      <description>a name applied to cattle that came from Mull.</description>
+    </item>
+    <item>
+      <headword id="idp2833152">lòchran</headword>
+      <description>located in Roman Catholic chapels. Usually located beside the tabernacle. A red coloured glass cylinder with a candle burning inside at night.</description>
+    </item>
+    <item>
+      <headword id="idp2834664">sgoth fhosgailte</headword>
+      <description>a particular type of sail boat.</description>
+    </item>
+    <item>
+      <headword id="idp2836176">Thainig phraig dhaoine orm</headword>
+      <description>an unexpected visit from a group of people. [NOTES: ‘phraig’ corrected to ‘phràig’ and note added above ‘ph’ – f.]</description>
+    </item>
+    <item>
+      <headword id="idp2837832">blaudaireachd</headword>
+      <description>bawling as in ‘ag éigheach ’sa …’. [NOTES: note added above ‘u’ in ‘blaudaireachd’ – bh.]</description>
+    </item>
+  </items>
+</fieldworkDocument>
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 1/4/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Word-lists_ruaimleachadh" docType="questionnaire" subType="Miscellaneous" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>1951 (note dated 30/1/1976)</date>
+  <fieldworker>Iain [JL Campbell?]</fieldworker>
+  <informant>
+    <nameEnglish>?</nameEnglish>
+  </informant>
+  <location>Uist</location>
+  <items>
+    <item>
+      <headword id="idp2790000">ruaimleachadh</headword>
+      <description>A ribald ‘oran basaidh’ recorded at a luadhadh in Uist in 1951: Hug hoireann ó, ’s e m’aighear i (ABA refrain) / ’S e Raghnall théid a laighe leat / ’S e … C. a fhuair thu / ’S e Iain Nill Mhoir a nì do ruaimleachadh (as far as I can make out). Have you instances of ‘ruaimleachadh’ in this sense?</description>
+    </item>
+  </items>
+</fieldworkDocument>

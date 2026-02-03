@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 27/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_TireeMMacLeanslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>10/1970</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <informant>
+    <nameEnglish>Mary MacLean</nameEnglish>
+  </informant>
+  <location>Tiree</location>
+  <items>
+    <item>
+      <headword id="idp117292464">làr-cheaba</headword>
+      <description>Notes: turfing spade.</description>
+    </item>
+    <item>
+      <headword id="idp117289800">leth-bhodach</headword>
+      <description>Notes: ½ bottle of whisky.</description>
+    </item>
+    <item>
+      <headword id="idp117286632">mias</headword>
+      <description>Quotation: ’S math lionmhorachd na làmh ach mu’n mhias.</description>
+    </item>
+    <item>
+      <headword id="idp117283320">mothalanachd</headword>
+      <description>Quotation: a’ mothalanachd [ˈmɔ̃əɫɑṉɑxk]. Notes: working for nothing for the likes of the landlord, e.g. building dykes.</description>
+    </item>
+    <item>
+      <headword id="idp117306432">rotach</headword>
+      <description>Notes: dirty, untidy.</description>
+    </item>
+    <item>
+      <headword id="idp117307944">rùdach</headword>
+      <description>Quotation: duine rùdach. Notes: a dirty person.</description>
+    </item>
+    <item>
+      <headword id="idp117309600">rùth</headword>
+      <description>[ru̜:] Notes: long pinkish roots found on the machair – made a reddish-brown dye lighter than crotal.</description>
+    </item>
+    <item>
+      <headword id="idp117311328">noc</headword>
+      <description>Quotation: Dé ’n uair a tha e air [əṉɔ̃k] sin? Notes: formerly used for “clock”.</description>
+    </item>
+    <item>
+      <headword id="idp117313272">pìchgean</headword>
+      <description>[pi:çɡʹɑṉ] Quotation: Chaneil ann dheth ach pìchgean de dhuine. Notes: miser.</description>
+    </item>
+    <item>
+      <headword id="idp117315144">pliùd</headword>
+      <description>Quotation: pliùd ròin. Notes: seal flipper.</description>
+    </item>
+    <item>
+      <headword id="idp117316800">sacanach</headword>
+      <description>[sɑxkɑṉɑx] Notes: ½ bottle of whisky.</description>
+    </item>
+    <item>
+      <headword id="idp117318528">sgadan-ceàrr</headword>
+      <description>Notes: small fish caught in streams – minnows?</description>
+    </item>
+    <item>
+      <headword id="idp117320040">sgàinteag</headword>
+      <description>[sɡɑ̃:nʹtʹɑɡ] Notes: dried cow dung used for fuel.</description>
+    </item>
+    <item>
+      <headword id="idp117321768">sgigean</headword>
+      <description>[sɡʹiɡʹɑṉ] [?] Quotation: sgigean fheòir. Notes: a small portion.</description>
+    </item>
+    <item>
+      <headword id="idp117323712">sginnich</headword>
+      <description>[sɡʹĩnʹiç] Notes: squeeze. (a’ sginnichgeadh)</description>
+    </item>
+    <item>
+      <headword id="idp117325440">sgrùd</headword>
+      <description>Quotation: Bha a h-uile rud air a sgrùdadh air falbh as a’ gheòla. Notes: cleaned out (talking about a boat that came ashore with certain things in it).</description>
+    </item>
+    <item>
+      <headword id="idp117327096">sliubhair</headword>
+      <description>[ʃlʹu̜əɾ] Notes: long thin green seaweed.</description>
+    </item>
+    <item>
+      <headword id="idp117328824">sporadh</headword>
+      <description>Quotation: a’ sporadh an eich. Notes: goading on the horse.</description>
+    </item>
+    <item>
+      <headword id="idp117330480">ùilleadh</headword>
+      <description>Quotation: úilleadh [sic] nam bodach. Notes: cod liver oil.</description>
+    </item>
+    <item>
+      <headword id="idp117332136">bana-ghoirtidh</headword>
+      <description>[bɑ̃ṉɑɣɔʴsṯi] Notes: godmother. (Dw. has bana-ghoistidh.) [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+    <item>
+      <headword id="idp117334008">beul-bòidheach</headword>
+      <description>[bıɑɫbɔ:ɑx] Quotation: Chuir mi beul-bòidheach air an duine. Notes: I flattered the man.</description>
+    </item>
+    <item>
+      <headword id="idp117335880">binndeal</headword>
+      <description>Notes: snare for catching birds. Hoops made from horsehair.</description>
+    </item>
+    <item>
+      <headword id="idp117337464">bodach</headword>
+      <description>Quotation: uilleadh nam bodach. Notes: cod liver oil.</description>
+    </item>
+    <item>
+      <headword id="idp117339120">boidsearachd</headword>
+      <description>Quotation: a’ boidsearachd mu’n cuairt. Notes: footering about, doing nothing in particular.</description>
+    </item>
+    <item>
+      <headword id="idp117340776">bonnach-cloicheadh</headword>
+      <description>Notes: bannock made on stone in front of the fire.</description>
+    </item>
+    <item>
+      <headword id="idp117342288">bonnach-luirgeadh</headword>
+      <description>Notes: said to be the reward given to a person by a witch for telling her when someone’s cow had calved. She would then put a spell on the cow to render it dry.</description>
+    </item>
+    <item>
+      <headword id="idp117343800">botrachan</headword>
+      <description>[bɔt̪ɾɑxɑṉ] Notes: hind-strap on a horse.</description>
+    </item>
+    <item>
+      <headword id="idp117345528">breamalach</headword>
+      <description>[bɾɛ̃məɫɔx] Notes: the “innards” of a beast.</description>
+    </item>
+    <item>
+      <headword id="idp117347256">breamasgal</headword>
+      <description>Notes: mixture.</description>
+    </item>
+    <item>
+      <headword id="idp117348768">cinnichgeadh</headword>
+      <description>[cĩnʹıçɡʹəɣ] Quotation: Bha e dha chinnichgeadh fhéin. Notes: scratch, rub.</description>
+    </item>
+    <item>
+      <headword id="idp117350640">clàmadh</headword>
+      <description>Notes: pawing (a girl).</description>
+    </item>
+    <item>
+      <headword id="idp117352152">cliùd</headword>
+      <description>[klu̟:d̪] Notes: clumsy or useless hand.</description>
+    </item>
+    <item>
+      <headword id="idp117353880">cloimhnteach-liath</headword>
+      <description>[kɫɔ̃:nʹtɔxlıɤ] Notes: mould.</description>
+    </item>
+    <item>
+      <headword id="idp117355608">cnèabag</headword>
+      <description>[kɾɛ̃:bɑɡ] Notes: a small ball of wool.</description>
+    </item>
+    <item>
+      <headword id="idp117357336">connsachadh</headword>
+      <description>Notes: disputing, arguing.</description>
+    </item>
+    <item>
+      <headword id="idp117358848">creamalach</headword>
+      <description>[kɾɛ̃mɑɫɔx] Quotation: creamalach chaorach. Notes: skeleton and remains of a dead sheep. (remains of anything – H. Meek)</description>
+    </item>
+    <item>
+      <headword id="idp117927032">draghachann</headword>
+      <description>[d̪ɾɤəxən̪] Quotation: a’ draghachann ri rud. Notes: struggling, or striving to do something and it wasn’t going very well.</description>
+    </item>
+    <item>
+      <headword id="idp117928904">dramasgal</headword>
+      <description>Quotation: dramasgal de dh’oran.</description>
+    </item>
+    <item>
+      <headword id="idp117930416">fàisneachd</headword>
+      <description>[fɑ:ʃnʹɑxk] Notes: prophecy, foretelling.</description>
+    </item>
+    <item>
+      <headword id="idp117932144">falcadh (sic)</headword>
+      <description>[fɑɫkəɣ] Notes: bathing.</description>
+    </item>
+    <item>
+      <headword id="idp117933872">farchan</headword>
+      <description>[fɑɾɑxɑṉ] Notes: mallet.</description>
+    </item>
+    <item>
+      <headword id="idp117935600">farmailt</headword>
+      <description>[fɑɾɑmɑlʹtʹ] Notes: tub for holding water. (H. Meek spells it faramail or farmail.)</description>
+    </item>
+    <item>
+      <headword id="idp117937328">fatradh</headword>
+      <description>[fɑt̪ɾɑɣ] Quotation: Fhuair e fatradh ann. Notes: shelter, accommodation for the night.</description>
+    </item>
+    <item>
+      <headword id="idp117939200">friasgan</headword>
+      <description>Notes: mussel.</description>
+    </item>
+    <item>
+      <headword id="idp117940712">gadraich</headword>
+      <description>Notes: miscellaneous bits and pieces (talking about various articles she found on a raft that came ashore).</description>
+    </item>
+    <item>
+      <headword id="idp117942224">giodalach</headword>
+      <description>Notes: flattering.</description>
+    </item>
+    <item>
+      <headword id="idp117943736">giudail</headword>
+      <description>[ɡʹu̟d̪əl] Quotation: Cha robh e ach a giudail mu’n cuairt. Notes: footering about.</description>
+    </item>
+  </items>
+</fieldworkDocument>

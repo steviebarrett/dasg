@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 28 6 14 -->
+<fieldworkDocument docId="AOHenley_KnockintorranFMacDonaldmisc" docType="wordlist" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>[1987-88]</date>
+  <fieldworker personId="ohenleya">A. O’Henley</fieldworker>
+  <informant>
+    <nameEnglish>Feme MacDonald</nameEnglish>
+  </informant>
+  <location>North Uist, Knockintorran</location>
+  <items>
+    <item>
+      <headword id="idp112528400">torr dubh</headword>
+      <description>seaweed gathered at end of year and stacked on machair land left to rot and used as fertiliser for potatoes in spring.</description>
+    </item>
+    <item>
+      <headword id="idp112448408">leathag</headword>
+      <description>ruffled bit of seaweed attached to tangles. Same as ‘liathag’.</description>
+    </item>
+    <item>
+      <headword id="idp112515872">“gille piullagach is loth pheallagach”</headword>
+      <description>if these two characters present in a household, taken as a sign of impending future prosperity. Both could be trained for gainful employment.</description>
+    </item>
+    <item>
+      <headword id="idp112531856">biorach</headword>
+      <description>dogfish.</description>
+    </item>
+    <item>
+      <headword id="idp112479224">reubainn</headword>
+      <description>a beard.</description>
+    </item>
+    <item>
+      <headword id="idp112552736">sgal</headword>
+      <description>a period of time. “Bha e sgal mhór am Beinn a Bhaoghla.”</description>
+    </item>
+    <item>
+      <headword id="idp112437752">ionnlad</headword>
+      <description>to clean, wash yourself. “Tha mi dol gam ionnlad fhéin.” Common in Wester Ross.</description>
+    </item>
+    <item>
+      <headword id="idp112536176">blaighteachas</headword>
+      <description>a little or part. “Tha blaighteachas tiorramachaidh orra an diugh.”</description>
+    </item>
+    <item>
+      <headword id="idp112505504">oil eas [sic]</headword>
+      <description>fuss, stir. “Ach an oil eas a bha thall an sud an diugh.” Not sure whether or not this is one word.</description>
+    </item>
+    <item>
+      <headword id="idp112427888">geadadh</headword>
+      <description>to beat.</description>
+    </item>
+    <item>
+      <headword id="idp112452080">baltag</headword>
+      <description>said of someone with chubby facial features.</description>
+    </item>
+    <item>
+      <headword id="idp112512344">steòrnadh</headword>
+      <description>to wave.</description>
+    </item>
+    <item>
+      <headword id="idp112462520">farchlais</headword>
+      <description>eavesdropping.</description>
+    </item>
+    <item>
+      <headword id="idp112462448">spìdeal</headword>
+      <description>fit and well. “A bheil sibh gu spìdeil.”</description>
+    </item>
+    <item>
+      <headword id="idp112470008">coidhligeadh</headword>
+      <description>applied to someone who is engaged in demanding inconvenient labour. I think this word also contains a sense of gathering. Heard this word whilst informant was busy gathering towels throughout the house, which were to be washed – “Tha mise a’ coidhligeadh an seo.”</description>
+    </item>
+    <item>
+      <headword id="idp112512128">coinnethal</headword>
+      <description>a sort of woolen scarf or cravat worn in days gone.</description>
+    </item>
+  </items>
+</fieldworkDocument>
+

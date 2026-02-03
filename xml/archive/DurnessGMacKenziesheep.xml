@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 15 1 15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="DRMorrisonetal_DurnessGMacKenziesheep" docType="questionnaire" subType="Sheep" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Caoraich / Sheep</title>
+  <date>[1970]</date>
+  <fieldworker>[self]</fieldworker>
+  <informant>
+    <nameEnglish>George MacKenzie</nameEnglish>
+    <age>67</age>
+    <origin>Assynt, Stoer</origin>
+  </informant>
+  <location>Sutherland, Lairg, Durness</location>
+  <items>
+    <item>
+      <headword id="d0e33" type="heading" level="h1">1. Different stages in the growth of sheep (female)</headword>
+    </item>
+    <item>
+      <headword id="idp115309080">uan “borran”</headword>
+      <description>female lamb. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp115305408">uan “ferrin”</headword>
+      <description>male lamb. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp115300080">oasg</headword>
+      <description>year old female. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp115324416">caora “hesk”</headword>
+      <description>sheep that missed the ram. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp115325928">beal “prest”</headword>
+      <description>broken mouthed. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="d0e84" type="heading" level="h1">2. Different stages in the growth of sheep (male)</headword>
+    </item>
+    <item>
+      <headword id="d0e90" type="heading" level="h1">3. Different stages in the growth of the castrated male</headword>
+    </item>
+    <item>
+      <headword id="idp115329168">moult</headword>
+      <description>wedder. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="d0e105" type="heading" level="h1">4. Sheep’s appearance</headword>
+    </item>
+    <item>
+      <headword id="idp115331544">caorich brucach</headword>
+      <description>brown faced sheep. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp115333056">dubh ceannich</headword>
+      <description>black faced sheep. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp115334568">caora gheal</headword>
+      <description>white sheep. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp115336080">ruisg trom</headword>
+      <description>heavy fleece. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp115337592">caora “urragach”</headword>
+      <description>big horned sheep. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp115339104">caora maol</headword>
+      <description>sheep with no horns. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp115340616">[caorich mhor]</headword>
+      <description>Cheviots are usually called by the English name of the breed and about 50 years ago as caorich mhor.</description>
+    </item>
+    <item>
+      <headword id="idp115342128">caora “ravar”</headword>
+      <description>fat sheep. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="d0e183" type="heading" level="h1">5. Miscellaneous</headword>
+    </item>
+    <item>
+      <headword id="idp115344504">pait</headword>
+      <description>pet lamb. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp115346016">ruit</headword>
+      <description>partly castrated ram. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp115347528">riath</headword>
+      <description>ram. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="d0e216" type="heading" level="h1">6. Feeding and grazing</headword>
+    </item>
+    <item>
+      <headword id="d0e222" type="heading" level="h1">7. Handling of sheep</headword>
+    </item>
+    <item>
+      <headword id="idp115350768">fuadachin</headword>
+      <description>driving to grazing. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp115352280">trusachin</headword>
+      <description>gathering for dipping, etc. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp115353792">fanga</headword>
+      <description>fank. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp115355304">dippar</headword>
+      <description>dipping trough. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp115356816">drippar</headword>
+      <description>dripping pen alongside tank. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp115358328">keel, buist</headword>
+      <description>marking. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp115360272">corrarich</headword>
+      <description>lug marking. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp115362216">spoth</headword>
+      <description>castrating. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp115364232">keer, keer</headword>
+      <description>call to a pet lamb. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="d0e309" type="heading" level="h1">8. Apparatus</headword>
+    </item>
+    <item>
+      <headword id="idp115366608">teaghair</headword>
+      <description>tether. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp115368120">keepan</headword>
+      <description>tether stake. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp115369632">foodlan</headword>
+      <description>swivel. (Stoer, Assynt) The “foodlan” is usually an oblong piece of hard wood 4" x 2" x ½" (bigger for cattle) with two holes. The tether threaded through each hole from different side with an overhand knot on each rope, thus revolving in the “foodlan”. The modern iron swivel was merely called “sweevil”. <illustration src="DurnessGMacKenziesheepillust1.jpg" width="150"/></description>
+    </item>
+    <item>
+      <headword id="d0e343" type="heading" level="h1">9. Diseases</headword>
+    </item>
+    <item>
+      <headword id="idp115372440">toak</headword>
+      <description>cataract on eyes. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp115373952">plock</headword>
+      <description>fluck (bag under jaw). (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp115375464">spoota</headword>
+      <description>diarrhoea. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp115376976">ruaidh</headword>
+      <description>inflamed udder. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp115378920">sclateran</headword>
+      <description>flukes in liver. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp115380936">silad</headword>
+      <description>sheep louse or keb. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp115382448">creag</headword>
+      <description>sheep struck by fly (maggots). (Stoer, Assynt) Tha creag “ooya” – ooya is used in Stoer for orra.</description>
+    </item>
+    <item>
+      <headword id="d0e412" type="heading" level="h1">10. Parts of the body</headword>
+    </item>
+    <item>
+      <headword id="idp115385112">ceann</headword>
+      <description>head. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp115386624">crackan</headword>
+      <description>hide. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp115388136">ugh</headword>
+      <description>udder. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp115389648">shinnan</headword>
+      <description>teats. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp115391160">arnan</headword>
+      <description>kidneys. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp115392672">skavan</headword>
+      <description>lungs. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp115394184">atha</headword>
+      <description>liver. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp115395696">stamag</headword>
+      <description>stomach. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp120011600">culan</headword>
+      <description>intestines. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp120014984">mionach</headword>
+      <description>intestines. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp119991368">thannie or tannie</headword>
+      <description>abdominal fat. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp119990720">geer</headword>
+      <description>fat round kidneys. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp119989856">garr</headword>
+      <description>contents of the stomach. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp119988344">broo (bru)</headword>
+      <description>belly. Tha broo mhor oyia.</description>
+    </item>
+    <item>
+      <headword id="idp119984456">broinn</headword>
+      <description>usually applied to the inside in general. An a bhroinn na caora.</description>
+    </item>
+    <item>
+      <headword id="d0e553" type="heading" level="h1">11. Lambing</headword>
+    </item>
+    <item>
+      <headword id="idp119985752">cur uan</headword>
+      <description>sheep in labour. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp119982296">salachar</headword>
+      <description>afterbirth. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="d0e577" type="heading" level="h1">12. Miscellaneous</headword>
+    </item>
+  </items>
+</fieldworkDocument>

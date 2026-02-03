@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 24 4 13 -->
+<fieldworkDocument docId="Peat_StaffinSchoolmoine" docType="questionnaire" subType="Peat">
+  <title>Mòine / Peat-Working</title>
+  <fieldworker>[school]</fieldworker>
+  <informant>
+    <nameEnglish>Staffin School</nameEnglish>
+    <nameGaelic>Sgoil Stafainn </nameGaelic>
+  </informant>
+  <location>An t-Eilean Sgitheanach, Stafainn [Skye, Staffin]</location>
+  <items>
+    <item><headword id="d0e26" type="heading" level="h1">1. Ag ullachadh na talmhainn airson mòine a bhuain</headword></item>
+    <item>
+      <headword id="d0e31">rusgadh</headword>
+      <description>turfing.</description>
+    </item>
+    <item><headword id="d0e39" type="heading" level="h1">2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</headword></item>
+    <item>
+      <headword id="d0e44">spaid</headword>
+      <description>spade.</description>
+    </item>
+    <item>
+      <headword id="d0e53">barr fhad</headword>
+      <description>top peat.</description>
+    </item>
+    <item>
+      <headword id="d0e62">dara fad</headword>
+      <description>second peat.</description>
+    </item>
+    <item>
+      <headword id="d0e71">dubh fhad</headword>
+      <description>bottom peat.</description>
+    </item>
+    <item><headword id="d0e79" type="heading" level="h1">3. A’ tiormachadh na mònach</headword></item>
+    <item>
+      <headword id="d0e84">togail na mona</headword>
+      <description>making little heaps of 8-10 peats in order that they dry.</description>
+    </item>
+    <item>
+      <headword id="d0e93">torradh na mona</headword>
+      <description>making big heaps of the dry peat.</description>
+    </item>
+    <item>
+      <headword id="d0e102">rudhan mona</headword>
+      <description>a heap of peat on the bog.</description>
+    </item>
+    <item>
+      <headword id="d0e111">a chas bheag</headword>
+      <description>one peat lifted on its side with other two resting against it to dry.</description>
+    </item>
+    <item><headword id="d0e119" type="heading" level="h1">4. A’ cruachadh na mònach</headword></item>
+    <item>
+      <headword id="d0e124">gniomhadh</headword>
+      <description>preparing the outside edge of the peat stack.</description>
+    </item>
+    <item><headword id="d0e132" type="heading" level="h1">5. A’ toirt na mònach dhachaigh; an cliabh, etc.</headword></item>
+    <item><headword id="d0e136" type="heading" level="h1">6. Seòrsachan mònach</headword></item>
+    <item><headword id="d0e140" type="heading" level="h1">7. Faclan eile</headword></item>
+  </items>
+</fieldworkDocument>

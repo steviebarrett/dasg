@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 5/8/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_ApplecrossPMacDonaldslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>1966-1971</date>
+  <informant>
+    <nameEnglish>Mrs. P. MacDonald</nameEnglish>
+  </informant>
+  <location>Applecross</location>
+  <items>
+    <item>
+      <headword id="idp167341584">laghanachd</headword>
+      <description>Quotation: Bha iad le laghanachd air a chéile. Notes: bossing, criticising.</description>
+    </item>
+    <item>
+      <headword id="idp167338632">meadhannan</headword>
+      <description>[ˈmɛ̃-əNən] Quotation: Chaidh i as na meadhannan. Notes: ref. to some discomfort or injury arising when carrying a creel?</description>
+    </item>
+    <item>
+      <headword id="idp167334960">onfhais</headword>
+      <description>[[ɔ̃nɔ̃]hɑʃ] Quotation: Cha mhór nach do leig e ’bhean leis an onfhais a bh’air. Notes: agitated motion. Used above of a man praying in public.</description>
+    </item>
+    <item>
+      <headword id="idp167355192">spreadhadh</headword>
+      <description>[spre-ək] Quotation: Chan eil móran spreadhadh innt’ airson airgead. Notes: used of a person not too willing to spend money.</description>
+    </item>
+    <item>
+      <headword id="idp167357208">stadhadh</headword>
+      <description>[stə-ək] Quotation: A’ stadhadh a th’ann gho chùl! Notes: a stiffly erect posture of the body.</description>
+    </item>
+    <item>
+      <headword id="idp167359080">streamadh</headword>
+      <description>Quotation: pl. streamaidhnean. Streamaidhnean feòil air cùl amhaich. Notes: folds or wrinkles of flesh.</description>
+    </item>
+    <item>
+      <headword id="idp167360736">taosnadh</headword>
+      <description>Notes: kneading (v.n.).</description>
+    </item>
+    <item>
+      <headword id="idp167362248">aran eòrna</headword>
+      <description>Quotation: Chan eil iad ach mar gheir is aran eòrna. Notes: of two people who don’t get on well.</description>
+    </item>
+    <item>
+      <headword id="idp167363904">clìofaid</headword>
+      <description>Notes: flake of soot or snow.</description>
+    </item>
+    <item>
+      <headword id="idp167365416">comhais</headword>
+      <description>[kɔ̃:ʃ] Notes: cleft in rock; crevice.</description>
+    </item>
+    <item>
+      <headword id="idp167367144">còmhnaidh</headword>
+      <description>Quotation: Còmhnaidh mhór shneachda. Notes: a fall of snow that lies.</description>
+    </item>
+    <item>
+      <headword id="idp167368800">crìonag</headword>
+      <description>Quotation: ’S e fìor chrìonag a th’innte siod. Notes: a stingy female.</description>
+    </item>
+    <item>
+      <headword id="idp167370456">dreòsgach</headword>
+      <description>Notes: loose (of knitting, cloth).</description>
+    </item>
+    <item>
+      <headword id="idp167371968">droiteachan</headword>
+      <description>Notes: eye of thread on dress for fastening with metal hook.</description>
+    </item>
+    <item>
+      <headword id="idp167373552">fathaidh</headword>
+      <description>Quotation: Dath fathaidh. Notes: pale complexion.</description>
+    </item>
+    <item>
+      <headword id="idp167375208">gèabadaich</headword>
+      <description>[ɡʹiɑ:bədiç] Notes: clearing of the throat.</description>
+    </item>
+    <item>
+      <headword id="idp167376936">geir</headword>
+      <description>Quotation: Chan eil iad ach mar gheir is aran eòrna. Notes: of two people who don’t get on well.</description>
+    </item>
+    <item>
+      <headword id="idp167378592">gùgag</headword>
+      <description>Notes: cubby-hole, or very small room.</description>
+    </item>
+  </items>
+</fieldworkDocument>

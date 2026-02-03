@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 1/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_GairlochKMacRaeslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>12/1969</date>
+  <fieldworker>[AJ Smith]</fieldworker>
+  <note>[NOTES: in IPA transcriptions, the fieldworker uses [w] for [ɯ].]</note>
+  <informant>
+    <nameEnglish>Kenneth MacRae</nameEnglish>
+  </informant>
+  <location>Ross-shire, Gairloch</location>
+  <items>
+    <item>
+      <headword id="idp166287208">lanndran</headword>
+      <description>[ɫ[ɑ̃ũ̜]n̪d̪əɾɑṉ] Notes: lantern.</description>
+    </item>
+    <item>
+      <headword id="idp166283176">lias</headword>
+      <description>[lʹiɑs] Notes: torch made from a stick with a cloth at the end, dipped in oil and lit.</description>
+    </item>
+    <item>
+      <headword id="idp166279720">mealbhan</headword>
+      <description>[mjɑɫɑvɑṉ] Notes: sand dune.</description>
+    </item>
+    <item>
+      <headword id="idp166300312">meigeadaich</headword>
+      <description>[mɛ̃gʹəd̪iç] Notes: bleat of a goat.</description>
+    </item>
+    <item>
+      <headword id="idp166302040">móine</headword>
+      <description>Quotation: móine phlòiteach. Notes: spongy peat.</description>
+    </item>
+    <item>
+      <headword id="idp166303696">mollan</headword>
+      <description>[mɔɫɑ̃ṉ] Notes: a corn rick.</description>
+    </item>
+    <item>
+      <headword id="idp166305424">plòiteach</headword>
+      <description>Quotation: móine phlòiteach. Notes: spongy peat.</description>
+    </item>
+    <item>
+      <headword id="idp166307080">pùdach</headword>
+      <description>Notes: a young bird in a nest.</description>
+    </item>
+    <item>
+      <headword id="idp166308592">pùlas</headword>
+      <description>Notes: handle of pail, pot, etc.</description>
+    </item>
+    <item>
+      <headword id="idp166310104">sléiteag</headword>
+      <description>[ʃlʹe:tʹɑɡ] Notes: horse-drawn sledge.</description>
+    </item>
+    <item>
+      <headword id="idp166311832">smugach</headword>
+      <description>Notes: damp (of weather).</description>
+    </item>
+    <item>
+      <headword id="idp166313344">sòla</headword>
+      <description>Quotation: sòla na h-uinneige. Notes: window sill.</description>
+    </item>
+    <item>
+      <headword id="idp166315000">tarbhan-dé</headword>
+      <description>Notes: butterfly.</description>
+    </item>
+    <item>
+      <headword id="idp166316512">tobhtag</headword>
+      <description>Notes: stackyard.</description>
+    </item>
+    <item>
+      <headword id="idp166318024">ullag</headword>
+      <description>Quotation: ullag mhine. Notes: a handful.</description>
+    </item>
+    <item>
+      <headword id="idp166319680">cana</headword>
+      <description>Notes: porpoise.</description>
+    </item>
+    <item>
+      <headword id="idp166321192">càrn-slaod</headword>
+      <description>Notes: horse-drawn sledge with a box like an ordinary cart.</description>
+    </item>
+    <item>
+      <headword id="idp166322776">clid</headword>
+      <description>[klidʹ] Notes: sleet.</description>
+    </item>
+    <item>
+      <headword id="idp166324504">còmhnaidh</headword>
+      <description>Quotation: Tha e dol a dheanamh còmhnaidh shneachd. Notes: a heavy fall of snow which will lie.</description>
+    </item>
+    <item>
+      <headword id="idp166326160">dais</headword>
+      <description>Notes: collection of peats on the bank. A few “rùmhain” put together.</description>
+    </item>
+    <item>
+      <headword id="idp166327672">dòrn-locair</headword>
+      <description>Notes: small hand-plane.</description>
+    </item>
+    <item>
+      <headword id="idp166329184">frithleasg</headword>
+      <description>[fɾılwsɡ] Notes: earthworm.</description>
+    </item>
+    <item>
+      <headword id="idp166330912">gaisidh</headword>
+      <description>Quotation: Tha ’m buntàta uamhasach gaisidh. Notes: diseased.</description>
+    </item>
+    <item>
+      <headword id="idp166332568">garra-ghairt</headword>
+      <description>[ɡɑrəɣɑʴsṯ] Notes: corncrake. [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+    <item>
+      <headword id="idp166334440">griogais</headword>
+      <description>Notes: small potatoes.</description>
+    </item>
+  </items>
+</fieldworkDocument>

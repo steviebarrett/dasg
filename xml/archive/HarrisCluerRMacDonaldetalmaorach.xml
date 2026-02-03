@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 23 4 14 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="HarrisVarious_HarrisCluerRMacDonaldetalmaorach" docType="questionnaire" subType="Maorach" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Maorach / Shellfish</title>
+  <fieldworker>[anonymous D]</fieldworker>
+  <informant>
+    <nameEnglish>Roderick MacDonald</nameEnglish>
+    <age>80</age>
+  </informant>
+  <informant>
+    <nameEnglish>Bannantyne MacLeod</nameEnglish>
+    <age>early 40's</age>
+  </informant>
+  <informant>
+    <nameEnglish>Jessie MacLeod</nameEnglish>
+    <age>early 40's</age>
+  </informant>
+  <informant>
+    <nameEnglish>Rachel MacLeod</nameEnglish>
+    <age>mid 60's</age>
+  </informant>
+  <location>Cluer</location>
+  <items>
+    <item>
+      <headword id="d0e54">faobhag</headword>
+      <description>small squid.</description>
+    </item>
+    <item>
+      <headword id="d0e63">gibneach</headword>
+      <description>octopus.</description>
+    </item>
+    <item>
+      <headword id="d0e72">giomach tuaigheal</headword>
+      <description>crayfish.</description>
+    </item>
+    <item>
+      <headword id="d0e81">maosgan caol</headword>
+      <description>prawn.</description>
+    </item>
+    <item>
+      <headword id="d0e90">moasgan</headword>
+      <description>[sic] mussel.</description>
+    </item>
+    <item>
+      <headword id="d0e99">muirsgein</headword>
+      <description>razorshell.</description>
+    </item>
+    <item>
+      <headword id="d0e108">fiasgan</headword>
+      <description>oyster.</description>
+    </item>
+    <item>
+      <headword id="d0e117">duiraichean</headword>
+      <description>makes holes in wood.</description>
+    </item>
+    <item>
+      <headword id="d0e126">portan</headword>
+      <description>crab.</description>
+    </item>
+    <item>
+      <headword id="d0e135">blaith laoghag</headword>
+      <description>small fish found in rock pools.</description>
+    </item>
+    <item>
+      <headword id="d0e144">garran creagadh</headword>
+      <description>gurnard, rock fish.</description>
+    </item>
+    <item>
+      <headword id="d0e153">cnòdan</headword>
+      <description>gurnet.</description>
+    </item>
+    <item>
+      <headword id="d0e162">ugsa</headword>
+      <description>saoithean mòr.</description>
+    </item>
+    <item>
+      <headword id="d0e171">turbaid</headword>
+      <description>halibut.</description>
+    </item>
+    <item>
+      <headword id="d0e180">cuideag</headword>
+      <description>whiting.</description>
+    </item>
+    <item>
+      <headword id="d0e189">cuideag ghorm</headword>
+      <description>blue whiting.</description>
+    </item>
+    <item>
+      <headword id="d0e198">giomach ann am faochag</headword>
+      <description>hermit crab.</description>
+    </item>
+    <item>
+      <headword id="d0e207">cnaimh rionnach</headword>
+      <description>horse mackerel.</description>
+    </item>
+    <item>
+      <headword id="d0e216">a bhiorach</headword>
+      <description>dog fish.</description>
+    </item>
+    <item>
+      <headword id="d0e225">an cearban</headword>
+      <description>shark.</description>
+    </item>
+    <item>
+      <headword id="d0e234">puthag</headword>
+      <description>porpoise, dolphin.</description>
+    </item>
+    <item>
+      <headword id="d0e243">muc breac</headword>
+      <description>killer whale.</description>
+    </item>
+    <item>
+      <headword id="d0e252">falmair</headword>
+      <description>hake.</description>
+    </item>
+    <item>
+      <headword id="d0e261">traille</headword>
+      <description>link.</description>
+    </item>
+    <item>
+      <headword id="d0e270">biast dhubh</headword>
+      <description>otter.</description>
+    </item>
+    <item>
+      <headword id="d0e279">bun-a-bhuchaille</headword>
+      <description>shag.</description>
+    </item>
+    <item>
+      <headword id="d0e288">an earg</headword>
+      <description>wild duck.</description>
+    </item>
+    <item>
+      <headword id="d0e297">sgarbh</headword>
+      <description>cormorant.</description>
+    </item>
+    <item>
+      <headword id="d0e306">fach</headword>
+      <description>shearwater; also shelter for the night, fàch oidhche.</description>
+    </item>
+  </items>
+</fieldworkDocument>

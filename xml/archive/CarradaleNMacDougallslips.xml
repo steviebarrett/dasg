@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 10/8/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_CarradaleNMacDougallslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>04/1968, 1967</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <informant>
+    <nameEnglish>Neil MacDougall</nameEnglish>
+    <age>80s</age>
+    <origin>Carradale</origin>
+  </informant>
+  <location>Argyll, Carradale</location>
+  <items>
+    <item><headword id="idola996" type="heading" level="h1">04/1968</headword></item>
+    <item>
+      <headword id="idp118902936">liabag</headword>
+      <description>Notes: flounder.</description>
+    </item>
+    <item>
+      <headword id="idp118900128">lion-cuir</headword>
+      <description>Notes: drift-net. Plural: liontan-cuir.</description>
+    </item>
+    <item>
+      <headword id="idp118896960">lion-sgrìobaidh</headword>
+      <description>Notes: ring-net. Plural: liontan-sgrìobaidh.</description>
+    </item>
+    <item>
+      <headword id="idp118893648">plad</headword>
+      <description>[pɫɑd̪] Notes: fleet (of boats). (?)</description>
+    </item>
+    <item>
+      <headword id="idp118917192">amhsan</headword>
+      <description>Notes: solan goose.</description>
+    </item>
+    <item>
+      <headword id="idp118918704">cliùchdair</headword>
+      <description>Notes: net-mender.</description>
+    </item>
+    <item>
+      <headword id="idp118920216">earrag</headword>
+      <description>Notes: “milt” in any fish. (?)</description>
+    </item>
+    <item><headword id="idola997" type="heading" level="h1">1967</headword></item>
+    <item>
+      <headword id="idp118922592">[keel]</headword>
+      <description>Quotation: Bha na bàtan cóig no sè troigh fichead anns an [dɔim]. Notes: keel.</description>
+    </item>
+    <item>
+      <headword id="idp118924608">locar-sguitsidh</headword>
+      <description>Notes: Dw. jack-plane.</description>
+    </item>
+    <item>
+      <headword id="idp118926120">losgadh</headword>
+      <description>Quotation: Bha losgadh anns an uisge. Notes: phosphorescence.</description>
+    </item>
+    <item>
+      <headword id="idp118927776">maodal</headword>
+      <description>Notes: bladder.</description>
+    </item>
+    <item>
+      <headword id="idp118929288">muc-a-bioraich</headword>
+      <description>Notes: porpoise.</description>
+    </item>
+    <item>
+      <headword id="idp118930800">iuchair</headword>
+      <description>Notes: roe.</description>
+    </item>
+    <item>
+      <headword id="idp118932312">peilig</headword>
+      <description>Quotation: Bha peiligean ann. Notes: porpoise (?) but much faster than ‘muc-a-bioraich’ q.v.</description>
+    </item>
+    <item>
+      <headword id="idp118933968">Baile-tha-Salainn</headword>
+      <description>Notes: Saltcoats.</description>
+    </item>
+    <item>
+      <headword id="idp118935480">bàta</headword>
+      <description>Quotation: pl. bàtan.</description>
+    </item>
+    <item>
+      <headword id="idp118936992">bocas</headword>
+      <description>Quotation: cóig tasdain am bocas.</description>
+    </item>
+    <item>
+      <headword id="idp118938504">bonnan</headword>
+      <description>Notes: scales (of fish).</description>
+    </item>
+    <item>
+      <headword id="idp118940016">bradan</headword>
+      <description>Quotation: bradan leathann [lʹɛ·ən̪]. Notes: Possibly ‘turbot’.</description>
+    </item>
+    <item>
+      <headword id="idp118941888">cearban</headword>
+      <description>Quotation: Bha cearbain [kʹɛɾəp[əi]ṉ] againn cuideachd. Notes: shark.</description>
+    </item>
+    <item>
+      <headword id="idp118944264">closachadh</headword>
+      <description>Quotation: Bha closachadh againn gus an tigeadh atharrachadh air an tìde. Notes: rest.</description>
+    </item>
+    <item>
+      <headword id="idp118945920">fàradh</headword>
+      <description>Quotation: Bithidh sinn a’ fàradh [fɑ:rə]. Notes: working all night when going fishing.</description>
+    </item>
+    <item>
+      <headword id="idp118947792">feamanach</headword>
+      <description>[fɛmən̪əx] Notes: seaweed.</description>
+    </item>
+    <item>
+      <headword id="idp118949520">fìor</headword>
+      <description>Quotation: … nuair a bha mi fìor òg. Notes: seems to be common in the informant’s speech.</description>
+    </item>
+    <item>
+      <headword id="idp118951176">Goraid</headword>
+      <description>[ɡɔr[ei]dʃ] Notes: Ardrossan. (Sound unclear.)</description>
+    </item>
+  </items>
+</fieldworkDocument>

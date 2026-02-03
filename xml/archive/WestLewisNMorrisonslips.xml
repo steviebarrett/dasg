@@ -1,0 +1,779 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 27/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_WestLewisNMorrisonslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>1967</date>
+  <fieldworker>[self]</fieldworker>
+  <informant>
+    <nameEnglish>Rev. Norman Morrison</nameEnglish>
+    <origin>West Lewis [the location given on the slips]</origin>
+  </informant>
+  <location>Ross-shire, Garve, Lochluichart</location>
+  <items>
+    <item>
+      <headword id="idp118752704">leanagan</headword>
+      <description>Quotation: “Tha leanagan air an t-súil aige.” Notes: conjuctivitis.</description>
+    </item>
+    <item>
+      <headword id="idp118747160">leth</headword>
+      <description>Quotation: “fear air leth-laimh”. Notes: half a hand.</description>
+    </item>
+    <item>
+      <headword id="idp118735352">leth</headword>
+      <description>Quotation: “là air leth”. Notes: a special day – particularly good. E.g. “duine air leth”.</description>
+    </item>
+    <item>
+      <headword id="idp118737512">leth-fhacal</headword>
+      <description>Quotation: Tuigidh fear-leughaidh leth-fhacal. Notes: a scholar can understand part of a statement. Applied to cryptic sayings [?]. Source: West Lewis.</description>
+    </item>
+    <item>
+      <headword id="idp118739600">lòinidh</headword>
+      <description>Quotation: gréum a lòinidh. Notes: backache. (Lòn – the kidney.)</description>
+    </item>
+    <item>
+      <headword id="idp118740752">Macruislig</headword>
+      <description>Quotation: “Tha Macruislig anns a mhin.” There is … (the anonymous) in the meal. Bha iad ag radh gur h-e Macruislig a rinn sud. Also used in the sense of Mr X… or Mrs X… (the unmentionable) Notes: I have no idea what the word really means; or what is its derivation.</description>
+    </item>
+    <item>
+      <headword id="idp118741976">mairg</headword>
+      <description>Quotation: ’S mairg a dh’earbas ris san. Notes: Pity anyone who trusts in him.</description>
+    </item>
+    <item>
+      <headword id="idp118744568">mánran</headword>
+      <description>Quotation: ’Shíne dhonn na’m buadhan blátha, / ’Sann deam fhein bu bhinn do mhánran / Ach a nis bho rinn thu m’fhágail / Chaidh mo chláirseach as a h-altan. Notes: used in the sense of delightful melody. By a local poet about a hundred years ago, of a neighbour “nightingale” whose voice in church served as an organ.</description>
+    </item>
+    <item>
+      <headword id="idp166653416">monabar</headword>
+      <description>Quotation: “Bha e monabar air son sud…” Notes: complaining.</description>
+    </item>
+    <item>
+      <headword id="idp166649744">rathad</headword>
+      <description>Notes: An rathad-mór – the highway, the main road. Ceum-cois – a footpath. Frith-rathad – a built bye-road of uncertain width. Rathad-cairteach – a road on which a cart can go. Rathad-beag – a joint road, or branch road (although actually as broad as the main road).</description>
+    </item>
+    <item>
+      <headword id="idp167492760">rian</headword>
+      <description>Quotation: Cha ghabhadh e rian, ’S cha ghabhadh e sion, ’S ’nuair chunnaic iad sin, ’Spion iad anam as. Notes: advice. Supposed to have been said by a tinker in regard to an unruly member of the tribe. Rian – way, means. Chan eil rian agam air a sin a dheanamh.</description>
+    </item>
+    <item>
+      <headword id="idp167495064">ris</headword>
+      <description>Notes: Thubhairt mise ris. – to him. Leig e ris dha. – he revealed to him. Tha e ris an deoch. – addicted to drink. Co bha ris? – Who was at him? (injuring him, words or blows) Tha an talamh ris. – seen (in time of snow). Leig e e féin ris. – he unclothed himself (e.g. when going to swim). Chan eil math a bhi ris. – There is no use arguing with him. Bha dùil aige ris. – he was expecting it. Bha càirdeas aige ris. – he was related to him. Bha e ag radh rithe. – he was saying to her. Feuchaidh e ris. – he will attempt to do it. Chuir e ’n t-aodach ris an teine. – at the fire. ’S math a chaidh e ris. – he dealt with him in a becoming manner! Cha bhi gnothuich agam ris. – I will take nothing to do with it.</description>
+    </item>
+    <item>
+      <headword id="idp167498592">roimhe</headword>
+      <description>Notes: Chaidh e roimhe. – before: in front of. Chual sinn e roimhe. – previously. Tha e air leigeil roimhe. – he has given up. Helpless. Se sud a chuir e roimhe. – purposed.</description>
+    </item>
+    <item>
+      <headword id="idp167500608">sitig</headword>
+      <description>Notes: ’S dàna cù air a shitig fein. Sitig – in the sense of dunghill. Sitig – a ditch, or drain. “’S tric a bha thu cadal ann a sitigean na dùine [sic].” Sitig – in the sense of site. “Bithidh esan a siubhal na sitigean.” He goes from house to house – or from site to site (certainly did not mean from dunghill to dunghill).</description>
+    </item>
+    <item>
+      <headword id="idp167502984">air</headword>
+      <description>Notes: Air a mhór-thir. Air Bràighe Steornabhaigh. Air an taobh-siar. Air na Lochan – at the Parish of Lochs.</description>
+    </item>
+    <item>
+      <headword id="idp167504928">iall</headword>
+      <description>Quotation: Iallan fad’ a leathair chàich. Notes: a proverb regarding those who are generous with other people’s property. Iall – leather boot-laces [sic]: usually cut out of the hide by the greasaich. They were longer when cut out of a hide belonging to others.</description>
+    </item>
+    <item>
+      <headword id="idp167506584">iat</headword>
+      <description>Quotation: Chaidh e gus an dorus iat. Notes: He went to the lower door. I never came across this word anywhere else and do not know what it means: but it was used in this sense of the lower door, or the furthest away.</description>
+    </item>
+    <item>
+      <headword id="idp167508240">neo-mathach</headword>
+      <description>Quotation: Chan fhaca mi duine ’riamh cho neo-mathach ris. Notes: so ruthless.</description>
+    </item>
+    <item>
+      <headword id="idp167509968">òpar</headword>
+      <description>Quotation: Aonghas Dubh an òpair / Aig òs loch an Tábhan. Notes: mud. Òpar air a bhriogais aige.</description>
+    </item>
+    <item>
+      <headword id="idp167511768">òs</headword>
+      <description>Quotation: òs loch an Tabhan. Notes: the outlet.</description>
+    </item>
+    <item>
+      <headword id="idp167513424">palla</headword>
+      <description>Quotation: “Thuit a chaora ann am palla.” Notes: “The sheep fell into a cleft of rock.”</description>
+    </item>
+    <item>
+      <headword id="idp167515080">piullidh</headword>
+      <description>Quotation: “Se obair phiullidh a tha sud.” Notes: It is the work of Satan that it is.</description>
+    </item>
+    <item>
+      <headword id="idp167516736">plaid</headword>
+      <description>Quotation: Chuireadh oir na plaide srianaich ris. Notes: He was chucked out!</description>
+    </item>
+    <item>
+      <headword id="idp167518392">puilleach</headword>
+      <description>Quotation: Balach puilleach ’s loth pheallach. Notes: A ragged boy and a shaggy colt. Two that ought not to be despised because both will grow into better coats.</description>
+    </item>
+    <item>
+      <headword id="idp167520048">Sealbh</headword>
+      <description>Quotation: “Gu sealladh Sealbh ort...” Notes: May Providence have mercy on you...</description>
+    </item>
+    <item>
+      <headword id="idp167521704">séid</headword>
+      <description>Quotation: “Shéid e an fheadag.” He blew the whistle. “Tha séid as a chas aige.” Swelling in his foot.</description>
+    </item>
+    <item>
+      <headword id="idp167523216">sgolopigeadh</headword>
+      <description>Quotation: Ni ise sgolopigeadh orra. Notes: said of one with a sharp tongue who married into another village. Is this the Greek word “sgolop” II. Corinthians. 12. 7. “a thorn in the flesh.”</description>
+    </item>
+    <item>
+      <headword id="idp167524872">spàrr</headword>
+      <description>Quotation: spàrr – a cross beam of a roof coupling. Spàrr – “Spàrr e an clobha dh’an an teine.” Sparradh – warning. “Thug e sparradh dha gun e dhol ann a rithist.”</description>
+    </item>
+    <item>
+      <headword id="idp167526384">spùt</headword>
+      <description>Quotation: Chan eil spùt aige – he has no idea, no sense. Be sin a spùtaidh – it is him that is the squirt. Notes: Is this a translation of squirt – an insignificant person? Or did the English copy it from Gaelic?!</description>
+    </item>
+    <item>
+      <headword id="idp167528040">sreith</headword>
+      <description>Quotation: “Tha i a’s an t-sreith.” Notes: average. Probably borrowed from army language: “in the ranks”. Also a furrow – “a buain na sreith chlaisean”. Sreith bhuntát – a drill of potatoes.</description>
+    </item>
+    <item>
+      <headword id="idp167529696">suagaraid</headword>
+      <description>Quotation: “Rinn e suagaraid a choreigin dheth.” Notes: He made some kind of mess or mixture of it.</description>
+    </item>
+    <item>
+      <headword id="idp167531352">sár</headword>
+      <description>Quotation: Na tabhair do t-sár fhacal. Notes: cf. A wise man holdeth his tongue till afterwards.</description>
+    </item>
+    <item>
+      <headword id="idp167533080">tairbhe</headword>
+      <description>Quotation: “An ainm gun an tairbhe.” Notes: The name without the profit or advantage. The semblance without the reality.</description>
+    </item>
+    <item>
+      <headword id="idp167534736">tais</headword>
+      <description>Quotation: ’S ann orra ’tha na taisean. Notes: soft parts (said of a bulky woman).</description>
+    </item>
+    <item>
+      <headword id="idp167536392">taisgeal</headword>
+      <description>Quotation: “Am bàrr deas ... ’s an géugan iosal taisgeil.” Notes: ear-marks of sheep. Deas – the right ear. Taisgeal – the left ear.</description>
+    </item>
+    <item>
+      <headword id="idp167538048">torghan</headword>
+      <description>Quotation: “Ciod e an torghan a th’air an leanaibh.” Notes: murmuring in complaint.</description>
+    </item>
+    <item>
+      <headword id="idp167539776">troimh-cheile</headword>
+      <description>Quotation: “Bha troimh-cheile aca aig a bhanais.” Notes: trifle – very apt translation.</description>
+    </item>
+    <item>
+      <headword id="idp167541432">tuaiream</headword>
+      <description>Quotation: Se sud a tuaiream a thanuig thuige. Notes: slip of the tongue (faux pas).</description>
+    </item>
+    <item>
+      <headword id="idp167543088">túchadh</headword>
+      <description>Quotation: Tha an túchadh air. Notes: He has laryngitis.</description>
+    </item>
+    <item>
+      <headword id="idp167544744">túchan</headword>
+      <description>Quotation: “Cuir túchan dh’a ’n a phrais.” Notes: shutter or lid. Also used for stopper, e.g. the cork in the keel of a coble or small boat to let out the bilge water when ashore; and to keep out the sea when afloat.</description>
+    </item>
+    <item>
+      <headword id="idp167546400">tur</headword>
+      <description>Quotation: Bha e tur aineolach air... – altogether ignorant of... Aran tur – bread without anything on it. Bare.</description>
+    </item>
+    <item>
+      <headword id="idp167547912">tùr</headword>
+      <description>Quotation: Duine gun tùr – a man without inventiveness.</description>
+    </item>
+    <item>
+      <headword id="idp167549496">uallach</headword>
+      <description>Quotation: “Uallach leanamh dhuin’ eile.” The charge of... A bhanarach ghuanach. Ag uallach nam bò – in charge of. Uallach na maidne – the charge of rising early. ’Sann air a tha uallach an tighe. It is he who is in charge of housekeeping. It is he who has the burden of... (intangible burden).</description>
+    </item>
+    <item>
+      <headword id="idp167551008">uallach</headword>
+      <description>Quotation: “’Se bha uallach a dol seachad...” Notes: brisk, lively.</description>
+    </item>
+    <item>
+      <headword id="idp167552664">uatha</headword>
+      <description>Quotation: Ma’s breug thugam e as breug bh’uam e.</description>
+    </item>
+    <item>
+      <headword id="idp167554176">ubhalabhiocuis</headword>
+      <description>Quotation: Ciod e an ubhalabhiocuis a tha’gad anns a phrais? Notes: used only in reference to food. Some mysterious mixture! No idea at all what the origin of the word is. It was widely used all the same.</description>
+    </item>
+    <item>
+      <headword id="idp167555904">ultach</headword>
+      <description>Quotation: “Be sin an ultach teine, uallach leanamh [?] dhuin’ eile.” Notes: Ultach – a burden carried in arms, in front. Eallach – a burden carried on one’s back.</description>
+    </item>
+    <item>
+      <headword id="idp119009968">umhail</headword>
+      <description>Quotation: Leanaibh gun umhail – unsuspecting, innocent child. Chuir mi umhail air gu’n robh rudeigin cearr. I half-suspected that something was wrong. Umhail dha’n lagh – obedient to the Law.</description>
+    </item>
+    <item>
+      <headword id="idp119011480">umhlachd</headword>
+      <description>Quotation: Modhalachd a’s umhlachd – good breeding and humility. [NOTES: slipped under ‘ùmhlachd’.]</description>
+    </item>
+    <item>
+      <headword id="idp119013136">abhlan</headword>
+      <description>Notes: used in W. Lewis, in the sense of some meat or fish etc. with the staple diet, e.g. “’S e sgadan abhlan a bhuntàt.” “Aran cruaidh gun abhlan” = bare bread.</description>
+    </item>
+    <item>
+      <headword id="idp119014648">adhart</headword>
+      <description>Notes: a pillow. “Ceann adhairt na leapa.” – The pillow end of the bed.</description>
+    </item>
+    <item>
+      <headword id="idp119016160">aghartan</headword>
+      <description>Quotation: Chan eil aghartas sam bith anns an duine ud. – He is good for nothing, he has no initiative. Abair dol air aghart! – What a carry on! [NOTES: slipped under ‘adhartan’.]</description>
+    </item>
+    <item>
+      <headword id="idp119017816">airidh</headword>
+      <description>Quotation: ’S math an airidh! – It serves him right! Notes: usually in scorn.</description>
+    </item>
+    <item>
+      <headword id="idp119019544">aiseag</headword>
+      <description>Quotation: “Am fear a bhios fada aig an aiseag gheibh e thairis uair éigin.” – the place of the ferry. “Th’uair [sic] e aiseag sàbhailt …” – the act of being ferried.</description>
+    </item>
+    <item>
+      <headword id="idp119021056">ais</headword>
+      <description>Notes: backward. Seems a peculiar word, like ‘backward invention’, or retrograde light.</description>
+    </item>
+    <item>
+      <headword id="idp119022568">altachadh</headword>
+      <description>Notes: blessing. The accepted word used in W. Lewis for Grace before meals. Not used regarding dealings between men – only of dealings between man and God.</description>
+    </item>
+    <item>
+      <headword id="idp119024080">amharc</headword>
+      <description>Notes: oversight – watchful care. Ag amharc gu géur air. – Looking. Ciod a th’aige ’s an amharc? – What has he got in mind / in view? B’e sin a chùis amharc! – What a sight!</description>
+    </item>
+    <item>
+      <headword id="idp119025592">anail</headword>
+      <description>Notes: a gabhail anail – taking a rest.</description>
+    </item>
+    <item>
+      <headword id="idp119027104">anamainn</headword>
+      <description>Quotation: Sann a chuir sud anamainn air. – That only made him angry.</description>
+    </item>
+    <item>
+      <headword id="idp119028616">àrach</headword>
+      <description>Notes: upbringing.</description>
+    </item>
+    <item>
+      <headword id="idp119030128">àrach</headword>
+      <description>Quotation: “Bha iad ag àrach airson gur h-e rinn sud.” – They were blaming him (without proof) that he did it.</description>
+    </item>
+    <item>
+      <headword id="idp119031640">àraid</headword>
+      <description>Quotation: Tha Iain cho àraid – so funny: humorous. ’S àraid a rud a tha sibh ag iarraidh. – queer: unusual: exceptional: strange. Nach b’àraid a rud a rinn e. – unexpected.</description>
+    </item>
+    <item>
+      <headword id="idp119033152">asgaill</headword>
+      <description>Notes: retreat: a place of shelter.</description>
+    </item>
+    <item>
+      <headword id="idp119034664">àth</headword>
+      <description>Quotation: “Bath m’ath’s bhathainn’s i nam bu t-ath’s i.” Notes: supposed to be a test of strangers: if he thought you were talking double-Dutch, he evidently had no Gaelic. It was meant to be said as one long word, which a man used to call for help from his neighbour when his KILN was on fire.</description>
+    </item>
+    <item>
+      <headword id="idp119036320">bad</headword>
+      <description>Quotation: “’Bheil e ga iarraidh anns a bhad?” – at once. Bad corc – sheaf of oats. Bad luachrach – the place (portion) of rushes.</description>
+    </item>
+    <item>
+      <headword id="idp119037832">bàn</headword>
+      <description>Quotation: “Leig e bàn am fearann.” (fallow – uncultivated) “Gearr a bhalaich, gearr, / Do mhòine fada bàn (pale) / ’S tu as deigh chàich.” Song of a fairy who came to help an old man. Bó bhan [sic] – white cow. Grunn de chearcan bàna – a flock (number) of white hens. An talamh bàn – the virgin soil, uncultivated ground, untouched, clean.</description>
+    </item>
+    <item>
+      <headword id="idp119039344">bannag</headword>
+      <description>Quotation: “Thoir a bhiadh do fhear-an-tighe, ’S thoir a bhannag dhomhsa.” – New Year’s cake. Notes: part of a Rhyme used by children visiting at New Year time – supposed to date back to the time of the Druids!</description>
+    </item>
+    <item>
+      <headword id="idp119041000">bàthach</headword>
+      <description>Notes: cow-house.</description>
+    </item>
+    <item>
+      <headword id="idp119042512">beatha</headword>
+      <description>Quotation: Di-bheatha. Tha sibh glé dhi-beath’d. Also Do-bheatha dha’n tìr.</description>
+    </item>
+    <item>
+      <headword id="idp119044024">blàthachadh</headword>
+      <description>Quotation: “Bha blàthachadh math air …” – He was in a jolly good mood …</description>
+    </item>
+    <item>
+      <headword id="idp119045536">blàth</headword>
+      <description>Notes: warm. Tigh blàth.</description>
+    </item>
+    <item>
+      <headword id="idp119047048">blàth</headword>
+      <description>Notes: opening of the bud.</description>
+    </item>
+    <item>
+      <headword id="idp119048560">bonn</headword>
+      <description>Quotation: Thug na buinn leis – sole of the foot. Thug e dha bonn òir/airgid – coin. “Bi thusa dol a null ’s a nall gus an ruig thu bonn na clais, ’s chan eil air ma tha e gann, ach na th’ann a thoirt as.” – the lowest part.</description>
+    </item>
+    <item>
+      <headword id="idp119050216">braidean</headword>
+      <description>Quotation: Nach b’e ’m braidean e. – Isn’t he a thief.</description>
+    </item>
+    <item>
+      <headword id="idp119051800">brath</headword>
+      <description>Quotation: “Bheil brath aige air obair?” – has he any word (information) about work. “Bha iad ag radh gur h-esan a bhrath air…” – acted the traitor. Brath – treachery.</description>
+    </item>
+    <item>
+      <headword id="idp119053456">bris</headword>
+      <description>Quotation: Thainig briseadh air a shlàinte. – failure. Briseadh-dùil – failure of hope: disappointment. Briseadh-cridhe – heart-break (not heart failure!).</description>
+    </item>
+    <item>
+      <headword id="idp119055328">brosguil</headword>
+      <description>Notes: in W. Lewis in the sense of ignorance or insincere talk. “Cha be ’n Creidimh ach am brosguil chuir a ghiùlan cròis a Phàp thu” – Argyll poet. Aoir air Mac Mhaighstir Alasdair ’n uair a thionndaidh e.</description>
+    </item>
+    <item>
+      <headword id="idp119057056">bruchdadh</headword>
+      <description>Notes: in W. Lewis the word is used for swelling, e.g. in a moss, expanding; or sudden rush of wind, a belch.</description>
+    </item>
+    <item>
+      <headword id="idp119058568">buaile</headword>
+      <description>Notes: a fold for stock. In the old Highlands, a fold for stock was always circular in form so that the beasts would keep on walking: a scientific fact of animal Psychology, with which stockmen are now catching up as a new discovery. These folds had no roof; and in times of heavy snow-fall, the continuous movement of stock was necessary for their survival. Fanks were also circular.</description>
+    </item>
+    <item>
+      <headword id="idp119060080">buanachadh</headword>
+      <description>Quotation: Bha e buanachadh gu math air a sin. – profiting. Ach bha am fear eile buanachadh air. – gaining ground, e.g. in a race. Bhuanaich e a’ ionnsuidh na crìch. – He endured/persevered to the end.</description>
+    </item>
+    <item>
+      <headword id="idp119061952">buidhe</headword>
+      <description>Notes: used in W. Lewis in the sense of fortunate. Also for the colour yellow – bó bhuidhe.</description>
+    </item>
+    <item>
+      <headword id="idp119063464">buileach</headword>
+      <description>Quotation: “Cha ruig e buileach an taobh eile.” – It will not quite reach the other side. “Se sin as ’miosa buileach.” Notes: quite.</description>
+    </item>
+    <item>
+      <headword id="idp119065120">cachaileith</headword>
+      <description>Quotation: Tea [sic] cnoc na cachalaidh gum b’ eagalach a neart a bh’innte, chuir i phoit a bhragadaich air cailleach Artur aig an Allt. Notes: gateway. Ancient right of way between two villages, but no gate; a pathway. Gates prob. unknown when hillock got its name. Source: W. Lewis.</description>
+    </item>
+    <item>
+      <headword id="idp119066920">caighinn</headword>
+      <description>Quotation: Chuir iad caighinn air aig a Chùirt. – He was fined at the Court.</description>
+    </item>
+    <item>
+      <headword id="idp119068432">càil</headword>
+      <description>Quotation: “Chan fhaigh mi càil (anything) bho lamhansan a ni mo chàil (appetite) a ghluasad.” Notes: desire. Cailear – desirable used of persons, appetising used of food.</description>
+    </item>
+    <item>
+      <headword id="idp119070088">càirich</headword>
+      <description>Quotation: càireadh – mending. Gun càireadh e na brògan.</description>
+    </item>
+    <item>
+      <headword id="idp119071672">cart</headword>
+      <description>Notes: a playing card. [NOTES: slipped under ‘cairt’.]</description>
+    </item>
+    <item>
+      <headword id="idp119073328">cart</headword>
+      <description>Notes: a post-card. [NOTES: slipped under ‘cairt’.]</description>
+    </item>
+    <item>
+      <headword id="idp166163464">cart dhonn</headword>
+      <description>Notes: a dye for fishing lines or nets. [NOTES: slipped under ‘cairt dhonn’.]</description>
+    </item>
+    <item>
+      <headword id="idp166165120">cart gheal</headword>
+      <description>Notes: quinine. [NOTES: slipped under ‘cairt gheal’.]</description>
+    </item>
+    <item>
+      <headword id="idp166166776">cairteal</headword>
+      <description>Quotation: “cairteal tea” – quarter.</description>
+    </item>
+    <item>
+      <headword id="idp166168288">caislich</headword>
+      <description>Quotation: a caisleachadh na leapa – making up the bed. Notes: caislich – smoothe.</description>
+    </item>
+    <item>
+      <headword id="idp166170016">caitheamh</headword>
+      <description>Quotation: Tha ’chaitheamh ann – he has consumption. Bha e caitheamh a chuid – he was wasting his substance. Far na chaith e moran dh’e là. – where he spent much of … Bhe [sic] caitheamh na h-ùine le … – passing the time with …</description>
+    </item>
+    <item>
+      <headword id="idp166171528">caoineachadh</headword>
+      <description>Quotation: A caoineachadh an fheòir – seasoning the hay. Fiodh gun chaoineachadh – unseasoned wood.</description>
+    </item>
+    <item>
+      <headword id="idp166173040">car</headword>
+      <description>Quotation: “Thug e char as.” Notes: He deceived him.</description>
+    </item>
+    <item>
+      <headword id="idp166174696">car</headword>
+      <description>Quotation: “Chan eil e deanamh car.” Notes: ‘Car’ in the sense of work.</description>
+    </item>
+    <item>
+      <headword id="idp166176352">car</headword>
+      <description>Quotation: “An car a bha ’san t-seann mhaide ’s duilich a thoirt as.” Notes: twist – a proverb generally applied to people set in their ways.</description>
+    </item>
+    <item>
+      <headword id="idp166178008">carach</headword>
+      <description>Quotation: “Cho carach ris a mhadadh ruadh.” Notes: cunning as a fox.</description>
+    </item>
+    <item>
+      <headword id="idp166179664">cartadh</headword>
+      <description>Quotation: cartadh na mònach – carting the peats.</description>
+    </item>
+    <item>
+      <headword id="idp166181176">cartadh</headword>
+      <description>Notes: cleaning out, e.g. ’S fhearrd’ an tigh an cartadh ud.</description>
+    </item>
+    <item>
+      <headword id="idp166182688">càs</headword>
+      <description>Quotation: “Ged nach e bàs a th’ann ’s e càs a th’ann.” Notes: perplexity, distress.</description>
+    </item>
+    <item>
+      <headword id="idp166184344">cearn</headword>
+      <description>Quotation: “Rinn e codail ceatharnach” – or cearnach. Notes: cearn – the living room. Codail ceatharnach – sleeping with clothes on. Cf. Rob Donn: “Chan eil seòmair aig rìgh Bhreatuinn, / ’S docha leann na’n cearn.”</description>
+    </item>
+    <item>
+      <headword id="idp166186072">cha mhòr</headword>
+      <description>Notes: almost all. Also: not much. Co ’n te bheag a tha sud air an làr. Tha bean na bainnse ’s cha mhòr i. There is not much of her. Cha mhòr a rud sin – not much in that.</description>
+    </item>
+    <item>
+      <headword id="idp166187872">ciall</headword>
+      <description>Quotation: “… Chuala mi chuthag, a chiallan, S dh’fhaighnich mi nach deigheadh a bhliadhna leam.” – I heard the cuckoo, my dear, and I knew that this year I would not prosper. (Part of an old rhyme.) Notes: also wisdom – duine ciallach: a wise man. Sense – rud gun chiall: a thing without sense. A chiall, a chiall! ciod e so? Dear, dear! What’s this?</description>
+    </item>
+    <item>
+      <headword id="idp166189744">ciliorum</headword>
+      <description>Quotation: Ciod e na ciliorums a tha air a leanaibh? or Abair ciliorums! Notes: an old minister told me that the word was from the Latin used in the R. C. Church Service; and was probably a survival from pre-Reformation times. Indicating something that no one could understand!</description>
+    </item>
+    <item>
+      <headword id="idp166191400">clàimhean</headword>
+      <description>Quotation: Na chuir thu ’n clàimhean air an dorus? Notes: Did you bolt the door? Did you put the latch on the door?</description>
+    </item>
+    <item>
+      <headword id="idp166193056">cleit</headword>
+      <description>Notes: used in West Lewis of parts of the uncultivated moor. “Na cleitean dubha.” Or would parts of it have once been under cultivation?</description>
+    </item>
+    <item>
+      <headword id="idp166194568">coimhlionta</headword>
+      <description>Quotation: Chan fhaigheadh e dh’an àirm bho nach robh e coimhleanta. – He could not join the army because he was not complete (i.e. had some physical defect). Notes: never heard the word used in regard to mental, or intellectual, shortcoming.</description>
+    </item>
+    <item>
+      <headword id="idp166196224">coinneamh</headword>
+      <description>Notes: Against – “Bha e m’a’n coinneamh.” He was over against them. Forward – “Chaidh e na choinneamh.” He went to meet him. Meeting. – “Chum iad coinneamh.” They held a meeting.</description>
+    </item>
+    <item>
+      <headword id="idp166198168">còir</headword>
+      <description>Quotation: Tha e gabhail tuilleadh sa chòir de dhànadas … – More than can be justified …</description>
+    </item>
+    <item>
+      <headword id="idp166199680">còir</headword>
+      <description>Notes: traditional statement of Gaelic Preacher – “M’as sguir Dia nan Gràs, bi cùpan do chor cho làn ri cùpan do chòire.” Còir – also used in the sense of kindness – duine còir.</description>
+    </item>
+    <item>
+      <headword id="idp166201192">coire</headword>
+      <description>Notes: kettle; dell.</description>
+    </item>
+    <item>
+      <headword id="idp166202704">coma</headword>
+      <description>Quotation: Ach coma leat, se bun a bh’ann… – But never mind, … Tha e coma dh’an a sin… – He dislikes… Mu tha, ’se tha coma… – does not care.</description>
+    </item>
+    <item>
+      <headword id="idp166204504">cor</headword>
+      <description>Notes: used in W. Lewis as the state in which a person is, e.g. Ciod e an cor a th’air.</description>
+    </item>
+    <item>
+      <headword id="idp166206016">còrr</headword>
+      <description>Quotation: “Na bha chòrr air an dìthead.” – What was left over from dinner. “Cha ghabhadh e’n còrr.” – He would not accept any more. “Cha robh ’n còrr aig’ air.” – He had no more sense. “Agus c’ait an robh ’n còrr?” – Where were the others? “Bi biadh air a bhòrd as còrr mu choinneamh gach tràth.” – plenty.</description>
+    </item>
+    <item>
+      <headword id="idp166208104">corrag</headword>
+      <description>Quotation: An òrdag, ’S a chorrag, ’S a mheur-fhada, ’S nic-an-t-sraididh, ’S lughdag bheag an airgid! Notes: the fingers. Probably the lughdag had the rings of silver before Marriage. Nic-an-t-sraididh – fireworks (!) looking for a ring?</description>
+    </item>
+    <item>
+      <headword id="idp166209760">coltach</headword>
+      <description>Notes: Tha e coltach … often pronounced “collach”. Never heard the word coslach in Lewis.</description>
+    </item>
+    <item>
+      <headword id="idp166211272">cothrom</headword>
+      <description>Quotation: “’S ann aige tha’n cothrom.” – It is he that has the wealth. “Chuir e air a chothrom e.” – He put it on the scales. “A reic air a chothrom” – selling by weight or measure, e.g. fish. “A bhinn chothromach” – the just (proper) judgment. “Dh’fhiarr e cothrom.” – He asked permission. “’S ann a ghabh e cothrom air – … took advantage of … “Chan eil cothrom air.” – It cannot be helped. “Chaill e ’n cothrom.” – an invalid who is helpless. “’S math an cothrom.” – We are well, in good condition. e.g. “Ciamar a tha sibh?” (Reply:) “’S math an cothrom.”</description>
+    </item>
+    <item>
+      <headword id="idp166214152">crannadh</headword>
+      <description>Quotation: “Tha crannadh a’s a ghaoithe.” – There is withering in the wind.</description>
+    </item>
+    <item>
+      <headword id="idp166215664">creutair</headword>
+      <description>Quotation: O chreutair! – O My dear! O My darling! Notes: Is it from this that a drop of whisky is referred to as Bonnaig dhe’n chreutair? Also used as a term of contempt: Na creutairean a tha sud!</description>
+    </item>
+    <item>
+      <headword id="idp166217320">crioch</headword>
+      <description>Notes: A chrioch – the end. The end of life. Chuir iad criochan roimhe. – They set limits/boundaries …</description>
+    </item>
+    <item>
+      <headword id="idp166218832">crois</headword>
+      <description>Notes: a cross, in the sense of burden, or pain. Be sin a chrois dhomhsa. Gob na crois – a rock projecting out as an obstacle to an entrance to a harbour.</description>
+    </item>
+    <item>
+      <headword id="idp166220488">cuach</headword>
+      <description>Quotation: “Bi mi a’s a chuaich shioman / Ma’s e riarachadh leat fhein e.” Notes: a coil of home-made rope, straw or heather.</description>
+    </item>
+    <item>
+      <headword id="idp166222144">cuach</headword>
+      <description>Notes: a drinking bowl with an ear on each side.</description>
+    </item>
+    <item>
+      <headword id="idp166223656">cruadal</headword>
+      <description>Quotation: “Chan eil air a chruadal (distress) ach cruadhachadh ris.” Notes: There is no remedy for hardship but to harden against it.</description>
+    </item>
+    <item>
+      <headword id="idp166225312">cuairt</headword>
+      <description>Quotation: “Tha e dol ma’n cuairt.” – He is going around. “Chuir e cuairt air.” – He went round it. “Tha e gabhail cuairt.” – He is out for a walk (round?). An Cuairtich – Shepherd, who rounds up the sheep.</description>
+    </item>
+    <item>
+      <headword id="idp166227328">cuid</headword>
+      <description>Quotation: Bha cuid aca ann. – Some of them were there. Bha do chuid agad dheth. – You had a part in it. Gabhaibh ar leòir de chuid (substance) an duine chòir. Phòs e luid air sgàth na cuid (wealth), / Dh’fhubh a chuid ’s dh’fhuirich a luid. Chan eil dìth cuid (possessions) air na daoine ’tha sud.</description>
+    </item>
+    <item>
+      <headword id="idp120320976">cuir</headword>
+      <description>Quotation: A cuir an eòrna – sowing. A cuir na dòrnaig – putting the stone.</description>
+    </item>
+    <item>
+      <headword id="idp120322488">cùirt</headword>
+      <description>Quotation: B’e sin a chùirt! – Some honour! (usually in sarcasm) Thubhairt esan… etc. Reply: Mà be sin a chùirt. – Who cares! A seasamh cùirt – before a court.</description>
+    </item>
+    <item>
+      <headword id="idp120324288">cùl</headword>
+      <description>Quotation: Cùl an doruis – the outside. Air béul-thaobh an doruis – on the outside of the door. Air taobh muigh an doruis – on the outside … Aig an dorus – at the outside.</description>
+    </item>
+    <item>
+      <headword id="idp120326304">cur</headword>
+      <description>Quotation: Cur a steach – income. Chuir e steach an each. – he put in … Dol a mach ’s a steach – … out … in …</description>
+    </item>
+    <item>
+      <headword id="idp120328104">dàn</headword>
+      <description>Quotation: Bha e ’n dàin dha. – It was foreordained for him. Notes: Pre-destination in Theology and determinism in Philosophy is in keeping with the metaphysics of the Gael. No other “scheme” will fit the facts.</description>
+    </item>
+    <item>
+      <headword id="idp120329760">dealag</headword>
+      <description>Quotation: ’S math an dealag a chlach gu ruigear i. Notes: anvil. Used also metaphorically of a person, who is helpful only within limits.</description>
+    </item>
+    <item>
+      <headword id="idp120331416">dealbh</headword>
+      <description>Notes: a photo or picture. Also applied to the weaver’s work: “Dhealbh e an clódh.”</description>
+    </item>
+    <item>
+      <headword id="idp120332928">dearg</headword>
+      <description>Quotation: Dearg mhearlach – a real, notorious thief. Seacait dhearg is féileadh – red-coat and kilt. “Se dearg chunnart a bhiodh a’sin.” – supreme danger. Cha do rinn e deargadh air. – it made no impression on him. Notes: Dearg – used as a superlative, e.g. Chuir e dearg eagal a bheath’ air.</description>
+    </item>
+    <item>
+      <headword id="idp120335160">deasachadh</headword>
+      <description>Notes: In W. Lewis, the word deasachadh is as far as I know, confined to the preparation of baking, or food, e.g. ‘Bha i ’deasachadh’ – would mean only this one thing.</description>
+    </item>
+    <item>
+      <headword id="idp120336672">deò</headword>
+      <description>Quotation: “Chan eil deò anns an teine.” – life. “Chan eil deò gaoithe ann an diugh.” – breath.</description>
+    </item>
+    <item>
+      <headword id="idp120338328">dheth</headword>
+      <description>Quotation: Tha e dona dheth. – He is in poor circumstances. Thug iad dheth an còta. – They unfrocked (deposed) him. Chuir e’n còta dheth. – He put off his coat. If … so and so … “Bithidh tu dheth gu siorruidh.” – You will be ruined forever. (Phrase attributed to Dr Kennedy of Dingwall.)</description>
+    </item>
+    <item>
+      <headword id="idp120340416">dibh</headword>
+      <description>Notes: confined to strong drink, e.g. “An deigh na dibh-làidir a dhòl iad.” Never heard the word applied to ordinary drink.</description>
+    </item>
+    <item>
+      <headword id="idp120341928">dìdearachd</headword>
+      <description>Quotation: Bha e dìdearachd aig an dorus. Notes: peeping in at the door. Also spying, “Bha e dìdearachd orra.” – he was spying on them.</description>
+    </item>
+    <item>
+      <headword id="idp120343584">diol</headword>
+      <description>Quotation: Is olc an diol a rinneadh air. – treatment. “Fhuair e an diol-thuaireasdeal…” – perfect payment.</description>
+    </item>
+    <item>
+      <headword id="idp120345384">dioladh</headword>
+      <description>Quotation: Bha e dioladh orra airson … – He was taking vengeance on them for …</description>
+    </item>
+    <item>
+      <headword id="idp120346896">diomhain</headword>
+      <description>Quotation: ’S tu tha diomhain – idle. ’S diomhain dha … – futile. “’S uarìgh [?] cleasachd dhiomhain” – worldly. ’S coinneamh stuamachd dhubh nam breugan.</description>
+    </item>
+    <item>
+      <headword id="idp120348840">dìreach</headword>
+      <description>Quotation: Dìreach sin – just so. Dìreach – straight.</description>
+    </item>
+    <item>
+      <headword id="idp120350424">dleas</headword>
+      <description>Quotation: “Dleasaidh gobha gual ’s iarrann fuar ga ghreas’d / Dleasaidh ceard spàinn ’s a chur slàn go theach.” Notes: deserve. Said by one who asked for the loan of a spoon.</description>
+    </item>
+    <item>
+      <headword id="idp120352152">do</headword>
+      <description>Quotation: “Mar a thubhairt glag-Sgáinn / Rud nach buin dhuit / Na buin dhá. Notes: the W. Lewis saying attributed to the Bell-man of Scone.</description>
+    </item>
+    <item>
+      <headword id="idp120353808">dolaidh</headword>
+      <description>Quotation: “Leis na dh’òl iad dh’an a’ bhoinne leig iad a dholaidh na laoigh.” Notes: Owing to the amount of milk that they drank they ruined the calves.</description>
+    </item>
+    <item>
+      <headword id="idp120355464">dol a’s tighean</headword>
+      <description>Quotation: Rinn e dol a’s tighean. Notes: He made the coming and going (in one day), non-stop.</description>
+    </item>
+    <item>
+      <headword id="idp120357192">dubh</headword>
+      <description>Notes: the colour black; or dark. Also used to describe a black-guard and the works of darkness, e.g. “Ian dubh Cearr (Kerr) / Cha do rinn an ceard / Na dh’fhaodadh e.” The black-guard John Kerr / The tinker did not do what he could.</description>
+    </item>
+    <item>
+      <headword id="idp120358704">dùbh</headword>
+      <description>Quotation: Nach bu dù e! Nach be dùbh ’cheard e! “’S e dùbh cheard a thann.” Notes: in the sense of complete, altogether, perfect.</description>
+    </item>
+    <item>
+      <headword id="idp120360360">dùraig</headword>
+      <description>Quotation: Mo thruaighe bean a leanabh bhig, / Nach urrainn ruith ’s nach dùraig fhàgail. – dare not risk leaving him. Cha b’u dùraig dha dhol a steach. – He would not dare risk going in.</description>
+    </item>
+    <item>
+      <headword id="idp120362016">éideadh</headword>
+      <description>Notes: uniform. Aodach – ordinary clothing.</description>
+    </item>
+    <item>
+      <headword id="idp120363528">aodach</headword>
+      <description>Notes: ordinary clothing. Éideadh – uniform.</description>
+    </item>
+    <item>
+      <headword id="idp120365040">éileadh</headword>
+      <description>Quotation: Anna chruinn donn, / Na rinn thu ’n éileadh? / Hi horo ’s no horo eileadh. Notes: this word was used in Lewis in the sense of removal of the living from one area to a new residence.</description>
+    </item>
+    <item>
+      <headword id="idp120366696">eileamaid</headword>
+      <description>Notes: element. Also used in the sense of boisterous behaviour: Ciod e an eileamaid a th’oirt?</description>
+    </item>
+    <item>
+      <headword id="idp120368208">eilidriom</headword>
+      <description>Quotation: Thug iad leo an eilidriom. Notes: a hearse for carrying away the remains. Does the first part of the word mean removal? Eilidhriom (?)</description>
+    </item>
+    <item>
+      <headword id="idp120369864">eirmis</headword>
+      <description>Quotation: “Nach e bha eirmiseach.” Notes: able to discern, able to hit the nail on the head. Also applied to intuition which later proved to be right.</description>
+    </item>
+    <item>
+      <headword id="idp120371520">éis</headword>
+      <description>Quotation: “Chan eil éis sam bith orra.” “Thug mi leam na rudan a bha éiseal.” – need. “Cha chuir e éis idir ort.” – delay or hindrance.</description>
+    </item>
+    <item>
+      <headword id="idp120373248">eisdeachd</headword>
+      <description>Quotation: Bha iad a’s an eisdeachd. – They were (hearing sermon) in Church. Notes: apparently this word was the one used in the R. C. Church for attendance at Confession. Probably after the Reformation it continued to be used in the Gaelic area to describe a Protestant Service.</description>
+    </item>
+    <item>
+      <headword id="idp120374904">eutroman</headword>
+      <description>Notes: bladder – of sheep, often inflated by children as a balloon in olden days before rubber balloons came on the market. Hence the meaning: wind-bag. Therefore applied to light, unstable persons – filled with hot air!</description>
+    </item>
+    <item>
+      <headword id="idp120376416">failbhean</headword>
+      <description>Quotation: failbhean na glùine. Notes: the patella. Used also of movable, unstable objects, e.g. failbhean corrach.</description>
+    </item>
+    <item>
+      <headword id="idp120378072">faileas</headword>
+      <description>Quotation: Faileas na bhrògan. Polish in his shoes. “Chan fhada gu’n caill i a’ faileas a tha sud!” – comment on a bride whose husband had described her as a ruby! Notes: often used in W. Lewis – in the sense of glistening and glory. Glamour.</description>
+    </item>
+    <item>
+      <headword id="idp120379872">faoighiche</headword>
+      <description>Quotation: Pl. faoighichean – beggars. “Se faoighiche a bha’nn [sic] dha Dài.” (Dài = the common Lewis pronunciation for Daibhidh, David.) Notes: before the days of the Old Age Pension, those who had no source of income, roamed among the villages as a recognised class, and were so described. The term would seem to have fallen into desuetude after the Act for Old Age Pensions.</description>
+    </item>
+    <item>
+      <headword id="idp120381528">fàr</headword>
+      <description>Quotation: “Fàr a sgian.” Notes: Fetch the knife, e.g. said by a shoolteacher to a boy who had taken a knife from his desk.</description>
+    </item>
+    <item>
+      <headword id="idp120383184">farradh</headword>
+      <description>Notes: passage money.</description>
+    </item>
+    <item>
+      <headword id="idp120384696">fàsach</headword>
+      <description>Quotation: “’S mise fàsach do dhuine, / Ann am fàsach na beinne, / ’S cha do fhòghuim mi riamh, / Crioch àraidh an duine.” Reply of a Shepherd to Dr. Ross, Loch Broom – Pre-Disruption. Notes: Fàsach – wilderness. Fasach – empty.</description>
+    </item>
+    <item>
+      <headword id="idp162887312">fàth</headword>
+      <description>Quotation: Bha e feitheamh fàth air greim a ghabhail air. Notes: an opportunity.</description>
+    </item>
+    <item>
+      <headword id="idp162889040">feart</headword>
+      <description>Quotation: “Na tabhair feart air.” – Do not believe him: do not accept what he says. Notes: Feart – power.</description>
+    </item>
+    <item>
+      <headword id="idp162890696">feisd</headword>
+      <description>Quotation: “Leig e bhó bh’air an fheisd.” – He let the cow of the tether. Feisd na bà buidhe. – The tether of the yellow cow.</description>
+    </item>
+    <item>
+      <headword id="idp162892352">feòrlaigean</headword>
+      <description>Quotation: An toir mi leam cliabh a dh’iarraidh feòrlaigean? Notes: Much ado about nothing! Do I need a creel to carry a dormouse?</description>
+    </item>
+    <item>
+      <headword id="idp162894080">fìor</headword>
+      <description>Quotation: “Ma’s fhìor gu h-e fein a rinn … etc.” Notes: Pretending that it was he himself who did …</description>
+    </item>
+    <item>
+      <headword id="idp162895808">foghnadh</headword>
+      <description>Quotation: Foghnaidh an Saoghal dhuit! – The world is one too many for you! More than enough. “Dh’ fhoghainn sud dha.” – That finished him.</description>
+    </item>
+    <item>
+      <headword id="idp162897464">fracas</headword>
+      <description>Quotation: “Cha tàinig càil as ach fracas.” Notes: potato plot – nothing came out of it but small potatoes, i.e. useless refuse.</description>
+    </item>
+    <item>
+      <headword id="idp162899120">fridh-rathad</headword>
+      <description>Quotation: “Tha frith-rathad a dol thuige.” – There is a pathway to it. Used metaphorically of those who go astray from the main road. Ghabh e frith-rathad … – He took a devious path … Notes: a bye way.</description>
+    </item>
+    <item>
+      <headword id="idp162900920">fuadain</headword>
+      <description>Quotation: fiaclan fuadain – false teeth, foreign teeth. In Medical terms a “foreign body”. Sùil fuadain – a foreign body of an eye.</description>
+    </item>
+    <item>
+      <headword id="idp162902576">fuarraidh</headword>
+      <description>Quotation: taobh an fhuarraidh. Notes: the windward side.</description>
+    </item>
+    <item>
+      <headword id="idp162904232">gann</headword>
+      <description>Notes: scarce.</description>
+    </item>
+    <item>
+      <headword id="idp162905744">ganntair</headword>
+      <description>Quotation: “’S fhearr iomal a phailteis na teis-meadhon a ghanntair.” Notes: scarcity.</description>
+    </item>
+    <item>
+      <headword id="idp162907400">gasd</headword>
+      <description>Notes: Duine gasd – kind, friendly. Grunnan gasda – a goodly number.</description>
+    </item>
+    <item>
+      <headword id="idp162908912">gath-droma</headword>
+      <description>Notes: the backbone.</description>
+    </item>
+    <item>
+      <headword id="idp162910424">gean</headword>
+      <description>Quotation: ’S misde do ghean a bhi gun bhiadh. Notes: good humour. Also greed, rapacity – Cho geanach ris a chù.</description>
+    </item>
+    <item>
+      <headword id="idp162912080">geasag</headword>
+      <description>Quotation: “Géill thus do gheasag, ’s géillidh geasag dhuit.” You surrender to sorcery, and sorcery will play up to you! Notes: a kind of proverb to warn young people from placing faith in charms to bring them good luck.</description>
+    </item>
+    <item>
+      <headword id="idp162913736">géugan</headword>
+      <description>Quotation: “An géugan iosal taisgeil.” Notes: a slit below in the left ear (ear-marks of sheep).</description>
+    </item>
+    <item>
+      <headword id="idp162915464">glèidh</headword>
+      <description>Quotation: Ma ghlèidheas mise beanntan Ùige, / Glèidhidh beanntan Ùige mì. – If I hold on to the Uig mountains (stay in), / The Uig mountains will hold me (i.e. protect me). Glèidh an airgiod sin. – Keep that money safely. Glèidh fhéin e. – Keep it yourself as your own. Ghlèidh e cuid dheth. – He kept some of it (unauthorised) to himself. (e.g. one gathering subscriptions)</description>
+    </item>
+    <item>
+      <headword id="idp162917552">goil</headword>
+      <description>Quotation: Na ghoil an coire? Notes: also crowing – Ciod e ghoilich a tha air na daoine ud! Or does it mean boiling over?</description>
+    </item>
+    <item>
+      <headword id="idp162919208">grabadh</headword>
+      <description>Notes: used in W. Lewis in the sense of greed or petty pilfering.</description>
+    </item>
+    <item>
+      <headword id="idp162920720">gucag</headword>
+      <description>Quotation: gugagan [sic] nan uibhean. Notes: the egg shells.</description>
+    </item>
+    <item>
+      <headword id="idp162922376">bàr gug</headword>
+      <description>Quotation: bàr gug a bhuntàt. Notes: the buds of the potatoes (when growing in the field).</description>
+    </item>
+    <item>
+      <headword id="idp162924104">guidhe</headword>
+      <description>Quotation: “Bha e guidheachan ris a chù.” Notes: He was cursing/swearing at the dog.</description>
+    </item>
+    <item>
+      <headword id="idp162925760">gurt</headword>
+      <description>Quotation: “Mar a dean, gabh do chùrt [sic].” Notes: If you want, exercise your privilege/liberty, have it your own way.</description>
+    </item>
+    <item>
+      <headword id="idp162927416">gus</headword>
+      <description>Quotation: Gus am bris an là. – until … Thainig e gus an abhainn. – to … Gus a bhoinneag ma dheireadh. – unto the last drop. Chaidh e gus a faigheadh e mach. – so that he would find out.</description>
+    </item>
+  </items>
+</fieldworkDocument>

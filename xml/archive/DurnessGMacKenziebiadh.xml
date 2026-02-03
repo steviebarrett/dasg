@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 15 1 15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="DRMorrisonetal_DurnessGMacKenziebiadh" docType="questionnaire" subType="BiadhIsDeoch" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Biadh is Deoch / Food and Drink</title>
+  <date>[1970]</date>
+  <fieldworker>[self]</fieldworker>
+  <informant>
+    <nameEnglish>George MacKenzie</nameEnglish>
+    <age>67</age>
+    <origin>Assynt, Stoer</origin>
+  </informant>
+  <location>Sutherland, Lairg, Durness</location>
+  <items>
+    <item>
+      <headword id="d0e33" type="heading" level="h1">1. Na tràthan</headword>
+    </item>
+    <item>
+      <headword id="idp118820512">bracast</headword>
+      <description>breakfast. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp118816480">deit</headword>
+      <description>dinner. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp118812520">seepar</headword>
+      <description>supper. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="d0e66" type="heading" level="h1">2. Am biadh a bhidhte gabhail aig gach tràth</headword>
+    </item>
+    <item>
+      <headword id="d0e72" type="heading" level="h2">BRACAST</headword>
+    </item>
+    <item>
+      <headword id="idp118836928">broase na leeit</headword>
+      <description>brose or porrage. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp118839520">hamma agus uighinn</headword>
+      <description>bacon and eggs. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="d0e96" type="heading" level="h2">DEIT</headword>
+    </item>
+    <item>
+      <headword id="idp118842328">butata agus scadan</headword>
+      <description>potatoes and herring. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp118845352">broota</headword>
+      <description>broth. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp118846864">butata agus feooil</headword>
+      <description>potatoes and meat. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="d0e138" type="heading" level="h2">SEEPAR</headword>
+    </item>
+    <item>
+      <headword id="idp118849240">tay</headword>
+      <description>tea. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp118850752">arran floor</headword>
+      <description>scones. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp118852264">arran cork</headword>
+      <description>oatcakes. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp118853776">arran eorna</headword>
+      <description>barley scones. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp118855576">eem agus greeam</headword>
+      <description>butter and crowdie. (Stoer, Assynt) (Greeam is crowdie in Assynt.)</description>
+    </item>
+	<item>
+      <headword id="idp118843840">(pree)</headword>
+      <description>[NOTES: not sure what this refers to. It is placed right above ‘bruich’ in the line below.]</description>
+    </item>
+    <item>
+      <headword id="idp118858384">iasg bruich agus sauis (sabhs)</headword>
+      <description>boiled fish with the water the fish was boiled in. This latter was usually taken before going to bed. Iasg bruich agus sauis (sabhs) le arran cork. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp118860328">groo</headword>
+      <description>the whole cheese before being pressed.</description>
+    </item>
+    <item>
+      <headword id="idp118861840">[butata]</headword>
+      <description>potatoes are never called buntata in Assynt. Always butata. The first potatoes known in Europe were brought by the Spaniards from Quito, Peru in 1553 and were known as “battata”. Perhaps the Assynt people are Spaniards and not descended from the MacLeods of Lewis and the MacKenzies of Gairloch as we were always led to believe!!!</description>
+    </item>
+    <item>
+      <headword id="d0e219" type="heading" level="h1">3. Dòighean air biadh a dheasachadh</headword>
+    </item>
+    <item>
+      <headword id="d0e225" type="heading" level="h1">4. Fuine</headword>
+    </item>
+    <item>
+      <headword id="idp118865080">fuine aran coirk</headword>
+      <description>baking oatcakes. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp118866592">fuine aran fluir</headword>
+      <description>baking flour scones. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp118868104">fuine aran urna</headword>
+      <description>baking barley bread. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp118869616">fuine aran shoggal</headword>
+      <description>mixture of flour and barley. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp118871128">“keppar”</headword>
+      <description>a “piece” to a boy or girl. (Stoer, Assynt) The “keppar” always consisted of a scone (flour) for preference or an oatcake with fresh butter and at least an inch of crowdie. “Hor ‘keppar’ dhan a bhallach!” – usually if the housewife was baking.</description>
+    </item>
+    <item>
+      <headword id="idp118873000">[breacag nan</headword>
+      <description>[?] eorna] “Breacag nan [?] eorna nach eil solar na fallain.” Part of a New Year duan – the thin barley bannock was not appreciated. They would accept anything except that!</description>
+    </item>
+    <item>
+      <headword id="idp118874728">“mear”</headword>
+      <description>another word for a “piece” of bread. “Thor do cub mear.”</description>
+    </item>
+    <item>
+      <headword id="idp118876456">greddle</headword>
+      <description>girdle [sic] or griddle.</description>
+    </item>
+    <item>
+      <headword id="idp118877968">brunder</headword>
+      <description>brander.</description>
+    </item>
+    <item>
+      <headword id="d0e312" type="heading" level="h1">5. Deochan dhe gach seòrsa</headword>
+    </item>
+    <item>
+      <headword id="idp118880344">deoch gheal</headword>
+      <description>water with oatmeal and sugar. Particularly if working outside – spring and harvest.</description>
+    </item>
+    <item>
+      <headword id="idp118881856">sooan</headword>
+      <description>sowans: made from the sids after corn was at the mill.</description>
+    </item>
+    <item>
+      <headword id="idp118883368">deoch porstar</headword>
+      <description>stout or porter. Each house used to get a firkin at harvest.</description>
+    </item>
+    <item>
+      <headword id="idp118884952">deoch leion</headword>
+      <description>beer.</description>
+    </item>
+    <item>
+      <headword id="idp118886464">meoag</headword>
+      <description>whey.</description>
+    </item>
+    <item>
+      <headword id="idp118887976">bana grorst</headword>
+      <description>[sic] sour milk.</description>
+    </item>
+    <item>
+      <headword id="idp118889488">bana tiugh</headword>
+      <description>thick milk.</description>
+    </item>
+    <item>
+      <headword id="idp118891000">baar</headword>
+      <description>cream.</description>
+    </item>
+    <item>
+      <headword id="d0e390" type="heading" level="h1">6. Biadh no deoch a bhidhte deanamh gu sònraichte do luchd euslan</headword>
+    </item>
+    <item>
+      <headword id="d0e396" type="heading" level="h1">7. Nithean a bhiodh ann nuair a rachadh beathach a mharbhadh</headword>
+    </item>
+    <item>
+      <headword id="d0e411" type="heading" level="h1">8. Faclan sam bith eile</headword>
+    </item>
+    <item>
+      <headword id="idp118894312">Glasgo</headword>
+      <description>Glasgow. Not Glascu as pronounced in most other places in the Highlands. According to Johnston’s Place Names of Scotland it was called Glasgo in 1116.</description>
+    </item>
+	<item>
+      <headword id="idp118896904">romag</headword>
+      <description>Atholl brose. (Stoer, Assynt) Romag was usually made by mixing a handful of oatmeal with about ½ pint thick cream and then 1 gill of whisky, preferably malt whisky. I heard of honey being in the recipe but I never saw that. Honey was not common in the west coast.</description>
+    </item>
+    <item>
+      <headword id="idp120014336">Bha mi “callaigig” air</headword>
+      <description>I was calling on him. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp120012752">Bha mi “callaigig” ooie</headword>
+      <description>I was calling on her. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp120012176">mearanich</headword>
+      <description>yawning. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp120010232">mearmin</headword>
+      <description>an itchy nostril, which foretold getting a letter. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp120008288">mearculag</headword>
+      <description>midge.</description>
+    </item>
+    <item>
+      <headword id="idp120007712">errair</headword>
+      <description>(droch errair) heavy surf on the shore. (Stoer, Assynt) Tha fuiam [sic] mor aig a’ “errair” – when the sound of the swell on the shore was heard at a distance. I understand the word is derived from oir a’ tir – the edge of the land. I never heard it anywhere else except in Durness where it is called “ellair” – “Tha a h-ellair olc.”</description>
+    </item>
+    <item>
+      <headword id="idp120005840">bruish</headword>
+      <description>broth. (Melness, Sutherland)</description>
+    </item>
+  </items>
+</fieldworkDocument>

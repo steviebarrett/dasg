@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 5/8/15 -->
+<!-- illustrations -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_BalgarvaDAMacQueenslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>02/1969</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <informant>
+    <nameEnglish>Donald A. MacQueen</nameEnglish>
+    <age>c. 50</age>
+  </informant>
+  <location>South Uist, Eochdar, Balgarva</location>
+  <items>
+    <item>
+      <headword id="idp161851544">luchd</headword>
+      <description>Notes: load carried in creel or cart.</description>
+    </item>
+    <item>
+      <headword id="idp161848880">maide-mairt</headword>
+      <description>Notes: wooden arrangement for tying Highland cattle – a V-shaped piece of wood below the neck and a V-shaped piece coming down from above to lock the head and horns in.</description>
+    </item>
+    <item>
+      <headword id="idp161845928">slabhcan</headword>
+      <description>[sɫɑu̜kɑ̃ṉ] Notes: seaweed. A very thin green leaf about ¼" wide, 18" high. Made pudding with it. A bit like carrageen but green.</description>
+    </item>
+    <item>
+      <headword id="idp161865512">iasgach</headword>
+      <description>Quotation: crosgag-iasgaich. Notes: frame on which fishing line is wound. <illustration src="BalgarvaDAMacQueenslipsillust1.jpg" width="200"/></description>
+    </item>
+    <item>
+      <headword id="idp161867312">pillein (or -an)</headword>
+      <description>[pilʹɛ̃nʹ] Notes: a small mat which went under the cart saddle (srathair Ghaidhealach).</description>
+    </item>
+    <item>
+      <headword id="idp161869040">plàta</headword>
+      <description>Quotation: plàta chliabh. Notes: large mat put on the backs of horses when carrying panniers.</description>
+    </item>
+    <item>
+      <headword id="idp161870696">seòlaid</headword>
+      <description>Notes: a natural course between rocks which allows boats to pass.</description>
+    </item>
+    <item>
+      <headword id="idp161872208">sgùirt</headword>
+      <description>[sɡu̜:ʴstʹ] Notes: a lapful. [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+    <item>
+      <headword id="idp161874080">sìlean (?)</headword>
+      <description>[ʃi:lʹɑ̃nʹ] Notes: seed.</description>
+    </item>
+    <item>
+      <headword id="idp161875808">sloc</headword>
+      <description>Quotation: sloc iasgaich. Notes: a suitable rock to fish from.</description>
+    </item>
+    <item>
+      <headword id="idp161877464">sùil</headword>
+      <description>Quotation: an t-sùil. Notes: where the fire in the kiln was placed.</description>
+    </item>
+    <item>
+      <headword id="idp161879120">ultach</headword>
+      <description>Notes: load carried in one’s arms.</description>
+    </item>
+    <item>
+      <headword id="idp161880632">ailm</headword>
+      <description>[ɤləm] Notes: helm of a boat.</description>
+    </item>
+    <item>
+      <headword id="idp161882360">boiteachan</headword>
+      <description>[bɔtʹɑxɑ̃ṉ] Notes: piece of wood under the horse’s tail attached to panniers by a rope (?) and held the panniers from swinging to the horse’s head.</description>
+    </item>
+    <item>
+      <headword id="idp161884088">brat</headword>
+      <description>Quotation: am brat. Notes: the layer of seed on top of the “connlach” in the kiln.</description>
+    </item>
+    <item>
+      <headword id="idp161885744">buail</headword>
+      <description>Quotation: a’ bualadh na brat. Notes: flailing the seed in the kiln. Brat – covering or layer of seed.</description>
+    </item>
+    <item>
+      <headword id="idp161887400">càbhraich</headword>
+      <description>[kɑu̟ɾiç] Notes: meal or flour on the turn.</description>
+    </item>
+    <item>
+      <headword id="idp161889128">car-cleitheadh</headword>
+      <description>[kɑɾklehəɣ] Notes: form of wrestling in which two people grip each other with hands and arms and try to get each other on to the ground. Feet used to trip.</description>
+    </item>
+    <item>
+      <headword id="idp161890856">cipean</headword>
+      <description>Quotation: cipean dochairt [cıpɑ̃ṉd̪ɔxɑʴstʹ]. Notes: same as “maide leisg”. [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+    <item>
+      <headword id="idp161892872">cliabh</headword>
+      <description>Quotation: plàta chliabh. Notes: large mat put on the backs of horses when carrying panniers.</description>
+    </item>
+    <item>
+      <headword id="idp161894528">cnotag</headword>
+      <description>[kɾɔ̃t̪ɑɡ] Notes: a stone with a hollow in it for beating barley. </description>
+    </item>
+    <item>
+      <headword id="idp161896256">connlach</headword>
+      <description>Quotation: connlach a’ bhrat. Notes: the covering of straw under the seed in the kiln. (See brat – D.A.M.Q.)</description>
+    </item>
+    <item>
+      <headword id="idp161897912">crosgag-iasgaich</headword>
+      <description>Notes: frame on which fishing-line is wound. <illustration src="BalgarvaDAMacQueenslipsillust3.jpg" width="300"/></description>
+    </item>
+    <item>
+      <headword id="idp161899496">cùillean</headword>
+      <description>Notes: sticks placed in pyramid fashion on top of the “surrag” in a kiln.</description>
+    </item>
+    <item>
+      <headword id="idp161901008">daimheil</headword>
+      <description>[d̪ɛ̃:vɑl] Quotation: Bha iad daimheil. Notes: They were related closely, e.g. uncle, aunt, nephew, niece, first cousins.</description>
+    </item>
+    <item>
+      <headword id="idp161902880">dochart</headword>
+      <description>Quotation: cipean dochairt [cıpɑ̃ṉd̪ɔxɑʴstʹ]. Notes: same as “maide leisg”. [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+    <item>
+      <headword id="idp161904896">duineadail</headword>
+      <description>Quotation: Tha iad fuasach duineadail. Notes: They are very close to each other, very friendly. “Tha iad duineil d’a’ chéile.” – They are related to each other.</description>
+    </item>
+    <item>
+      <headword id="idp161906552">duineil</headword>
+      <description>Quotation: Tha iad duineil d’a’ chéile. Notes: They are related to each other. See duineadail.</description>
+    </item>
+  </items>
+</fieldworkDocument>

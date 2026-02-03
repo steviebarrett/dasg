@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 15 4 14 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="HarrisVarious_HarrisBorisdaleKMacSweenmisc" docType="wordlist" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <fieldworker>[anonymous D]</fieldworker>
+  <informant>
+    <nameEnglish>Kenneth MacSween</nameEnglish>
+  </informant>
+  <location>Harris, Borisdale</location>
+  <items>
+    <item>
+      <headword id="d0e24">alta</headword>
+      <description>step-son.</description>
+    </item>
+    <item>
+      <headword id="d0e33">taoim</headword>
+      <description>seawater that comes into a boat. “Tha an taoim air a dhol thairis air na tobhtaichean.” – “Things have gone too far.”</description>
+    </item>
+    <item>
+      <headword id="d0e42">froine</headword>
+      <description>rage or fury of gale.</description>
+    </item>
+    <item>
+      <headword id="d0e51">bangaid</headword>
+      <description>a celebration, or toast, to a new-born baby. “Fhuair sinn am bangaid.”</description>
+    </item>
+    <item>
+      <headword id="d0e60">cneasda</headword>
+      <description>“Chaneil [sic] i cneasda.” – It is not a nice day.</description>
+    </item>
+    <item>
+      <headword id="d0e69">gormanaich</headword>
+      <description>very early in the morning, dawn.</description>
+    </item>
+    <item>
+      <headword id="d0e78">brinneal baoth</headword>
+      <description>“Na bith thusa deanamh brinneal baoth dhuit fhein!” –  Don’t make foolish flattery (boasting?).</description>
+    </item>
+    <item>
+      <headword id="d0e87">gamag</headword>
+      <description>stride, though usually in reference to movement of a boat.</description>
+    </item>
+    <item>
+      <headword id="d0e96">balgaire</headword>
+      <description>dog. Balgaire duine – a dog of a man.</description>
+    </item>
+    <item>
+      <headword id="d0e105">dalma</headword>
+      <description>audacious, bold.</description>
+    </item>
+    <item>
+      <headword id="d0e114">a’ spreigeadh</headword>
+      <description>inciting. “Tha e a’ spreigeadh rithe.” – flirting.</description>
+    </item>
+    <item>
+      <headword id="d0e123">do-labhairt</headword>
+      <description>unspeakable.</description>
+    </item>   
+    <item>
+      <headword id="d0e132">stalla</headword>
+      <description>overhanging precipice.</description>
+    </item>
+    <item>
+      <headword id="d0e141">iargallta</headword>
+      <description>ugly.</description>
+    </item>
+    <item>
+      <headword id="d0e150">gun bhlaogh</headword>
+      <description>without sense.</description>
+    </item>
+    <item>
+      <headword id="d0e159">[suirghe]</headword>
+      <description>“A suirghe fad air falbh ’s a posadh air bun na h-ursainn.”</description>
+    </item>    
+    <item>
+      <headword id="d0e168">smàig</headword>
+      <description>control. “Tha smàig aige oirre.”</description>
+    </item>
+    <item>
+      <headword id="d0e177">a snagadarach sios</headword>
+      <description>whittling down something.</description>
+    </item>
+    <item>
+      <headword id="d0e186">sgolb</headword>
+      <description>thorn.</description>
+    </item>
+    <item>
+      <headword id="d0e195">clòsaid</headword>
+      <description>closet.</description>
+    </item>
+    <item>
+      <headword id="d0e204">duine foirmeil</headword>
+      <description>a pompous man.</description>
+    </item>
+    <item>
+      <headword id="d0e213">sèis</headword>
+      <description>a minister’s chant.</description>
+    </item>
+    <item>
+      <headword id="d0e222">snagaire duine</headword>
+      <description>a sly fellow.</description>
+    </item>
+    <item>
+      <headword id="d0e231">sniag</headword>
+      <description>a sly fellow.</description>
+    </item> 
+    <item>
+      <headword id="d0e240">scallag</headword>
+      <description>farm hand.</description>
+    </item>
+    <item>
+      <headword id="d0e249">sgot</headword>
+      <description>“Chaneil [sic] sgot aige.” – “He has no sense.”</description>
+    </item>
+    <item>
+      <headword id="d0e258">tuath</headword>
+      <description>axe.</description>
+    </item>
+    <item>
+      <headword id="d0e267">tuath</headword>
+      <description>countryside.</description>
+    </item>
+    <item>
+      <headword id="d0e276">tàbharneach de dhuine</headword>
+      <description>apparition or ghost of a man.</description>
+    </item>
+    <item>
+      <headword id="d0e285">duine taosgach</headword>
+      <description>a fickle person.</description>
+    </item>
+    <item>
+      <headword id="d0e294">suirdag</headword>
+      <description>a leap with both feet.</description>
+    </item>
+    <item>
+      <headword id="d0e303">spideag</headword>
+      <description>a delicate or slender creature. “Tha spideag air.” – Tha an deoch air.</description>
+    </item>
+    <item>
+      <headword id="d0e312">ragaire duine</headword>
+      <description>rogue.</description>
+    </item>
+    <item>
+      <headword id="d0e321">sgòd</headword>
+      <description>Fhuair mi air sgòd e. – something got inadvertently.</description>
+    </item>
+    <item>
+      <headword id="d0e330">busaire</headword>
+      <description>sullen fellow.</description>
+    </item>
+    <item>
+      <headword id="d0e339">a dol a dhiollain</headword>
+      <description>going cuddy fishing.</description>
+    </item>  
+    <item>
+      <headword id="d0e348">drollan</headword>
+      <description>dwarf.</description>
+    </item>
+    <item>
+      <headword id="d0e357">naisgte</headword>
+      <description>deposited.</description>
+    </item>
+    <item>
+      <headword id="d0e366">burraidh</headword>
+      <description/>
+    </item>
+    <item>
+      <headword id="d0e374">milarach</headword>
+      <description>tender, sappy grass on bed of the ocean.</description>
+    </item>
+    <item>
+      <headword id="d0e383">d ladurna</headword>
+      <description>[uine] an arrogant, forthright man.</description>
+    </item>
+    <item>
+      <headword id="d0e392">neonachas</headword>
+      <description>eccentricity.</description>
+    </item>
+    <item>
+      <headword id="d0e401">plathadh</headword>
+      <description>glimpse. Plathadh a dealanaich.</description>
+    </item>
+    <item>
+      <headword id="d0e410">sainnseal</headword>
+      <description>a verbal drubbing: thug mi sainnseal air.</description>
+    </item>
+    <item>
+      <headword id="d0e419">sòideal</headword>
+      <description>rudeness.</description>
+    </item>
+    <item>
+      <headword id="d0e428">duine sòidealta</headword>
+      <description>ignorant man.</description>
+    </item>
+    <item>
+      <headword id="d0e437">spuinn</headword>
+      <description>rob.</description>
+    </item>
+    <item>
+      <headword id="d0e446">duine mairnealach</headword>
+      <description>slow, procrastinating person.</description>
+    </item>
+    <item>
+      <headword id="d0e455">starran</headword>
+      <description>stepping stone.</description>
+    </item>
+    <item>
+      <headword id="d0e464">siochaire</headword>
+      <description>a wretch of a man.</description>
+    </item>
+    <item>
+      <headword id="d0e473">miallachd</headword>
+      <description>laziness. [?]</description>
+    </item>
+    <item>
+      <headword id="d0e482">pràic (n)</headword>
+      <description>rubbish</description>
+    </item>
+    <item>
+      <headword id="d0e491">cama-reic</headword>
+      <description>obstruction.</description>
+    </item>
+    <item>
+      <headword id="d0e500">gangaid</headword>
+      <description>deceit. (Bay[s])</description>
+    </item>
+    <item>
+      <headword id="d0e509">galldrobadh</headword>
+      <description>accident.</description>
+    </item>
+    <item>
+      <headword id="d0e518">diongalta</headword>
+      <description>firm, secure.</description>
+    </item>
+    <item>
+      <headword id="d0e527">latha bailceach</headword>
+      <description>showery day. (Bays)</description>
+    </item>
+    <item>
+      <headword id="d0e536">farclais</headword>
+      <description>eavesdropping.</description>
+    </item>
+    <item>
+      <headword id="d0e545">teas-sheallach</headword>
+      <description>hot iron [?] used for making holes in cork for fishing. (Bays)</description>
+    </item>
+    <item>
+      <headword id="d0e554">grèidh</headword>
+      <description>herd of deer. (Bays)</description>
+    </item> 	
+    <item>
+      <headword id="d0e563">idrisgeach</headword>
+      <description>fidgety.</description>
+    </item>
+    <item>
+      <headword id="d0e572">eileabanachd</headword>
+      <description>tormenting someone</description>
+    </item>
+    <item>
+      <headword id="d0e581">bilisdair</headword>
+      <description>beggar.</description>
+    </item>
+    <item>
+      <headword id="d0e590">miriadh!</headword>
+      <description>“of course!”</description>
+    </item>
+  </items>
+</fieldworkDocument>

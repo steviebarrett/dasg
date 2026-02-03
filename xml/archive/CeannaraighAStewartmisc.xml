@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 3 6 14 -->
+<!-- illustrations! -->
+<fieldworkDocument docId="AOHenley_CeannaraighAStewartmisc" docType="wordlist" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>[1987-88]</date>
+  <fieldworker personId="ohenleya">A. O’Henley</fieldworker>
+  <informant>
+    <nameEnglish>Angus Stewart</nameEnglish>
+  </informant>
+  <location>North Uist, Grimsay, Ceannaraigh</location>
+  <items>
+    <item>
+      <headword id="idm317264">deireadh leathainn</headword>
+      <description>the square end at the stern of a boat.</description>
+    </item>
+    <item>
+      <headword id="idm315752">stobhadh</headword>
+      <description>steaming the wood in a specially prepared box. Enables the builder to shape the wood as he likes. [Cf. bocsa stobhaidh.]</description>
+    </item>
+    <item>
+      <headword id="idm314240">lannan</headword>
+      <description>roeves. [NOTES: a note added in second hand – (roves?).]</description>
+    </item>
+    <item>
+      <headword id="idm312584">glomaradh</headword>
+      <description>wooden vice. <illustration src="CeannaraighAStewartmiscillust1.jpg" width="400"/></description>
+    </item>
+    <item>
+      <headword id="idm311072">sodhla</headword>
+      <description>flooring in a boat.</description>
+    </item>
+    <item>
+      <headword id="idm309560">claigeann</headword>
+      <description>the stem.</description>
+    </item>
+    <item>
+      <headword id="idm308048">àite suidhe</headword>
+      <description>seat at the back of a boat. Elsewhere called ‘sileadh’.</description>
+    </item>
+    <item>
+      <headword id="idm306464">tobhta thogail</headword>
+      <description>a seat in the middle of a boat which could be lifted depending on the number of oarsmen needed.</description>
+    </item>
+    <item>
+      <headword id="idm304952">unlair</headword>
+      <description>cross bearer in a boat.</description>
+    </item>
+    <item>
+      <headword id="idm303440">an dùnadh</headword>
+      <description>wooden supports at a boat’s stern. <illustration src="CeannaraighAStewartmiscillust2.jpg" width="300"/></description>
+    </item>
+    <item>
+      <headword id="idm301064">timcheal bheoil</headword>
+      <description>top strake.</description>
+    </item>
+    <item>
+      <headword id="idm299552">ocstar</headword>
+      <description>supports under seats at stern and stem. In older boats this extended right round the boat.</description>
+    </item>
+    <item>
+      <headword id="idm298040">shoudhla</headword>
+      <description>the bung.</description>
+    </item>
+    <item>
+      <headword id="idm296528">bocsa stobhaidh</headword>
+      <description>steam box. [Cf. stobhadh.]</description>
+    </item>
+    <item>
+      <headword id="idm295016">casan</headword>
+      <description>wooden props on which the boat rests when not in use.</description>
+    </item>
+    <item>
+      <headword id="idm293504">locair chrom</headword>
+      <description>plane used for corners and rounded fitments.</description>
+    </item>
+    <item>
+      <headword id="idm291992">pliudhain</headword>
+      <description>the flutes on an anchor.</description>
+    </item>
+    <item>
+      <headword id="idm290480">iarunn stiùradh</headword>
+      <description>pintle of a rudder.</description>
+    </item>
+    <item>
+      <headword id="idm288968">falmadair</headword>
+      <description>part of rudder held in your hand. ‘An fhuilm’ in South Uist.</description>
+    </item>
+    <item>
+      <headword id="idm287456">bal guailleadh</headword>
+      <description>rope used for tying up. Located at front stem.</description>
+    </item>
+    <item>
+      <headword id="idm285944">pleadhachas</headword>
+      <description>a mixture. “Pleadhachas de Bheurla.”</description>
+    </item>
+  </items>
+</fieldworkDocument>
+

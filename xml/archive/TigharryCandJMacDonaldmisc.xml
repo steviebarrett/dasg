@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?><!-- checked by MM on 1 8 14 --><!-- illustration --><fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="AOHenley_TigharryCandJMacDonaldmisc" docType="wordlist" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>[1987-88]</date>
+  <fieldworker personId="ohenleya">A. O’Henley</fieldworker>
+  <informant>
+    <nameEnglish>Calum and Jean MacDonald</nameEnglish>
+  </informant>
+  <location>North Uist, Tigharry</location>
+  <items>
+    <item>
+      <headword id="idm2959800">clàtair</headword>
+      <description>like a ‘gràpa’ except that it is designed to pull rather than lift. Prongs are therefore rounded. Used for pulling seaweed. <illustration src="TigharryCandJMacDonaldmiscillust1.jpg" width="250"/> </description>
+    </item>
+    <item>
+      <headword id="idm2951520">slifag [sic]</headword>
+      <description>dibble.</description>
+    </item>
+    <item>
+      <headword id="idm2974344">làmhag</headword>
+      <description>an axe.</description>
+    </item>
+    <item>
+      <headword id="idm3024888">socharach</headword>
+      <description>stupid, foolish. “Nach tu bha socharach a leithid sin a dheanamh.”</description>
+    </item>
+    <item>
+      <headword id="idm2975856">aithiseach</headword>
+      <description>unsettled? Not sure about this one.</description>
+    </item>
+    <item>
+      <headword id="idm2999688">earrasaid</headword>
+      <description>tartan mantle.</description>
+    </item>
+    <item>
+      <headword id="idm3044112">barrasach</headword>
+      <description>distinctive. Overtones of worthiness and credibility.</description>
+    </item>
+    <item>
+      <headword id="idm2986800">soull</headword>
+      <description>bait.</description>
+    </item>
+    <item>
+      <headword id="idm2967072">cuirneanan</headword>
+      <description>drops.</description>
+    </item>
+    <item>
+      <headword id="idm2952456">cogadh each</headword>
+      <description>a game whereby one person sat on the other’s shoulders. Then proceeded to see which team could knock over the most.</description>
+    </item>
+    <item>
+      <headword id="idm2928912">casan gobhlag</headword>
+      <description>carrying a young child shoulder high. In South Uist this is knows as ‘casan tunnaig’.</description>
+    </item>
+    <item>
+      <headword id="idm2994864">siollagan</headword>
+      <description>small fish found on the strand.</description>
+    </item>
+    <item>
+      <headword id="idm3028200">sgreang</headword>
+      <description>frown. Sgreangaidh (n) – a person known for frowning.</description>
+    </item>
+    <item>
+      <headword id="idm2953464">[claoidh]</headword>
+      <description>Air do chlaoidh ag obair – exhausted.</description>
+    </item>
+    <item><headword id="d0e155" type="heading" level="h1">Seanfhaclan:</headword></item>
+    <item>
+      <headword id="idm3002352">[cruach]</headword>
+      <description>Cha do laoisg thu seachd cruachan móra fhathast comhla ris. Refers to a future wife not having lived with her husband to be.</description>
+    </item>
+    <item>
+      <headword id="idm3035832">[spàinn]</headword>
+      <description>Mur a dean mi spàinnean millidh mi adhaircean. Refers to the practice of spoon-making.</description>
+    </item>
+    <item>
+      <headword id="idm2925744">[treinidh]</headword>
+      <description>Cha deanar treinidh gun triuir ’s tha i cùbach gun cheathrair. Refers to the numbers required in courting.</description>
+    </item>
+    <item>
+      <headword id="idm2994648">[ugh]</headword>
+      <description>’S corrach ugh air aran.</description>
+    </item>
+    <item>
+      <headword id="idm3027768">[tuillbhain]</headword>
+      <description>’S iomadh tuillbhain tha feathamh air a’ bheathach lag.</description>
+    </item>
+    <item>
+      <headword id="idm2986872">[olc]</headword>
+      <description>Ge be bhios gu olc mu àrdaich bi e gu math mun rathad mhór.</description>
+    </item>
+    <item>
+      <headword id="idm2950656">[cat]</headword>
+      <description>Miann a’ chait a choinnebhaineadh.</description>
+    </item>
+    <item>
+      <headword id="idm2941656">[mearlach]</headword>
+      <description>Taigh gun iomasladh, taigh gun mhearlach. Not thieving on a mass scale but enough to help your family meet requirements and have a little extra besides.</description>
+    </item>
+    <item>
+      <headword id="idm3034608">[soirbheachail]</headword>
+      <description>’S fhearr a bhi soirbheachail na bhi saoghalta.</description>
+    </item>
+    <item>
+      <headword id="idm3027624">[dorn]</headword>
+      <description>’S minig a bha dorn aig fear na h-eidriginn.</description>
+    </item>
+    <item>
+      <headword id="idm3036408">[muir]</headword>
+      <description>’S minig a thàinig muir mór a plumanaich.</description>
+    </item>
+    <item>
+      <headword id="idm3019272">[blais]</headword>
+      <description>’S beag an rud air nach blais bean.</description>
+    </item>
+    <item>
+      <headword id="idp2051368">[buileachadh]</headword>
+      <description>’Se buileachadh a ni cruinneachadh.</description>
+    </item>
+  </items>
+</fieldworkDocument>

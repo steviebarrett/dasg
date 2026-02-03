@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 11 6 13 -->
+<fieldworkDocument docId="AssortedFieldworkers_AnonymousAfaireachdain" docType="questionnaire" subType="Faireachdain">
+  <title>Faireachdain / Senses</title>
+  <fieldworker>Anonymous A</fieldworker>
+  <items>
+    <item><headword id="d0e14" type="heading" level="h1">FAIREACHDAIN</headword></item>
+    <item>
+      <headword id="d0e19">faithnean</headword>
+      <description>the senses.</description>
+    </item>
+	<item>
+	  <headword id="idola35">[note]</headword>
+	  <description>The others as above [i.e. in the heading of the questionnaire – I have copied them below].</description>
+	</item>
+    <item>
+      <headword id="d0e37">[claisneachd]</headword>
+    </item>
+    <item>
+      <headword id="d0e43">[fàileadh]</headword>
+    </item>
+    <item>
+      <headword id="d0e49">[fradharc]</headword>
+    </item>
+    <item>
+      <headword id="d0e55">[blas]</headword>
+    </item>
+    <item><headword id="d0e60" type="heading" level="h1">AN T-SÙIL</headword></item>
+    <item><headword id="d0e64" type="heading" level="h2">1. Seòrsachan sùil, pàirtean de’n t-sùil, tinneasan sùil, fradharc</headword></item>
+    <item>
+      <headword id="d0e69">frasg, fruisg</headword>
+      <description>eyelash, -es.</description>
+    </item>
+    <item>
+      <headword id="d0e78">sùil chlaon</headword>
+      <description>squint eye.</description>
+    </item>
+    <item>
+      <headword id="d0e87">leònag</headword>
+      <description>stye.</description>
+    </item>
+    <item>
+      <headword id="d0e96">teine-sionnachain</headword>
+      <description>phosphorescence.</description>
+    </item>
+    <item>
+      <headword id="d0e105">sùil chaogach</headword>
+      <description>winking eye.</description>
+    </item>
+    <item>
+      <headword id="d0e114">mala</headword>
+      <description>eyebrow.</description>
+    </item>
+    <item>
+      <headword id="d0e123">rosg</headword>
+      <description>eyelid.</description>
+    </item>
+    <item><headword id="d0e131" type="heading" level="h2">2. Dòighean air coimhead air duine</headword></item>
+    <item><headword id="d0e135" type="heading" level="h2">3. Gnathasan-cainnte tha bointinn ris an t-sùil</headword></item>
+    <item>
+      <headword id="d0e140">[sùil]</headword>
+      <description>Tha mo shùil ann. – to us [it] meant “I fancy it”. [NOTES: the authors of the questionnaire give this phrase as an example with the meaning ‘I want it’.]</description> 
+    </item>
+    <item>
+      <headword id="d0e149">[faicinn]</headword>
+      <description>Breagha ri fhaicinn ach geur ri bhlasad. – Fair to the eye but bitter to the taste.</description>
+    </item>
+    <item><headword id="d0e157" type="heading" level="h1">AM BEUL</headword></item>
+    <item>
+      <headword id="d0e162">bleith na fiaclan</headword>
+      <description>gnashing.</description>
+    </item>
+    <item>
+      <headword id="d0e171">càirean</headword>
+      <description>gums.</description>
+    </item>
+    <item>
+      <headword id="d0e180">cagnadh</headword>
+      <description>chewing.</description>
+    </item>
+    <item>
+      <headword id="d0e189">[daorach]</headword>
+      <description>Tha e air an daorach. – He is drunk.</description>
+    </item>
+    <item>
+      <headword id="d0e198">cabaireachd</headword>
+      <description>small talk or blethering.</description>
+    </item>
+    <item>
+      <headword id="d0e207">frith ghàire</headword>
+      <description>giggle.</description>
+    </item>
+    <item>
+      <headword id="d0e216">gagach</headword>
+      <description>stammer.</description>
+    </item>
+    <item>
+      <headword id="d0e225">liotach</headword>
+      <description>lisp.</description>
+    </item>
+    <item>
+      <headword id="d0e234">bacadh</headword>
+      <description>impediment.</description>
+    </item>
+    <item><headword id="d0e242" type="heading" level="h1">A’ CHLUAS</headword></item>
+    <item><headword id="d0e246" type="heading" level="h2">1. Cumaidhean chluas, pàirtean de’n chluais, tinneasan cluaise</headword></item>
+    <item>
+      <headword id="d0e251">elibhag</headword>
+      <description>ear-lobe.</description>
+    </item>
+    <item>
+      <headword id="d0e260">céir</headword>
+      <description>wax.</description>
+    </item>
+    <item><headword id="d0e268" type="heading" level="h2">2. Seòrsaichean de fhuaim</headword></item>
+    <item>
+      <headword id="d0e273">rànnaich na mara</headword>
+      <description>roar of the sea.</description>
+    </item>
+    <item>
+      <headword id="d0e282">feadan gaoithe</headword>
+      <description>hissing of the wind.</description>
+    </item>
+    <item>
+      <headword id="d0e291">sgreuch</headword>
+      <description>scream, screech.</description>
+    </item>
+    <item>
+      <headword id="d0e300">sgread</headword>
+      <description>scream, screech.</description>
+    </item>
+    <item>
+      <headword id="d0e309">sgiamhail</headword>
+      <description>squealing.</description>
+    </item>
+    <item>
+      <headword id="d0e318">sitirich</headword>
+      <description>neighing.</description>
+    </item>
+    <item>
+      <headword id="d0e327">geumnaich</headword>
+      <description>lowing.</description>
+    </item>
+    <item>
+      <headword id="d0e336">gnothail</headword>
+      <description>grunting.</description>
+    </item>
+    <item>
+      <headword id="d0e345">comhartaich</headword>
+      <description>barking.</description>
+    </item>
+    <item>
+      <headword id="d0e354">mèilich</headword>
+      <description>bleating.</description>
+    </item>
+    <item>
+      <headword id="d0e363">bùrraich</headword>
+      <description>stags roaring.</description>
+    </item>
+    <item>
+      <headword id="d0e372">ceileireadh</headword>
+      <description>chirping of birds.</description>
+    </item>
+    <item>
+      <headword id="d0e381">maodal</headword>
+      <description>stomach.</description>
+    </item>
+    <item>
+      <headword id="d0e390">rùbail</headword>
+      <description>rumbling of the stomach.</description>
+    </item>
+	<item>
+	  <headword id="idola36">[note]</headword>
+	  <description>[NOTES: the rest of the questionnaire (i.e. an t-sròn, an làmh, an cridhe) missing.]</description>
+	</item>
+  </items>
+</fieldworkDocument>

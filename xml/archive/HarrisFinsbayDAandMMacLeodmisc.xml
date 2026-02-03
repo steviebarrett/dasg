@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 23 4 14 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="HarrisVarious_HarrisFinsbayDAandMMacLeodmisc" docType="wordlist" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <fieldworker>[anonymous D]</fieldworker>
+  <informant>
+    <nameEnglish>Donald Angus MacLeod</nameEnglish>
+    <age>70</age>
+  </informant>
+  <informant>
+    <nameEnglish>Maryann MacLeod</nameEnglish>
+    <age>about 70</age>
+  </informant>
+  <location>Harris, Finsbay</location>
+  <items>
+    <item>
+      <headword id="d0e36">donnag</headword>
+      <description>young ling.</description>
+    </item>
+    <item>
+      <headword id="d0e45">min bheisreach</headword>
+      <description>brose meal.</description>
+    </item>
+    <item>
+      <headword id="d0e54">min bhuidhe</headword>
+      <description>peas-meal.</description>
+    </item>
+    <item>
+      <headword id="d0e63">gàdag</headword>
+      <description>rope used to carry peat etc. round your shoulder.</description>
+    </item>
+    <item>
+      <headword id="d0e72">dearrach</headword>
+      <description/>
+    </item>
+    <item>
+      <headword id="d0e80">cluarein</headword>
+      <description>old shoes used as slippers. Cluarein bhrog.</description>
+    </item>
+    <item>
+      <headword id="d0e89">plocan</headword>
+      <description>hammer with a wooden head.</description>
+    </item>
+    <item>
+      <headword id="d0e98">geocaire</headword>
+      <description>cook’s fork. Geocaire feoladh – meat fork.</description>
+    </item>
+    <item>
+      <headword id="d0e107">a cheud bhainne</headword>
+      <description>buttermilk.</description>
+    </item>
+    <item>
+      <headword id="d0e116">falmair</headword>
+      <description>hake.</description>
+    </item>
+    <item>
+      <headword id="d0e125">athailte</headword>
+      <description>old form of torch made of a lighted peat.</description>
+    </item>
+    <item>
+      <headword id="d0e134">balgaire</headword>
+      <description>someone of no consequence.</description>
+    </item>
+    <item>
+      <headword id="d0e143">beuladair</headword>
+      <description>a gossipy man.</description>
+    </item>
+    <item>
+      <headword id="d0e152">duine leam-leat</headword>
+      <description>[?] someone who argues with whatever you say.</description>
+    </item>
+    <item>
+      <headword id="d0e161">reipseach</headword>
+      <description/>
+    </item>
+    <item>
+      <headword id="d0e169">criamhal</headword>
+      <description>slow moving man.</description>
+    </item>
+    <item>
+      <headword id="d0e178">duine somalta</headword>
+      <description>an easy going man.</description>
+    </item>
+    <item>
+      <headword id="d0e187">guitear</headword>
+      <description>culvert through a byre.</description>
+    </item>
+    <item>
+      <headword id="d0e196">duslaich nan speur</headword>
+      <description>clouds.</description>
+    </item>
+    <item>
+      <headword id="d0e205">rapaire</headword>
+      <description>a man who makes a bad job of something, untidy.</description>
+    </item>
+    <item>
+      <headword id="d0e214">greim lòn</headword>
+      <description>rheumatic pain.</description>
+    </item>
+    <item>
+      <headword id="d0e223">slòcan</headword>
+      <description>medicine for cow disease using seaweed.</description>
+    </item>
+  </items>
+</fieldworkDocument>

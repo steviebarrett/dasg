@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 11 9 14 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="AJSmith_LeverburghJMartinmisc" docType="wordlist" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>June 1972</date>
+  <fieldworker>A. J. Smith</fieldworker>
+  <note>[NOTES: in IPA transcriptions, the fieldworker uses [w] for [ɯ].]</note>
+
+  <informant>
+    <nameEnglish>J. Martin</nameEnglish>
+    <origin>Harris, Leverburgh</origin>
+  </informant>
+  <location>Harris, Leverburgh</location>
+  <items>
+    <item>
+      <headword id="idm37618720">ceàrdallan</headword>
+      <description>[cɑ:ʴsd̪əɫɑṉ] Note: a purplish black insect somewhat similar to a bee. Flies about emitting a “strann”. [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+    <item>
+      <headword id="idm37633336">feàrtallan</headword>
+      <description>[fȷɑ:ʴst̪əɫɑṉ] Note: his pronunciation of word for a warble fly. [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+    <item>
+      <headword id="idm37731256">sgot</headword>
+      <description>[sɡɔt̪] Quot.: “Cha deanainn sgot air.” Note: I couldn’t make head or tail of it. I couldn’t make it out.</description>
+    </item>
+    <item>
+      <headword id="idm37647088">cailleach-ribeach</headword>
+      <description>Note: growths in the mouth of cattle. Cut off. Quot.: “a’ chailleach-ribeach air a’ bhó”.</description>
+    </item>
+    <item>
+      <headword id="idm37688704">cràdh-gheadh</headword>
+      <description>[kɾɑ:ȷɑi] Note: sheldrake.</description>
+    </item>
+    <item>
+      <headword id="idm37649320">eun-dubh-a-sgadain</headword>
+      <description>Note: guillemot, razorbill.</description>
+    </item>
+    <item>
+      <headword id="idm37658104">gearra-breac</headword>
+      <description>Note: black guillemot.</description>
+    </item>
+    <item>
+      <headword id="idm37628728">draona</headword>
+      <description>[d̪ɾɾɤ:ṉə] [sic] Note: snipe.</description>
+    </item>
+    <item>
+      <headword id="idm37719808">marag-fhlùir</headword>
+      <description>Note: white pudding made in a part of beast’s entrails. Raisins usually added.</description>
+    </item>
+    <item>
+      <headword id="idm37627216">loch-bhlian</headword>
+      <description>Note: flank of a sheep.</description>
+    </item>
+    <item>
+      <headword id="idm37695832">Calum-figheadair</headword>
+      <description>Note: daddy-long-legs.</description>
+    </item>
+    <item>
+      <headword id="idm37666024">dramhan-eallaich</headword>
+      <description>[d̪ɾɑvɑṉȷɑɫiç] Note: spider.</description>
+    </item>
+    <item>
+      <headword id="idm37635928">curra-mhidheag</headword>
+      <description>[kwɾəˈvĩɑ̃ɡ] Note: blaeberry.</description>
+    </item>
+    <item>
+      <headword id="idm37720168">boinneagraich</headword>
+      <description>[bonʹɑɡɾiç] Quot.: boinneagraich uisge. Note: light drops of rain.</description>
+    </item>
+    <item>
+      <headword id="idm37690288">góbhlan-gaoitheadh</headword>
+      <description>Note: swallow.</description>
+    </item>
+    <item>
+      <headword id="idm37709656">clamhan-mór</headword>
+      <description>Note: buzzard.</description>
+    </item>
+    <item>
+      <headword id="idm37671784">falaisg</headword>
+      <description>[fɑɫiʃɡʹ] Note: heather fire.</description>
+    </item>
+    <item>
+      <headword id="idm37637224">speach</headword>
+      <description>[spjɑx] Note: wasp.</description>
+    </item>
+    <item>
+      <headword id="idm37620592">deargann-tràghaidh</headword>
+      <description>Note: shore-flea.</description>
+    </item>
+    <item>
+      <headword id="idm37732840">cailleach-chòsach</headword>
+      <description>Note: slater.</description>
+    </item>
+  </items>
+</fieldworkDocument>

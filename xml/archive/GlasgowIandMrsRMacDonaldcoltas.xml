@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?><!-- checked by MM on 3 6 14 --><fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="AOHenley_GlasgowIandMrsRMacDonaldcoltas" docType="questionnaire" subType="ColtasAnDuine" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Coltas an Duine / Personal Appearance</title>
+  <date>[1987-88]</date>
+  <fieldworker personId="ohenleya">A. O’Henley</fieldworker>
+  <note>[NOTES: some notes in second hand, most probably added by K. D. MacDonald. See below for details.]</note>
+  <informant>
+    <nameEnglish>Ishbel and Mrs R. MacDonald</nameEnglish>
+    <origin>[South Uist]</origin>
+  </informant>
+  <location>Glasgow</location>
+  <items>
+    <item><headword id="d0e32" type="heading" level="h1">Shapes and general appearance</headword></item>
+    <item>
+      <headword id="idp109742784">bachaill</headword>
+      <description>clumsy, untidy, unkempt man – ’Se sàr bhachall [sic] a th’ann.</description>
+    </item>
+    <item>
+      <headword id="idp109744728">clabaisteir</headword>
+      <description>large, clumsy person (male) rather than brawler as used by Dwelly.</description>
+    </item>
+    <item>
+      <headword id="idp109710384">blataillein</headword>
+      <description>a very outsize unattractive [sic]. [NOTES: the following explanation and the next three words written in second hand.] Thàinig e ’s blatàillein de thè còmh’ ris. Also used to describe a crowd of people (prob. batallion), e.g. Thàinig blatàillein a steach.</description>
+    </item>
+    <item>
+      <headword id="idp109708368">pleabain</headword>
+      <description>(used of a man) a skinny, miserable, useless looking character with no obvious personality.</description>
+    </item>
+    <item>
+      <headword id="idp472264">crabhàidseach</headword>
+      <description>Seann chràbhaidseach – an old decrepit person (female). (Donald MacIntyre in Sporan Dhòmhnaill uses “cranàidseichean”.)</description>
+    </item>
+    <item>
+      <headword id="idp474496">sgraoid</headword>
+      <description>(used of a woman) e.g. seann sgraoid. Untidy older woman who takes no care of her appearance. Used also as a derogatory term describing an unpopular person, probably female.</description>
+    </item>
+    <item>
+      <headword id="idp477520">pliobain</headword>
+      <description>second in command, someone with no authority. [NOTES: note added above ‘n’ in ‘pliobain’ – (r).]</description>
+    </item>
+    <item>
+      <headword id="idp479464">trusdair</headword>
+      <description>rascal.</description>
+    </item>
+    <item>
+      <headword id="idp481408">gille ceann beinnge</headword>
+      <description>someone providing moral support at a ‘reiteach’.</description>
+    </item>
+    <item>
+      <headword id="idp483352">pliadhach</headword>
+      <description>splay footed.</description>
+    </item>
+    <item>
+      <headword id="idp485296">sianndaiche</headword>
+      <description>distant person.</description>
+    </item>
+    <item>
+      <headword id="idp487240">diud</headword>
+      <description>shy. “Duine diud.” [NOTES: corrected to ‘diùid’.]</description>
+    </item>
+    <item>
+      <headword id="idp489544">sgimileir</headword>
+      <description>slicked person.</description>
+    </item>
+    <item>
+      <headword id="idp491488">busairteach</headword>
+      <description>chancer, amateur.</description>
+    </item>
+    <item>
+      <headword id="idp493432">clùmhadh</headword>
+      <description>nestling.</description>
+    </item>
+    <item>
+      <headword id="idp495376">sgàiteach</headword>
+      <description>witty, same as ‘eirmseach’. [NOTES: corrected to ‘sgaiteach’.]</description>
+    </item>
+    <item>
+      <headword id="idp497464">bumalair</headword>
+      <description>big headed. Also used to describe size. [NOTES: note added above ‘b’ in ‘bumalair’ – (p).]</description>
+    </item>
+    <item>
+      <headword id="idp499408">oinseach</headword>
+      <description>used of foolish woman. [NOTES: corrected to ‘òinseach’.]</description>
+    </item>
+    <item><headword id="d0e198" type="heading" level="h1">Deformities, blemishes, scars</headword></item>
+    <item>
+      <headword id="idp502360">riofainaich</headword>
+      <description>ragnails.</description>
+    </item>
+    <item>
+      <headword id="idp503872">ioncair</headword>
+      <description>puss.</description>
+    </item>
+    <item>
+      <headword id="idp505384">ball dobhrain</headword>
+      <description>mole.</description>
+    </item>
+    <item>
+      <headword id="idp506896">ruiteach</headword>
+      <description>red in the face.</description>
+    </item>
+    <item>
+      <headword id="idp508408">lachdainn</headword>
+      <description>sallow skinned.</description>
+    </item>
+    <item>
+      <headword id="idp509920">fòghneachan</headword>
+      <description>warts. [NOTES: note added above in second hand – foinneachan.]</description>
+    </item>
+    <item>
+      <headword id="idp511720">sleamhnain</headword>
+      <description>stye.</description>
+    </item>
+    <item>
+      <headword id="idp513232">slinneanach</headword>
+      <description>broad shouldered.</description>
+    </item>
+    <item>
+      <headword id="idp514744">gàgan</headword>
+      <description>hacks, especially with people who work with kelp.</description>
+    </item>
+    <item>
+      <headword id="idp516256">pronnadh</headword>
+      <description>bruise.</description>
+    </item>
+    <item>
+      <headword id="idp517768">cadal deiligneach</headword>
+      <description>pins and needles.</description>
+    </item>
+    <item>
+      <headword id="idp519280">forc</headword>
+      <description>cramp.</description>
+    </item>
+    <item>
+      <headword id="idp179480">deideadh</headword>
+      <description>toothache. [NOTES: corrected to ‘dèideadh’.]</description>
+    </item>
+    <item>
+      <headword id="idp181136">lòin</headword>
+      <description>rheumatism.</description>
+    </item>
+    <item>
+      <headword id="idp182648">druim-lòin</headword>
+      <description>rheumatism.</description>
+    </item>
+    <item>
+      <headword id="idp184160">greim-lòin</headword>
+      <description>rheumatism.</description>
+    </item>
+    <item>
+      <headword id="idp185672">breaca sianain</headword>
+      <description>freckles.</description>
+    </item>
+    <item>
+      <headword id="idp187184">spliucan</headword>
+      <description>tobacco pouch. [NOTES: corrected to ‘spliùcan’.]</description>
+    </item>
+    <item>
+      <headword id="idp188840">leabhar poca</headword>
+      <description>wallet.</description>
+    </item>
+    <item>
+      <headword id="idp190352">claisean</headword>
+      <description>wrinkles.</description>
+    </item>
+    <item>
+      <headword id="idp191864">‘bathais gun naire’</headword>
+      <description>saying.</description>
+    </item>
+    <item>
+      <headword id="idp193376">pleat</headword>
+      <description>“Nach ann air a bha pleat.” – used for a showy person.</description>
+    </item>
+    <item><headword id="d0e400" type="heading" level="h1">Beauty and ugliness</headword></item>
+    <item>
+      <headword id="idp195824">sgeamp</headword>
+      <description>stylish person (male), dandy. Sàr sgeamp – bang in fashion.</description>
+    </item>
+    <item>
+      <headword id="idp197552">smàiseil</headword>
+      <description>good looker.</description>
+    </item>
+    <item>
+      <headword id="idp199064">snàsail</headword>
+      <description>good looker. [NOTES: corrected to ‘snasail’.]</description>
+    </item>
+    <item>
+      <headword id="idp200720">gad phonaigeadh fhein</headword>
+      <description>dolling up.</description>
+    </item>
+    <item>
+      <headword id="idp202232">mi-thuarail</headword>
+      <description>sickly.</description>
+    </item>
+    <item>
+      <headword id="idp203744">culla sgrath</headword>
+      <description>ugly. [NOTES: note added above ‘culla’ – culaidh; ‘sgrath’ corrected to ‘sgràth'.]</description>
+    </item>
+    <item>
+      <headword id="idp205472">culla sgreimh</headword>
+      <description>ugly. [NOTES: note added below ‘mh’ in ‘sgreimh’ – (f); note added above ‘culla’ – culaidh.]</description>
+    </item>
+    <item><headword id="d0e467" type="heading" level="h1">Strength, fitness and the opposite</headword></item>
+    <item>
+      <headword id="idp208064">treun</headword>
+      <description>strong.</description>
+    </item>
+    <item>
+      <headword id="idp209576">calm(a)</headword>
+      <description>strong.</description>
+    </item>
+    <item>
+      <headword id="idp211088">supailte</headword>
+      <description>supple.</description>
+    </item>
+    <item>
+      <headword id="idp212600">miota</headword>
+      <description>weakling.</description>
+    </item>
+    <item>
+      <headword id="idp214112">lapach</headword>
+      <description>poorly.</description>
+    </item>
+    <item>
+      <headword id="idp215624">liost na bochd</headword>
+      <description>parish relief.</description>
+    </item>
+    <item>
+      <headword id="idp217136">bachdach</headword>
+      <description>lame.</description>
+    </item>
+    <item><headword id="d0e534" type="heading" level="h1">Ways of walking, sitting, lying</headword></item>
+    <item>
+      <headword id="idp219512">air bhigearna</headword>
+      <description>on tenterhooks.</description>
+    </item>
+    <item>
+      <headword id="idp221024">fàdhach</headword>
+      <description>striving. Bha mi fàdhach ri crioch a chuir air … [NOTES: corrected to ‘fadhach’.]</description>
+    </item>
+    <item>
+      <headword id="idp222896">cugallach</headword>
+      <description>unsteady.</description>
+    </item>
+    <item>
+      <headword id="idp224408">cabach</headword>
+      <description>blether. Tha e cabach. Cabain (male), cabag (female).</description>
+    </item>
+    <item>
+      <headword id="idp226280">bleadraich</headword>
+      <description>blethering.</description>
+    </item>
+    <item>
+      <headword id="idp227792">cabainneach</headword>
+      <description>blether.</description>
+    </item>
+    <item>
+      <headword id="idp229304">greannach</headword>
+      <description>grumpy.</description>
+    </item>
+    <item>
+      <headword id="idp230816">glaoic</headword>
+      <description>fool.</description>
+    </item>
+    <item>
+      <headword id="idp232328">Amadan aig Mac ’Ic Ailein</headword>
+      <description>phrase for a jester.</description>
+    </item>
+    <item>
+      <headword id="idp233840">piobrachadh</headword>
+      <description>to encourage, to pepper things up, to incite.</description>
+    </item>
+    <item>
+      <headword id="idp235352">ardanach</headword>
+      <description>haughty person. [NOTES: corrected to ‘àrdanach’.]</description>
+    </item>
+    <item>
+      <headword id="idp237008">corrach</headword>
+      <description>rugged.</description>
+    </item>
+    <item>
+      <headword id="idp238520">bleigeard</headword>
+      <description>mischievous.</description>
+    </item>
+    <item>
+      <headword id="idp240032">tamhasg</headword>
+      <description>mischievous. Also used for a particular ghost type in Barra.</description>
+    </item>
+    <item>
+      <headword id="idp241616">luasganach</headword>
+      <description>harum-scarum.</description>
+    </item>
+    <item>
+      <headword id="idp243128">anns a’ cham a chòthail</headword>
+      <description>used for someone coming into a conversation, company.</description>
+    </item>
+    <item>
+      <headword id="idp109370648">corra-bide</headword>
+      <description>tiptoes.</description>
+    </item>
+    <item>
+      <headword id="idp109372160">tinneas-laighe</headword>
+      <description>nightmare.</description>
+    </item>
+    <item>
+      <headword id="idp109373672">sgleogach</headword>
+      <description>effeminate.</description>
+    </item>
+    <item>
+      <headword id="idp109375184">pleastar</headword>
+      <description>someone you can’t get rid of. Also ‘tearr’. ’Se tearr de dhuine a th’ann.</description>
+    </item>
+    <item>
+      <headword id="idp109376912">[tearr]</headword>
+      <description>[See pleastar.]</description>
+    </item>
+    <item>
+      <headword id="idp109378496">luideach</headword>
+      <description>clumsy.</description>
+    </item>
+    <item>
+      <headword id="idp109380080">luid</headword>
+      <description>silly woman. “Fhuair mi luid / Fhuair mi cuid / Dh’fhan a’ luid / ’S dh’fhalbh mo chuid.”</description>
+    </item>
+    <item>
+      <headword id="idp109382240">[mionaig]</headword>
+      <description>“Slainte na mionaig nach tig / ’S tric is mionaig a thàinig / Ach nach truagh nach e mionaig nach tig / A bha an àite a’ mhionaig a thàinig.” A toast with a pun on the word ‘mionaig’ meaning ‘often’ and also being used of a woman who is preferred to the wife of the person making the toast. So ‘mionaig’ means someone who he preferred to his own spouse.</description>
+    </item>
+    <item><headword id="d0e754" type="heading" level="h1">Pulling faces, frowns, other expressions</headword></item>
+    <item>
+      <headword id="idp109385264">greann</headword>
+      <description>frown.</description>
+    </item>
+    <item>
+      <headword id="idp109386776">cur chreinnean</headword>
+      <description>making faces.</description>
+    </item>
+    <item>
+      <headword id="idp109388288">air fhiaradh</headword>
+      <description>looking at something with a squint.</description>
+    </item>
+    <item>
+      <headword id="idp109389800">fo’n t-sùil</headword>
+      <description>looking at something with a squint.</description>
+    </item>
+    <item>
+      <headword id="idp109391312">smèideadh</headword>
+      <description>waving.</description>
+    </item>
+    <item><headword id="d0e803" type="heading" level="h1">Clean and untidy</headword></item>
+    <item>
+      <headword id="idp109393688">spàideil</headword>
+      <description>very neat.</description>
+    </item>
+    <item>
+      <headword id="idp109395632">giobach</headword>
+      <description>untidy.</description>
+    </item>
+    <item>
+      <headword id="idp109397576">peallag</headword>
+      <description>untidy female.</description>
+    </item>
+    <item>
+      <headword id="idp109399520">peallan</headword>
+      <description>untidy male.</description>
+    </item>
+    <item>
+      <headword id="idp109401464">giobain</headword>
+      <description>descriptive word applied to individual in friendly manner. “Sheall an giobain a tha a’ nall thugainn.”</description>
+    </item>
+    <item>
+      <headword id="idp109403768">maill</headword>
+      <description>delay.</description>
+    </item>
+    <item>
+      <headword id="idp109405712">blineas</headword>
+      <description>silly grin. “Blineas air.” [NOTES: corrected to ‘blìneas’.]</description>
+    </item>
+  </items>
+</fieldworkDocument>

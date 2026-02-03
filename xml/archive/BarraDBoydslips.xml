@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 5/8/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_BarraDBoydslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>1970</date>
+  <fieldworker>? [self]</fieldworker>
+  <note>[NOTES: the note next to the date – ‘Card’ or ‘Letter’. This seems to refer to the two postcards found in one of the card index drawers on which the slips are based.]</note>
+  <informant>
+    <nameEnglish>Donald Boyd?</nameEnglish>
+    <nameGaelic>D Boyd </nameGaelic>
+    <age>? [c. 65?]</age>
+    <origin>[North Uist?]</origin>
+  </informant>
+  <location>Barra, Castlebay</location>
+  <items>
+    <item>
+      <headword id="idp161831632">laighe-leòiream</headword>
+      <description>Quotation: a’ deanamh laighe-leòiream. Notes: ‘basking in the sun’ (Grimsay, North Uist).</description>
+    </item>
+    <item>
+      <headword id="idp161833288">tathanta</headword>
+      <description>Notes: ‘contrary, in speech or action’.</description>
+    </item>
+    <item>
+      <headword id="idp161834800">briuthasach</headword>
+      <description>Notes: ‘sexy (in N. Uist parlance)’.</description>
+    </item>
+    <item>
+      <headword id="idp161836312">caimeadalach</headword>
+      <description>Notes: ‘roundabout, circuitous’.</description>
+    </item>
+    <item>
+      <headword id="idp161837824">dionruigeach</headword>
+      <description>Notes: ‘vindictive’.</description>
+    </item>
+    <item>
+      <headword id="idp161839336">droganta</headword>
+      <description>Notes: ‘well-dressed’, or ‘cheerful in mood’.</description>
+    </item>
+    <item>
+      <headword id="idp161840848">féicheantas</headword>
+      <description>Notes: ‘verbal sparring; parleying with words’.</description>
+    </item>
+  </items>
+</fieldworkDocument>

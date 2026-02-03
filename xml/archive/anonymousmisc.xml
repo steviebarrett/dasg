@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 15 1 15 -->
+<!-- items have no IDs -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="DRMorrisonetal_anonymousmisc" docType="wordlist" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <informant>
+    <nameEnglish>?</nameEnglish>
+  </informant>
+  <items>
+    <item>
+      <headword id="d0e22">sgoil</headword>
+      <description>Thug e sgoil air a bha uamhasach. He gave him a right telling off.</description>
+    </item>
+    <item>
+      <headword id="d0e31">farsaing</headword>
+      <description>Storaidhnean farsaing – tall stories.</description>
+    </item>
+    <item>
+      <headword id="d0e40">dorgan</headword>
+      <description>a sustained monotonous noise, usually people talking.</description>
+    </item>
+    <item>
+      <headword id="d0e49">mìn</headword>
+      <description>small (of print).</description>
+    </item>
+    <item>
+      <headword id="d0e58">friotas</headword>
+      <description>whispering? (Matilda MacBeath)</description>
+    </item>
+    <item>
+      <headword id="d0e67">salann rìligidh</headword>
+      <description>sprinkling of salt on herring or other fish in boxes.</description>
+    </item>
+    <item>
+      <headword id="d0e76">tolt</headword>
+      <description>bedspread.</description>
+    </item>
+    <item>
+      <headword id="d0e85">gorcad</headword>
+    </item>
+    <item>
+      <headword id="d0e91">fuasgailte</headword>
+      <description>non-communicant. (Harris)</description>
+    </item>
+    <item>
+      <headword id="d0e100">frog(ail)</headword>
+      <description>hale and hearty.</description>
+    </item>
+    <item>
+      <headword id="d0e109">gràinean</headword>
+      <description>pill. (W. Lewis)</description>
+    </item>
+  </items>
+</fieldworkDocument>

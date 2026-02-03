@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 23/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_PortreeDNicolsonslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>07/1970</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <informant>
+    <nameEnglish>D. Nicolson</nameEnglish>
+  </informant>
+  <location>Skye, Portree</location>
+  <items>
+    <item>
+      <headword id="idp115757128">leth-bhalla</headword>
+      <description>Notes: wall built up against the face of a bank, partly submerged from the exterior.</description>
+    </item>
+    <item>
+      <headword id="idp115754464">mànran</headword>
+      <description>Quotation: Bha e ag obair air a’ mhànran fhéin. Notes: working on his own.</description>
+    </item>
+    <item>
+      <headword id="idp115751008">meud</headword>
+      <description>[mɛ̃:d̪] Notes: can mean haughtiness, pride.</description>
+    </item>
+    <item>
+      <headword id="idp115747048">sliseag</headword>
+      <description>Notes: spurtle.</description>
+    </item>
+    <item>
+      <headword id="idp115771024">stàth</headword>
+      <description>Quotation: Nach farsainn an stàth a tha e a toirt leis. Tha’n coirce na stàthan. Notes: swathe.</description>
+    </item>
+    <item>
+      <headword id="idp115772680">talamh-làidir</headword>
+      <description>Notes: lea land.</description>
+    </item>
+    <item>
+      <headword id="idp115774192">teireisgil</headword>
+      <description>[t̪eɾeʃɡʹəl] Notes: peat-cutting iron.</description>
+    </item>
+    <item>
+      <headword id="idp115775920">toit</headword>
+      <description>Notes: 1. a “hut” of corn. 2. warm air.</description>
+    </item>
+    <item>
+      <headword id="idp115777432">àmhailt</headword>
+      <description>[ɑ̃:ılʹtʹ] Notes: scheming.</description>
+    </item>
+    <item>
+      <headword id="idp115779160">bileag</headword>
+      <description>Notes: piece of paper, leaflet.</description>
+    </item>
+    <item>
+      <headword id="idp115780672">blian</headword>
+      <description>Quotation: fuil air blianadh. Notes: weaken, often used of liquids.</description>
+    </item>
+    <item>
+      <headword id="idp115782328">braclach</headword>
+      <description>Notes: rubbish.</description>
+    </item>
+    <item>
+      <headword id="idp115783840">breacag</headword>
+      <description>Notes: oatmeal bannock.</description>
+    </item>
+    <item>
+      <headword id="idp115785352">buailtean</headword>
+      <description>Notes: The single stick used to thresh a sheaf.</description>
+    </item>
+    <item>
+      <headword id="idp115786864">cachaileith</headword>
+      <description>Quotation: cachaileir [kɑxəlɛɾ]. Notes: a wooden gate.</description>
+    </item>
+    <item>
+      <headword id="idp115788736">càrn</headword>
+      <description>Notes: “hut” of corn.</description>
+    </item>
+    <item>
+      <headword id="idp115790248">dàn</headword>
+      <description>Quotation: “Ciamar a tha sibh an diugh?” “O, ’s dàn a bhi a’ gearain.”</description>
+    </item>
+    <item>
+      <headword id="idp115791760">dreach</headword>
+      <description>Quotation: Chosg e dreach a shaoghail. Notes: He spent (or wasted) the best part of his life.</description>
+    </item>
+    <item>
+      <headword id="idp115793416">èibhiseach</headword>
+      <description>Notes: excellent.</description>
+    </item>
+    <item>
+      <headword id="idp115794928">faraidh</headword>
+      <description>[fɑɾi] Notes: slatted shelf under the dresser. “Branndair” also used.</description>
+    </item>
+    <item>
+      <headword id="idp115796656">furm</headword>
+      <description>Quotation: furm gobhlach. Notes: a three-legged stool used for milking.</description>
+    </item>
+    <item>
+      <headword id="idp115798312">glas-cheap</headword>
+      <description>Notes: talamh làidir ploughed, one crop of corn, then following spring “Chuir mi ’m buntàta as a’ ghlas-cheap.”</description>
+    </item>
+    <item>
+      <headword id="idp115799824">gobhlach</headword>
+      <description>Quotation: furm gobhlach. Notes: a three-legged stool used for milking.</description>
+    </item>
+  </items>
+</fieldworkDocument>

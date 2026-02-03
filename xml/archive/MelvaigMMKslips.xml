@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 7/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_MelvaigMMKslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>12/1969</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <informant>
+    <nameEnglish>M.M.K.</nameEnglish>
+  </informant>
+  <location>Melvaig</location>
+  <items>
+    <item>
+      <headword id="idp167337232">losgadh</headword>
+      <description>Notes: phosphorescence in the sea.</description>
+    </item>
+    <item>
+      <headword id="idp167338744">magall</headword>
+      <description>Quotation: magall gharbh. Notes: local name (Melvaig) for sea urchin.</description>
+    </item>
+    <item>
+      <headword id="idp167340400">sòla</headword>
+      <description>Quotation: sòla deiridh, sòla toisich. Notes: pieces of flooring fore and aft in a boat.</description>
+    </item>
+    <item>
+      <headword id="idp167342056">clàrag</headword>
+      <description>Notes: the wooden top on a skin buoy.</description>
+    </item>
+    <item>
+      <headword id="idp167343568">conabhocan</headword>
+      <description>[kɔṉɑvɔxkɑṉ] Notes: the dog-whelk.</description>
+    </item>
+    <item>
+      <headword id="idp167345296">garbh</headword>
+      <description>Quotation: magall gharbh. Notes: local name (Melvaig) for sea-urchin.</description>
+    </item>
+    <item>
+      <headword id="idp167346952">gilleachan</headword>
+      <description>Notes: a smaller version of the Dog-whelk.</description>
+    </item>
+  </items>
+</fieldworkDocument>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 7/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_MullDMacQuarrieslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>1967</date>
+  <fieldworker>[self?]</fieldworker>
+  <informant>
+    <nameEnglish>Duncan MacQuarrie</nameEnglish>
+  </informant>
+  <location>Mull</location>
+  <items>
+    <item>
+      <headword id="idp119242408">meath</headword>
+      <description>Quotation: Tha meath anns a’ bhuntàta. Notes: blank space in potato field, where seed has failed to grow.</description>
+    </item>
+    <item>
+      <headword id="idp119244064">mias</headword>
+      <description>Notes: ‘bowl’ in Mull.</description>
+    </item>
+    <item>
+      <headword id="idp119245576">seanndachail</headword>
+      <description>Notes: used of person who looks older than his years.</description>
+    </item>
+    <item>
+      <headword id="idp119247088">béisinn</headword>
+      <description>[be:ʃiNʹ] Notes: basin.</description>
+    </item>
+    <item>
+      <headword id="idp119248816">giula-mhàgach</headword>
+      <description>Notes: toad.</description>
+    </item>
+    <item>
+      <headword id="idp119250328">giulla-mhàgach</headword>
+      <description>Notes: toad.</description>
+    </item>
+  </items>
+</fieldworkDocument>

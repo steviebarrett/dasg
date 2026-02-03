@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 23 4 13 -->
+<fieldworkDocument docId="Peat_CastlebayDBoydmoine" docType="questionnaire" subType="Peat">
+  <title>Mòine / Peat-Working</title>
+  <date>1967</date>
+  <fieldworker>[self]</fieldworker>
+  <informant>
+    <nameEnglish>Donald Boyd</nameEnglish>
+    <age>[c. 65 – according to the card index of Informants: c. 65 in 1969]</age>
+    <origin>[North Uist - according to the card index of Informants]</origin>
+  </informant>
+  <location>Barra, Castlebay</location>
+  <items>
+    <item><headword id="d0e32" type="heading" level="h1">1. Ag ullachadh na talmhainn airson mòine a bhuain</headword></item>
+    <item><headword id="d0e36" type="heading" level="h1">2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</headword></item>
+	<item>
+	  <headword id="idola194">[note]</headword>
+	  <description>Tha an uine cho fada bho an bha mise ris an obair so, is nach ’eil cuimhne agam air far leth-dusan facal, agus is iad sin, tha mi cinnteach, bithidh agaibh mu thràth. Boyd. Bagh-a-Chaisteil.</description>
+	</item>
+    <item><headword id="d0e49" type="heading" level="h1">3. A’ tiormachadh na mònach</headword></item>
+    <item><headword id="d0e53" type="heading" level="h1">4. A’ cruachadh na mònach</headword></item>
+    <item><headword id="d0e57" type="heading" level="h1">5. A’ toirt na mònach dhachaigh; an cliabh, etc.</headword></item>
+    <item><headword id="d0e61" type="heading" level="h1">6. Seòrsachan mònach</headword></item>
+    <item><headword id="d0e65" type="heading" level="h1">7. Faclan eile</headword></item>
+  </items>
+</fieldworkDocument>

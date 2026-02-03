@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 19 7 14 -->
+<fieldworkDocument docId="AOHenley_LochportanJAMorrisonmisc" docType="wordlist" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>[1987-88]</date>
+  <fieldworker personId="ohenleya">A. O’Henley</fieldworker>
+  <note>[NOTES: three words supplied by R. O’Henley of Garrynamonie, South Uist. See below for details.]</note>
+  <note>[NOTES: some notes in pencil most probably added by K. D. MacDonald. See below for details.]</note>
+  <informant>
+    <nameEnglish>John Angus Morrison</nameEnglish>
+  </informant>
+  <location>North Uist, Lochportan</location>
+  <items>
+    <item>
+      <headword id="idp112479840">frachd</headword>
+      <description>rubbish, tittle tattle, idle talk.</description>
+    </item>
+    <item>
+      <headword id="idp112467096">fatharr</headword>
+      <description>a rumour.</description>
+    </item>
+    <item>
+      <headword id="idp112504824">[deur]</headword>
+      <description>“Chan eil an sin ach an deur ga iarraidh air a’ chàt.” – used about someone who would not share or give what was his own to anyone else like the saying says the cat does not leave a drop for anyone else.</description>
+    </item>
+    <item>
+      <headword id="idp112498704">smàglach</headword>
+      <description>a full fork load of hay or seaweed. “A bheil gu leor agad shuas an sin?” “Cuir a nuas smàglach neo dhà eile.”</description>
+    </item>
+    <item>
+      <headword id="idp112491432">sgalla</headword>
+      <description>cuts on the face, e.g. as a result of fighting. “Bha aodann làn sgallan.”</description>
+    </item>
+    <item>
+      <headword id="idp112513608">gasan</headword>
+      <description>a very old Gaelic word for a boyfriend.</description>
+    </item>
+    <item>
+      <headword id="idp112470840">ròs (-achadh)</headword>
+      <description>to direct someone to the right place. Also used in sense of obtaining knowledge. “Fhuair mi ròs gu robh inneal buainn aig Dòmhnall agus cheannaich mi i.” [NOTES: note added in pencil: ? rothas, rofhas.]</description>
+    </item>
+    <item>
+      <headword id="idp112431528">pollainn</headword>
+      <description>a common fellow. “Bha e math gu leor airson pollainn mar tha thusa.”</description>
+    </item>
+    <item>
+      <headword id="idp112508928">camart</headword>
+      <description>an inlet featuring a meandering, twisting river. One of these as you approach Lochmaddy from the south. Used to have settlement along its bank.</description>
+    </item>
+    <item>
+      <headword id="idp112547160">gidseag</headword>
+      <description>a snatch, snippet. “Cha robh aice dhe’n eachdraidh ach gidseag an sud ’san seo.”</description>
+    </item>
+    <item>
+      <headword id="idp112548168">[geur]</headword>
+      <description>“’S geur fiacaill a fraoch ’sa cladach feamad.” A proverb indicating the hunger which such treks would arouse.</description>
+    </item>
+    <item>
+      <headword id="idp112530168">spladhadh</headword>
+      <description>something which is decided upon in a hurry or haphazardly even e.g. “Thug iad spladhadh air a dhol a Steornabhagh a màireach, cha robh guth am bitheadh an aisaig [sic] freagarrach.”</description>
+    </item>
+    <item>
+      <headword id="idp112543632">cnaidsaireachd</headword>
+      <description>prior to the modern established trade of a joiner in these islands this is a word people used when referring to someone who was always working with wood. “Bha e a’ cnaidsaireachd air cùl an taighe.” Obviously not considered as a viable occupation, even if you were doing odd jobs for neighbours, which was also called ‘cnaidsaireachd’.</description>
+    </item>
+    <item>
+      <headword id="idp112482144">turralaich</headword>
+      <description>rumbling in stomach. Traditionally associated with horses that were getting on in years and taken as a sign of impending retirement. Nowadays more likely to be heard as a sarcastic remark. “Do chual thusa an turralaich a bha ’san stamag aig an duin’ ud.” [NOTES: word supplied by R. O’Henley, Garrynamonie, S. Uist.]</description>
+    </item>
+    <item>
+      <headword id="idp112470984">gaosaid an fhéidh</headword>
+      <description>wispy, pointed clouds pointing away from the sun. Indicative of mild weather. For a couple of days. [NOTES: word supplied by R. O’Henley, Garrynamonie, S. Uist.]</description>
+    </item>
+    <item>
+      <headword id="idp112468032">deocnadh</headword>
+      <description>to suck from a tight or difficult source, e.g. “Bha e a’ deocnadh na mathair ghura” neo “Seilein a’ deocnadh na meala.” [NOTES: word supplied by R. O’Henley, Garrynamonie, S. Uist.]</description>
+    </item>
+  </items>
+</fieldworkDocument>
+

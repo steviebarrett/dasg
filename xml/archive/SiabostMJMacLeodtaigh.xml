@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 23 4 13 -->
+<fieldworkDocument docId="HouseandFurnishings_SiabostMJMacLeodtaigh" docType="questionnaire" subType="TaighGaidhealach">
+  <title>Taigh Gàidhealach / House and Furnishings</title>
+  <fieldworker>[self]</fieldworker>
+  <note>[NOTES: the only details on the front page are the informant’s name and language (Gaelic) and the name of the school (Siabost).]</note>
+  <informant>
+    <nameEnglish>Miss M. J. MacLeod</nameEnglish>
+  </informant>
+  <location>[Lewis], Siabost</location>
+  <items>
+    <item><headword id="d0e26" type="heading" level="h1">1. An stéidh is am balla</headword></item>
+    <item>
+      <headword id="d0e31">am balla muigh</headword>
+      <description>the outer wall.</description>
+    </item>
+    <item>
+      <headword id="d0e40">am balla stigh</headword>
+      <description>the inner wall.</description>
+    </item>
+    <item>
+      <headword id="d0e49">glutaranaich</headword>
+      <description>packing in stone wall.</description>
+    </item>
+    <item>
+      <headword id="d0e58">ceann an tighe</headword>
+      <description>upper end.</description>
+    </item>
+    <item>
+      <headword id="d0e67">màs an tighe</headword>
+      <description>lower end.</description>
+    </item>
+    <item><headword id="d0e75" type="heading" level="h1">2. Am mullach ’s an tughadh</headword></item>
+    <item>
+      <headword id="d0e80">am maide droma</headword>
+      <description>ridge-pole.</description>
+    </item>
+    <item>
+      <headword id="d0e89">na ceangail</headword>
+      <description>couples.</description>
+    </item>
+    <item>
+      <headword id="d0e98">na cabair</headword>
+      <description>side-rafters.</description>
+    </item>
+    <item>
+      <headword id="d0e107">maide-fithich</headword>
+      <description>stick running through thatch at either end.</description>
+    </item>
+    <item>
+      <headword id="d0e116">acraichean</headword>
+      <description>stones fixed in loops of ropes, used as weights to keep the thatch in place.</description>
+    </item>
+    <item>
+      <headword id="d0e125">tobhta</headword>
+      <description>turf covered path round thatched roof.</description>
+    </item>
+    <item>
+      <headword id="d0e134">sìoman</headword>
+      <description>rope of straw or heather.</description>
+    </item>
+    <item>
+      <headword id="d0e143">tughadh</headword>
+      <description>thatch.</description>
+    </item>
+    <item><headword id="d0e151" type="heading" level="h1">3. Dorsan is uinneagan</headword></item>
+    <item>
+      <headword id="d0e156">an dorus mór</headword>
+      <description>the main door.</description>
+    </item>
+    <item>
+      <headword id="d0e165">dorus an t-sobhail</headword>
+      <description>the barn door.</description>
+    </item>
+    <item>
+      <headword id="d0e174">dorus màs an tighe</headword>
+      <description>a door at the lower end of the house.</description>
+    </item>
+    <item>
+      <headword id="d0e183">uinneag balla</headword>
+      <description>a window in the wall.</description>
+    </item>
+    <item>
+      <headword id="d0e192">uinneag tughaidh</headword>
+      <description>a window in the thatch.</description>
+    </item>
+    <item>
+      <headword id="d0e201">uinneag nan cearc</headword>
+      <description>the hens’ window just above their roost.</description>
+    </item>
+    <item><headword id="d0e209" type="heading" level="h1">4. An broinn an taighe: na sèamraichean</headword></item>
+    <item>
+      <headword id="d0e214">uachdair an tighe</headword>
+      <description>bedroom.</description>
+    </item>
+    <item>
+      <headword id="d0e223">aig an teine</headword>
+      <description>living room.</description>
+    </item>
+    <item>
+      <headword id="d0e232">tigh ’uaraich</headword>
+      <description>a small room for storing meal and milk set for cream.</description>
+    </item>
+    <item>
+      <headword id="d0e241">cùlaist</headword>
+      <description>recess, wall press.</description>
+    </item>
+    <item>
+      <headword id="d0e250">cailbh</headword>
+      <description>partition wall.</description>
+    </item>
+    <item>
+      <headword id="d0e259">talan</headword>
+      <description>partition wall.</description>
+    </item>
+    <item>
+      <headword id="d0e268">starsach</headword>
+      <description>threshold.</description>
+    </item>
+    <item><headword id="d0e276" type="heading" level="h1">5. An t-àite-teine</headword></item>
+    <item>
+      <headword id="d0e281">cagailt</headword>
+      <description>hearth.</description>
+    </item>
+    <item>
+      <headword id="d0e290">cùl an teine</headword>
+      <description>the side of the hearth nearest the threshold or door.</description>
+    </item>
+    <item>
+      <headword id="d0e299">connadh</headword>
+      <description>fuel.</description>
+    </item>
+    <item>
+      <headword id="d0e308">slabhraidh</headword>
+      <description>pot-hanger.</description>
+    </item>
+    <item><headword id="d0e316" type="heading" level="h1">6. Airneis an taighe</headword></item>
+    <item>
+      <headword id="d0e321">bòrd</headword>
+      <description>table.</description>
+    </item>
+    <item>
+      <headword id="d0e330">being</headword>
+      <description>a sitting bench.</description>
+    </item>
+    <item>
+      <headword id="d0e339">cathraichean</headword>
+      <description>chairs.</description>
+    </item>
+    <item>
+      <headword id="d0e348">stòl</headword>
+      <description>stool.</description>
+    </item>
+    <item>
+      <headword id="d0e357">cisteachan</headword>
+      <description>chests for keeping clothes, meal, etc.</description>
+    </item>
+    <item>
+      <headword id="d0e366">dreasair</headword>
+      <description>dresser for dishes.</description>
+    </item>
+    <item>
+      <headword id="d0e375">preas</headword>
+      <description>cupboard.</description>
+    </item>
+    <item>
+      <headword id="d0e384">prais</headword>
+      <description>pot.</description>
+    </item>
+    <item>
+      <headword id="d0e393">coire</headword>
+      <description>kettle.</description>
+    </item>
+    <item>
+      <headword id="d0e402">greideal</headword>
+      <description>griddle.</description>
+    </item>
+    <item>
+      <headword id="d0e411">pùlais</headword>
+      <description>pot-hook.</description>
+    </item>
+    <item>
+      <headword id="d0e420">clobha</headword>
+      <description>tongs.</description>
+    </item>
+    <item>
+      <headword id="d0e429">ciosan</headword>
+      <description>a basket for meal made from bent grass.</description>
+    </item>
+    <item>
+      <headword id="d0e438">rùsgan</headword>
+      <description>a large basket of bent.</description>
+    </item>
+    <item>
+      <headword id="d0e447">sgeap</headword>
+      <description>a straw basket (skelp) for carrying seed when sowing.</description>
+    </item>
+    <item>
+      <headword id="d0e456">cuibhle-shnìomha</headword>
+      <description>spinning wheel.</description>
+    </item>
+    <item>
+      <headword id="d0e465">dealgan</headword>
+      <description>spindle.</description>
+    </item>
+    <item>
+      <headword id="d0e474">crois-iarna</headword>
+      <description>a cross for winding yarn into skeins.</description>
+    </item>
+    <item>
+      <headword id="d0e483">càrd</headword>
+      <description>wool card.</description>
+    </item>
+    <item>
+      <headword id="d0e492">criathar</headword>
+      <description>sieve.</description>
+    </item>
+    <item><headword id="d0e500" type="heading" level="h1">7. Sobhal, bàthach, no bothanan sam bith eile</headword></item>
+    <item>
+      <headword id="d0e505">sobhal</headword>
+      <description>barn.</description>
+    </item>
+    <item>
+      <headword id="d0e514">bàthach</headword>
+      <description>byre.</description>
+    </item>
+    <item>
+      <headword id="d0e523">tigh-chearc</headword>
+      <description>hen-house.</description>
+    </item>
+    <item>
+      <headword id="d0e532">fosglan</headword>
+      <description>a porch where creels, spades, etc. were kept.</description>
+    </item>
+  </items>
+</fieldworkDocument>

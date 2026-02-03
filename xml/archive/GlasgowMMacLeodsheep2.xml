@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 3 5 13 -->
+<fieldworkDocument docId="MurdoMacLeod_GlasgowMMacLeodsheep" docType="wordlist" subType="Sheep">
+  <title>Caoraich / Sheep</title>
+  <date>[1972 on the slips]</date>
+  <fieldworker>[self]</fieldworker>
+  <informant>
+    <nameEnglish>Murchadh MacLeòid (Murdo MacLeod)</nameEnglish>
+    <origin>[Lewis, Uig an Iar]</origin>
+  </informant>
+  <location>[Glasgow]</location>
+  <!-- illustrations -->
+  <items>
+    <item><headword id="d0e31" type="heading" level="h1">Caoirich</headword></item>
+    <item><headword id="d0e35" type="heading" level="h2">Comharran nan cluas</headword></item>
+	<item>
+	  <headword id="idola186">[note]</headword>
+	  <description>Chan eil againne ’ga chleachdadh ach na h-ochd deargaidh:</description>
+	</item>
+    <item>
+      <headword id="d0e49">sùlag</headword>
+      <description>(Chan è ‘sùileag’, mar a th’aig Dwelly.)
+        <illustration src="GlasgowMMacLeodsheep2illust1.jpg" width="150"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e60">beum</headword>
+      <description>
+        <illustration src="GlasgowMMacLeodsheep2illust2.jpg" width="150"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e71">geugan</headword>
+      <description>(Chan è ‘geagan’, mar a th’aig Dwelly.) (Fuaimnich ‘eug’ mar ‘eug’ (death): g + eug + an.)
+        <illustration src="GlasgowMMacLeodsheep2illust3.jpg" width="150"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e82">rubadh</headword>
+      <description>(Chan e ‘ròibeadh’, mar a th’aig Dwelly.)
+        <illustration src="GlasgowMMacLeodsheep2illust4.jpg" width="150"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e93">bàrr</headword>
+      <description>
+        <illustration src="GlasgowMMacLeodsheep2illust5.jpg" width="150"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e104">slisinn</headword>
+      <description>
+        <illustration src="GlasgowMMacLeodsheep2illust6.jpg" width="150"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e115">gearradh</headword>
+      <description>
+        <illustration src="GlasgowMMacLeodsheep2illust7.jpg" width="150"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e126">toll</headword>
+      <description>
+        <illustration src="GlasgowMMacLeodsheep2illust8.jpg" width="150"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e137">slàn-chluasach</headword>
+      <description>Canaidh sinn seo mu chaora air nach eil comharra-cluaise ’s am bith.
+        <illustration src="GlasgowMMacLeodsheep2illust9.jpg" width="200"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e148">gille-bog</headword>
+      <description>’Se seo a th’aca air uain a tha dìth lùthais orra ’s an druim. Cha téid na h-uain-sa air an casan a chaoidh. ’S ann aig caoirich a tha ag ithe tòrr de an fheamainn air na muil a bhios an seòrsa uan-sa. ’Se bodach anns a’ bhaile againn fhìn a thug an t-ainm-sa orra, agus lean an t-ainm. Mur eil mise ceàrr, ’s ann air isean sgairbh a bha’n t-ainm ‘gille-bog’ an toiseach.</description>
+    </item>
+    <item>
+      <headword id="d0e157">lèabhach</headword>
+      <description>Caora mar tha ’n seo shuas bha i ‘lèabhach’. Adhaircean lèabhach oirre. A’ chaora lèabhach. (Faic M’Ghillfhinnean t-d 210.) Aig MacGh. a réir an litreachadh, bhiodh ‘liabhach’ mar ‘riabhach’ (brindled,  etc.) ’S ann a tha e againne mar ‘dèabhadh’.
+        <illustration src="GlasgowMMacLeodsheep2illust10.jpg" width="150"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e168">niùlach</headword>
+      <description>Caora le adhaircean oirre mar seo bha i ‘niùlach’. Adhaircean niùlach oirre. A’ chaora niùlach.
+        <illustration src="GlasgowMMacLeodsheep2illust11.jpg" width="150"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e179">sgeòdach</headword>
+      <description>Tionndadh a mach anns na h-adhaircean mar aig lèabhach [q.v.], canaidh iad gu bheil iad ‘sgeòdach’. Adhaircean sgeòdach oirre.</description>
+    </item>
+    <item>
+      <headword id="d0e188">coirbhtheann, coirtheann (’s mar sin)</headword>
+      <description>3 òirlich thuirt mi, ach an cumantas bhiodh iad na bu mhotha na sin. 4 òirlich, a’ tòiseachadh aig an sin, dh’fhaodainn a chantuinn. Agus na bu mhotha. Caochladh chumaidhnean orra.
+        <illustration src="GlasgowMMacLeodsheep2illust12.jpg" width="300"/>
+        <illustration src="GlasgowMMacLeodsheep2illust13.jpg" width="300"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e201">caoraich-bheaga</headword>
+      <description>[sic] Na caoirich-bheaga – na caoirich-bhrògach (black-faced sheep). Tha mi deanamh a mach gur h-e seo a chanadh na cìobairean, gun canadh iad seo, có dhiù. [Cf. caoirich-mhóra]</description>
+    </item>
+    <item>
+      <headword id="d0e210">caoirich-mhóra</headword>
+      <description>Na caoirich-mhóra – na caoirich-mhaola, na caoirich Ghallda, Chieviots, ’s mar sin. Tha mi deanamh a mach gur h-e seo a chanadh na cìobairean, gun canadh iad seo, có dhiù. [Cf. caoraich-bheaga]</description>
+    </item>
+    <item>
+      <headword id="d0e219">Cheviots</headword>
+      <description>’Se chēv’iots a chanadh na bodaich againne.</description>
+    </item>
+	<item>
+	  <headword id="idola187">[note]</headword>
+	  <description>Eadar-dhealachadh eadar ‘brògach’ agus ‘dubh-cheannach’.</description>
+	</item>
+    <item>
+      <headword id="d0e237">dubh-cheannach</headword>
+      <description>Dubh ge léir ’s an aodann, gun mìr geal ’sam bith. [Cf. brògach]</description>
+    </item>
+    <item>
+      <headword id="d0e246">brògach</headword>
+      <description>Dorch, no dorch, dorch ’s an aodann ach gun a bhith uile gu léir dubh. [Cf. dubh-cheannach]</description>
+    </item>
+    <item>
+      <headword id="d0e255">cùlan</headword>
+      <description>Na h-uibhir dubh de an chlòimh ann an cùl a’ chinn aig caora, có dhiu air mullach na h-amhach aig cùl a’ chinn. Tha cùlan innte. A’ chaora chùlanach. [Cf. tòn-dubh]</description>
+    </item>
+    <item>
+      <headword id="d0e264">tòn-dubh</headword>
+      <description>An aon seòrsa rud [i.e. like cùlan q.v.] aig ceann eile na caorach. Na h-uibhir de an chlòimh dubh aig deireadh na caorach. Aig a deireadh, gun a bhith suas air an sin. Sin tòn-dubh. A chaora thòn-dubh.
+        <illustration src="GlasgowMMacLeodsheep2illust14.jpg" width="150"/>
+      </description>
+    </item>
+  </items>
+</fieldworkDocument>

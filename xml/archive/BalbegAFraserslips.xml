@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 5/8/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_BalbegAFraserslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>05/1969</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <informant>
+    <nameEnglish>Andrew Fraser</nameEnglish>
+    <age>93</age>
+    <origin>Glenurquhart</origin>
+  </informant>
+  <location>Inverness-shire, Glenurquhart, Balbeg</location>
+  <items>
+    <item>
+      <headword id="idp161827680">bonaid-biorach</headword>
+      <description>Notes: Glengarry Bonnet.</description>
+    </item>
+    <item>
+      <headword id="idp161829192">camag</headword>
+      <description>Quotation: a’ chamag. Notes: shinty stick.</description>
+    </item>
+    <item>
+      <headword id="idp161830848">gartan</headword>
+      <description>[ɡɑʴst̪ɑ̃ṉ] Notes: garter. [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+  </items>
+</fieldworkDocument>

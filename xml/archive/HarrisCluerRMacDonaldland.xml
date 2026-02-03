@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 23 4 14 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="HarrisVarious_HarrisCluerRMacDonaldland" docType="questionnaire" subType="LandscapeFeatures" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Cruth na Tìre / Landscape Features</title>
+  <fieldworker>[anonymous D]</fieldworker>
+  <informant>
+    <nameEnglish>Roderick MacDonald</nameEnglish>
+    <age>mu [about] 80</age>
+  </informant>
+  <location>Na Hearadh [Harris], Cluer</location>
+  <items>
+    <item><headword id="d0e26" type="heading" level="h1">Mountains, hills</headword></item>
+    <item>
+      <headword id="d0e31">uamh</headword>
+      <description>cave.</description>
+    </item>
+    <item>
+      <headword id="d0e40">sàil na beinne</headword>
+      <description>bonn na beinne.</description>
+    </item>
+    <item>
+      <headword id="d0e49">gualainn beinne</headword>
+    </item>
+    <item>
+      <headword id="d0e55">toman</headword>
+      <description>cnoc beag iosal.</description>
+    </item>
+    <item>
+      <headword id="d0e64">frìth na beinne</headword>
+      <description>large expanse of hills.</description>
+    </item>
+    <item>
+      <headword id="d0e73">màs</headword>
+      <description>iochdar na beinne.</description>
+    </item>
+    <item>
+      <headword id="d0e82">gearraidh</headword>
+      <description>enclosure, also ‘buaile’ – like [sic].</description>
+    </item>
+    <item>
+      <headword id="d0e91">coire</headword>
+      <description>corrie.</description>
+    </item>
+    <item>
+      <headword id="d0e100">meall</headword>
+      <description>hill that interrupts view.</description>
+    </item>
+    <item>
+      <headword id="d0e109">leoba</headword>
+      <description>small patch like a feannag.</description>
+    </item>
+    <item>
+      <headword id="d0e118">taomadh</headword>
+      <description>turning, digging.</description>
+    </item>
+    <item>
+      <headword id="d0e127">gil</headword>
+      <description>gulley far a bheil abhainn cas.</description>
+    </item>
+    <item>
+      <headword id="d0e136">cleite</headword>
+      <description>claidhaich beinn os [?] a bheil lag.</description>
+    </item>
+    <item>
+      <headword id="d0e145">sliabh</headword>
+      <description>far a bheil feur fada a fas am measg an fhraoich.</description>
+    </item>
+    <item>
+      <headword id="d0e154">sniabh</headword>
+      <description>pass.</description>
+    </item>
+    <item>
+      <headword id="d0e163">groban</headword>
+      <description>point on top of a hill, jutting out.</description>
+    </item>
+    <item>
+      <headword id="d0e172">faobhar na beinne</headword>
+      <description>outline of a hill.</description>
+    </item>
+    <item>
+      <headword id="d0e181">adhaigh</headword>
+    </item>
+    <item><headword id="d0e186" type="heading" level="h1">Moorland features</headword></item>
+    <item>
+      <headword id="d0e191">dìg</headword>
+      <description>bog.</description>
+    </item>
+    <item>
+      <headword id="d0e200">boglach</headword>
+    </item>
+    <item>
+      <headword id="d0e206">suil-chruthaich</headword>
+      <description>swamp.</description>
+    </item>
+    <item>
+      <headword id="d0e215">oir feall</headword>
+      <description>fine sand on the hillocks.</description>
+    </item>
+    <item>
+      <headword id="d0e224">lòn</headword>
+      <description>bogs.</description>
+    </item>
+    <item>
+      <headword id="d0e233">tobha</headword>
+      <description>inaccessible ledge.</description>
+    </item>
+    <item>
+      <headword id="d0e242">palla</headword>
+      <description>inaccessible ledge.</description>
+    </item>
+    <item>
+      <headword id="d0e251">beallach</headword>
+    </item>
+    <item>
+      <headword id="d0e257">cul-cinn</headword>
+      <description>[?] for grazing, common grazing.</description>
+    </item>
+    <item>
+      <headword id="d0e266">bearradh</headword>
+      <description>sloping bank.</description>
+    </item>
+    <item>
+      <headword id="d0e275">briallach</headword>
+      <description>wet swamp patch – small.</description>
+    </item>
+    <item>
+      <headword id="d0e284">abhoinn</headword>
+      <description>boglach mor.</description>
+    </item>
+    <item><headword id="d0e292" type="heading" level="h1">Coastal features</headword></item>
+    <item>
+      <headword id="d0e297">bàgh</headword>
+      <description>open bay.</description>
+    </item>
+    <item>
+      <headword id="d0e306">geogha</headword>
+      <description>deeper narrower bay.</description>
+    </item>
+    <item>
+      <headword id="d0e315">rubha</headword>
+      <description>point.</description>
+    </item>
+    <item>
+      <headword id="d0e324">sgeir</headword>
+      <description>rock in sea.</description>
+    </item>
+    <item>
+      <headword id="d0e333">bogha</headword>
+      <description>larger than sgeir [q.v.].</description>
+    </item>
+    <item>
+      <headword id="d0e342">òb</headword>
+      <description>same as bay.</description>
+    </item>
+    <item>
+      <headword id="d0e351">acarsaid</headword>
+      <description>anchorage.</description>
+    </item>
+    <item>
+      <headword id="d0e360">bearradh</headword>
+      <description>cliff.</description>
+    </item>
+    <item>
+      <headword id="d0e369">garralach</headword>
+      <description>talamh creagach.</description>
+    </item>
+    <item>
+      <headword id="d0e378">talamh corrach</headword>
+      <description>rocky precipitous ground.</description>
+    </item>
+    <item>
+      <headword id="d0e387">camus</headword>
+      <description>“camus a roideadh” – mar uamh a tighinn a staigh ann an cladach.</description>
+    </item>
+    <item>
+      <headword id="d0e396">gob</headword>
+      <description>point.</description>
+    </item>
+    <item>
+      <headword id="d0e405">sron</headword>
+      <description>point.</description>
+    </item>
+    <item>
+      <headword id="d0e414">lòin</headword>
+      <description>bàgh tana.</description>
+    </item>
+    <item>
+      <headword id="d0e423">mol</headword>
+      <description>shingle.</description>
+    </item>
+    <item>
+      <headword id="d0e432">gloraigean</headword>
+    </item>
+    <item>
+      <headword id="d0e438">làcaraid</headword>
+      <description>ground swell.</description>
+    </item>
+    <item>
+      <headword id="d0e447">onfhodh</headword>
+      <description>swell.</description>
+    </item>
+    <item>
+      <headword id="d0e456">bragaire</headword>
+      <description>langadal briste.</description>
+    </item>
+    <item>
+      <headword id="d0e465">feamainn chìrean</headword>
+      <description>short and thin seaweed, used to boil it for cow.</description>
+    </item>
+    <item>
+      <headword id="d0e474">tiath chladach</headword>
+      <description>between high water mark agus feur.</description>
+    </item>
+    <item>
+      <headword id="d0e483">an aigeal</headword>
+      <description>grunn na mara.</description>
+    </item>
+    <item><headword id="d0e491" type="heading" level="h1">Rivers, burns</headword></item>
+    <item>
+      <headword id="d0e496">allt</headword>
+      <description>abhainn bheag chumhang.</description>
+    </item>
+    <item>
+      <headword id="d0e505">sruth</headword>
+      <description>flow of a river.</description>
+    </item>
+    <item>
+      <headword id="d0e514">linne</headword>
+      <description>bonn na h-aibhne, where it goes out to sea.</description>
+    </item>
+    <item>
+      <headword id="d0e523">eas</headword>
+      <description>waterfall.</description>
+    </item>
+    <item>
+      <headword id="d0e532">steall</headword>
+    </item>
+    <item>
+      <headword id="d0e538">abhainn na gàire gheal</headword>
+      <description>abhainn a leum, in spate.</description>
+    </item>
+    <item>
+      <headword id="d0e547">lochan</headword>
+    </item>
+    <item>
+      <headword id="d0e553">lodan</headword>
+      <description>a very small pool, smaller than pollag [q.v.].</description>
+    </item>
+    <item>
+      <headword id="d0e562">pollag</headword>
+      <description>small pool.</description>
+    </item>
+    <item>
+      <headword id="d0e571">glupa</headword>
+      <description>pond.</description>
+    </item>
+    <item>
+      <headword id="d0e580">sruthan</headword>
+    </item>
+    <item>
+      <headword id="d0e586">boinealaich</headword>
+      <description>trickle of water.</description>
+    </item>
+    <item>
+      <headword id="d0e595">srithan</headword>
+      <description>on beach.</description>
+    </item>
+    <item>
+      <headword id="d0e604">fuaran</headword>
+      <description>well.</description>
+    </item>
+    <item>
+      <headword id="d0e613">gàiraich nan tonn</headword>
+      <description>sound of sea.</description>
+    </item>
+    <item>
+      <headword id="d0e622">tha i na griosaich</headword>
+      <description>a storm, hurricane.</description>
+    </item>
+	<item><headword id="d0e630" type="heading" level="h1">Different types of beach</headword></item>
+    <item><headword id="d0e634" type="heading" level="h1">Sea-pools</headword></item>
+    <item>
+      <headword id="d0e639">frioghan</headword>
+      <description>Tha frioghan air a mhuir – quick, short wave.</description>
+    </item>
+  </items>
+</fieldworkDocument>

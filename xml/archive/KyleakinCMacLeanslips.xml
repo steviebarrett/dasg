@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 7/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_KyleakinCMacLeanslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>03/1970</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <note>[NOTES: in IPA transcriptions, the fieldworker uses [w] for [ɯ].]</note>
+  <informant>
+    <nameEnglish>Charles MacLean</nameEnglish>
+    <age>c. 50</age>
+  </informant>
+  <location>Skye, Kyleakin</location>
+  <items>
+    <item>
+      <headword id="idp118975840">laic</headword>
+      <description>[ɫ[ɑi]çc] Notes: a short nap.</description>
+    </item>
+    <item>
+      <headword id="idp118971232">laoichgeann</headword>
+      <description>[ɫw:çɡʹə̃n̪] Notes: the carcase of an old beast; an old useless thing.</description>
+    </item>
+    <item>
+      <headword id="idp118966192">lasgan</headword>
+      <description>Quotation: lasgan gàire. Notes: or lachan gàire.</description>
+    </item>
+    <item>
+      <headword id="idp118987432">leam-leat</headword>
+      <description>Notes: two-faced.</description>
+    </item>
+    <item>
+      <headword id="idp118989376">leannan-òinsich</headword>
+      <description>Notes: an easily led person.</description>
+    </item>
+    <item>
+      <headword id="idp118991176">lias</headword>
+      <description>Notes: a glowing peat used as a torch.</description>
+    </item>
+    <item>
+      <headword id="idp118992688">lus-na-Fraing</headword>
+      <description>Notes: tansy.</description>
+    </item>
+    <item>
+      <headword id="idp118993624">miolaire</headword>
+      <description>[mju̜ɫəɾə] Notes: watercress.</description>
+    </item>
+    <item>
+      <headword id="idp118995136">rac-arbhair</headword>
+      <description>Notes: corncrake. (Confusion between names for corncrake, snipe, jacksnipe.)</description>
+    </item>
+    <item>
+      <headword id="idp118996720">pionn</headword>
+      <description>[pj[ɤ̃ũ̜]n̪] Notes: mint.</description>
+    </item>
+    <item>
+      <headword id="idp119000320">poll-búirean</headword>
+      <description>Notes: area of ground churned underfoot by deer in the rutting season.</description>
+    </item>
+    <item>
+      <headword id="idp119002408">seillean</headword>
+      <description>Quotation: seillean dubh, seillean ruadh. Notes: two types of bee.</description>
+    </item>
+    <item>
+      <headword id="idp119002912">seópal</headword>
+      <description>[ʃo:pəɫ] Notes: wet mud clinging to the hem of a long skirt. (K. Fraser, Breakish – siubal [ʃu̜bəɫ].)</description>
+    </item>
+    <item>
+      <headword id="idp119005360">sgallach</headword>
+      <description>Notes: bald.</description>
+    </item>
+    <item>
+      <headword id="idp119008240">snòd</headword>
+      <description>Notes: the length of thin line attaching the hook to the main line.</description>
+    </item>
+    <item>
+      <headword id="idp118915216">solus</headword>
+      <description>Quotation: solus biorach. Notes: phosphorescent light seen in soft places on the ground.</description>
+    </item>
+    <item>
+      <headword id="idp118925224">tobar</headword>
+      <description>Quotation: tobar ruadh. Notes: spring or well with iron in the water.</description>
+    </item>
+    <item>
+      <headword id="idp118905352">toireisgil</headword>
+      <description>[t̪ɤɾɤʃɡʹəl] Notes: peat-cutting iron.</description>
+    </item>
+    <item>
+      <headword id="idp118908664">trian-ri-trian</headword>
+      <description>Notes: corncrake. (Confusion between names for snipe, jacksnipe and corncrake.)</description>
+    </item>
+    <item>
+      <headword id="idp118907656">trì-bhileach</headword>
+      <description>Notes: a plant with three leaves on it found in soft places. Boiled for calves. Said to purify the blood.</description>
+    </item>
+    <item>
+      <headword id="idp118913200">tuaicheal</headword>
+      <description>[t̪uɤçɑɫ] Notes: disease in sheep, involving dizziness.</description>
+    </item>
+    <item>
+      <headword id="idp118915504">tuainealaich</headword>
+      <description>Notes: dizziness.</description>
+    </item>
+    <item>
+      <headword id="idp118919824">artag</headword>
+      <description>Quotation: artag cladaich. Notes: ground which is under water at high tide but on which short grass grows.</description>
+    </item>
+    <item>
+      <headword id="idp118923856">baobh</headword>
+      <description>[bɤ:v] Notes: a “rascally” female.</description>
+    </item>
+    <item>
+      <headword id="idp118887712">bodach-baic</headword>
+      <description>Notes: outside peat.</description>
+    </item>
+    <item>
+      <headword id="idp118889728">bonnach</headword>
+      <description>Quotation: bonnach donn. Notes: cake made from oatmeal and fish liver.</description>
+    </item>
+    <item>
+      <headword id="idp118890232">bratag-thomhais</headword>
+      <description>Notes: brown caterpillar.</description>
+    </item>
+    <item>
+      <headword id="idp118891672">bumailear</headword>
+      <description>[bũ̟məlɑɾ] Notes: bungler, big stupid man.</description>
+    </item>
+    <item>
+      <headword id="idp118893688">cearcall</headword>
+      <description>Quotation: cearcall màis, cearcall meadhoin, cearcall mullaich. Notes: hoops on a barrel.</description>
+    </item>
+    <item>
+      <headword id="idp118895128">clisneach</headword>
+      <description>[klıʃnʹɑx] Notes: home-made, rough wooden gate.</description>
+    </item>
+    <item>
+      <headword id="idp118897288">crith-bheilleag</headword>
+      <description>[kɾıvelʹɑɡ] Quotation: Tha crith-bheilleag orm. Notes: when one’s teeth are chattering with the cold.</description>
+    </item>
+    <item>
+      <headword id="idp118900456">crom-riabhach</headword>
+      <description>[kɾɤu̜mriɤɤx] Notes: a snipe (?) (Confusion between names for corncrake and snipe.)</description>
+    </item>
+    <item>
+      <headword id="idp118898080">cuach</headword>
+      <description>Quotation: cuach geàrr. Notes: a hare’s nest.</description>
+    </item>
+    <item>
+      <headword id="idp118944880">daobhaidh</headword>
+      <description>[d̪ɤ:vi] Quotation: duine daobhaidh. Notes: perverse.</description>
+    </item>
+    <item>
+      <headword id="idp118946536">dialtag</headword>
+      <description>Notes: a bat.</description>
+    </item>
+    <item>
+      <headword id="idp118945888">garrach</headword>
+      <description>[ɡɑrɑx] Quotation: Suidh, a’ gharraich. Notes: an obstreperous boy.</description>
+    </item>
+    <item>
+      <headword id="idp118950064">glamaradh</headword>
+      <description>Notes: a vice.</description>
+    </item>
+    <item>
+      <headword id="idp118879360">gobhar-adhair</headword>
+      <description>Notes: jacksnipe. (Confusion between names for snipe, jacksnipe and corncrake.)</description>
+    </item>
+    <item>
+      <headword id="idp118878136">gobha-uisge</headword>
+      <description>Notes: water-ousel.</description>
+    </item>
+    <item>
+      <headword id="idp118879864">grath</headword>
+      <description>[ɡɾɑ] Quotation: Nach ann oirre bha’n grath. Notes: said of the weather when there’s a very cold wind.</description>
+    </item>
+    <item>
+      <headword id="idp118883896">greannan</headword>
+      <description>Notes: a short-tempered man.</description>
+    </item>
+    <item>
+      <headword id="idp118884472">guitear</headword>
+      <description>Notes: a small, narrow culvert.</description>
+    </item>
+  </items>
+</fieldworkDocument>

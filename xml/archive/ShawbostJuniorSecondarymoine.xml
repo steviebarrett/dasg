@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 24 4 13 -->
+<fieldworkDocument docId="Peat_ShawbostJuniorSecondarymoine" docType="questionnaire" subType="Peat">
+  <title>Mòine / Peat-Working</title>
+  <fieldworker>[school]</fieldworker>
+  <informant>
+    <nameEnglish>Shawbost Junior Secondary</nameEnglish>
+  </informant>
+  <location>Lewis, Shawbost</location>
+  <items>
+    <item><headword id="d0e23" type="heading" level="h1">1. Ag ullachadh na talmhainn airson mòine a bhuain</headword></item>
+    <item>
+      <headword id="d0e28">rùsgadh</headword>
+      <description>removing the turf to get at the soft peat.</description>
+    </item>
+    <item>
+      <headword id="d0e37">glanadh</headword>
+      <description>further clearing of the surface.</description>
+    </item>
+    <item><headword id="d0e45" type="heading" level="h1">2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</headword></item>
+    <item>
+      <headword id="d0e50">poll mòna</headword>
+      <description>a peat bank.</description>
+    </item>
+    <item>
+      <headword id="d0e59">blàr mòna</headword>
+      <description>a large area of [peat] banks.</description>
+    </item>
+    <item>
+      <headword id="d0e68">ath bhlàr</headword>
+      <description>an area that has been cut [for peat] before and is being used again.</description>
+    </item>
+    <item>
+      <headword id="d0e77">grobhag</headword>
+      <description>a very small peat bank.</description>
+    </item>
+    <item>
+      <headword id="d0e86">riasg</headword>
+      <description>the soft peat.</description>
+    </item>
+    <item>
+      <headword id="d0e95">carcair</headword>
+      <description>portion of peat bank stripped of the top turf.</description>
+    </item>
+    <item>
+      <headword id="d0e104">bàrr-fhàd</headword>
+      <description>top tier of peats.</description>
+    </item>
+    <item>
+      <headword id="d0e113">fàd a’ ghàraidh</headword>
+      <description>second tier of peats.</description>
+    </item>
+    <item>
+      <headword id="d0e122">caoran</headword>
+      <description>lowest tier of peats.</description>
+    </item>
+    <item>
+      <headword id="d0e131">corfhàdan</headword>
+      <description>thick peats cut from outer edge of bank.</description>
+    </item>
+    <item>
+      <headword id="d0e140">gàradh</headword>
+      <description>rows of peats on top of each other at front edge of bank.</description>
+    </item>
+    <item>
+      <headword id="d0e149">gearradh</headword>
+      <description>cutting the peats.</description>
+    </item>
+    <item>
+      <headword id="d0e158">sadadh</headword>
+      <description>throwing the peats.</description>
+    </item>
+    <item>
+      <headword id="d0e167">sgioba</headword>
+      <description>a band of workers for peat-cutting.</description>
+    </item>
+    <item>
+      <headword id="d0e176">tairisgeir</headword>
+      <description>a peat-iron for cutting.</description>
+    </item>
+    <item>
+      <headword id="d0e185">spaid</headword>
+      <description>spade for taking the turf off the bank.</description>
+    </item>
+    <item>
+      <headword id="d0e194">ceap</headword>
+      <description>a small turf, sod.</description>
+    </item>
+    <item>
+      <headword id="d0e203">ris a’ mhòine</headword>
+      <description>cutting the peats.</description>
+    </item>
+    <item><headword id="d0e211" type="heading" level="h1">3. A’ tiormachadh na mònach</headword></item>
+    <item>
+      <headword id="d0e216">rùdhadh</headword>
+      <description>standing the peats on end to dry.</description>
+    </item>
+    <item>
+      <headword id="d0e225">ath rùdhadh</headword>
+      <description>making them [i.e. peats] into bigger heaps.</description>
+    </item>
+    <item>
+      <headword id="d0e234">rùdhan</headword>
+      <description>a small heap of peats.</description>
+    </item>
+    <item>
+      <headword id="d0e243">ath rùdhan</headword>
+      <description>a bigger heap of peat.</description>
+    </item>
+    <item><headword id="d0e251" type="heading" level="h1">4. A’ cruachadh na mònach</headword></item>
+    <item>
+      <headword id="d0e256">aiseag</headword>
+      <description>gathering the peats to one place.</description>
+    </item>
+    <item>
+      <headword id="d0e265">stéidheadh</headword>
+      <description>making a wall of peats round the stack.</description>
+    </item>
+    <item>
+      <headword id="d0e274">ceapadh</headword>
+      <description>covering the stack with turf.</description>
+    </item>
+    <item><headword id="d0e282" type="heading" level="h1">5. A’ toirt na mònach dhachaigh; an cliabh, etc.</headword></item>
+    <item>
+      <headword id="d0e287">cliabh</headword>
+      <description>creel.</description>
+    </item>
+    <item>
+      <headword id="d0e296">cart</headword>
+      <description>cart.</description>
+    </item>
+    <item><headword id="d0e304" type="heading" level="h1">6. Seòrsachan mònach</headword></item>
+    <item>
+      <headword id="d0e309">mòine dhubh</headword>
+      <description>black peat.</description>
+    </item>
+    <item>
+      <headword id="d0e318">mòine bhàn</headword>
+      <description>light coloured fibrous peat.</description>
+    </item>
+    <item><headword id="d0e326" type="heading" level="h1">7. Faclan eile</headword></item>
+  </items>
+</fieldworkDocument>

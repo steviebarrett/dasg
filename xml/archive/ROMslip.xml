@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_ROM" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>ROM Slips</title>
+  <informant>
+    <nameEnglish>Roibeard Ó Maolalaigh</nameEnglish>
+  </informant>
+  <date>2024</date>
+  <items>
+    <item>
+      <headword id="idp915439680">fàr</headword>
+      <description>Fàr; e.g. a woman living alone shouts, “Fàr a nuas an gunna!” to frighten Mac-An t-Srònaich away.
+        Ness [Isle of Lewis]. [Note added to a paper slip on fair: Ach fair a nuas mo bhreacan guaill – Am Fear-Ciùil. An R. i (Niall Mac Gille Sheathanaich), 1917, p. 171] [Added by RÓM 25/1/2024.]
+        </description>
+    </item>
+    <item>
+      <headword id="idp815439680">tàrr</headword>
+      <description>Tàrr is often used in Lewis in the sense of ‘managing to get something done’. [Note added to a paper slip on tarr: “Cha’n fhaigh iad fois no sìth gu bràth,/ Gu’n tàrr iad thar a’ chuain sinn.”. BL. (Claum Macaoidh), 1916, p. 2]</description>
+    </item>
+    <item>
+      <headword id="idp715439680">tàrr</headword>
+      <description>‘Cha tàrr mi’ in Lewis usually means ‘I cannot manage to …’. Very often it would mean ‘I cannot make the time’ (to do something), though I shouldn’t think that the time element would be the main obstacle implied here. [Note added to a paper slip on tarr: ‘Do dhòruinnean ’s do ghàbhaidhean, / Cha tàrr mi ’chur an céill.’ [BL. (Iain Mac a’ Ghobhainn), 1916, p. 79]
+      </description>
+    </item>
+  </items>
+</fieldworkDocument>

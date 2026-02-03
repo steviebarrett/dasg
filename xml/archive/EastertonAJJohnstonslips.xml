@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 29/9/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_EastertonAJJohnstonslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>05/1969</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <informant>
+    <nameEnglish>Alexander J. Johnston</nameEnglish>
+    <age>90</age>
+    <origin>Petty</origin>
+  </informant>
+  <location>Inverness-shire, Petty, Easterton</location>
+  <items>
+    <item>
+      <headword id="idp115744480">pocan-salainn</headword>
+      <description>[pɔkɑṉsɑɫĩnʹ] Notes: spider.</description>
+    </item>
+    <item>
+      <headword id="idp115746208">uiseag</headword>
+      <description>Quotation: na h-uiseagan. Notes: said this was the general term they had for wild birds.</description>
+    </item>
+    <item>
+      <headword id="idp115747936">àrlas (sic)</headword>
+      <description>Notes: chimney.</description>
+    </item>
+    <item>
+      <headword id="idp115749448">crot</headword>
+      <description>Notes: a boil.</description>
+    </item>
+    <item>
+      <headword id="idp115750960">eòin</headword>
+      <description>Quotation: na h-eòin. Notes: chickens.</description>
+    </item>
+  </items>
+</fieldworkDocument>

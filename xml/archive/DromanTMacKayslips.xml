@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 29/9/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_DromanTMacKayslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>10/1969</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <note>[NOTES: in IPA transcriptions, the fieldworker uses [w] for [ɯ].]</note>
+  <informant>
+    <nameEnglish>Mrs Teen MacKay</nameEnglish>
+    <age>80s</age>
+  </informant>
+  <location>Sutherland, Kinlochbervie, Droman</location>
+  <items>
+    <item>
+      <headword id="idp162334368">liadh</headword>
+      <description>Notes: ladle.</description>
+    </item>
+    <item>
+      <headword id="idp162331704">maide-pait</headword>
+      <description>[mɑ̃dʹpɑtʹ] Notes: wooden spoon.</description>
+    </item>
+    <item>
+      <headword id="idp162347472">rifean</headword>
+      <description>Notes: roll of combed wool.</description>
+    </item>
+    <item>
+      <headword id="idp162348984">roilean</headword>
+      <description>Notes: roll of combed wool.</description>
+    </item>
+    <item>
+      <headword id="idp162350496">ruar</headword>
+      <description>Quotation: mo ruar; also mo ruaran. Notes: used when addressing somebody not necessarily close to the speaker. Much the same as “a’ ghràidh” is used in Point, Lewis. (Only heard old people using it – AJ.)</description>
+    </item>
+    <item>
+      <headword id="idp162352152">ruaran</headword>
+      <description>See ruar.</description>
+    </item>
+    <item>
+      <headword id="idp162353664">sìtht</headword>
+      <description>Quotation: Tha mi glé [hi:tʹ] gun d’thainig sibh a stigh. Chaneil mi [ʃi:tʹ] ris na pàrantan mar a tha iad a togail an clann. Notes: pleased, glad.</description>
+    </item>
+    <item>
+      <headword id="idp162356040">ola</headword>
+      <description>Quotation: ola mhilis [ɔɫəvɛ̃liʃ]. Notes: oil put on wool before it was spun.</description>
+    </item>
+    <item>
+      <headword id="idp162357912">tèic</headword>
+      <description>Notes: flyer of spinning wheel.</description>
+    </item>
+    <item>
+      <headword id="idp162359424">timchioll</headword>
+      <description>[tʹʃwɫəmiç] Notes: round.</description>
+    </item>
+    <item>
+      <headword id="idp162361152">tog</headword>
+      <description>[t̪ɾoɡ] Notes: left.</description>
+    </item>
+    <item>
+      <headword id="idp162362880">ceangladair</headword>
+      <description>[cɑ̃:ɫd̪ɑɾ] Notes: wooden frame on which yarn is wound.</description>
+    </item>
+    <item>
+      <headword id="idp162364608">cearsla</headword>
+      <description>[cɑʴsɫə] Notes: ball of rope. [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+  </items>
+</fieldworkDocument>

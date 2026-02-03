@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 20 4 13 -->
+<fieldworkDocument docId="Ecclesiastical_SouthBragarDMacPhaileccles" docType="questionnaire" subType="EcclesiasticalTerms">
+  <title>An Eaglais / Ecclesiastical Terms</title>
+  <fieldworker>[self]</fieldworker>
+  <informant>
+    <nameEnglish>Donald MacPhail</nameEnglish>
+    <age>59</age>
+    <origin>[the questionnaire gives Ross-shire but it is most probably meant as the county not origin]</origin>
+  </informant>
+  <location>Lewis, Barvas, South Bragar</location>
+  <items>
+    <item><headword id="d0e29" type="heading" level="h1">1. Various denominations</headword></item>
+    <item>
+      <headword id="d0e34">An Eaglais Shaor</headword>
+      <description>The Free Church of Scotland.</description>
+    </item>
+    <item>
+      <headword id="d0e43">Eaglais an Aonaidh</headword>
+      <description>The Church of Scotland.</description>
+    </item>
+    <item>
+      <headword id="d0e52">Eaglais na Seseders</headword>
+      <description>The Free Presbyterian Church of Scotland.</description>
+    </item>
+    <item>
+      <headword id="d0e61">An Eaglais Phapanach</headword>
+      <description>Roman Catholic Church.</description>
+    </item>
+    <item><headword id="d0e69" type="heading" level="h1">2. Member of each of these denominations</headword></item>
+    <item>
+      <headword id="d0e74">luchd leantainn</headword>
+      <description>adherents. [NOTES: originally ‘leantuinn’ but then ‘leantainn’ added above.]</description>
+    </item>
+    <item>
+      <headword id="d0e83">buill</headword>
+      <description>members.</description>
+    </item>
+    <item>
+      <headword id="d0e92">daicon</headword>
+      <description>deacon.</description>
+    </item>
+    <item>
+      <headword id="d0e101">eildier (eiltear)</headword>
+      <description>elder.</description>
+    </item>
+    <item><headword id="d0e109" type="heading" level="h1">3. Different courts of the Presbyterian churches</headword></item>
+    <item>
+      <headword id="d0e114">Cuirt na Daiconsan</headword>
+    <description>[?] </description></item>
+    <item>
+      <headword id="d0e120">Cuirt an t-Seission / an Séisean</headword>
+    </item>
+    <item><headword id="d0e125" type="heading" level="h1">4. Members of the clergy and office-bearers with the Presbyterian churches</headword></item>
+    <item>
+      <headword id="d0e130">ministeir</headword>
+      <description>minister.</description>
+    </item>
+    <item>
+      <headword id="d0e139">misionaridh</headword>
+      <description>missionary.</description>
+    </item>
+    <item>
+      <headword id="d0e148">eildeir</headword>
+      <description>elder.</description>
+    </item>
+    <item>
+      <headword id="d0e157">deacoin</headword>
+      <description>deacon.</description>
+    </item>
+    <item>
+      <headword id="d0e166">clárk an t-seisean</headword>
+      <description>session clerk.</description>
+    </item>
+    <item>
+      <headword id="d0e175">fear coimhead an ionmhais</headword>
+      <description>treasurer.</description>
+    </item>
+    <item>
+      <headword id="d0e184">maor eaglais</headword>
+      <description>church officer.</description>
+    </item>
+    <item><headword id="d0e192" type="heading" level="h1">5. Members of the clergy and office-bearers in the Roman Catholic church</headword></item>
+    <item>
+      <headword id="d0e197">sagairt</headword>
+      <description>priest.</description>
+    </item>
+    <item><headword id="d0e205" type="heading" level="h1">6. Holy Orders within the Roman Catholic church</headword></item>
+    <item><headword id="d0e209" type="heading" level="h1">7. Articles of dress or adornment</headword></item>
+    <item><headword id="d0e213" type="heading" level="h1">8. Church building and churchyard</headword></item>
+    <item><headword id="d0e217" type="heading" level="h1">9. Church furniture and ornaments</headword></item>
+    <item><headword id="d0e221" type="heading" level="h1">10. Different services during the week, feast days, sacraments, Sunday school etc.</headword></item>
+    <item>
+      <headword id="d0e226">Urduighean</headword>
+      <description>Communions, fasting from Thursday to Monday of following week.</description>
+    </item>
+    <item>
+      <headword id="d0e235">Coinneamh Mhios</headword>
+      <description>monthly meeting, sometimes a prayer meeting.</description>
+    </item>
+    <item>
+      <headword id="d0e244">Coinneamh Uaigneach</headword>
+      <description>on the Wednesday following the Coinneamh Mhios [q.v.]. Communicants only. Free Church tradition.</description>
+    </item>
+    <item>
+      <headword id="d0e253">Coinneamh Sheacduinn</headword>
+      <description>[sic] weekly prayer meeting.</description>
+    </item>
+    <item>
+      <headword id="d0e262">Latha Trasgaidh</headword>
+      <description>Thursday, first day of the Communions.</description>
+    </item>
+    <item>
+      <headword id="d0e271">Latha an Trasgaidh</headword>
+      <description>Thursday, first day of the Communions.</description>
+    </item>
+    <item>
+      <headword id="d0e280">Sgol Shabaint</headword>
+      <description>Sunday school.</description>
+    </item>
+    <item>
+      <headword id="d0e289">Coinneamh Taigh</headword>
+      <description>house meeting.</description>
+    </item>
+    <item><headword id="d0e297" type="heading" level="h1">11. God, the Lord, Jesus Christ, the Holy Ghost, the Blessed Virgin, the angels, the apostles, Heaven, the Gospel, prayers etc.</headword></item>
+    <item>
+      <headword id="d0e302">Dia</headword>
+      <description>An Tì tha Riaghladh.</description>
+    </item>
+    <item>
+      <headword id="d0e311">An Tighearna</headword>
+      <description>An Tì Bheannaichte.</description>
+    </item>
+    <item>
+      <headword id="d0e320">An Cruithear</headword>
+      <description>Cruithear an Fhàsaich.</description>
+    </item>
+    <item>
+      <headword id="d0e329">Iosa Criosd</headword>
+    </item>
+    <item>
+      <headword id="d0e335">An Spiorad Naomh</headword>
+    </item>
+    <item>
+      <headword id="d0e341">na h-ainghlean</headword>
+    </item>
+    <item>
+      <headword id="d0e347">na h-Abstoile</headword>
+    <description>[?] </description></item>
+    <item>
+      <headword id="d0e353">Neamh</headword>
+    </item>
+    <item>
+      <headword id="d0e359">An Soisgeul</headword>
+    </item>
+    <item>
+      <headword id="d0e365">Urnaigh an Tighearna</headword>
+    </item>
+    <item><headword id="d0e370" type="heading" level="h1">12. Satan, Hell, Purgatory, Limbo, different kinds of sin etc.</headword></item>
+    <item>
+      <headword id="d0e375">Sàtunn</headword>
+    </item>
+    <item>
+      <headword id="d0e381">Iutharn</headword>
+      <description>Hell.</description>
+    </item>
+    <item>
+      <headword id="d0e390">Ifrinn</headword>
+      <description>Hell.</description>
+    </item>
+  </items>
+</fieldworkDocument>

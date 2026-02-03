@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 7/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_KillinDCampbellslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>04/1968</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <informant>
+    <nameEnglish>Danny Campbell</nameEnglish>
+    <age>70s</age>
+    <origin>Lochtayside</origin>
+  </informant>
+  <location>Perthshire, Killin</location>
+  <items>
+    <item>
+      <headword id="idp115467480">cnèadan</headword>
+      <description>[krɛ̃:d̪ɑn] Notes: word they used as boys for football.</description>
+    </item>
+  </items>
+</fieldworkDocument>

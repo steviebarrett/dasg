@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 11 6 13 -->
+<fieldworkDocument docId="AssortedFieldworkers_HiltonCRossnadur" docType="questionnaire" subType="NadurAnDuine">
+  <title>Nàdur an Duine / Personality</title>
+  <fieldworker>[Mary MacDonald]</fieldworker>
+  <informant>
+    <nameEnglish>Cathie Ross</nameEnglish>
+    <age>born 1915</age>
+    <origin>[Ross-shire]</origin>
+  </informant>
+  <location>Hilton</location>
+  <items>
+    <item><headword id="d0e29" type="heading" level="h1">Good company / Bad company</headword></item>
+    <item>
+	  <headword id="d0e34">[blank]</headword>
+      <description>Aye, indeed. [NOTES: this may have been meant as an illustration of the adjective ‘sarcastic’, which appears among the words suggested by the authors of the questionnaire.]</description>
+    </item>
+    <item>
+      <headword id="d0e43">lusgoo cridhe</headword>
+      <description>heartburn.</description>
+    </item>
+    <item>
+	  <headword id="d0e52">[blank]</headword>
+      <description>warm-hearted / kind.</description>
+    </item>
+    <item>
+	  <headword id="d0e61">[blank]</headword>
+      <description>my dear boy.</description>
+    </item>
+    <item>
+	  <headword id="d0e70">[blank]</headword>
+      <description>witty / fly.</description>
+    </item>
+    <item>
+	  <headword id="d0e79">[blank]</headword>
+      <description>You are happy.</description>
+    </item>
+    <item>
+	  <headword id="d0e88">[blank]</headword>
+      <description>He’s a good talker.</description>
+    </item>
+    <item>
+	  <headword id="d0e97">[blank]</headword>
+      <description>joking.</description>
+    </item>
+    <item>
+	  <headword id="d0e106">[blank]</headword>
+      <description>hard-hearted.</description>
+    </item>
+    <item>
+	  <headword id="d0e115">[blank]</headword>
+      <description>mean / hard.</description>
+    </item>
+    <item>
+	  <headword id="d0e124">[blank]</headword>
+      <description>thieving.</description>
+    </item>
+    <item>
+	  <headword id="d0e133">[blank]</headword>
+      <description>the quiet type.</description>
+    </item>
+    <item>
+	  <headword id="d0e142">[blank]</headword>
+      <description>He’s not saying a word.</description>
+    </item>
+    <item>
+	  <headword id="d0e151">[blank]</headword>
+      <description>gossip?</description>
+    </item>
+    <item>
+      <headword id="d0e160">proghal</headword>
+      <description>aloof / proud.</description>
+    </item>
+    <item>
+	  <headword id="d0e169">[blank]</headword>
+      <description>He’s bigheaded.</description>
+    </item>
+    <item>
+	  <headword id="d0e178">[blank]</headword>
+      <description>Big head, a wise man / Hen’s head on a fool.</description>
+    </item>
+    <item>
+	  <headword id="d0e187">[blank]</headword>
+      <description>chat / ceilidh.</description>
+    </item>
+    <item>
+	  <headword id="d0e196">[blank]</headword>
+      <description>My granny has no English.</description>
+    </item>
+    <item><headword id="d0e204" type="heading" level="h1">Cheerful / Gloomy</headword></item>
+    <item>
+      <headword id="d0e209">sone</headword>
+      <description>[?] happy.</description>
+    </item>
+    <item>
+	  <headword id="d0e218">[blank]</headword>
+      <description>easy-going.</description>
+    </item>
+    <item>
+	  <headword id="d0e227">[blank]</headword>
+      <description>placid.</description>
+    </item>
+    <item>
+	  <headword id="d0e236">[blank]</headword>
+      <description>well-off.</description>
+    </item>
+    <item>
+      <headword id="d0e245">bronac</headword>
+      <description>sorrowful.</description>
+    </item>
+    <item>
+	  <headword id="d0e254">[blank]</headword>
+      <description>surly / bad-tempered.</description>
+    </item>
+    <item>
+	  <headword id="d0e263">[blank]</headword>
+      <description>depression?</description>
+    </item>
+    <item><headword id="d0e271" type="heading" level="h1">A good man / A bad man</headword></item>
+    <item>
+	  <headword id="d0e276">[blank]</headword>
+      <description>a good man.</description>
+    </item>
+    <item>
+	  <headword id="d0e285">[blank]</headword>
+      <description>a good woman.</description>
+    </item>
+    <item>
+      <headword id="d0e294">Tha mi traigh chean?</headword>
+      <description>I’m worrying.</description>
+    </item>
+    <item>
+      <headword id="d0e303">Tha curam ort</headword>
+      <description>You’re worrying.</description>
+    </item>
+    <item>
+	  <headword id="d0e312">[blank]</headword>
+      <description>pure.</description>
+    </item>
+    <item>
+	  <headword id="d0e321">[blank]</headword>
+      <description>He’s no good.</description>
+    </item>
+    <item>
+      <headword id="d0e330">conacher</headword>
+      <description>[?] rascal.</description>
+    </item>
+    <item>
+	  <headword id="d0e339">[blank]</headword>
+      <description>wicked.</description>
+    </item>
+    <item>
+	  <headword id="d0e348">[blank]</headword>
+      <description>He’s wicked.</description>
+    </item>
+    <item>
+	  <headword id="d0e357">[blank]</headword>
+      <description>You’re a little rascal.</description>
+    </item>
+    <item>
+	  <headword id="d0e366">[blank]</headword>
+      <description>You’re a little devil.</description>
+    </item>
+    <item><headword id="d0e374" type="heading" level="h1">A successful man / A failure</headword></item>
+    <item>
+      <headword id="d0e379">cosanach</headword>
+      <description>hard worker, good earner.</description>
+    </item>
+    <item>
+	  <headword id="d0e388">[blank]</headword>
+      <description>She’s always busy.</description>
+    </item>
+    <item>
+      <headword id="d0e397">leisg</headword>
+      <description>lazy.</description>
+    </item>
+    <item>
+      <headword id="d0e406">dreanata</headword>
+      <description>nightmare.</description>
+    </item>
+    <item>
+      <headword id="d0e415">rapach</headword>
+      <description>untidy housewife.</description>
+    </item>
+    <item><headword id="d0e423" type="heading" level="h1">A wise man / Foolish</headword></item>
+    <item>
+      <headword id="d0e428">spoong</headword>
+      <description>sensible.</description>
+    </item>
+    <item>
+	  <headword id="d0e437">[blank]</headword>
+      <description>sense.</description>
+    </item>
+    <item>
+	  <headword id="d0e446">[blank]</headword>
+      <description>wise man.</description>
+    </item>
+    <item>
+      <headword id="d0e455">fooin</headword>
+      <description>simple.</description>
+    </item>
+    <item>
+      <headword id="d0e464">tooanal</headword>
+      <description>lightheaded.</description>
+    </item>
+    <item>
+      <headword id="d0e473">fooin</headword>
+      <description>stupid.</description>
+    </item>
+    <item>
+      <headword id="d0e482">tooin fars  i chin</headword>
+      <description>[?] upsidesdown [sic].</description>
+    </item>
+    <item>
+      <headword id="d0e491">gleicach</headword>
+      <description>foolish.</description>
+    </item>
+    <item>
+	  <headword id="d0e500">[blank]</headword>
+      <description>unpleasant.</description>
+    </item>
+    <item>
+      <headword id="d0e509">boose / stoorsht</headword>
+      <description>in the huff.</description>
+    </item>
+    <item>
+	  <headword id="d0e518">[blank]</headword>
+      <description>foolish woman.</description>
+    </item>
+    <item>
+	  <headword id="d0e527">[blank]</headword>
+      <description>large bumbling man.</description>
+    </item>
+    <item>
+      <headword id="d0e536">ainichech</headword>
+      <description>big foolish man</description>
+    </item>
+    <item>
+      <headword id="d0e545">cleepac</headword>
+      <description>clumsly [sic].</description>
+    </item>
+    <item><headword id="d0e553" type="heading" level="h1">Bold / Timid</headword></item>
+    <item>
+      <headword id="d0e558">duinal</headword>
+      <description>bold, brazen.</description>
+    </item>
+    <item>
+      <headword id="d0e567">neart</headword>
+      <description>strong.</description>
+    </item>
+    <item>
+      <headword id="d0e576">lateren</headword>
+      <description>impudent.</description>
+    </item>
+    <item>
+      <headword id="d0e585">duinal</headword>
+      <description>brave.</description>
+    </item>
+    <item>
+      <headword id="d0e594">anarar latteren</headword>
+      <description>He’s forward.</description>
+    </item>
+    <item>
+      <headword id="d0e603">sooch</headword>
+      <description>shy / quiet.</description>
+    </item>
+    <item>
+      <headword id="d0e612">oshack</headword>
+      <description>easy led.</description>
+    </item>
+    <item><headword id="d0e620" type="heading" level="h1">Proud / Humble</headword></item>
+    <item>
+	  <headword id="d0e625">[blank]</headword>
+      <description>proud.</description>
+    </item>
+    <item>
+      <headword id="d0e634">Tha e de mat su fhein.</headword>
+      <description>A one to herself. She’s a bit of a one. [?]</description>
+    </item>
+    <item>
+      <headword id="d0e643">fachaichack</headword>
+      <description>sneer.</description>
+    </item>
+    <item>
+	  <headword id="d0e652">[blank]</headword>
+      <description>mock.</description>
+    </item>
+    <item><headword id="d0e660" type="heading" level="h1">Polite / Coarse</headword></item>
+    <item>
+      <headword id="d0e665">duine suairce</headword>
+      <description>quiet man. [NOTES: this phrase was supplied by the authors of the questionnaire with a question ‘what does it mean?’.]</description>
+    </item>
+    <item>
+      <headword id="d0e674">bunnich agus duinan</headword>
+      <description>ladies and gentlemen.</description>
+    </item>
+    <item>
+      <headword id="d0e683">Tak thu eilan</headword>
+      <description>learn your manners.</description>
+    </item>
+    <item>
+      <headword id="d0e692">snoc</headword>
+      <description>neat, dainty.</description>
+    </item>
+    <item>
+	  <headword id="d0e701">[blank]</headword>
+      <description>She’s like a lassie (of a woman).</description>
+    </item>
+    <item>
+      <headword id="d0e710">fer man sin fhein</headword>
+      <description>He was a bit of a lad [?].</description>
+    </item>
+    <item>
+	  <headword id="d0e719">[blank]</headword>
+      <description>She’s awfully droll?</description>
+    </item>
+    <item>
+      <headword id="d0e728">duine suirce</headword>
+      <description>[sic] quiet man.</description>
+    </item>
+    <item>
+      <headword id="d0e737">droch eilan</headword>
+      <description>bad-mannered.</description>
+    </item>
+    <item>
+      <headword id="d0e746">salach</headword>
+      <description>dirty.</description>
+    </item>
+    <item>
+      <headword id="d0e755">rapach</headword>
+      <description>untidy.</description>
+    </item>
+    <item>
+      <headword id="d0e764">ceolar</headword>
+      <description>She’s very queer.</description>
+    </item>
+    <item>
+      <headword id="d0e773">latten</headword>
+      <description>[?] rough / forward person.</description>
+    </item>
+    <item><headword id="d0e781" type="heading" level="h1">Bad types</headword></item>
+    <item>
+      <headword id="d0e786">feranadach</headword>
+      <description>nosey [?]. [NOTES: the word ‘nosey’ is one of the examples provided by the authors of the questionnaire. It has been underlined and ‘feranadach’ written on the margin not too far from it suggesting that the two are meant to go together.]</description>
+    </item>
+    <item>
+	  <headword id="d0e795">[blank]</headword>
+      <description>bad tempered.</description>
+    </item>
+    <item>
+	  <headword id="d0e804">[blank]</headword>
+      <description>spiteful.</description>
+    </item>
+    <item>
+      <headword id="d0e813">booarack</headword>
+      <description>troublemaker.</description>
+    </item>
+    <item>
+	  <headword id="d0e822">[blank]</headword>
+      <description>muddle.</description>
+    </item>
+    <item>
+      <headword id="d0e831">cyalagack</headword>
+      <description>cunning.</description>
+    </item>
+    <item>
+	  <headword id="d0e840">[blank]</headword>
+      <description>He’s no good.</description>
+    </item>
+    <item>
+      <headword id="d0e849">deoavar</headword>
+      <description>stubborn.</description>
+    </item>
+    <item>
+	  <headword id="d0e858">[blank]</headword>
+      <description>Keep / Shut your mouth.</description>
+    </item>
+    <item>
+	  <headword id="d0e867">[blank]</headword>
+      <description>You are mocking.</description>
+    </item>
+    <item><headword id="d0e875" type="heading" level="h1">Young / Old</headword></item>
+    <item>
+	  <headword id="d0e880">[blank]</headword>
+      <description>young.</description>
+    </item>
+    <item>
+	  <headword id="d0e889">[blank]</headword>
+      <description>old.</description>
+    </item>
+    <item>
+      <headword id="d0e898">latteren</headword>
+      <description>cheeky boy.</description>
+    </item>
+    <item>
+      <headword id="d0e907">pocan</headword>
+      <description>cheeky boy.</description>
+    </item>
+    <item>
+      <headword id="d0e916">shean a mhechan</headword>
+      <description>old-fashioned.</description>
+    </item>
+    <item>
+	  <headword id="d0e925">[blank]</headword>
+      <description>Young head on old shoulders.</description>
+    </item>
+    <item>
+	  <headword id="d0e934">[blank]</headword>
+      <description>I’m old now.</description>
+    </item>
+    <item>
+	  <headword id="d0e943">[blank]</headword>
+      <description>He’s like a young boy.</description>
+    </item>
+    <item><headword id="d0e951" type="heading" level="h1">Agus faclan sam bith eile</headword></item>
+    <item>
+	  <headword id="d0e956">[blank]</headword>
+      <description>sad / sorrowful.</description>
+    </item>
+    <item>
+	  <headword id="d0e965">[blank]</headword>
+      <description>You have your trials.</description>
+    </item>
+    <item>
+	  <headword id="d0e974">[blank]</headword>
+      <description>fat.</description>
+    </item>
+    <item>
+      <headword id="d0e983">tchiversanach</headword>
+      <description>jolly.</description>
+    </item>
+    <item>
+      <headword id="d0e992">Chan eil thu lattern</headword>
+      <description>You’re not bold enough.</description>
+    </item>
+    <item>
+      <headword id="d0e1001">mor</headword>
+      <description>tall.</description>
+    </item>
+    <item>
+      <headword id="d0e1010">beag</headword>
+      <description>small.</description>
+    </item>
+    <item>
+      <headword id="d0e1019">roock mi…</headword>
+      <description>I was born…</description>
+    </item>
+    <item>
+      <headword id="d0e1028">meshgack</headword>
+      <description>drunk.</description>
+    </item>
+    <item>
+      <headword id="d0e1037">dalu bower</headword>
+      <description>[?] falling on his feet.</description>
+    </item>
+    <item>
+      <headword id="d0e1046">ordag</headword>
+      <description>thumb.</description>
+    </item>
+    <item>
+      <headword id="d0e1055">speshack</headword>
+    </item>
+    <item>
+      <headword id="d0e1061">meenifack</headword>
+    </item>
+    <item>
+      <headword id="d0e1067">manifack</headword>
+    </item>
+    <item>
+      <headword id="d0e1073">mary-feeck-an-ardack</headword>
+    </item>
+  </items>
+</fieldworkDocument>

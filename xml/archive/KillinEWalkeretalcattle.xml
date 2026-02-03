@@ -1,0 +1,913 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 3 5 13 -->
+<fieldworkDocument docId="CattleandSheep_KillinEWalkeretalcattle" docType="questionnaire" subType="Cattle">
+  <title>Crodh / Cattle</title>
+  <date>[slipped May 1975]</date>
+  <fieldworker>[Tony Dilworth?]  [self? for Eilidh Walker]</fieldworker>
+  <note>[NOTES: it seems that Eilidh Walker’s ‘cattle’ questionnaire was later used to accommodate a list of miscellaneous words provided by Mr Anderson and Mrs MacD. According to the slips and the card index of informants, Mr Anderson is James Anderson of Killin (70s in 1968) and Mrs MacD is Mrs MacDermid of Loch Tay, b. Glenlyon (c. 60 in 1968). In most cases, the list gives only phonetic transcriptions of words but when the questionnaire was slipped, orthography had to be added. Therefore in this file, whenever possible, the orthography has been included as well. Square brackets were added if the spelling used came from a different source than the slips themselves (usually Dwelly). Additional information found on the slips has been also included, as well as any differences between the information provided by the questionnaire and the slips, such as differences in orthography.]</note>
+  <informant>
+    <nameEnglish>identified as Mr Anderson, Killin and Mrs MacD</nameEnglish>
+    <nameGaelic>Eilidh Walker and others</nameGaelic>
+    <age>70</age>
+    <origin>Kill-Fhinn</origin>
+  </informant>
+  <location>Perthshire, Killin</location>
+  <items>
+    <item><headword id="d0e38" type="heading" level="h1">1. Different stages in the growth of cattle</headword></item>
+    <item>
+      <headword id="d0e43">laogh firinn</headword>
+      <description>calf (male).</description>
+    </item>
+    <item>
+      <headword id="d0e52">laogh boirean</headword>
+      <description>calf (female).</description>
+    </item>
+	<item>
+	  <headword id="idola84">[note]</headword>
+	  <description>[NOTES: both slipped under ‘laogh’ with ‘a. laogh firionn’ and ‘b. laogh boirionn’ as the quotation. Definition: a. male calf; b. female calf.]</description>
+	</item>
+    <item>
+      <headword id="d0e70">gamhain ( gawin)</headword>
+      <description>[pron.] stirk (castrated). [NOTES: slip not found.]</description> 
+    </item>
+    <item>
+      <headword id="d0e79">aoghan</headword>
+      <description>stirk (heifer). [NOTES: slip not found.]</description>
+    </item>
+    <item>
+      <headword id="d0e88">mart ( marst)</headword>
+      <description>[pron.] cow. [NOTES: slip not found.]</description>
+    </item>
+    <item>
+      <headword id="d0e97">bo</headword>
+      <description>cow. [NOTES: slip not found.]</description>
+    </item>
+    <item>
+      <headword id="d0e106">tarbh ( tarraw)</headword>
+      <description>[pron.] bull. [NOTES: slip not found.]</description>
+    </item>
+    <item>
+      <headword id="d0e115">bo mhaol</headword>
+      <description>dehorned or hornless cow. [NOTES: slip not found.]</description>
+    </item>
+    <item>
+      <headword id="d0e124">[oidhche Shamhan]</headword>
+      <description>Sean-Fhacal Gaidhlig: An deigh oidhche Shamhan their iad crodh ris na h’aighean agus aighean ris na laoigh. [NOTES: slipped under ‘Samhuinn’. The quotation has ‘Oidhche Shamhuin’ [sic] and ‘ris na h-aighean’.]</description>
+    </item>
+    <item><headword id="d0e132" type="heading" level="h1">Mr Anderson, Killin</headword></item>
+    <item>
+      <headword id="d0e137">maigheach</headword>
+      <description>[mɑijəx] hare. [NOTES: the slip has [m[ɑi]ˈjəx].]</description>
+    </item>
+    <item>
+      <headword id="d0e146">sionnach</headword>
+      <description>[ʃɤnəx] fox.</description>
+    </item>
+    <item>
+      <headword id="d0e155">an neas</headword>
+      <description>[jɛ:s] weasel. [NOTES: slipped under ‘neas’. Pronunciation: [ən nʹes].]</description>
+    </item>
+    <item>
+      <headword id="d0e164">[seabhag?]</headword>
+      <description>[ʃɤəɡ] hawk.</description>
+    </item>
+    <item>
+      <headword id="d0e173">dubh-reabha</headword>
+      <description>[du̜ r[ou]] mole. [NOTES: the slip has [du̜ˈ rɔu].]</description>
+    </item>
+    <item>
+      <headword id="d0e182">dealaman-dé</headword>
+      <description>[dʹəɫəman dʹɛ̜:] butterfly. [NOTES: slipped under ‘dealman-dé’. No pronunciation.]</description>
+    </item>
+    <item>
+      <headword id="d0e191">losgann</headword>
+      <description>[lɔskən] frog. [SLIP: Frog and toad.]</description>
+    </item>
+    <item>
+      <headword id="d0e200">sgeith-losgainn</headword>
+      <description>[skɛ̜: lɔskənʹ] tadpole (spawn). [SLIP: Frog-spawn.]</description>
+    </item>
+    <item>
+      <headword id="d0e209">cuileag-each</headword>
+      <description>horse-fly.</description>
+    </item>
+    <item>
+      <headword id="d0e218">seillean</headword>
+      <description>[ʃɛ̜lʹ[ɑi]n] bee. [NOTES: slip not found.]</description>
+    </item>
+    <item>
+      <headword id="d0e227">seillean  ruadh</headword>
+      <description>[ʃɛ̜lʹ[ɑi]n] smaller than bumble. [NOTES: the slip has [ruˈa]. Definition: A bee smaller than the bumble bee but wasp like in its sting.]</description>
+    </item>
+    <item>
+      <headword id="d0e236">seilcheag</headword>
+      <description>[ʃɛ̜:liçək] snail. Chunnaic mi seilcheag air an lice lom; chual mi chuthag gam miar mo bhroinn; chunnaic mi an t-searrach ’s a chùlaobh rium, is dh’aithnich mi nach robh bhliadhn’ dol leam. [NOTES: the saying was slipped under the catch-word ‘seilcheag’ so it has been placed here. The slip gives only the phonetic transcription of the word spelled ‘miar’ in the questionnaire: [iər].]</description>
+    </item>
+    <item>
+      <headword id="d0e245">seilleach</headword>
+      <description>[ʃɛ̜lax] willow. [NOTES: the slip has [ʃɛ̜ɫəx]. It gives Mrs MacDermid as the source.]</description>
+    </item>
+    <item>
+      <headword id="d0e254">[beith]</headword>
+      <description>[bɛ̜:] birch.</description>
+    </item>
+    <item>
+      <headword id="d0e263">airneag  (fem.)</headword>
+      <description>[[ɑu]rnʹɑk] sloe. [NOTES: slipped under ‘abhrneag’ but then ‘airneag’ added in second hand. Pronunciation: [ɑurnʹak].]</description>
+    </item>
+    <item>
+      <headword id="d0e272">sgitheag</headword>
+      <description>[ski:ək] hawthorn.</description>
+    </item>
+    <item>
+      <headword id="d0e281">[leamhan?]</headword>
+      <description>[lɛvan] lime tree.</description>
+    </item>
+    <item>
+      <headword id="d0e290">giuthais</headword>
+      <description>[sic] fir. [NOTES: slip not found.]</description>
+    </item>
+    <item>
+      <headword id="d0e299">carbad-smùid</headword>
+      <description>steam engine.</description>
+    </item>
+    <item>
+      <headword id="d0e308">carbad-òla</headword>
+      <description>car. [NOTES: slipped under ‘carbad-ola’ with ‘carbad-òla’ as the quotation. Definition: Motor car.]</description>
+    </item>
+    <item>
+      <headword id="d0e317">coileach-dubh</headword>
+      <description>black grouse. [NOTES: slip not found.]</description>
+    </item>
+    <item>
+      <headword id="d0e326">na h-eòin ruadh</headword>
+      <description>red grouse. [NOTES: slipped under ‘eun ruadh’.]</description>
+    </item>
+    <item>
+      <headword id="d0e335">colman</headword>
+      <description>[ɡɔɫəmɑn] wood pigeon. [NOTES: the slip has [ɡɔɫəməṉ].]</description>
+    </item>
+    <item>
+      <headword id="d0e344">[fɛ̜:ʃənax]</headword>
+      <description>pheasant.</description>
+    </item>
+    <item>
+      <headword id="d0e353">earb</headword>
+      <description>[ən jɑrɑp] roe deer. [NOTES: the slip has [ən jarɑp].]</description>
+    </item>
+    <item>
+      <headword id="d0e362">dugan</headword>
+      <description>[du̟ɡan] pole cat. (croit an dugain [?]) [SLIP: Pole cat. Also found in place-name ‘Croftintygane’  near Lawers, Loch Tay.]</description>
+    </item>
+    <item>
+      <headword id="d0e371">Killinne (Cill-linne) – 1750</headword>
+    </item>
+    <item>
+      <headword id="d0e377">Cillbhinn</headword>
+      <description>[NOTES: slipped under Cill-linne. Quotation: (a) Cill-linne. (b) Cillbhinn. Definition: (a) What natives called Killin in informant’s youth (circa 60-70 years ago). (b) Found nowadays.]</description>
+    </item>
+    <item>
+      <headword id="d0e386">Còir’ nam Bonnach</headword>
+    <description>[?] </description></item>
+    <item>
+      <headword id="d0e392">cloichearan</headword>
+      <description>[klɔiçərən] stonechat.</description>
+    </item>
+    <item>
+      <headword id="d0e401">[gille-Brìghde]</headword>
+      <description>[ɡilʹə bri:dʹ] oyster-catcher.</description>
+    </item>
+    <item>
+      <headword id="d0e410">Meuran nan Daoine Sithich</headword>
+      <description>[mɛ̜:ran nən dɤnʹə ʃi:iç] foxglove (nickname). [NOTES: the slip has [mɛ̜:raṉ ṉəṉ dɤnʹə ʃiˈiç]. Definition: Foxglove. (‘The thimble of the fairy people’).]</description> 
+    </item>
+    <item>
+      <headword id="d0e419">meatag an t-sionnaich</headword>
+      <description>[SLIP: Foxglove. Cf. also ‘Meuran nan Daoine Sithich’.]</description>
+    </item>
+    <item>
+      <headword id="d0e428">breac</headword>
+      <description>trout. [NOTES: slip not found.]</description>
+    </item>
+    <item>
+      <headword id="d0e437">geadasg</headword>
+      <description>[ɡɛ̜:ˈtask] pike. [SLIP: pike (fish).]</description>
+    </item>
+    <item>
+      <headword id="d0e446">mionnasg</headword>
+      <description>[miˈnəsk] minnow. [NOTES: the slip has [minəsk].]</description>
+    </item>
+    <item>
+      <headword id="d0e455">cnèmheach</headword>
+      <description>[krɛ̜̃vəx] crow.</description>
+    </item>
+    <item>
+      <headword id="d0e464">[ròcas]</headword>
+      <description>[rɔʰkəs] rook.</description>
+    </item>
+    <item>
+      <headword id="d0e473">[an damhan rong mhor?]</headword>
+      <description>[ən d-ˈ[ãũ]n rɔnɡ vɔ:r] daddy-long-legs. [NOTES: the slip has [ən dˈ[ãũ]n rɔŋ vɔ:r].]</description>
+	</item>
+    <item>
+      <headword id="d0e482">[corra-ghritheach]</headword>
+      <description>[kɔrə ɣriˈəx] heron.</description>
+    </item>
+    <item>
+      <headword id="d0e491">cearc-chomunn</headword>
+      <description>[sic] [xɔmən] partridge.</description>
+    </item>
+    <item>
+      <headword id="d0e500">ialtag-oidhch’</headword>
+      <description>bat. [SLIP: Bat (animal).]</description>
+    </item>
+    <item>
+      <headword id="d0e509">gobhar-adhair</headword>
+      <description>[ɡɔər a:r] snipe.</description>
+    </item>
+    <item>
+      <headword id="d0e518">daol</headword>
+      <description>[da̜:ɫ] beetle. [NOTES: originally slipped under ‘dàil’ but then ‘daol’ added in second hand.]</description>
+    </item>
+    <item>
+      <headword id="d0e527">bitheag</headword>
+      <description>[bi:ˈak] worm. [SLIP: Earthworm.]</description>
+    </item>
+    <item>
+      <headword id="d0e536">bròg na cuthaig</headword>
+      <description>wild violet.</description>
+    </item>
+    <item>
+      <headword id="d0e545">cneas an t-sionnaich</headword>
+      <description>fox’s crest (fern). [SLIP: Fox’s crest (a type of fern – English name uncertain).]</description>
+    </item>
+    <item><headword id="d0e553" type="heading" level="h1">And</headword><description>[erson] </description></item>
+    <item>
+      <headword id="d0e558">Gleann Liomhann</headword>
+      <description>[li:ən] Glenlyon. [NOTES: the slip has [lʹi:ən]. It gives Mrs MacDermid as the source.]</description>
+    </item>
+    <item>
+      <headword id="d0e567">cuitear</headword>
+      <description>[sic] [ku̜ʰtʹər] drain.</description>
+    </item>
+    <item>
+      <headword id="d0e576">Bailechuideir</headword>
+      <description>[bɔxu̜idʹər] Balquhidder.</description>
+    </item>
+    <item>
+      <headword id="d0e585">Gleann Lòcha</headword>
+      <description>Glen Lochy. [NOTES: slip not found.]</description>
+    </item>
+    <item>
+      <headword id="d0e594">Gleann Dochairt</headword>
+      <description>[dɔxərst] Dochart. [NOTES: phonetic transcription added on the slip.]</description>
+    </item>
+    <item>
+      <headword id="d0e603">Loch an Iubhair</headword>
+      <description>(shaded loch). [NOTES: slip not found.]</description>
+    </item>
+    <item>
+      <headword id="d0e612">Tigh an Druma</headword>
+      <description>Tyndrum. [NOTES: slip not found.]</description>
+    </item>
+    <item>
+      <headword id="d0e621">Dàile Mhailli</headword>
+      <description>Dalmally.</description>
+    </item>
+    <item>
+      <headword id="d0e630">Tigh an Uillt</headword>
+      <description>Taynuilt. [NOTES: slip not found.]</description>
+    </item>
+    <item>
+      <headword id="d0e639">Beinn Laoigh</headword>
+      <description>Ben Lui.</description>
+    </item>
+    <item>
+      <headword id="d0e648">Drochaid Bhalacaidh</headword>
+      <description>Bridge of Balgy. [SLIP: Bridge of Balgie, Glenlyon.]</description>
+    </item>
+    <item>
+      <headword id="d0e657">Srath Odhar</headword>
+      <description>[ɑuər] Strathyre. [NOTES: the slip has [[au]ər].]</description>
+    </item>
+    <item>
+      <headword id="d0e666">tullacan</headword>
+      <description>hillock.</description>
+    </item>
+    <item>
+      <headword id="d0e675">Gleann Beithe</headword>
+      <description>Glen Beich.</description>
+    </item>
+    <item>
+      <headword id="d0e684">dàil</headword>
+      <description>flat land beside river. [NOTES: slip not found.]</description>
+    </item>
+    <item>
+      <headword id="d0e693">leacan</headword>
+      <description>side of mountain. [NOTES: slip not found.]</description>
+    </item>
+    <item>
+      <headword id="d0e702">Ard Choill</headword>
+      <description>Ardchyl. [NOTES: slipped under Ard Choill’. Definition: Ardchyl (near Killin).]</description>
+    </item>
+    <item>
+      <headword id="d0e711">coilleag</headword>
+      <description>[kylɑk] copse. [NOTES: the slip has [kɤlak]. Definition: small group of trees.]</description>
+    </item>
+    <item>
+      <headword id="d0e720">solus gealbhan</headword>
+      <description>[ɡʹaɫəvɑn] death lights. [SLIP: the slip has [ɡʹaɫəvaṉ]. Definition: Death light.]</description>
+    </item>
+    <item><headword id="d0e728" type="heading" level="h1">Mrs MacD</headword></item>
+    <item>
+      <headword id="d0e733">caisbheart</headword>
+      <description>[kaʃərt] for bròg ’s stòcainn, footwear. [SLIP: Footwear (refers to both shoe and stocking).]</description>
+    </item>
+    <item>
+      <headword id="d0e742">[bumailear?]</headword>
+      <description>[bu̟milər] boisterous person.</description>
+    </item>
+    <item>
+      <headword id="d0e751">gimleis</headword>
+      <description>[ɡimliʃ] trumphrey.</description>
+    </item>
+    <item>
+      <headword id="d0e760">craslach  (adj.)</headword>
+      <description>[krasəɫəx] [SLIP: Used of animals, meaning ‘very thin’, ‘only bone to them’.]</description>
+    </item>
+    <item>
+      <headword id="d0e769">caol an earraich</headword>
+      <description>[kəɫ ən jariç] [NOTES: slipped under ‘caol’ and ‘earrach’ with ‘caol an earraich’ as the quotation. Definition: Of animals, meaning ‘very thin’.]</description>
+    </item>
+    <item>
+      <headword id="d0e778">leasach</headword>
+      <description>[lʹɛsəx] changing milk into cheese (earning). Tha mi dol a dheanamh leasach an diugh.</description>
+    </item>
+    <item>
+      <headword id="d0e787">muigh  (fem.)</headword>
+      <description>[mu̜ˈi] churn. Tha muigh ri dheanamh an diugh. [NOTES: slipped under ‘muidhe’.]</description>
+    </item>
+    <item>
+      <headword id="d0e796">òtrach</headword>
+      <description>[ɔ:trəx] midden (– siteag).</description>
+    </item>
+    <item>
+      <headword id="d0e805">[fàladair]</headword>
+      <description>[fa:ɫədər] scythe.</description>
+    </item>
+    <item>
+      <headword id="d0e814">clach-ghearraich</headword>
+      <description>[klax jɛ̜riç] whetting stone. [NOTES: there are two slips giving Mrs MacDermid as the source and ‘whetting-stone’ as the definition – one has ‘clach-ghearraich [jɛ̜riç]’ as the catch-word and the other ‘clach-gheuraidh [jɛ̜:ri]’.]</description>
+    </item>
+    <item>
+      <headword id="d0e823">corran</headword>
+      <description>[koran] heuk. [SLIP: sickle; ‘heuk’.]</description>
+    </item>
+    <item>
+      <headword id="d0e832">[sɡɤɫan]</headword>
+      <description>creel.</description>
+    </item>
+    <item>
+      <headword id="d0e841">[stòl]</headword>
+      <description>[stɔ:ɫ] stool.</description>
+    </item>
+    <item>
+      <headword id="d0e850">srathair</headword>
+      <description>[sra:ər] pad on back of work-horse, saddle. [SLIP: pannier-saddle on work-horse.]</description>
+    </item>
+    <item>
+      <headword id="d0e859">deimhis</headword>
+      <description>[dʹɛ̜̃ˈwiʃ] [SLIP: shears, N.B. pron.] [NOTES: there is another slip with ‘deimhis’ as the catch-word, Mrs MacDermid as the source and ‘shears’ as the definition but it gives different pronunciation - [dʒɑ̃ũˈis].]</description>
+    </item>
+    <item>
+      <headword id="d0e868">clobha</headword>
+      <description>[kɫo̟] tongs. [NOTES: the slip has [kɫɔ̟:].]</description>
+    </item>
+    <item>
+      <headword id="d0e877">[sɡɤɫer]</headword>
+      <description>mean, contemptible fellow.</description>
+    </item>
+    <item>
+      <headword id="d0e886">braoilich</headword>
+      <description>[brɤiɫiç] noise. Nach b’ e sin a’ bhraoilich airson aon adhaircean muic. [NOTES: the slip has [brɤiḻiç]. The quotation has ‘uircean’ instead of ‘adhaircean’.]</description>
+    </item>
+    <item>
+      <headword id="d0e895">uircean  (masc.)</headword>
+      <description>[u̟irkʹən] young pig. [NOTES: the quotation on the slip reads ‘uircean muic (or alone)’.]</description>
+    </item>
+    <item>
+      <headword id="d0e904">fear sgodail</headword>
+      <description>[sɡɔˈdɑɫ] proud man. [NOTES: slipped under ‘sgodail’ with ‘fear sgodail’ as the quotation. Pronunciation: [sɡɔdal].]</description>
+    </item>
+    <item>
+      <headword id="d0e913">duine sunndach</headword>
+      <description>happy man. [NOTES: slipped under ‘sunndach’ with ‘duine sunndach’ as the quotation. Definition: Happy.]</description>
+    </item>
+    <item>
+      <headword id="d0e922">cearnach</headword>
+      <description>B’ e cearnach e ’na latha. – He was a big man (stature) in his day.</description>
+    </item>
+    <item>
+      <headword id="d0e931">famhair</headword>
+      <description>a big man (stature). [NOTES: the slip gives a quotation ‘B’ e famhair e ‘na latha’. Definition: ‘A big man (in stature)’.]</description>
+    </item>
+    <item><headword id="d0e939" type="heading" level="h1">Mrs MacD</headword></item>
+    <item>
+      <headword id="d0e944">clachan peileastair</headword>
+      <description>[pɛ̜liʃtʹər] like 9 pins – one big one you threw small ones at it to knock it down. [SLIP: A game. Similar to 9 pins. A big stone is placed on its side and smaller stones thrown to knock it down.]</description>
+    </item>
+    <item>
+      <headword id="d0e953">caman</headword>
+      <description>shinty stick. [NOTES: slip not found.]</description>
+    </item>
+    <item>
+      <headword id="d0e962">[paˈriçk] mhór</headword>
+      <description>field.</description>
+    </item>
+    <item>
+      <headword id="d0e971">lòn</headword>
+      <description>[lɔn] meadow.</description>
+    </item>
+    <item>
+      <headword id="d0e980"></headword>
+      <description>[lom] shearing sheep.</description>
+    </item>
+    <item>
+      <headword id="d0e989">[saoidh]  (masc.)</headword>
+      <description>[saoi] hay.</description>
+    </item>
+    <item>
+      <headword id="d0e998">[ɡ</headword>
+      <description>[ɔi]ˈnən] rheumatism.</description>
+    </item>
+    <item>
+      <headword id="d0e1007">[ur]</headword>
+      <description>[u̟r] small child.</description>
+    </item>
+    <item>
+      <headword id="d0e1016">am fuachd</headword>
+      <description>[əm vu̜axk] cold. [NOTES: slipped under ‘fuachd’ with ‘am fuachd’ as the quotation. Definition: N.B. pron. – the cold (illness).]</description>
+    </item>
+    <item>
+      <headword id="d0e1025">builgear balaich</headword>
+      <description>[bu̜ləɡər bɑɫiç] rascal. ’Se am [bu̜ləɡər]. [NOTES: slipped under ‘builgear’. Pronunciation: [bu̜ɫəɡər baɫiç].]</description>
+    </item>
+    <item>
+      <headword id="d0e1034">sglog ’san lethcheann</headword>
+      <description>[sɡlɔk sən lʹɛ̜:çən] slap on jaw. [NOTES: slipped under ‘sglog’ with ‘sglog ‘san lethcheann’ as the quotation. Definition: Slap on the jaw. Separate slip for ‘lethcheann’ – jaw.]</description>
+    </item>
+    <item>
+      <headword id="d0e1043">gramail  (adj.)</headword>
+      <description>[ɡrɑmɑil] [sic] firm, stern. [NOTES: the slip does not give the pronunciation.]</description>
+    </item>
+    <item>
+      <headword id="d0e1052">[ceàird]</headword>
+      <description>[kʹ[ɤoi]rdʹ] tinkers.</description>
+    </item>
+    <item>
+      <headword id="d0e1061">[ceàrd]</headword>
+      <description>[kʹ[ɑo]rd] tinker.</description>
+    </item>
+    <item>
+      <headword id="d0e1070">bùrn</headword>
+      <description>[bu̩rin] water. [NOTES:  the slip has [bu̜rin].]</description>
+    </item>
+    <item>
+      <headword id="d0e1079">gimleid</headword>
+      <description>[ɡiməlidʹ] iron-pointed tool for cobbler. [NOTES: the slip has [ɡiməɫɛdʹ]. Definition: For taking tackets out of boots.]</description>
+    </item>
+    <item>
+      <headword id="d0e1088">sagairt</headword>
+      <description>[saɡɑrstʹ] last for boots. [NOTES: the slip has [sakɑrstʹ]. Definition: Cobbler’s last for boots.]</description>
+    </item>
+    <item>
+      <headword id="d0e1097">pailleart  (masc.)</headword>
+      <description>[pɑlʹart] good, firm slap. [NOTES: the slip has [palʹart].]</description>
+    </item>
+    <item>
+      <headword id="d0e1106">Chaidh e ’na phaisean</headword>
+      <description>[He] fainted. [NOTES: slip not found.]</description>
+    </item>
+    <item>
+      <headword id="d0e1115">slinnean</headword>
+      <description>[ʃlʹinʹən] shoulder of animal or person.</description>
+    </item>
+    <item>
+      <headword id="d0e1124">[spàg]</headword>
+      <description>[spa:k] hind-leg of animal.</description>
+    </item>
+    <item>
+      <headword id="d0e1133">gruaidhean</headword>
+      <description>[ɡru[ɑi]jən] liver. [NOTES: the slip has [ɡru̜[ɑi]jəṉ].]</description>
+    </item>
+    <item>
+      <headword id="d0e1142">mias</headword>
+      <description>[miəs] milk basin.</description>
+    </item>
+    <item>
+      <headword id="d0e1151">cé</headword>
+      <description>[kɛ̜:] cream.</description>
+    </item>
+    <item>
+      <headword id="d0e1160">blathaich</headword>
+      <description>[bɫaˈiç] buttermilk.</description>
+    </item>
+    <item>
+      <headword id="d0e1169">bainne goirt</headword>
+      <description>[benʹə ɡorst] sour milk.</description>
+    </item>
+    <item>
+      <headword id="d0e1178">gruth</headword>
+      <description>crowdie. [NOTES: slip not found.]</description>
+    </item>
+    <item>
+      <headword id="d0e1187">fuarag</headword>
+      <description>[fu̟ɑrɑk] sour cream (half-churned) and oatmeal.</description>
+    </item>
+    <item>
+      <headword id="d0e1196">coinnleirean</headword>
+      <description>[k[oi]lərən] candle-sticks. [NOTES: slipped under ‘coinnleir’ with ‘pl. [k[(õ)(ĩ)]ḻərən]’ as the quotation.]</description>
+    </item>
+    <item>
+      <headword id="d0e1205">coinneal</headword>
+      <description>[kələn] candle. [SLIP: Candle (same word?).]</description>
+    </item>
+    <item>
+      <headword id="d0e1214">glagaireachd  (mhór)</headword>
+      <description>[ɡlɑkərəxk] gossip. Bha iad a’ glagaireachd fad an latha. [NOTES: the slip has [ɡɫakərəxk]. Definition: Gossip. (Also fem. noun).]</description>
+    </item>
+    <item>
+      <headword id="d0e1223">[dibhearsan]</headword>
+      <description>[dʹiversən] fun.</description>
+    </item>
+    <item>
+      <headword id="d0e1232">cab</headword>
+      <description>[kɑp] mouth (of fish; of human – mouth). Dùin do chap! [sic] [SLIP: Mouth (of fish or, as above [i.e. in the quotation], in insult, of human).]</description>
+    </item>
+    <item>
+      <headword id="d0e1241">gnos</headword>
+      <description>[ɡrɔ̃s] big nose.</description>
+    </item>
+    <item>
+      <headword id="d0e1250">taois</headword>
+      <description>[t[aoi]ʃ] dough.</description>
+    </item>
+    <item>
+      <headword id="d0e1259">deasach</headword>
+      <description>[dʹɛ̜səx] bake. Bheil an deasach deas? [SLIP: Baking.]</description>
+    </item>
+    <item>
+      <headword id="d0e1268">colann</headword>
+      <description>Tha e coltach ri fear a tha air caitheamh seachd colann [kɑi ʃɛxk kɔɫən]. – of old person. [SLIP: Said of a decrepit-looking old person.]</description>
+    </item>
+    <item>
+      <headword id="d0e1277">togsaid thearr</headword>
+      <description>barrel of tar. [NOTES: slipped under ‘togsaid’ with ‘togsaid theàrr’ as the quotation.]</description>
+    </item>
+    <item>
+      <headword id="d0e1286">seitheisteal</headword>
+      <description>[ʃɛˈiʃtʹəɫ] lazy person.</description>
+    </item>
+    <item>
+      <headword id="d0e1295">[ɡʹɛɲɡəx]</headword>
+      <description>disobliging.</description>
+    </item>
+    <item>
+      <headword id="d0e1304">alaich</headword>
+      <description>Bheil thu ’tuigsinn, [aɫ̱iç]? - like ‘laochain’, from man to man. [NOTES: definition on the slip: Like ‘a laochain’ etc., used from man to man. Prob. shortened form of ‘a bhalaich’.]</description>
+    </item>
+    <item>
+      <headword id="d0e1313">guilbearnach</headword>
+      <description>[ɡʹilibərnəx] curlew.</description>
+    </item>
+    <item>
+      <headword id="d0e1322">clach-bhalg</headword>
+      <description>[klaxˈ vaɫak] blowhard. [NOTES: the slip has [kɫaxˈ vaɫax].]</description>
+    </item>
+    <item>
+      <headword id="d0e1331">gruagach</headword>
+      <description>bridesmaid.</description>
+    </item>
+    <item>
+      <headword id="d0e1340">[lɛsɡax]</headword>
+      <description>best man. [NOTES: slipped under ‘fleasgach’. Definition: Possibly ‘leasgach’ (i.e. without f-) used. ‘Best man’.]</description>
+    </item>
+    <item><headword id="d0e1348" type="heading" level="h1">Mrs MacD</headword></item>
+    <item>
+      <headword id="d0e1353">balgair</headword>
+      <description>[bɑɫəɡər] fox. (Also: ‘sionnach’.) [SLIP: Fox (‘sionnach’ also used).]</description>
+    </item>
+    <item>
+      <headword id="d0e1362">ladarn</headword>
+      <description>[ɫɑtərn] forward, demanding. [NOTES: the slip has [ɫatərṉ].]</description>
+    </item>
+    <item>
+      <headword id="d0e1371">raipear</headword>
+      <description>[r[ɑi]ʰper] rough person. [NOTES: the slip has [r[ai]ʰpər].]</description>
+    </item>
+    <item>
+      <headword id="d0e1380">muinntir deisir</headword>
+      <description>[dʹɛ̜ʃər] people of north [sic] side of Loch Tay. [NOTES: slipped under ‘deisir’ with ‘muinntir deisir’ as the quotation. Definition: People belonging to north side of Loch Tay. (cf. also tuatharach).]</description>
+    </item>
+    <item>
+      <headword id="d0e1389">muinntir tuatharach</headword>
+      <description>[tu̜ərəx] people of south [sic] side of Loch Tay. [NOTES: slipped under ‘tuatharach’ with ‘muinntir tuatharach’ as the quotation. Definition: People belonging to south side of Loch Tay. (cf. also ‘deisir’) Saying of informant’s mother: ‘Bodaichean tuatharach, is tuath Gleann Dochairt, Mionnasgan Chillfhinn agus daoine grinn na Sràid Ghlais (in Killin) Barran Gleann Lòcha agus brod deisir [sic].’]</description>
+    </item>
+    <item>
+      <headword id="d0e1398">siolachan</headword>
+      <description>[ʃiələxən] sieve for milk.</description>
+    </item>
+    <item>
+      <headword id="d0e1407">ceapair</headword>
+      <description>[kʹɛʰpər] good sustaining piece, sandwich. [SLIP: A big sandwich.]</description>
+    </item>
+    <item>
+      <headword id="d0e1416">aotroman</headword>
+      <description>[u̟tərmɑn] pig’s bladder. [NOTES: the slip has [u̟t̪ərman]. Definition: Pig’s bladder. N. B. pron.]</description>
+    </item>
+    <item>
+      <headword id="d0e1425">sgonn  (fem.)</headword>
+      <description>[sɡɔ̃:n] clumsy person, [cf. sgonnarach.]</description>
+    </item>
+    <item>
+      <headword id="d0e1434">sgonnarach  (masc.)</headword>
+      <description>[sɡɔnərəx] clumsy person. Bha sgonnarach mun cuairt. [SLIP: clumsy person, cf. ‘sgonn’.]</description>
+    </item>
+    <item>
+      <headword id="d0e1443">sguais</headword>
+      <description>[sɡu̜[ɑi]ʃ] something done in hurried way and unthorough. Bha sguais uamharaidh aige. [SLIP: Something done in a hurried, and consequently unthorough, way.]</description>
+    </item>
+    <item>
+      <headword id="d0e1452">sguaisearach</headword>
+      <description>[sɡu̜[ɑi]ʃərəx] [SLIP: Vid. ‘sguais’.]</description>
+    </item>
+    <item>
+      <headword id="d0e1461">cleiteartaich</headword>
+      <description>[klɛ̜ʰtʹərstiç] flapping and fussing. Bha i cleiteartaich mun cuairt.</description>
+    </item>
+    <item>
+      <headword id="d0e1470">geir</headword>
+      <description>[ɡɛ̟r] fat of animal.</description>
+    </item>
+    <item>
+      <headword id="d0e1479">geir muideal</headword>
+      <description>[ɡɛ̟r mu̟dʹaɫ] mutton fat.</description>
+    </item>
+    <item>
+      <headword id="d0e1488">geir martail</headword>
+      <description>[ɡɛ̟r mɑrstʹɑiɫ] beef fat, suet.</description>
+    </item>
+    <item>
+      <headword id="d0e1497">geir féidh</headword>
+      <description>deer fat. [NOTES: all four above slipped together under ‘geir’.]</description>
+    </item>
+    <item>
+      <headword id="d0e1506">mulchag</headword>
+      <description>[mulaxɑk] geir feidh [sic] [deer fat] in a mould (endowed with healing powers – any wound or baby’s navel). [NOTES: slipped under ‘mulchag’ with ‘mulchag geir feidh’ as the quotation. Definition: Deer fat in a mould. Endowed with healing properties – for a wound or was rubbed on a baby’s navel.]</description>
+    </item>
+    <item><headword id="d0e1514" type="heading" level="h1">[Eilidh Walker]</headword></item>
+    <item><headword id="d0e1518" type="heading" level="h1">2. Breeds of cattle</headword></item>
+    <item><headword id="d0e1522" type="heading" level="h1">3. Outward appearance of cattle</headword></item>
+    <item><headword id="d0e1526" type="heading" level="h1">4. Names for certain beasts, e.g. an animal on which the owner bestows particular attention</headword></item>
+    <item><headword id="d0e1530" type="heading" level="h1">5. Parts of the body</headword></item>
+    <item>
+      <headword id="d0e1535">ceann ( kèoon)</headword>
+      <description>[pron.] head. [NOTES: there is a slip with ‘ceann’ as the catch-word and Ellie Walker as the source but it gives a phrase - Ceann mór aig duine glic, Ceann circ air amadan.]</description>
+    </item>
+    <item>
+      <headword id="d0e1544">clar-aodain</headword>
+      <description>forehead. [NOTES: slipped under ‘clàr-aodann’. Definition: Forehead (of cow).] [NOTES: the spelling on the slip – clàr-aodann.]</description>
+    </item>
+    <item>
+      <headword id="d0e1553">(aoirchdan) (phonetic)</headword>
+      <description>horns. [NOTES: slipped under ‘adharc’ with ‘pl. [[œi]rçkən]’ as the quotation but there is a wavy line in pencil going across the latter possibly to show that the transcription may be wrong.]</description>
+    </item>
+    <item>
+      <headword id="d0e1562">fionna</headword>
+      <description>hair. [NOTES: ‘beast’ added in second hand (most probably the fieldworker).] [SLIP: Beast’s hair.]</description>
+    </item>
+    <item>
+      <headword id="d0e1571">craicean ( krychkon)</headword>
+      <description>[pron.] hide. [NOTES: [ai] under ‘ai’ in ‘craicean’ added in second hand (most probably the fieldworker).] [NOTES: slip not found.]</description>
+    </item>
+    <item>
+      <headword id="d0e1580">slinnean ( šleenyen)</headword>
+      <description>[pron.] shoulder. [NOTES: slip not found.]</description>
+    </item>
+    <item>
+      <headword id="d0e1589">uchd or caisean-uchd ( oochk)</headword>
+      <description>[pron.] breast. [NOTES: ‘flappy part on sheep’ added in second hand (most probably the fieldworker).] [NOTES: slipped under ‘caisean-uchd’. Definition: Breast; flappy part on sheep.]</description>
+    </item>
+    <item>
+      <headword id="d0e1598">spag ( spaak)</headword>
+      <description>[pron.] hindquarter. [NOTES: slipped under ‘spàg’. Definition: Hindquarter of cow.]</description>
+    </item>
+    <item>
+      <headword id="d0e1607">rumball ( roomble)</headword>
+      <description>[pron.] rump. [NOTES: slipped under ‘rùmball’. Pronunciation: [ruˈmbəɫ]. Definition: Rump of cattle.]</description>
+    </item>
+    <item>
+      <headword id="d0e1616">ugh ( oo)</headword>
+      <description>[pron.] udder. [NOTES: the slip gives the pronunciation – [uʰ].]</description>
+    </item>
+    <item>
+      <headword id="d0e1625">sineachan ( sheenachan)</headword>
+      <description>[pron.] teats. [SLIP: (pl.) Teats of cow.]</description>
+    </item>
+    <item>
+      <headword id="d0e1634">feith ( fè)</headword>
+      <description>[pron.] muscle.</description>
+    </item>
+    <item>
+      <headword id="d0e1643">feath ( fè)</headword>
+      <description>[pron.] vein. [NOTES: both ‘feith’ and ‘feath’ slipped under ‘fèith’. Definition: Muscle (cattle). Also: vein.]</description>
+    </item>
+    <item>
+      <headword id="d0e1652">cridhe ( kree)</headword>
+      <description>[pron.] heart. [NOTES: slip not found.]</description>
+    </item>
+    <item>
+      <headword id="d0e1661">fuile</headword>
+      <description>blood. [NOTES: the slip gives the pronunciation – [fu̟lʹə].]</description>
+    </item>
+    <item>
+      <headword id="d0e1670">sgamhain ( skavèn)</headword>
+      <description>[pron.] lungs. [NOTES: slip not found.]</description>
+    </item>
+    <item>
+      <headword id="d0e1679">faireagan</headword>
+      <description>glands. [NOTES: slipped under ‘faireag’. Pronunciation: [fɑˈrɑk]. Definition: Gland (partic. in meat).]</description>
+    </item>
+    <item>
+      <headword id="d0e1688">slugan ( slookan)</headword>
+      <description>[pron.] gullet. [NOTES: slip not found.]</description>
+    </item>
+    <item>
+      <headword id="d0e1697">stamag</headword>
+      <description>stomach. [NOTES: slip not found.]</description>
+    </item>
+    <item>
+      <headword id="d0e1706">gruthan ( grooan)</headword>
+      <description>[pron.] liver. [NOTES: slip not found.]</description>
+    </item>
+    <item>
+      <headword id="d0e1715">isbein ( eespèn)</headword>
+      <description>[pron.] sausage. [NOTES: slipped under ‘isbean’ with pronunciation [iˈʃpɛn].]</description>
+    </item>
+    <item>
+      <headword id="d0e1724">maragan geal</headword>
+      <description>white puddings. [NOTES: slip not found.]</description>
+    </item>
+    <item>
+      <headword id="d0e1733">maragan dubh</headword>
+      <description>black puddings. [NOTES: slip not found.]</description>
+    </item>
+    <item>
+      <headword id="d0e1742">taigeis</headword>
+      <description>haggis. [NOTES: slip not found.]</description>
+    </item>
+    <item><headword id="d0e1750" type="heading" level="h1">6. Calving</headword></item>
+    <item><headword id="d0e1754" type="heading" level="h1">7. Milking</headword></item>
+    <item>
+      <headword id="d0e1759">bleodhann ( blo an)</headword>
+      <description>[pron.] milking. [NOTES: slip not found.]</description>
+    </item>
+    <item>
+      <headword id="d0e1768">gogan</headword>
+      <description>milking-pail.</description>
+    </item>
+    <item>
+      <headword id="d0e1777">siolachan</headword>
+      <description>sieve.</description>
+    </item>
+    <item>
+      <headword id="d0e1786">meas</headword>
+      <description>[mɛ̜:s] basin. [NOTES: phonetic transcription added most probably by the fieldworker.] [NOTES: slip not found.]</description>
+    </item>
+    <item>
+      <headword id="d0e1795">stòl</headword>
+      <description>stool. [NOTES: grave accent added most probably by the fieldworker.] [NOTES: slip not found but see ‘creaban’ below.]</description>
+    </item>
+    <item>
+      <headword id="d0e1804">creaban ( krèpan)</headword>
+      <description>[pron.] stool. [NOTES: slipped under ‘cneaban’. Pronunciation: [krɛ̜̃pan]. Definition: Stool. ‘Stòl’ also used.]</description>
+    </item>
+    <item>
+      <headword id="d0e1813">buarach</headword>
+      <description>leg-rope. [NOTES: ‘heard “dung”’ added in second hand (most probably the fieldworker).] [SLIP: Leg-rope for cow. Once heard used for ‘dung’. Also fetter for milking.]</description>
+    </item>
+    <item>
+      <headword id="d0e1822">bleodhann-maidne</headword>
+      <description>morning milking. [NOTES: slipped under ‘bleoghainn-maidne’ with ‘also: bleoghainn-feasgair’ as the quotation.]</description>
+    </item>
+    <item>
+      <headword id="d0e1831">bleodhann-feasgair</headword>
+      <description>evening milking.</description>
+    </item>
+    <item>
+      <headword id="d0e1840">bagan-leasach</headword>
+      <description>[lʹɛ̜səx] calf’s bladder (used for making cheese). [NOTES: the last item added in second hand but the slip still gives Eilidh Walker as the source.] [NOTES: the slip has [lʹesəx].]</description>
+    </item>
+    <item><headword id="d0e1848" type="heading" level="h1">8. Feeding</headword></item>
+    <item>
+      <headword id="d0e1853">saoidh</headword>
+      <description>hay. [NOTES: slip not found.]</description>
+    </item>
+    <item>
+      <headword id="d0e1862">fodar</headword>
+      <description>straw.</description>
+    </item>
+    <item>
+      <headword id="d0e1871">botal (</headword>
+      <description>[pron.] bochtchal) [bɔtʹaɫ] hay or straw in a tidy bundle. [NOTES: phonetic transcription added most probably by the fieldworker. The slip gives [bɔʰtʹaɫ]. Definition: Hay or straw trussed up in a tidy bundle.]</description>
+    </item>
+    <item>
+      <headword id="d0e1880">buachaill</headword>
+      <description>herd. [NOTES: slip not found.]</description>
+    </item>
+    <item>
+      <headword id="d0e1889">bannarach</headword>
+      <description>dairymaid. [NOTES: slip not found.]</description>
+    </item>
+    <item>
+      <headword id="d0e1898">ionaltrach</headword>
+      <description>grazing. [NOTES: slip not found.]</description>
+    </item>
+    <item>
+      <headword id="d0e1907">geamhrach</headword>
+      <description>wintering. [SLIP: Wintering the cattle.]</description>
+    </item>
+    <item><headword id="d0e1915" type="heading" level="h1">9. Apparatus</headword></item>
+    <item>
+      <headword id="d0e1920">teadhar</headword>
+      <description>tether. [NOTES: slip not found.]</description>
+    </item>
+    <item>
+      <headword id="d0e1929">buarach</headword>
+      <description>fetter for milking.</description>
+    </item>
+    <item>
+      <headword id="d0e1938">adhasdar</headword>
+      <description>halter. [NOTES: slip not found.]</description>
+    </item>
+    <item>
+      <headword id="d0e1947">clog ( clok)</headword>
+      <description>[pron.] weight tied to an animal. [NOTES: the slip gives pronunciation – [kɫɔk].]</description>
+    </item>
+    <item>
+      <headword id="d0e1956">luairchgean</headword>
+      <description>calfskin stuffed. [SLIP: Stuffed calfskin – so called because was stuffed with rushes, straw being too valuable.]</description>
+    </item>
+    <item><headword id="d0e1964" type="heading" level="h1">10. Diseases</headword></item>
+    <item>
+      <headword id="d0e1969">an sgoor</headword>
+      <description>[pron.] diarrhoea. [NOTES: ‘animals’ added in second hand (most probably the fieldworker). Slipped under ‘sgùr’ with ‘an sgùr’ as the quotation. Definition: Diarrhoea in animals.]</description>
+    </item>
+    <item>
+      <headword id="d0e1978">an ruaidh</headword>
+      <description>hard udder at calving (mastitis). [NOTES: slipped under ‘ruaidh’ with ‘an ruaidh’ as the quotation.]</description>
+    </item>
+    <item>
+      <headword id="d0e1987">partain</headword>
+      <description>ticks. [NOTES: slipped under ‘partan’ with ‘pl. partain’ as the quotation.]</description>
+    </item>
+    <item>
+      <headword id="d0e1996">clòimh (</headword>
+      <description>[pron.] cloy) [kɫ[ɔ̃i]] itch. [NOTES: the following added in second hand (most probably the fieldworker) – (partic. sheep scab; also ‘Bheil clòimh ort?’) – funny [?].] [NOTES: phonetic transcription added most probably by the fieldworker.] [SLIP: Itch – particularly of sheep but used jokingly for humans (as above [i.e. in the quotation]).]</description>
+    </item>
+    <item><headword id="d0e2004" type="heading" level="h1">11. Miscellaneous</headword><description>[misnumbered as 12] </description></item>
+    <item>
+      <headword id="d0e2009">pruidh (</headword>
+      <description>[pron.] prooee) [prui] call to cow. [NOTES: phonetic transcription added most probably by the fieldworker. The slip has [pruˈi].]</description>
+    </item>
+    <item>
+      <headword id="d0e2018">pruidh-eidh ( prooee-ay)</headword>
+      <description>[pron.] call to calf. [NOTES: the slip gives the pronunciation: [pruiˈɛ̜:].]</description>
+    </item>
+    <item>
+      <headword id="d0e2027">buachar ( booachar)</headword>
+      <description>[pron.] cow dung.</description>
+    </item>
+	<item>
+	  <headword id="idola85">[note]</headword>
+	  <description>[NOTES: items below in second hand.]</description>
+	</item>
+    <item>
+      <headword id="d0e2045">[tʹu̜k, tʹu̜k]</headword>
+      <description>[call to] hens.</description>
+    </item>
+    <item>
+      <headword id="d0e2054">[prɔkʹ]</headword>
+      <description>[call to a] horse (to come to you). [NOTES: the slip has [prɔˈki].]</description>
+    </item>
+    <item>
+      <headword id="d0e2063">[hup] and</headword>
+      <description>[vai:n] [calls to horse used when] ploughing, to go one way (furrow) and then the other (rig). Not know which. [NOTES: slipped under [v[ai]:n]. Definition: one of the calls (the other being [həp]) to a horse when ploughing, to tell it to go to furrow or rig. Not known which is which.]</description>
+    </item>
+    <item>
+      <headword id="d0e2072">[wit]</headword>
+      <description>[call to a] duck.</description>
+    </item>
+  </items>
+</fieldworkDocument>

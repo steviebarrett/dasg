@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 23/10/15 -->
+<!-- illustrations -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_PortnaconJandNMorrisonslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>09/1969</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <informant>
+    <nameEnglish>James and Norman Morrison</nameEnglish>
+  </informant>
+  <location>Sutherland, Durness, Laide, Portnacon</location>
+  <items>
+    <item>
+      <headword id="idp117295240">leóbag</headword>
+    <description>[lʹobɑɡ] </description></item>
+    <item>
+      <headword id="idp117292072">lug</headword>
+      <description>[ɫu̜ɡ] Notes: lugworm.</description>
+    </item>
+    <item>
+      <headword id="idp117288472">mal</headword>
+      <description>[mɑ̃ɫ] Notes: shingle or shingly beach.</description>
+    </item>
+    <item>
+      <headword id="idp117309640">mealc</headword>
+      <description>[mjɑ̃ɫk] Notes: milt.</description>
+    </item>
+    <item>
+      <headword id="idp117311368">rùbhag</headword>
+      <description>Notes: crab.</description>
+    </item>
+    <item>
+      <headword id="idp117312880">tràigh</headword>
+      <description>Quotation: cat-tràghad [kɑt̪ɾɑ:ɣəd̪]. Notes: sea-urchin.</description>
+    </item>
+    <item>
+      <headword id="idp117314752">iteag</headword>
+      <description>Quotation: air an iteag. Notes: flying.</description>
+    </item>
+    <item>
+      <headword id="idp117316408">iuchair</headword>
+      <description>Notes: herring roe.</description>
+    </item>
+    <item>
+      <headword id="idp117317920">nasg</headword>
+      <description>Notes: rope round a cow’s neck in stall.</description>
+    </item>
+    <item>
+      <headword id="idp117319432">nios</headword>
+      <description>[nʹĩs] Notes: weasel.</description>
+    </item>
+    <item>
+      <headword id="idp117321160">sgabhdail</headword>
+      <description>[sɡɤu̜d̪əl] Notes: jellyfish.</description>
+    </item>
+    <item>
+      <headword id="idp117322888">sgarbh</headword>
+      <description>[sɡɑɾ[ɑu̜]] Notes: cormorant.</description>
+    </item>
+    <item>
+      <headword id="idp117325048">slat-mhara</headword>
+      <description>Notes: tangle. <illustration src="PortnaconJandNMorrisonslipsillust1.jpg" width="300"/></description>
+    </item>
+    <item>
+      <headword id="idp117326560">slige-chreachain</headword>
+      <description>[ʃlʹiɡʹxɾɑxɑ̃nʹ] Notes: clam.</description>
+    </item>
+    <item>
+      <headword id="idp117328288">slisdean</headword>
+      <description>[ʃlʹiʃdʹɑṉ] Notes: the shaft of the “caibe-làir”.</description>
+    </item>
+    <item>
+      <headword id="idp117330016">smallag</headword>
+      <description>Quotation: 1. cudaig 2. smallag (herring size) 3. glasag (small haddock size) 4. glasag dubh or [u̟kʃ] (fully grown).</description>
+    </item>
+    <item>
+      <headword id="idp117331816">sporaidh</headword>
+      <description>[spɔɾi] Notes: sparrow.</description>
+    </item>
+    <item>
+      <headword id="idp117333544">stìleachan</headword>
+      <description>[ʃtʹi:lɑxɑ̃ṉ] Notes: a small octopus.</description>
+    </item>
+    <item>
+      <headword id="idp117335272">tarmachan</headword>
+      <description>[t̪ɑɾɑmɑxɑṉ] Notes: ptarmigan.</description>
+    </item>
+    <item>
+      <headword id="idp117337000">ucsa</headword>
+      <description>[u̟kʃ] Quotation: cudaig; smallag (herring size); glasag (young haddock size); glasag dubh or [u̟kʃ].</description>
+    </item>
+    <item>
+      <headword id="idp117339016">adha</headword>
+      <description>[ɑə] Notes: liver.</description>
+    </item>
+    <item>
+      <headword id="idp117340744">adhragag</headword>
+      <description>[ɤɾəɡɑɡ] Notes: lapwing.</description>
+    </item>
+    <item>
+      <headword id="idp117342472">arspag</headword>
+      <description>[ɑʴspɑɡ] Notes: black-backed gull. [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+    <item>
+      <headword id="idp117344344">bàirneach</headword>
+      <description>Notes: limpet.</description>
+    </item>
+    <item>
+      <headword id="idp117345856">bliong</headword>
+      <description>[blw̃ŋɡ] Notes: lythe.</description>
+    </item>
+    <item>
+      <headword id="idp117347584">briseadh</headword>
+      <description>Quotation: briseadh na fàir’. Notes: daybreak.</description>
+    </item>
+    <item>
+      <headword id="idp117349240">bròg</headword>
+      <description>Notes: cod roe.</description>
+    </item>
+    <item>
+      <headword id="idp117350752">biorach</headword>
+      <description>Notes: spiked muzzle put on a calf.</description>
+    </item>
+    <item>
+      <headword id="idp117352264">cailleach-oidhche</headword>
+    </item>
+    <item>
+      <headword id="idp117353776">cat-tràghad</headword>
+      <description>[kɑt̪ɾɑ:ɣəd̪] Notes: sea-urchin.</description>
+    </item>
+    <item>
+      <headword id="idp117355504">ceanna-phollag</headword>
+      <description>Notes: tadpole.</description>
+    </item>
+    <item>
+      <headword id="idp117357016">cearc</headword>
+      <description>Quotation: a’ chearc mhór. Notes: The Great Northern Diver. [NOTES: slipped under ‘cearc-mhór’.]</description>
+    </item>
+    <item>
+      <headword id="idp117358816">cìlig</headword>
+      <description>[ci:lʹiɡʹ] Notes: cod.</description>
+    </item>
+    <item>
+      <headword id="idp115769072">coilleag</headword>
+      <description>[kɤlʹɑɡ] Notes: cockle.</description>
+    </item>
+    <item>
+      <headword id="idp115767056">corra-chritheach</headword>
+      <description>[kɔrəˈxɾiɑx] Notes: the heron.</description>
+    </item>
+    <item>
+      <headword id="idp115759784">crasgan</headword>
+      <description>Notes: (1) starfish. (2) handle of a rutting spade.</description>
+    </item>
+    <item>
+      <headword id="idp115758560">crùdan</headword>
+      <description>[kɾu̟:d̪ɑṉ] Notes: gurnard.</description>
+    </item>
+    <item>
+      <headword id="idp115755464">cù-dubh</headword>
+      <description>Notes: otter.</description>
+    </item>
+    <item>
+      <headword id="idp115777856">cudaig</headword>
+      <description>Quotation: (1) cudaig. (2) smallag (herring size). (3) glasag (small haddock size). (4) glasag dubh or [u̟kʃ] (fully grown).</description>
+    </item>
+    <item>
+      <headword id="idp115778936">dàir</headword>
+      <description>Quotation: Tha a bhó fo dhàir.</description>
+    </item>
+    <item>
+      <headword id="idp115780088">dealan</headword>
+      <description>Notes: wooden pin put through loop when securing cattle in stall. <illustration src="PortnaconJandNMorrisonslipsillust2.jpg" width="250"/></description>
+    </item>
+    <item>
+      <headword id="idp115782320">diubhar</headword>
+      <description>[dʹu̜əɾ] Notes: difference.</description>
+    </item>
+    <item>
+      <headword id="idp115783472">dollag</headword>
+      <description>[d̪oɫɑɡ] Notes: the black dogfish.</description>
+    </item>
+    <item>
+      <headword id="idp115784624">easgainn</headword>
+      <description>[ɛsɡĩnʹ] Notes: eel.</description>
+    </item>
+    <item>
+      <headword id="idp115787432">fàire</headword>
+      <description>Quotation: Briseadh na fàir’. Notes: daybreak.</description>
+    </item>
+    <item>
+      <headword id="idp115788800">feusgan</headword>
+      <description>[fe:sɡɑn] Notes: mussel.</description>
+    </item>
+    <item>
+      <headword id="idp115790960">fitheach</headword>
+      <description>Notes: raven.</description>
+    </item>
+    <item>
+      <headword id="idp115791752">fo</headword>
+      <description>Quotation: Tha a’ bhó fo dhàir.</description>
+    </item>
+    <item>
+      <headword id="idp115792400">gairbhean</headword>
+      <description>[ɡɑɾɑvɑṉ] Notes: gills of a fish.</description>
+    </item>
+    <item>
+      <headword id="idp115794560">glasag</headword>
+      <description>Quotation: (1) cudaig. (2) smallag (herring size). (3) glasag (small haddock size). (4) glasag dubh or [u̟kʃ] (fully grown).</description>
+    </item>
+    <item>
+      <headword id="idp115797368">gocaman</headword>
+      <description>Quotation: gocaman na cuthaig.</description>
+    </item>
+    <item>
+      <headword id="idp115797800">guilbearnach</headword>
+      <description>[ɡu̟lu̟bɑɾṉɑx] Notes: curlew.</description>
+    </item>
+  </items>
+</fieldworkDocument>

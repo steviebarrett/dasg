@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 1 8 14 -->
+<fieldworkDocument docId="AOHenley_SouthUistDJMacVicaretalmisc" docType="wordlist" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>1987-88</date>
+  <informant>
+    <nameEnglish>D. J. MacVicar</nameEnglish>
+    <origin>Glasgow/South Uist?</origin>
+  </informant>
+  <informant>
+    <nameEnglish>John O’Henley</nameEnglish>
+    <origin>South Uist, Kildonan</origin>
+  </informant>
+  <informant>
+    <nameEnglish>R. O’Henley</nameEnglish>
+    <origin>South Uist, Garrynamonie</origin>
+  </informant>
+  <informant>
+    <nameEnglish>A. O’Henley</nameEnglish>
+    <origin>South Uist</origin>
+  </informant>
+  <informant>
+    <nameEnglish>K. C. MacKinnon</nameEnglish>
+    <origin>Skye, Bernisdale</origin>
+  </informant>
+  <location>South Uist</location>
+  <items>
+    <item>
+      <headword id="idp116007512">traon</headword>
+      <description>corncrake.</description>
+    </item>
+    <item>
+      <headword id="idp116005280">naosg</headword>
+      <description>snipe.</description>
+    </item>
+    <item>
+      <headword id="idp116003768">feannag</headword>
+      <description>hooded crow.</description>
+    </item>
+    <item>
+      <headword id="idp116002256">deoch bhuidhe</headword>
+      <description>greenshank.</description>
+    </item>
+    <item>
+      <headword id="idp116001032">clamhan</headword>
+      <description>buzzard.</description>
+    </item>
+    <item>
+      <headword id="idp115999520">cearc uisge</headword>
+      <description>moorhen.</description>
+    </item>
+    <item>
+      <headword id="idp115976768">cuthag</headword>
+      <description>cuckoo.</description>
+    </item>
+    <item>
+      <headword id="idp115979216">liath thruisg</headword>
+      <description>fieldfare.</description>
+    </item>
+    <item>
+      <headword id="idp115982456">sgiath dhearg</headword>
+      <description>redwing.</description>
+    </item>
+    <item>
+      <headword id="idp115987064">gealag bhuachair</headword>
+      <description>corn bunting.</description>
+    </item>
+    <item>
+      <headword id="idp115990448">iolaire</headword>
+      <description>golden eagle.</description>
+    </item>
+    <item>
+      <headword id="idp115993184">gobhlachan</headword>
+      <description>great crested grebe.</description>
+    </item>
+    <item>
+      <headword id="idp115996280">muir bhuachaill</headword>
+      <description>great northern diver.</description>
+    </item>
+    <item>
+      <headword id="idp112477680">buna-bhuachaille</headword>
+      <description>great northern diver.</description>
+    </item>
+    <item>
+      <headword id="idp112529736">gealan an t-sneachda</headword>
+      <description>snow bunting.</description>
+    </item>
+    <item>
+      <headword id="idp112479984">amadan mòintich</headword>
+      <description>dotterel.</description>
+    </item>
+    <item>
+      <headword id="idp112490928">gealan beinne</headword>
+      <description>twite.</description>
+    </item>
+    <item>
+      <headword id="idp116351536">iolaire iasgaich</headword>
+      <description>osprey.</description>
+    </item>
+    <item>
+      <headword id="idp116353048">pàraig</headword>
+      <description>storm petrel.</description>
+    </item>
+    <item>
+      <headword id="idp116354560">gearr breac</headword>
+      <description>black guillemot.</description>
+    </item>
+    <item>
+      <headword id="idp116356072">calman creige</headword>
+      <description>rock dove.</description>
+    </item>
+    <item>
+      <headword id="idp116357584">geadh blàr</headword>
+      <description>white fronted goose.</description>
+    </item>
+    <item>
+      <headword id="idp116359096">breid air tòin</headword>
+      <description>hen harrier.</description>
+    </item>
+    <item>
+      <headword id="idp116360608">seabhag</headword>
+      <description>peregrine falcon.</description>
+    </item>
+    <item>
+      <headword id="idp116362120">meirneal</headword>
+      <description>merlin.</description>
+    </item>
+    <item>
+      <headword id="idp116363632">clamhan ruadh</headword>
+      <description>kestrel.</description>
+    </item>
+    <item>
+      <headword id="idp116365144">coileach fraoich</headword>
+      <description>red grouse.</description>
+    </item>
+    <item>
+      <headword id="idp116366656">feadag</headword>
+      <description>golden plover.</description>
+    </item>
+    <item>
+      <headword id="idp116368168">guilbneach</headword>
+      <description>curlew.</description>
+    </item>
+    <item>
+      <headword id="idp116369680">comhachag chluasach</headword>
+      <description>short eared owl.</description>
+    </item>
+    <item>
+      <headword id="idp116371192">sgraicheag oidhche</headword>
+      <description>nightjar.</description>
+    </item>
+    <item>
+      <headword id="idp116372704">uiseag</headword>
+      <description>skylark.</description>
+    </item>
+    <item>
+      <headword id="idp116374216">fitheach</headword>
+      <description>raven.</description>
+    </item>
+    <item>
+      <headword id="idp116375728">cathag dhearg chasach</headword>
+      <description>chough.</description>
+    </item>
+    <item>
+      <headword id="idp116378104">dubh chreige</headword>
+      <description>ring ouzel.</description>
+    </item>
+    <item>
+      <headword id="idp116379616">brù gheal</headword>
+      <description>wheatear.</description>
+    </item>
+    <item>
+      <headword id="idp116381128">clacharan</headword>
+      <description>stonechat.</description>
+    </item>
+    <item>
+      <headword id="idp116382640">gocan</headword>
+      <description>whinchat.</description>
+    </item>
+    <item>
+      <headword id="idp116384152">snàthag</headword>
+      <description>meadow pipit.</description>
+    </item>
+    <item>
+      <headword id="idp116385664">gealan lìn</headword>
+      <description>linnet.</description>
+    </item>
+    <item>
+      <headword id="idp116387176">buidheag bhealaidh</headword>
+      <description>yellow hammer.</description>
+    </item>
+    <item>
+      <headword id="idp116388688">cù stubach</headword>
+      <description>a dog without a tail.</description>
+    </item>
+    <item>
+      <headword id="idp116390200">snòthdachadh</headword>
+      <description>sniffing at something with your nose touching the commodity, e.g. a cow sniffing at water.</description>
+    </item>
+    <item>
+      <headword id="idp116391712">ruisidhean</headword>
+      <description>in the sense of giving someone a telling off. “Thug mi ruisidhean air.” Also in the sense of gathering loose peats. “Chaidh mi mach dhan bheinn ’s thug mi ruisidhean air na caorain a chruinneachadh.”</description>
+    </item>
+    <item>
+      <headword id="idp116394520">sgolladh</headword>
+      <description>also means to lambast or to give someone a telling off.</description>
+    </item>
+    <item>
+      <headword id="idp116396032">trusadh</headword>
+      <description>also means to lambast or to give someone a telling off.</description>
+    </item>
+    <item>
+      <headword id="idp116397544">casg breith</headword>
+      <description>abortion.</description>
+    </item>
+    <item>
+      <headword id="idp116399056">casg gin</headword>
+      <description>contraception.</description>
+    </item>
+    <item>
+      <headword id="idp116400568">fanaladh</headword>
+      <description>more or less resting on your oars with the boat hardly moving.</description>
+    </item>
+    <item>
+      <headword id="idp116402152">spidein</headword>
+      <description>skimming stones across a stretch of water. Others call this ‘struitairachd’.</description>
+    </item>
+    <item>
+      <headword id="idp116403664">spoth an tairbh</headword>
+      <description>skimming stones across a stretch of water. Others call this ‘struitairachd’.</description>
+    </item>
+    <item>
+      <headword id="idp116405176">piochan</headword>
+      <description>wheezing sound in your chest. “Bha piochan nam uchd.”</description>
+    </item>
+    <item>
+      <headword id="idp116406832">beithir</headword>
+      <description>fork lightning, combined with rain. Could this be used also of an electric shower?</description>
+    </item>
+    <item>
+      <headword id="idp116408344">eun crom</headword>
+      <description>fulmar.</description>
+    </item>
+    <item>
+      <headword id="idp116409856">fachadh bàn</headword>
+      <description>Manx shearwater.</description>
+    </item>
+    <item>
+      <headword id="idp116412232">sulaire</headword>
+      <description>gannet. Also called ‘eun bàn a’ sgadain’.</description>
+    </item>
+    <item>
+      <headword id="idp116413744">[eun bàn a’ sgadain]</headword>
+      <description>[See sulaire.]</description>
+    </item>
+    <item>
+      <headword id="idp116415256">sgarbh an sgumbain</headword>
+      <description>shag.</description>
+    </item>
+    <item>
+      <headword id="idp117530968">cra gheadh</headword>
+      <description>sheldrake.</description>
+    </item>
+    <item>
+      <headword id="idp117532480">craidhainn</headword>
+      <description>sheldrake.</description>
+    </item>
+    <item>
+      <headword id="idp117533992">gille Brìghde</headword>
+      <description>oystercatcher.</description>
+    </item>
+    <item>
+      <headword id="idp117535504">trìlleachan</headword>
+      <description>oystercatcher.</description>
+    </item>
+    <item>
+      <headword id="idp117537016">trìlleachan traghad</headword>
+      <description>ringed plover.</description>
+    </item>
+    <item>
+      <headword id="idp117538528">gobhlachan</headword>
+      <description>turnstone.</description>
+    </item>
+    <item>
+      <headword id="idp117540040">cam ghlas</headword>
+      <description>redshank.</description>
+    </item>
+    <item>
+      <headword id="idp117541552">gràillig</headword>
+      <description>dunlin.</description>
+    </item>
+    <item>
+      <headword id="idp117543064">farspag</headword>
+      <description>black backed gull.</description>
+    </item>
+    <item>
+      <headword id="idp117544576">faoileag an sgadain</headword>
+      <description>herring gull.</description>
+    </item>
+    <item>
+      <headword id="idp117546088">ruideag</headword>
+      <description>kittiwake.</description>
+    </item>
+    <item>
+      <headword id="idp117547600">steàrnag</headword>
+      <description>common tern.</description>
+    </item>
+    <item>
+      <headword id="idp117549112">falc</headword>
+      <description>razorbill.</description>
+    </item>
+    <item>
+      <headword id="idp117550624">eun dubh an sgadain</headword>
+      <description>guillemot.</description>
+    </item>
+    <item>
+      <headword id="idp117553000">buthaid</headword>
+      <description>puffin. Also called ‘peata ruadh’.</description>
+    </item>
+    <item>
+      <headword id="idp117554512">[peata ruadh]</headword>
+      <description>[See buthaid.]</description>
+    </item>
+    <item>
+      <headword id="idp117556888">a’ chùbaich</headword>
+      <description>diarrhoea, excessive looseness of the bowels. (Word supplied by Mr K. C. MacKinnon, Bernisdale, Isle of Skye.)</description>
+    </item>
+    <item>
+      <headword id="idp117558400">duine non</headword>
+      <description>applied to an extremely competent and pleasant man. (Word supplied by Mr K. C. MacKinnon, Bernisdale, Isle of Skye.)</description>
+    </item>
+    </items>
+</fieldworkDocument>
+

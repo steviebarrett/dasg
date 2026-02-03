@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 23 4 14 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="HarrisVarious_HarrisHorgabostDMacDonaldmisc" docType="wordlist" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <fieldworker>[anonymous D]</fieldworker>
+  <informant>
+    <nameEnglish>Donald MacDonald</nameEnglish>
+    <age>62</age>
+  </informant>
+  <location>Harris, Horgabost</location>
+  <items>
+    <item>
+      <headword id="d0e27">a’ platraich</headword>
+      <description>sound of trout jumping in the water.</description>
+    </item>
+    <item>
+      <headword id="d0e36">reuleich</headword>
+      <description>forked branch.</description>
+    </item>
+    <item>
+      <headword id="d0e45">a’ cliathadh (v)</headword>
+      <description>shoal of herring – sgadan a cliathadh.</description>
+    </item>
+    <item>
+      <headword id="d0e54">cliath (n)</headword>
+      <description>[See a’ cliathadh].</description>
+    </item>
+    <item>
+      <headword id="d0e63">cliabh a sgadain</headword>
+      <description>mineach a sgadain.</description>
+    </item>
+    <item>
+      <headword id="d0e72">coille bianan</headword>
+      <description>phosphorescence.</description>
+    </item>
+    <item>
+      <headword id="d0e81">slòcan</headword>
+      <description>green slime on rocks.</description>
+    </item>
+    <item>
+      <headword id="d0e90">a tighinn aig roid</headword>
+      <description>sulaire: diving.</description>
+    </item>
+    <item>
+      <headword id="d0e99">a tiabairt</headword>
+      <description>circling [?], [?].</description>
+    </item>
+    <item>
+      <headword id="d0e108">sluitraigan</headword>
+      <description>flat stone used for skimming across surface of water.</description>
+    </item>
+    <item>
+      <headword id="d0e117">a sluitrich</headword>
+      <description>skimming stones.</description>
+    </item>
+    <item>
+      <headword id="d0e126">lì</headword>
+      <description>oil of herring on surface of cooking water.</description>
+    </item>
+    <item>
+      <headword id="d0e135">eunlaith</headword>
+      <description>cluster of feeding birds.</description>
+    </item>
+    <item>
+      <headword id="d0e144">bulgeanan</headword>
+      <description>bubbles in water.</description>
+    </item>
+    <item>
+      <headword id="d0e153">gribeach</headword>
+      <description>feeling when fish is there.</description>
+    </item>
+    <item>
+      <headword id="d0e162">[deargadh]</headword>
+      <description>“Cha d’fhuair iad deargadh.” – Cha d’fhuair iad càil.</description>
+    </item>
+    <item>
+      <headword id="d0e171">a’ deargadh</headword>
+      <description>a toirt pìos as.</description>
+    </item>
+    <item>
+      <headword id="d0e180">trì-bhileach</headword>
+      <description>bog bean; plant used to make infusion to cure stomach complaints also psoriasis.</description>
+    </item>
+    <item>
+      <headword id="d0e189">buadhallan</headword>
+      <description>ragwort.</description>
+    </item>
+    <item>
+      <headword id="d0e198">dubhchasach</headword>
+      <description>used as purple dye.</description>
+    </item>
+    <item>
+      <headword id="d0e207">coinneas</headword>
+      <description>gorse.</description>
+    </item>
+    <item>
+      <headword id="d0e216">bainne slamain</headword>
+      <description>rennet; old practice of keeping milk in the stomach of a calf which was hung up and opened whenever the milk was needed to make cheese.</description>
+    </item>
+    <item><headword id="d0e224" type="heading" level="h1">Caoraich</headword></item>
+    <item>
+      <headword id="d0e229">oaisg</headword>
+      <description>6 months – 1 year old lamb.</description>
+    </item>
+    <item>
+      <headword id="d0e238">irisg</headword>
+      <description>oasg le uan.</description>
+    </item>
+    <item>
+      <headword id="d0e247">athaisg</headword>
+      <description>2 year old with first lamb. (Bays)</description>
+    </item>
+    <item>
+      <headword id="d0e256">dianag</headword>
+      <description>2 year old with 2nd lamb. (Pabbay and west side)</description>
+    </item>
+    <item>
+      <headword id="d0e265">rimhinn chrò</headword>
+      <description>sheep without lamb for four years; the best conditioned of the flock. (Bays)</description>
+    </item>
+    <item>
+      <headword id="d0e274">glubad</headword>
+      <description>fluke.</description>
+    </item>
+    <item>
+      <headword id="d0e283">spòg dhubh</headword>
+      <description>blackleg.</description>
+    </item>
+    <item>
+      <headword id="d0e292">greighar</headword>
+      <description>scabs [?] on ear.</description>
+    </item>
+    <item>
+      <headword id="d0e301">a chrith</headword>
+      <description>trembling caused by tic[k].</description>
+    </item>
+    <item>
+      <headword id="d0e310">doille</headword>
+      <description>heather blindness.</description>
+    </item>
+    <item>
+      <headword id="d0e319">gartan</headword>
+      <description>tic[k].</description>
+    </item>
+    <item>
+      <headword id="d0e328">fiabhras bhainne</headword>
+      <description>milk fever.</description>
+    </item>
+    <item>
+      <headword id="d0e337">teine-biorrach</headword>
+      <description>glow worm. “Cho luath ris an teine bhiorrach.”</description>
+    </item>
+  </items>
+</fieldworkDocument>

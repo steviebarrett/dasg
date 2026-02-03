@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 1/4/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="PersonalFiles_ClachanNMacDonaldpersonalmisc" docType="wordlist" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>12/02/1968</date>
+  <fieldworker>[self]</fieldworker>
+  <informant>
+    <nameEnglish>(Rev.) Norman MacDonald</nameEnglish>
+    <age>[63]</age>
+    <origin>[Skye]</origin>
+  </informant>
+  <location>North Uist, Clachan</location>
+  <items>
+    <item>
+	  <headword id="idola811">[note]</headword>
+      <description>“(…) I enclose 20 rare Hebridean Gaelic words with their meanings.”</description>
+    </item>
+	<item>
+      <headword id="idp117018552">borisgeach</headword>
+      <description>(Uist) A man who is unable to conceal a thing. Duine nach urrain sìon a chleith.</description>
+    </item>
+    <item>
+      <headword id="idp117021936">borisgeal</headword>
+      <description>[See borisgeach.]</description>
+    </item>
+    <item>
+      <headword id="idp117024816">ceann-gropaig</headword>
+      <description>A kind of pudding made of fish liver and oatmeal, cooked inside a large cod’s head.</description>
+    </item>
+    <item>
+      <headword id="idp117005808">cròideag</headword>
+      <description>(Uist) An toll anns a’ chloich-bhrà (an tè uachdrach).</description>
+    </item>
+    <item>
+      <headword id="idp117004080">cròdi</headword>
+      <description>(Uist) An duine bha ri bleith.</description>
+    </item>
+    <item>
+      <headword id="idp117002568">croiseadh</headword>
+      <description>(Staffin, Skye) Taboo. Air a chroiseadh, anything put under taboo.</description>
+    </item>
+    <item>
+      <headword id="idp117000048">dànas</headword>
+      <description>(Uist) Gaiety, sportfulness. Nach ann ort a ta’n [sic] dànas.</description>
+    </item>
+    <item>
+      <headword id="idp116998680">dìch</headword>
+      <description>(Uist) Crodh. An tàinig an dìch? Have the cows come home?</description>
+    </item>
+    <item>
+      <headword id="idp116997600">doite</headword>
+      <description>(Harris) Bare, without covering of any kind.</description>
+    </item>
+    <item>
+      <headword id="idp116996088">fàl</headword>
+      <description>(Skye) Ainm eile airson feusag an rathaid-mhóir, fàl an rathaid. The soft, turf edge or border of a highway.</description>
+    </item>
+    <item>
+      <headword id="idp116994000">fìd</headword>
+      <description>(Skye) Cold nip in the air. Tha fìd anns a’ ghaoith. Tha e fìdach [sic], fuar.</description>
+    </item>
+    <item>
+      <headword id="idp116992632">fìleadh</headword>
+      <description>(Staffin, Skye) Airy, sprightly, flighty. Nach ann innte tha fìleadh.</description>
+    </item>
+    <item>
+      <headword id="idp116991264">gàth</headword>
+      <description>(Staffin, Skye) Close to, adjacent. Gàth ris an fhàrdaich.</description>
+    </item>
+    <item>
+      <headword id="idp116989176">gnòmhan</headword>
+      <description>(Staffin, Skye) In Skye this word has the extra meaning of humming, gnòmhan òrain.</description>
+    </item>
+    <item>
+      <headword id="idp116987664">goirsg</headword>
+      <description>Duine nach eil uileadh ann.</description>
+    </item>
+    <item>
+      <headword id="idp116986152">puingeadh</headword>
+      <description>(Staffin, Skye) The degree of cold which causes numbness. Such cold as leaves hands, feet, etc. numb. Tha puingeadh fuachd ann.</description>
+    </item>
+    <item>
+      <headword id="idp116984208">réibean</headword>
+      <description>(Uist) Beard. Dwelly has moustache, but the old Cape Breton people I knew in the early thirties (whose ancestors emigrated from Sollas) told me the word meant the whole beard, particularly a long beard.</description>
+    </item>
+    <item>
+      <headword id="idp116982696">sgot</headword>
+      <description>(West Skye) Sense. Chan’eil sgot aige. He has no sense.</description>
+    </item>
+    <item>
+      <headword id="idp116981040">sgrogaire</headword>
+      <description>(N. Uist) Referee.</description>
+    </item>
+    <item>
+      <headword id="idp116979528">snaomh</headword>
+      <description>(Staffin, Skye) A large crowd, multitude.</description>
+    </item>
+    <item>
+      <headword id="idp116978016">tiaranach</headword>
+      <description>(Uist) Uan na bliadhna an uiridh agus uan aice féin.</description>
+    </item>
+    <item>
+      <headword id="idp116976504">thailard</headword>
+      <description>(N. Uist) Air thailard, air a shàrachadh gu tur.</description>
+    </item>
+  </items>
+</fieldworkDocument>

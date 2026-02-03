@@ -1,0 +1,87 @@
+#AuthType Basic
+#AuthName "Password Protected Area"
+#AuthUserFile /Users/stephen.barrett/Sites/dasg/.htpass
+#Require valid-user
+
+Options +FollowSymLinks
+RewriteEngine On
+
+#Redirect any www.dasg.ac.uk requests to dasg.ac.uk
+RewriteBase /
+RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
+RewriteRule ^(.*)$ http://%1/$1 [R=301,L]
+
+
+RewriteRule ^([a-z]{2})$ /index.php?lang=$1  [NC,L]
+
+#RewriteRule ^corpus/(.*)$ /corpus_live/dasg_20210409/$1 [NC,L]
+#RewriteRule ^robby/(.*)$ /corpus_live/dasg/$1 [NC,L]
+#RewriteRule ^corpus/('*)$ /index_maint.php  [NC,L]
+
+RewriteRule ^fieldwork/browse$ /fieldwork/browse.php [NC,L]
+RewriteRule ^fieldwork/search /fieldwork/index.php  [NC,L]
+RewriteRule ^fieldwork/search/(.*)$ /fieldwork/index.php?q=$1 [NC,L]
+RewriteRule ^fieldwork/view/(.*)$ /fieldwork/view.php?search=$1  [NC,L]
+RewriteRule ^fieldwork/people/(.*)$ /fieldwork/people.php?id=$1  [NC,L]
+RewriteRule ^about/(.*)/([a-z]{2})$ /page.php?slug=$1&lang=$2  [NC,L]
+RewriteRule ^seanchas/([a-z]{2})$ /seanchas.php?lang=$1  [NC,L]
+
+RewriteRule ^audio/about/([a-z]{3})/([a-z]{2})$ /audio/about.php?archive=$1&lang=$2  [NC,L]
+RewriteRule ^audio/view/([a-z]{1})/([a-z]{3})/([^/]*)$ /audio/view.php?domain=$1&archive=$2&ref=$3  [NC,L]
+RewriteRule ^audio/view/([a-z]{1})/([a-z]{3})/([^/]*)/([^/]*)$ /audio/view.php?archive=$2&ref=$4&searchTerm=$3&domain=$1  [NC,L]
+RewriteRule ^audio/browse/([a-z]{3})$ /audio/index.php?archive=$1  [NC,L]
+RewriteRule ^audio/search/s/([a-z]{3})/([^/]*)$ /audio/search.php?archive=$1&searchTerm=$2  [NC,L]
+RewriteRule ^audio/search/t/([a-z]{3})/([^/]*)$ /audio/trans.php?archive=$1&searchTerm=$2  [NC,L]
+RewriteRule ^audio/trans/([^/]*)/([^/]*)$ /audio/viewtrans.php?q=$1&ref=$2  [NC,L]
+#RewriteRule ^audio/$ /audio/about/crc/en [NC,L]
+#RewriteRule ^audio_$ /audioHolding.php [NC,L]
+
+RewriteRule ^blog/([a-z]{2})$ /blog.php?lang=$1  [NC,L] 
+RewriteRule ^blog/([0-9]*)/([a-z]{2})$ /blog.php?lang=$2&id=$1  [NC,L]
+
+#Gairm
+RewriteRule ^gairm/browse/year/([0-9]*)$ /gairm/index.php?action=browse&yearOfPublication=$1  [NC,L]
+RewriteRule ^gairm/browse/author/(.*)$ /gairm/index.php?action=browse&author=$1  [NC,L]
+RewriteRule ^gairm/browse/volume/(.*)$ /gairm/index.php?action=browse&volume=$1  [NC,L]
+RewriteRule ^gairm/browse /gairm/index.php?action=browse  [NC,L]
+## TEMP for Gairm update test
+RewriteRule ^gairm_new/browse /gairm_new/index.php?action=browse  [NC,L]
+
+#Leabhar Gairm
+RewriteRule ^LeabharGhairm$ /leabharGhairm.php  [NC,L]
+
+RewriteRule ^launch/(.*)$ /launch.php [NC,L]
+
+RewriteRule ^taing$ /taing.php  [NC,L]
+
+#lexicopia and leacag
+RewriteRule ^leacag/$ /leacag/index.php  [NC,L]
+
+#mss
+RewriteRule ^mss$ /mss/Transcribing/corpus.xml  [NC,L]
+
+#MacTalla
+RewriteRule ^Mac-Talla/(.*)$ /gadelica/corpas/Mac-Talla/code/$1  [NC,L]
+
+#Language in Lyrics
+RewriteRule ^LIL_beta/mactalla/([0-9]*)/([0-9]*)/([0-9]*)$ /LIL/mactalla.php?v=$1&i=$2&p=$3 [NC,L]
+RewriteRule ^LIL/mactalla/([0-9]*)/([0-9]*)/([0-9]*)$ /LIL/mactalla.php?v=$1&i=$2&p=$3 [NC,L]
+
+#colbhan
+
+# Don’t rewrite real files/dirs
+RewriteCond %{REQUEST_FILENAME} -f [OR]
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^ - [L]
+
+RewriteCond %{REQUEST_URI} !^/colbhan/index\.php$
+# 2) SPECIFIC: /colbhan/record/list/page/2
+# must come BEFORE the generic /colbhan/{m} rules
+RewriteRule ^colbhan/record/list/page/([0-9]+)/?$ /colbhan/index.php?m=record&a=list&page=$1 [QSA,L]
+
+# 3) GENERIC: /colbhan/{module}
+RewriteCond %{REQUEST_URI} !^/colbhan/index\.php$
+RewriteRule ^colbhan/([^/]+)/?$ /colbhan/index.php?m=$1 [NC,L]
+
+# 4) GENERIC: /colbhan/{module}/{action}/{id?}
+RewriteRule ^colbhan/([^/]+)/([^/]+)/?([0-9]+)?$ /colbhan/index.php?m=$1&a=$2&id=$3 [NC,L]

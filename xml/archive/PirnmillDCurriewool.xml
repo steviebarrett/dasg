@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 13 4 14 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="WoolworkingandFishing_PirnmillDCurriewool" docType="questionnaire" subType="Wool-working" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Obair na Clòimhe / Wool-Working</title>
+  <fieldworker>[self]</fieldworker>
+  <informant>
+    <nameEnglish>Donald Currie</nameEnglish>
+    <age>72</age>
+    <origin>[Arran]</origin>
+  </informant>
+  <location>Arran, Pirnmill</location>
+  <items>
+    <item><headword id="d0e29" type="heading" level="h1">1. Raw wool</headword></item>
+    <item>
+      <headword id="d0e34">oluinn</headword>
+      <description>wool.</description>
+    </item>
+    <item>
+      <headword id="d0e43">lomradh</headword>
+      <description>fleece.</description>
+    </item>
+    <item>
+      <headword id="d0e52">eirigh</headword>
+      <description>wool found next to the skin.</description>
+    </item>
+    <item>
+      <headword id="d0e61">oluinn na marchann</headword>
+      <description>wool from the dead skin.</description>
+    </item>
+    <item>
+      <headword id="d0e70">craiceann</headword>
+      <description>wool of a sheep killed in November.</description>
+    </item>
+    <item>
+      <headword id="d0e79">lomradh</headword>
+      <description>wool shorn off in summer.</description>
+    </item>
+    <item>
+      <headword id="d0e88">toban</headword>
+      <description>a wreath or tuft of wool.</description>
+    </item>
+    <item><headword id="d0e96" type="heading" level="h1">2. Oil or grease put on wool before carding</headword></item>
+    <item>
+      <headword id="d0e101">armadh</headword>
+      <description>oil or grease put on wool for carding.</description>
+    </item>
+    <item><headword id="d0e109" type="heading" level="h1">3. Carding</headword></item>
+    <item>
+      <headword id="d0e114">cardadh</headword>
+      <description>carding.</description>
+    </item>
+    <item>
+      <headword id="d0e123">cìreadh</headword>
+      <description>carding or teasing of wool.</description>
+    </item>
+    <item>
+      <headword id="d0e132">cardan</headword>
+      <description>the combs used [for carding].</description>
+    </item>
+    <item>
+      <headword id="d0e141">ciosain</headword>
+      <description>baskets to hold the wool..</description>
+    </item>
+    <item>
+      <headword id="d0e150">peurda</headword>
+      <description>tuft of wool off the cards.</description>
+    </item>
+    <item>
+      <headword id="d0e159">rolagan</headword>
+      <description>the long roll of wool as it leaves the cards for the spinning.</description>
+    </item>
+    <item><headword id="d0e167" type="heading" level="h1">4. Spinning</headword></item>
+	<item>
+	  <headword id="idola258">[note]</headword>
+	  <description>(Never saw spinning being done.)</description>
+	</item>
+    <item><headword id="d0e180" type="heading" level="h1">5. Parts of the spinning wheel</headword></item>
+	<item>
+	  <headword id="idola259">[note]</headword>
+	  <description>(Knows nothing about the spinning wheel.)</description>
+	</item>
+    <item><headword id="d0e193" type="heading" level="h1">6. Yarn and associated apparatus</headword></item>
+    <item>
+      <headword id="d0e198">ceirsle</headword>
+      <description>ball of yarn.</description>
+    </item>
+    <item>
+      <headword id="d0e207">iarna</headword>
+      <description>hank.</description>
+    </item>
+    <item>
+      <headword id="d0e216">crois-thachrais</headword>
+      <description>reel.</description>
+    </item>
+    <item>
+      <headword id="d0e225">iteachan</headword>
+      <description>bobbin.</description>
+    </item>
+    <item>
+      <headword id="d0e234">iteachan</headword>
+      <description>pirn.</description>
+    </item>
+    <item>
+      <headword id="d0e243">fearsaid na dealgan</headword>
+      <description>spindle.</description>
+    </item>
+    <item>
+      <headword id="d0e252">cuigeal</headword>
+      <description>distaff.</description>
+    </item>
+    <item>
+      <headword id="d0e261">liaghradh</headword>
+      <description>winding reel.</description>
+    </item>
+    <item>
+      <headword id="d0e270">croisearna</headword>
+      <description>device for making hanks of yarn.</description>
+    </item>
+    <item><headword id="d0e278" type="heading" level="h1">7. Dyeing</headword></item>
+    <item>
+      <headword id="d0e283">a dath</headword>
+      <description>dyeing (‘a’ is pronounced ‘e’).</description>
+    </item>
+    <item>
+      <headword id="d0e292">dathadaireachd</headword>
+      <description>the process of dyeing.</description>
+    </item>
+    <item>
+      <headword id="d0e301">crotal</headword>
+      <description>dark brown [dye]. Lichens scraped from rocks give this dye.</description>
+    </item>
+	<item>
+	  <headword id="idola260">[heather]</headword>
+	  <description>Heather gives the well-known heather mixture.</description>
+	</item>
+    <item><headword id="d0e318" type="heading" level="h2">Other substances used for dyeing wool are:</headword></item>
+    <item>
+      <headword id="d0e323">sealbhag</headword>
+      <description>sorrel (the roots were boiled).</description>
+    </item>
+    <item>
+      <headword id="d0e332">copag</headword>
+      <description>docken (the roots were boiled).</description>
+    </item>
+    <item>
+      <headword id="d0e341">sùithe</headword>
+      <description>soot.</description>
+    </item>
+	<item>
+	  <headword id="idola261">[and minerals]</headword>
+	</item>
+	<item>
+	  <headword id="idola262">[chemicals]</headword>
+	  <description>Chemicals are used in dyeing as fixtures or mordants.</description>
+	</item>
+	<item>
+	  <headword id="idola263">[boilers]</headword>
+	  <description>Dyeing is done in large boilers.</description>
+	</item>
+    <item><headword id="d0e373" type="heading" level="h1">8. Washing after dyeing</headword></item>
+    <item>
+      <headword id="d0e378">glanadh</headword>
+      <description>washing after dyeing.</description>
+    </item>
+    <item>
+      <headword id="d0e387">siabann, soda nighe, uisge</headword>
+      <description>agents [used to wash wool after dyeing].</description>
+    </item>
+    <item>
+      <headword id="d0e396">tuba, ballan, pràis-mhor, bascaid</headword>
+      <description>apparatus used [to wash wool after dyeing].</description>
+    </item>
+    <item><headword id="d0e404" type="heading" level="h1">9. Warping</headword></item>
+    <item>
+      <headword id="d0e409">a deilbh</headword>
+      <description>warping.</description>
+    </item>
+	<item>
+	  <headword id="idola264">[note]</headword>
+	  <description>(Parts of the warping frame – not known.)</description>
+	</item>
+    <item><headword id="d0e426" type="heading" level="h1">10. Beaming and tying</headword></item>
+	<item>
+	  <headword id="idola265">[note]</headword>
+	  <description>(Knows nothing about above.)</description>
+	</item>
+    <item><headword id="d0e439" type="heading" level="h1">11. Weaving</headword></item>
+    <item>
+      <headword id="d0e444">figh</headword>
+      <description>weaving.</description>
+    </item>
+    <item>
+      <headword id="d0e453">a fighadh</headword>
+      <description>weaving.</description>
+    </item>
+    <item>
+      <headword id="d0e462">figheadair</headword>
+      <description>a weaver.</description>
+    </item>
+    <item>
+      <headword id="d0e471">an snath-cuire</headword>
+      <description>weft.</description>
+    </item>
+    <item>
+      <headword id="d0e480">an dlùth</headword>
+      <description>warp.</description>
+    </item>
+    <item>
+      <headword id="d0e489">clò na aodach</headword>
+      <description>the cloth.</description>
+    </item>
+    <item>
+      <headword id="d0e498">fuigheag</headword>
+      <description>piece cut off [between two tweeds when the completed tweed is taken off the loom].</description>
+    </item>
+    <item>
+      <headword id="d0e507">inneadh</headword>
+      <description>term used when there is not enough weft.</description>
+    </item>
+    <item><headword id="d0e515" type="heading" level="h1">12. Parts of the weaving loom</headword></item>
+	<item>
+	  <headword id="idola266">[note]</headword>
+	  <description>(Knows nothing about above.)</description>
+	</item>
+    <item><headword id="d0e528" type="heading" level="h1">13. Finishing</headword></item>
+	<item>
+	  <headword id="idola267">[note]</headword>
+	  <description>(Knows nothing about above.)</description>
+	</item>    
+  </items>
+</fieldworkDocument>

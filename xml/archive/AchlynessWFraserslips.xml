@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 5/8/15 -->
+<!-- illustrations -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_AchlynessWFraserslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>10/1969</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <note>[NOTES: in IPA transcriptions, the fieldworker uses [w] for [ɯ].]</note>
+  <informant>
+    <nameEnglish>W. Fraser</nameEnglish>
+  </informant>
+  <location>Achlyness</location>
+  <items>
+    <item>
+      <headword id="idp115449000">làmhaidh</headword>
+      <description>[ɫɑ̃:fi] Notes: hatchet.</description>
+    </item>
+    <item>
+      <headword id="idp115456848">leum-dìreach</headword>
+      <description>Notes: jumping with two feet together.</description>
+    </item>
+    <item>
+      <headword id="idp115453824">lodarna</headword>
+      <description>Quotation: Tha e [ɫɔd̪w̃ṉ]. Notes: cheeky, forward.</description>
+    </item>
+    <item>
+      <headword id="idp115468008">losgadh-bràghaid</headword>
+      <description>[ɫɔsɡu̜bɾɑ:ɣidʹ] Notes: indigestion.</description>
+    </item>
+    <item>
+      <headword id="idp117968944">marbh</headword>
+      <description>Quotation: amaisir marbh. Notes: heavy, sultry weather.</description>
+    </item>
+    <item>
+      <headword id="idp117970600">miabhail</headword>
+      <description>[m[ĩɑ̃]vilʹ] Quotation: Tha ’n cat a’ miabhail. Notes: mewing.</description>
+    </item>
+    <item>
+      <headword id="idp117972904">rèipeach</headword>
+      <description>Notes: untidy.</description>
+    </item>
+    <item>
+      <headword id="idp117974416">reothadh</headword>
+      <description>[rɑu̜] Notes: frost.</description>
+    </item>
+    <item>
+      <headword id="idp117976144">rùm</headword>
+      <description>Quotation: (1) a’ rùm shuas. (2) a’ rùm shios. Notes: (1) sitting room. (2) living room.</description>
+    </item>
+    <item>
+      <headword id="idp117978088">ilimeachd</headword>
+      <description>[wlõmɑxk] [sic] Quotation: ag ilimeachd. Notes: licking.</description>
+    </item>
+    <item>
+      <headword id="idp117980032">iorsmaid</headword>
+      <description>[wʴsmɑ̃dʹ] [sic] Notes: spring balance. [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+    <item>
+      <headword id="idp117981976">pait</headword>
+      <description>Notes: pot.</description>
+    </item>
+    <item>
+      <headword id="idp117983488">seachad</headword>
+      <description>Quotation: Theid mi [ʃɔt̪] ort. Notes: pron. [ʃɔt̪]. [NOTES: slipped under ‘seot’.]</description>
+    </item>
+    <item>
+      <headword id="idp117985792">sgeil</headword>
+      <description>[sɡʹɤl] Notes: tin vessel with a long handle for taking water out of a well. </description>
+    </item>
+    <item>
+      <headword id="idp117987520">sgeilp</headword>
+      <description>[sɡʹɤlp] Notes: shelf.</description>
+    </item>
+    <item>
+      <headword id="idp117989248">sgrios</headword>
+      <description>Quotation: Sgrios bhi ort! Notes: Could be said meaningfully or in fun. “O, sgrios!”: equiv. of “O, dash it!”</description>
+    </item>
+    <item>
+      <headword id="idp117990904">slaod</headword>
+      <description>Notes: trail behind.</description>
+    </item>
+    <item>
+      <headword id="idp117992416">sluig</headword>
+      <description>Notes: swallow.</description>
+    </item>
+    <item>
+      <headword id="idp117993928">sluigeil</headword>
+      <description>[sɫu̜ɡʹɑl] Quotation: a’ sluigeil. Notes: swallowing.</description>
+    </item>
+    <item>
+      <headword id="idp117995800">smioghad</headword>
+      <description>[smw̃ɣəd̪] Notes: chin.</description>
+    </item>
+    <item>
+      <headword id="idp117997528">smugaid</headword>
+      <description>Notes: spit.</description>
+    </item>
+    <item>
+      <headword id="idp117999040">smùsachadh</headword>
+      <description>[smũ̜:sɑxu̜] Notes: sucking.</description>
+    </item>
+    <item>
+      <headword id="idp118000768">snàithean</headword>
+      <description>Notes: piece of thread.</description>
+    </item>
+    <item>
+      <headword id="idp118002280">staidhir</headword>
+      <description>[st̪[ɤı]ɾ] Notes: stair.</description>
+    </item>
+    <item>
+      <headword id="idp118004440">sùidh</headword>
+      <description>[su̜:i] Notes: soot.</description>
+    </item>
+    <item>
+      <headword id="idp118006168">tarraing</headword>
+      <description>[t̪ɔriɡʹ] Notes: pull.</description>
+    </item>
+    <item>
+      <headword id="idp118007896">tigh-bàrraidh</headword>
+      <description>Notes: a thatched house.</description>
+    </item>
+    <item>
+      <headword id="idp118009408">tiugh</headword>
+      <description>Notes: fat; wouldn’t use it of a person.</description>
+    </item>
+    <item>
+      <headword id="idp118010920">ainsig</headword>
+      <description>[ɑ̃ĩʃiɡʹ] Quotation: Bheireadh sibh [ɑ̃ĩʃiɡʹ] air apostle Paul. Notes: Heard her mother say this when exasperated. Possibly “you would make the apostle Paul swear”.</description>
+    </item>
+    <item>
+      <headword id="idp118013080">àradh</headword>
+      <description>[ɑ:ɾu̜] Notes: ladder.</description>
+    </item>
+    <item>
+      <headword id="idp118014808">bradach</headword>
+      <description>Notes: forward, bold.</description>
+    </item>
+    <item>
+      <headword id="idp118016320">bragail</headword>
+      <description>Notes: boastful, bragging.</description>
+    </item>
+    <item>
+      <headword id="idp118017832">breab</headword>
+      <description>Quotation: Bha e a’ breabadh [bɾɛbu̜] a’ shùil. Notes: He was blinking.</description>
+    </item>
+    <item>
+      <headword id="idp118019776">bré-lochan</headword>
+      <description>[bɾe:ɫɔxɑṉ] Notes: an area of boggy ground.</description>
+    </item>
+    <item>
+      <headword id="idp118021504">brùchd</headword>
+      <description>[bɾu:k] Notes: belch. (a’ brùchdail)</description>
+    </item>
+    <item>
+      <headword id="idp118023232">bùirn</headword>
+      <description>Quotation: Tha e a’ bùirn. Notes: Heard this used for “Tha e ’g uisg”.</description>
+    </item>
+    <item>
+      <headword id="idp118024888">cagairean</headword>
+      <description>Quotation: a’ cagairean. Notes: whispering. Also a [kɑɡəɾiçu̜] or [kɑɡəɾɑxk].</description>
+    </item>
+    <item>
+      <headword id="idp118027048">cagairean</headword>
+      <description>Quotation: Bheir mi [kɑɡəɾɑṉ] as do chluais. Notes: I’ll whisper in your ear.</description>
+    </item>
+    <item>
+      <headword id="idp118028992">cìrean</headword>
+      <description>Notes: crest of a cockerel.</description>
+    </item>
+    <item>
+      <headword id="idp118030504">clòisdinn</headword>
+      <description>[kɫɔ:ʃdʹɯ̃ṉ] Quotation: a’ clòisdinn. Tha mi a’ clòisdinn thu. Na chlòisdinn thu mi? Notes: hear.</description>
+    </item>
+    <item>
+      <headword id="idp118032376">clósaid</headword>
+      <description>[kɫo:sɑdʹ] Notes: small bedroom in a house.</description>
+    </item>
+    <item>
+      <headword id="idp118034104">cnàmh</headword>
+      <description>[kɾɑ̃:v] Quotation: a’ cnàmh. Notes: chewing.</description>
+    </item>
+    <item>
+      <headword id="idp118035976">cnocan</headword>
+      <description>[kɾɔ̃kɑ̃ṉ] Notes: a small hillock.</description>
+    </item>
+    <item>
+      <headword id="idp118037704">comhardaich</headword>
+      <description>Notes: barking.</description>
+    </item>
+    <item>
+      <headword id="idp118039216">cuiseag</headword>
+      <description>[kɤʃɑɡ] Notes: single strand of hair.</description>
+    </item>
+    <item>
+      <headword id="idp118040944">eadh</headword>
+      <description>Quotation: Dé an eadh a th’ort? Notes: How tall are you?</description>
+    </item>
+    <item>
+      <headword id="idp118042600">éibhleag</headword>
+      <description>[e:lɑɡ] Notes: ember.</description>
+    </item>
+    <item>
+      <headword id="idp118044328">eubhachd</headword>
+      <description>[e:vɑxk] Quotation: ag eubhachd.</description>
+    </item>
+    <item>
+      <headword id="idp118046056">faireachdainn</headword>
+      <description>Quotation: Tha mi a’ call m’ fhaireachdainn. Notes: I am forgetting myself or I’ve lost track of time.</description>
+    </item>
+    <item>
+      <headword id="idp118047784">gàir</headword>
+      <description>Quotation: Tha an duin’ [ɡɑ:ɾɑxk]. Notes: The man is laughing.</description>
+    </item>
+    <item>
+      <headword id="idp118049656">gaoth</headword>
+      <description>Quotation: Tha mi a’ faighinn gaoth dheth. Notes: smell. Droch ghaoth: a bad smell.</description>
+    </item>
+    <item>
+      <headword id="idp118051312">gloc</headword>
+      <description>[ɡɫɔk] Quotation: Thug e gloc as. Notes: a short, loud laugh.</description>
+    </item>
+    <item>
+      <headword id="idp118053184">glocadaich</headword>
+      <description>Quotation: Bha e [ɡɫɔkəd̪iç]. Notes: chortling loudly.</description>
+    </item>
+    <item>
+      <headword id="idp118055128">glugach</headword>
+      <description>[ɡɫu̜ɡɑx] Notes: not being able to form words distinctly (e.g. a drunk person).</description>
+    </item>
+    <item>
+      <headword id="idp118056856">gob</headword>
+      <description>[ɡɤb] Notes: beak.</description>
+    </item>
+    <item>
+      <headword id="idp118058584">gogadaich</headword>
+      <description>Notes: cackling of hens.</description>
+    </item>
+    <item>
+      <headword id="idp167394008">goil</headword>
+      <description>Quotation: Tha ’m pait [ɡɤlhɤɾiʃ]. Notes: The pot is boiling over.</description>
+    </item>
+    <item>
+      <headword id="idp167392640">goirt</headword>
+      <description>Notes: sour, sore.</description>
+    </item>
+    <item>
+      <headword id="idp167391128">greann</headword>
+      <description>[ɡɾɑ̃ũ̜n̪] Notes: grimace.</description>
+    </item>
+    <item>
+      <headword id="idp167388608">grùbhan</headword>
+      <description>[ɡɾu̜:ɑṉ] Quotation: Tha a’ leanabh a’ grùbhan. Notes: moan, whimper.</description>
+    </item>
+  </items>
+</fieldworkDocument>

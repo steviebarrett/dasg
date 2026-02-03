@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 22 5 14 -->
+<fieldworkDocument docId="AOHenley_BackAMacLeodmisc" docType="wordlist" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>[1987-88]</date>
+  <fieldworker personId="ohenleya">A. O’Henley</fieldworker>
+  <informant>
+    <nameEnglish>Angus MacLeod</nameEnglish>
+  </informant>
+  <location>Lewis, Back</location>
+  <items>
+    <item>
+      <headword id="idp19616">carcair</headword>
+      <description>the surface of a peat bog having been turfed.</description>
+    </item>
+    <item>
+      <headword id="idp21128">cabhal</headword>
+      <description>a fishing net in the shape of a deep bag. Held down by weights in the narrow part of a river.</description>
+    </item>
+    <item>
+      <headword id="idp22640">fideach</headword>
+      <description>low lying land near the shore which is covered by the tide at times. Salt marsh.</description>
+    </item>
+    <item>
+      <headword id="idp24152">glomhar</headword>
+      <description>low lying land which is always wet and never dries.</description>
+    </item>
+    <item>
+      <headword id="idp25664">meachranach</headword>
+      <description>a word used in the context of wood that is prone to cracking.</description>
+    </item>
+    <item>
+      <headword id="idp27248">lighe</headword>
+      <description>a steep decline. Rock is characterised by fertile spots and consequently is quite grassy.</description>
+    </item>
+    <item>
+      <headword id="idp28760">palla</headword>
+      <description>a shelf in a rock.</description>
+    </item>
+    <item>
+      <headword id="idp30272">sàthag</headword>
+      <description>a taunt to embarrass someone.</description>
+    </item>
+    <item>
+      <headword id="idp32648">liabhach</headword>
+      <description>a word used to indicate coldness of weather. “Latha liabhach fuar.”</description>
+    </item>
+    <item>
+      <headword id="idp34304">tabhainneach</headword>
+      <description>oppressive, wearisome. Means the same as ‘sàraichte’. “Tha an t-eallach tabhainneach air sgàth ’s gu bheil an iris ro fhada.”</description>
+    </item>
+    <item>
+      <headword id="idp36032">corr-fhàd</headword>
+      <description>the first peat that is cut at the outside of each row. More rugged that other peats due to the crust being exposed to the elements.</description>
+    </item>
+    <item>
+      <headword id="idp37544">coinnle-pianain</headword>
+      <description>variation on ‘coinnle-blianain’, phosphorescence.</description>
+    </item>
+    <item>
+      <headword id="idp39056">làgaraid</headword>
+      <description>a swift current in a narrow strait or in a sea loch.</description>
+    </item>
+    <item>
+      <headword id="idp40568">smeachan</headword>
+      <description>foot rest on a peat iron.</description>
+    </item>
+    <item>
+      <headword id="idp42080">ruathair</headword>
+      <description>the spreading of a contagious disease.</description>
+    </item>
+    <item>
+      <headword id="idp43592">cambar</headword>
+      <description>a large rock. As applied to one of the rocks near the bottom of Tolsta Point.</description>
+    </item>
+    <item>
+      <headword id="idp45104">innsireachd</headword>
+      <description>tale bearing, e.g. grassing on your mates at school.</description>
+    </item>
+  </items>
+</fieldworkDocument>
+

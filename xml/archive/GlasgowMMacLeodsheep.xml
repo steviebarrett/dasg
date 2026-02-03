@@ -1,0 +1,935 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 1 5 13 -->
+<fieldworkDocument docId="CattleandSheep_GlasgowMMacLeodsheep" docType="questionnaire" subType="Sheep">
+  <title>Caoraich / Sheep</title>
+  <fieldworker>[self]</fieldworker>
+  <informant>
+    <nameEnglish>Murdo MacLeod</nameEnglish>
+    <nameGaelic>Murchadh MacLeòid </nameGaelic>
+    <age>58 5/12</age>
+    <origin>Leòdhas [Lewis], Uig an Iar</origin>
+  </informant>
+  <location>Glaschu [Glasgow]</location>
+  <!-- illustrations -->
+  <items>
+    <item><headword id="d0e34" type="heading" level="h1">1. Different stages in the growth of sheep (female)</headword></item>
+	<item>
+ 	  <headword id="idola65">[note]</headword>
+	  <description>Dwelly (t-d 165.)</description>
+	</item>
+    <item><headword id="d0e47" type="heading" level="h2">[Male and female before weaning:]</headword></item>
+    <item>
+      <headword id="d0e52">uan (s.m. never s.f.)</headword>
+      <description>Dìreach againne mar seo.</description>
+    </item>
+    <item>
+      <headword id="d0e61">uan firionn</headword>
+      <description>male lamb.</description>
+    </item>
+    <item>
+      <headword id="d0e70">uan boireann</headword>
+      <description>female lamb.</description>
+    </item>
+    <item><headword id="d0e78" type="heading" level="h2">[blank]</headword></item>
+    <item>
+      <headword id="d0e83">weaning</headword>
+      <description>Canaidh sinn: “a’ togail nan uan” agus “’g an toirt bho am màthraichean”.</description>
+    </item>
+    <item><headword id="d0e91" type="heading" level="h2">Female after weaning till first shearing:</headword></item>
+    <item>
+      <headword id="d0e96">othaisg</headword>
+      <description>(Chan è ‘òthaisg’ mar a th’aig Dwelly.)</description>
+    </item>
+    <item><headword id="d0e104" type="heading" level="h2">[blank]</headword></item>
+    <item>
+      <headword id="d0e109">ciora</headword>
+      <description>’S ann tha ‘ciora’ againne air peata (caorach).</description>
+    </item>
+    <item>
+      <headword id="d0e118">fiar-othaisg</headword>
+      <description>Chan eil a leithid idir againn.</description>
+    </item>
+    <item>
+      <headword id="d0e127">seot</headword>
+      <description>Chan eil seo idir againn airson othaisge, ach tha e againn mar a chì sibh air t-d 809 (3) ‘Lean beast, … the worst beast’.</description>
+    </item>
+    <item><headword id="d0e135" type="heading" level="h2">[blank]</headword></item>
+    <item>
+      <headword id="d0e140">bliadhnach</headword>
+    </item>
+    <item>
+      <headword id="d0e146">tiaraineach</headword>
+    </item>
+    <item>
+      <headword id="d0e152">othaisg bhoirionn</headword>
+      <description>Tha na trì againn.</description>
+    </item>
+    <item><headword id="d0e160" type="heading" level="h2">[blank]</headword></item>
+    <item>
+      <headword id="d0e165">uan othaisge</headword>
+      <description>Tha e againn. “Uan òisge” mar a chanas sinn e.</description>
+    </item>
+    <item>
+      <headword id="d0e174">tiaraineach</headword>
+      <description>Chuala mi feadhainn ag ràdh gur h-e sia raidheach a bha seo a’ ciallachadh: gur h-ann bho an sin a thàinig e.</description>
+    </item>
+    <item><headword id="d0e182" type="heading" level="h2">After 1st shearing if not put to ram:</headword></item>
+    <item>
+      <headword id="d0e187">tiaraineach</headword>
+    </item>
+    <item>
+      <headword id="d0e193">dionag</headword>
+      <description>Chan eil e againne idir, ach bhiodh e aig na cìobairean.</description>
+    </item>
+    <item><headword id="d0e201" type="heading" level="h2">After 2nd shearing if with lamb:</headword></item>
+    <item>
+      <headword id="d0e206">caora uain</headword>
+      <description>Tha seo againn.</description>
+    </item>
+    <item>
+      <headword id="d0e215">dò-bhliadhnach</headword>
+      <description>Tha seo againn. (‘dò-bhliadhnach’ againne airson ‘dà-bhliadhnach’.)</description>
+    </item>
+    <item><headword id="d0e223" type="heading" level="h2">After 2nd shearing if not with lamb:</headword></item>
+    <item>
+      <headword id="d0e228">caora sheasg</headword>
+      <description>(Chan è ‘caora sheisg’.)</description>
+    </item>
+    <item><headword id="d0e236" type="heading" level="h2">[After 2nd shearing if not put to ram:]</headword></item>
+    <item>
+      <headword id="d0e241">dò-bhliadhnach seasg</headword>
+      <description>(Chan è ‘dà-bhliadhnach’.)</description>
+    </item>
+    <item>
+      <headword id="d0e250">caora-chiatain</headword>
+      <description>(Chan eil e idir againn.)</description>
+    </item>
+    <item><headword id="d0e258" type="heading" level="h2">[After 3rd shearing:]</headword></item>
+    <item>
+      <headword id="d0e263">trì-bhliadhnach</headword>
+      <description>(Tha e againn.)</description>
+    </item>
+    <item>
+      <headword id="d0e272">crogais</headword>
+      <description>Chan eil e idir againn. Ach tha ‘croga’ againn (mar ‘crog’ air t-d 275: ‘aged and effete ewe, sheep past bearing’. (Cho fada agus a tha cuimhne agam, ’se seo an seadh anns am bheil e againn.)</description>
+    </item>
+    <item><headword id="d0e280" type="heading" level="h2">[After 4th shearing:]</headword></item>
+    <item>
+      <headword id="d0e285">crog</headword>
+    </item>
+    <item>
+      <headword id="d0e291">caora sheasg</headword>
+      <description>(Tha seo againn.)</description>
+    </item>
+    <item>
+      <headword id="d0e300">crog</headword>
+      <description>draft gimmer. (Chan eil e againn.)</description>
+    </item>
+    <item><headword id="d0e308" type="heading" level="h2">Male not castrated:</headword></item>
+    <item>
+      <headword id="d0e313">uan reithe</headword>
+      <description>Tha e againn: uan-reith’ (air a fhuaimneachadh mar uan’reith. Gu math faisg air mar a chanadh sibh wan’ray no one’ray anns a’ Bheurla (Tuigidh sibh fhéin.) No faisg air ‘uamhraidh’ aig muinntir tìr-mór, Earra-ghaidheal, Inbhirnis có dhiu.)</description>
+    </item>
+    <item>
+      <headword id="d0e322">reithe, bliadhnach reithe</headword>
+      <description>Tha seo againn. Ach chan eil ‘aona bhliadhnach reithe’. No ‘tiaraineach’, ‘tiarainneach [sic] rùid’. Ach tha ‘tiaraineach’ aca ann an Càrlabhagh, mur a h-eil anns na h-àiteachan eile sìos an shòs sin. Tiaraineach rùid. Chan eil ‘tiaraineach’ againne ach air creutar boirionn.</description>
+    </item>
+    <item>
+      <headword id="d0e331">dà-bhliadhnach reithe</headword>
+      <description>(‘Dò-bhliadhnach’ againne.) Dò-bhliadhnach rùid. Bho théid e seachad air bliadhna ’se ‘rùd’ a th’ againne airson ‘reithe’. Aig na Lochan thall, ’se ‘rùda’ a chanas iad. Agus rud glé arraid, ann an Uig an Iar air fad, cho fada agus a tha lorg agam-sa, ’se ‘rùd’ a th’aca. Ach Bréidhnish, Islibhig agus Mangarstadh, ’se ‘reithe’ a th’ aca. Chan eil fhios agam dé mar a dh’éirich seo.</description>
+    </item>
+    <item>
+      <headword id="d0e340">trì-bhliadhnach reithe, seann reithe (AH.)</headword>
+      <description>(‘Trì bhliadhnach rùid’ againne.)</description>
+    </item>
+    <item>
+      <headword id="d0e349">seann reithe, ceithir bhliadhnach reithe</headword>
+      <description>(‘Ceithir bhliadhnach rùid’ againne.) Is mait gu’n canadh sinn, uaireannan, ‘seann rùd’.</description>
+    </item>
+    <item><headword id="d0e357" type="heading" level="h2">Male castrated:</headword></item>
+    <item>
+      <headword id="d0e362">uan firionn, uan spothta</headword>
+      <description>(‘Uan firionn’ againne.) ‘Othaisg fhirionn’ as deidh sin nuair a bha e a’ fàs na bu shine.</description>
+    </item>
+    <item>
+      <headword id="d0e371">bliadhnach mult</headword>
+      <description>(‘Bliadhnach muilt’ againne.) (Tiaraineach mult, chan eil.) (Cóig raitheach, sia raitheach, chan eil.)</description>
+    </item>
+    <item>
+      <headword id="d0e380">mult – Lorn; dà bhliadhnach mult – Lewis</headword>
+      <description>(‘Dò bhliadhnach muilt’ againne.)</description>
+    </item>
+    <item>
+      <headword id="d0e389">trì bhliadhnach mult – Lewis</headword>
+      <description>(‘Trì bhliadhnach muilt’ againne.)</description>
+    </item>
+    <item>
+      <headword id="d0e398">ceithir bhliadhnach mult – Lewis</headword>
+      <description>(‘Ceithir bhliadhnach muilt’ againne.)</description>
+    </item>
+    <item>
+      <headword id="d0e407">In Lewis after 3rd shearing …</headword>
+    </item>
+    <item>
+      <headword id="d0e413">seann chaora</headword>
+      <description>Tha e againn. ‘Seana chaora’ a chanas sinne.</description>
+    </item>
+    <item>
+      <headword id="d0e422">ceithir bhliadhnach muilt gu seachd no ochd bhliadhnach muilt</headword>
+      <description>Tha seo againn.</description>
+    </item>
+    <item><headword id="d0e430" type="heading" level="h2">Other names:</headword></item>
+    <item>
+      <headword id="d0e435">caora bhainne</headword>
+      <description>chan eil e idir againn.</description>
+    </item>
+    <item>
+      <headword id="d0e444">caora bheannach</headword>
+      <description>chan eil.</description>
+    </item>
+    <item>
+      <headword id="d0e453">caora bhrògach</headword>
+      <description>thà.</description>
+    </item>
+    <item>
+      <headword id="d0e462">caora càraid</headword>
+      <description>thà.</description>
+    </item>
+    <item>
+      <headword id="d0e471">caora cheaslach</headword>
+      <description>chan eil.</description>
+    </item>
+    <item>
+      <headword id="d0e480">caora cheannain</headword>
+      <description>[sic] chan eil</description>
+    </item>
+    <item>
+      <headword id="d0e489">caora chìleach</headword>
+      <description>[sic] chan eil. Ach tha am facal ‘cìleach’ againn ’ga chleachdadh ri crodh: bò chìleach, gamhainn cìleach, ’s mar sin.</description>
+    </item>
+    <item>
+      <headword id="d0e498">caora dhubh</headword>
+      <description>thà.</description>
+    </item>
+    <item>
+      <headword id="d0e507">caora dhubh-cheannach</headword>
+      <description>thà.</description>
+    </item>
+    <item>
+      <headword id="d0e516">caora gheal</headword>
+      <description>chan eil.</description>
+    </item>
+    <item>
+      <headword id="d0e525">caora mhaol</headword>
+      <description>thà.</description>
+    </item>
+    <item>
+      <headword id="d0e534">caora mholach</headword>
+      <description>tha mi smaoineach gu’m biodh seo uaireannan aig na bodaich.</description>
+    </item>
+    <item>
+      <headword id="d0e543">caora Nollaig</headword>
+      <description>aig na bodaich a rithist, uaireannan.</description>
+    </item>
+    <item>
+      <headword id="d0e552">caora reamhar</headword>
+      <description>chan eil, ’na ainm air leth.</description>
+    </item>
+    <item>
+      <headword id="d0e561">caora Shasunnach</headword>
+      <description>chan eil.</description>
+    </item>
+    <item>
+      <headword id="d0e570">caora sheasg</headword>
+      <description>thà.</description>
+    </item>
+    <item>
+      <headword id="d0e579">caora uain</headword>
+      <description>thà.</description>
+    </item>
+    <item>
+      <headword id="d0e588">ciora</headword>
+      <description>pet ewe or hogg, thà.</description>
+    </item>
+    <item>
+      <headword id="d0e597">croga</headword>
+      <description>tha.</description>
+    </item>
+    <item>
+      <headword id="d0e606">deata</headword>
+      <description>chan eil.</description>
+    </item>
+    <item>
+      <headword id="d0e615">dìonag</headword>
+      <description>chan eil.</description>
+    </item>
+    <item>
+      <headword id="d0e624">feirmige</headword>
+      <description>chan eil. Ach uaireannan, mu rùd nach biodh ’na rùd, chanadh iad rudeigin mar ‘feirmige’. ‘Seilmige’, cho fada ’s a tha cuimhne agam-sa a chanadh iad “Seilmige de rùd”.</description>
+    </item>
+    <item>
+      <headword id="d0e633">leth-uan</headword>
+      <description>tha e againn.</description>
+    </item>
+    <item>
+      <headword id="d0e642">reige</headword>
+      <description>tha seo againn.</description>
+    </item>
+    <item>
+      <headword id="d0e651">rige</headword>
+      <description>tha seo againn. Ach cho fada ’s a lorg agam-sa ’s ann airson ‘partly castrated male’ a tha ‘rige’ againn. Againne air fhuaimneachadh mar a chanadh Leòdhasach no a leithid sin, ‘rig’ ann an ‘rig-out’, rig + e, rige.</description>
+    </item>
+    <item>
+      <headword id="d0e660">reithe stùdhach</headword>
+      <description>[sic] chan eil (’na ainm suidhichte, có dhiù.)</description>
+    </item>
+    <item>
+      <headword id="d0e669">rùdan</headword>
+      <description>chan eil. Ach ann an àiteachan ag éigheach air rùd, tha ‘rùidein’ aca. “Trobhad, rùidein, trobhad.” Mar ag éigheach air tarbh: tairbhein. “Trobhad, tairbhein, tairbhein.”</description>
+    </item>
+    <item>
+      <headword id="d0e678">sagart</headword>
+      <description>chan eil e againn idir.</description>
+    </item>
+    <item>
+      <headword id="d0e687">sùgan</headword>
+      <description>pet lamb, chan eil.</description>
+    </item>
+    <item><headword id="d0e695" type="heading" level="h1">2. Different stages in the growth of sheep (male)</headword></item>
+    <item><headword id="d0e699" type="heading" level="h1">3. Different stages in the growth of the castrated male</headword></item>
+    <item><headword id="d0e703" type="heading" level="h1">4. Sheep’s appearance</headword></item>
+    <item>
+      <headword id="d0e708">caora bhreac</headword>
+      <description>speckled or spotted sheep.</description>
+    </item>
+    <item>
+      <headword id="d0e717">caora bhàn</headword>
+      <description>white-faced sheep.</description>
+    </item>
+    <item>
+      <headword id="d0e726">caora bhrògach</headword>
+      <description>black-faced sheep.</description>
+    </item>
+    <item>
+      <headword id="d0e735">caora dhubh-cheannach</headword>
+      <description>black-faced sheep.</description>
+    </item>
+    <item>
+      <headword id="d0e744">caora niùlach</headword>
+      <description>sheep with stunted horns.</description>
+    </item>
+    <item>
+      <headword id="d0e753">caora lèabhach</headword>
+      <description>sheep with large horns.</description>
+    </item>
+    <item>
+      <headword id="d0e762">caora mhaol</headword>
+      <description>sheep with no horns.</description>
+    </item>
+    <item><headword id="d0e770" type="heading" level="h1">5. Miscellaneous</headword></item>
+    <item>
+      <headword id="d0e775">peata (uain)</headword>
+      <description>pet lamb.</description>
+    </item>
+    <item>
+      <headword id="d0e784">ciora (uain)</headword>
+      <description>pet lamb.</description>
+    </item>
+    <item>
+      <headword id="d0e793">leth-uan</headword>
+      <description>twin lamb.</description>
+    </item>
+    <item>
+      <headword id="d0e802">uan òg</headword>
+      <description>lamb late of weaning. “Sin agad an t-uan òg.”</description>
+    </item>
+    <item>
+      <headword id="d0e811">uan fadalach</headword>
+      <description>lamb late of weaning. “Tha uan fadalach aice.” (aig a’ chaoraich)</description>
+    </item>
+    <item>
+      <headword id="d0e820">caora càraid</headword>
+      <description>sheep with twins.</description>
+    </item>
+    <item>
+      <headword id="d0e829">[caora-uain]</headword>
+      <description>a breeding sheep – chan eil ainm àrraid ’s am bith againn ach dìreadh caora-uain, cho fada ’s a chuimhnicheas mise.</description>
+    </item>
+    <item>
+      <headword id="d0e838">peata</headword>
+      <description>pet ewe or hogg.</description>
+    </item>
+    <item>
+      <headword id="d0e847">ciora</headword>
+      <description>pet ewe or hogg. (smait)</description>
+    </item>
+    <item><headword id="d0e855" type="heading" level="h1">6. Feeding and grazing</headword></item>
+	<item>
+	  <headword id="idola66">[note]</headword>
+	  <description>Tha eagal orm nach eil móran agam mu na cinn-sa, agus gu bheil ainmeannan a bha ann agus a chuala mi air chall aig mo chuimhne.</description>
+	</item>
+    <item>
+      <headword id="d0e869">an làmh rithe</headword>
+      <description>handfeeding. B’e seo a bhith toirt cuideachadh do an bheathach le biathachadh a muigh a thuilleadh air na bha i-fhéin a’ cosnadh.</description>
+    </item>
+    <item><headword id="d0e877" type="heading" level="h2">Vessels used for feeding:</headword></item>
+    <item>
+      <headword id="d0e882">bucas oisgean</headword>
+      <description>bucas nach biodh ro mhór – ceithir-oisinneach no na b’ fhaide na sin airson siol agus gnothaichean mar sin a thoirt dhaibh.
+        <illustration src="GlasgowMMacLeodsheepillust1.jpg" width="200"/>
+      </description>
+    </item>
+    <item><headword id="d0e892" type="heading" level="h2">Names for different amounts of hay:</headword></item>
+    <item>
+      <headword id="d0e897">cuid nan òisgean</headword>
+      <description>“A’ deanamh cùid nan òisgean” – ag ullachadh ’s a cur a mach an cuid do na h-oisgean.</description>
+    </item>
+    <item>
+      <headword id="d0e906">bad</headword>
+      <description>bad coirce.</description>
+    </item>
+    <item>
+      <headword id="d0e915">gibeag</headword>
+      <description>na h-uibhir de dh’fheur ’ga chrochadh dhaibh, na dhà-sa shuas, ann an sreing.</description>
+    </item>
+	<item>
+	  <headword id="idola67">[frasach]</headword>
+	  <description>(Bhiodh feadhainn a bhiodh frasach aca dhaibh.)</description>
+	</item>
+	<item>
+	  <headword id="idola68">[coirce agus feur]</headword>
+	  <description>(’Se coirce agus feur a bhiodh sinne a’ toirt do chaoraich.)</description>
+	</item>
+	<item>
+	  <headword id="idola69">[lobhta]</headword>
+	  <description>Means of tying hay, corn, etc. for feeding: sreang crochte ris an lobhta no ris a’ bhalla agus clach fhreagarrach slaoda rithe ’ga cumail stòlda ’na h-àite. Lobhta – an t-sreang a’ deanamh snaim ann an seo. Am bad no a’ ghibeag fheòir am broinn na sreinge agus na creutaran a’ draghadh cho math ’s a dheadh aca air. Bhiodh a’ chlach dìreach aig bonn na lùibe de’n t-sreing, aig àirde fhreagarrach do na beathaichean. <illustration src="GlasgowMMacLeodsheepillust2.jpg" width="400"/></description>
+    </item>
+	<item><headword id="d0e951" type="heading" level="h2">Watering indoors and outdoors</headword></item>
+    <item>
+	  <headword id="idola70">[note]</headword>
+	  <description>Chan eil ainm àrraid ’s am bith air lorg agam airson seo.</description>
+	</item>
+    <item><headword id="d0e964" type="heading" level="h2">Vessels used</headword></item>
+	<item>
+	  <headword id="d0e969">mias no pòbhla</headword>
+	</item>
+    <item><headword id="d0e974" type="heading" level="h2">Grazing of sheep</headword></item>
+	<item>
+	  <headword id="idola71">[note]</headword>
+	  <description>Tha eagal orm gu bheil ainm no dhà, no barrachd, air chall orm mu’ an seo.</description>
+	</item>
+    <item><headword id="d0e987" type="heading" level="h2">Term used for the regular ‘beat’ of a sheep on the moor</headword></item>
+    <item>
+      <headword id="d0e992">[gabhail]</headword>
+      <description>Mur a h-e ‘gabhail’. “Sin far am bheil i ag gabhail.” – regular ‘beat’ mar a th’ agaibh. Feuchaibh na cinn-sa ri Alasdair mo bhràthair. “Tha i a’ gabhail shuas mu Eileartan.” “Sin far am bheil i a’ geamhrachadh.” (agus mar sin)</description>
+    </item>
+    <item><headword id="d0e1000" type="heading" level="h1">7. Handling of sheep</headword></item>
+    <item>
+      <headword id="d0e1005">[gan cur a mach]</headword>
+      <description>driving them to their grazing  Cha chreid mi gu bheil ainm suidhichte ’sam bith againn airson seo. Ach dìreach “gan cur a mach”.</description>
+    </item>
+    <item>
+      <headword id="d0e1014">’g an trusadh</headword>
+      <description>taking them home.</description>
+    </item>
+    <item>
+      <headword id="d0e1023">’g an cur ’s an fhaing</headword>
+      <description>enclosing them in a fank (’g an cur ann am faingean).</description>
+    </item>
+    <item>
+      <headword id="d0e1032">a’ fangadh</headword>
+      <description>enclosing them in a fank.</description>
+    </item>
+    <item>
+      <headword id="d0e1041">[’g an crodhadh]</headword>
+      <description>hemming them in.</description>
+    </item>
+    <item><headword id="d0e1049" type="heading" level="h2">Names for various sizes of flocks or collections of sheep (if any)</headword></item>
+    <item>
+      <headword id="d0e1054">caora</headword>
+      <description>aon.</description>
+    </item>
+    <item>
+      <headword id="d0e1063">caoraich</headword>
+      <description>barrachd.</description>
+    </item>
+    <item>
+      <headword id="d0e1072">baidean</headword>
+      <description>na h-uibhir gun cus, gun móran.</description>
+    </item>
+    <item>
+      <headword id="d0e1081">dròbha</headword>
+      <description>grunn mór, mór.</description>
+    </item>
+    <item>
+      <headword id="d0e1090">treud</headword>
+      <description>a whole flock. “An treud uile” mar a chanadh Tormod.</description>
+    </item>
+    <item><headword id="d0e1098" type="heading" level="h2">Commands given to a sheep-dog</headword></item>
+	<item>
+	  <headword id="idola72">[note]</headword>
+	  <description>Thug mi seo seachad ann am pàipear eile, mar a bhios fhios agaibh.</description>
+	</item>
+	<item><headword id="d0e1111" type="heading" level="h2">Names for the different fanks</headword></item>
+	<item>
+	  <headword id="idola73">[faing]</headword>
+	  <description>Cha bhiodh againne ach na dhà an cumantas: an fhaing mhór agus an fhaing-ghlacaidh. Ach aig na cìobairean bhiodh móran fhaingean: an fhaing-mhór, an fhaing-chaol ’s mar sin, faing airson a h-uile nì a dh’fheumadh iad.</description>
+    </item>
+	<item>
+      <headword id="d0e1125">a’ fangadh</headword>
+      <description>fanking.</description>
+	</item>
+    <item>
+      <headword id="d0e1134">[an fhaing-ghlacaidh]</headword>
+      <description>airson a bhith breith air na caoraich airson an diopadh (to be dipped).
+        <illustration src="GlasgowMMacLeodsheepillust3.jpg" width="400"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e1145">a’ rùsgadh</headword>
+      <description>shearing.</description>
+    </item>
+    <item>
+      <headword id="d0e1154">a’ diopadh</headword>
+      <description>dipping.</description>
+    </item>
+    <item><headword id="d0e1162" type="heading" level="h2">Parts of a fank</headword></item>
+    <item>
+      <headword id="d0e1167">ceann shuas na faing(e)</headword>
+    </item>
+    <item>
+      <headword id="d0e1173">tòn na faing(e)</headword>
+    </item>
+    <item>
+      <headword id="d0e1179">ceann shìos na faing(e)</headword>
+    </item>
+    <item><headword id="d0e1184" type="heading" level="h2">[blank]</headword></item>
+    <item>
+      <headword id="d0e1189">an t-amar</headword>
+      <description>dipping trough.</description>
+    </item>
+    <item>
+      <headword id="d0e1198">a’ diopadh</headword>
+      <description>dipping. (Fuaimnich dup’ (Beurla) + adh.)</description>
+    </item>
+    <item>
+      <headword id="d0e1207">a’ comharrachadh</headword>
+      <description>ear-marking.</description>
+    </item>
+    <item>
+      <headword id="d0e1216">a’ deargadh</headword>
+      <description>marking eile. ’Se dearg a chanas sinn ri keel. ’Se ‘cil’, cha chreid mi, a chanadh na cìobairean.</description>
+    </item>
+    <item>
+      <headword id="d0e1225">a’ cur guirmein</headword>
+      <description>marking eile.</description>
+    </item>
+    <item>
+      <headword id="d0e1234">a’ spoth</headword>
+      <description>castrating.</description>
+    </item>
+    <item>
+      <headword id="d0e1243">ciora, ciorag</headword>
+      <description>call addressed to a lamb or sheep. “Trobhad, ciorag.” “Trobhad, ciora.”</description>
+    </item>
+    <item><headword id="d0e1251" type="heading" level="h1">8. Apparatus</headword></item>
+    <item>
+      <headword id="d0e1256">Tying indoors</headword>
+      <description>Dìreach ceangal cumanta: sreang mu an amhaich mar a bhiodh smeadhag air a’ bhoin. [NOTES: in the box there’s an envelope containing a piece of string showing ‘snàim na smeadhaig’. It is not clear what it was originally attached to but the handwriting is certainly Mr MacLeod’s.]</description>
+    </item>
+    <item>
+      <headword id="d0e1265">Tying outdoors</headword>
+      <description>Ceangal. ’Se ‘ceangal’ a chanas sinn (‘ceangal an uain’). Air a’ cheangal an cumantas bhiodh dà ‘choirbhtheann’, tè bha an amhaich aig a’ bheathach agus an tè eile air meadhon a’ cheangail.</description>
+    </item>
+    <item>
+      <headword id="d0e1274">[coirbhtheann]</headword>
+      <description>Am facal-sa, coirbhtheann, no coirtheann (chan fhaca mi a riamh sgriobhte e), chan eil fhios ’am dé an litreachadh ceart air. Air a fhuaimneachadh tha e againne mar coire (kettle) + thann, coire’thann. Coirbhthann no coir(bh)thann no coireathann, tuigidh sibh fhein, tha mi glé chinnteach, mar tha a’ chùis. (Feuchaibh Ruairidh, smaite gu’m bi an aon nì aige-san ’s a tha agam fhìn bho’n taobh an iar.) Coirbhthann: Pìos fiodha mar ’s an dealbh: mu 3 oirlich air fad, mu ½ òirleach no mar sin air thiuighead. Coirbhthann bho’n amhaich: 3 tuill innte. Coirbhthann ’s a’ cheangal: 2 tholl innte.
+        <illustration src="GlasgowMMacLeodsheepillust4.jpg" width="200"/>
+        <illustration src="GlasgowMMacLeodsheepillust5.jpg" width="200"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e1287">Tying while shearing</headword>
+      <description>A’ ceangal nan casan aca ’san aon chnap, mar seo. ’Se ‘lùbach’ a chanas sinn ri sreang a’ cheangail. “Am bheil lùbach agad?”
+        <illustration src="GlasgowMMacLeodsheepillust6.jpg" width="200"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e1298">bacan</headword>
+      <description>tether stake.</description>
+    </item>
+    <item>
+      <headword id="d0e1307">swivel</headword>
+      <description>an t-ainm Beurla a th’againn airson seo.</description>
+    </item>
+    <item>
+      <headword id="d0e1316">lùbach</headword>
+      <description>band for tying legs while shearing, mar a th’ agad an seo shuas.</description>
+    </item>
+    <item>
+      <headword id="d0e1325">spearrach</headword>
+      <description>fetters. Bha seo (chan eil e dol an diugh idir cho fada ’s is aithne dhomh) air a chur eadar cas-chinn agus cas-dheiridh, mar seo:
+        <illustration src="GlasgowMMacLeodsheepillust7.jpg" width="400"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e1336">lùthag</headword>
+      <description>B’e seo ceangal teann air a chur anns an iosgaid air an ainmhidh. Mar seo. A dhà no trì uairean a riamh a chunna mi cail de’n t-seòrsa ri spearrach agus lùthag. ’Sann airson nach leumadh iad gàraidhean, ’s mar sin, a tighinn do’n arbhar, a bha e.
+        <illustration src="GlasgowMMacLeodsheepillust8.jpg" width="200"/>
+      </description>
+    </item>
+    <item><headword id="d0e1346" type="heading" level="h1">9. Diseases</headword></item>
+    <item><headword id="d0e1350" type="heading" level="h2">Diseases of the skin affecting the wool</headword></item>
+	<item>
+	  <headword id="idola74">[note]</headword>
+	  <description>Chan eil lorg agam air nì.</description>
+	</item>
+    <item><headword id="d0e1363" type="heading" level="h2">Warts, swellings, spots</headword></item>
+    <item>
+	  <headword id="idola75">[note]</headword>
+	  <description>Chan eil airson seo, a bharrachd.</description>
+	</item>
+	<item>
+      <headword id="d0e1377">gartanan, na gartanan</headword>
+      <description>ticks found in wool.</description>
+    </item>
+    <item>
+      <headword id="d0e1386">na cnuimhean, cnuimhean</headword>
+      <description>worms in the skin.</description>
+    </item>
+    <item><headword id="d0e1394" type="heading" level="h2">Diseases of the head</headword></item>
+    <item>
+      <headword id="d0e1399">ceanna-ghalair</headword>
+      <description>(Chan eil an t-ainm Beurla agam.) Bhiodh na cluasan aca a’ séid agus as déidh sin a’ seacadh. ’S ann air na h-uain a bhiodh seo a’ tighinn.</description>
+    </item>
+    <item><headword id="d0e1407" type="heading" level="h2">Diseases of the eyes</headword></item>
+    <item>
+      <headword id="d0e1412">doille, an doille</headword>
+      <description>Air na caoirich mhóra a bhiodh seo a’ tighinn. Chan fhaca mi riamh air uan e. Bhiodh iad a’ pronnadh cailc agus ’ga chur fo na sùilean aca. Ri tìde dheadh iad am feabhas.</description>
+    </item>
+    <item><headword id="d0e1420" type="heading" level="h2">Diseases of the mouth, neck and throat</headword></item>
+	<item>
+	  <headword id="idola76">[note]</headword>
+	  <description>Chan aithne dhomh gu’m faca mi dad de’n t-seòrsa a riamh.</description>
+	</item>
+    <item><headword id="d0e1433" type="heading" level="h2">Diseases of the bone structure</headword></item>
+	<item>
+	  <headword id="idola77">[note]</headword>
+	  <description>Chan eil lorg agam air càil mu an seo.</description>
+	</item>
+    <item><headword id="d0e1446" type="heading" level="h2">Disease affecting the hooves</headword></item>
+	<item>
+	  <headword id="idola78">[note]</headword>
+	  <description>Chan fhaca mi dad de’n t-seòrsa a riamh cho fada ’s a tha cuimhne agam.</description>
+	</item>
+    <item><headword id="d0e1459" type="heading" level="h2">Diseases of the internal organs:</headword></item>
+    <item>
+      <headword id="d0e1464">am pluc</headword>
+      <description>’s an adha co dhiu.</description>
+    </item>
+    <item>
+      <headword id="d0e1473">an spùt</headword>
+      <description>diarrhoea.</description>
+    </item>
+    <item><headword id="d0e1481" type="heading" level="h2">Bhiodh na galairean a leanas a’ dol mar a b’aithne dhomsa</headword></item>
+    <item>
+      <headword id="d0e1486">am pluc</headword>
+    </item>
+    <item>
+      <headword id="d0e1492">an galair tiormachaidh</headword>
+    </item>
+    <item>
+      <headword id="d0e1498">am bracsaidh</headword>
+    </item>
+    <item>
+      <headword id="d0e1504">an teas-brailein</headword>
+    </item>
+    <item>
+      <headword id="d0e1510">an spùt</headword>
+    </item>
+	<item>
+	  <headword id="idola79">[note]</headword>
+	  <description>Cha chuir mi iad seo air na h-ainmeannan ceart Beurla idir. (Feuch mo bhràthair, Alasdair Seòras, 13 Crabhlastadh, Sgire Uige, ann an Leòdhas.)</description>
+	</item>
+    <item><headword id="d0e1524" type="heading" level="h2">Seo ainmeannan Beurla air cuid de ghalairean nan caorach</headword></item>
+    <item>
+      <headword id="d0e1529">braxy</headword>
+    </item>
+    <item>
+      <headword id="d0e1535">struck</headword>
+    </item>
+    <item>
+      <headword id="d0e1541">lamb dysentery</headword>
+    </item>
+    <item>
+      <headword id="d0e1547">pulpy kidney</headword>
+    </item>
+    <item>
+      <headword id="d0e1553">tetanus</headword>
+    </item>
+    <item>
+      <headword id="d0e1559">looping ill</headword>
+    </item>
+	<item>
+	  <headword id="idola80">[note]</headword>
+	  <description>(Chan eil na h-ainmeannan Gàidhlig a tha dol agam orra seo idir.)</description>
+	</item>
+    <item><headword id="d0e1573" type="heading" level="h2">Disease affecting the udder and milk</headword></item>
+	<item>
+	  <headword id="idola81">[note]</headword>
+	  <description>Chan eil lorg agam air dad mu an seo. Cha chreid mi gu’m faca mi càil ceàrr mu an seo a riamh.</description>
+	</item>
+    <item><headword id="d0e1586" type="heading" level="h2">Injury of any kind:</headword></item>
+    <item>
+      <headword id="d0e1591">a’ dol as a losaid</headword>
+    </item>
+    <item>
+      <headword id="d0e1597">a’ briseadh coise</headword>
+    </item>
+    <item>
+      <headword id="d0e1603">a’ dol as a caol druim</headword>
+    </item>
+	<item>
+	  <headword id="idola82">[note]</headword>
+	  <description>Agus mar sin.</description>
+	</item>
+    <item><headword id="d0e1617" type="heading" level="h1">10. Parts of the body</headword></item>
+    <item>
+      <headword id="d0e1622">the head and neck (parts)</headword>
+      <description>Dìreach mar a chanas sibh mu chreutar sam bith de’n t-seòrsa.</description>
+    </item>
+    <item>
+      <headword id="d0e1631">fionnadh</headword>
+      <description>hair. Ach cho fad ’s is aithne dhomh cha chan sinn fionnadh uair sam bith ri nì timchioll air caora.</description>
+    </item>
+    <item>
+      <headword id="d0e1640">na slinneanan,  slinnean</headword>
+      <description>[sg.] shoulders.</description>
+    </item>
+    <item>
+      <headword id="d0e1649">an t-uchd, uchd</headword>
+      <description>breast.</description>
+    </item>
+    <item>
+      <headword id="d0e1658">casan cinn</headword>
+      <description>forelegs.</description>
+    </item>
+    <item>
+      <headword id="d0e1667">caol druim</headword>
+      <description>backbone.</description>
+    </item>
+    <item>
+      <headword id="d0e1676">an smior-cailleach</headword>
+      <description>spinal cord</description>
+    </item>
+    <item>
+      <headword id="d0e1685">an ceathramh deiridh</headword>
+      <description>hindquarters. Canadh sinn seo aithghearr: “an crutha deiridh”.</description>
+    </item>
+    <item>
+      <headword id="d0e1694">[mullach na tòine]</headword>
+      <description>hips. Cha chreid mi gu’n cuala mi a riamh ‘cruachan’ air a chleachdadh mu ainmhidh. “Mullach na tòine” a chanas sinne ri ‘hips’ ’s mar sin aig caora no bò no ainmhidh de’n t-seòrsa. No ainmhidh sam bith, dh’fhaodainn a chantuinn.</description>
+    </item>
+    <item>
+      <headword id="d0e1703">bun an iorbaill</headword>
+      <description>rump.</description>
+    </item>
+    <item>
+      <headword id="d0e1712">casan deiridh,  casa deiridh</headword>
+      <description>[sg.] hindlegs.</description>
+    </item>
+    <item>
+      <headword id="d0e1721">iorball</headword>
+      <description>tail.</description>
+    </item>
+    <item>
+      <headword id="d0e1730">ùgh (ùgh)</headword>
+      <description>udder.</description>
+    </item>
+    <item>
+      <headword id="d0e1739">sinean</headword>
+      <description>teats.</description>
+    </item>
+    <item>
+      <headword id="d0e1748">fèith</headword>
+      <description>muscle.</description>
+    </item>
+    <item>
+      <headword id="d0e1757">tendon</headword>
+      <description>Chan eil nì agam airson seo (a mach bho na faclairean).</description>
+    </item>
+    <item>
+      <headword id="d0e1766">ligament</headword>
+      <description>Chan eil lorg agam air nì againn airson seo.</description>
+    </item>
+    <item>
+      <headword id="d0e1775">[maothalan]</headword>
+      <description>cartilage. Cha chreid ni nach e seo ‘maothalan’ againne.</description>
+    </item>
+    <item>
+      <headword id="d0e1784">an cridhe, cridhe</headword>
+      <description>heart.</description>
+    </item>
+    <item>
+      <headword id="d0e1793">[cuisil]</headword>
+      <description>artery or vein. Cho fada ’s a tha cuimhne agam-sa, ’se an aon rud a th’againn airson na dhà: cuisil. (Chan e ‘cuisle’ a th’againne idir.) (Cuisil, fuaimnich e: cuisill.)</description>
+    </item>
+    <item>
+      <headword id="d0e1802">fuil, an fhuil</headword>
+      <description>blood.</description>
+    </item>
+    <item>
+      <headword id="d0e1811">na sgamhanan</headword>
+      <description>lungs.</description>
+    </item>
+    <item>
+      <headword id="d0e1820">an sgòrnan</headword>
+      <description>trachea (windpipe).</description>
+    </item>
+    <item>
+      <headword id="d0e1829">[ubhall an sgòrnain]</headword>
+      <description>larynx. Cha chreid mi nach eil ‘ubhall an sgòrnain’ againn a’ toirt leis seo.</description>
+    </item>
+    <item>
+      <headword id="d0e1838">an adha</headword>
+      <description>liver. Chan eil ‘grùthan’ againn uair sam bith. Chan eil e idir againn.</description>
+    </item>
+    <item>
+      <headword id="d0e1847">na dubhagan</headword>
+      <description>kidneys.</description>
+    </item>
+    <item>
+      <headword id="d0e1856">pancreas</headword>
+      <description>Cha chreid mi gu bheil càil againn airson seo. Mur a cuala mi uairegin ‘am brisgean adha’. Ach cha chanainn gur h-e am pancreas a bhiodh ann. Ach dh’fhaodadh gu robh barrachd air aon ‘bhrisgean’ aca. Co dhiu, tha mise a’ fàgail nam brisgeanan-sa, bho nach eil cinnteachd sam bith agam umpa.</description>
+    </item>
+    <item>
+      <headword id="d0e1865">an dubh-liath</headword>
+      <description>spleen.</description>
+    </item>
+    <item>
+      <headword id="d0e1874">staoig an amadain</headword>
+      <description>spleen.</description>
+    </item>
+    <item>
+      <headword id="d0e1883">domblas na h-adha</headword>
+      <description>gall bladder.</description>
+    </item>
+    <item>
+      <headword id="d0e1892">glands</headword>
+      <description>Chan eil lorg agam air nì bho’n taobh an iar idir airson seo.</description>
+    </item>
+    <item>
+      <headword id="d0e1901">aotraman</headword>
+      <description>bladder.</description>
+    </item>
+    <item>
+      <headword id="d0e1910">uisge</headword>
+      <description>urine. “An t-uisge aice.” (aig caora)</description>
+    </item>
+    <item>
+      <headword id="d0e1919">mùn</headword>
+      <description>urine.</description>
+    </item>
+    <item>
+      <headword id="d0e1928">[it-igheach]</headword>
+      <description>gullet. Faic ‘de-tigheach’ (Dwelly), ‘detiach’, ‘deiteigheach’ (MacGhillfhinnein) agus ‘it-igheach’ (MacGhillfhinnein). ‘It-igheach’, ’se a th’againne, dìreach mar a th’aig MacGhillfhinnein.</description>
+    </item>
+    <item>
+      <headword id="d0e1937">caolanan</headword>
+      <description>intestines.</description>
+    </item>
+    <item>
+      <headword id="d0e1946">an t-snàil, an t-snàithle</headword>
+      <description>colon or lower bowel. ‘An t-snàil’ a chanas sinne.</description>
+    </item>
+    <item>
+      <headword id="d0e1955">geir na maodail</headword>
+      <description>abdominal fat. ‘Geir na maodail’ a chanas sinne. Cuideachd, ‘geir na muinne’.</description>
+    </item>
+    <item>
+      <headword id="d0e1964">[geir na muinne]</headword>
+      <description>[abdominal fat.]</description>
+    </item>
+    <item>
+      <headword id="d0e1973">caolanan-gorma</headword>
+      <description>Tha againn ‘caolanan-gorma’. ’Se seo na caolanan beaga mar a tha ‘an t-snàil’ airson a’ chaolain mhóir. Anns a’ bhoin, ’se na caolanan-gorma de’m bheilear a’ deanamh nan lùban-dubha. Agus de an chaolan mhór thatar a’ deanamh nan ìsbeanan. Cho fada ’s a tha cuimhne agam-sa, cha chan sinn caolanan-gorma uair sam bith mu chaolanan na bà.</description>
+    </item>
+    <item>
+      <headword id="d0e1982">lùb-mhuinne</headword>
+      <description>Bhiodh iad a deanamh marag le na caolanan[-gorma na caorach]. ‘Lùb-mhuinne’ a chanadh iad ris. Bha iad a’ deanamh na maraig agus a’ suainigeadh nan caolanan uimpe. Bhiodh i a’ coimhead ann an cruth dìreach mar seo. Mu 6" air fad agus 4" air leud.
+        <illustration src="GlasgowMMacLeodsheepillust9.jpg" width="200"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e1993">muinne</headword>
+      <description>‘tallow tripe’ agus ‘stomach’ a th’aig na balaich anns na faclairean. Le na cantanasan [?] a th’againne bidh e coltach gur ann air na caolanan a tha ‘muinne’. “Geir mhath air a’ mhuinne aige.” “Lùb-mhuinne.” “Anns a’ mhuinne aige.” Agus mar sin.</description>
+    </item>
+    <item>
+      <headword id="d0e2002">lòineachan</headword>
+      <description>Faic lòinean Dwelly t-d. 596. 2. (D.M.K.) ‘The fat covering of the kidneys of beef or mutton (Caithness).’ Tha againne lòineachan. “Tha geir mhath air na lòineachan aige.” ’Se seo a’ gheir a tha ris an druim aige a’ bheathach. Nuair a tha an t-ainmhidh marbh agad air a’ dhruim, tha am muinne air uachdar agus na lòineachan gu h-ìosal, ’se sin ris an drùim.</description>
+    </item>
+    <item><headword id="d0e2010" type="heading" level="h1">11. Lambing</headword></item>
+    <item>
+      <headword id="d0e2015">a’ breith</headword>
+      <description>lambing. A’ breith nan uan.</description>
+    </item>
+    <item>
+      <headword id="d0e2024">a’ cumail nan caorach còmhla ris an rùd</headword>
+      <description>sheep put to ram.</description>
+    </item>
+    <item>
+      <headword id="d0e2033">àm na reitheachd</headword>
+      <description>sheep put to ram.</description>
+    </item>
+	<item>
+	  <headword id="idola83">[note]</headword>
+	  <description>Agus mar sin, a chanas sinn. (Faic an taobh-duilleig thairis.)</description>
+	</item>
+    <item><headword id="d0e2050" type="heading" level="h2">Terms associated with lambing</headword></item>
+    <item>
+      <headword id="d0e2055">bathar, am bathar</headword>
+      <description>placenta or afterbirth.</description>
+    </item>
+    <item>
+      <headword id="d0e2064">streabhainn, an t-sreabhainn</headword>
+      <description>covering on a lamb when born. (Air a fhuaimneachadh dìreach mar a tha e sgrìobhte.)</description>
+    </item>
+    <item>
+      <headword id="d0e2073">na gleodhan</headword>
+      <description>covering on a lamb when born. Na glodhan. (‘Na gleodhan’ a chanas sinne.) “Uan anns na gleodhan.” Canadh sinn cuideachd “laogh anns na gleodhan.”</description>
+    </item>
+    <item><headword id="d0e2081" type="heading" level="h2">Terms used when sheep are put to ram</headword></item>
+    <item>
+      <headword id="d0e2086">reitheachd</headword>
+      <description>“Tha an reitheachd oirre.” (air a’ chaoraich) “Reithich an rùd i.” “Thug e leum-reitheachd dhi.”</description>
+    </item>
+    <item>
+      <headword id="d0e2095">bréid</headword>
+      <description>“A’ cur bréid oirre” – air tearainneach, gus nach fhaigheadh an rùd air a reitheachd. Bréid mar an ceudna air uan-reith no rùd òg gus nach fhaigheadh e air reitheachd a dheanamh. Caora bho a cùlaobh. Bréid oirre (de phoca no de oighlisgean). Bréid air rùd (fo an mhionach).
+        <illustration src="GlasgowMMacLeodsheepillust10.jpg" width="300"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e2106">bréideadh</headword>
+      <description>a’ cur bhréid. “C’ait am bheil na balaich?” “Tha iad ri bréideadh.“</description>
+    </item>
+    <item><headword id="d0e2114" type="heading" level="h1">12. Miscellaneous</headword></item>
+    <item>
+      <headword id="d0e2119">[earball stùbhach]</headword>
+      <description>short tail that remains after docking. Chan eil ainm suidhichte mar sin againn air a seo idir, ach tha againn ‘earball stùbhach’ airson earball air leth goirid agus a tha a’ coimhead mar sin. (‘Iorbull’ a chanas sinne, ’s ann a chanas sinn ‘earbull’ an còmhnuidh airson earbull rud – hem ’s mar sin.)</description>
+    </item>
+    <item>
+      <headword id="d0e2128">[feusag]</headword>
+      <description>small tuft of hair under the chin of a ram. Chan eil ainm suidhichte mar sin againn airson a leithid seo ach chanadh sinn ‘feusag’ airson rud de’n t-seòrsa.</description>
+    </item>
+    <item>
+      <headword id="d0e2137">caora, no caoirich, chlaimheach</headword>
+      <description>scabby sheep.</description>
+    </item>
+    <item>
+      <headword id="d0e2146">sheep losing their wool</headword>
+      <description>Chan eil ainm àrraid sam bith againn airson a leithid seo.</description>
+    </item>
+  </items>
+</fieldworkDocument>

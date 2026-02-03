@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 7/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_NethyBridgeJLobbanslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>05/1969</date>
+  <fieldworker>[AJ Smith]</fieldworker>
+  <note>[NOTES: in IPA transcriptions, the fieldworker uses [w] for [ɯ].]</note>
+  <informant>
+    <nameEnglish>Joseph Lobban</nameEnglish>
+    <age>c. 80</age>
+    <origin>Nethy Bridge</origin>
+  </informant>
+  <location>Inverness-shire, Nethy Bridge</location>
+  <items>
+    <item>
+      <headword id="idp119265024">locair-sguits</headword>
+      <description>[ɫɔxkəɾsku̟ṯʃ] Notes: jack-plane.</description>
+    </item>
+    <item>
+      <headword id="idp119261928">luinnean</headword>
+      <description>[ɫũ̜nʹɑṉ] Notes: ankle. “Innean” in some places. (?)</description>
+    </item>
+    <item>
+      <headword id="idp119258400">luip</headword>
+      <description>[ɫ[u̜i]p] Notes: lip.</description>
+    </item>
+    <item>
+      <headword id="idp119278128">min-sàbhaidh</headword>
+      <description>[mĩn̪sɑ:i] Notes: sawdust.</description>
+    </item>
+    <item>
+      <headword id="idp119279856">nèib</headword>
+      <description>[nʹɛ̃:b] Notes: turnip.</description>
+    </item>
+    <item>
+      <headword id="idp119281584">sac</headword>
+      <description>[sɑxk] Notes: a load.</description>
+    </item>
+    <item>
+      <headword id="idp119283312">sgaolan</headword>
+      <description>[sɡw̃:ɫɑṉ] Notes: “skull” – a basket made of wire with a handle at each end. Used for turnips, potatoes, etc. “sgùlan” in other parts.</description>
+    </item>
+    <item>
+      <headword id="idp119285040">sloip</headword>
+      <description>[sɫ[ɤı]p] Notes: a sledge drawn by horses.</description>
+    </item>
+    <item>
+      <headword id="idp119287200">smig</headword>
+      <description>[smĩɡʹ] Notes: chin.</description>
+    </item>
+    <item>
+      <headword id="idp119288928">sùisd</headword>
+      <description>Notes: flail. [NOTES: slipped under ‘sùist’.]</description>
+    </item>
+    <item>
+      <headword id="idp119290584">tarbh</headword>
+      <description>[t̪ɑɾu̟] Notes: bull.</description>
+    </item>
+    <item>
+      <headword id="idp119292312">trama</headword>
+      <description>Notes: (pl. tramachan) Shaft of a cart.</description>
+    </item>
+    <item>
+      <headword id="idp119293824">treabh</headword>
+      <description>[t̪ɾɛv] Notes: two stooks of corn each with twelve sheaves. Workers paid for every two stooks completed.</description>
+    </item>
+    <item>
+      <headword id="idp119295552">tùlsag</headword>
+      <description>[t̪u̜:ɫsɑɡ] Quotation: Bha tùlsagan mór aige. Notes: a wrist. (?)</description>
+    </item>
+    <item>
+      <headword id="idp119297424">amall</headword>
+      <description>Notes: swingle-tree.</description>
+    </item>
+    <item>
+      <headword id="idp119298936">bàldair (sic)</headword>
+      <description>Notes: scythe.</description>
+    </item>
+    <item>
+      <headword id="idp119300448">biorag</headword>
+      <description>Notes: spiked muzzle put on calf to prevent it suckling.</description>
+    </item>
+    <item>
+      <headword id="idp119302032">brod</headword>
+      <description>Notes: bradawl.</description>
+    </item>
+    <item>
+      <headword id="idp119303544">cileab</headword>
+      <description>[ciləb] Notes: a splinter of wood.</description>
+    </item>
+    <item>
+      <headword id="idp119305272">cliathan</headword>
+      <description>Notes: harrows.</description>
+    </item>
+    <item>
+      <headword id="idp119306784">clòineag</headword>
+      <description>[kɫɔ:nʹɑɡ] Notes: a snowflake.</description>
+    </item>
+    <item>
+      <headword id="idp119308512">croiseag</headword>
+      <description>Notes: a small potato.</description>
+    </item>
+    <item>
+      <headword id="idp119310024">cruach-saidh</headword>
+      <description>Notes: haystack.</description>
+    </item>
+    <item>
+      <headword id="idp119311536">drochaid</headword>
+      <description>[d̪ɾɔxidʹ] Notes: the “bridge” on a cart saddle. The groove where the back-chain rests.</description>
+    </item>
+    <item>
+      <headword id="idp119313264">dromaileis</headword>
+      <description>[d̪ɾoməleʃ] Notes: back-chain going over cart-saddle.</description>
+    </item>
+    <item>
+      <headword id="idp119314992">earball</headword>
+      <description>Notes: tail.</description>
+    </item>
+    <item>
+      <headword id="idp119316504">feur-saidh</headword>
+      <description>[fıɑɾsɤi] Notes: hay.</description>
+    </item>
+    <item>
+      <headword id="idp119318232">gilm</headword>
+      <description>[ɡʹwləm] Notes: rabbit [sic] [rabbet?] plane, a very narrow plane for use in corners.</description>
+    </item>
+  </items>
+</fieldworkDocument>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 23 4 14 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="HarrisVarious_HarrisKylesStockinishDMacLeodherring" docType="questionnaire" subType="HerringFishing" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Iasgach an Sgadain / Herring-Fishing</title>
+  <fieldworker>[anonymous D]</fieldworker>
+  <informant>
+    <nameEnglish>Donald MacLeod</nameEnglish>
+    <age>89</age>
+  </informant>
+  <location>Harris, Kyles Stockinish</location>
+  <items>
+    <item><headword id="d0e26" type="heading" level="h1">1. Fish location by natural means</headword></item>
+    <item><headword id="d0e30" type="heading" level="h2">1.1. Listening</headword></item>
+    <item>
+      <headword id="d0e35">a’ cluiche</headword>
+      <description>listening for a herring or other fish’s breaking the surface, a much less distinct sound.</description>
+    </item>
+    <item><headword id="d0e43" type="heading" level="h2">1.2. Losgadh / the burning</headword></item>
+    <item>
+      <headword id="d0e48">sgiolltar (Bays) (jelly fish)</headword>
+      <description>phosphorescence in the sea.</description>
+    </item>
+    <item>
+      <headword id="d0e57">sgiolltair</headword>
+      <description>the first sparks of ‘burning’ in early evening.</description>
+    </item>
+    <item>
+      <headword id="d0e66">sgadan a losgadh</headword>
+      <description>individual herring seen in the ‘burning’; a thin shoal seen in the burning; a large shoal seen in the burning.</description>
+    </item>
+    <item><headword id="d0e74" type="heading" level="h2">1.3. Herring-feeding</headword></item>
+    <item><headword id="d0e78" type="heading" level="h2">1.4. The gannet / emhsan</headword></item>
+    <item>
+      <headword id="d0e83">a’ bualadh</headword>
+      <description>the high vertical plummet of gannet working on herring.</description>
+    </item>
+    <item>
+      <headword id="d0e92">bualadh air “sheef”</headword>
+      <description>the skimming dive of a gannet, perhaps on mackerel or fry on the surface.</description>
+    </item>
+    <item><headword id="d0e100" type="heading" level="h2">1.5. Miscellaneous</headword></item>
+    <item>
+      <headword id="d0e105">“smelt”</headword>
+      <description>fiadh air a mhuir a deidh do sgadan a bhi ann.</description>
+    </item>
+    <item><headword id="d0e113" type="heading" level="h1">2. The ring-net</headword></item>
+    <item><headword id="d0e117" type="heading" level="h2">2.1. Its construction</headword></item>
+    <item><headword id="d0e121" type="heading" level="h2">2.2. Setting up and mending a ring-net</headword></item>
+    <item><headword id="d0e125" type="heading" level="h2">2.3. The buoy</headword></item>
+    <item>
+      <headword id="d0e130">bollachan</headword>
+    </item>
+    <item>
+      <headword id="d0e136">“wager”</headword>
+      <description>the plug of buoy, short for watcher.</description>
+    </item>
+    <item>
+      <headword id="d0e145">spring</headword>
+      <description>the string by which buoy is attached to back-rope.</description>
+    </item>
+    <item><headword id="d0e153" type="heading" level="h1">3. Fishing</headword></item>
+    <item>
+      <headword id="d0e158">a’ cur ’s a tarruing</headword>
+      <description>the shooting [and towing of the net].</description>
+    </item>
+    <item>
+      <headword id="d0e167">brailer</headword>
+      <description>[?] hauling net.</description>
+    </item>
+    <item>
+      <headword id="d0e176">brèilear</headword>
+      <description>hauling net.</description>
+    </item>
+	<item>
+	  <headword id="idola143">[note]</headword>
+	  <description>[NOTES: it is not clear if the last two words are variants. The second seems to be a later addition (different ink) and may be a clarification of the first, which is illegible.]</description>
+	</item>
+  </items>
+</fieldworkDocument>

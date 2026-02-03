@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 1/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_IrishCoveHMacMillanslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>05/1971</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <informant>
+    <nameEnglish>Hector MacMillan</nameEnglish>
+  </informant>
+  <location>Canada, Cape Breton, Irish Cove</location>
+  <items>
+    <item>
+      <headword id="idp115465144">silteach</headword>
+      <description>Quotation: Bha an t-aimsir car fuar agus silteach. Notes: wet.</description>
+    </item>
+    <item>
+      <headword id="idp115465936">caoin</headword>
+      <description>Quotation: Dé a chaoin a th’air an òran? Notes: in common use.</description>
+    </item>
+  </items>
+</fieldworkDocument>

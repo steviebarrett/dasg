@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 5/8/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_BorveNMurrayslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>09/1971</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <informant>
+    <nameEnglish>Nora Murray</nameEnglish>
+  </informant>
+  <location>Lewis, Borve</location>
+  <items>
+    <item>
+      <headword id="idp115451160">simide</headword>
+      <description>[ʃĩmidʹə] Notes: wooden stick used for beating clothes when washing them. “Simide” used elsewhere for a potato-masher – shaped like a baseball-bat.</description>
+    </item>
+  </items>
+</fieldworkDocument>

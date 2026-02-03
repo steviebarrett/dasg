@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 27/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_VatersayNMacKinnonslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>02/1969</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <informant>
+    <nameEnglish>Nan MacKinnon</nameEnglish>
+  </informant>
+  <location>Vatersay</location>
+  <items>
+    <item>
+      <headword id="idp115481872">paidheadh</headword>
+      <description>Quotation: paidheadh-[mɑ̃ɾi]. Notes: occurs in a song. Taken to mean “change”. [NOTES: slipped under ‘pàigheadh’.]</description>
+    </item>
+    <item>
+      <headword id="idp115436584">sgathair</headword>
+      <description>Notes: a cold chisel.</description>
+    </item>
+    <item>
+      <headword id="idp115441408">sgeids</headword>
+      <description>[sɡɛtʹʃ] Quotation: Thàinig [sɡɛtʹʃ] air. Notes: when a person loses everything.</description>
+    </item>
+    <item>
+      <headword id="idp115466824">spor-teine</headword>
+      <description>[spɔɾtʹĩnʹə] Notes: a spark.</description>
+    </item>
+    <item>
+      <headword id="idp115450048">spreigein</headword>
+      <description>[spɾeɡʹɛ̃nʹ] Notes: a match.</description>
+    </item>
+    <item>
+      <headword id="idp118727544">spùilleadh</headword>
+      <description>[spu̜:lʹəɣ] Quotation: “Mo chreach ’s mo spùilleadh.” Notes: a spoiling, a scattering.</description>
+    </item>
+    <item>
+      <headword id="idp118725384">ùsaideachadh</headword>
+      <description>Quotation: ag ùsaideachadh. Notes: using.</description>
+    </item>
+    <item>
+      <headword id="idp118723728">aitheam</headword>
+      <description>[ɛəm] Quotation: Dé ’n aitheam a bheireadh sibh as? Notes: used in the same way as “ciallachadh” – “meaning”.</description>
+    </item>
+    <item>
+      <headword id="idp118722288">brasgan</headword>
+      <description>Notes: sort of lead waistcoat worn in battle. (From a song.)</description>
+    </item>
+    <item>
+      <headword id="idp118720272">buacan</headword>
+      <description>Quotation: buacan or buachdan [bu̜əxkɑṉ]. Notes: stuffed calf skin used to induce cow to give milk when calf dies.</description>
+    </item>
+    <item>
+      <headword id="idp118718832">céil</headword>
+      <description>[ce:lʹ] Quotation: A’ bheil thu gabhail [ce:lʹ]? Notes: [ce:lʹ] used in the same way as “fadachd”. Heard from a Lochaber priest.</description>
+    </item>
+    <item>
+      <headword id="idp118715448">cotan</headword>
+      <description>Notes: a calf-pen.</description>
+    </item>
+    <item>
+      <headword id="idp118715160">eicheabhal</headword>
+      <description>[eçəvɑɫ] Quotation: Thug e [eçəvɑɫ] as. Notes: He gave him quite a trial. Punishment.</description>
+    </item>
+    <item>
+      <headword id="idp118712856">fìogail</headword>
+      <description>[fı:ɡʹəl] Quotation: a’ fìogail. Notes: squeaking. Same as “bìogail”.</description>
+    </item>
+    <item>
+      <headword id="idp118709040">friotalach</headword>
+      <description>[fɾıt̪ɑɫɑx] Notes: touchy. Same as “frineasach” or “frionasach”.</description>
+    </item>
+    <item>
+      <headword id="idp118708104">gilb</headword>
+      <description>Notes: wood chisel.</description>
+    </item>
+  </items>
+</fieldworkDocument>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?><!-- checked by MM on 23 5 14 --><fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="AOHenley_BishopbriggsMCranebiadh" docType="questionnaire" subType="BiadhIsDeoch" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Biadh is Deoch / Food and Drink</title>
+  <date>[1987-88]</date>
+  <fieldworker personId="ohenleya">A. O’Henley</fieldworker>
+  <informant>
+    <nameEnglish>Mrs Mary Crane</nameEnglish>
+    <origin>[Lewis]</origin>
+  </informant>
+  <location>Bishopbriggs</location>
+  <items>
+    <item><headword id="d0e29" type="heading" level="h1">1. Na tràthan</headword></item>
+    <item>
+      <headword id="idm233032">lite</headword>
+      <description>morning.</description>
+    </item>
+    <item><headword id="d0e42" type="heading" level="h1">2. Am biadh a bhidhte gabhail aig gach tràth</headword></item>
+    <item><headword id="d0e46" type="heading" level="h1">3. Dòighean air biadh a dheasachadh</headword></item>
+    <item>
+      <headword id="idm229792">praisean</headword>
+      <description>3 legged pots.</description>
+    </item>
+    <item>
+      <headword id="idm228280">slabhraidh</headword>
+      <description>chain upon which the pot hung.</description>
+    </item>
+    <item>
+      <headword id="idm226768">greideal</headword>
+    </item>
+    <item>
+      <headword id="idm225256">biothd [?]</headword>
+      <description>instrument used to make cheese. <illustration src="BishopbriggsMCranebiadhillust1.jpg" width="150"/></description>
+    </item>
+    <item>
+      <headword id="idm223744">blàthach</headword>
+      <description>buttermilk.</description>
+    </item>
+    <item>
+      <headword id="idm222232">bàrr</headword>
+      <description>cream.</description>
+    </item>
+    <item>
+      <headword id="idm220720">gruth</headword>
+      <description>crowdie.</description>
+    </item>
+    <item>
+      <headword id="idm219208">maog</headword>
+      <description>whey.</description>
+    </item>
+    <item><headword id="d0e120" type="heading" level="h1">4. Fuine</headword></item>
+    <item>
+      <headword id="idm216832">taois</headword>
+      <description>dough.</description>
+    </item>
+    <item>
+      <headword id="idm215320">breacag</headword>
+      <description>breacag arain.</description>
+    </item>
+    <item>
+      <headword id="idm213808">bonnach</headword>
+      <description>bannock.</description>
+    </item>
+    <item><headword id="d0e151" type="heading" level="h1">5. Deochan dhe gach seòrsa</headword></item>
+    <item><headword id="d0e155" type="heading" level="h1">6. Biadh no deoch a bhidhte deanamh gu sònraichte do luchd euslan</headword></item>
+    <item><headword id="d0e159" type="heading" level="h1">7. Nithean a bhiodh ann nuair a rachadh beathach a mharbhadh</headword></item>
+    <item>
+      <headword id="idm209632">breallan (mór, beag)</headword>
+      <description>sheep’s stomach.</description>
+    </item>
+    <item><headword id="d0e172" type="heading" level="h1">8. Faclan sam bith eile</headword></item>
+  </items>
+</fieldworkDocument>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 1/4/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Word-lists_NethyBridgeNSmithmisc1" docType="wordlist" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>7/2/1969 – date on the second letter (the first letter dated 10/02)</date>
+  <fieldworker>self</fieldworker>
+  <note>[NOTES: the two words quoted in the first letter have been slipped and therefore, apart from the definitions provided by Mr Smith, the definitions as they appear on the slips have also been included.]</note>
+  <informant>
+    <nameEnglish>Noel Smith</nameEnglish>
+    <age>[38]</age>
+    <origin>[Inverness-shire, Nethy Bridge]</origin>
+  </informant>
+  <location>Inverness-shire, Nethy Bridge</location>
+  <items>
+    <item>
+      <headword id="idola453">[note]</headword>
+      <description>(...) da fhacal a chuala mi aig àmanan nuair a bha mi ’nam bhalach.</description>
+	</item>
+    <item>
+      <headword id="idp161212384">gearrag</headword>
+      <description>Ged tha am facal ‘gearrag’ a’ ciallachadh nithean eile anns an fhaclair Dwelly bha i a’ ciallachadh anns an sgìorrachd so craobh beag ghiuthas tha a’ fàs air talamh mòinteich far a bheil an talamh bog fliuch a’ chuid as moth’ dhe’n bhliadhna agus mar thoradh air a sin chan eil i riamh còrr is da throigh dheug no mu’n chuairt anns an àird. Tha mòran talamh dhe’n seòrsa sin le craobhan beaga a’ fàs ann anns an sgìorrachd so. Chan fhac’ mi riamh am facal ‘gearragan’ nuair a bha iad a buntuinn ri còrr is aon. [SLIP: Small fir tree growing in wet moorland, never more than about 12ft in height.]</description>
+    </item>
+    <item>
+      <headword id="idp161214040">sòlan</headword>
+      <description>Bhiodh na seann daoine a’ cuir am facal ‘sòlan’ gu buil nuair a bhiodh an t-side garbh no ànradh ann. Bha e a’ ciallachadh fèath no beagan uine rè an là nuair nach robh cur is cathadh ann. Bhiodh iad a’ guidhe gun tig sòlan a chum ’s gum bith cothrom aig na caoraich a’ criomadh air na cnocan far an robh an sneachd air sguabadh air falamh leis a’ ghaoith. ‘Sòlan’ a’ fuaimneachadh mar a tha e anns an fhacal ‘sònraichte’. [SLIP: A lull in a stormy day. Compares pronunciation with sònraichte – nasal 1st syll?]</description>
+    </item>
+	<item>
+	  <headword id="idola454">[note]</headword>
+	  <description>(...) seo agad cuid eile de fhaclan a’ chur mi sios air an duilleag sin, air an teachd do mo cuimhne [sic] o chionn beagan seachainnean air ais o’n t-àm mu dheireadh a scriobh mi thugad.</description>
+	</item>
+    <item>
+      <headword id="idp161216920">snòicean</headword>
+      <description>a sneaky person. ‘oi’ as in ‘coimhead’, ‘cean’ as in ‘déircean’.</description>
+    </item>
+    <item>
+      <headword id="idp161218432">bord-àmais</headword>
+      <description>a draughtboard. ‘am’ as in ‘àm’, ‘ais’ as in ‘colaisde’.</description>
+    </item>
+    <item>
+      <headword id="idp161219944">fùirseach</headword>
+      <description>making a great fuss with someone when it is not very genuine. All the emphasis on ‘fuirs’.</description>
+    </item>
+    <item>
+      <headword id="idp161221456">raispais</headword>
+      <description>food that has dribbled down onto a baby’s bib or food sticking to a man’s moustache such as after taking soup or drinking milk. This was long ago when men wore heavy moustaches. Both the ‘is’ and the ‘ais’ as in ‘lavish’, the English word, or as in ‘follais’.</description>
+    </item>
+    <item>
+      <headword id="idp161222968">ròic</headword>
+      <description>a great stir and excitement. ‘oi’ as in ‘roimhe’, ‘c’ as in ‘cnoc’.</description>
+    </item>
+    <item>
+      <headword id="idp161224480">òrsamach</headword>
+      <description>a very stout person. ‘o’ as in ‘òg’.</description>
+    </item>
+    <item>
+      <headword id="idp161225992">maganach</headword>
+      <description>a very big heavy built man. I don’t think this word was applied to a woman. The first syllable had slightly more emphasis.</description>
+    </item>
+  </items>
+</fieldworkDocument>

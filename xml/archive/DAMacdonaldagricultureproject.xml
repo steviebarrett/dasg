@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 10 6 13 -->
+<fieldworkDocument docId="Agriculture_DAMacdonaldagricultureproject" docType="wordlist" subType="ScottishGaelicVocabularyOfAgriculture">
+  <title>Àiteach / Agriculture</title>
+  <note>[NOTES: the original title of the list is “Scottish Gaelic Vocabulary of Agriculture”.]</note>
+  <informant>
+    <nameEnglish>Donald Alex Macdonald</nameEnglish>
+  </informant>
+  <location>North Uist</location>
+  <items>
+    <item><headword id="d0e23" type="heading" level="h1">Index</headword></item>
+	<item><headword id="d0e27" type="heading" level="h1">1. General Introduction.</headword></item>
+	<item><headword id="d0e31" type="heading" level="h1">2. Historical Introduction.</headword></item>
+	<item><headword id="d0e35" type="heading" level="h1">3. Description of Project.</headword></item>
+	<item><headword id="d0e39" type="heading" level="h1">4. Arrangement of Material and Code.</headword></item>
+	<item><headword id="d0e43" type="heading" level="h1">5. Words arranged alphabetically –</headword></item>
+	<item><headword id="d0e47" type="heading" level="h2">(a) (with meanings) on cards</headword></item>
+	<item><headword id="d0e51" type="heading" level="h2">(b) (without meanings) on ‘sheets’.</headword></item>
+	<item><headword id="d0e55" type="heading" level="h1">6. Analysis of results.</headword></item>
+	<item><headword id="d0e59" type="heading" level="h1">7. Appendices (two)</headword></item>
+	<item><headword id="d0e63" type="heading" level="h2">(1) words from Dwelly’s.</headword></item>
+	<item><headword id="d0e67" type="heading" level="h2">(2) ‘communal’ practice in N. Uist.</headword></item>
+	<item><headword id="d0e71" type="heading" level="h1">8. General conclusions.</headword></item>
+	<item><headword id="d0e75" type="heading" level="h1">9. Diagram of Horse and Cart.</headword></item>
+    <note>[NOTES: The report contains an alphabetical word list (see point 5b above) but it does not provide any information about the words’ sources, meanings or alternative spellings. According to the above index (see point 5a), the missing information could be found on the cards accompanying the report. The list is based on a ‘rough’ copy compiled as a ‘specimen questionnaire’, which is based on material from all twelve questionnaires that Mr MacDonald used for his project. Again, the questionnaire does not contain any additional information but it preserves the original spellings used by the informants.]</note>
+	<item><headword id="d0e82" type="heading" level="h1">Each ’sa chairt</headword></item>
+	<item>
+  	  <headword id="d0e87">mireanach</headword>
+  	  <description>[Number 1 on the diagram.]
+	    <illustration src="DAMacdonaldagricultureprojectillust1.jpg" width="600"/>
+	  </description>
+  	</item>
+	<item>
+  	  <headword id="d0e98">failbheagan</headword>
+  	  <description>[Number 2 on the diagram.]
+	    <illustration src="DAMacdonaldagricultureprojectillust1.jpg" width="600"/>
+	  </description>
+  	</item> 
+	<item>
+  	  <headword id="d0e109">stroinean</headword>
+  	  <description>[Number 3 on the diagram.]
+	    <illustration src="DAMacdonaldagricultureprojectillust1.jpg" width="600"/>
+	  </description>
+	</item>
+	<item>
+	  <headword id="d0e120">leac na siolla</headword>
+	  <description>[Number 4 on the diagram.]
+	    <illustration src="DAMacdonaldagricultureprojectillust1.jpg" width="600"/>
+	  </description>
+	</item>
+	<item>
+	  <headword id="d0e131">siollachan</headword>
+	  <description>[Number 5 on the diagram.]
+	    <illustration src="DAMacdonaldagricultureprojectillust1.jpg" width="600"/>
+	  </description>
+	</item>
+	<item>
+	  <headword id="d0e142">canaib na srathar</headword>
+	  <description>[Number 6 on the diagram.]
+	    <illustration src="DAMacdonaldagricultureprojectillust1.jpg" width="600"/>
+	  </description>
+	</item>
+	<item>
+	  <headword id="d0e153">an t-srathair</headword>
+	  <description>[Number 7 on the diagram.]
+	    <illustration src="DAMacdonaldagricultureprojectillust1.jpg" width="600"/>
+	  </description>
+	</item>
+  	<item>
+	  <headword id="d0e164">loinneachan</headword>
+	  <description>[Number 8 on the diagram.]
+	    <illustration src="DAMacdonaldagricultureprojectillust1.jpg" width="600"/>
+	  </description>
+	</item>
+	<item>
+	  <headword id="d0e175">gurt na srathrach</headword>
+	  <description>[Number 9 on the diagram.]
+	    <illustration src="DAMacdonaldagricultureprojectillust1.jpg" width="600"/>
+	  </description>
+	</item>
+	<item>
+	  <headword id="d0e186">an trabhailear</headword>
+	  <description>[Number 10 on the diagram.]
+	    <illustration src="DAMacdonaldagricultureprojectillust1.jpg" width="600"/>
+	  </description>
+	</item>
+	<item>
+	  <headword id="d0e197">srap droma</headword>
+	  <description>[Number 11 on the diagram.]
+	    <illustration src="DAMacdonaldagricultureprojectillust1.jpg" width="600"/>
+	  </description>
+	</item>
+	<item>
+	  <headword id="d0e208">srap mor na briogais</headword>
+	  <description>[Number 12 on the diagram.]
+	    <illustration src="DAMacdonaldagricultureprojectillust1.jpg" width="600"/>
+	  </description>
+	</item>
+	<item>
+	  <headword id="d0e219">galais na briogais</headword>
+	  <description>[Number 13 on the diagram.]
+	    <illustration src="DAMacdonaldagricultureprojectillust1.jpg" width="600"/>
+	  </description>
+	</item>
+	<item>
+	  <headword id="d0e230">na trams</headword>
+	  <description>[Number 14 on the diagram.]
+	    <illustration src="DAMacdonaldagricultureprojectillust1.jpg" width="600"/>
+	  </description>
+	</item>
+	<item>
+	  <headword id="d0e241">fulais</headword>
+	  <description>[Number 15 on the diagram.]
+	    <illustration src="DAMacdonaldagricultureprojectillust1.jpg" width="600"/>
+	  </description>
+	</item>
+	<item>
+	  <headword id="d0e252">cearcal</headword>
+	  <description>[Number 16 on the diagram.]
+	    <illustration src="DAMacdonaldagricultureprojectillust1.jpg" width="600"/>
+	  </description>
+	</item>
+	<item>
+	  <headword id="d0e263">branndain</headword>
+	  <description>[Number 17 on the diagram.]
+	    <illustration src="DAMacdonaldagricultureprojectillust1.jpg" width="600"/>
+	  </description>
+	</item>
+	<item>
+	  <headword id="d0e274">cioch</headword>
+	  <description>[Number 18 on the diagram.]
+	    <illustration src="DAMacdonaldagricultureprojectillust1.jpg" width="600"/>
+	  </description>
+	</item>
+	<item>
+	  <headword id="d0e285">spog</headword>
+	  <description>[Number 19 on the diagram.]
+	    <illustration src="DAMacdonaldagricultureprojectillust1.jpg" width="600"/>
+	  </description>
+	</item>
+	<item>
+	  <headword id="d0e296">cliathach</headword>
+	  <description>[Number 20 on the diagram.]
+	    <illustration src="DAMacdonaldagricultureprojectillust1.jpg" width="600"/>
+	  </description>
+	</item>
+	<item>
+	  <headword id="d0e307">bord toisich</headword>
+	  <description>[Number 21 on the diagram.]
+	    <illustration src="DAMacdonaldagricultureprojectillust1.jpg" width="600"/>
+	  </description>
+	</item>
+	<item>
+	  <headword id="d0e318">bord deiridh</headword>
+	  <description>[Number 22 on the diagram.]
+	    <illustration src="DAMacdonaldagricultureprojectillust1.jpg" width="600"/>
+	  </description>
+	</item>
+	<item>
+	  <headword id="d0e329">bord taoibh</headword>
+	  <description>[Number 23 on the diagram.]
+	    <illustration src="DAMacdonaldagricultureprojectillust1.jpg" width="600"/>
+	  </description>
+	</item>
+	<item>
+	  <headword id="d0e340">gluinean</headword>
+	  <description>[Number 24 on the diagram.]
+	    <illustration src="DAMacdonaldagricultureprojectillust1.jpg" width="600"/>
+	  </description>
+	</item>
+	<item>
+	  <headword id="d0e351">bocsa</headword>
+	  <description>[Number 25 on the diagram.]
+	    <illustration src="DAMacdonaldagricultureprojectillust1.jpg" width="600"/>
+	  </description>
+	</item>
+	<item>
+	  <headword id="d0e362">glas</headword>
+	  <description>[Number 26 on the diagram.]
+	    <illustration src="DAMacdonaldagricultureprojectillust1.jpg" width="600"/>
+	  </description>
+	</item>
+  </items>
+</fieldworkDocument>

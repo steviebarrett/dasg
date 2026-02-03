@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 11 6 13 -->
+<fieldworkDocument docId="AssortedFieldworkers_BruernishRMacPhersoneccles" docType="questionnaire" subType="Ecclesiastical">
+  <title>An Eaglais / Ecclesiastical Terms</title>
+  <fieldworker>Ian Quick</fieldworker>
+  <date>[09/1983?]</date>
+  <note>[NOTES: the second informant added above Mr MacPherson on the first page – ‘Conor John MacLean (ann an Dailabrog, Barrach a th’ann)’.]</note>
+  <informant>
+    <nameEnglish>Roderick MacPherson</nameEnglish>
+    <age>81</age>
+    <origin>Barra</origin>
+  </informant>
+  <informant>
+    <nameEnglish>Conor [?] John MacLean</nameEnglish> 
+  </informant>
+  <location>Barra, Bruernish / Dailabrog [Daliburgh]</location>
+  <items>
+    <item><headword id="d0e41" type="heading" level="h1">1. Various denominations</headword></item>
+    <item>
+      <headword id="d0e46">an creideamh Caitligeach</headword>
+      <description>(&amp; an E. [Eaglais] Ch.)</description>
+    </item>
+    <item>
+      <headword id="d0e55">an creideamh saor</headword>
+      <description>(&amp; an E. [Eaglais] Sh.)</description>
+    </item>
+    <item>
+      <headword id="d0e64">an creideamh Pròstanach</headword>
+    </item>
+    <item>
+      <headword id="d0e70">an Eaglais Shasainn</headword>
+      <description>(not an creideamh Sasainn)</description>
+    </item>
+    <item>
+      <headword id="d0e79">na Baistich</headword>
+    </item>
+    <item><headword id="d0e84" type="heading" level="h1">2. Member of each of these denominations</headword></item>
+    <item>
+      <headword id="d0e89">Caitligeach</headword>
+    </item>
+    <item>
+      <headword id="d0e95">Pròstanach</headword>
+    </item>
+    <item>
+      <headword id="d0e101">Baisteach</headword>
+    </item>
+    <item><headword id="d0e106" type="heading" level="h1">3. Different courts of the Presbyterian churches</headword></item>
+    <item><headword id="d0e110" type="heading" level="h1">4. Members of the clergy and office-bearers with the Presbyterian churches</headword></item>
+    <item><headword id="d0e114" type="heading" level="h1">5. Members of the clergy and office-bearers in the Roman Catholic church</headword></item>
+    <item><headword id="d0e118" type="heading" level="h1">6. Holy Orders within the Roman Catholic church</headword></item>
+    <item><headword id="d0e122" type="heading" level="h1">7. Articles of dress or adornment</headword></item>
+    <item><headword id="d0e126" type="heading" level="h1">8. Church building and churchyard</headword></item>
+    <item><headword id="d0e130" type="heading" level="h1">9. Church furniture and ornaments</headword></item>
+    <item><headword id="d0e134" type="heading" level="h1">10. Different services during the week, feast days, sacraments, Sunday school etc.</headword></item>
+    <item><headword id="d0e138" type="heading" level="h1">11. God, the Lord, Jesus Christ, the Holy Ghost, the Blessed Virgin, the angels, the apostles, Heaven, the Gospel, prayers etc.</headword></item>
+    <item><headword id="d0e142" type="heading" level="h1">12. Satan, Hell, Purgatory, Limbo, different kinds of sin etc.</headword></item>
+  </items>
+</fieldworkDocument>

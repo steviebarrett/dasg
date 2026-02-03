@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 5/8/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_BarvasJMurrayslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>1975</date>
+  <fieldworker>[Tony Dilworth?]</fieldworker>
+  <informant>
+    <nameEnglish>John Murray</nameEnglish>
+  </informant>
+  <location>Lewis, Barvas</location>
+  <items>
+    <item>
+      <headword id="idp115458480">balbh</headword>
+      <description>Quotation: ’Se là balbh a th’ann. Notes: a muggy, warm, dull day.</description>
+    </item>
+    <item>
+      <headword id="idp115453800">féist</headword>
+      <description>[fɛ̜:ʃtʹ] Quotation: Thug mi a steach féist air. Notes: of skirt, “tuck”. (Heard a woman, probably from ‘An Rubha’, Lewis, say it.)</description>
+    </item>
+  </items>
+</fieldworkDocument>

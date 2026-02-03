@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?><!-- checked by MM on 3 6 14 --><fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="AOHenley_GlasgowMrsMFergusonbiadh" docType="questionnaire" subType="BiadhIsDeoch" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Biadh is Deoch / Food and Drink</title>
+  <date>[1987-88]</date>
+  <fieldworker personId="ohenleya">A. O’Henley</fieldworker>
+  <informant>
+    <nameEnglish>Mrs M. Ferguson</nameEnglish>
+    <origin>Islay</origin>
+  </informant>
+  <location>[Glasgow]</location>
+  <items>
+    <item><headword id="d0e29" type="heading" level="h1">1. Na tràthan</headword></item>
+    <item>
+      <headword id="idp112507024">braicebhas</headword>
+      <description>breakfast. Usually consisted of fish.</description>
+    </item>
+    <item><headword id="d0e42" type="heading" level="h1">2. Am biadh a bhidhte gabhail aig gach tràth</headword></item>
+    <item><headword id="d0e46" type="heading" level="h1">3. Dòighean air biadh a dheasachadh</headword></item>
+    <item>
+      <headword id="idp112552240">grèat</headword>
+      <description>range.</description>
+    </item>
+    <item>
+      <headword id="idp112458352">suabhaill</headword>
+      <description>chain on which a pot hung above the fire.</description>
+    </item>
+    <item>
+      <headword id="idp112431712">gealabhan</headword>
+      <description>fire.</description>
+    </item>
+    <item>
+      <headword id="idp112546768">gruideal</headword>
+      <description>griddle.</description>
+    </item>
+    <item>
+      <headword id="idp112498312">duaich</headword>
+      <description>ash. Baking wrapped and placed in hot ashes to cook.</description>
+    </item>
+    <item><headword id="d0e95" type="heading" level="h1">4. Fuine</headword></item>
+    <item>
+      <headword id="idp112453960">taois</headword>
+      <description>dough.</description>
+    </item>
+    <item><headword id="d0e108" type="heading" level="h1">5. Deochan dhe gach seòrsa</headword></item>
+    <item><headword id="d0e112" type="heading" level="h1">6. Biadh no deoch a bhidhte deanamh gu sònraichte do luchd euslan</headword></item>
+    <item><headword id="d0e116" type="heading" level="h1">7. Nithean a bhiodh ann nuair a rachadh beathach a mharbhadh</headword></item>
+    <item><headword id="d0e120" type="heading" level="h1">8. Faclan sam bith eile</headword></item>
+    <item><headword id="d0e124" type="heading" level="h2">Weather terms</headword></item>
+    <item>
+      <headword id="idp112488160">uaill mhath</headword>
+      <description>a good day.</description>
+    </item>
+    <item>
+      <headword id="idp112535896">dàth math</headword>
+      <description>clear sky.</description>
+    </item>
+    <item>
+      <headword id="idp112544752">dàth dona</headword>
+      <description>cloudy sky.</description>
+    </item>
+  </items>
+</fieldworkDocument>

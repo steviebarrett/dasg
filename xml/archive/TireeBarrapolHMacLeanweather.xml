@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 13 4 14 -->
+<fieldworkDocument xmlns:php="http://php.net/xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="TireeandMull_TireeBarrapolHMacLeanweather" docType="questionnaire" subType="Weather" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Sìde / Weather</title>
+  <fieldworker>Ailean Boyd [Alan Boyd]</fieldworker>
+  <informant>
+    <nameEnglish>Hugh MacLean</nameEnglish>
+    <age>64</age>
+    <origin>Tiree</origin>
+  </informant>
+  <location>Isle of Tiree, Barrapol</location>
+  <items>
+    <item><headword id="d0e29" type="heading" level="h1">1. General terms</headword></item>
+    <item><headword id="d0e33" type="heading" level="h2">1.1. Good weather</headword></item>
+    <item>
+      <headword id="d0e38">an t-sìde mhath</headword>
+    </item>
+    <item>
+      <headword id="d0e44">sìde sheasach</headword>
+    </item>
+    <item>
+      <headword id="d0e50">là aiseach</headword>
+      <description>a beautiful day.</description>
+    </item>
+    <item><headword id="d0e58" type="heading" level="h2">1.2. Bad weather</headword></item>
+    <item>
+      <headword id="d0e63">droch shìd’</headword>
+    </item>
+    <item>
+      <headword id="d0e69">mosach</headword>
+      <description>wild.</description>
+    </item>
+    <item>
+      <headword id="d0e78">duathal</headword>
+      <description>terrible (more extreme than ‘mosach’ [q.v.]).</description>
+    </item>
+    <item>
+      <headword id="d0e87">curs</headword>
+      <description>terrible (more extreme than ‘mosach’ [q.v.]).</description>
+    </item>
+    <item>
+      <headword id="d0e96">sìde iarghalta</headword>
+      <description>troubled weather.</description>
+    </item>
+    <item><headword id="d0e104" type="heading" level="h2">1.3. Temperature</headword></item>
+    <item>
+      <headword id="d0e109">sìd’ chas</headword>
+      <description>sharp, cold, dry weather in winter. Crisp and anticyclonic. NE and N’ly winds.</description>
+    </item>
+    <item>
+      <headword id="d0e118">crannadh</headword>
+      <description>sharp, cold, dry weather in winter. Crisp and anticyclonic. NE and N’ly winds.</description>
+    </item>
+    <item>
+      <headword id="d0e127">sìde throm</headword>
+      <description>sultry, hot.</description>
+    </item>
+    <item>
+      <headword id="d0e136">sìde chadalach</headword>
+      <description>sultry, hot.</description>
+    </item>
+    <item>
+      <headword id="d0e145">sìde chlos (clos fhéin)</headword>
+      <description>(close) sultry, hot.</description>
+    </item>
+    <item>
+      <headword id="d0e154">teth</headword>
+    </item>
+    <item>
+      <headword id="d0e160">blath</headword>
+    </item>
+    <item><headword id="d0e165" type="heading" level="h2">1.4. Dryness, wetness</headword></item>
+    <item>
+      <headword id="d0e170">sìde thioram</headword>
+    </item>
+    <item>
+      <headword id="d0e176">sìde fhliuch</headword>
+    </item>
+    <item>
+      <headword id="d0e182">bog</headword>
+      <description>damp.</description>
+    </item>
+    <item><headword id="d0e190" type="heading" level="h1">2. The sky and the weather</headword></item>
+    <item><headword id="d0e194" type="heading" level="h2">2.1. A clear sky by day</headword></item>
+    <item>
+      <headword id="d0e199">speur glan</headword>
+    </item>
+    <item><headword id="d0e204" type="heading" level="h2">2.2. A clear night sky</headword></item>
+    <item>
+      <headword id="d0e209">oidhche bhriagha</headword>
+    </item>
+    <item>
+      <headword id="d0e215">oidhche lurach</headword>
+    </item>
+    <item>
+      <headword id="d0e221">speur glan</headword>
+    </item>
+    <item><headword id="d0e226" type="heading" level="h2">2.3. A red sky</headword></item>
+    <item>
+      <headword id="d0e231">speur dearg</headword>
+      <description>Ma tha e ri ’fhaicinn tha fiughair ri gaoth an eara-dheas gun dàil. Speur dearg anns a’ mhadainn trath anns an Earrach bha fiughair ri an-shìd gun dàil.</description>
+    </item>
+    <item><headword id="d0e239" type="heading" level="h2">2.4. An overcast sky</headword></item>
+    <item>
+      <headword id="d0e244">salach</headword>
+    </item>
+    <item>
+      <headword id="d0e250">speur salach</headword>
+    </item>
+    <item>
+      <headword id="d0e256">samh (m) ( sev)</headword>
+      <description>[pron.] haze.</description>
+    </item>
+    <item>
+      <headword id="d0e265">samhar</headword>
+      <description>hazey.</description>
+    </item>
+    <item><headword id="d0e273" type="heading" level="h2">2.5. Unusual appearance of the moon or the sun</headword></item>
+    <item>
+      <headword id="d0e278">buaile (f)</headword>
+      <description>fiughair ri uisge. The larger the halo is, the sooner rain can be expected.</description>
+    </item>
+    <item>
+      <headword id="d0e287">a’ ghrian ’na trì</headword>
+      <description>the sun appearing as 3 low in sky.</description>
+    </item>
+    <item>
+      <headword id="d0e296">clip air a’ ghréin</headword>
+      <description>eclipse of the sun.</description>
+    </item>
+    <item>
+      <headword id="d0e305">casan o’n ghréin</headword>
+      <description>big sunbeams in morning. Forecast high wind within 24 hours. Also known as “gaithean na gréineadh” (Tiree genitive).</description>
+    </item>
+    <item>
+      <headword id="d0e314">gaithean na gréineadh</headword>
+      <description>[See casan o’n ghréin]</description>
+    </item>
+    <item><headword id="d0e322" type="heading" level="h2">2.6. The northern lights</headword></item>
+    <item>
+      <headword id="d0e327">fir chlis</headword>
+    </item>
+    <item><headword id="d0e332" type="heading" level="h2">2.7. Stars</headword></item>
+    <item>
+      <headword id="d0e337">runnag (f), runnagan (pl)</headword>
+    </item>
+    <item>
+      <headword id="d0e343">an Crann</headword>
+      <description>the Plough.</description>
+    </item>
+    <item>
+      <headword id="d0e352">an Griaglachan</headword>
+      <description>the Pleiades.</description>
+    </item>
+    <item>
+      <headword id="d0e361">runnag a’ dol air imrich</headword>
+      <description>shooting star.</description>
+    </item>
+    <item>
+      <headword id="d0e370">Bhéanas</headword>
+      <description>Venus.</description>
+    </item>
+    <item>
+      <headword id="d0e379">Breac a’ Mhuilinn</headword>
+      <description>Milky Way.</description>
+    </item>
+    <item>
+      <headword id="d0e388">(Stars twinkling – frost.)</headword>
+    </item>
+    <item><headword id="d0e393" type="heading" level="h1">3. Clouds</headword></item>
+    <item><headword id="d0e397" type="heading" level="h2">3.1. Light cloud</headword></item>
+    <item>
+      <headword id="d0e402">neòil shoilleir</headword>
+    </item>
+    <item>
+      <headword id="d0e408">neòil aotrom</headword>
+    </item>
+    <item><headword id="d0e413" type="heading" level="h2">3.2. Cirrus cloud</headword></item>
+    <item>
+      <headword id="d0e418">neòil àrd</headword>
+    </item>
+    <item>
+      <headword id="d0e424">urball each</headword>
+      <description>mares tails. (Fiughair ri gaoth.)</description>
+    </item>
+    <item><headword id="d0e432" type="heading" level="h2">3.3. Thick cloud</headword></item>
+    <item>
+      <headword id="d0e437">neòil thairneanach</headword>
+      <description>cumulonimbus</description>
+    </item>
+    <item>
+      <headword id="d0e446">neòil duathal</headword>
+      <description>grey and heavily overcast.</description>
+    </item>
+    <item><headword id="d0e454" type="heading" level="h2">3.4. Rainbow</headword></item>
+    <item>
+      <headword id="d0e459">bogha-froiseadh</headword>
+      <description>(Tiree gen. with -adh at end.)</description>
+    </item>
+    <item>
+      <headword id="d0e468">badag chruaidh</headword>
+      <description>small section of rainbow suspended in sky. Includes all rainbow colours. Generally seen in showery weather.</description>
+    </item>
+    <item><headword id="d0e476" type="heading" level="h1">4. Wind</headword></item>
+    <item><headword id="d0e480" type="heading" level="h2">4.1. Dead calm</headword></item>
+    <item>
+      <headword id="d0e485">fiath (noun)</headword>
+      <description>fiath nan ian.</description>
+    </item>
+    <item>
+      <headword id="d0e494">fiathail (adj)</headword>
+    </item>
+    <item>
+      <headword id="d0e500">ciùin</headword>
+      <description>also can mean the smir of drizzle.</description>
+    </item>
+    <item><headword id="d0e508" type="heading" level="h2">4.2. Light breeze</headword></item>
+    <item>
+      <headword id="d0e513">oiteag (f)</headword>
+      <description>could also be a whirlwind as experienced at springtime and harvest-time.</description>
+    </item>
+    <item><headword id="d0e521" type="heading" level="h2">4.3. Fresh breeze</headword></item>
+    <item>
+      <headword id="d0e526">brios</headword>
+      <description>breeze.</description>
+    </item>
+    <item><headword id="d0e534" type="heading" level="h2">4.4. Gusts</headword></item>
+    <item>
+      <headword id="d0e539">gaoth ’na deannaichean</headword>
+    </item>
+    <item>
+      <headword id="d0e545">oiteag</headword>
+      <description>a gust.</description>
+    </item>
+    <item><headword id="d0e553" type="heading" level="h2">4.5. Wind of variable direction</headword></item>
+    <item>
+      <headword id="d0e558">very seldom</headword>
+    </item>
+    <item><headword id="d0e563" type="heading" level="h2">4.6. Strong wind</headword></item>
+    <item>
+      <headword id="d0e568">gaoth làidir</headword>
+    </item>
+    <item><headword id="d0e573" type="heading" level="h2">4.7. Gale</headword></item>
+    <item>
+      <headword id="d0e578">geal (f)</headword>
+    </item>
+    <item><headword id="d0e583" type="heading" level="h2">4.8. Hurricane</headword></item>
+    <item>
+      <headword id="d0e588">stoirm (f)</headword>
+    </item>
+    <item><headword id="d0e593" type="heading" level="h2">4.9. Rising wind</headword></item>
+    <item>
+      <headword id="d0e598">a’ ghaoth a’ buannachd</headword>
+    </item>
+    <item><headword id="d0e603" type="heading" level="h2">4.10. Dying wind</headword></item>
+    <item>
+      <headword id="d0e608">a’ ghaoth a’ toirt dheth</headword>
+    </item>
+    <item>
+      <headword id="d0e614">a’ ghaoth a’ sìleadh</headword>
+    </item>
+    <item><headword id="d0e619" type="heading" level="h2">4.11. Winds associated with particular seasons of the year</headword></item>
+    <item>
+      <headword id="d0e624">gaoth-earraich</headword>
+      <description>an eara-dheas (SE).</description>
+    </item>
+    <item>
+      <headword id="d0e633">a’ ghaoth ann am foghair</headword>
+      <description>an ear-thuath (NE).</description>
+    </item>
+    <item><headword id="d0e641" type="heading" level="h2">Trì gaothan a’s fuaire:</headword></item>
+    <item>
+      <headword id="d0e646">gaoth roimh tholl</headword>
+      <description>coldest. (“Roimh” used in Tiree instead of “troimh”.)</description>
+    </item>
+    <item>
+      <headword id="d0e655">gaoth fo sheòl</headword>
+      <description>2nd coldest.</description>
+    </item>
+    <item>
+      <headword id="d0e664">gaoth aiteamh</headword>
+      <description>3rd coldest.</description>
+    </item>
+    <item><headword id="d0e672" type="heading" level="h1">5. Tides</headword></item>
+    <item>
+      <headword id="d0e677">làin</headword>
+    </item>
+    <item><headword id="d0e682" type="heading" level="h2">5.1. Flowing</headword></item>
+    <item>
+      <headword id="d0e687">làn a’ buannachd</headword>
+    </item>
+    <item>
+      <headword id="d0e693">làn a’ tighinn a-staigh</headword>
+    </item>
+    <item><headword id="d0e698" type="heading" level="h2">5.2. Ebbing</headword></item>
+    <item>
+      <headword id="d0e703">lan  a’ toirt dheth</headword>
+    <description>[sic] </description></item>
+    <item><headword id="d0e708" type="heading" level="h2">5.3. High tide</headword></item>
+    <item>
+      <headword id="d0e713">muir làn</headword>
+    </item>
+    <item><headword id="d0e718" type="heading" level="h2">5.4. Low tide</headword></item>
+    <item>
+      <headword id="d0e723">muir tràigh</headword>
+    </item>
+    <item><headword id="d0e728" type="heading" level="h2">5.5. Spring tide</headword></item>
+    <item>
+      <headword id="d0e733">traigh reothairt</headword>
+      <description>low spring tide.</description>
+    </item>
+    <item>
+      <headword id="d0e742">làn reothairt</headword>
+      <description>high spring tide.</description>
+    </item>
+    <item><headword id="d0e750" type="heading" level="h2">5.6. Neap tide</headword></item>
+    <item>
+      <headword id="d0e755">contraigh</headword>
+    </item>
+    <item><headword id="d0e760" type="heading" level="h2">5.7. Turn of the tide</headword></item>
+    <item>
+      <headword id="d0e765">tionndadh a’ làin</headword>
+    </item>
+    <item><headword id="d0e770" type="heading" level="h1">6. Weather and the sea</headword></item>
+    <item><headword id="d0e774" type="heading" level="h2">6.1. A calm sea</headword></item>
+    <item>
+      <headword id="d0e779">cuan lom</headword>
+    </item>
+    <item><headword id="d0e784" type="heading" level="h2">6.2. A light swell</headword></item>
+    <item>
+      <headword id="d0e789">“swell” beag</headword>
+    </item>
+    <item><headword id="d0e794" type="heading" level="h2">6.3. A heavy swell</headword></item>
+    <item>
+      <headword id="d0e799">“swell” trom</headword>
+    </item>
+    <item><headword id="d0e804" type="heading" level="h2">6.4. A choppy sea</headword></item>
+    <item>
+      <headword id="d0e809">fairge chas</headword>
+    </item>
+    <item><headword id="d0e814" type="heading" level="h2">6.5. A stormy sea</headword></item>
+    <item>
+      <headword id="d0e819">fairge churs</headword>
+    </item>
+    <item><headword id="d0e824" type="heading" level="h2">6.6. Large waves</headword></item>
+    <item>
+      <headword id="d0e829">tonnan móra</headword>
+    </item>
+    <item><headword id="d0e834" type="heading" level="h2">6.7. Breakers</headword></item>
+    <item>
+      <headword id="d0e839">bristichean (aon bhristeadh)</headword>
+    </item>
+    <item><headword id="d0e844" type="heading" level="h2">6.8. Surf</headword></item>
+    <item>
+      <headword id="d0e849">stoth</headword>
+    </item>
+    <item><headword id="d0e854" type="heading" level="h2">6.9. Spindrift</headword></item>
+    <item>
+      <headword id="d0e859">cath a’ chuain</headword>
+    </item>
+    <item>
+      <headword id="d0e865">rùid (f), rùidean (pl)</headword>
+      <description>a wave, but not breaking.</description>
+    </item>
+    <item><headword id="d0e873" type="heading" level="h1">7. Rain</headword></item>
+    <item><headword id="d0e877" type="heading" level="h2">7.1. Drizzle</headword></item>
+    <item>
+      <headword id="d0e882">smugalach-uisge</headword>
+    </item>
+    <item><headword id="d0e887" type="heading" level="h2">7.2. Light shower</headword></item>
+    <item>
+      <headword id="d0e892">fras aotrom</headword>
+    </item>
+    <item><headword id="d0e897" type="heading" level="h2">7.3. Heavy shower</headword></item>
+    <item>
+      <headword id="d0e902">fras throm</headword>
+    </item>
+    <item>
+      <headword id="d0e908">steall-uisge</headword>
+    </item>
+    <item><headword id="d0e913" type="heading" level="h2">7.4. Prolonged rain</headword></item>
+    <item>
+      <headword id="d0e918">fìor uisge</headword>
+    </item>
+    <item><headword id="d0e923" type="heading" level="h2">7.5. Driving rain</headword></item>
+    <item>
+      <headword id="d0e928">uisge sgaoil</headword>
+    </item>
+    <item><headword id="d0e933" type="heading" level="h2">7.6. Getting soaked</headword></item>
+    <item>
+      <headword id="d0e938">bog-fliuch</headword>
+    </item>
+    <item>
+      <headword id="d0e944">sgios de dh’uisge</headword>
+      <description>drizzle.</description>
+    </item>
+    <item><headword id="d0e952" type="heading" level="h1">8. Mist</headword></item>
+    <item><headword id="d0e956" type="heading" level="h2">8.1. Light mist</headword></item>
+    <item>
+      <headword id="d0e961">ceòban</headword>
+    </item>
+    <item><headword id="d0e966" type="heading" level="h2">8.2. Heavy mist</headword></item>
+    <item>
+      <headword id="d0e971">ceò</headword>
+    </item>
+    <item><headword id="d0e976" type="heading" level="h2">8.3. Sea mist</headword></item>
+    <item>
+      <headword id="d0e981">ceò-mara</headword>
+    </item>
+    <item><headword id="d0e986" type="heading" level="h2">8.4. Other terms associated with mist</headword></item>
+    <item>
+      <headword id="d0e991">[ceò-earraich]</headword>
+      <description>Chan fhacas riamh ceò-earraich gun chathadh as a dhéidh.</description>
+    </item>
+    <item>
+      <headword id="d0e1000">ceò-ar</headword>
+      <description>misty.</description>
+    </item>
+    <item><headword id="d0e1008" type="heading" level="h1">9. Thunder and lightning</headword></item>
+    <item><headword id="d0e1012" type="heading" level="h2">9.1. Thunder</headword></item>
+    <item>
+      <headword id="d0e1017">tairneanach cruaidh</headword>
+      <description>loud thunder.</description>
+    </item>
+    <item>
+      <headword id="d0e1026">torman (f)</headword>
+      <description>distant thunder.</description>
+    </item>
+    <item><headword id="d0e1034" type="heading" level="h2">9.2. Lightning</headword></item>
+    <item>
+      <headword id="d0e1039">tein’-adhair</headword>
+      <description>lightning. (Pronounced “tin-adair” in Tiree.)</description>
+    </item>
+    <item>
+      <headword id="d0e1048">fear gorm</headword>
+      <description>fork lightning between cloud and ground.</description>
+    </item>
+    <item>
+      <headword id="d0e1057">tin’-adhair bàn</headword>
+      <description>sheet lightning between clouds.</description>
+    </item>
+    <item><headword id="d0e1065" type="heading" level="h1">10. Snow and hail</headword></item>
+    <item><headword id="d0e1069" type="heading" level="h2">10.1. Snowflakes</headword></item>
+    <item>
+      <headword id="d0e1074">clàdan (m), clàdain (pl)</headword>
+      <description>large snowflakes in spring and winter, not too cold. Would cover a penny.</description>
+    </item>
+	<item>
+	  <headword id="idola222">[small snowflakes]</headword>
+	  <description>(No word in Tiree for small snowflakes.)</description>
+	</item>
+    <item><headword id="d0e1091" type="heading" level="h2">10.2. Sleet</headword></item>
+    <item>
+      <headword id="d0e1096">fliuchana-shneachda</headword>
+    </item>
+    <item><headword id="d0e1101" type="heading" level="h2">10.3. Different types of snow</headword></item>
+    <item>
+      <headword id="d0e1106">sneachd fliuch</headword>
+      <description>wet snow.</description>
+    </item>
+    <item><headword id="d0e1114" type="heading" level="h2">10.4. Driving snow</headword></item>
+    <item>
+      <headword id="d0e1119">cathadh-shneachda</headword>
+    </item>
+    <item><headword id="d0e1124" type="heading" level="h2">10.5. Heavy fall</headword></item>
+    <item>
+      <headword id="d0e1129">sneachda trom</headword>
+    </item>
+    <item><headword id="d0e1134" type="heading" level="h2">10.6. Snowdrifts</headword></item>
+    <item>
+      <headword id="d0e1139">bòta-sneachda, botaichean-sneachda (pl)</headword>
+    </item>
+    <item><headword id="d0e1144" type="heading" level="h2">10.7. A few flakes floating in the wind</headword></item>
+    <item><headword id="d0e1148" type="heading" level="h2">10.8. Snowman and rolled ball of snow</headword></item>
+    <item>
+      <headword id="d0e1153">bodach-sneachda</headword>
+    </item>
+    <item>
+      <headword id="d0e1159">muc-shneachda</headword>
+    </item>
+    <item>
+      <headword id="d0e1165">muc-bhàn</headword>
+    </item>
+    <item><headword id="d0e1170" type="heading" level="h2">10.9. Hailstones</headword></item>
+    <item>
+      <headword id="d0e1175">clach-mheallan</headword>
+    </item>
+    <item><headword id="d0e1180" type="heading" level="h1">11. Frost</headword></item>
+    <item><headword id="d0e1184" type="heading" level="h2">11.1. Hoarfrost</headword></item>
+    <item>
+      <headword id="d0e1189">liath-reothadh</headword>
+    </item>
+    <item><headword id="d0e1194" type="heading" level="h2">11.2. Hard frost</headword></item>
+    <item>
+      <headword id="d0e1199">reothadh cruaidh</headword>
+    </item>
+    <item><headword id="d0e1204" type="heading" level="h2">11.3. Ice</headword></item>
+    <item>
+      <headword id="d0e1209">deigheanach (f)</headword>
+      <description>ice. (‘deitheanach’ – Tiree pronunciation.)</description>
+    </item>
+    <item>
+      <headword id="d0e1218">“Cha robh reothadh an loin làin riamh buan.”</headword>
+    </item>
+    <item><headword id="d0e1223" type="heading" level="h2">11.4. Thaw</headword></item>
+    <item>
+      <headword id="d0e1228">aiteamh (f)</headword>
+    </item>
+    <item><headword id="d0e1233" type="heading" level="h1">12. Signs foretelling weather.</headword></item>
+    <item><headword id="d0e1237" type="heading" level="h2">12.1. Foretelling good weather</headword></item>
+    <item>
+      <headword id="d0e1242">[foretelling good weather 1]</headword>
+      <description>A’ ghaoth a’ leantail na Gréineadh. (clockwise direction) (‘Gréineadh’ – Tiree gen. for ‘Grian’.)</description>
+    </item>
+    <item>
+      <headword id="d0e1251">[foretelling good weather 2]</headword>
+	  <description>Spreidh a’ dol suas na beanntan.</description>
+	</item>
+	<item>
+      <headword id="d0e1257">[foretelling good weather 3]</headword>
+	  <description>Deep red sky at night.</description>
+    </item>
+    <item><headword id="d0e1262" type="heading" level="h2">12.2. Foretelling bad weather</headword></item>
+    <item>
+      <headword id="d0e1267">[foretelling bad weather 1]</headword>
+      <description>An cuan a bhi mosach. Influence of a gale on the sea-state hours before it actually comes.</description>
+    </item>
+	<item>
+      <headword id="d0e1276">[foretelling bad weather 2]</headword>
+	  <description>When no surf at all on beach – like a loch.</description>
+	</item>
+    <item>
+	  <headword id="d0e1282">[foretelling bad weather 3]</headword>
+	  <description>When “curachdagan” (lapwings) gather in large flocks.</description>
+    </item>
+	<item>
+      <headword id="d0e1288">[foretelling bad weather 4]</headword>
+	  <description>Fìor chomharradh na h-an-shìd’ – eòin na mara tighinn gu tìr.</description>
+    </item>
+    <item>
+      <headword id="d0e1294">[foretelling bad weather 5]</headword>
+	  <description>A’ ghorra-chritheach (heron) a’ dol gu’n cladach ’san fheasgar.</description>
+    </item>
+	<item>
+      <headword id="d0e1300">[foretelling bad weather 6]</headword>
+	  <description>Ducks (esp. mallard) making for sheltered spots such as boggy places and pools.</description>
+	</item>
+    <item>
+	  <headword id="d0e1306">[foretelling bad weather 7]</headword>
+	  <description>The larger the ‘buaile’ round the moon the closer rain is.</description>
+	</item>
+    <item>
+      <headword id="d0e1312">[foretelling bad weather 8]</headword>
+	  <description>Badag chruaidh.</description>
+    </item>
+    <item><headword id="d0e1317" type="heading" level="h1">13. General sayings or proverbs connected with the weather</headword></item>
+    <item>
+      <headword id="d0e1322">[general sayings or proverbs 1]</headword>
+	  <description>Fiath an fhaoillich agus gaol siùrsaich.</description>
+    </item>
+    <item>
+      <headword id="d0e1328">[general sayings or proverbs 2]</headword>
+	  <description>B’fhèarr leam ruag is creach a thighinn do’n tìr na madainn mhin an fhaoillich.</description>
+    </item>
+    <item>
+      <headword id="d0e1334">[general sayings or proverbs 3]</headword>
+	  <description>Gheibheadh tu geamhradh math nan robh earrach geal grianach ann agus foghar breac riabhach ’na dhéidh.</description>
+    </item>
+    <item>
+      <headword id="d0e1340">[general sayings or proverbs 4]</headword>
+	  <description>Faileas (reflection) sam bi anns a’ loch bhiodh sin ’na chomharradh droch-shìd’.</description>
+    </item>
+    <item>
+      <headword id="d0e1346">[general sayings or proverbs 5]</headword>
+	  <description>Beanntan a’ sealltainn (Tiree instead of  ‘a’ coimhead’) na’s fhaisge ort na tha iad ann da rireadh.</description>
+    </item>
+	<item>
+	  <headword id="d0e1352">[general sayings or proverbs 6]</headword>
+	  <description>[crossed out]</description>
+	</item>
+    <item>
+      <headword id="d0e1358">[general sayings or proverbs 7]</headword>
+	  <description>Gaoth-a-tuath fuachd is feannadh / Gaoth-an-iar iasg is bainne / Gaoth-a-deas teas is toradh / Gaoth-an-ear tart is crannadh.</description>
+    </item>
+    <item>
+      <headword id="d0e1364">[general sayings or proverbs 8]</headword>
+	  <description>Ma chailleas tu ghaoth, iar an deas i.</description>
+    </item>
+    <item>
+      <headword id="d0e1370">[general sayings or proverbs 9]</headword>
+	  <description>Speur dearg anns a’ mhadainn trath anns an earrach, bha fiughair ri an-shìd’ gun dàil, agus gaoth an eara-dheas.</description>
+    </item>
+    <item>
+      <headword id="d0e1376">[general sayings or proverbs 10]</headword>
+	  <description>An oiteag luaineach feadh nam bruach tha gluasad barr an fheòir.</description>
+    </item>
+  </items>
+</fieldworkDocument>

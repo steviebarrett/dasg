@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 7/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_KilmaluagJMacKayslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>1980 [1981 on the slips]</date>
+  <fieldworker>Angus MacKenzie</fieldworker>
+  <note>[NOTES: it seems that the slips are based on the word-list attached to Mr MacKenzie’s letter of 11/12/1980 (located in one of the unlabelled card index drawers).]</note>
+  <informant>
+    <nameEnglish>John MacKay</nameEnglish>
+    <origin>Kilmaluag</origin>
+  </informant>
+  <location>Skye, Kilmaluag</location>
+  <items>
+    <item>
+      <headword id="idp115778544">leideag</headword>
+      <description>Quotation: leideag, ceum is leum. Notes: hop, step and jump.</description>
+    </item>
+    <item>
+      <headword id="idp115775592">leidigeadh</headword>
+      <description>Quotation: Nadur de ghreim no siataig – leidigeadh anns a ghlùin.</description>
+    </item>
+    <item>
+      <headword id="idp115772496">leidigean</headword>
+      <description>Quotation: Cha b’ioghnadh ged a dh’fhaisgeadh do mhathair bhochd a dùirn t’athair s e gun eirigh ’san leidigean ’na ghluin.</description>
+    </item>
+    <item>
+      <headword id="idp115768320">luchag</headword>
+      <description>Quotation: An làir a’ tighinn faisg air a h-àm – an luchag a’ fas farsuinn.</description>
+    </item>
+    <item>
+      <headword id="idp115793952">maide-ruim</headword>
+      <description>Notes: maide air a dheanamh daingean anns a bhalla aig ceann bathcha.</description>
+    </item>
+    <item>
+      <headword id="idp115795464">muc-breac</headword>
+      <description>Notes: killer whale.</description>
+    </item>
+    <item>
+      <headword id="idp115796976">[fuigheall]</headword>
+      <description>Quotation: Is minic a bhuannaich fuigheall fanoid is a shearg fuigheall farmaid.</description>
+    </item>
+    <item>
+      <headword id="idp115798704">[greim]</headword>
+      <description>Quotation: Tri rudan as doirbhe greimeachadh orra. Greim air earradh air eathar. Greim air iorball air bradan. Is greim air cas dheiridh air fiadh.</description>
+    </item>
+    <item>
+      <headword id="idp115800432">[feasgar]</headword>
+      <description>Quotation: Mar chloich a riuthle [sic] glea’ [?] feasgar fann foghair. Mar bho chaol direadh aonaich feasgar ruighinn earraich.</description>
+    </item>
+    <item>
+      <headword id="idp115802160">ìochdrachadh</headword>
+      <description>Quotation: Gar do chasan s cuir ort do bhrogan is seall a mach aig cul an taighe fiach bheil an carraidh g’ iochdrachadh. Notes: heard originally from grandmother as nonsense rhyme: “Cuirt [sic] ort do chasan is gar do bhrogan is seall a mach aig cul na carraidh fiach bheil an tigh ag iochdrachadh.” Similarly: Mi fhein tarsuinn air an t-sioman ’s mo chota mor muigh ga fhliuchadh.”</description>
+    </item>
+    <item>
+      <headword id="idp115803816">saileagan</headword>
+      <description>Notes: Balgam geur bho’n stamag. (Bruchd ruadh aig Dwelly.)</description>
+    </item>
+    <item>
+      <headword id="idp115805400">saoradh</headword>
+      <description>Notes: Mar saobh-shouth ann an faclair Dwelly.</description>
+    </item>
+    <item>
+      <headword id="idp115806912">siompair</headword>
+      <description>Notes: Maide bh’air a chleachdadh gu bhi putadh sios buntata a bhiodh air stad ann an amhach beathaich.</description>
+    </item>
+    <item>
+      <headword id="idp115808424">sladhag</headword>
+      <description>Notes: Am droinn adhairc. (The inner sheath, not outer as in Dwelly.) [NOTES: slipped under ‘slabhag’.]</description>
+    </item>
+    <item>
+      <headword id="idp115810080">sliobhag</headword>
+      <description>Notes: porridge stick, oar blade.</description>
+    </item>
+    <item>
+      <headword id="idp115811592">sodarra</headword>
+      <description>Quotation: Tha a ghaoth ag eirigh. Bi e gu math sodarra anns an t-eilein an diugh.</description>
+    </item>
+    <item>
+      <headword id="idp115813104">speuird</headword>
+      <description>Notes: Nadur de thé chaol bhiorach.</description>
+    </item>
+    <item>
+      <headword id="idp115814616">splochdan</headword>
+      <description>Notes: mumps.</description>
+    </item>
+    <item>
+      <headword id="idp115816128">stéidh-bhualaidh</headword>
+      <description>Notes: (Gigha) Innein.</description>
+    </item>
+    <item>
+      <headword id="idp115817640">tath-thoinneamh</headword>
+      <description>Notes: rope splice.</description>
+    </item>
+    <item>
+      <headword id="idp115819152">arcan</headword>
+      <description>Quotation: A’ bho a’ tighinn faisg air am breith – an arcan a’ fas farsuinn. Notes: arcag?</description>
+    </item>
+    <item>
+      <headword id="idp115820808">breid-reitheachd</headword>
+      <description>Notes: Poca air a cheangal fo’n reithe gu bhi cur bacadh air am measg nan caorach.</description>
+    </item>
+    <item>
+      <headword id="idp115822320">claoidhean</headword>
+      <description>Quotation: Cha deachaidh glas no claoidhean air an dorus bho dh’fhalbh thu.</description>
+    </item>
+    <item>
+      <headword id="idp115823832">clobha-nan-adharc</headword>
+      <description>Quotation: Inneal airson adharc an reithe a chumail a mach bho’n leth-cheann.</description>
+    </item>
+    <item>
+      <headword id="idp115825344">corra-shnìomh</headword>
+      <description>Quotation: Corran a bh’air a chur gu feum a’ deanamh sùgar fraoich.</description>
+    </item>
+    <item>
+      <headword id="idp115826856">craidhligeadh</headword>
+      <description>Notes: boisterous play.</description>
+    </item>
+    <item>
+      <headword id="idp115828368">craigisgein</headword>
+      <description>Notes: Na ceangail aig gach ceann de’n tigh a nochdadh os cionn an tughaidh – an maide feannaig aig Dwelly.</description>
+    </item>
+    <item>
+      <headword id="idp115829880">cuimeran</headword>
+      <description>Quotation: Thainig e air le cuimeran a leag fuar e. Notes: ceimeran.</description>
+    </item>
+    <item>
+      <headword id="idp115831536">ealag-seoltaidh</headword>
+      <description>Notes: chopping block. (Gigha)</description>
+    </item>
+    <item>
+      <headword id="idp115833048">èigheach-tathaisg</headword>
+      <description>Notes: Glaodh no guth neo-thalmhaidh a toirt rabhadh bho chunnart.</description>
+    </item>
+    <item>
+      <headword id="idp115834560">fideag</headword>
+      <description>Notes: Taod air a cheangal mu chas deiridh beothaich ann an eathar.</description>
+    </item>
+    <item>
+      <headword id="idp115836072">fleitige</headword>
+      <description>Notes: Taod air a cheangal ri ceann beothaich anns an eathar – g’ an ceangal ris an taobh-stock.</description>
+    </item>
+    <item>
+      <headword id="idp115837584">foilidean</headword>
+      <description>Quotation: Seorsa de dh’fheoil. “Sud sibh” ’illean ithibh am foilidean.</description>
+    </item>
+    <item>
+      <headword id="idp115839096">glag-bheairt</headword>
+      <description>Quotation: Seann ghlag-bheairt de thigh a bha tuiteam as a cheile.</description>
+    </item>
+    <item>
+      <headword id="idp115840608">gloine-mhothachaidh</headword>
+      <description>Notes: (Gigha) Prosbaig.</description>
+    </item>
+    <item>
+      <headword id="idp115842120">goin</headword>
+      <description>Quotation: Bun goinean (guinean) maduinn earraich.</description>
+    </item>
+    <item>
+      <headword id="idp115843632">grathais</headword>
+      <description>Notes: killer whale?</description>
+    </item>
+    <item>
+      <headword id="idp115845144">gunna-caol-torrach</headword>
+      <description>Notes: (Gigha) Rifle.</description>
+    </item>
+  </items>
+</fieldworkDocument>

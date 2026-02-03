@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 24 4 13 -->
+<fieldworkDocument docId="Peat_PortreeHighmoine" docType="questionnaire" subType="Peat">
+  <title>Mòine / Peat-Working</title>
+  <fieldworker>[school]</fieldworker>
+  <informant>
+    <nameEnglish>Portree High</nameEnglish>
+    <nameGaelic>Ard Sgoil Phortrigh </nameGaelic>
+  </informant>
+  <location>An t-Eilean Sgiathanach, Portrigh [Skye, Portree]</location>
+  <items>
+    <item><headword id="d0e26" type="heading" level="h1">1. Ag ullachadh na talmhainn airson mòine a bhuain</headword></item>
+    <item>
+      <headword id="d0e31">a’ breacadh na mònadh</headword>
+      <description>marking turf that is to be removed.</description>
+    </item>
+    <item>
+      <headword id="d0e40">poll</headword>
+      <description>peat bog or bank.</description>
+    </item>
+    <item>
+      <headword id="d0e49">a’ feannadh na mònadh</headword>
+      <description>turfing peat.</description>
+    </item>
+    <item>
+      <headword id="d0e58">a’ rusgadh na mònadh</headword>
+      <description>turfing peat. (Skye)</description>
+    </item>
+    <item>
+      <headword id="d0e67">a’ faileadh na mònadh</headword>
+      <description>turfing peat. (Harris)</description>
+    </item>
+    <item>
+      <headword id="d0e76">a’ truiseadh na mònadh</headword>
+      <description>turfing peat. (Harris)</description>
+    </item>
+    <item>
+      <headword id="d0e85">a’ sadhsadh na mònadh</headword>
+      <description>stripping the face of the peat bog.</description>
+    </item>
+    <item>
+      <headword id="d0e94">a’ buain</headword>
+      <description>cutting.</description>
+    </item>
+    <item>
+      <headword id="d0e103">a’ leagail</headword>
+      <description>cutting. (Harris)</description>
+    </item>
+    <item>
+      <headword id="d0e112">an fheanntach</headword>
+      <description>the turf removed.</description>
+    </item>
+    <item>
+      <headword id="d0e121">ceann a’ phuill</headword>
+      <description>upper end of the peat bog.</description>
+    </item>
+    <item>
+      <headword id="d0e130">ceann shios a’ phuill</headword>
+      <description>lower end of the peat bog.</description>
+    </item>
+    <item>
+      <headword id="d0e139">ris a’ mhòine</headword>
+      <description>engaged in peat work.</description>
+    </item>
+    <item>
+      <headword id="d0e148">anns a’ mhòine</headword>
+      <description>engaged in peat work.</description>
+    </item>
+    <item>
+      <headword id="d0e157">aig a’ mhòine</headword>
+      <description>engaged in peat work.</description>
+    </item>
+    <item>
+      <headword id="d0e166">sgaoilteach</headword>
+      <description>ground on which peat is spread out.</description>
+    </item>
+    <item>
+      <headword id="d0e175">uachdar</headword>
+      <description>the top of the peat bank.</description>
+    </item>
+    <item>
+      <headword id="d0e184">iochdar</headword>
+      <description>the bottom of the peat bank.</description>
+    </item>
+    <item>
+      <headword id="d0e193">aghaidh a’ phuill</headword>
+      <description>face of peat bog.</description>
+    </item>
+    <item><headword id="d0e201" type="heading" level="h1">2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</headword></item>
+    <item>
+      <headword id="d0e206">troighsgeir</headword>
+      <description>peat iron.</description>
+    </item>
+    <item>
+      <headword id="d0e215">iarunn mònadh</headword>
+      <description>peat iron.</description>
+    </item>
+    <item>
+      <headword id="d0e224">ceapa làir</headword>
+      <description>turfing-spade.</description>
+    </item>
+    <item>
+      <headword id="d0e233">mèatha</headword>
+      <description>the width of peat bank to be cut.</description>
+    </item>
+    <item>
+      <headword id="d0e242">carcair</headword>
+      <description>the width of peat bank to be cut. (Skye)</description>
+    </item>
+    <item>
+      <headword id="d0e251">fàd</headword>
+      <description>peat.</description>
+    </item>
+    <item>
+      <headword id="d0e260">bàn-fhàd</headword>
+      <description>top peat.</description>
+    </item>
+    <item>
+      <headword id="d0e269">dubh-fhàd</headword>
+      <description>second peat.</description>
+    </item>
+    <item>
+      <headword id="d0e278">grunn’-fhad</headword>
+      <description>[sic] bottom peat. (Skye)</description>
+    </item>
+    <item>
+      <headword id="d0e287">caoran</headword>
+      <description>bottom peat. (Uist and Scalpay)</description>
+    </item>
+    <item>
+      <headword id="d0e296">gàg</headword>
+      <description>a flaw in peat bank.</description>
+    </item>
+    <item>
+      <headword id="d0e305">gol-fhàd</headword>
+      <description>the outer peat in the bank. (Uist)</description>
+    </item>
+    <item>
+      <headword id="d0e314">a’ sgaoileadh</headword>
+      <description>spreading peat.</description>
+    </item>
+    <item>
+      <headword id="d0e323">gàradh</headword>
+      <description>wall of newly cut peat.</description>
+    </item>
+    <item>
+      <headword id="d0e332">iarunn</headword>
+      <description>a day’s peat-cutting for two men. (Uist)</description>
+    </item>
+    <item>
+      <headword id="d0e341">sgaoilteach</headword>
+      <description>cut peat not in ‘gàradh’ [q.v.].</description>
+    </item>
+    <item><headword id="d0e349" type="heading" level="h1">3. A’ tiormachadh na mònach</headword></item>
+    <item>
+      <headword id="d0e354">a’ togail</headword>
+      <description>setting up peat to dry.</description>
+    </item>
+    <item>
+      <headword id="d0e363">a’ tinneadh</headword>
+      <description>setting up peat on end.</description>
+    </item>
+    <item>
+      <headword id="d0e372">rùdhan</headword>
+      <description>grouping of peats (about 5 or 6) to dry.</description>
+    </item>
+    <item>
+      <headword id="d0e381">rùdhan</headword>
+      <description>a small peat stack. (Skye)</description>
+    </item>
+    <item>
+      <headword id="d0e390">a’ chas-bheag</headword>
+      <description>three or four peats set up for drying.</description>
+    </item>
+    <item>
+      <headword id="d0e399">ag atharrachadh</headword>
+      <description>re-grouping peat to speed up drying.</description>
+    </item>
+    <item><headword id="d0e407" type="heading" level="h1">4. A’ cruachadh na mònach</headword></item>
+    <item>
+      <headword id="d0e412">cruach</headword>
+      <description>stack.</description>
+    </item>
+    <item>
+      <headword id="d0e421">làrach</headword>
+      <description>base of stack.</description>
+    </item>
+    <item>
+      <headword id="d0e430">cridhe</headword>
+      <description>inside of stack.</description>
+    </item>
+    <item>
+      <headword id="d0e439">gniomhadh</headword>
+      <description>the building of peat-stack.</description>
+    </item>
+    <item>
+      <headword id="d0e448">tubhadh</headword>
+      <description>covering the stack with turf.</description>
+    </item>
+    <item><headword id="d0e456" type="heading" level="h1">5. A’ toirt na mònach dhachaigh; an cliabh, etc.</headword></item>
+    <item><headword id="d0e460" type="heading" level="h1">6. Seòrsachan mònach</headword></item>
+    <item>
+      <headword id="d0e465">mòine bhuidhe</headword>
+      <description>spongy peat.</description>
+    </item>
+    <item>
+      <headword id="d0e474">mòine chòsach</headword>
+      <description>spongy peat.</description>
+    </item>
+    <item>
+      <headword id="d0e483">mòine dhubh</headword>
+      <description>black peat.</description>
+    </item>
+    <item>
+      <headword id="d0e492">mòine chruaidh dhubh</headword>
+      <description>black peat (Uist and Harris).</description>
+    </item>
+    <item>
+      <headword id="d0e501">caorain</headword>
+      <description>broken peat.</description>
+    </item>
+    <item>
+      <headword id="d0e510">pronnadh</headword>
+      <description>crumbling peat.</description>
+    </item>
+    <item>
+      <headword id="d0e519">smùr</headword>
+      <description>peat dust. (Uist and Harris)</description>
+    </item>
+    <item>
+      <headword id="d0e528">smurach</headword>
+      <description>peat dust. (Skye)</description>
+    </item>
+    <item>
+      <headword id="d0e537">seana-mhoine</headword>
+      <description>last year’s peat.</description>
+    </item>
+    <item>
+      <headword id="d0e546">mòine-ùr</headword>
+      <description>this year’s peat.</description>
+    </item>
+    <item>
+      <headword id="d0e555">a’ dol a sadhsaladh</headword>
+      <description>over-drying of peat. (Uist)</description>
+    </item>
+    <item>
+      <headword id="d0e564">a’ dol a taisealadh</headword>
+      <description>over-drying of peat. (Skye)</description>
+    </item>
+    <item>
+      <headword id="d0e573">talamh toll</headword>
+      <description>poor quality peat.</description>
+    </item>
+    <item><headword id="d0e581" type="heading" level="h1">7. Faclan eile</headword></item>
+  </items>
+</fieldworkDocument>

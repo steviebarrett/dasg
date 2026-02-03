@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 1/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_IonaSRMacNeilslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>05/1971</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <informant>
+    <nameEnglish>S. R. MacNeil</nameEnglish>
+  </informant>
+  <location>Canada, Cape Breton, Iona</location>
+  <items>
+    <item>
+      <headword id="idp115747864">riaghailt</headword>
+      <description>Quotation: gréim [sic] riaghailt. Notes: basting – a kind of stitch.</description>
+    </item>
+    <item>
+      <headword id="idp115749520">riaghailt</headword>
+      <description>[riɤilʹtʹ] Notes: yarn spreader on loom.</description>
+    </item>
+    <item>
+      <headword id="idp115751248">sgrathail</headword>
+      <description>[sɡɾɑɑl] Notes: terrible.</description>
+    </item>
+    <item>
+      <headword id="idp115752976">snàthad</headword>
+      <description>Notes: axle on pirn.</description>
+    </item>
+    <item>
+      <headword id="idp115754488">sùil</headword>
+      <description>Quotation: ’S fheàrr sùil a’ ghobha na tomhas an tàilleir.</description>
+    </item>
+    <item>
+      <headword id="idp115756000">tomhas</headword>
+      <description>Quotation: ’S fheàrr sùil a’ ghobha na tomhas an tàilleir.</description>
+    </item>
+    <item>
+      <headword id="idp115757512">earradh</headword>
+      <description>[ɛrəɣ] Notes: groove in a barrel for lid or bottom to fit in.</description>
+    </item>
+    <item>
+      <headword id="idp115759240">greim</headword>
+      <description>Quotation: gréim [sic] riaghailt. Notes: basting – a kind of stitch.</description>
+    </item>
+  </items>
+</fieldworkDocument>

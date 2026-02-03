@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 10/8/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_CulkeinAMacLeodslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>10/1969</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <note>[NOTES: in IPA transcriptions, the fieldworker uses [w] for [ɯ].]</note>
+  <informant>
+    <nameEnglish>Alex. (Alick) MacLeod</nameEnglish>
+    <age>c. 80</age>
+  </informant>
+  <location>Sutherland, Lochinver, Culkein (Stoer)</location>
+  <items>
+    <item>
+      <headword id="idp166289232">rathad</headword>
+      <description>Quotation: Cha deidheadh e ’na rathad idir. Notes: He wouldn’t go near him at all.</description>
+    </item>
+    <item>
+      <headword id="idp166286280">ri</headword>
+      <description>Quotation: Cha deidheadh tu stigh ris air airgiod. Notes: You wouldn’t get one over him / fool him as far as money is concerned.</description>
+    </item>
+    <item>
+      <headword id="idp166282896">ri</headword>
+      <description>Quotation: ’S e a’ rud a tha a’ dol a stigh rium. Notes: What is annoying me is…</description>
+    </item>
+    <item>
+      <headword id="idp166278864">air</headword>
+      <description>Quotation: Bha e glé gheur air gloine. Notes: He liked a dram.</description>
+    </item>
+    <item>
+      <headword id="idp166303344">seòl</headword>
+      <description>Quotation: Chuir sibh baile Chul-chinn dheth seòl. Notes: You upset the whole place.</description>
+    </item>
+    <item>
+      <headword id="idp166305000">snàthadag</headword>
+      <description>Notes: bird accompanying the cuckoo.</description>
+    </item>
+    <item>
+      <headword id="idp166306512">stigh</headword>
+      <description>Quotation: ’S e an rud a tha a’ dol a stigh rium. Notes: What is annoying me is…</description>
+    </item>
+    <item>
+      <headword id="idp166308168">stigh</headword>
+      <description>Quotation: Cha deidheadh tu stigh ris air airgiod. Notes: You wouldn’t get one over him / fool him as far as money is concerned.</description>
+    </item>
+    <item>
+      <headword id="idp166309824">suidheachdainn</headword>
+      <description>Notes: -dainn ending common.</description>
+    </item>
+    <item>
+      <headword id="idp166311336">tìr</headword>
+      <description>Quotation: a’ gabhail tìr. Notes: landing.</description>
+    </item>
+    <item>
+      <headword id="idp166312992">ao-cualt</headword>
+      <description>[w:ku̜əɫt̪] Notes: an uncouth person.</description>
+    </item>
+    <item>
+      <headword id="idp166314720">bealbhan</headword>
+      <description>[bjɑɫɑvɑṉ] Quotation: bealbhan gainmhich. Notes: sand-pit.</description>
+    </item>
+    <item>
+      <headword id="idp166316592">camag</headword>
+      <description>Notes: a shinty stick.</description>
+    </item>
+    <item>
+      <headword id="idp166318104">cuir</headword>
+      <description>Quotation: Chuir sibh baile Chul-chinn dheth seòl. Notes: You upset Culkein.</description>
+    </item>
+    <item>
+      <headword id="idp166319760">dheth</headword>
+      <description>Quotation: Chuir sibh baile Chul-chinn dheth seòl. Notes: You upset the whole place.</description>
+    </item>
+    <item>
+      <headword id="idp166321416">easbhuidh</headword>
+      <description>Quotation: Bha mi a coimhead breagha [əjɛsəv] orra. Notes: I looked good without them.</description>
+    </item>
+    <item>
+      <headword id="idp166323360">famh-mhùgach</headword>
+      <description>[fɑ̃:vũ̟:ɡɑx] Notes: a mole.</description>
+    </item>
+    <item>
+      <headword id="idp166325088">feadh</headword>
+      <description>Quotation: C’fheadh a tha e air falbh? Notes: How far away is it? (Not usually used of distance in most places, more of length.)</description>
+    </item>
+    <item>
+      <headword id="idp166326744">foghar</headword>
+      <description>Quotation: as t-fhoghar. Notes: in the autumn.</description>
+    </item>
+    <item>
+      <headword id="idp166328400">gabh</headword>
+      <description>Quotation: a’ gabhail tìr. Notes: landing.</description>
+    </item>
+    <item>
+      <headword id="idp166330056">geòcach</headword>
+      <description>Quotation: duine geòcach. Notes: greedy person.</description>
+    </item>
+    <item>
+      <headword id="idp166331712">geòcair</headword>
+      <description>Notes: a greedy person.</description>
+    </item>
+    <item>
+      <headword id="idp166333224">geur</headword>
+      <description>Quotation: Bha e glé gheur air gloine. Notes: He liked a dram.</description>
+    </item>
+    <item>
+      <headword id="idp166334880">goir</headword>
+      <description>[ɡɤɾ] Quotation: Cha tigeadh e nan goir. Notes: He wouldn’t come near them.</description>
+    </item>
+    <item>
+      <headword id="idp166336752">grad</headword>
+      <description>Quotation: duine grad. Notes: a bad-tempered person.</description>
+    </item>
+    <item>
+      <headword id="idp166338408">guthaich</headword>
+      <description>Quotation: Ghuthaich e oirr’ as a’ Ghàidhlig. Notes: He spoke to them [sic] in Gaelic.</description>
+    </item>
+  </items>
+</fieldworkDocument>

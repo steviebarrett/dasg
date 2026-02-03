@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 3 5 13 -->
+<fieldworkDocument docId="Canada_CanadaMacKinnonetaleccles" docType="questionnaire" subType="EcclesiasticalTerms">
+  <title>An Eaglais / Ecclesiastical Terms</title>
+  <date>[1969]</date>
+  <fieldworker>Susan Norwood</fieldworker>
+  <note>[NOTES: second hand, which in most cases appears to be the same as the first hand.]</note>
+  <informant>
+    <nameEnglish>S.J. MacKinnon</nameEnglish>
+    <origin>([Canada], Inverness Co.) – Roman Catholic</origin>
+  </informant>
+  <informant>
+    <nameEnglish>James MacKay</nameEnglish>
+    <origin>(Lochaber – [Canada], Inverness Co.) – Roman Catholic</origin>
+  </informant>
+  <informant>
+    <nameEnglish>ADE MacKinnon</nameEnglish>
+    <origin>(Skye – [Canada], Inverness and Victoria? Co.’s) – Protestant</origin>
+  </informant>
+  <location>Canada</location>  
+  <!-- illustrations -->
+  <items>
+    <item><headword id="d0e49" type="heading" level="h1">1. Various denominations</headword></item>
+    <item>
+      <headword id="d0e54">eaglais phrosta(nach)</headword>
+      <description>Protestant churches in general. [NOTES: originally ‘prostanach’. Corrected by second hand.]</description> 
+    </item>
+    <item>
+      <headword id="d0e63">eaglais chlèire</headword>
+      <description>Presbyterian Church. (Lochaber)</description>
+    </item>
+    <item>
+      <headword id="d0e72">eaglais na chlèire</headword>
+      <description>Presbyterian Church. (Skye)</description>
+    </item>
+    <item>
+      <headword id="d0e81">eaglais bhaisteach</headword>
+      <description>Baptist Church.</description>
+    </item>
+    <item>
+      <headword id="d0e90">eaglais iontas</headword>
+      <description>United Church.</description>
+    </item>
+    <item>
+      <headword id="d0e99">eaglais unaide</headword>
+      <description>United Church. [NOTES: ‘unaide’ added in second hand.]</description> 
+    </item>
+    <item>
+      <headword id="d0e108">eaglais choimhthional</headword>
+      <description>Congregational Ch[urch].</description>
+    </item>
+    <item>
+      <headword id="d0e117">eaglais “method”-ach</headword>
+      <description>Methodist Ch[urch].</description>
+    </item>
+    <item>
+      <headword id="d0e126">[eaglais] “dòigheil”</headword>
+      <description>Methodist Ch[urch] (“dòigheil” – probably a nonce-formation).</description>
+    </item>
+    <item>
+      <headword id="d0e135">eaglais chatlaich</headword>
+      <description>Catholic Ch[urch].</description>
+    </item>
+    <item>
+      <headword id="d0e144">eaglais phàpanach</headword>
+      <description>Catholic Ch[urch].</description>
+    </item>
+    <item><headword id="d0e152" type="heading" level="h1">2. Member of each of these denominations</headword></item>
+    <item>
+      <headword id="d0e157">prostanach</headword>
+      <description>any Protestant.</description>
+    </item>
+    <item>
+      <headword id="d0e166">pàpanach</headword>
+      <description>Catholic  (occasionally catlaich).</description>
+    </item>
+	<item>
+      <headword id="d0e175">catlaich</headword>
+      <description>[See pàpanach].</description>
+    </item>
+    <item>
+      <headword id="d0e184">baisteach</headword>
+      <description>Baptist.</description>
+    </item>
+    <item><headword id="d0e192" type="heading" level="h1">3. Different courts of the Presbyterian churches</headword></item>
+    <item>
+      <headword id="d0e197">cuirt na h-eaglais</headword>
+      <description>church court (prob. kirk session).</description>
+    </item>
+	<item>
+	  <headword id="idola49">[deacon’s court]</headword>
+	  <description>(No deacon’s courts existed in N[ova] S[cotia].)</description>
+    </item>
+    <item>
+      <headword id="d0e215">clèir</headword>
+      <description>presbytery.</description>
+    </item>
+    <item>
+      <headword id="d0e224">co-chruinneachadh</headword>
+      <description>assembly.</description>
+    </item>
+    <item><headword id="d0e232" type="heading" level="h1">4. Members of the clergy and office-bearers with the Presbyterian churches</headword></item>
+    <item>
+      <headword id="d0e237">ministeir</headword>
+      <description>minister.</description>
+    </item>
+    <item>
+      <headword id="d0e246">teachdaire</headword>
+      <description>missionary.</description>
+    </item>
+    <item>
+      <headword id="d0e255">aoidear</headword>
+      <description>elder. [NOTES: ‘aoidear’ added by second hand.]</description> 
+    </item>
+    <item>
+      <headword id="d0e264">ceisdear</headword>
+      <description>catechist (lay preacher).</description>
+    </item>
+    <item><headword id="d0e272" type="heading" level="h1">5. Members of the clergy and office-bearers in the Roman Catholic church</headword></item>
+    <item>
+      <headword id="d0e277">esbuig</headword>
+      <description>bishop.</description>
+    </item>
+    <item>
+      <headword id="d0e286">sacart</headword>
+      <description>priest (in address always “Maighstir Dain” etc. or “Athair”).</description>
+    </item>
+    <item>
+      <headword id="d0e295">gille-seirbhiseach</headword>
+      <description>altar-boy.</description>
+    </item>
+    <item>
+      <headword id="d0e304">ban-crach</headword>
+      <description>nun. [NOTES: a note added in second hand – (ban-chràic’) [from?] cràbhach.]</description> 
+    </item>
+    <item>
+      <headword id="d0e313">prìomh-dhiadhair</headword>
+      <description>cardinal.</description>
+    </item>
+    <item><headword id="d0e321" type="heading" level="h1">6. Holy Orders within the Roman Catholic church</headword></item>
+    <item><headword id="d0e325" type="heading" level="h1">7. Articles of dress or adornment</headword></item>
+    <item>
+      <headword id="d0e330">còta aifhrionn</headword>
+      <description>alb.</description>
+    </item>
+    <item>
+      <headword id="d0e339">lèine aifhrionn</headword>
+      <description>alb.</description>
+    </item>
+    <item>
+      <headword id="d0e348">culaidh aifhrionn</headword>
+      <description>chasuble.</description>
+    </item>
+    <item>
+      <headword id="d0e357">stal</headword>
+      <description>stole.</description>
+    </item>
+    <item>
+      <headword id="d0e366">gòn dubh</headword>
+      <description>cassock (sometimes casag).</description>
+    </item>
+	<item>
+      <headword id="d0e375">gùn dubh</headword>
+      <description>cassock (sometimes casag).</description>
+    </item>
+	<item>
+      <headword id="d0e384">casag</headword>
+      <description>cassock.</description>
+    </item>
+    <item><headword id="d0e392" type="heading" level="h1">8. Church building and churchyard</headword></item>
+    <item>
+      <headword id="d0e397">eaglais</headword>
+      <description>building of church [sic].</description>
+    </item>
+    <item>
+      <headword id="d0e406">sèomar  eaglais</headword>
+      <description>[sic] vestry. (RC)</description>
+    </item>
+    <item>
+      <headword id="d0e415">sèomar  na chlèire</headword>
+      <description>[sic] vestry. (Protestant)</description>
+    </item>
+	<item>
+	  <headword id="idola50">[church building]</headword>
+	  <description>(Old churches never had back rooms; generally there was just a small entry-way and then the church proper; in Protestant Churches there was no centre aisle.) <illustration src="CanadaMacKinnonetalecclesillust1.jpg" width="300"/></description>
+    </item>
+	<item>
+      <headword id="d0e434">cladh</headword>
+      <description>church-yard or burying-ground.</description>
+    </item>
+    <item>
+      <headword id="d0e443">baile-phairiste</headword>
+      <description>church farm. (Old R.C. Churches nearly always include some farm land, much of which is still in use.)</description>
+    </item>
+    <item><headword id="d0e451" type="heading" level="h1">9. Church furniture and ornaments</headword></item>
+    <item>
+      <headword id="d0e456">cubaid</headword>
+      <description>pulpit.</description>
+    </item>
+    <item>
+      <headword id="d0e465">cliabh “altar”</headword>
+      <description>altar-rail.</description>
+    </item>
+    <item>
+      <headword id="d0e474">tobar baiste</headword>
+      <description>baptismal font. (RC)</description>
+    </item>
+    <item>
+      <headword id="d0e483">mias baistich</headword>
+      <description>baptismal bowl. (Presbyterian)</description>
+    </item>
+    <item>
+      <headword id="d0e492">leun ( lian) “altar”</headword>
+      <description>[pron.] altar-cloths.</description>
+    </item>
+    <item>
+      <headword id="d0e501">tubailt</headword>
+      <description>cover.</description>
+    </item>
+    <item>
+      <headword id="d0e510">slighe na croise</headword>
+      <description>Stations of the Cross.</description>
+    </item>
+    <item>
+      <headword id="d0e519">searrag bheag</headword>
+      <description>cruet.</description>
+    </item>
+    <item>
+      <headword id="d0e528">iomhaidh</headword>
+      <description>statues [sic].</description>
+    </item>
+    <item>
+      <headword id="d0e537">bocsa tabhartas</headword>
+      <description>collection “box”.
+        <illustration src="CanadaMacKinnonetalecclesillust2.jpg" width="200"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e548">suidheachan</headword>
+      <description>pews [sic].</description>
+    </item>
+    <item>
+      <headword id="d0e557">cupan</headword>
+      <description>goblet (at least for Protestant communion).</description>
+    </item>
+    <item>
+      <headword id="d0e566">uisge coisrige</headword>
+      <description>holy water.</description>
+    </item>
+    <item>
+      <headword id="d0e575">griogachan</headword>
+      <description>rosary.</description>
+    </item>
+    <item>
+      <headword id="d0e584">ceusach</headword>
+      <description>crucifix.</description>
+    </item>
+    <item><headword id="d0e592" type="heading" level="h1">10. Different services during the week, feast days, sacraments, Sunday school etc.</headword></item>
+    <item>
+      <headword id="d0e597">ceisdeach</headword>
+      <description>catechism class. (RC)</description>
+    </item>
+    <item>
+      <headword id="d0e606">sgoil Shabaid</headword>
+      <description>Sunday School. (Protestant)</description>
+    </item>
+    <item>
+      <headword id="d0e615">coinneamh tighe</headword>
+      <description>house-service. [NOTES: ‘coinneamh’ added in second hand.]</description> 
+    </item>
+    <item>
+      <headword id="d0e624">ullachadh</headword>
+      <description>preparatory service (Prot) – Thurs-Sat.</description>
+    </item>
+    <item>
+      <headword id="d0e633">comanachadh</headword>
+      <description>communion or communion service.</description>
+    </item>
+    <item>
+      <headword id="d0e642">taingeaileachd</headword>
+      <description>thanksgiving service (Monday).</description>
+    </item>
+    <item>
+      <headword id="d0e651">urnaigh</headword>
+      <description>prayer.</description>
+    </item>
+    <item>
+      <headword id="d0e660">trusach</headword>
+      <description>(togail an airgiod – sic!) collection. (RC)</description>
+    </item>
+    <item>
+      <headword id="d0e669">togail an tabhartas</headword>
+      <description>collection. (Prot)</description>
+    </item>
+    <item>
+      <headword id="d0e678">searmon</headword>
+      <description>sermon.</description>
+    </item>
+    <item>
+      <headword id="d0e687">co-dhùnadh</headword>
+      <description>closing. (Prot)</description>
+    </item>
+    <item>
+      <headword id="d0e696">beannachadh</headword>
+      <description>benediction. (RC)</description>
+    </item>
+    <item>
+      <headword id="d0e705">sgriobtair</headword>
+      <description>scripture (reading).</description>
+    </item>
+    <item>
+      <headword id="d0e714">salm</headword>
+      <description>psalm.</description>
+    </item>
+    <item><headword id="d0e722" type="heading" level="h1">11. God, the Lord, Jesus Christ, the Holy Ghost, the Blessed Virgin, the angels, the apostles, Heaven, the Gospel, prayers etc.</headword></item>
+    <item>
+      <headword id="d0e727">dia</headword>
+      <description>God.</description>
+    </item>
+    <item>
+      <headword id="d0e736">a dhia</headword>
+      <description>God! (RC) as in Dhia nan gràs!</description>
+    </item>
+    <item>
+      <headword id="d0e745">a dhé</headword>
+      <description>God! (Prot)</description>
+    </item>
+    <item>
+      <headword id="d0e754">tighearna</headword>
+      <description>Lord.</description>
+    </item>
+    <item>
+      <headword id="d0e763">cruidhear (?)</headword>
+      <description>creator.</description>
+    </item>
+    <item>
+      <headword id="d0e772">uile-cumachdach</headword>
+      <description>omnipotent.</description>
+    </item>
+    <item>
+      <headword id="d0e781">slanaighear</headword>
+      <description>savior.</description>
+    </item>
+    <item>
+      <headword id="d0e790">Criosd</headword>
+      <description>Christ.</description>
+    </item>
+    <item>
+      <headword id="d0e799">(Iosa Criosd)</headword>
+      <description> (Jesus Christ)</description>
+    </item>
+    <item>
+      <headword id="d0e808">spiriod naomh</headword>
+      <description>Holy Spirit.</description>
+    </item>
+    <item>
+      <headword id="d0e817">abstal</headword>
+      <description>apostle.</description>
+    </item>
+    <item>
+      <headword id="d0e826">ainglean</headword>
+      <description>angels.</description>
+    </item>
+    <item>
+      <headword id="d0e835">neamh</headword>
+      <description>Heaven.</description>
+    </item>
+    <item>
+      <headword id="d0e844">(an) soisgeil</headword>
+      <description>the Gospel.</description>
+    </item>
+    <item>
+      <headword id="d0e853">Moire Oigh</headword>
+      <description>Virgin Mary.</description>
+    </item>
+    <item><headword id="d0e861" type="heading" level="h1">12. Satan, Hell, Purgatory, Limbo, different kinds of sin etc.</headword></item>
+    <item>
+      <headword id="d0e866">sadan</headword>
+      <description>Satan.</description>
+    </item>
+    <item>
+      <headword id="d0e875">diabhol</headword>
+      <description>devil (seldom used).</description>
+    </item>
+    <item>
+      <headword id="d0e884">donas</headword>
+      <description>devil (more popular).</description>
+    </item>
+    <item>
+      <headword id="d0e893">ifrinn</headword>
+      <description>Hell (RC – both ecclesiastical and swear-word, as ‘Bheir ifrinn ort!’ (go to hell) but generally ecclesiastical for Protestants).</description>
+    </item>
+    <item>
+      <headword id="d0e902">iutharn</headword>
+      <description>hell (Protestant swear-word).</description>
+    </item>
+    <item>
+      <headword id="d0e911">peacadh</headword>
+      <description>sin.</description>
+    </item>
+  </items>
+</fieldworkDocument>

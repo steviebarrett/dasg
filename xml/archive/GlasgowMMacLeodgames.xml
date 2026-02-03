@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 23 4 13 -->
+<fieldworkDocument docId="Games_GlasgowMMacLeodgames" docType="questionnaire" subType="RecreationToysGamesContests">
+  <title>Cur-seachadan: Dèideagan, Geamaichean is Farpaisean / Recreation: Toys, Games, Contests</title>
+  <fieldworker>[self]</fieldworker>
+  <note>[NOTES: the informant uses E and I to mark the gender of the nouns, masculine and feminine respectively.]</note>
+  <informant>
+    <nameEnglish>Murdo MacLeod</nameEnglish>
+    <nameGaelic>Murchadh MacLeòid</nameGaelic>
+    <age>57 5/12</age>
+    <origin>Leodhas [Lewis], Uig</origin>
+  </informant>
+  <location>Glaschu [Glasgow]</location>
+  <!-- ILLUSTRATIONS -->
+  <items>
+    <item><headword id="d0e37" type="heading" level="h1">1. Toys</headword></item>
+    <item>
+      <headword id="d0e42">srannachan (E)</headword>
+      <description>mar seo shìos. Dèanta de leathar no mar sin.
+        <illustration src="GlasgowMMacLeodgamesillust1.jpg" width="500"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e53">gille-mirein (E)</headword>
+      <description>Dèanta de phiorna (piorna na bùtha). Bheireadh tu a dhà dhiubh as a’ phiorna. 
+        <illustration src="GlasgowMMacLeodgamesillust2.jpg" width="150"/>
+        <illustration src="GlasgowMMacLeodgamesillust3.jpg" width="150"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e66">bodach-sàbhaidh (E)</headword>
+      <description>Cudthrom freagarrach sam bith dheanadh e a’ chùis. Nuair a chuireadh sibh am bodach air ghluasad, bheir e ùine mhór ag [?] air an t-sàbhadh mus stadadh e. Meud a’ bhodaich: 9", no na bu mhotha, an cumantas. E dèanta de fhiodh.
+        <illustration src="GlasgowMMacLeodgamesillust4.jpg" width="600"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e77">longag (I)</headword>
+      <description>(Fuaimnich seo ‘lungag’.) Chan eil ainm àrraid sam bith agam air an leathar.
+        <illustration src="GlasgowMMacLeodgamesillust5.jpg" width="300"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e88">soitheach-bòrd-air-oir (I)</headword>
+      <description>Dèanta de bhòrd fiodha agus druim oirre. Luaidhe airson cudthrom, ceangailte ris an druim air a neo air a leigeil a steach do an druim. Bho a taobh, bho a toiseach gu a deireadh:
+        <illustration src="GlasgowMMacLeodgamesillust6.jpg" width="200"/>
+        <illustration src="GlasgowMMacLeodgamesillust7.jpg" width="200"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e101">soitheach-chuairt, soitheach-thimchill (I)</headword>
+      <description>Soitheach agus broinn innte – dìreach mar eathar ceart, agus timchill oirre. Dèanta de fhiodh tana a ghabhadh lùbadh. A h-uile càil oirre dìreach mar eathar mór. Ach ’s e corra dhuine de na balaich a bhiodh cho làmhcharach agus gun dèanadh e tè.
+        <illustration src="GlasgowMMacLeodgamesillust8.jpg" width="200"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e112">soitheach-chnap (I)</headword>
+      <description>Dèanta à cnap fiodha agus air a cladhach. Cumadh oirre, agus broinn innte, dìreach mar eathar mór.
+        <illustration src="GlasgowMMacLeodgamesillust9.jpg" width="200"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e123">[seòl]</headword>
+      <description>An seòrsa sheòl a bhiodh againn air na soithichean:
+        <illustration src="GlasgowMMacLeodgamesillust10.jpg" width="400"/>
+      </description>
+    </item>
+    <item><headword id="d0e133" type="heading" level="h1">2. Swings, see-saws</headword></item>
+    <item>
+      <headword id="d0e138">riabaisteallag (I)</headword>
+      <description>Dìreach mar a chì sibh aca anns na pàircean. Ach againne air àrd-dhorus freagarrach no air spàrr. Agus uaireannan air an t-slabhraidh os cionn an teine anns na seann tighean. Airson riabaisteallag air an t-slabhraidh, gheibheadh sinn ar creach.</description>
+    </item>
+    <item>
+      <headword id="d0e147">babhsaigeadh (E)</headword>
+      <description>(Fuaimnich mar ‘rouse’ (Beurla) + ‘aigeadh’.) Planca air cloich mhóir agus duine againn air gach ceann dheth. Uaireannan bhiodh barrachd air dithis a’ babhsaigeadh air a’ phlanca.</description>
+    </item>
+    <item><headword id="d0e155" type="heading" level="h1">3. Games played indoors</headword></item>
+	<item>
+	  <headword id="idola108">[am broinn an tighe]</headword>
+	  <description>Cha bhitheadh móran, gheibheadh tu do chreach airson cluiche no caoch am broinn an tighe. Ach bhiodh againn seòrsa de chluicheannan, no seòrsa de lùth-chleasan, mar: 1. A’ tighinn troimh a’ chlobha. 2. A’ tighinn troimh a’ bhata. 3. Ag eirigh leis an eallach aotrom. ’S mar sin. Dh’fheumainn iad seo shuas a shealltainn.</description>
+	</item>
+    <item>
+	  <headword id="idola109">[toimhseachanan]</headword>
+	  <description>Agus bhiodh againn toimhseachanan ’s mar sin airson an oibreachadh a mach, mar: 1. Aiseag nan Ceardaichnean. 2. Na Buideil. 3. Muinntir Dhubhain.</description>
+	</item>
+    <item>
+	  <headword id="idola110">[note]</headword>
+	  <description>(Tha mi a’ cur seo air an duilleig-sa [i.e. on the blank page between 3. and 4.].)</description>
+	</item>
+    <item>
+      <headword id="d0e187">forca-shiubhail (I)</headword>
+      <description>B’e seo seòrsa de chàrn-slaoid a bhiodh aca againne ro ar n-àm-ne. Dèanta de fhiodh. Clàir baraille anns a’ bhonn aige agus an còrr mar a thuigeas sibh. Gus a dheanamh sleamhuinn bhiodh na balaich a’ suathadh liaghag feamann(d) (feamad) ris. Abair gu’m falbhadh e an uair sin, agus abair gu’m falbhadh! Chan eil ainm àrraid sam bith agam airson nam pàirtean aige. Rinn mi-fhìn fear aca uaireigin, nuair a bha sinn òg, agus theab e ar cur as an rathad.
+        <illustration src="GlasgowMMacLeodgamesillust11.jpg" width="200"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e198">dogan speil (E)</headword>
+      <description>(Fuaimnich ‘dog’ mar ‘dog’ (Beurla) + ‘speil’. ‘Speil’ fuaimnich mar ‘ceil’ (Gàidhlig).) Ri linn m’ athair bhiodh gèim (E) aca a muigh le caman is ball (E). B’ e seo ‘cat and bat’ tha mi deanamh a mach. No faisg air co dhiù. Mur a biodh ball aca air dhòigh eile, dheanadh iad ball le fionnadh a’ chruidh.</description>
+    </item>
+    <item><headword id="d0e206" type="heading" level="h1">4. Outdoor games not involving a ball or puck</headword></item>
+    <item>
+      <headword id="d0e211">pitchers</headword>
+      <description>A’ cheud ghèim a tha cuimhne agam-sa riamh fhaicinn ’se ‘pitchers’. (’Se seo a th’aig na balaich mhóra air.) Is ann le leacan [?] freagarrach a bhiodh iad ag obair air. Roimhe ’n seo aig an fheadhainn a th’ann romhainn bha na peileastairean (‘Peilistearan’ aig Dwelly.) Bha an gèim-sa faisg air an aon seòrsa ri na pitcher-an aig na balaich. Mur a h-e an aona ghèim a th’ann! ’Se gèim de’n t-seòrsa-sa a’ cheud ghèim a tha lorg air a bhith anns na h-Eileanan Breatunnach.</description>
+    </item>
+    <item>
+      <headword id="d0e220">[peileastairean]</headword>
+      <description>[See pitchers.]</description>
+    </item>
+    <item>
+      <headword id="d0e229">cailleach bheag bhrùigh</headword>
+      <description>(Can ‘cailleach bheag bhrùgh’.) Seo gèim a bhiodh againn mar bu trice air an oidhche. A muigh.</description>
+    </item>
+    <item>
+      <headword id="d0e238">cluiche air na putanan</headword>
+      <description>Cho fada agus a tha cuimhne agam is ann faisg air an aon seòrsa a bha na trì cluicheannan-sa [i.e. cluiche air na putanan, cluiche air na clacha beaga and cluiche air na sgilligean]. Gun mhóran eadar-dhealachaidh, ma bha eadar-dhealachadh sam bith, ach anns na h-ainmeannan. Bhiodh sinn cuideachd ’g an dèanamh a muigh air a’ chùl le buachar tioram nan caorach as t-samhradh. (Airson ‘cùl’ agam-sa tha mi deanamh a mach gur h-e ‘cùl-cinn’ a th’aig Dòmhnall Iain (fear na Hearadh.) Feuchaibh e!)</description>
+    </item>
+    <item>
+      <headword id="d0e247">cluiche air na clacha beaga</headword>
+      <description>[See cluiche air na putanan.]</description>
+    </item>
+    <item>
+      <headword id="d0e256">cluiche air na sgilligean</headword>
+      <description>[See cluiche air na putanan.]</description>
+    </item>
+	<item>
+	  <headword id="idola111">[geimeannan]</headword>
+	  <description>A’ h-uile gin de na geimeannan (no cluicheannan) a thog mi an seo shuas, cho fada agus a tha lorg agam, tha iad air an aon stéidh. Cha mhath tha cuimhne agam an diugh, gu mionaideach dé mar a bha iad a’ dol. Geimeannan am measg nan curracagan, abair sin. Gu leòir, agus feadhainn a bhiodh sinn fhìn a’ deanamh, a thuilleadh air feadhainn shuidhichte bho shean, mar falach-fead (bìog falach fead a bh’againne air.) Cha b’ann a’ fàs ’s a’ fàs na b’àirde chun an adhair a bhiodh na curracagan idir mar a bhiodh na làithean agus na h-oidhcheannan a’ dol seachad. Agus abair nach b’ann!</description>
+    </item>
+	<item><headword id="d0e273" type="heading" level="h1">5. Ball games</headword></item>
+    <item><headword id="d0e277" type="heading" level="h2">Ball</headword></item>
+    <item>
+      <headword id="d0e282">ball (E)</headword>
+      <description>such as football or shinty.</description>
+    </item>
+    <item>
+      <headword id="d0e291">an dearcag</headword>
+      <description>a bhiodh aig an feadhainn romhainne airson ball an iomain.</description>
+    </item>
+    <item><headword id="d0e299" type="heading" level="h2">Bats or clubs</headword></item>
+    <item>
+      <headword id="d0e304">caman</headword>
+      <description>airson an iomain.</description>
+    </item>
+    <item><headword id="d0e312" type="heading" level="h2">Team</headword></item>
+	<item>
+	  <headword id="idola112">[buidheann no sgiobadh]</headword>
+	  <description>Chan eil fhios agam an e buidheann no sgiobadh airson an ait againne.</description>
+	</item>
+    <item><headword id="d0e325" type="heading" level="h2">Field of play etc.</headword></item>
+	<item>
+	  <headword id="idola113">blàr iomain</headword>
+	  <description>Chan eil mi cinnteach nach e blàr iomain a bh’ aca air an raoin far am biodh an t-iomain air a dhèanamh.</description>
+	</item>
+	<item><headword id="d0e338" type="heading" level="h2">Penalties etc.</headword></item>
+	<item>
+	  <headword id="idola114">[note]</headword>
+	  <description>’Se.</description>
+	</item>
+    <item><headword id="d0e351" type="heading" level="h1">6. Athletics</headword></item>
+    <item>
+      <headword id="d0e356">leum</headword>
+      <description>Airson seo [i.e. long jump] tha againn ‘leum’ agus ‘leum-ruith’.</description>
+    </item>
+    <item>
+      <headword id="d0e365">leum-ruith</headword>
+      <description>Airson seo [i.e. long jump] tha againn ‘leum’ agus ‘leum-ruith’.</description>
+    </item>
+	<item>
+	  <headword id="idola115">[high jump]</headword>
+	  <description>Chan eil ainm suidhichte sam bith againn airson seo.</description>
+	</item>
+    <item>
+      <headword id="d0e383">leth-chois</headword>
+      <description>hop.</description>
+    </item>
+    <item>
+      <headword id="d0e392">leth-chois is sìnteag is leum</headword>
+      <description>hop step and jump; hop skip and jump; hop stride and jump.</description>
+    </item>
+    <item>
+      <headword id="d0e401">cruinn-leum</headword>
+      <description>standing jump with both feet together.</description>
+    </item>
+    <item>
+      <headword id="d0e410">ceann-dìreach</headword>
+      <description>somersault. (Fuaimnich seo ‘cein-nìreach’ no ‘cain-nìreach’; ‘c’ mar ‘c’ ann an ‘King’ (Beurla).)</description>
+    </item>
+    <item>
+      <headword id="d0e419">race, rus</headword>
+      <description>running a race. Chan eil againn airson seo ach ‘race’ (‘rus’ a chanas sinn; fuaimnich mar ‘fuss’ (Beurla).)</description>
+    </item>
+    <item>
+      <headword id="d0e428">rus</headword>
+      <description>sprinting.</description>
+    </item>
+	<item>
+	  <headword id="idola116">[jogging or running slowly]</headword>
+	  <description>Cha chreid mi gu bheil nì suidhichte sam bith againn airson seo [i.e. jogging or running slowly], a bharrachd. Ach ruith, ’na ruith, nan ruith ’s mar sin.</description>
+	</item>
+    <item>
+      <headword id="d0e446">duine ’n a leth-ruith, b’ e sin</headword>
+      <description>Duine na bu luaithe na ri coiseachd, no na bu shlaodaich na ri ruith ceart, ’s mar sin. (Ruith. ’S e ‘rith’ mar a chanas sinne e. Aig na Lochan, thall, ’se ‘ruith’, direach mar a tha e sgrìobhte, a chanas iad. Aig na Lochan, cuideachd, ’se ‘sin’, mar a tha e sgrìobhte, a chanas iad. ’Se ‘sean’ a chanas sinne airson ‘sin’.)</description>
+    </item>
+    <item><headword id="d0e454" type="heading" level="h1">7. Heavy events</headword></item>
+	<item>
+	  <headword id="idola117">[note]</headword>
+	  <description>(Tha mo pheann dubh air a dhol dona.) [NOTES: the rest of the questionnaire is in red and blue.]</description>
+	</item>
+    <item>
+      <headword id="d0e468">cur air a’ chloich</headword>
+      <description>the shot-putt. Ach chanadh sinne, an linn a b’òige, cuideachd, ‘buille air a’ chloich’. “Chuireadh Tormod a’ chlach ann an Dòmhnall Mór.” “Chuireadh Donnchadh Dubh a’ chlach a mach air Dòmhnall Mór.”</description>
+    </item>
+    <item>
+      <headword id="d0e477">buille air a’ chloich</headword>
+      <description>[See cur air a’ chloich.]</description>
+    </item>
+    <item>
+      <headword id="d0e486">an dòrnag</headword>
+      <description>’S ann a bha seo aca mar ainm [airson ‘the shot-putt’?] bho’n taobh a muigh.</description>
+    </item>
+    <item>
+      <headword id="d0e495">tilgeil an ùird</headword>
+      <description>throwing the hammer. Cha robh seo againne idir, no aig an fheadhainn romhainn, cho fada ’s is aithne dhomh. Ach bha lorg aca air glé mhath. ‘Tilgeil an ùird’ a chanadh iad. (Chì sibh ’s e ‘tilgeil’ a chanas sinne airson ‘tilgeadh’ ann an àiteachan eile.)</description>
+    </item>
+    <item>
+      <headword id="d0e504">tilgeil a’ chabair</headword>
+      <description>tossing the caber. Mar an t-ord, cha robh an cabar againn, a bharrachd. Cha chreid mi nach e ‘tilgeil a’ chabair’ a chanadh iad, cuideachd.</description>
+    </item>
+    <item><headword id="d0e512" type="heading" level="h1">8. Contests involving pulling or pushing.</headword></item>
+    <item>
+      <headword id="d0e517">maide-leisg</headword>
+      <description>Trial of strength involving two men sitting on the ground with the soles of their feet touching and pulling on a stick held between them until one raises the other from the ground.</description>
+    </item>
+    <item>
+      <headword id="d0e526">togail air a’ bhata</headword>
+      <description>“Thog mi air a’ bhata e.” “Thog Tormod Donnchadh air a’ bhata.” (Thog m’ athair uaireigin a h-uile mac a riamh aca air a’ bhata a muigh air tìr-mór nuair a bha iad ris an iasgach.) ’S e ‘togail air a’ bhata’ a chanadh sinne an cumantas.</description>
+    </item>
+    <item><headword id="d0e534" type="heading" level="h1">9. Boxing and wrestling</headword></item>
+    <item>
+      <headword id="d0e539">bocsaigeadh</headword>
+      <description>boxing.</description>
+    </item>
+    <item>
+      <headword id="d0e548">gleac</headword>
+      <description>wrestling. Agus ‘car-gleac’ (Na dhà.) ’Se car-gleac a chanadh sinne a b’òige. Chanadh an t-seann fheadhainn na dhà, ‘gleac’ agus ‘car-gleac’. “Iad a’ feuchainn gleac.” “Iad ri gleac.” ‘Gleac’ bu trice a chanadh iad.</description>
+    </item>
+    <item>
+      <headword id="d0e557">sguaraigeadh</headword>
+      <description>menacing attitude of two standing opposite each other ready to fight. ‘Sguaraigeadh’ againne a b’òige, dìreach ‘square’ (Beurla) agus ‘aigeadh’ as a dhéidh. Aig an fhìor sheann fheadhainn, ‘square’ air a chantainn ‘sguar’, mar a chanas Ileach ‘fuar’ (foo ar). (foo-ar-aigeadh, fuaraigeadh, sguaraigeadh)</description>
+    </item>
+    <item>
+      <headword id="d0e566">greim</headword>
+      <description>Chan eil nì agam-sa, co dhiù, airson seo [i.e. sudden grasping as in wrestling] ach ‘greim’.</description>
+    </item>
+    <item>
+      <headword id="d0e575">cas-bhac</headword>
+      <description>Chan eil lorg agam air ainm airson gin [i.e. movements with the feet and legs to knock one’s opponent down], ma bha iad ann, ach aonan ‘cas-bhac’. “Chuir e a’ chas-bhac air.”</description>
+    </item>
+    <item><headword id="d0e583" type="heading" level="h1">10. Blows in general</headword></item>
+	<item>
+	  <headword id="idola118">[bualadh]</headword>
+	  <description>Anns a’ bhaile againn fhìn chan fhaca mi duine ri bualadh duine eile a riamh. Cha [sic] fhaca mi fhìn duine ann an greim. No a’ tarruing na làimhe air dhòigh sam bith. Chunnaic agus chuala mi trodan ’s mar sin ach sin uile e. Chan fhaca duine daoine a riamh cho ciallach agus cho cliùiteach riutha mar sin. Ged a bha nithean anns na gnàthasan-cainnte a chuir mi steach thugaibh, a shaoileadh sibh gu robh iad crosd is ann a bha sin a nuas bho làithean na b’aosda na chunnaic sinne. No bho àiteachan eile, ’s bho thighean-change, bho shabaidean aig òl, ’s bho shabaidean gun òl idir. ’S mar sin.</description>
+	</item>  
+    <item><headword id="d0e596" type="heading" level="h1">11. Injury and exhaustion</headword></item>
+    <item>
+      <headword id="d0e601">sgochadh</headword>
+      <description>sprain.</description>
+    </item>
+  </items>
+</fieldworkDocument>

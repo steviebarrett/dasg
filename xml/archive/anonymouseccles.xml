@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 20 4 13 -->
+<fieldworkDocument docId="Ecclesiastical_anonymouseccles" docType="questionnaire" subType="EcclesiasticalTerms">
+  <title>An Eaglais / Ecclesiastical Terms</title>
+  <note>[NOTES: more than one informant? Two different colours of ink and what looks like two different hands but they are quite similar so it could be just one person. The handwriting in black ink in particular looks like that of Major N.T. MacLeod, the fieldworker whose name appears on a few anonymous/various questionnaires.]</note>
+  <informant>
+    <nameEnglish>[anonymous]</nameEnglish>
+  </informant>
+  <items>
+    <item><headword id="d0e20" type="heading" level="h1">1. Various denominations</headword></item>
+    <item>
+      <headword id="d0e25">na h antis</headword>
+      <description>anti Union e.g. [sic]</description>
+    </item>
+    <item>
+      <headword id="d0e34">Sisèdurs</headword>
+      <description>seceders [sic] from Main body over doctrinal differences.</description>
+    </item>
+    <item>
+      <headword id="d0e43">UPEES</headword>
+      <description>United Presbyterians (1900).</description>
+    </item>
+    <item>
+      <headword id="d0e52">Moderates, Monderats</headword>
+      <description>Established Church.</description>
+    </item>
+    <item>
+      <headword id="d0e61">Muinntir an Aonidh 1900</headword>
+      <description>Union of UPEES and Free Church (1900), United Free Church.</description>
+    </item>
+    <item>
+      <headword id="d0e70">muinntir an Aonidh 1969</headword>
+      <description>United Free Church and Established Church of Scotland (1930). U. F. Continuing. Those who did not join the 1930 Union. [NOTES: the last comment on U. F. added later.]</description>
+    </item>
+    <item><headword id="d0e78" type="heading" level="h2">An eaglais eile</headword></item>
+    <item>
+      <headword id="d0e83">Cathlic</headword>
+      <description>in Benbecula.</description>
+    </item>
+    <item>
+      <headword id="d0e92">Pàpanich</headword>
+      <description>in Lewis.</description>
+    </item>
+    <item><headword id="d0e100" type="heading" level="h1">2. Member of each of these denominations</headword></item>
+    <item>
+      <headword id="d0e105">togail fianuis</headword>
+      <description>being a church member.</description>
+    </item>
+    <item>
+      <headword id="d0e114">commanachadh</headword>
+      <description>being a communicant.</description>
+    </item>
+    <item>
+      <headword id="d0e123">Bord an Tighearn</headword>
+    </item>
+	<item>
+	  <headword id="idola93">[minister maide]</headword>
+	  <description>Bha minister maide a Tiridh / Chaidh aige chun an [?] Assembly air spree / “Mo chreach” ars easan / “Bidh mise aig an t-session / Ghabh mi tuilleadh/barrachd air coffee is ti.”</description>
+	</item>
+    <item><headword id="d0e137" type="heading" level="h1">3. Different courts of the Presbyterian churches</headword></item>
+    <item>
+      <headword id="d0e142">kúrst an dècon</headword>
+      <description>[NOTES: ‘d’ is circled possibly to indicate pronunciation – (nasalisation?).]</description>
+    </item>
+    <item>
+      <headword id="d0e151">kúrst an teshàn/teshon</headword>
+    </item>
+    <item>
+      <headword id="d0e157">a’ chlèr</headword>
+      <description>Presbytery.</description>
+    </item>
+    <item>
+      <headword id="d0e166">coinniv uaignach</headword>
+      <description>secret [meeting].</description>
+    </item>
+    <item><headword id="d0e174" type="heading" level="h1">4. Members of the clergy and office-bearers with the Presbyterian churches</headword></item>
+    <item>
+      <headword id="d0e179">minister</headword>
+    </item>
+    <item>
+      <headword id="d0e185">missionary</headword>
+    </item>
+    <item>
+      <headword id="d0e191">èildur</headword>
+    </item>
+    <item>
+      <headword id="d0e197">àrd eildur</headword>
+    </item>
+    <item>
+      <headword id="d0e203">dècon</headword>
+    </item>
+    <item>
+      <headword id="d0e209">clàrc an teshan</headword>
+    </item>
+    <item>
+      <headword id="d0e215">fer ionibh inivash, fer inivash</headword>
+    </item>
+    <item>
+      <headword id="d0e221">maor eglaish</headword>
+    </item>
+    <item><headword id="d0e226" type="heading" level="h1">5. Members of the clergy and office-bearers in the Roman Catholic church</headword></item>
+    <item>
+      <headword id="d0e231">esbig</headword>
+      <description>bishop.</description>
+    </item>
+    <item>
+      <headword id="d0e240">sagart</headword>
+      <description>priest.</description>
+    </item>
+    <item><headword id="d0e248" type="heading" level="h1">6. Holy Orders within the Roman Catholic church</headword></item>
+    <item><headword id="d0e252" type="heading" level="h1">7. Articles of dress or adornment</headword></item>
+    <item>
+      <headword id="d0e257">taigh nan calacha dubha</headword>
+      <description>nunnery.</description>
+    </item>
+    <item><headword id="d0e265" type="heading" level="h1">8. Church building and churchyard</headword></item>
+    <item>
+      <headword id="d0e270">eglais</headword>
+      <description>church.</description>
+    </item>
+    <item>
+      <headword id="d0e279">cladh</headword>
+      <description>churchyard.</description>
+    </item>
+    <item>
+      <headword id="d0e288">taigh coineamh</headword>
+      <description>meeting house.</description>
+    </item>
+    <item>
+      <headword id="d0e297">suidheachan mòr</headword>
+      <description>where the elders sat.</description>
+    </item>
+    <item>
+      <headword id="d0e306">cùbinn mhòr</headword>
+      <description>for the minister.</description>
+    </item>
+    <item>
+      <headword id="d0e315">cùbinn bheag</headword>
+      <description>for a lay preacher or for the precentor.</description>
+    </item>
+    <item><headword id="d0e323" type="heading" level="h1">9. Church furniture and ornaments</headword></item>
+    <item><headword id="d0e327" type="heading" level="h1">10. Different services during the week, feast days, sacraments, Sunday school etc.</headword></item>
+    <item>
+      <headword id="d0e332">taig</headword>
+    <description>[sic] coinniv [illegible] </description></item>
+    <item>
+      <headword id="d0e338">orduighean</headword>
+      <description>communions.</description>
+    </item>
+    <item>
+      <headword id="d0e347">orduighean beaga</headword>
+    </item>
+    <item>
+      <headword id="d0e353">coiniv vius (mhios)</headword>
+      <description>monthly meeting.</description>
+    </item>
+    <item>
+      <headword id="d0e362">coiniv ràidh</headword>
+      <description>quarterly meeting.</description>
+    </item>
+    <item>
+      <headword id="d0e371">a chàisg</headword>
+      <description>[sic] Easter, feast of Eggs.</description>
+    </item>
+    <item>
+      <headword id="d0e380">sgol Shabuin</headword>
+      <description>Sunday school.</description>
+    </item>
+    <item><headword id="d0e388" type="heading" level="h1">11. God, the Lord, Jesus Christ, the Holy Ghost, the Blessed Virgin, the angels, the apostles, Heaven, the Gospel, prayers etc.</headword></item>
+    <item><headword id="d0e392" type="heading" level="h1">12. Satan, Hell, Purgatory, Limbo, different kinds of sin etc.</headword></item>
+  </items>
+</fieldworkDocument>

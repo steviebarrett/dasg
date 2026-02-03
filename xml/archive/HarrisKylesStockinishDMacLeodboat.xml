@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 23 4 14 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="HarrisVarious_HarrisKylesStockinishDMacLeodboat" docType="questionnaire" subType="Boat-building" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Togail Bhàtaichean / Boat-Building</title>
+  <fieldworker>[anonymous D]</fieldworker>
+  <informant>
+    <nameEnglish>Donald MacLeod</nameEnglish>
+    <age>89</age>
+  </informant>
+  <location>Harris, Kyles Stockinish</location>
+  <items>
+    <item><headword id="d0e26" type="heading" level="h1">1. The keel</headword></item>
+    <item>
+      <headword id="d0e31">druim</headword>
+    </item>
+    <item>
+      <headword id="d0e37">fliuch bhord</headword>
+    </item>
+    <item>
+      <headword id="d0e43">bord timchioll na togalach</headword>
+      <description>board above the bridge in the middle.</description>
+    </item>
+    <item>
+      <headword id="d0e52">bul-pios</headword>
+      <description>stabilisers on outside.</description>
+    </item>
+    <item>
+      <headword id="d0e61">maide builg</headword>
+      <description>[stabilisers on outside.]</description>
+    </item>
+    <item>
+      <headword id="d0e70">farghram</headword>
+      <description>piece going on top of keel when worn down.</description>
+    </item>
+    <item>
+      <headword id="d0e79">crann tairng</headword>
+      <description>wooden nail.</description>
+    </item>
+    <item>
+      <headword id="d0e88">seaghla</headword>
+      <description>[?] plug on fliuch bhord.</description>
+    </item>
+    <item><headword id="d0e96" type="heading" level="h1">2. The rib-cage with its different parts</headword></item>
+    <item>
+      <headword id="d0e101">na Raghan</headword>
+    </item>
+    <item>
+      <headword id="d0e107">rangas (s.n.) (masc., beag)</headword>
+      <description>piece [?] on which tobhta lies also where you rest your feet on bottom of boat.</description>
+    </item>
+    <item>
+      <headword id="d0e116">an t-apran</headword>
+      <description>apron.</description>
+    </item>
+	<item>
+	  <headword id="idola142">[large boats]</headword>
+	  <description>On large boats (30 ft +) claigean a stigh (fore stem) keel [?] is [agus?] clagann a muigh (after stem).</description>
+	</item>
+    <item><headword id="d0e133" type="heading" level="h1">3. Stem and stern</headword></item>
+    <item>
+      <headword id="d0e138">clagan deiridh</headword>
+    </item>
+    <item>
+      <headword id="d0e144">clagan tòisich</headword>
+    </item>
+    <item><headword id="d0e149" type="heading" level="h1">4. The planking</headword></item>
+    <item>
+      <headword id="d0e154">cuairt thoisich</headword>
+      <description>tying everything together.</description>
+    </item>
+    <item>
+      <headword id="d0e163">cuairt dheiridh</headword>
+    </item>
+    <item><headword id="d0e168" type="heading" level="h1">5. The gunwale</headword></item>
+    <item>
+      <headword id="d0e173">A Beul</headword>
+      <description>gunwale.</description>
+    </item>
+    <item><headword id="d0e181" type="heading" level="h1">6. Interior parts, such as seats</headword></item>
+    <item>
+      <headword id="d0e186">tobhta</headword>
+      <description>seat.</description>
+    </item>
+    <item>
+      <headword id="d0e195">na bacan</headword>
+    </item>
+    <item>
+      <headword id="d0e201">na h-iarain stiurach</headword>
+      <description>gutchets [?] and pintons [?]. [gudgeons and pintles?]</description>
+    </item>
+    <item>
+      <headword id="d0e210">lannan</headword>
+      <description>[?] planks used for dragging boat along shore (used also for coffins).</description>
+    </item>
+    <item>
+      <headword id="d0e219">na bacan  cnagan</headword>
+      <description>[agus] where oars were placed.</description>
+    </item>
+    <item><headword id="d0e227" type="heading" level="h1">7. Fittings for oars</headword></item>
+    <item><headword id="d0e231" type="heading" level="h1">8. Rudder and its fittings</headword></item>
+    <item>
+      <headword id="d0e236">stiùir</headword>
+      <description>rudder.</description>
+    </item>
+    <item>
+      <headword id="d0e245">falmadair</headword>
+    </item>
+    <item>
+      <headword id="d0e251">tilear</headword>
+      <description>what you would hold in hand.</description>
+    </item>
+    <item>
+      <headword id="d0e260">yoke</headword>
+      <description>[?] ropes used for steering.</description>
+    </item>
+    <item><headword id="d0e268" type="heading" level="h1">9. Fittings for a mast</headword></item>
+    <item>
+      <headword id="d0e273">step</headword>
+      <description>[?] bit where mast is fixed at bottom.</description>
+    </item>
+    <item>
+      <headword id="d0e282">stilcher</headword>
+      <description>[?] bit where mast is fixed at bottom for bigger boats</description>
+    </item>
+    <item>
+      <headword id="d0e291">acfhuinn</headword>
+      <description>rigging.</description>
+    </item>
+    <item>
+      <headword id="d0e300">an traralair</headword>
+      <description>[?] piece of iron that goes round mast.</description>
+    </item>
+    <item>
+      <headword id="d0e309">an t-slat shiul</headword>
+      <description>[?] boom, lowest one also spar.</description>
+    </item>
+    <item><headword id="d0e317" type="heading" level="h1">10. Other fittings if sails are to be used</headword></item>
+    <item>
+      <headword id="d0e322">crinkles</headword>
+      <description>[cringles?] pieces of iron used and [?] short sail, tied to boltrup [boltrope?].</description>
+    </item>
+    <item><headword id="d0e330" type="heading" level="h1">11. Parts of an oar</headword></item>
+    <item>
+      <headword id="d0e335">lunn</headword>
+      <description>piece inside boat.</description>
+    </item>
+    <item>
+      <headword id="d0e344">liadh</headword>
+      <description>piece going in water.</description>
+    </item>
+    <item>
+      <headword id="d0e353">dornag</headword>
+      <description>piece in hand.</description>
+    </item>
+    <item><headword id="d0e361" type="heading" level="h1">12. Tools used in boat-building</headword></item>
+    <item>
+      <headword id="d0e366">tal</headword>
+      <description>adze.</description>
+    </item>
+    <item>
+      <headword id="d0e375">locair</headword>
+      <description>plane.</description>
+    </item>
+    <item>
+      <headword id="d0e384">gilleab</headword>
+      <description>[?] cold chisel.</description>
+    </item>
+    <item>
+      <headword id="d0e393">sgathair</headword>
+      <description>wood chisel.</description>
+    </item>
+    <item>
+      <headword id="d0e402">ghileab nadurra</headword>
+    </item>
+    <item>
+      <headword id="d0e408">an torgh</headword>
+      <description>long piece of iron, acre [?].</description>
+    </item>
+    <item>
+      <headword id="d0e417">brus</headword>
+      <description>brace.</description>
+    </item>
+    <item>
+      <headword id="d0e426">spich-shrang</headword>
+      <description>[?] fine [?], six inch nail for putting into da bheul and [?].</description>
+    </item>
+    <item><headword id="d0e434" type="heading" level="h1">13. Any other words or expressions</headword></item>
+    <item>
+      <headword id="d0e439">blèr</headword>
+      <description>made from wool [?] or cotton, made fine with an axe and mixed with tar and inserted between planks to keep watertight.</description>
+    </item>
+    <item>
+      <headword id="d0e448">bios-naois</headword>
+      <description>on front of boat, bowsprit.</description>
+    </item>
+  </items>
+</fieldworkDocument>

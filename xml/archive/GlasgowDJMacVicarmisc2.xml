@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 3 6 14 -->
+<!-- illustrations! -->
+<fieldworkDocument docId="AOHenley_GlasgowDJMacVicarmisc2" docType="wordlist" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>[1987-88]</date>
+  <fieldworker personId="ohenleya">A. O’Henley</fieldworker>
+  <note>[NOTES: some notes added (most probably by K. D. MacDonald?). See below for details.]</note>
+  <informant>
+    <nameEnglish>D. J. MacVicar</nameEnglish>
+    <origin>[Note: From North Uist, information from Alex O’Henley / RÓM 4 Dec 2023]</origin>
+  </informant>
+  <location>[Glasgow], Hyndland</location>
+  <items>
+    <item>
+      <headword id="idp109724120">rabhaill</headword>
+      <description>extremity of an island. Rabhail a deas, rabhaill a tuath.</description>
+    </item>
+    <item>
+      <headword id="idp109731608">gob</headword>
+      <description>headland.</description>
+    </item>
+    <item>
+      <headword id="idp109805984">àird</headword>
+      <description>upland.</description>
+    </item>
+    <item>
+      <headword id="idp109784960">corran</headword>
+      <description>sandspit. Caused by a tidal drift.</description>
+    </item>
+    <item>
+      <headword id="idp109799360">bealach</headword>
+      <description>a pass.</description>
+    </item>
+    <item>
+      <headword id="idp109700936">coilleag (-an)</headword>
+      <description>sand dunes.</description>
+    </item>
+    <item>
+      <headword id="idp109709936">sgorr</headword>
+      <description>fissure; a split in a rock. [NOTES: corrected to ‘sgor’.]</description>
+    </item>
+    <item>
+      <headword id="idp109703240">sgùrr (ù – oo)</headword>
+      <description>pinacle.</description>
+    </item>
+    <item>
+      <headword id="idp109779272">fodrainn</headword>
+      <description>footering about.</description>
+    </item>
+    <item>
+      <headword id="idp109786256">ruagadh</headword>
+      <description>harass.</description>
+    </item>
+    <item>
+      <headword id="idp109755584">geotha</headword>
+      <description>a sea cliff.</description>
+    </item>
+    <item>
+      <headword id="idp109793744">grioba</headword>
+      <description>precipice.</description>
+    </item>
+    <item>
+      <headword id="idp109754360">garbhlach</headword>
+      <description>strewn boulders.</description>
+    </item>
+    <item>
+      <headword id="idp109751192">boglach</headword>
+      <description>swamp.</description>
+    </item>
+    <item>
+      <headword id="idp109758248">sùil-chruthaich</headword>
+      <description>quagmire.</description>
+    </item>
+    <item>
+      <headword id="idp109761344">slugan</headword>
+      <description>a small gulf as in the stretch of sea between Illeray and Kirkibost.</description>
+    </item>
+    <item>
+      <headword id="idp109762568">fadhall</headword>
+      <description>ford.</description>
+    </item>
+    <item>
+      <headword id="idp109736936">ath-chorrain</headword>
+      <description>a ford with a sandspit on it. [NOTES: corrected to ‘àth-chorrain’.]</description>
+    </item>
+    <item>
+      <headword id="idp109734560">bearradh</headword>
+      <description>where the machair land meets the sand dunes.</description>
+    </item>
+    <item>
+      <headword id="idp109737584">raonaidh</headword>
+      <description>a small grassy plain in front of a house where children played.</description>
+    </item>
+    <item>
+      <headword id="idp109738376">sliabh</headword>
+      <description>moorland as well as meaning a slope.</description>
+    </item>
+    <item>
+      <headword id="idp109742624">gearraidh</headword>
+      <description>moorland. [NOTES: corrected to ‘geàrraidh’.]</description>
+    </item>
+    <item>
+      <headword id="idp109740248">coire</headword>
+      <description>corrie.</description>
+    </item>
+    <item>
+      <headword id="idp109745864">bidein</headword>
+      <description>pinnacle.</description>
+    </item>
+    <item>
+      <headword id="idp109745360">stròm</headword>
+      <description>inlet, strome.</description>
+    </item>
+    <item>
+      <headword id="idp109713824">bun</headword>
+      <description>estuary.</description>
+    </item>
+    <item>
+      <headword id="idp109711952">glaic</headword>
+      <description>delve.</description>
+    </item>
+    <item>
+      <headword id="idp109748384">cachaillaidh</headword>
+      <description>an opening in a wall with a ‘maide cachaillaidh’ placed across the gap. <illustration src="GlasgowDJMacVicarmisc2illust1.jpg" width="300"/></description>
+    </item>
+    <item>
+      <headword id="idp109773656">maide cachaillaidh</headword>
+      <description>[See cachaillaidh.]</description>
+    </item>
+    <item>
+      <headword id="idp109778696">cuilc</headword>
+      <description>reeds.</description>
+    </item>
+    <item>
+      <headword id="idp109326120">fialochan</headword>
+      <description>a lochs [sic] with lots of reeds, grass growing in it. [NOTES: note added above ‘fialochan’ – feurlochan.]</description>
+    </item>
+    <item>
+      <headword id="idp109327776">seasgan</headword>
+      <description>reed grass. [NOTES: corrected to ‘seasgann’.]</description>
+    </item>
+    <item>
+      <headword id="idp109329432">glùta</headword>
+      <description>deep pool.</description>
+    </item>
+    <item>
+      <headword id="idp109330944">sùghanaich</headword>
+      <description>quicksand.</description>
+    </item>
+    <item>
+      <headword id="idp109332456">làthach</headword>
+      <description>mud and sand.</description>
+    </item>
+    <item>
+      <headword id="idp109333968">stalla</headword>
+      <description>bedrock.</description>
+    </item>
+    <item>
+      <headword id="idp109335480">boghta</headword>
+      <description>a bank of peat.</description>
+    </item>
+    <item>
+      <headword id="idp109336992">bruaich</headword>
+      <description>embankment.</description>
+    </item>
+    <item>
+      <headword id="idp109338504">lagan</headword>
+      <description>dell.</description>
+    </item>
+    <item>
+      <headword id="idp109340016">camus</headword>
+      <description>a bay.</description>
+    </item>
+    <item>
+      <headword id="idp109341528">bearna</headword>
+      <description>an opening, breach. [NOTES: corrected to ‘beàrna’.]</description>
+    </item>
+    <item>
+      <headword id="idp109343184">moraghan</headword>
+      <description>shells and sand. A kind of gravel but not the gravel found in quarries. This substance found on the shore.</description>
+    </item>
+    <item>
+      <headword id="idp109345560">bogha</headword>
+      <description>a submerged reef.</description>
+    </item>
+    <item>
+      <headword id="idp109347072">feadan</headword>
+      <description>underground channel.</description>
+    </item>
+    <item>
+      <headword id="idp109348584">dìog</headword>
+      <description>in the sense of a sea channel. Usually found after the tide has gone out. [NOTES: corrected to ‘dìg’.]</description>
+    </item>
+    <item>
+      <headword id="idp109350240">lige</headword>
+      <description>a man-made canal.</description>
+    </item>
+    <item>
+      <headword id="idp109351752">druim</headword>
+      <description>a ridge.</description>
+    </item>
+    <item>
+      <headword id="idp109353264">ciofainn</headword>
+      <description>a little titbit. [NOTES: corrected to ‘ciofain’.]</description>
+    </item>
+    <item>
+      <headword id="idp109354920">slocan</headword>
+      <description>a seaweed substance similar to ‘duillisg’.</description>
+    </item>
+    <item>
+      <headword id="idp109356432">annas</headword>
+      <description>a delicacy.</description>
+    </item>
+    <item>
+      <headword id="idp109357944">fuarag</headword>
+      <description>oatmeal and cream.</description>
+    </item>
+    <item>
+      <headword id="idp109359456">eabar</headword>
+      <description>describes a surface that is muddy, wet. “Tha an talamh na eabar.”</description>
+    </item>
+    <item>
+      <headword id="idp109361976">drollanda</headword>
+      <description>depressed, unhappy.</description>
+    </item>
+    <item>
+      <headword id="idp109363488">claban</headword>
+      <description>top of the skull. “Chaidh claban a chinn a chuir dheth.”</description>
+    </item>
+    <item>
+      <headword id="idp109365144">clabag</headword>
+      <description>an amount of money. [NOTES: note added – Fhuair e clabag.]</description>
+    </item>
+    <item>
+      <headword id="idp109366800">flagais</headword>
+      <description>a layer of sand, maure [sic] [manure?], peat dust. This was left to rot and used for manure. A compost heap. Could also be used of a flirty woman.</description>
+    </item>
+    <item>
+      <headword id="idp109368312">sgùird</headword>
+      <description>a lapful. Women would carry things in their apron or in the lap of their dress, skirt… Since then could also be applied for a knitting bag, a bag for seed planting. Can also be applied for a satchel used to hold fish. A satchel which was strapped to the shoulders. “Làn sgùird de liapagan.” [NOTES: ‘liapagan’ corrected to ‘liabagan’.]</description>
+    </item>
+    <item>
+      <headword id="idp109370976">siutal</headword>
+      <description>a vagabond.</description>
+    </item>
+    <item>
+      <headword id="idp109372488">seotal</headword>
+      <description>a small compartment in a chest where valuable and sentimental objects were kept.</description>
+    </item>
+    <item>
+      <headword id="idp109374000">feudalach</headword>
+      <description>precious.</description>
+    </item>
+    <item>
+      <headword id="idp463464">duall fuillt</headword>
+      <description>a lock of hair. [NOTES: ‘duall’ corrected to ‘dual’.]</description>
+    </item>
+    <item>
+      <headword id="idp461952">criathar</headword>
+      <description>a sieve.</description>
+    </item>
+    <item>
+      <headword id="idp460440">ruideall</headword>
+      <description>a riddle. [NOTES: corrected to ‘ruideal’.]</description>
+    </item>
+    <item>
+      <headword id="idp459936">mogan</headword>
+      <description>a covering on the feet. Also in the sense of a money bag.</description>
+    </item>
+    <item>
+      <headword id="idp109375888">bùthach</headword>
+      <description>canvas cover put on a cow’s udder to prevent suckling. Could also be placed on a ram to prevent mating.</description>
+    </item>
+    <item>
+      <headword id="idp109378480">cotan</headword>
+      <description>a fold for sheep.</description>
+    </item>
+    <item>
+      <headword id="idp109379992">tearbadh</headword>
+      <description>separating the lambs at the end of August. Lambs would be placed in the fold (cotan [q.v.]).</description>
+    </item>
+    <item>
+      <headword id="idp109381504">sàth</headword>
+      <description>thrust. Often used when launching a boat. “Bheir sàthadh math dhith.”</description>
+    </item>
+    <item>
+      <headword id="idp109383304">tiurr</headword>
+      <description>seaweed, flotsam, strand. [NOTES: corrected to ‘tiùrr’.]</description>
+    </item>
+    <item>
+      <headword id="idp109384960">cairidh</headword>
+      <description>a wall built in the river estuary at low tide designed to capture fish at high tide. This would [sic] they remained upstream.</description>
+    </item>
+    <item>
+      <headword id="idp109386472">susaladh</headword>
+      <description>overcooked, shrunk. [NOTES: note added – Tha e a’ susaladh.]</description>
+    </item>
+    <item>
+      <headword id="idp109388128">pinnteachadh</headword>
+      <description>curdled.</description>
+    </item>
+    <item>
+      <headword id="idp109390504">Chaidh e na ghrùth ’s na mheang</headword>
+    </item>
+    <item>
+      <headword id="idp109392016">deisgeann</headword>
+      <description>rennet. Needed this to make the milk curdle whilst still warm. Could then make ‘caise bainne blàth’.</description>
+    </item>
+    <item>
+      <headword id="idp109393528">taosg</headword>
+      <description>half a cupful.</description>
+    </item>
+    <item>
+      <headword id="idp109395040">taosgnadh</headword>
+      <description>kneading.</description>
+    </item>
+    <item>
+      <headword id="idp109396552">goileam</headword>
+      <description>loud chatter.</description>
+    </item>
+    <item>
+      <headword id="idp109398064">deisleam</headword>
+      <description>infection on the fingertip. Whittle. [NOTES: corrected to ‘dèisleam’.]</description>
+    </item>
+    <item>
+      <headword id="idp109399720">sleamhneagan</headword>
+      <description>stye.</description>
+    </item>
+    <item>
+      <headword id="idp109401232">roisinn</headword>
+      <description>a flail.</description>
+    </item>
+    <item>
+      <headword id="idp109402744">slacan</headword>
+      <description>used by women to beat the blankets when washing them on rocks.</description>
+    </item>
+    <item>
+      <headword id="idp109405192">sguidseadh</headword>
+      <description>taking the ears of the crop.</description>
+    </item>
+    <item>
+      <headword id="idp109406704">sguidsear</headword>
+      <description>a bit of bamboo about two feet long, and used for the above process [i.e. sguidseadh].</description>
+    </item>
+    <item>
+      <headword id="idp109408216">ann an deagh riochd</headword>
+      <description>in good condition.</description>
+    </item>
+    <item>
+      <headword id="idp109409728">moull</headword>
+      <description>chaff. [NOTES: corrected to ‘moll’.]</description>
+    </item>
+    <item>
+      <headword id="idp109411384">sgeap</headword>
+      <description>chaff. [NOTES: corrected to ‘sgèap’.]</description>
+    </item>
+    <item>
+      <headword id="idp109413040">càthadh</headword>
+      <description>winnowing.</description>
+    </item>
+    <item>
+      <headword id="idp109414552">sùgan</headword>
+      <description>a grass rope used for tying down corn ricks or small haystacks.</description>
+    </item>
+    <item>
+      <headword id="idp109416136">caidhea(rr?)</headword>
+      <description>coir yarn. From coconut hair. [NOTES: corrected to ‘caidheàr’.]</description>
+    </item>
+    <item>
+      <headword id="idp109417792">a’ cnamhan</headword>
+      <description>moaning. [NOTES: corrected to ‘a’ cnàmhan’.]</description>
+    </item>
+    <item>
+      <headword id="idp109420312">crabhag</headword>
+      <description>broken corn. [NOTES: corrected to ‘cràbhag’.]</description>
+    </item>
+    <item>
+      <headword id="idp109421968">gabht</headword>
+      <description>an iron bar. A smithy would use this term.</description>
+    </item>
+    <item>
+      <headword id="idp109423480">goibhneacht</headword>
+      <description>smithying. [NOTES: corrected to ‘goibhneachd’.]</description>
+    </item>
+    <item>
+      <headword id="idp109425136">fridheann</headword>
+      <description>a ripple of water.</description>
+    </item>
+    <item>
+      <headword id="idp109426648">fiodhan</headword>
+      <description>a wooden box used to make cheese.</description>
+    </item>
+    <item>
+      <headword id="idp109428160">sliofag</headword>
+      <description>another word other than ‘pleathag’.</description>
+    </item>
+    <item>
+      <headword id="idp109429672">siullachain</headword>
+      <description>hames for a horse.</description>
+    </item>
+    <item>
+      <headword id="idp109431184">dreallag</headword>
+      <description>a swing for children.</description>
+    </item>
+    <item>
+      <headword id="idp109432696">mireannach</headword>
+      <description>the bit in a horse’s mouth. [NOTES: corrected to ‘mìreannach’.]</description>
+    </item>
+    <item>
+      <headword id="idp109434352">caigeann</headword>
+      <description>a pair of lambs. Also used for a fetter on a lamb’s legs.</description>
+    </item>
+    <item>
+      <headword id="idp109436800">sgreamhachadh</headword>
+      <description>frightened. “Bha mi air mo…”</description>
+    </item>
+    <item>
+      <headword id="idp109438456">bra(th)</headword>
+      <description>crowd. [NOTES: note added – Thainig bràth orm. Bha an t-àite bràth le daoine.]</description>
+    </item>
+    <item>
+      <headword id="idp109440112">cairt-shleamhna</headword>
+      <description>lesser celandine used to bathe feet to heal broken skin. Used as a dye for wool. Also used for tanning skins, e.g. for a false face.</description>
+    </item>
+    <item>
+      <headword id="idp57744">dùdan</headword>
+      <description>disease in seeds. Black in appearance.</description>
+    </item>
+    <item>
+      <headword id="idp59256">ditheann-nan-calman</headword>
+      <description>vetch. [NOTES: corrected to ‘dìthean-nan-calman’.]</description>
+    </item>
+    <item>
+      <headword id="idp60912">seise</headword>
+      <description>a bench. Variation on ‘beinngidh’.</description>
+    </item>
+    <item>
+      <headword id="idp62424">pràpte</headword>
+      <description>creased. [NOTES: corrected to ‘prapte’.]</description>
+    </item>
+  </items>
+</fieldworkDocument>
+

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 15 1 15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="DRMorrisonetal_PaisleyMMorrisonmisc" docType="wordlist" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <fieldworker>[self]</fieldworker>
+  <informant>
+    <nameEnglish>Murdo Morrison</nameEnglish>
+  </informant>
+  <location>Paisley</location>
+  <items>
+    <item>
+      <headword id="d0e24">starag, rocais</headword>
+    </item>
+    <item>
+      <headword id="d0e30">haet</headword>
+      <description>[?] (nothing)</description>
+    </item>
+    <item>
+      <headword id="d0e39">glugach</headword>
+    </item>
+    <item>
+      <headword id="d0e45">draothadh</headword>
+    </item>
+    <item>
+      <headword id="d0e51">dubhailt (searbhadair)</headword>
+    </item>
+    <item>
+      <headword id="d0e57">* Luchd-seirbhis na Stàite</headword>
+      <description>(Civil Service)</description>
+    </item>
+    <item>
+      <headword id="d0e66">congag</headword>
+      <description>(horn)</description>
+    </item>
+    <item>
+      <headword id="d0e75">boghal</headword>
+    </item>
+    <item>
+      <headword id="d0e81">* inntinn fo mhothachail</headword>
+    </item>
+    <item>
+      <headword id="d0e87">Rùibht</headword>
+      <description>(offence)</description>
+    </item>
+    <item>
+      <headword id="d0e96">gucag</headword>
+      <description>(egg cup)</description>
+    </item>
+    <item>
+      <headword id="d0e105">durrghail</headword>
+    </item>
+    <item>
+      <headword id="d0e111">copraich</headword>
+    </item>
+    <item>
+      <headword id="d0e117">éisdear</headword>
+      <description>(receiver)</description>
+    </item>
+    <item>
+      <headword id="d0e126">suaile</headword>
+      <description>(wave)</description>
+    </item>
+  </items>
+</fieldworkDocument>

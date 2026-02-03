@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 23 4 13 -->
+<fieldworkDocument docId="Peat_FoindleDAMacLeodmoine" docType="questionnaire" subType="Peat">
+  <title>Mòine / Peat-Working</title>
+  <date>22/11/1967 [date on the letter attached to the questionnaire]</date>
+  <fieldworker>[self]</fieldworker>
+  <note>[NOTES: there is a letter attached to the questionnaire, in which Mr MacLeod explains that although Gaelic was his first language, he never had any tuition in it and therefore his ‘orthography is very much at fault’. He also explains that he uses the spelling ‘to-airt’ (‘toirt’) under the influence of Dr George Henderson and his “Dain Iain Ghobha” (1897).]</note>
+  <informant>
+    <nameEnglish>Donald Angus MacLeod</nameEnglish>
+    <nameGaelic>Domhnull Aonghas MacLeoid </nameGaelic>
+    <age>78 na 21:11:67!</age>
+    <origin>Cataobh [Sutherland – probably meant as the county not origin]</origin>
+  </informant>
+  <location>Luirig, Foinidil [Sutherland, Lairg, Foindle]</location>
+  <!-- ILLUSTRATIONS -->
+  <items>
+    <item><headword id="d0e40" type="heading" level="h1">1. Ag ullachadh na talmhainn airson mòine a bhuain</headword></item>
+    <item>
+      <headword id="d0e45">rusgadh</headword>
+      <description>Air tus gearradh a’ bhlair le spaid, agus na dheidh sin a to’airt air falbh nam plocan uachdrach le cablair. Turfing – first cutting long ways and crossways by spade, after which the turf is removed by flatter-spade, sketch of which is shown. Tha nis an t-ullachadh deanta arirson buain na moine le taraisgil – aon fhear a’ gearradh is fear eile a’ sgaoiladh [sic] mach na moine air a’ bhlar. The way is now prepared for cutting and casting the peat by tusk – one man cutting and another spreading out the peat on the moss.
+	  <illustration src="FoindleDAMacLeodmoineillust2.jpg" width="200"/>
+	  </description>
+    </item>
+    <item><headword id="d0e55" type="heading" level="h1">2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</headword></item>
+    <item>
+      <headword id="d0e60">taraisgil</headword>
+      <description>tusk – one man cutting, and another spreading out the peats on the moss.</description>
+    </item>
+    <item>
+      <headword id="d0e69">sluaist</headword>
+      <description>worked by one man in cutting and spreading out.</description>
+    </item>
+    <item>
+      <headword id="d0e78">bodach bac</headword>
+      <description>the first peat cut in each section of the bank.</description>
+    </item>
+    <item>
+      <headword id="d0e87">barfhad</headword>
+      <description>the top layer, or upper section of the bank.</description>
+    </item>
+    <item>
+      <headword id="d0e96">dubhfhad</headword>
+      <description>the second, or bottom section of bank.</description>
+    </item>
+    <item>
+      <headword id="d0e105">barraichean</headword>
+      <description>when the moss is sodden and wet, or the second (bottom) section too brittle to be cast out and spread out for some yards the peats are made into rows on the edge of the bank – one row above the other row – somewhat like so: 
+        <illustration src="FoindleDAMacLeodmoineillust1.jpg" width="200"/>
+      </description>
+    </item>
+    <item><headword id="d0e115" type="heading" level="h1">3. A’ tiormachadh na mònach</headword></item>
+    <item>
+      <headword id="d0e120">stoireag</headword>
+      <description>a small heap of five or six peats lifted up on end, when the upper side of the peat becomes fairly dry and firm.</description>
+    </item>
+    <item>
+      <headword id="d0e129">ath stoireag</headword>
+      <description>a larger heap – the size of which is according to weather condition.</description>
+    </item>
+    <item><headword id="d0e137" type="heading" level="h1">4. A’ cruachadh na mònach</headword></item>
+    <item>
+      <headword id="d0e142">cruachadh</headword>
+      <description>Air do’n mhoine bhi lan thioram theid a cruinneachadh uile cuideachd nan dunan mòr, agus air a steidhibh ceithir-thimchioll oirre gu’cumail cuimte agus tioram.</description>
+    </item>
+    <item><headword id="d0e150" type="heading" level="h1">5. A’ toirt na mònach dhachaigh; an cliabh, etc.</headword></item>
+    <item>
+      <headword id="d0e155">cliabh  cleibh</headword>
+      <description>[pl.] creel. Is ann le cleibh bha a’ mhoine air a’ to’airt dhachaigh anns an t-sheann aimsir. Is e sealladh gle chumanta bh’ann gach fear-tigh fhaicinn a’ dol gach la dhiarraidh cliabh moine do an cruach, a’ dhaodadh bhi suas ri mile air falbh o’n tigh. Ach cha-neil aon chliabh ri fhaicinn anns a’ chearn so o chionn iomadh bliadhna air ais. Tha a’ mhoine nis air a giulan dhachaidh le carbaidean ola de gach seorsa. Tha rathaidean nis anns gach aite, agus mar sin tha a’ mhoine air a buain cho faisg air an rathad ’s a ghabhas deanamh.</description>
+    </item>
+    <item><headword id="d0e163" type="heading" level="h1">6. Seòrsachan mònach</headword></item>
+    <item>
+      <headword id="d0e168">moine bhuidh</headword>
+    </item>
+    <item>
+      <headword id="d0e174">moine dhubh</headword>
+    </item>
+    <item><headword id="d0e179" type="heading" level="h1">7. Faclan eile</headword></item>
+  </items>
+</fieldworkDocument>

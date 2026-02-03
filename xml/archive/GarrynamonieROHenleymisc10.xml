@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 3 6 14 -->
+<fieldworkDocument docId="AOHenley_GarrynamonieROHenleymisc10" docType="wordlist" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>[1987-88]</date>
+  <fieldworker personId="ohenleya">A. O’Henley</fieldworker>
+  <informant personId="ohenleyr">
+    <nameEnglish>R[oderick] O’Henley</nameEnglish>
+  </informant>
+  <location>South Uist, Garrynamonie</location>
+  <items>
+    <item>
+      <headword id="idp246408">lainn</headword>
+      <description>precints [sic] [precincts?]. “Lainn Eaglais Chill Pheadair.”</description>
+    </item>
+    <item>
+      <headword id="idp218472">uirlinn</headword>
+      <description>a lawn, level stretch of grassy lawn found round churches, castles, stately homes.</description>
+    </item>
+    <item>
+      <headword id="idp225744">pupaill</headword>
+      <description>stone verandas attached to some churches and stately buildings.</description>
+    </item>
+    <item>
+      <headword id="idp223152">ro-shùraineach</headword>
+      <description>very skilled.</description>
+    </item>
+    <item>
+      <headword id="idp221136">sùdaireachd</headword>
+      <description>dressing leather or tanning leather. Some of the leather was whitened and used as parchment.</description>
+    </item>
+    <item>
+      <headword id="idp225888">ranntanan</headword>
+      <description>allies in time of war.</description>
+    </item>
+    <item>
+      <headword id="idp230712">ann an trusg</headword>
+      <description>under authority or command.</description>
+    </item>
+    <item>
+      <headword id="idp109379688">fosadh aimhreit</headword>
+      <description>a truce or ceasefire between fighting factions.</description>
+    </item>
+    <item>
+      <headword id="idp109378176">dorlach</headword>
+      <description>a quiver of arrows.</description>
+    </item>
+    <item>
+      <headword id="idp109376664">bean innilt</headword>
+      <description>a nurse.</description>
+    </item>
+    <item>
+      <headword id="idp109375152">a’ laigh am fath</headword>
+      <description>to lie in ambush.</description>
+    </item>
+    <item>
+      <headword id="idp109373208">greiseadh</headword>
+      <description>fine art work.</description>
+    </item>
+    <item>
+      <headword id="idm154088">sosgaidh</headword>
+      <description>healing, e.g. “An sosgaidh tròm” – the difficult/heavy healing.</description>
+    </item>
+    <item>
+      <headword id="idm152360">fròmhaidh</headword>
+      <description>gravelly voice. “Bha gùth uamhasach fròmhaidh aige.”</description>
+    </item>
+    <item>
+      <headword id="idm150704">craomh</headword>
+      <description>irritated. “Mar gum biodh craomh air.”</description>
+    </item>
+    <item>
+      <headword id="idm149048">taomanachadh</headword>
+      <description>on the verge of doing something. “Bha mi a’ taomanachadh air deagh sgailc a thoirt dha.” Word is similar in meaning to ‘butaigeadh’ previously given.</description>
+    </item>
+    <item>
+      <headword id="idm147176">gurrachd</headword>
+      <description>a small child.</description>
+    </item>
+    <item>
+      <headword id="idm145664">fassaid</headword>
+      <description>strength.</description>
+    </item>
+    <item>
+      <headword id="idm144152">frisgnidh</headword>
+      <description>(pulling) strongly. “Bha e a’ tarruing na raimh gu frisgnidh.”</description>
+    </item>
+    <item>
+      <headword id="idm142496">gu siolar</headword>
+      <description>in abundance, prolifically. “Bha seagal a’ fàs gu siolar aig an àm sin.”</description>
+    </item>
+    <item>
+      <headword id="idm139976">beachan eirm</headword>
+      <description>bee hives.</description>
+    </item>
+    <item>
+      <headword id="idm138464">taigh grùdaireachd</headword>
+      <description>a brewery.</description>
+    </item>
+    <item>
+      <headword id="idm136952">càl carrach</headword>
+      <description>cauliflower.</description>
+    </item>
+    <item>
+      <headword id="idm135440">crasgach</headword>
+      <description>kail.</description>
+    </item>
+    <item>
+      <headword id="idm133928">greannach</headword>
+      <description>cole.</description>
+    </item>
+    <item>
+      <headword id="idm132416">gallan dearg</headword>
+      <description>radish.</description>
+    </item>
+    <item>
+      <headword id="idm130904">sgeallan</headword>
+      <description>mustard.</description>
+    </item>
+    <item>
+      <headword id="idm129392">cnarrag (-an)</headword>
+      <description>small boats. [Cf. curachan.]</description>
+    </item>
+    <item>
+      <headword id="idm127880">curachan</headword>
+      <description>small boats. [Cf. cnarrag (-an).]</description>
+    </item>
+    <item>
+      <headword id="idm126368">ciosan</headword>
+      <description>a small round basket woven from sea bent. Used for carrying eggs.</description>
+    </item>
+    <item>
+      <headword id="idm124856">duchadh</headword>
+      <description>dipping.</description>
+    </item>
+    <item>
+      <headword id="idm123344">earalaich</headword>
+      <description>to exhort.</description>
+    </item>
+    <item>
+      <headword id="idm121832">carabal</headword>
+      <description>grim. “’Se suidheachadh carabal a tha sin.”</description>
+    </item>
+    <item>
+      <headword id="idm120176">seadanach</headword>
+      <description>teal.</description>
+    </item>
+    <item>
+      <headword id="idm118664">coileapaich</headword>
+      <description>sucklers. Calves that follow their mother.</description>
+    </item>
+    <item>
+      <headword id="idm117152">fàisdeal</headword>
+      <description>fertile land on the borders of a village. “Fàisdeal a’ bhaile.”</description>
+    </item>
+    <item>
+      <headword id="idm115496">sgoiltein</headword>
+      <description>allotments. Small plots of land.</description>
+    </item>
+    <item>
+      <headword id="idm113120">gasg (-an)</headword>
+      <description>an irregularly shaped field.</description>
+    </item>
+    <item>
+      <headword id="idm111608">pleadairt</headword>
+      <description>to plead on behalf of someone. To intercede.</description>
+    </item>
+    <item>
+      <headword id="idm110096">alluidh [sic]</headword>
+      <description>savage, wild. “’Se duin’ allaidh a bh’ann a measg deoch.”</description>
+    </item>
+    <item>
+      <headword id="idm108440">foir iath</headword>
+      <description>a sea cruise within sight of land.</description>
+    </item>
+    <item>
+      <headword id="idm106928">raod</headword>
+      <description>to joke. “Thoisich e air raod ri seann chailich.”</description>
+    </item>
+  </items>
+</fieldworkDocument>
+

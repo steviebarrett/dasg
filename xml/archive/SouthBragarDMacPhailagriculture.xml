@@ -1,0 +1,756 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 10 6 13 -->
+<fieldworkDocument docId="Agriculture_SouthBragarDMacPhailagriculture" docType="questionnaire" subType="LandCultivation">
+  <title>Àiteach / Agriculture</title>
+  <fieldworker>[self]</fieldworker>
+  <note>[NOTES: the original title of the questionnaire is “Land Cultivation”.]</note>
+  <informant>
+    <nameEnglish>Donald MacPhail</nameEnglish>
+    <age>59</age>
+    <origin>Ross and Cromarty, Lewis</origin>
+  </informant>
+  <location>Lewis, Barvas, South Bragar</location>
+  <!-- illustrations -->
+  <items>
+    <item><headword id="d0e34" type="heading" level="h1">1. Land division and allocation</headword></item>
+    <item><headword id="d0e38" type="heading" level="h2">(a) Specific portions or allotments into which arable land is divided</headword></item>
+    <item>
+      <headword id="d0e43">obair an’ earraich</headword>
+      <description>spring work.</description>
+    </item>
+    <item>
+      <headword id="d0e52">an àiteach</headword>
+      <description>spring work.</description>
+    </item>
+    <item>
+      <headword id="d0e61">an treabhadh</headword>
+      <description>spring work. Common term for this district.</description>
+    </item>
+    <item>
+      <headword id="d0e70">ri g’éilaidh, leagal na’ h’éilaidh</headword>
+      <description>beginning of spring work; rough turning of soil with spade preparatory to sowing with barley seed. When manured, turned or ploughed again and then sown. The last crop put down in the season except perhaps veg., cabbage etc.</description>
+    </item>
+    <item>
+      <headword id="d0e79">cur a’ bhunata</headword>
+      <description>sreath/streath bhunata.</description>
+    </item>
+    <item>
+      <headword id="d0e88">tionndadh a coirc/corc</headword>
+    </item>
+    <item>
+      <headword id="d0e94">cur foidhe an eorna</headword>
+      <description>manured, ploughed and sown same day for good results.</description>
+    </item>
+    <item>
+      <headword id="d0e103">iomair</headword>
+      <description>a fairly sized portion of arable longer than it is wide, pertaining to machair.</description>
+    </item>
+    <item>
+      <headword id="d0e112">feannag</headword>
+      <description>similar in length and width [to iomair] and pertaining to croft.</description>
+    </item>
+    <item>
+      <headword id="d0e121">clàr</headword>
+      <description>larger than the above two portions [i.e. iomair and feannag] and more or less square; croft. Ex. clàr bunata, clàr corc, clàr shneip.</description>
+    </item>
+    <item>
+      <headword id="d0e130">ceann</headword>
+      <description>the smallest portion of arable. Ex. ceann churran, etc.</description>
+    </item>
+    <item>
+      <headword id="d0e139">lios</headword>
+      <description>pronounced leas (ie.) leas càil - cabbage garden. Which would have to be walled. [NOTES: this fragment appears between ‘lios’ and ‘athbhull’ but it is not clear to which of the two definitions it belongs.]</description>
+    </item>
+    <item>
+      <headword id="d0e148">athbhull</headword>
+      <description>a small turf walled, garden shaped; used for young cabbage plants.</description>
+    </item>
+    <item>
+      <headword id="d0e157">buaile and pairc</headword>
+      <description>reclaimed portion of arable between crofts and moor and made stock proof with stone dykes, having no title to it in some cases. Nowadays it is fencing [sic] through appointments from Crofters’ Commission.</description>
+    </item>
+    <item><headword id="d0e165" type="heading" level="h3">Seann fhacail co-cheangailte ri cur agus buan</headword></item>
+    <item>
+	  <headword id="d0e170">[seanfhaclan]</headword>
+	  <description>Fear nach cur sa latha fhuar, cha bhuain sa latha theth. Ceum beag domhain, siol agus todhar. Faigh do shiol agus do thodhar s’ bith [sic] do threabhach deant. Cha do shuidh tuathanach math riamh air a chliabh.</description>
+    </item>
+	<item>
+      <headword id="d0e179">sgriob</headword>
+      <description>furrow.</description>
+    </item>
+    <item><headword id="d0e187" type="heading" level="h2">(b) Various types of arable land</headword></item>
+    <item>
+      <headword id="d0e192">talamh bàn</headword>
+    </item>
+    <item>
+      <headword id="d0e198">talamh àitaich</headword>
+    </item>
+    <item>
+      <headword id="d0e204">atharnach, atharnaich</headword>
+      <description>where potatoes were previous year. Ex. atharnach bhuntata.</description>
+    </item>
+    <item>
+      <headword id="d0e213">buaile</headword>
+      <description>for cultivation.</description>
+    </item>
+    <item>
+      <headword id="d0e222">pairc</headword>
+      <description>for cultivation.</description>
+    </item>
+    <item>
+      <headword id="d0e231">cul a bhaile</headword>
+      <description>for grazing.</description>
+    </item>
+    <item>
+      <headword id="d0e240">an cul</headword>
+      <description>for grazing.</description>
+    </item>
+    <item>
+      <headword id="d0e249">athbhull, abhall</headword>
+      <description>used generally for raising cabbage plants.</description>
+    </item>
+    <item>
+      <headword id="d0e258">feanagan</headword>
+    </item>
+    <item>
+      <headword id="d0e264">iomairean</headword>
+    </item>
+    <item>
+      <headword id="d0e270">clair</headword>
+    </item>
+    <item>
+      <headword id="d0e276">cinn</headword>
+    </item>
+    <item><headword id="d0e281" type="heading" level="h2">(c) Actual dividing and allocating of land, e.g. casting lots</headword></item>
+    <item>
+      <headword id="d0e286">garadh crìche</headword>
+    </item>
+    <item>
+      <headword id="d0e292">clach criche, clach crìoch</headword>
+    </item>
+    <item>
+      <headword id="d0e298">cur croinn</headword>
+      <description>to cast lots.</description>
+    </item>
+    <item>
+      <headword id="d0e307">roinn chinn, cheann</headword>
+      <description>run rig.</description>
+    </item>
+    <item>
+      <headword id="d0e316">garadh a’ bhaile</headword>
+      <description>dry-stone dyke enclosing cultivated part of village (about ½ mile from sea-shore).</description>
+    </item>
+    <item>
+      <headword id="d0e325">garadh ùir</headword>
+      <description>turf dyke a further ½ mile into the moor (one mile from sea). This dyke protected the cultivation of the river glen. In vicinity of each of these dykes was a pound for stray animals.</description>
+    </item>
+    <item>
+      <headword id="d0e334">garadh droma</headword>
+    </item>
+    <item>
+      <headword id="d0e340">buaile a phuinnd</headword>
+      <description>the place of the stray animal pound.</description>
+    </item>
+    <item><headword id="d0e348" type="heading" level="h2">(d) Land owned or held under leases of various duration</headword></item>
+    <item>
+      <headword id="d0e353">Tha croit agam air mhal.</headword>
+      <description>I have a croft on rent.</description>
+    </item>
+    <item>
+      <headword id="d0e362">Tha croit agam air ‘rent’.</headword>
+    </item>
+    <item><headword id="d0e367" type="heading" level="h1">2. Harness of a horse</headword></item>
+    <item><headword id="d0e371" type="heading" level="h2">(a) The harness of a horse as used in the performance of different tasks</headword></item>
+    <item>
+      <headword id="d0e376">clagan</headword>
+      <description>halter.</description>
+    </item>
+    <item>
+      <headword id="d0e385">strathair</headword>
+      <description>saddle.</description>
+    </item>
+    <item>
+      <headword id="d0e394">collair</headword>
+      <description>collar.</description>
+    </item>
+    <item>
+      <headword id="d0e403">siulleachan</headword>
+      <description>hames.</description>
+    </item>
+    <item>
+      <headword id="d0e412">briogais</headword>
+      <description>breeches.</description>
+    </item>
+    <item>
+      <headword id="d0e421">cairtair</headword>
+      <description>carter.</description>
+    </item>
+    <item>
+      <headword id="d0e430">cairtaireachd</headword>
+      <description>carting.</description>
+    </item>
+    <item>
+      <headword id="d0e439">treabhadh</headword>
+      <description>ploughing.</description>
+    </item>
+    <item>
+      <headword id="d0e448">cliathadh</headword>
+      <description>harrowing.</description>
+    </item>
+    <item>
+      <headword id="d0e457">cur an t’ each an’  uidheam</headword>
+      <description>[?] put the harness on the horse.</description>
+    </item>
+    <item>
+      <headword id="d0e466">cur an t’ each do’n cairt</headword>
+      <description>put the horse in the cart.</description>
+    </item>
+    <item><headword id="d0e474" type="heading" level="h2">(b) Different parts of the harness for carting</headword></item>
+    <item><headword id="d0e478" type="heading" level="h2">(c) Different parts of the harness for ploughing or harrowing</headword></item>
+    <item>
+      <headword id="d0e483">sliosean</headword>
+      <description>traces.</description>
+    </item>
+    <item>
+      <headword id="d0e492">gralag, na greallagan</headword>
+      <description>a strong piece of wood with a strong iron band at each end to which the traces are linked. Another of the same in the centre facing backwards and to which the plough or harrow is fixed.</description>
+    </item>
+    <item>
+      <headword id="d0e501">ban droma</headword>
+      <description>or back rope; the back band keeping the traces in position.</description>
+    </item>
+    <item><headword id="d0e509" type="heading" level="h1">3. Carts</headword></item>
+    <item><headword id="d0e513" type="heading" level="h2">(a) The common farm-yard cart</headword></item>
+    <item>
+      <headword id="d0e518">cairt copic</headword>
+      <description>couping cart.</description>
+    </item>
+    <item><headword id="d0e526" type="heading" level="h2">(b) Different parts of a cart</headword></item>
+    <item><headword id="d0e530" type="heading" level="h3">1. Body</headword></item>
+    <item>
+      <headword id="d0e535">carn</headword>
+      <description>the body of the cart.</description>
+    </item>
+    <item>
+      <headword id="d0e544">tromachan</headword>
+      <description>the two main beams in the body lengthwise, trams.</description>
+    </item>
+    <item>
+      <headword id="d0e553">cross end deiraidh</headword>
+    </item>
+    <item>
+      <headword id="d0e559">cross end toisaich</headword>
+    </item>
+    <item>
+      <headword id="d0e565">na blocaichean</headword>
+      <description>the pieces of wood separating trams from axle.</description>
+    </item>
+    <item><headword id="d0e573" type="heading" level="h3">2. Trams</headword></item>
+    <item><headword id="d0e577" type="heading" level="h3">3. Wheel and axle</headword></item>
+    <item>
+      <headword id="d0e582">cearcall</headword>
+      <description>iron ring on wheels.</description>
+    </item>
+    <item>
+      <headword id="d0e591">na gàirdeanan</headword>
+      <description>the spokes in wheels.</description>
+    </item>
+    <item>
+      <headword id="d0e600">a chioch</headword>
+      <description>the hub.</description>
+    </item>
+    <item>
+      <headword id="d0e609">am bushie</headword>
+      <description>the iron fitting through which the axle passes.</description>
+    </item>
+    <item>
+      <headword id="d0e618">na punnachean</headword>
+      <description>the axle pins.</description>
+    </item>
+    <item><headword id="d0e626" type="heading" level="h3">4. Decorations</headword></item>
+	<item>
+	  <headword id="d0e631">[painting carts]</headword>
+	  <description>Normally a cart was painted red with blue on that portion of the trams where the back rope or back band sliders are fixed in. The reason for this part being painted blue, I presume, was because the sliders were always greased and grease running on to the blue did not show so much as it would if the paint was red. Sometimes the trams were also painted blue about six inches on rear and front. Some carters also painted these parts of trams in black. Blue and black paint counteracted grease marks.</description>
+    </item>
+	<item><headword id="d0e639" type="heading" level="h2">(c) Other words associated with carting</headword></item>
+    <item>
+      <headword id="d0e644">cur an eich do’n cairt</headword>
+      <description>putting horse in cart.</description>
+    </item>
+    <item>
+      <headword id="d0e653">toirt an eich as a cairt</headword>
+      <description>releasing horse from cart.</description>
+    </item>
+    <item>
+      <headword id="d0e662">tùmadh na cairt</headword>
+      <description>emptying the cart.</description>
+    </item>
+    <item><headword id="d0e670" type="heading" level="h1">4. The plough</headword></item>
+    <item><headword id="d0e674" type="heading" level="h2">(a) Different kinds of ploughs</headword></item>
+    <item>
+      <headword id="d0e679">crann mor</headword>
+      <description>the heavy all iron plough used on the big farms of the south and pulled by two horses.</description>
+    </item>
+    <item>
+      <headword id="d0e688">crann de each</headword>
+      <description>the heavy all iron plough used on the big farms of the south and pulled by two horses.</description>
+    </item>
+    <item>
+      <headword id="d0e697">crann beag (Oliver)</headword>
+      <description>the small common Highland plough of wood and iron and pulled by one horse suitable for stony crofts such as we have in Lewis.</description>
+    </item>
+    <item><headword id="d0e705" type="heading" level="h2">(b) Parts of a plough in detail</headword></item>
+	<item>
+	  <headword id="d0e710">[crann-na-gad]</headword>
+	  <description>I refer you to Dwelly’s Gaelic Dictionary, as a very detailed list is given under Crann-na-Gad. The names and expressions are pertaining to that of the parish of Barvas, Isle-of-Lewis.</description>
+	</item>
+    <item><headword id="d0e718" type="heading" level="h1">5. Harrows and swingle trees</headword></item>
+    <item><headword id="d0e722" type="heading" level="h2">(a) Different types of harrows</headword></item>
+    <item>
+      <headword id="d0e727">cliath an eich</headword>
+      <description>three main beams with three cross beams preferably of hard wood.</description>
+    </item>
+    <item>
+      <headword id="d0e736">cliath bheag</headword>
+      <description>a man drawn harrow very suitable for small plots of arable.</description>
+    </item>
+    <item><headword id="d0e744" type="heading" level="h2">(b) Swingle trees</headword></item>
+    <item><headword id="d0e748" type="heading" level="h1">6. Spring work</headword></item>
+    <item><headword id="d0e752" type="heading" level="h2">(a) Fertilisers and fertilising</headword></item>
+    <item><headword id="d0e756" type="heading" level="h3">1. Fertilisers</headword></item>
+    <item>
+      <headword id="d0e761">sitig</headword>
+      <description>a layer of dung manure and seaweed alternately put together during late winter and early spring; good for all crops.</description>
+    </item>
+    <item>
+      <headword id="d0e770">feamainn dubh</headword>
+      <description>cut when tide is out. High tide bringing the cut seaweed on to foreshore gathered and spread on machair soil suitable for potatoes.</description>
+    </item>
+    <item>
+      <headword id="d0e779">feamainn dearg</headword>
+      <description>brought on to shore by the incoming tide; also suitable for potatoes as is also for oats and barley.</description>
+    </item>
+    <item><headword id="d0e787" type="heading" level="h3">2. The actual work performed, e.g. transporting seaweed/manure to field</headword></item>
+    <item>
+      <headword id="d0e792">gearradh na feamaida duibhe</headword>
+    </item>
+    <item>
+      <headword id="d0e798">cur suas an fheamainn</headword>
+    </item>
+    <item>
+      <headword id="d0e804">cliabh feamainn</headword>
+    </item>
+    <item>
+      <headword id="d0e810">cliabh todhair</headword>
+    </item>
+    <item>
+      <headword id="d0e816">cairt todhair</headword>
+    </item>
+    <item>
+      <headword id="d0e822">cur mach an todhar</headword>
+      <description>manuring of croft or field.</description>
+    </item>
+    <item>
+      <headword id="d0e831">cur na feamainn anns a sgriob</headword>
+    </item>
+    <item>
+      <headword id="d0e837">cur na feamainn anns a streath</headword>
+    </item>
+    <item>
+      <headword id="d0e843">’cur a mach ant-sùith</headword>
+      <description>[sic] on a sunny, dry day the thatch was removed and the soot collected and stored for use as fertiliser or it may have been taken straight to the croft (not sure of this point).</description>
+    </item>
+    <item><headword id="d0e851" type="heading" level="h3">3. Implements used for lifting, carrying and spreading manure or seaweed</headword></item>
+    <item>
+      <headword id="d0e856">graip</headword>
+    </item>
+    <item>
+      <headword id="d0e862">cliabh</headword>
+    </item>
+    <item>
+      <headword id="d0e868">barra</headword>
+      <description>wheelbarrow.</description>
+    </item>
+    <item><headword id="d0e876" type="heading" level="h2">(b) Turning and tilling the soil</headword></item>
+    <item><headword id="d0e880" type="heading" level="h3">1. Implements used for turning or tilling the soil</headword></item>
+    <item>
+      <headword id="d0e885">spaid</headword>
+    </item>
+    <item>
+      <headword id="d0e891">crann treabhaidh</headword>
+    </item>
+    <item>
+      <headword id="d0e897">horse drawn</headword>
+    </item>
+    <item>
+      <headword id="d0e903">tractor</headword>
+    </item>
+    <note>[NOTES: the way the last three terms are written down – one under another – it is not clear if there is any link between them.]</note>
+    <item><headword id="d0e911" type="heading" level="h3">2. Parts of the implements used</headword></item>
+    <item><headword id="d0e915" type="heading" level="h3">3. Words used in connection with tilling the soil, e.g. digging</headword></item>
+    <item>
+      <headword id="d0e920">túmadh</headword>
+      <description>cleaning of drains and spreading the cleanings over the arable, then ploughed in giving the soil renewed fertility.</description>
+    </item>
+    <item><headword id="d0e928" type="heading" level="h2">(c) Seed planting</headword></item>
+    <item><headword id="d0e932" type="heading" level="h3">1. Names of seeds planted and words used for sowing or planting these</headword></item>
+    <item>
+      <headword id="d0e937">siol corc</headword>
+      <description>cur a corc.</description>
+    </item>
+    <item>
+      <headword id="d0e946">cur a bhunata</headword>
+      <description>planting potatoes.</description>
+    </item>
+    <item>
+      <headword id="d0e955">cur chail</headword>
+      <description>planting cabbages.</description>
+    </item>
+    <item><headword id="d0e963" type="heading" level="h3">2. Names of any special sack, basket etc. used for carrying seed when sowing or planting</headword></item>
+    <item>
+      <headword id="d0e968">seic</headword>
+      <description>bag made of hide or skin.</description>
+    </item>
+    <item>
+      <headword id="d0e977">poc</headword>
+      <description>bag made of sackcloth.</description>
+    </item>
+    <item><headword id="d0e985" type="heading" level="h3">3. Names of any special implement used for planting</headword></item>
+    <item>
+      <headword id="d0e990">putair</headword>
+      <description>for putting down potatoes when soil is already turned and ploughed. An ordinary wooden shaft with one end somewhat pointed to make the holes more easier [sic].</description>
+    </item>
+    <item><headword id="d0e998" type="heading" level="h1">7. Summer work</headword></item>
+    <item><headword id="d0e1002" type="heading" level="h2">(a) Cleaning and weeding potatoes</headword></item>
+    <item>
+      <headword id="d0e1007">tobha</headword>
+      <description>hoe.</description>
+    </item>
+    <item>
+      <headword id="d0e1016">priceadh</headword>
+      <description>going over the plot cutting all weeds etc.</description>
+    </item>
+    <item>
+      <headword id="d0e1025">tobhaiceadh</headword>
+      <description>earthing to prevent the grown shaws from being broken by strong winds.</description>
+    </item>
+    <item><headword id="d0e1033" type="heading" level="h2">(b) Thinning and weeding other crops</headword></item>
+    <item>
+      <headword id="d0e1038">tannachadh</headword>
+      <description>thinning with broad hoe.</description>
+    </item>
+    <item><headword id="d0e1046" type="heading" level="h1">8. Autumn work</headword></item>
+    <item><headword id="d0e1050" type="heading" level="h2">(a) Hay making</headword></item>
+    <item><headword id="d0e1054" type="heading" level="h3">1. The implement used for (a) cutting (b) raking and turning (c) lifting and stacking</headword></item>
+    <item>
+      <headword id="d0e1059">corran</headword>
+      <description>sickle (very little used nowadays).</description>
+    </item>
+    <item>
+      <headword id="d0e1068">speal</headword>
+      <description>scythe.</description>
+    </item>
+    <item>
+      <headword id="d0e1077">clach speal</headword>
+      <description>sharpener.</description>
+    </item>
+    <item>
+      <headword id="d0e1086">rácadh</headword>
+      <description>raking and turning.</description>
+    </item>
+    <item>
+      <headword id="d0e1095">gocadh</headword>
+      <description>first stage of stacking.</description>
+    </item>
+    <item>
+      <headword id="d0e1104">cruach</headword>
+      <description>stack.</description>
+    </item>
+    <item>
+      <headword id="d0e1113">goca mor</headword>
+      <description>stack.</description>
+    </item>
+    <item>
+      <headword id="d0e1122">sìg</headword>
+      <description>stacked oblong shaped and tapered in the top so as to throw off oncoming rains.</description>
+    </item>
+    <item><headword id="d0e1130" type="heading" level="h3">2. Name the parts of the implements mentioned</headword></item>
+    <item>
+      <headword id="d0e1135">iarunn</headword>
+      <description>blade.</description>
+    </item>
+    <item>
+      <headword id="d0e1144">cas</headword>
+      <description>handle.</description>
+    </item>
+    <item><headword id="d0e1152" type="heading" level="h3">3. Various stages of hay-making</headword></item>
+    <item>
+      <headword id="d0e1157">gearradh fheoir</headword>
+      <description>cutting hay.</description>
+    </item>
+    <item>
+      <headword id="d0e1166">tionndadh an fheoir</headword>
+      <description>turning [hay].</description>
+    </item>
+    <item>
+      <headword id="d0e1175">ri gocadh</headword>
+      <description>hay-cocks.</description>
+    </item>
+    <item>
+      <headword id="d0e1184">ri cruachadh</headword>
+      <description>stacking.</description>
+    </item>
+    <item>
+      <headword id="d0e1193">deanamh sìg</headword>
+    </item>
+    <item><headword id="d0e1198" type="heading" level="h2">(b) Corn cutting and securing</headword></item>
+    <item><headword id="d0e1202" type="heading" level="h3">1. Implements used for cutting, raking, binding, lifting into stacks etc.</headword></item>
+    <item>
+      <headword id="d0e1207">speal</headword>
+    </item>
+    <item>
+      <headword id="d0e1213">ràckan</headword>
+    </item>
+    <item>
+      <headword id="d0e1219">ceangal</headword>
+    </item>
+    <item><headword id="d0e1224" type="heading" level="h3">2. Bands (for tying corn), sheaves, stooks etc.</headword></item>
+    <item>
+      <headword id="d0e1229">bann</headword>
+      <description>band.</description>
+    </item>
+    <item>
+      <headword id="d0e1238">bad coirc</headword>
+    </item>
+    <item>
+      <headword id="d0e1244">beum eorna</headword>
+    </item>
+    <item>
+      <headword id="d0e1250">adag coirc</headword>
+      <description>a stook of twelve sheaves; bad.</description>
+    </item>
+    <item>
+      <headword id="d0e1259">curracag eorna</headword>
+      <description>a stook of ten sheaves; beum.</description>
+    </item>
+    <item><headword id="d0e1267" type="heading" level="h3">3. Stack making (in yard)</headword></item>
+    <item>
+      <headword id="d0e1272">clachan buinn</headword>
+      <description>stones.</description>
+    </item>
+    <item>
+      <headword id="d0e1281">acaraichean</headword>
+      <description>anchors, weights; flat stones put in loops of rope.</description>
+    </item>
+    <item>
+      <headword id="d0e1290">seann lion sadanach</headword>
+      <description>for protection from birds.</description>
+    </item>
+    <item>
+      <headword id="d0e1299">bonn na cruaich</headword>
+      <description>foundation.</description>
+    </item>
+    <item>
+      <headword id="d0e1308">glaodhan</headword>
+      <description>the body.</description>
+    </item>
+    <item>
+      <headword id="d0e1317">bad a muigh</headword>
+      <description>covering the body with heavy sheaves at the same time making secure with coir rope or heather rope.</description>
+    </item>
+    <item>
+      <headword id="d0e1326">crios</headword>
+      <description>coir rope etc.</description>
+    </item>
+    <item><headword id="d0e1334" type="heading" level="h3">4. Methods of carrying or transporting corn from field to corn yard</headword></item>
+    <item>
+      <headword id="d0e1339">taod</headword>
+      <description>the corn tied up firmly in ropes and carried on the human back.</description>
+    </item>
+    <item>
+      <headword id="d0e1348">cart + tractor</headword>
+      <description>the more modern.</description>
+    </item>
+    <item><headword id="d0e1356" type="heading" level="h2">(c) Potato lifting and storing</headword></item>
+    <item><headword id="d0e1360" type="heading" level="h3">1. Implements</headword></item>
+    <item>
+      <headword id="d0e1365">tobhain</headword>
+    </item>
+    <item>
+      <headword id="d0e1371">graip</headword>
+    </item>
+    <item>
+      <headword id="d0e1377">croman</headword>
+      <description>
+        <illustration src="SouthBragarDMacPhailagricultureillust1.jpg" width="300"/>
+      </description>
+    </item>
+    <item><headword id="d0e1387" type="heading" level="h3">2. Sack, creel, barrow etc. used for carrying potatoes in field and to steading</headword></item>
+    <item>
+      <headword id="d0e1392">cliabh</headword>
+      <description>or creel. The most commonly used.</description>
+    </item>
+    <item><headword id="d0e1400" type="heading" level="h3">3. Where potatoes are kept or stored</headword></item>
+    <item>
+      <headword id="d0e1405">slochd bhunata</headword>
+      <description>potato pit. To make a potato pit, preferably where oats were grown clean, according to quantity to be put in 20-30 creels for example, 9 feet long 4 ft wide and six inches deep covered with firm sods of earth termed sgrathan and covered with the surrounding earth 9 inches thick formed into a shapely mound.</description>
+    </item>
+    <item>
+      <headword id="d0e1414">cuil bhunata</headword>
+      <description>when potatoes are stored in barn.</description>
+    </item>
+    <item><headword id="d0e1422" type="heading" level="h3">4. Potato diseases</headword></item>
+    <item>
+      <headword id="d0e1427">cnamh</headword>
+      <description>blight, caused by too much wet, signs: withering shaws.</description>
+    </item>
+    <item>
+      <headword id="d0e1436">lobhadh</headword>
+      <description>rotting, caused by too much wet, signs: withering shaws.</description>
+    </item>
+    <item><headword id="d0e1444" type="heading" level="h2">(d) Other crops (Lifting and storing)</headword></item>
+    <item><headword id="d0e1448" type="heading" level="h3">1. Implements used for lifting</headword></item>
+    <item><headword id="d0e1452" type="heading" level="h3">2. How and where crop is stored</headword></item>
+    <item>
+      <headword id="d0e1457">iodhlann</headword>
+      <description>corn yard.</description>
+    </item>
+    <item><headword id="d0e1465" type="heading" level="h3">3. Diseases/insects which attack the particular crop(s)</headword></item>
+    <item>
+      <headword id="d0e1470">pudharan</headword>
+      <description>a black stalk of corn in a field of growing oats.</description>
+    </item>
+    <item>
+      <headword id="d0e1479">graine dubh</headword>
+      <description>a black stalk of corn in a field of growing oats.</description>
+    </item>
+    <item><headword id="d0e1487" type="heading" level="h1">9. Winter work</headword></item>
+    <item><headword id="d0e1491" type="heading" level="h2">(a) Land drainage</headword></item>
+    <item><headword id="d0e1495" type="heading" level="h3">1. Drains, ditches etc.</headword></item>
+    <item>
+      <headword id="d0e1500">clais</headword>
+      <description>drain between the two feannags.</description>
+    </item>
+    <item>
+      <headword id="d0e1509">taomadh</headword>
+      <description>clearing drain of debris, which is spread on adjoining fields.</description>
+    </item>
+    <item><headword id="d0e1517" type="heading" level="h3">2. Implements used</headword></item>
+    <item>
+      <headword id="d0e1522">spaid</headword>
+      <description>spade.</description>
+    </item>
+    <item><headword id="d0e1530" type="heading" level="h2">(b) Potato cutting for seed</headword></item>
+    <item><headword id="d0e1534" type="heading" level="h3">1. Instruments used</headword></item>
+    <item>
+      <headword id="d0e1539">sgealbadh</headword>
+      <description>cutting the potato leaving an eye in each part.</description>
+    </item>
+    <item><headword id="d0e1547" type="heading" level="h3">2. Different kinds of potatoes</headword></item>
+    <item>
+      <headword id="d0e1552">Kerr’s pink</headword>
+    </item>
+    <item>
+      <headword id="d0e1558">Champion</headword>
+    </item>
+    <item>
+      <headword id="d0e1564">Golden Wonder</headword>
+    </item>
+    <item><headword id="d0e1569" type="heading" level="h2">(c) Corn threshing</headword></item>
+    <item><headword id="d0e1573" type="heading" level="h3">1. Implements used</headword></item>
+    <item>
+      <headword id="d0e1578">sùist</headword>
+      <description>flail. <illustration src="SouthBragarDMacPhailagricultureillust2.jpg" width="200"/></description>
+    </item>
+    <item>
+      <headword id="d0e1588">ial</headword>
+      <description>[flail] thongs connecting handle to buailtean [q.v.].
+        <illustration src="SouthBragarDMacPhailagricultureillust2.jpg" width="200"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e1599">lamharan</headword>
+      <description>[flail] shaft or handle.
+        <illustration src="SouthBragarDMacPhailagricultureillust2.jpg" width="200"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e1610">buailtean</headword>
+      <description>[flail] a two foot long tree branch refined down to suitable weight for threshing corn laid out on barn floor.
+        <illustration src="SouthBragarDMacPhailagricultureillust2.jpg" width="200"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e1621">maide frassaidh</headword>
+      <description>a length of wood with edges cut in teeth like manner by which the sheaf is threshed by light beatings.
+        <illustration src="SouthBragarDMacPhailagricultureillust3.jpg" width="200"/>
+      </description>
+    </item>
+    <item><headword id="d0e1631" type="heading" level="h3">2. Threshing</headword></item>
+    <item>
+      <headword id="d0e1636">bualadh</headword>
+    </item>
+    <item>
+      <headword id="d0e1642">frassadh</headword>
+    </item>
+    <item>
+      <headword id="d0e1648">sgathadh bhunan</headword>
+      <description>cutting the base and roots off barley sheaves with an old scythe blade and shaking all down into a thorough mixture for thatch.</description>
+    </item>
+    <item><headword id="d0e1656" type="heading" level="h2">(d) Grain winnowing</headword></item>
+    <item><headword id="d0e1660" type="heading" level="h3">1. Devices used</headword></item>
+    <item>
+      <headword id="d0e1665">fasganadh</headword>
+    </item>
+    <item>
+      <headword id="d0e1671">criathar</headword>
+      <description>sieve. Circular wooden frame. Skin – perforated to allow grain to fall through. [NOTES: spelled ‘criothar’ in the illustration.]
+	    <illustration src="SouthBragarDMacPhailagricultureillust4.jpg" width="400"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e1682">criathradh</headword>
+    </item>
+    <item><headword id="d0e1687" type="heading" level="h3">2. How constructed and materials used. Winnowing</headword></item>
+	<item>
+	  <headword id="d0e1692">[siol agus scalpan]</headword>
+	  <description>Siol agus scalpan air a cur ri gaoith, siol ri tuiteam faisg a laimh ach a scalpan no moll falb [sic] leis a gaoith.</description>
+	</item>
+    <item><headword id="d0e1700" type="heading" level="h1">10. Permanent structures/buildings for storing crops</headword></item>
+    <item><headword id="d0e1704" type="heading" level="h2">(a) Stack-yard</headword></item>
+    <item>
+      <headword id="d0e1709">iodhlainn</headword>
+      <description>stack yard, originally built of stone.</description>
+    </item>
+    <item>
+      <headword id="d0e1718">bearna</headword>
+      <description>gate-way.</description>
+    </item>
+    <item>
+      <headword id="d0e1727">gàradh na h-iodhlainn</headword>
+    </item>
+    <item><headword id="d0e1732" type="heading" level="h2">(b) Barn and parts of a barn</headword></item>
+    <item>
+      <headword id="d0e1737">toll an shabhail</headword>
+      <description>opening in wall for winnowing when wind would have to be from favourable direction.</description>
+    </item>
+    <item>
+      <headword id="d0e1746">uachdair an shabhail</headword>
+      <description>where corn is stored.</description>
+    </item>
+    <item>
+      <headword id="d0e1755">cùil a bhunata</headword>
+      <description>where potatoes are stored.</description>
+    </item>
+    <item>
+      <headword id="d0e1764">cùil nan òisgean</headword>
+      <description>separate part for housing this year’s lambs in winter.</description>
+    </item>
+    <item><headword id="d0e1772" type="heading" level="h1">11. Modern implements and machines</headword></item>
+	<item>
+	  <headword id="d0e1777">[tractor, reaper, binder]</headword>
+	  <description>The tractor, reaper and binder are newly brought in implements and the English names are borrowed.</description>
+	</item>
+  </items>
+</fieldworkDocument>

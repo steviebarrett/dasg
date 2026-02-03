@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 1 8 14 -->
+<!-- illustrations -->
+<fieldworkDocument docId="AOHenley_SouthLochboisdaleJMacDonaldmisc" docType="wordlist" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>[1987-88]</date>
+  <fieldworker personId="ohenleya">A. O’Henley</fieldworker>
+  <note>[NOTES: some notes added (most probably by K. D. MacDonald?). See below for details.]</note>
+  <informant>
+    <nameEnglish>John MacDonald</nameEnglish>
+  </informant>
+  <location>South Uist, South Lochboisdale</location>
+  <items>
+    <item>
+      <headword id="idp507624">taobh stòc</headword>
+      <description>thwart support. [NOTES: ‘stòc’ corrected to ‘stoc’.]</description>
+    </item>
+    <item>
+      <headword id="idp504240">aparan</headword>
+      <description>a round support placed in a boat’s gunnel. Usually fitted in older boats.</description>
+    </item>
+    <item>
+      <headword id="idp524616">fàsag</headword>
+      <description>plug or stopper.</description>
+    </item>
+    <item>
+      <headword id="idp526128">maodhan</headword>
+      <description>a joint called strake point. Two bits of wood like the diagram brought together and fixed by nails. <illustration src="SouthLochboisdaleJMacDonaldmiscillust1.jpg" width="300"/></description>
+    </item>
+    <item>
+      <headword id="idp527928">tàll</headword>
+      <description>an adze. Carpenter’s tool.</description>
+    </item>
+    <item>
+      <headword id="idp529440">glamaradh</headword>
+      <description>a wooden clamp which could be adjusted depending on the thickness of what you were working with.</description>
+    </item>
+    <item>
+      <headword id="idp531816">sgearbhadh</headword>
+      <description>scarfing joint. Special angle joint in timber. Indentations made here [NOTES: see arrows in the illustration] so that the timber slotted together. <illustration src="SouthLochboisdaleJMacDonaldmiscillust2.jpg" width="300"/></description>
+    </item>
+    <item>
+      <headword id="idp533616">sgearfadh</headword>
+      <description>[See sgearbhadh.]</description>
+    </item>
+    <item>
+      <headword id="idp535128">fliuch bhòrd</headword>
+      <description>garboard strake.</description>
+    </item>
+    <item>
+      <headword id="idp536640">lionadh</headword>
+      <description>support at the front of a boat attached to the keel. <illustration src="SouthLochboisdaleJMacDonaldmiscillust3.jpg" width="350"/> </description>
+    </item>
+    <item>
+      <headword id="idp538296">crann tarrain</headword>
+      <description>trenail.</description>
+    </item>
+    <item>
+      <headword id="idp539808">gàg</headword>
+      <description>slit at the top of a trenail. Wedge placed here so that the nail expanded like a modern day rawlplug. <illustration src="SouthLochboisdaleJMacDonaldmiscillust4.jpg" width="100"/> </description>
+    </item>
+    <item>
+      <headword id="idm2982752">banbh</headword>
+      <description>to rebate. A joiner’s term. E.g. a rebate in a boat’s stem or keel. This term also applied when making doors. <illustration src="SouthLochboisdaleJMacDonaldmiscillust5.jpg" width="500"/></description>
+    </item>
+    <item>
+      <headword id="idm2924288">cuairt</headword>
+      <description>breast or stern hook. A round bit of wood used to keep the gunnel tight. <illustration src="SouthLochboisdaleJMacDonaldmiscillust6.jpg" width="500"/> </description>
+    </item>
+    <item>
+      <headword id="idm3041648">ceannachrag</headword>
+      <description>knee support underneath seats.</description>
+    </item>
+    <item>
+      <headword id="idm2928392">cnòt</headword>
+      <description>blocks of wood attached to the inside of the rowlocks. Kept the oar tight. Could also be attached to the oar itself.</description>
+    </item>
+    <item>
+      <headword id="idm2955968">cnagan</headword>
+      <description>the actual pins on the rowlock.</description>
+    </item>
+    <item>
+      <headword id="idm3038336">luirge</headword>
+      <description>the oar’s stock.</description>
+    </item>
+    <item>
+      <headword id="idm2927384">dorn raimh</headword>
+      <description>where you gripped the oar.</description>
+    </item>
+    <item>
+      <headword id="idm3027392">uisge stiureach</headword>
+      <description>the furrow-like wave which follows a boat. “Dè a tha aig bàta ’s nach dean i an gnothach as aonais?” Answer: uisge stiureach or wake in English.</description>
+    </item>
+    <item>
+      <headword id="idm2986568">calcadh</headword>
+      <description>caulking a boat.</description>
+    </item>
+    <item>
+      <headword id="idm2936744">strachd bheòil</headword>
+      <description>topmost stroke.</description>
+    </item>
+    <item>
+      <headword id="idm3028256">calbanan</headword>
+      <description>galvanised nails with square heads. Used for boat construction.</description>
+    </item>
+    <item>
+      <headword id="idm3000968">lannan</headword>
+      <description>washers.</description>
+    </item>
+    <item>
+      <headword id="idm3012200">iarunn barraidh</headword>
+      <description>clenching iron. <illustration src="SouthLochboisdaleJMacDonaldmiscillust7.jpg" width="250"/> </description>
+    </item>
+    <item>
+      <headword id="idm2985920">torra</headword>
+      <description>an auger. Tool for boring wood. [NOTES: corrected to ‘tora’.]</description>
+    </item>
+    <item>
+      <headword id="idm2962232">rèic a’ chruinn</headword>
+      <description>an obtuse angle on a mast.</description>
+    </item>
+    <item>
+      <headword id="idm2942792">sùlairean</headword>
+      <description>boats built at the time of the Zulu War. Characterised by having an obtusely angled rear stem.</description>
+    </item>
+    <item>
+      <headword id="idm2977856">bròg a’ chruinn</headword>
+      <description>mast step.</description>
+    </item>
+    <item>
+      <headword id="idm3037976">suthag</headword>
+      <description>a patch.</description>
+    </item>
+    <item>
+      <headword id="idm3035384">màrlspàic</headword>
+      <description>an iron spike tapering at one end. Used for splicing wire. Also had wooden equivalent for splicing rope.</description>
+    </item>
+    <item>
+      <headword id="idm2942000">spladhsadh</headword>
+      <description>splicing.</description>
+    </item>
+    <item>
+      <headword id="idm3047552">duin iaruinn</headword>
+      <description>capstan or hauler.</description>
+    </item>
+    <item>
+      <headword id="idm2989952">lamaraig</headword>
+      <description>a naturally formed landing place.</description>
+    </item>
+    <item>
+      <headword id="idm3023216">luidhainn</headword>
+      <description>a wooden board to which a rod would be attached. Situated near the vent at the top of an old house which had a fire in the centre of the room. The board would be adjusted according to wind direction so that the smoke would be carried away. [NOTES: note added above ‘luidhainn’ – luidhein.]</description>
+    </item>
+    <item>
+      <headword id="idm2991968">branndair</headword>
+      <description>an iron frame or rail round a range or fire.</description>
+    </item>
+    <item>
+      <headword id="idm2933648">ard dorus</headword>
+      <description>door lintel.</description>
+    </item>
+    <item>
+      <headword id="idm2980304">ard bhùin</headword>
+      <description>threshold.</description>
+    </item>
+    <item>
+      <headword id="idm2930768">leth chas</headword>
+      <description>a rafter.</description>
+    </item>
+    <item>
+      <headword id="idm2947184">sparr ghaoithadh</headword>
+      <description>a tie across the rafters. <illustration src="SouthLochboisdaleJMacDonaldmiscillust8.jpg" width="250"/> </description>
+    </item>
+    <item>
+      <headword id="idm2940776">slinndair</headword>
+      <description>a large stone slab used for door lintels.</description>
+    </item>
+    <item>
+      <headword id="idm2977496">tuainnaireachd</headword>
+      <description>making designs on wood.</description>
+    </item>
+    <item>
+      <headword id="idm2928248">souladh</headword>
+      <description>shellfish which was used as bait. Some say it without pronouncing the ‘adh’. [NOTES: corrected to ‘suladh’.]</description>
+    </item>
+    <item>
+      <headword id="idm2974616">cuigeal</headword>
+      <description>thinks this was a primitive version of the modern spinning wheel. Not clear about this.</description>
+    </item>
+    <item>
+      <headword id="idm2971736">snothad</headword>
+      <description>a dozen hairs taken from a horse’s tail; doubled and used as fishing gut.</description>
+    </item>
+    <item>
+      <headword id="idm3023000">sgonnan</headword>
+      <description>a long bit of wood used to stir barley.</description>
+    </item>
+    <item>
+      <headword id="idm3029984">modha</headword>
+      <description>change. Could be money or a change in the weather, fortune, etc.</description>
+    </item>
+    <item>
+      <headword id="idm2981096">brosgal</headword>
+      <description>persuading.</description>
+    </item>
+    <item>
+      <headword id="idm2958848">annlann</headword>
+      <description>a covering.</description>
+    </item>
+    <item>
+      <headword id="idm2943872">[faolag]</headword>
+      <description>Faolag gheal air an uisge – white spray on the sea’s surface. Also ‘faolag dhubh’.</description>
+    </item>
+    <item>
+      <headword id="idm3044600">strachd mheadhoin</headword>
+      <description>the middle strake in a boat.</description>
+    </item>
+  </items>
+</fieldworkDocument>
+

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 11 6 13 -->
+<fieldworkDocument docId="AssortedFieldworkers_AnonymousBmaorach" docType="questionnaire" subType="Maorach">
+  <title>Maorach / Shellfish</title>
+  <fieldworker>Anonymous B</fieldworker>
+  <items>
+    <item><headword id="d0e14" type="heading" level="h1">1. Maorach</headword></item>
+    <item>
+      <headword id="d0e19">fiasgain</headword>
+      <description>mussels.</description>
+    </item>
+    <item>
+      <headword id="d0e28">maorach</headword>
+      <description>limpet.</description>
+    </item>
+    <item>
+      <headword id="d0e37">faochag</headword>
+      <description>edible (black).</description>
+    </item>
+    <item>
+      <headword id="d0e46">mursuinn</headword>
+      <description>razorfish.</description>
+    </item>
+    <item>
+      <headword id="d0e55">bearnach</headword>
+      <description>limpet.</description>
+    </item>
+    <item>
+      <headword id="d0e64">conochgag</headword>
+      <description>seashells.</description>
+    </item>
+    <item>
+      <headword id="d0e73">leopag</headword>
+      <description>flounder.</description>
+    </item>
+    <item>
+      <headword id="d0e82">portan</headword>
+    </item>
+    <item>
+      <headword id="d0e88">liaghag</headword>
+      <description>seaweed going to and fro.</description>
+    </item>
+    <item>
+      <headword id="d0e97">creachan</headword>
+      <description>clams.</description>
+    </item>
+    <item><headword id="d0e105" type="heading" level="h1">2. A’ tional maorach</headword></item>
+    <item><headword id="d0e109" type="heading" level="h1">3. Beathaichean eile a gheibhear ’sa’ chladach</headword></item>
+  </items>
+</fieldworkDocument>

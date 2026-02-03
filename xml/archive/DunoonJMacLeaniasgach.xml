@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 5 4 14 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="WoolworkingandFishing_DunoonJMacLeaniasgach" docType="questionnaire" subType="AcfhuinnIasgaich" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Acfhuinn Iasgaich / Fishing Tackle</title>
+  <fieldworker>[self]</fieldworker>
+  <informant>
+    <nameEnglish>John MacLean</nameEnglish>
+    <nameGaelic>Iain Mac ’Illeathain </nameGaelic>
+    <age>48</age>
+    <origin>Barra</origin>
+  </informant>
+  <location>Dunoon</location>
+  <items>
+    <item><headword id="d0e32" type="heading" level="h1">1. Lìon-mór</headword></item>
+    <item>
+      <headword id="d0e37">dubhan mor</headword>
+      <description>hook. <illustration src="DunoonJMacLeaniasgachillust1.jpg" width="300"/></description>
+    </item>
+    <item>
+      <headword id="d0e47">bac</headword>
+      <description>[See dubhan mor.]</description>
+    </item>
+    <item>
+      <headword id="d0e56">frith-bhac</headword>
+      <description>[See dubhan mor.]</description>
+    </item>
+    <item>
+      <headword id="d0e65">gob</headword>
+      <description>[See dubhan mor.]</description>
+    </item>
+    <item>
+      <headword id="d0e74">snòd</headword>
+    </item>
+    <item>
+      <headword id="d0e80">baclag</headword>
+      <description>snead looped round the hook so the hook cannot catch.</description>
+    </item>
+    <item>
+      <headword id="d0e89">biathadh (noun)</headword>
+      <description>the bait used.</description>
+    </item>
+    <item>
+      <headword id="d0e98">a biathadh (verb) a linn</headword>
+      <description>baiting the net.</description>
+    </item>
+    <item><headword id="d0e106" type="heading" level="h1">2. Lìon-beag</headword></item>
+    <item>
+      <headword id="d0e111">lion caol</headword>
+      <description>more commonly used [term for lìon-beag.] (Names as lion mor.)</description>
+    </item>
+    <item>
+      <headword id="d0e120">sgùlan</headword>
+      <description>wicker or wooden container for small line.</description>
+    </item>
+    <item>
+      <headword id="d0e129">cruaidh</headword>
+      <description>the weight.</description>
+    </item>
+    <item>
+      <headword id="d0e138">ceann</headword>
+      <description>the buoy and rope.</description>
+    </item>
+    <item>
+      <headword id="d0e147">luga</headword>
+      <description>lugworm.</description>
+    </item>
+    <item>
+      <headword id="d0e156">biathadh</headword>
+      <description>bait or the act of baiting the net.</description>
+    </item>
+    <item>
+      <headword id="d0e165">dubhan</headword>
+      <description>hook. Same word used for a cat’s nail.</description>
+    </item>
+    <item>
+      <headword id="d0e174">ag goramanachd</headword>
+      <description>taking the fish off the hook.</description>
+    </item>
+    <item>
+      <headword id="d0e183">an grunnd</headword>
+      <description>the fishing ground.</description>
+    </item>
+    <item>
+      <headword id="d0e192">oitir</headword>
+    </item>
+    <item>
+      <headword id="d0e198">croman</headword>
+      <description>a large hook or hooked piece of iron attached to a wooden handle to pull in a large fish which would be liable to get away by breaking the snead or the hook.</description>
+    </item>
+    <item><headword id="d0e206" type="heading" level="h1">3. Lìon-sgadan</headword></item>
+	<item>
+	  <headword id="idola225">[note]</headword>
+	  <description>[NOTES: the original heading in the questionnaire was ‘lìon-sgadanach’ but the informant crossed out ‘ach’.]</description>
+	</item>
+    <item>
+      <headword id="d0e220">àcran</headword>
+      <description>cork.</description>
+    </item>
+    <item>
+      <headword id="d0e229">mogul</headword>
+      <description>mesh.</description>
+    </item>
+	<item>
+	  <headword id="d0e238">An do mhoglaich e?</headword>
+	  <description>Has it enmeshed?</description>
+	</item>
+    <item>
+      <headword id="d0e247">druim</headword>
+      <description>top part.</description>
+    </item>
+    <item>
+      <headword id="d0e256">iochdar</headword>
+      <description>bottom part.</description>
+    </item>
+    <item>
+      <headword id="d0e265">cluas</headword>
+      <description>corner of the net.</description>
+    </item>
+    <item>
+      <headword id="d0e274">cur</headword>
+      <description>a cast or yield. Deagh chur, droch chur.</description>
+    </item>
+    <item>
+      <headword id="d0e283">buta</headword>
+      <description>buoy.</description>
+    </item>
+    <item>
+      <headword id="d0e292">coltas</headword>
+      <description>signs of herring like oily sea or gannets etc.</description>
+    </item>
+    <item>
+      <headword id="d0e301">snàthad</headword>
+      <description>needle for holding the twine for repairs.</description>
+    </item>
+    <item>
+      <headword id="d0e310">cairteadh</headword>
+      <description>the process of dipping nets or sails into a brown preserving solution.</description>
+    </item>
+    <item>
+      <headword id="d0e319">stragaidh</headword>
+      <description>a goodly scattering of herring in the nets.</description>
+    </item>
+    <item>
+      <headword id="d0e328">ag cur</headword>
+      <description>setting nets (used with all nets).</description>
+    </item>
+    <item>
+      <headword id="d0e337">a’ tarruing</headword>
+      <description>taking [nets] aboard (used with all nets).</description>
+    </item>
+    <item>
+      <headword id="d0e346">runnach</headword>
+      <description>mackerel.</description>
+    </item>
+    <item>
+      <headword id="d0e355">runnach clappach</headword>
+      <description>horse mackerel.</description>
+    </item>
+    <item><headword id="d0e363" type="heading" level="h1">4. Lìon sam bith eile</headword><description>[page missing] </description></item>
+    <item><headword id="d0e367" type="heading" level="h1">5. Duirgh, slatan, driamlaichean</headword></item>
+    <item>
+      <headword id="d0e372">slat</headword>
+      <description>the big rod.</description>
+    </item>
+    <item>
+      <headword id="d0e381">slat mhor</headword>
+      <description>the big rod.</description>
+    </item>
+    <item>
+      <headword id="d0e390">slat mhudhair</headword>
+      <description>the big rod.</description>
+    </item>
+    <item>
+      <headword id="d0e399">slat r(h)ipidh</headword>
+      <description>small rod.</description>
+    </item>
+    <item>
+      <headword id="d0e408">biathadh</headword>
+      <description>bait.</description>
+    </item>
+    <item>
+      <headword id="d0e417">solladh</headword>
+      <description>crushed crabs, limpets etc. to attract fish to the rock.</description>
+    </item>
+    <item>
+      <headword id="d0e426">ribeadh</headword>
+      <description>a bite.</description>
+    </item>
+    <item>
+      <headword id="d0e435">pronnadh</headword>
+      <description>crushing act for solladh [q.v].</description>
+    </item>
+    <item>
+      <headword id="d0e444">beirt</headword>
+      <description>line.</description>
+    </item>
+    <item>
+      <headword id="d0e453">plumaid</headword>
+      <description>plummet.</description>
+    </item>
+    <item>
+      <headword id="d0e462">snod and guts</headword>
+      <description>snead and guts.</description>
+    </item>
+    <item>
+      <headword id="d0e471">mudhar, pl. mùdhraichean</headword>
+      <description>fly.</description>
+    </item>
+    <item>
+      <headword id="d0e480">a dol gu mudhar</headword>
+      <description>going out in a boat using rods and flies.</description>
+    </item>
+    <item>
+      <headword id="d0e489">gad</headword>
+      <description>a length of flies – three or more hooks; a number of fish on a string.</description>
+    </item>
+    <item>
+      <headword id="d0e498">slugag</headword>
+      <description>round hollow in the rock where solladh [q.v.] is made.</description>
+    </item>
+    <item>
+      <headword id="d0e507">slaopadh</headword>
+      <description>warm water poured over bait to make it more tender and opens shell.</description>
+    </item>
+    <item>
+      <headword id="d0e516">sgèdhradh</headword>
+      <description>fitting two pieces together to form a bigger rod.</description>
+    </item>
+    <item>
+      <headword id="d0e525">dorgh</headword>
+      <description>hand line.</description>
+    </item>
+    <item>
+      <headword id="d0e534">brionglaid</headword>
+      <description>entanglement.</description>
+    </item>
+    <item>
+      <headword id="d0e543">tàbh (sometimes scummar)</headword>
+      <description>a large type of landing net. Parts: bogha màis, cas, cearcall, slatan, lion.</description>
+    </item>
+    <item>
+      <headword id="d0e552">crosgag</headword>
+      <description>cross sticks or rectangle of wood for dorgh [q.v.].</description>
+    </item>
+    <item>
+      <headword id="d0e561">fuaitreag</headword>
+      <description>rubber eel.</description>
+    </item>
+    <item>
+      <headword id="d0e570">roinn an eisg</headword>
+      <description>dividing the fish. One turns his back (falbh do’n chùil) while another points to each share saying each time “Whose is that?” (Co aige bi sud?).</description>
+    </item>
+    <item>
+      <headword id="d0e579">iasg air mo laimh</headword>
+      <description>I have a fish on my line.</description>
+    </item>
+    <item>
+      <headword id="d0e588">comharran</headword>
+      <description>land marks used for fishing grounds.</description>
+    </item>
+    <item>
+      <headword id="d0e597">driomlach</headword>
+      <description>an old dorgh [q.v.] past using or beginning to rot but word more commonly used for the giant boot laces.</description>
+    </item>
+    <item>
+      <headword id="d0e606">goile-brianain</headword>
+      <description>phosphorescent light in the sea or on fish.</description>
+    </item>
+    <item><headword id="d0e614" type="heading" level="h1">6. Acfhuinn sam bith eile</headword><description>[page missing] </description></item>
+  </items>
+</fieldworkDocument>

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 10/8/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_CulkeinAMathesonslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>10/1969</date>
+  <fieldworker>[AJ Smith]</fieldworker>
+  <note>[NOTES: in IPA transcriptions, the fieldworker uses [w] for [ɯ].]</note>
+  <informant>
+    <nameEnglish>Angus Matheson</nameEnglish>
+    <age>c. 65</age>
+    <origin>Culkein</origin>
+  </informant>
+  <location>Sutherland, Lochinver, Culkein (Stoer)</location>
+  <items>
+    <item>
+      <headword id="idp166315712">làghan</headword>
+      <description>Notes: “Pronn agus min-choirc air fhàgail airson dhà na tri a laithean ann am piceil.”</description>
+    </item>
+    <item>
+      <headword id="idp166314056">leamhnad</headword>
+      <description>[lʹ[ɑũ̟]ṉəd̪] Notes: sty.</description>
+    </item>
+    <item>
+      <headword id="idp166311896">lèataran</headword>
+      <description>[lʹɛ:t̪əɾɑṉ] Notes: area in front of the pulpit where the elders sat.</description>
+    </item>
+    <item>
+      <headword id="idp166309520">maolag</headword>
+      <description>[mw̃:ɫɑɡ] Notes: bottom part of sock used as a slipper.</description>
+    </item>
+    <item>
+      <headword id="idp166308296">mias</headword>
+      <description>[mɛ̃:s] Notes: basin.</description>
+    </item>
+    <item>
+      <headword id="idp166306424">muighe</headword>
+      <description>Notes: churn.</description>
+    </item>
+    <item>
+      <headword id="idp166304912">òrduighean</headword>
+      <description>Notes: Communions.</description>
+    </item>
+    <item>
+      <headword id="idp166302968">ialtag</headword>
+      <description>Notes: bat.</description>
+    </item>
+    <item>
+      <headword id="idp166277336">omhan-fuar</headword>
+      <description>[ɔ̃əṉfuəɾ] Notes: warm milk with rennet added left outside in frosty weather.</description>
+    </item>
+    <item>
+      <headword id="idp166282016">piocas</headword>
+      <description>Notes: chickenpox.</description>
+    </item>
+    <item>
+      <headword id="idp166285616">plàt</headword>
+      <description>Quotation: plàt a’ srathair. Notes: blanket put under the saddle.</description>
+    </item>
+    <item>
+      <headword id="idp166288568">pluc</headword>
+      <description>Quotation: am pluc. Notes: mumps.</description>
+    </item>
+    <item>
+      <headword id="idp166292168">saoidhlead</headword>
+      <description>[s[ɤi]ləd̪] Notes: tick on sheep.</description>
+    </item>
+    <item>
+      <headword id="idp166296344">sgàrlaid</headword>
+      <description>Quotation: a’ chuairteach sgàrlaid. Notes: scarlet fever.</description>
+    </item>
+    <item>
+      <headword id="idp166299800">siataig</headword>
+      <description>Notes: rheumatism.</description>
+    </item>
+    <item>
+      <headword id="idp166353728">snèip</headword>
+      <description>[ʃnʹɛ̃:p] Notes: turnip.</description>
+    </item>
+    <item>
+      <headword id="idp166355456">soighlean</headword>
+      <description>[s[ɤı]lɑṉ] Notes: a bee.</description>
+    </item>
+    <item>
+      <headword id="idp166357616">tinneas-caitheamh</headword>
+      <description>Notes: Tuberculosis.</description>
+    </item>
+    <item>
+      <headword id="idp166359128">tiodhlagadh</headword>
+      <description>[tʹıɔɫwɡəɣ] Notes: funeral.</description>
+    </item>
+    <item>
+      <headword id="idp166360856">triuthach</headword>
+      <description>Notes: whooping cough.</description>
+    </item>
+    <item>
+      <headword id="idp166362368">baoidhdeag</headword>
+      <description>[b[ɤı]dʹɑɡ] Notes: earthworm.</description>
+    </item>
+    <item>
+      <headword id="idp166364528">bàrr</headword>
+      <description>Notes: cream.</description>
+    </item>
+    <item>
+      <headword id="idp166366040">bóiceanach</headword>
+      <description>Quotation: [əvo:cəṉɑx]. Notes: smallpox, vaccination.</description>
+    </item>
+    <item>
+      <headword id="idp166367912">biorach</headword>
+      <description>Notes: spiked muzzle put on calves to prevent them from suckling.</description>
+    </item>
+    <item>
+      <headword id="idp166369424">cadal</headword>
+      <description>Quotation: cadal-iongnach. Notes: pins and needles.</description>
+    </item>
+    <item>
+      <headword id="idp166371080">caraisd</headword>
+      <description>[kɑɾɑʃdʹ] Notes: carrot.</description>
+    </item>
+    <item>
+      <headword id="idp166372808">carbad</headword>
+      <description>Notes: funeral bier.</description>
+    </item>
+    <item>
+      <headword id="idp166374320">ceangladair</headword>
+      <description>[cɑ̃:ɫəd̪ɑɾ] Notes: for making hanks.</description>
+    </item>
+    <item>
+      <headword id="idp166376048">clachdan</headword>
+      <description>Notes: rolls of wool from the cards, for feeding the wheel.</description>
+    </item>
+    <item>
+      <headword id="idp166377632">clogais</headword>
+      <description>[klɔɡɑʃ] Notes: a clog (wooden).</description>
+    </item>
+    <item>
+      <headword id="idp166379360">connspriach</headword>
+      <description>[k[ɤ̃ũ̜]spɾiɑx] Notes: wasp.</description>
+    </item>
+    <item>
+      <headword id="idp166381520">crath</headword>
+      <description>Quotation: a’ crathadh. Notes: making butter.</description>
+    </item>
+    <item>
+      <headword id="idp166383176">cuairteach</headword>
+      <description>Quotation: a’ chuairteach sgàrlaid. Notes: scarlet fever.</description>
+    </item>
+    <item>
+      <headword id="idp166384832">cùbaid</headword>
+      <description>Notes: pulpit.</description>
+    </item>
+    <item>
+      <headword id="idp166386344">cuman</headword>
+      <description>Quotation: cuman bleoghain. Notes: a small wooden pail.</description>
+    </item>
+    <item>
+      <headword id="idp166388000">famh</headword>
+      <description>[fɑ̃v] Notes: mole.</description>
+    </item>
+    <item>
+      <headword id="idp166389728">griurach</headword>
+      <description>Quotation: a’ ghriùrach [sic]. Notes: measles.</description>
+    </item>
+    <item>
+      <headword id="idp166391384">guirean</headword>
+      <description>Notes: pimple.</description>
+    </item>
+  </items>
+</fieldworkDocument>

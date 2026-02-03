@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 13 4 14 -->
+<fieldworkDocument xmlns:php="http://php.net/xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="TireeandMull_TireeBarrapolHMacLeanfaireachdain" docType="questionnaire" subType="Faireachdain" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Faireachdain / Senses</title>
+  <fieldworker>[Alan Boyd]</fieldworker>
+  <informant>
+    <nameEnglish>Hugh MacLean</nameEnglish>
+    <nameGaelic>Eoghann MacGilleathain </nameGaelic>
+    <age>64</age>
+    <origin>Tiriodh [Tiree]</origin>
+  </informant>
+  <location>Eilean Thiriodh, Goirtean Dòmhnaill [Tiree, Barrapol]</location>
+  <items>
+    <item><headword id="d0e32" type="heading" level="h1">FAIREACHDAIN</headword></item>
+    <item>
+      <headword id="d0e37">mo bhuaidhean</headword>
+      <description>my senses.</description>
+    </item>
+    <item>
+      <headword id="d0e46">claisteachd (f)</headword>
+      <description>sense of hearing. (Not ‘claisneachd’.)</description>
+    </item>
+    <item>
+      <headword id="d0e55">fàileadh (m)</headword>
+      <description>sense of smell.</description>
+    </item>
+    <item>
+      <headword id="d0e64">sealladh (m)</headword>
+      <description>sense of sight.</description>
+    </item>
+    <item>
+      <headword id="d0e73">blas (m)</headword>
+      <description>sense of taste.</description>
+    </item>
+    <item>
+      <headword id="d0e82">faireachdain (f)</headword>
+      <description>sense of touch.</description>
+    </item>
+    <item><headword id="d0e90" type="heading" level="h1">AN T-SÙIL</headword></item>
+    <item><headword id="d0e94" type="heading" level="h2">1. Seòrsachan sùil, pàirtean de’n t-sùil, tinneasan sùil, fradharc</headword></item>
+    <item>
+      <headword id="d0e99">sùil bhiorach</headword>
+      <description>good eyesight.</description>
+    </item>
+    <item>
+      <headword id="d0e108">sùil ghiar</headword>
+      <description>good eyesight.</description>
+    </item>
+    <item>
+      <headword id="d0e117">claon-shùileach</headword>
+      <description>tired-looking eyes.</description>
+    </item>
+    <item>
+      <headword id="d0e126">fiar-shùileach</headword>
+      <description>squint-eyed.</description>
+    </item>
+    <item>
+      <headword id="d0e135">clach na sùil</headword>
+      <description>pupil.</description>
+    </item>
+    <item>
+      <headword id="d0e144">fruisg</headword>
+      <description>eyelashes. Fruisg na sùla.</description>
+    </item>
+    <item>
+      <headword id="d0e153">sealladh astarach</headword>
+      <description>good visibility.</description>
+    </item>
+    <item>
+      <headword id="d0e162">sealladh goirid</headword>
+      <description>bad visibility.</description>
+    </item>
+    <item>
+      <headword id="d0e171">teine-sionachan (m)</headword>
+      <description>phosphorescence.</description>
+    </item>
+    <item><headword id="d0e179" type="heading" level="h2">2. Dòighean air coimhead air duine</headword></item>
+    <item>
+      <headword id="d0e184">fo’n t-sùil</headword>
+      <description>sideways.</description>
+    </item>
+    <item>
+      <headword id="d0e193">a’ sealltainn dur air duine</headword>
+    </item>
+    <item>
+      <headword id="d0e199">a’ sealltainn gruamach air duine</headword>
+	</item>
+	<item>
+      <headword id="d0e205">Sheall mi air gu gruamach.</headword>
+    </item>
+    <item><headword id="d0e210" type="heading" level="h2">3. Gnathasan-cainnte tha bointinn ris an t-sùil</headword></item>
+    <item>
+      <headword id="d0e215">Tha mo shùil air</headword>
+      <description>I am interested in it.</description>
+    </item>
+    <item>
+      <headword id="d0e224">Tha mo shùil oirre</headword>
+      <description>I am interested in her.</description>
+    </item>
+    <item>
+      <headword id="d0e233">Tha sùil gle mhath agam air crodh</headword>
+      <description>I have a good eye for cattle.</description>
+    </item>
+    <item>
+      <headword id="d0e242">Tha mo shùil ann</headword>
+      <description>I want it.</description>
+    </item>
+    <item>
+      <headword id="d0e251">taibhsearachd</headword>
+      <description>second sight.</description>
+    </item>
+    <item>
+      <headword id="d0e260">[aithneachadh]</headword>
+      <description>’Ga aithneachadh a reir coltas a shliochd, no a dhaoine, no a shinnsearachd – recognising a person from hereditary looks. Dh’aithnich mi e air na daoine d’am buineadh e.</description>
+    </item>
+    <item><headword id="d0e268" type="heading" level="h1">AM BEUL - Am beul, an amhaich, na fiaclan. Faclan a’ bointinn ri ithe agus òl. Faclan mu dheidhinn bruidhinn, gàireachdainn agus mar sin air adhart</headword></item>
+    <item>
+      <headword id="d0e273">gìosgan fhiacaill</headword>
+      <description>gnashing of teeth.</description>
+    </item>
+    <item>
+      <headword id="d0e282">cagnadh</headword>
+      <description>chewing.</description>
+    </item>
+    <item>
+      <headword id="d0e291">deoghal</headword>
+      <description>sucking.</description>
+    </item>
+    <item>
+      <headword id="d0e300">feadaireachd</headword>
+      <description>whistling.</description>
+    </item>
+    <item>
+      <headword id="d0e309">dùrdail</headword>
+      <description>humming.</description>
+    </item>
+    <item>
+      <headword id="d0e318">slugadh</headword>
+      <description>swallowing.</description>
+    </item>
+    <item>
+      <headword id="d0e327">Cuir siud air do gholàiream</headword>
+      <description>Drink that up in one go!</description>
+    </item>
+    <item>
+      <headword id="d0e336">logamal dhiolaidh</headword>
+      <description>an awful amount of drink.</description>
+    </item>
+    <item>
+      <headword id="d0e345">Tha an daorach air.</headword>
+    </item>
+    <item>
+      <headword id="d0e351">Tha an deoch air.</headword>
+    </item>
+    <item>
+      <headword id="d0e357">Tha smuid air.</headword>
+    </item>
+    <item>
+      <headword id="d0e363">Tha e air an daorach.</headword>
+    </item>
+    <item>
+      <headword id="d0e369">Tha e air an deoch.</headword>
+    </item>
+    <item>
+      <headword id="d0e375">Ghabh e ’n daorach.</headword>
+    </item>
+    <item>
+      <headword id="d0e381">Ghabh e ’n deoch.</headword>
+    </item>
+    <item>
+      <headword id="d0e387">Ghabh e streallaichean</headword>
+      <description>he took too much (drink).</description>
+    </item>
+    <item>
+      <headword id="d0e396">Ghabh e rathuiream</headword>
+      <description>he took a real bender.</description>
+    </item>
+    <item>
+      <headword id="d0e405">bleataraich</headword>
+      <description>blethering.</description>
+    </item>
+    <item>
+      <headword id="d0e414">bruidhinn bhlaodach</headword>
+      <description>speaking slowly.</description>
+    </item>
+    <item>
+      <headword id="d0e423">bruidhinn shocaireach</headword>
+      <description>speaking slowly.</description>
+    </item>
+    <item>
+      <headword id="d0e432">bruidhinn mhìobhail</headword>
+      <description>speaking rudely.</description>
+    </item>
+    <item>
+      <headword id="d0e441">bruidhinn shiobhalta</headword>
+      <description>speaking politely.</description>
+    </item>
+    <item>
+      <headword id="d0e450">bruidhinn chiùin</headword>
+      <description>polite, respectable talk.</description>
+    </item>
+    <item>
+      <headword id="d0e459">mionnachadh</headword>
+      <description>swearing.</description>
+    </item>
+    <item>
+      <headword id="d0e468">lachanaich</headword>
+      <description>loud hearty laughing.</description>
+    </item>
+    <item>
+      <headword id="d0e477">Rinn e clap gàire</headword>
+      <description>he made a loud laugh of gafall [sic] [guffaw?].</description>
+    </item>
+    <item>
+      <headword id="d0e486">snodha gàire</headword>
+      <description>a sneer of chuckle.</description>
+    </item>
+    <item>
+      <headword id="d0e495">gagach</headword>
+      <description>stuttered speech.</description>
+    </item>
+    <item>
+      <headword id="d0e504">Tha mi gagail</headword>
+      <description>I am stuttering.</description>
+    </item>
+    <item><headword id="d0e512" type="heading" level="h1">A’ CHLUAS</headword></item>
+    <item><headword id="d0e516" type="heading" level="h2">1. Cumaidhean chluas, pàirtean de’n chluais, tinneasan cluaise</headword></item>
+    <item><headword id="d0e520" type="heading" level="h3">Cumadh nan cluasan</headword></item>
+    <item>
+      <headword id="d0e525">cluasan biorach</headword>
+      <description>pointed ears and keen hearing too.</description>
+    </item>
+    <item>
+      <headword id="d0e534">cluasan fada</headword>
+    </item>
+    <item>
+      <headword id="d0e540">cluasan cam</headword>
+    </item>
+    <item>
+      <headword id="d0e546">corra-chluasach</headword>
+      <description>stumped ears as in beast (also cauliflower ears).</description>
+    </item>
+    <item>
+      <headword id="d0e555">cluasaire (m)</headword>
+      <description>a big-eared man.</description>
+    </item>
+    <item>
+      <headword id="d0e564">céir-cluaiseag</headword>
+      <description>ear wax.</description>
+    </item>
+    <item>
+      <headword id="d0e573">toll na cluaiseag</headword>
+      <description>the earhole.</description>
+    </item>
+	<item>
+      <headword id="d0e582">cluasan fionnach</headword>
+      <description>hairy ears.</description>
+    </item>
+    <item><headword id="d0e590" type="heading" level="h3">Gnàthasan-cainnte</headword></item>
+    <item>
+      <headword id="d0e595">Cum do chluas fosgailte</headword>
+    </item>
+    <item>
+      <headword id="d0e601">Tha éisdeachd bheag annam</headword>
+      <description>I am hard of hearing.</description>
+    </item>
+    <item>
+      <headword id="d0e610">Tha mo chlaisteachd a’ fas donna</headword>
+    <description>[sic] </description></item>
+    <item><headword id="d0e615" type="heading" level="h2">2. Seòrsaichean de fhuaim: Fuaimean na mara, na gaoithe; Fuaimean bheathaichean is eòin; Fuaimean a bhios daoine deanamh dhan toil agus dha aindheoin, fuaimean anns an stamaig, seòrsaichean gàire, eubh no guth</headword></item>
+    <item>
+      <headword id="d0e620">mualan a’ chuain</headword>
+      <description>the bellowing of the ocean.</description>
+    </item>
+    <item>
+      <headword id="d0e629">sgreadail na gaoth</headword>
+      <description>high-pitched sound of the wind.</description>
+    </item>
+    <item>
+      <headword id="d0e638">rànaich (f)</headword>
+      <description>roar.</description>
+    </item>
+    <item>
+      <headword id="d0e647">ràn</headword>
+      <description>a roar.</description>
+    </item>
+    <item>
+      <headword id="d0e656">mualanaich</headword>
+      <description>low-pitched.</description>
+    </item>
+    <item><headword id="d0e664" type="heading" level="h3">Fuaimean bheothaichean</headword></item>
+    <item>
+      <headword id="d0e669">meilich chaora</headword>
+      <description>bleating.</description>
+    </item>
+    <item>
+      <headword id="d0e678">geumnaich</headword>
+      <description>lowing.</description>
+    </item>
+    <item>
+      <headword id="d0e687">comhartaich coin</headword>
+      <description>barking.</description>
+    </item>
+    <item>
+      <headword id="d0e696">miagal cait</headword>
+      <description>mewing.</description>
+    </item>
+    <item>
+      <headword id="d0e705">gogail chearc</headword>
+      <description>cackling.</description>
+    </item>
+    <item>
+      <headword id="d0e714">gnothail muice</headword>
+      <description>grunting.</description>
+    </item>
+    <item>
+      <headword id="d0e723">fàngail thunnagan</headword>
+      <description>quacking.</description>
+    </item>
+    <item>
+      <headword id="d0e732">biogal rodan / luchaich</headword>
+      <description>squeaking.</description>
+    </item>
+    <item>
+      <headword id="d0e741">biogal eun</headword>
+      <description>chirping.</description>
+    </item>
+    <item>
+      <headword id="d0e750">glaodh coillich</headword>
+      <description>shout.</description>
+    </item>
+    <item>
+      <headword id="d0e759">racal</headword>
+      <description>crow.</description>
+    </item>
+    <item>
+      <headword id="d0e768">sgiamh faoilinn</headword>
+      <description>screech.</description>
+    </item>
+    <item>
+      <headword id="d0e777">gorachdal</headword>
+      <description>sound of pheasant, grouse, etc.</description>
+    </item>
+    <item>
+      <headword id="d0e786">sitear eich</headword>
+      <description>naying [sic] [neighing?].</description>
+    </item>
+    <item><headword id="d0e794" type="heading" level="h3">[blank]</headword></item>
+    <item>
+      <headword id="d0e799">bruchd (m)</headword>
+      <description>belch.</description>
+    </item>
+    <item>
+      <headword id="d0e808">braim</headword>
+      <description>fart (!). Rinn e braim.</description>
+    </item>
+    <item>
+      <headword id="d0e817">rot</headword>
+      <description>fart (a loud one!). Rinn e rot.</description>
+    </item>
+    <item>
+      <headword id="d0e826">cast</headword>
+      <description>a cough.</description>
+    </item>
+    <item>
+      <headword id="d0e835">creat</headword>
+      <description>a soft cough (half on purpose).</description>
+    </item>
+    <item>
+      <headword id="d0e844">sreathart</headword>
+      <description>sneeze.</description>
+    </item>
+    <item>
+      <headword id="d0e853">alag (f) (aileag?)</headword>
+      <description>hiccup. Tha ’n alag orm.</description>
+    </item>
+    <item>
+      <headword id="d0e862">crith</headword>
+      <description>shiver. Air chrith leis an fhuachd.</description>
+    </item>
+    <item>
+      <headword id="d0e871">Mo chorp a’ rubail</headword>
+      <description>movement of air in stomach when hungry.</description>
+    </item>
+    <item><headword id="d0e879" type="heading" level="h1">AN T-SRÒN</headword></item>
+	<item><headword id="d0e883" type="heading" level="h2">Cumaidhean sròine, faclan éibhinn, tinneasan</headword></item>
+    <item>
+      <headword id="d0e888">sròn mhaol</headword>
+      <description>blunt nose.</description>
+    </item>
+    <item>
+      <headword id="d0e897">sròn chrom</headword>
+      <description>Roman nose.</description>
+    </item>
+    <item>
+      <headword id="d0e906">sròn cham</headword>
+      <description>twisted nose.</description>
+    </item>
+    <item>
+      <headword id="d0e915">sròn ghorm</headword>
+      <description>drinker’s nose.</description>
+    </item>
+    <item>
+      <headword id="d0e924">sròn dhearg</headword>
+      <description>drinker’s nose.</description>
+    </item>
+    <item>
+      <headword id="d0e933">cnòsan (m)</headword>
+      <description>sound in chest denoting catarrh.</description>
+    </item>
+    <item><headword id="d0e941" type="heading" level="h2">Fàilidhean math is dona, fàile biadh nach eil ‘ùr’</headword></item>
+    <item>
+      <headword id="d0e946">boladh (m)</headword>
+      <description>stink.</description>
+    </item>
+    <item>
+      <headword id="d0e955">samh (m)</headword>
+      <description>bad smell.</description>
+    </item>
+    <item>
+      <headword id="d0e964">fàileadh grot</headword>
+      <description>rotten smell.</description>
+    </item>
+    <item>
+      <headword id="d0e973">faileadh  fuaraidh</headword>
+      <description>[sic] stale smell.</description>
+    </item>
+    <item>
+      <headword id="d0e982">malcte</headword>
+      <description>stale, rotten.</description>
+    </item>
+    <item>
+      <headword id="d0e991">faileadh  taitneach</headword>
+      <description>[sic] nice smell.</description>
+    </item>
+    <item>
+      <headword id="d0e1000">faileadh  cubhraidh</headword>
+      <description>[sic] nice smell.</description>
+    </item>
+	 <item><headword id="d0e1008" type="heading" level="h2">Gnathasan-cainnte</headword></item>
+    <item>
+      <headword id="d0e1013">Thug a shròn ann e</headword>
+      <description>His nose took him there (curiosity).</description>
+    </item>
+    <item>
+      <headword id="d0e1022">Bidh a shròn ’s a h-uile rud.</headword>
+    </item>
+    <item>
+      <headword id="d0e1028">Ghabh e ’san t-sròin e</headword>
+      <description>He took it badly.</description>
+    </item>
+    <item><headword id="d0e1036" type="heading" level="h1">AN LÀMH - Buillean air duine no leanabh, suathadh, ‘press’, ‘caress’ is mar sin</headword></item>
+    <item>
+      <headword id="d0e1041">clìbheag (f)</headword>
+      <description>a light slap (as with a child). Thug mi clìbheag air. – I slapped him.</description>
+    </item>
+    <item>
+      <headword id="d0e1050">deiseag</headword>
+      <description>a spank. Thug mi deiseag air a thon.</description>
+    </item>
+    <item>
+      <headword id="d0e1059">Shuath mi air</headword>
+      <description>I rubbed it.</description>
+    </item>
+    <item>
+      <headword id="d0e1068">Phluch mi e</headword>
+      <description>I pressed it.</description>
+    </item>
+    <item><headword id="d0e1076" type="heading" level="h1">AN CRIDHE - Faclan aig a bheil bointeanas sam bith ri fearg, eagal, gaol, miann, gràin agus mar sin air adhart</headword></item>
+    <item>
+      <headword id="d0e1081">air a’ chaothach</headword>
+      <description>fearg.</description>
+    </item>
+    <item>
+      <headword id="d0e1090">Ghabh mi uillt</headword>
+      <description>eagal.</description>
+    </item>
+    <item>
+      <headword id="d0e1099">Tha sùil agam innte</headword>
+      <description>gaol.</description>
+    </item>
+    <item>
+      <headword id="d0e1108">Bheirinn mo chluas</headword>
+      <description>miann.</description>
+    </item>
+    <item>
+      <headword id="d0e1117">Bheirinn mo shùil</headword>
+      <description>miann.</description>
+    </item>
+    <item>
+      <headword id="d0e1126">Chuir e sgreamh orm</headword>
+      <description>gràin (I was disgusted with him).</description>
+    </item>
+    <item>
+      <headword id="d0e1135">Ghabh mi fuath dhuit</headword>
+      <description>gràin.</description>
+    </item>
+    <item>
+      <headword id="d0e1144">Dh’fhàs mi coma oirre</headword>
+      <description>gràin (I went off her).</description>
+    </item>
+  </items>
+</fieldworkDocument>

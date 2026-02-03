@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 1/4/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Word-lists_SouthendAMacVicarmisc" docType="wordlist" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>3/11/1966</date>
+  <fieldworker>[self]</fieldworker>
+  <informant>
+    <nameEnglish>Rev. Angus MacVicar</nameEnglish>
+    <origin>[North Uist?]</origin>
+  </informant>
+  <location>Southend</location>
+  <items>
+    <item>
+	   <headword id="idola459" type="heading" level="h1">Old Gaelic words in North Uist</headword>
+	</item>
+	<item>
+      <headword id="idp161225504">bodragan</headword>
+      <description>the part of the horse’s harness which fits over the tail.</description>
+    </item>
+    <item>
+      <headword id="idp161222264">cuidhe</headword>
+      <description>enclosure for a township’s cattle. (Supposed to be Norse.)</description>
+    </item>
+    <item>
+      <headword id="idp161218160">di-leum</headword>
+      <description>halter tying a horse’s fore-feet. Each air di-leum.</description>
+    </item>
+    <item>
+      <headword id="idp161243216">buaile mu’n ghealaich</headword>
+      <description>ring round the moon.</description>
+    </item>
+    <item>
+      <headword id="idp161244728">cluainn</headword>
+      <description>sneck (of a door).</description>
+    </item>
+    <item>
+      <headword id="idp161246240">ceum Gràsaich</headword>
+      <description>slow pace. (Gràsaich was a big farm – the workers were never in a hurry. The crofter’s pace was lively.)</description>
+    </item>
+	<item>
+	   <headword id="idola460" type="heading" level="h1">North Uist Proverbs</headword>
+	</item>
+    <item>
+	  <headword id="idola464">[foghar]</headword>
+	  <description>’S cuideachadh culagan ’s an fhoghar.</description>
+	</item>
+    <item>
+	  <headword id="idola465">[caora]</headword>
+	  <description>Math na caorach, cron an eich, oidhche muigh is oidhche stigh.</description>
+	</item>
+    <item>
+	  <headword id="idola466">[caora]</headword>
+	  <description>’N uair a bhitheas a chaora caol bithidh a’ maorach reamhar.</description>
+	</item>
+    <item>
+	  <headword id="idola467">[cailleach]</headword>
+	  <description>Sannd na caillich ’s a chruaich mhonadh.</description>
+	</item>
+    <item>
+	  <headword id="idola468">[aodann]</headword>
+	  <description>Chaidheadh e ann an aodann cruaich mhónadh.</description>
+	</item>
+    <item>
+	  <headword id="idola469">[cruach]</headword>
+	  <description>An do loisg thu seachd cruachan mónadh ri thaobh fhathast?</description>
+	</item>
+    <item>
+	  <headword id="idola470">[feadarachd]</headword>
+	  <description>Cha dean feadarachd ‘kelp’, ’s cha dean sglogaireachd buain-mhónadh.</description>
+	</item>
+    <item>
+	  <headword id="idola471">[sagart]</headword>
+	  <description>Sannd na seachd sagairt, sannd fear is bean gun mhac gun nighinn.</description>
+	</item>
+    <item>
+	  <headword id="idola472">[iolair]</headword>
+	  <description>Spòg iolaire is cròg sagairt, no ministeir.</description>
+	</item>
+    <item>
+	  <headword id="idola473">[muilleann]</headword>
+	  <description>Ruigidh each mall muilleann.</description>
+	</item>
+    <item>
+	  <headword id="idola474">[each]</headword>
+	  <description>Neart an eich ’s an rathad.</description>
+	</item>
+    <item>
+	  <headword id="idola475">[comhairle]</headword>
+	  <description>Comhairle Clab-Sgàin, an rud nach buin duit na buin da.</description>
+	</item>
+    <item>
+	  <headword id="idola476">[gaoth]</headword>
+	  <description>Rud a thig leis a ghaoith, falbhaidh e leis an uisge.</description>
+	</item>
+    <item>
+	  <headword id="idola477">[cadal]</headword>
+	  <description>Leisg, leisg a’ dol a chadal, seachd leisg gu eiridh.</description>
+	</item>
+    <item>
+	  <headword id="idola478">[treun]</headword>
+	  <description>Chan eil treun ris nach cuirear.</description>
+	</item>
+    <item>
+	  <headword id="idola479">[foighneachd]</headword>
+	  <description>Foighneachd air fios, rud is miosa na mheurla.</description>
+	</item>
+    <item>
+	  <headword id="idola480">[sùil]</headword>
+	  <description>Rud nach fhaic suil, cha mhiannaich cridhe.</description>
+	</item>
+    <item>
+	  <headword id="idola481">[cridhe]</headword>
+	  <description>Chan innis cridhe misgeach breug.</description>
+	</item>
+    <item>
+	  <headword id="idola482">[tobar]</headword>
+	  <description>Cha bhi mios air an tobair gus an tràigh e.</description>
+	</item>
+    <item>
+	  <headword id="idola483">[faoileag]</headword>
+	  <description>Cho fiadhlaidh ris an fhaoileig.</description>
+	</item>
+    <item>
+	  <headword id="idola484">[cliabh]</headword>
+	  <description>Tuitidh cliabh gun iris / iorais, is tuitidh a’ bhreug gu h-ionad fhein.</description>
+	</item>
+    <item>
+	  <headword id="idola485">[sean fhacal]</headword>
+	  <description>Ged a sharuichear a’ sean fhacal, cha bhreugnaichear e.</description>
+	</item>
+    <item>
+	  <headword id="idola486">[duine]</headword>
+	  <description>A h-uile duine a’ bruidhinn ’na chùbaid fhein.</description>
+	</item>
+    <item>
+	  <headword id="idola487">[sùil]</headword>
+	  <description>Suil a ghleidheas seilbh ’s e bhi moch is anmoch air a sgàth.</description>
+	</item>
+    <item>
+	  <headword id="idola488">[caraid]</headword>
+	  <description>’S fhearr caraid ’sa chùirt na crùn ’s a’ sporran.</description>
+	</item>
+    <item>
+	  <headword id="idola489">[ionnsachadh]</headword>
+	  <description>An t-ionnsachadh òg, an t-ionnsachadh bòidheach.</description>
+	</item>
+    <item>
+	  <headword id="idola490">[là]</headword>
+	  <description>Am fear nach cuir ’s an la fhuar, cha bhuainn ’s an la theth.</description>
+	</item>
+    <item>
+	  <headword id="idola491">[cat]</headword>
+	  <description>Miann a chait ’s an traigh, ’s cha toir e fhein as e.</description>
+	</item>
+    <item>
+	  <headword id="idola492">[clach]</headword>
+	  <description>Is sleamhainn a’ chlach tha an dorus an tigh mhòir.</description>
+	</item>
+    <item>
+	  <headword id="idola493">[olc]</headword>
+	  <description>Chan ann am Bòid uile tha an t-olc, no na Cuimrich [?] bheag tha lamh ris.</description>
+	</item>
+    <item>
+	  <headword id="idola494">[còta]</headword>
+	  <description>Cha tig an còta glas cho math do na h-uile fear.</description>
+	</item>
+    <item>
+	  <headword id="idola495">[poit]</headword>
+	  <description>Cha tig as a phoit ach an toit a bhios innte.</description>
+	</item>
+    <item>
+	  <headword id="idola496">[cnoc]</headword>
+	  <description>Tachraidh na daoine ged nach tachair na cnuic.</description>
+	</item>
+    <item>
+	  <headword id="idola497">[maide]</headword>
+	  <description>An car tha ’s an t-seana mhaide ’s doirbh a thoirt as.</description>
+	</item>
+    <item>
+	  <headword id="idola498">[lagh]</headword>
+	  <description>Càm is dìreach a thig an lagh.</description>
+	</item>
+    <item>
+	  <headword id="idola499">[marag]</headword>
+	  <description>Cha truagh leam cù is marag mu amhaich.</description>
+	</item>
+    <item>
+	  <headword id="idola500">[cù]</headword>
+	  <description>Tha ’eigeadh fhein air cù dubh Mhic-a-phi fhathast.</description>
+	</item>
+    <item>
+	  <headword id="idola501">[dualchas]</headword>
+	  <description>Theid dualchas an aghaidh nan creag.</description>
+	</item>
+    <item>
+	  <headword id="idola502">[diomhain]</headword>
+	  <description>’Se duine diomhain is fhaide mhaireas.</description>
+	</item>
+    <item>
+	  <headword id="idola503">[gaoth]</headword>
+	  <description>Fhalbh, thuirt an Righ, fuirich thuirt a’ ghaoth.</description>
+	</item>
+	<item>
+	  <headword id="idola461" type="heading" level="h1">Lorne Proverbs</headword>
+	</item>
+    <item>
+	  <headword id="idola504">[tiodhlaig]</headword>
+	  <description>Tha la so coltach ris an là a thiodhlaig iad an Càirsealach Mór. (a day of high wind and rain from S.W.)</description>
+	</item>
+    <item>
+	  <headword id="idola505">[meas]</headword>
+	  <description>’N uair a theirgeas gach meas, ’s math na mucagan.</description>
+	</item>
+    <item>
+	  <headword id="idola506">[Cruachan]</headword>
+	  <description>Teirgidh Cruachan Beann gun dad a chur ’na ceann.</description>
+	</item>
+    <item>
+	  <headword id="idola507" type="heading" level="h1">Kintyre Proverbs</headword>
+	</item>
+    <item>
+	  <headword id="idola508">[gealachadh]</headword>
+	  <description>Gealachadh bho thuath, comharradh math. Gealachadh bho dheas, droch comharradh.</description>
+	</item>
+    <item>
+	  <headword id="idola509">[uiseag]</headword>
+	  <description>Saoilidh uiseag na moine gur h e a moine ’s fhearr a th’ann.</description>
+	</item>
+    <item>
+	  <headword id="idola510">[dias]</headword>
+	  <description>An dias is truime tha ’s an fhaiche, ’si is isle ceann.</description>
+	</item>
+    <item>
+	  <headword id="idola462" type="heading" level="h1">Old Uist expressions</headword>
+	</item>
+	<item>
+	  <headword id="idola511">[coibhneas]</headword>
+	  <description>Còm a choibhneis. (Kind man!)</description>
+	</item>
+    <item>
+	  <headword id="idola512">[bo]</headword>
+	  <description>Bo air a h-aineoil.</description>
+	</item>
+    <item>
+	  <headword id="idola513">[uan]</headword>
+	  <description>Falbh lom is thig mollach, uan boireann Bealtuinn.</description>
+	</item>
+    <item>
+	  <headword id="idola514">[mios]</headword>
+	  <description>Mios roimh gach ràidh, a choltas.</description>
+	</item>
+    <item>
+	  <headword id="idola515">[samhradh]</headword>
+	  <description>Samhradh breac riabhach, foghar geal grianach.</description>
+	</item>
+    <item>
+	  <headword id="idola516">[Di-luain]</headword>
+	  <description>Obair mhoch Di-luain bi i luath no bi i mall.</description>
+	</item>
+    <item>
+	  <headword id="idola517">[obair]</headword>
+	  <description>Obair is ath-obair.</description>
+	</item>
+    <item>
+	  <headword id="idola518">[cuan]</headword>
+	  <description>Bithidh duil ri cuan ach cha bhi dùil ri aoigh.</description>
+	</item>
+    <item>
+	  <headword id="idola519">[clann]</headword>
+	  <description>Rud a chi a chlann bheag ’s e a ni chlann bheag.</description>
+	</item>
+    <item>
+	  <headword id="idola520">[muileann]</headword>
+	  <description>Ceardach gobha is muileann sgireachd. (For gossip)</description>
+	</item>
+    <item>
+	  <headword id="idola521">[ceardach]</headword>
+	  <description>Bha mise ri [?] ceardach gobha roimhe.</description>
+	</item>
+    <item>
+	  <headword id="idola522">[lamh]</headword>
+	  <description>’Lamh a bheir , ’s i a gheibh.</description>
+	</item>
+    <item>
+	  <headword id="idola523">[mulchag]</headword>
+	  <description>Mulchag chàis is botul Uisge bheath, da rud nach mair fada.</description>
+	</item>
+    <item>
+	  <headword id="idola524">[farmad]</headword>
+	  <description>’Se farmad a ni treabhadh.</description>
+	</item>
+    <item>
+	  <headword id="idola525">[uasal]</headword>
+	  <description>Duin uasal chan fhaighnich, ’s ceard chan fhaigh a mach.</description>
+	</item>
+    <item>
+	  <headword id="idola526">[comhairle]</headword>
+	  <description>Thig comhairle le latha.</description>
+	</item>
+    <item>
+	  <headword id="idola527">[chó]</headword>
+	  <description>Cha bu chó sin.</description>
+	</item>
+    <item>
+	  <headword id="idola528">[cadal]</headword>
+	  <description>Cadal fada le gaoith mhoir.</description>
+	</item>
+    <item>
+	  <headword id="idola529">[cadal]</headword>
+	  <description>Cadal fada nan ceannaichean.</description>
+	</item>
+    <item>
+	  <headword id="idola530">[faoileag]</headword>
+	  <description>Faoileag an droch cladaich.</description>
+	</item>
+    <item>
+	  <headword id="idola531">[feannag]</headword>
+	  <description>Mar thuirt an fheannag ri da chois, ’s dubh sibh le cheile.</description>
+	</item>
+    <item>
+	  <headword id="idola532">[bliadhna]</headword>
+	  <description>Chuala mi chuthag ’s gun dad ’nam bhroinn / Chunnaic mi clacharan air cloich luim / Chunnaic mi searrach sean larach ’s a chul thaobh rium / Is dh’aithnich mi nach teidheadh a bhliadhna leam.</description>
+	</item>
+    <item>
+	  <headword id="idola533">[bó]</headword>
+	  <description>Cha toirinn bó a Bàigh, Is cha toirinn bàt a Grianaig.</description>
+	</item>
+    <item>
+	  <headword id="idola534">[truagh]</headword>
+	  <description>Nach truagh leam thu!</description>
+	</item>
+    <item>
+	  <headword id="idola535">[feasgar]</headword>
+	  <description>Mar bho chaoil ’tighinn gu baile, feasgar ciuin Earraich. Mar chloich [?] ’dol le gleann, feasgar fann foghair.</description>
+	</item>
+    <item>
+	  <headword id="idola536">[coireach]</headword>
+	  <description>Ge bi co an coireach, is mise an ciontach.</description>
+	</item>
+    <item>
+	  <headword id="idola537">[uaigh]</headword>
+	  <description>Cha do dhiult uaigh a riamh fosgladh.</description>
+	</item>
+    <item>
+	  <headword id="idola538">[maorach]</headword>
+	  <description>Maorach Caillich Nic Artair, partan is da fhaochaig.</description>
+	</item>
+    <item>
+	  <headword id="idola539">[prine]</headword>
+	  <description>Mar thuirt am prine ri ’cheann, tha thu beag, ach ’se mo cheann fhein a th’ann.</description>
+	</item>
+    <item>
+	  <headword id="idola540">[iomraich]</headword>
+	  <description>Iomraich Shathurna mu thuath, iomraich Luain a’ dol mu dheas.</description>
+	</item>
+    <item>
+	  <headword id="idola541">[uan]</headword>
+	  <description>Ged nach biodh agam ach an t-uan ’s ann Diluain a dh’fhalbhainn leis.</description>
+	</item>
+    <item>
+	  <headword id="idola542">[seòlta]</headword>
+	  <description>Cho seòlta ris an t-sionnach.</description>
+	</item>
+    <item>
+	  <headword id="idola543">[gaoth]</headword>
+	  <description>Ri cùl gaoithe is ri aghaidh gréine.</description>
+	</item>
+    <item>
+	  <headword id="idola544">[suath]</headword>
+	  <description>Suath a’ ghlùin, ’s thoir fois do’n t-sùil.</description>
+	</item>
+    <item>
+	  <headword id="idola545">[seachdain]</headword>
+	  <description>Seachd seachdainean gu bràth eadar Inid agus Càisg.</description>
+	</item>
+    <item>
+	  <headword id="idola546">[ugh]</headword>
+	  <description>Ugh air Inid is eun air Caisg, mur bi sin aig an fhitheach, bithidh am bàs.</description>
+	</item>
+    <item>
+	  <headword id="idola547">[latha]</headword>
+	  <description>Tri latha de’n Fhaoilteach ’san Iuchar, is tri latha de’n Iuchar ’san Fhaoilteach.</description>
+	</item>
+    <item>
+	  <headword id="idola548">[Àgh]</headword>
+	  <description>Aig an Àgh tha brath!</description>
+	</item>
+    <item>
+	  <headword id="idola549">[latha]</headword>
+	  <description>Cha robh duine riamh gun da latha.</description>
+	</item>
+	<item>
+	  <headword id="idola463" type="heading" level="h1">North Uist Gaelic expressions which couldn’t be told in a drawing-room</headword>
+	</item>
+    <item>
+	  <headword id="idola550">[bod]</headword>
+	  <description>Bod an eich, mor a muigh is beag a stigh.</description>
+	</item>
+    <item>
+	  <headword id="idola551">[bod]</headword>
+	  <description>Chan’eil nàir air bod ’na sheasamh.</description>
+	</item>
+    <item>
+	  <headword id="idola552">[ugh]</headword>
+	  <description>Ugh gun salainn is bean gun fhiannadh.</description>
+	</item>
+    <item>
+	  <headword id="idola553">[sròn]</headword>
+	  <description>Sròn coin is tón boireannaich. (always cold)</description>
+	</item>
+    <item>
+	  <headword id="idola554">[aois]</headword>
+	  <description>Fear gu aois is bean gu bàs.</description>
+	</item>
+    <item>
+	  <headword id="idola555">[gàradh]</headword>
+	  <description>Chan ann air cùl gàraidh a roinneadh no rugadh mise.</description>
+	</item>
+  </items>
+</fieldworkDocument>

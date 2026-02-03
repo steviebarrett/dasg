@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 29/9/15 -->
+<!-- illustration -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_FearnabegJMacKslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>12/1969</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <informant>
+    <nameEnglish>JMacK</nameEnglish>
+  </informant>
+  <location>Kenmore, Fearnabeg (Shieldaig? – on one of the slips)</location>
+  <items>
+    <item>
+      <headword id="idp166270712">sgadan</headword>
+      <description>Quotation: sgadan bhuntàta. Notes: herring caught for home consumption.</description>
+    </item>
+    <item>
+      <headword id="idp166272368">stìcil (s)</headword>
+      <description>Notes: horizontal slats put on kiln.</description>
+    </item>
+    <item>
+      <headword id="idp166273880">buntàta</headword>
+      <description>Quotation: sgadan bhuntàta. Notes: herring caught for horse consumption.</description>
+    </item>
+    <item>
+      <headword id="idp166275536">fairtich</headword>
+      <description>Quotation: Dh’fhairtich e orm a dheanamh. Notes: I failed to do it. (Without the “l”.)</description>
+    </item>
+    <item>
+      <headword id="idp166277192">fartaman</headword>
+      <description>[fɑʴsṯəmɑ̃ṉ] Notes: thin line which attaches a hook to the main line.  [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+  </items>
+</fieldworkDocument>

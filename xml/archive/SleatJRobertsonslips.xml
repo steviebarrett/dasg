@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 27/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_SleatJRobertsonslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>12/1969</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <informant>
+    <nameEnglish>J. Robertson</nameEnglish>
+  </informant>
+  <location>Skye, Sleat</location>
+  <items>
+    <item>
+      <headword id="idp118688040">muirsginn</headword>
+      <description>[mũʴsɡʹĩnʹ] Notes: razorfish. [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+    <item>
+      <headword id="idp118689912">teine-bianan</headword>
+      <description>Notes: phosphorescence on the sea – Sleat.</description>
+    </item>
+    <item>
+      <headword id="idp118691424">crògan</headword>
+      <description>Notes: the dog-whelk.</description>
+    </item>
+    <item>
+      <headword id="idp118692936">deiseag</headword>
+      <description>Notes: shellfish like a “partan”. Bluish. Found close inshore.</description>
+    </item>
+  </items>
+</fieldworkDocument>

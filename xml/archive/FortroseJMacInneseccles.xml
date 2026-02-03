@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 20 4 13 -->
+<fieldworkDocument docId="Ecclesiastical_FortroseJMacInneseccles" docType="questionnaire" subType="EcclesiasticalTerms">
+  <title>An Eaglais / Ecclesiastical Terms</title>
+  <fieldworker>[self]</fieldworker>
+  <informant>
+    <nameEnglish>Rev. Dr John MacInnes</nameEnglish>
+    <nameGaelic>An t-Oll. Urr. Iain MacAonghais</nameGaelic>
+    <origin>[Skye], Gleanndail [Glendale]</origin>
+  </informant>
+  <location>Fortrose</location>
+  <items>
+    <item><headword id="d0e29" type="heading" level="h1">1. Various denominations</headword></item>
+    <item>
+      <headword id="d0e34">na  Saederan</headword>
+      <description>[?] Free Presbyterians. (Am ministear.)</description>
+    </item>
+    <item>
+      <headword id="d0e43">An Eaglais Stéidhichte</headword>
+      <description>(pronounced Stéite) C. of S. (An cléireach.)</description>
+    </item>
+    <item>
+      <headword id="d0e52">An Eaglais Shaor</headword>
+      <description>F. C. of S. (Am ministear.)</description>
+    </item>
+    <item>
+      <headword id="d0e61">An Eaglais Shasunnach</headword>
+      <description>Anglican Church.</description>
+    </item>
+    <item>
+      <headword id="d0e70">Na Baistich</headword>
+      <description>Baptist Church.</description>
+    </item>
+    <item>
+      <headword id="d0e79">(Don’t Know)</headword>
+      <description>Congregational.</description>
+    </item>
+    <item>
+      <headword id="d0e88">An Eaglais Phàpanach</headword>
+      <description>R. Catholic.</description>
+    </item>
+    <item><headword id="d0e96" type="heading" level="h1">2. Member of each of these denominations</headword></item>
+    <item>
+      <headword id="d0e101">Săsidear</headword>
+      <description>[?] Free Presbyterian.</description>
+    </item>
+    <item>
+      <headword id="d0e110">Mòdereat</headword>
+      <description>[?] Established Church.</description>
+    </item>
+    <item>
+      <headword id="d0e119">Pàpanach</headword>
+      <description>Roman Catholic.</description>
+    </item>
+    <item>
+      <headword id="d0e128">Neach a bhuineas don Eaglais Shasunnach</headword>
+      <description>Episcopal Church.</description>
+    </item>
+    <item>
+      <headword id="d0e137">Baisteach</headword>
+      <description>Baptist.</description>
+    </item>
+    <item>
+      <headword id="d0e146">Fear aideachaidh</headword>
+      <description>communicant in Presbyterian Church.</description>
+    </item>
+    <item><headword id="d0e154" type="heading" level="h1">3. Different courts of the Presbyterian churches</headword></item>
+    <item>
+      <headword id="d0e159">cùirt na déucan</headword>
+    </item>
+    <item>
+      <headword id="d0e165">an seisean</headword>
+    </item>
+    <item>
+      <headword id="d0e171">a chléire</headword>
+    </item>
+    <item>
+      <headword id="d0e177">an seanadh</headword>
+    </item>
+    <item>
+      <headword id="d0e183">an t-ard sheanadh</headword>
+    </item>
+    <item><headword id="d0e188" type="heading" level="h1">4. Members of the clergy and office-bearers with the Presbyterian churches</headword></item>
+    <item>
+      <headword id="d0e193">ministear</headword>
+    </item>
+    <item>
+      <headword id="d0e199">miseanaraidh</headword>
+    </item>
+    <item>
+      <headword id="d0e205">eildear or foirfeach</headword>
+    </item>
+    <item>
+      <headword id="d0e211">deucan</headword>
+    </item>
+    <item>
+      <headword id="d0e217">cleireach an t-seisein</headword>
+    </item>
+    <item>
+      <headword id="d0e223">fear-ionmhais</headword>
+    </item>
+    <item>
+      <headword id="d0e229">am beudal</headword>
+    </item>
+	<item>
+	  <headword id="idola103">[note]</headword>
+	  <description>(never heard a separate word for lay preacher)</description>
+	</item>
+    <item><headword id="d0e243" type="heading" level="h1">5. Members of the clergy and office-bearers in the Roman Catholic church</headword></item>
+    <item><headword id="d0e247" type="heading" level="h1">6. Holy Orders within the Roman Catholic church</headword></item>
+    <item><headword id="d0e251" type="heading" level="h1">7. Articles of dress or adornment</headword></item>
+    <item>
+      <headword id="d0e256">gùn</headword>
+      <description>minister’s gown.</description>
+    </item>
+    <item>
+      <headword id="d0e265">cleòca</headword>
+      <description>minster’s gown.</description>
+    </item>
+    <item>
+      <headword id="d0e274">casag</headword>
+      <description>cassock.</description>
+    </item>
+    <item><headword id="d0e282" type="heading" level="h1">8. Church building and churchyard</headword></item>
+    <item>
+      <headword id="d0e287">eaglais</headword>
+    </item>
+    <item>
+      <headword id="d0e293">cladh</headword>
+    </item>
+    <item><headword id="d0e298" type="heading" level="h1">9. Church furniture and ornaments</headword></item>
+    <item><headword id="d0e302" type="heading" level="h1">10. Different services during the week, feast days, sacraments, Sunday school etc.</headword></item>
+    <item>
+      <headword id="d0e307">Sàcramaid</headword>
+      <description>sacraments (Reformed).</description>
+    </item>
+    <item>
+      <headword id="d0e316">Suipear an Tighearna</headword>
+      <description>Lord’s Supper.</description>
+    </item>
+    <item>
+      <headword id="d0e325">An Comanachadh</headword>
+      <description>Holy Communion.</description>
+    </item>
+    <item>
+      <headword id="d0e334">Baisteadh</headword>
+      <description>Baptism.</description>
+    </item>
+    <item>
+      <headword id="d0e343">Seinn</headword>
+      <description>praise.</description>
+    </item>
+    <item>
+      <headword id="d0e352">Searmon</headword>
+      <description>sermon.</description>
+    </item>
+    <item>
+      <headword id="d0e361">Sgoil Shàbaid</headword>
+      <description>Sunday school.</description>
+    </item>
+    <item>
+      <headword id="d0e370">Coinneamh</headword>
+      <description>house meeting.</description>
+    </item>
+    <item>
+      <headword id="d0e379">Coinneamh cheist</headword>
+      <description>men’s Friday [?] meeting.</description>
+    </item>
+    <item>
+      <headword id="d0e388">Latha Irioslachaidh</headword>
+      <description>Day of Humiliation [?] and [?] Prayer.</description>
+    </item>
+    <item><headword id="d0e396" type="heading" level="h1">11. God, the Lord, Jesus Christ, the Holy Ghost, the Blessed Virgin, the angels, the apostles, Heaven, the Gospel, prayers etc.</headword></item>
+    <item>
+      <headword id="d0e401">Dia</headword>
+    </item>
+    <item>
+      <headword id="d0e407">An Tighearna</headword>
+    </item>
+    <item>
+      <headword id="d0e413">Iosa Criosd</headword>
+    </item>
+    <item>
+      <headword id="d0e419">An Spiorad Naomh</headword>
+    </item>
+    <item>
+      <headword id="d0e425">Muire</headword>
+    </item>
+    <item>
+      <headword id="d0e431">na h-ainglean</headword>
+    </item>
+    <item>
+      <headword id="d0e437">na h-abstolan</headword>
+    </item>
+    <item>
+      <headword id="d0e443">Neamh</headword>
+    </item>
+    <item>
+      <headword id="d0e449">an Soisgeul</headword>
+    </item>
+    <item>
+      <headword id="d0e455">Urnuigh an Tighearna</headword>
+    </item>
+    <item><headword id="d0e460" type="heading" level="h1">12. Satan, Hell, Purgatory, Limbo, different kinds of sin etc.</headword></item>
+    <item>
+      <headword id="d0e465">Sàtan</headword>
+      <description>Satan.</description>
+    </item>
+    <item>
+      <headword id="d0e474">an Diabhul</headword>
+      <description>Satan.</description>
+    </item>
+    <item>
+      <headword id="d0e483">an Donas</headword>
+      <description>Satan.</description>
+    </item>
+    <item>
+      <headword id="d0e492">Domhnull Dubh</headword>
+      <description>Satan.</description>
+    </item>
+    <item>
+      <headword id="d0e501">an Riabhach</headword>
+      <description>Satan.</description>
+    </item>
+    <item>
+      <headword id="d0e510">a Nàmhaid</headword>
+      <description>Satan.</description>
+    </item>
+    <item>
+      <headword id="d0e519">Braman</headword>
+      <description>Satan.</description>
+    </item>
+    <item>
+      <headword id="d0e528">iutharna</headword>
+      <description>Hell.</description>
+    </item>
+    <item>
+      <headword id="d0e537">ifrinn</headword>
+      <description>Hell.</description>
+    </item>
+    <item>
+      <headword id="d0e546">Purgadair</headword>
+      <description>Purgatory.</description>
+    </item>
+  </items>
+</fieldworkDocument>

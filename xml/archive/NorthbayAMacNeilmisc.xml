@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 24 7 14 -->
+<fieldworkDocument docId="AOHenley_NorthbayAMacNeilmisc" docType="wordlist" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>[1988]</date>
+  <fieldworker personId="ohenleya">A. O’Henley</fieldworker>
+  <note>[NOTES: note added in pencil, most probably by K. D. MacDonald: A’ cur ciall ùr ri seann fhaclan?]</note>
+  <informant>
+    <nameEnglish>Mrs Annie MacNeil</nameEnglish>
+  </informant>
+  <location>Barra, Northbay</location>
+  <items>
+    <item>
+      <headword id="idp109728984">feartag</headword>
+      <description>sea thrift.</description>
+    </item>
+    <item>
+      <headword id="idp109735176">liaghar</headword>
+      <description>a trowel.</description>
+    </item>
+    <item>
+      <headword id="idp109692912">laighe</headword>
+      <description>a spade.</description>
+    </item>
+    <item>
+      <headword id="idp109757856">fàladair</headword>
+      <description>mower.</description>
+    </item>
+    <item>
+      <headword id="idp472360">abhlan</headword>
+      <description>wafer.</description>
+    </item>
+    <item>
+      <headword id="idp475744">ail</headword>
+      <description>a stamp.</description>
+    </item>
+    <item>
+      <headword id="idp462568">ceapaire</headword>
+      <description>a large sandwich.</description>
+    </item>
+    <item>
+      <headword id="idp459760">cuairsgean</headword>
+      <description>an envelope.</description>
+    </item>
+    <item>
+      <headword id="idp455728">deantach</headword>
+      <description>an agent.</description>
+    </item>
+    <item>
+      <headword id="idp451912">earghair</headword>
+      <description>a tariff.</description>
+    </item>
+    <item>
+      <headword id="idp448168">earraid</headword>
+      <description>a policeman.</description>
+    </item>
+    <item>
+      <headword id="idp109785144">fo mharach</headword>
+      <description>a submarine.</description>
+    </item>
+    <item>
+      <headword id="idp109786656">gathan</headword>
+      <description>a match.</description>
+    </item>
+    <item>
+      <headword id="idp109788168">giustal</headword>
+      <description>a games meet. [Cf. giustalach.]</description>
+    </item>
+    <item>
+      <headword id="idp109789680">giustalach</headword>
+      <description>an athlete. [Cf. giustal.]</description>
+    </item>
+    <item>
+      <headword id="idp109791192">lasdan</headword>
+      <description>a cottage.</description>
+    </item>
+    <item>
+      <headword id="idp109792704">lach</headword>
+      <description>bill, account.</description>
+    </item>
+    <item>
+      <headword id="idp109794216">lodrach</headword>
+      <description>luggage.</description>
+    </item>
+    <item>
+      <headword id="idp109796592">luag</headword>
+      <description>a doll.</description>
+    </item>
+    <item>
+      <headword id="idp109798104">gearrshuim</headword>
+      <description>balance (monetary term).</description>
+    </item>
+    <item>
+      <headword id="idp109799616">seasgarach</headword>
+      <description>a bachelor.</description>
+    </item>
+    <item>
+      <headword id="idp109801128">dall bhrat</headword>
+      <description>a blackout.</description>
+    </item>
+    <item>
+      <headword id="idp109802640">siolpan</headword>
+      <description>a baton.</description>
+    </item>
+    <item>
+      <headword id="idp109804152">còrn chlàr</headword>
+      <description>a buffet.</description>
+    </item>
+    <item>
+      <headword id="idp109805664">brothaire</headword>
+      <description>a butcher.</description>
+    </item>
+    <item>
+      <headword id="idp109807176">sraidheag</headword>
+      <description>a cake.</description>
+    </item>
+    <item>
+      <headword id="idp109808688">gulm (-an)</headword>
+      <description>a cataract, film on eye.</description>
+    </item>
+    <item>
+      <headword id="idp109810200">preaban</headword>
+      <description>a circus.</description>
+    </item>
+    <item>
+      <headword id="idp109811712">fidhecheall</headword>
+      <description>chess.</description>
+    </item>
+    <item>
+      <headword id="idp109813224">iodh</headword>
+      <description>collar.</description>
+    </item>
+    <item>
+      <headword id="idp109814736">iompachadh</headword>
+      <description>conscription.</description>
+    </item>
+    <item>
+      <headword id="idp109816248">foireann</headword>
+      <description>crew.</description>
+    </item>
+    <item>
+      <headword id="idp109817760">tumadh</headword>
+      <description>dive.</description>
+    </item>
+    <item>
+      <headword id="idp109819272">foras feasa</headword>
+      <description>encyclopedia.</description>
+    </item>
+    <item>
+      <headword id="idp109820784">foras focail</headword>
+      <description>etymology.</description>
+    </item>
+    <item>
+      <headword id="idp109822296">coineas</headword>
+      <description>ferret.</description>
+    </item>
+    <item>
+      <headword id="idp109823808">friochd</headword>
+      <description>fry. “Ghabh mi friochd mu’n deach mi a dh’obair.”</description>
+    </item>
+    <item>
+      <headword id="idp109826400">àitear</headword>
+      <description>grieve.</description>
+    </item>
+    <item>
+      <headword id="idp109827912">snodhach</headword>
+      <description>hair restorer.</description>
+    </item>
+    <item>
+      <headword id="idp109829424">cnap saic</headword>
+      <description>haversack.</description>
+    </item>
+    <item>
+      <headword id="idp109830936">tainistear</headword>
+      <description>lieutenant.</description>
+    </item>
+    <item>
+      <headword id="idp109832448">raideil</headword>
+      <description>logical.</description>
+    </item>
+    <item>
+      <headword id="idp109833960">iodh</headword>
+      <description>cramp.</description>
+    </item>
+    <item>
+      <headword id="idp109835472">co-ogha</headword>
+      <description>cousin.</description>
+    </item>
+    <item>
+      <headword id="idp109836984">deshruthach</headword>
+      <description>derivation.</description>
+    </item>
+    <item>
+      <headword id="idp109838496">cnòdach</headword>
+      <description>darning.</description>
+    </item>
+    <item>
+      <headword id="idp109840008">trosdan</headword>
+      <description>crutch.</description>
+    </item>
+    <item>
+      <headword id="idp109841520">mealadh dochais</headword>
+      <description>disappointment.</description>
+    </item>
+    <item>
+      <headword id="idp109843032">srùbadh</headword>
+      <description>draught.</description>
+    </item>
+    <item>
+      <headword id="idp109844544">filidh</headword>
+      <description>draught.</description>
+    </item>
+    <item>
+      <headword id="idp109846056">gailc</headword>
+      <description>excitement.</description>
+    </item>
+    <item>
+      <headword id="idp109847568">foirneadh</headword>
+      <description>gate crashing.</description>
+    </item>
+    <item>
+      <headword id="idp109849080">meirbhean</headword>
+      <description>indigestion.</description>
+    </item>
+    <item>
+      <headword id="idp134936">slaodan</headword>
+      <description>influenza.</description>
+    </item>
+    <item>
+      <headword id="idp136448">deismireach</headword>
+      <description>interesting.</description>
+    </item>
+    <item>
+      <headword id="idp137960">fìneag</headword>
+      <description>a jet.</description>
+    </item>
+    <item>
+      <headword id="idp139472">aonta</headword>
+      <description>licence.</description>
+    </item>
+    <item>
+      <headword id="idp140984">sgòd bhràghrad</headword>
+      <description>muffler.</description>
+    </item>
+    <item>
+      <headword id="idp142496">ruisean</headword>
+      <description>lunch.</description>
+    </item>
+    <item>
+      <headword id="idp144872">ionnaraidh</headword>
+      <description>night shift.</description>
+    </item>
+    <item>
+      <headword id="idp146384">ionnsmhail</headword>
+      <description>parallel.</description>
+    </item>
+    <item>
+      <headword id="idp147896">achlasan</headword>
+      <description>parcel.</description>
+    </item>
+    <item>
+      <headword id="idp149408">teine sionnachain</headword>
+      <description>phospherous [sic].</description>
+    </item>
+    <item>
+      <headword id="idp150920">tacar</headword>
+      <description>rations.</description>
+    </item>
+    <item>
+      <headword id="idp152432">frithmheirleach</headword>
+      <description>robber.</description>
+    </item>
+    <item>
+      <headword id="idp153944">suathan</headword>
+      <description>rubber.</description>
+    </item>
+    <item>
+      <headword id="idp155456">truain</headword>
+      <description>screw.</description>
+    </item>
+    <item>
+      <headword id="idp156968">seaman</headword>
+      <description>a bolt.</description>
+    </item>
+    <item>
+      <headword id="idp158480">sgioball</headword>
+      <description>skirt.</description>
+    </item>
+    <item>
+      <headword id="idp159992">sgod mhuineal</headword>
+      <description>scarf.</description>
+    </item>
+    <item>
+      <headword id="idp161504">seangachadh</headword>
+      <description>slimming.</description>
+    </item>
+    <item>
+      <headword id="idp163016">treabhair</headword>
+      <description>steading.</description>
+    </item>
+    <item>
+      <headword id="idp164528">truaill aodaich</headword>
+      <description>suitcase.</description>
+    </item>
+    <item>
+      <headword id="idp166040">carghair</headword>
+      <description>tariff.</description>
+    </item>
+    <item>
+      <headword id="idp167552">soireag</headword>
+      <description>vase.</description>
+    </item>
+    <item>
+      <headword id="idp169064">dìobartan</headword>
+      <description>will o’ the wisp.</description>
+    </item>
+    <item>
+      <headword id="idp170576">teine gealain</headword>
+      <description>will o’ the wisp.</description>
+    </item>
+    <item>
+      <headword id="idp172088">bàta chliathaidh</headword>
+      <description>a trawler.</description>
+    </item>
+    <item>
+      <headword id="idp173600">maothachan</headword>
+      <description>a tranquiliser.</description>
+    </item>
+    <item>
+      <headword id="idp175112">triathach</headword>
+      <description>trophy.</description>
+    </item>
+    <item>
+      <headword id="idp176624">fàslach</headword>
+      <description>vacuum.</description>
+    </item>
+    <item>
+      <headword id="idp179000">sodradh</headword>
+      <description>trotting.</description>
+    </item>
+    <item>
+      <headword id="idp180512">taoman</headword>
+      <description>tumbler.</description>
+    </item>
+    <item>
+      <headword id="idp182024">frith mheirleach</headword>
+      <description>poacher.</description>
+    </item>
+    <item>
+      <headword id="idp183536">ìm eiginn</headword>
+      <description>omelette.</description>
+    </item>
+    <item>
+      <headword id="idp185048">blàth fhleasg</headword>
+      <description>wreath.</description>
+    </item>
+  </items>
+</fieldworkDocument>
+

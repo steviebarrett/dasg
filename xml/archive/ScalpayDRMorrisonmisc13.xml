@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 5 2 15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="DRMorrisonetal_ScalpayDRMorrisonmisc13" docType="wordlist" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>[1975?]</date>
+  <fieldworker>[self]</fieldworker>
+  <informant>
+    <nameEnglish>D.R. Morrison</nameEnglish>
+    <nameGaelic>D. R. M. </nameGaelic>
+    <age>[55?]</age>
+  </informant>
+  <location>[Harris], Scalpay</location>
+  <items>
+    <item>
+      <headword id="idola376" type="heading" level="h1">Word-list (‘Cruinneachadh de dh’fhaclan’)</headword>
+    </item>
+    <item>
+      <headword id="idp2185696">cleitric</headword>
+      <description>(also) a fair attempt, a fair workable motion, strong endeavour.</description>
+    </item>
+    <item>
+      <headword id="idp2065816">cialag</headword>
+      <description>(also) wee darling.</description>
+    </item>
+    <item>
+      <headword id="idp2069488">dòs</headword>
+      <description>dose.</description>
+    </item>
+    <item>
+      <headword id="idp2168632">dos</headword>
+      <description>tuft.</description>
+    </item>
+    <item>
+      <headword id="idp2167048">dosan</headword>
+      <description>small tuft, dosen (hair).</description>
+    </item>
+    <item>
+      <headword id="idp2166328">locaidh</headword>
+      <description>dosen (hair).</description>
+    </item>
+    <item>
+      <headword id="idp2164528">Mileag</headword>
+      <description>Murial, personal, female name.</description>
+    </item>
+    <item>
+      <headword id="idp2162224">mileag</headword>
+      <description>(also) a brand of tinned dried milk. (Scalpay)</description>
+    </item>
+    <item>
+      <headword id="idp2160496">ruith</headword>
+      <description>run; ruith-na-mara.</description>
+    </item>
+    <item>
+      <headword id="idp2158552">rachdaid</headword>
+      <description>clout.</description>
+    </item>
+    <item>
+      <headword id="idp2156824">ragaid</headword>
+      <description>racket, rumpus.</description>
+    </item>
+    <item>
+      <headword id="idp2155312">plàig</headword>
+      <description>plague.</description>
+    </item>
+    <item>
+      <headword id="idp2153584">plàidh</headword>
+      <description>a rough, unruly, female.</description>
+    </item>
+    <item>
+      <headword id="idp2153296">pochdair</headword>
+      <description>poker. (colloq. Scalpay)</description>
+    </item>
+    <item>
+      <headword id="idp2150560">pois</headword>
+      <description>palatial (posh).</description>
+    </item>
+    <item>
+      <headword id="idp2149336">flodraigeadh</headword>
+      <description>slow boiling, or being brought to simmer, as in the case of water, liquid.</description>
+    </item>
+    <item>
+      <headword id="idp2147680">plodraigeadh</headword>
+      <description>[See flodraigeadh.]</description>
+    </item>
+    <item>
+      <headword id="idp2145664">sgipearsaich</headword>
+      <description>skipping; le sgipearsaich th’aithris air.</description>
+    </item>
+    <item>
+      <headword id="idp2143864">aran-corca</headword>
+      <description>oat-cakes.</description>
+    </item>
+    <item>
+      <headword id="idp2142352">cràbadh</headword>
+      <description>crinkling.</description>
+    </item>
+    <item>
+      <headword id="idp2140840">easgann-dhubh</headword>
+      <description>black conger of a dark colour until its return to deep water, etc, etc.</description>
+    </item>
+    <item>
+      <headword id="idp2139328">easgann-chaol-dhubh</headword>
+      <description>jelly eel.</description>
+    </item>
+    <item>
+      <headword id="idp2137816">easgann-gheal</headword>
+      <description>when the conger comes to the almost wholly white.</description>
+    </item>
+  </items>
+</fieldworkDocument>

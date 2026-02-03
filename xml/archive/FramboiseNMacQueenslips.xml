@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 1/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_FramboiseNMacQueenslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>05/1971</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <informant>
+    <nameEnglish>Neil MacQueen</nameEnglish>
+  </informant>
+  <location>Canada, Cape Breton, Framboise</location>
+  <items>
+    <item>
+      <headword id="idp115441928">leth-laimh</headword>
+      <description>Quotation: ag iasgach air leth-laimh. Notes: going 50-50 with the catch.</description>
+    </item>
+  </items>
+</fieldworkDocument>

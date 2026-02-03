@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 5/8/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_BalvoolichHMacKayslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>10/1969</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <note>[NOTES: in IPA transcriptions, the fieldworker uses [w] for [ɯ].]</note>
+  <informant>
+    <nameEnglish>Hector MacKay</nameEnglish>
+    <age>80s</age>
+  </informant>
+  <location>Sutherland, Durness, Balvoolich</location>
+  <items>
+    <item>
+      <headword id="idp161838376">làgan</headword>
+      <description>sowens.</description>
+    </item>
+    <item>
+      <headword id="idp161825704">lèatran</headword>
+      <description>[lʹe:t̪ɾɑṉ] Notes: area in front of the church where the elders sit.</description>
+    </item>
+    <item>
+      <headword id="idp161823544">riaraich</headword>
+      <description>Quotation: a riarachadh [riɤɾɑxu̜] nam bùird. Notes: serving at the Communion tables.</description>
+    </item>
+    <item>
+      <headword id="idp161822104">nasg</headword>
+      <description>Notes: neck-rope on a cow for tying in stall.</description>
+    </item>
+    <item>
+      <headword id="idp161909728">òrdugh</headword>
+      <description>Quotation: Tha an t-òrdugh ann. Notes: Communions.</description>
+    </item>
+    <item>
+      <headword id="idp161908144">sgar</headword>
+      <description>[sɡɑɾ] Notes: a swathe.</description>
+    </item>
+    <item>
+      <headword id="idp161906488">sgiath</headword>
+      <description>Notes: blade of scythe.</description>
+    </item>
+    <item>
+      <headword id="idp161904976">sior-shuileach</headword>
+      <description>[ʃıɤɾhu̜lɑx] Notes: squint-eyed.</description>
+    </item>
+    <item>
+      <headword id="idp161903968">sliabh</headword>
+      <description>Notes: the peat moss.</description>
+    </item>
+    <item>
+      <headword id="idp161902456">stùcan</headword>
+      <description>Notes: stook of corn.</description>
+    </item>
+    <item>
+      <headword id="idp161900224">altachadh</headword>
+      <description>[ɑɫt̪ɑxu̜] Notes: grace before meat.</description>
+    </item>
+    <item>
+      <headword id="idp161898856">àradh</headword>
+      <description>[ɑ:ɾu̜] Notes: bier.</description>
+    </item>
+    <item>
+      <headword id="idp161897488">bathais</headword>
+      <description>[bɑiʃ] Notes: forehead.</description>
+    </item>
+    <item>
+      <headword id="idp161895616">biathaidh</headword>
+      <description>[biɑhi] Notes: earthworm.</description>
+    </item>
+    <item>
+      <headword id="idp161894032">brad</headword>
+      <description>[bɾɑd̪] Quotation: “Tha thu toir leis brad sgar.” Notes: considerable (in size or excellence).</description>
+    </item>
+    <item>
+      <headword id="idp161892016">can</headword>
+      <description>Notes: say.</description>
+    </item>
+    <item>
+      <headword id="idp161890504">caraisd</headword>
+      <description>Notes: carrot.</description>
+    </item>
+    <item>
+      <headword id="idp161888416">connlach</headword>
+      <description>Notes: stubble land.</description>
+    </item>
+    <item>
+      <headword id="idp161885536">crùbach</headword>
+      <description>Notes: lame.</description>
+    </item>
+    <item>
+      <headword id="idp161886112">crotach</headword>
+      <description>Notes: hunch-backed.</description>
+    </item>
+    <item>
+      <headword id="idp161884312">cùbaidh</headword>
+      <description>Notes: pulpit.</description>
+    </item>
+    <item>
+      <headword id="idp161882584">deudadh</headword>
+      <description>[dʹe:d̪u̜] Notes: toothache.</description>
+    </item>
+    <item>
+      <headword id="idp161880856">fasanach</headword>
+      <description>[fɑsɑṉɑx] Notes: fashionable.</description>
+    </item>
+    <item>
+      <headword id="idp161879344">gaoth-chuartlan</headword>
+      <description>[ɡw:xu̜ɤʴsṯɫɑ̃ṉ] Notes: a whirling wind. [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+    <item>
+      <headword id="idp161877616">goraidh-goirtein</headword>
+      <description>[ɡɔɾiɡɔʴsṯɑ̃ṉ] Notes: corncrake. [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+    <item>
+      <headword id="idp161874880">gort</headword>
+      <description>Notes: young corn.</description>
+    </item>
+  </items>
+</fieldworkDocument>

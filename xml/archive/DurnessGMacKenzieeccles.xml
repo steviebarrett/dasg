@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 15 1 15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="DRMorrisonetal_DurnessGMacKenzieeccles" docType="questionnaire" subType="EcclesiasticalTerms" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>An Eaglais / Ecclesiastical Terms</title>
+  <date>[1970]</date>
+  <fieldworker>[self]</fieldworker>
+  <informant>
+    <nameEnglish>George MacKenzie</nameEnglish>
+    <age>67</age>
+    <origin>Assynt, Stoer</origin>
+  </informant>
+  <location>Sutherland, Lairg, Durness</location>
+  <items>
+    <item>
+      <headword id="d0e33" type="heading" level="h1">1. Various denominations</headword>
+    </item>
+    <item>
+      <headword id="idp120005472">a’ Ehaglas “Mhoderate”</headword>
+      <description>Church of Scotland. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp120008928">na “Wee Frees”</headword>
+      <description>Free Church of Scotland. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp120012456">na “Susaders”</headword>
+      <description>Free Presbyterian Church of Scotland. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp119980632">a’ Ehaglas Papnach</headword>
+      <description>R. C. Church. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="d0e75" type="heading" level="h1">2. Member of each of these denominations</headword>
+    </item>
+    <item>
+      <headword id="d0e81" type="heading" level="h1">3. Different courts of the Presbyterian churches</headword>
+    </item>
+    <item>
+      <headword id="d0e87" type="heading" level="h1">4. Members of the clergy and office-bearers with the Presbyterian churches</headword>
+    </item>
+    <item>
+      <headword id="d0e93" type="heading" level="h1">5. Members of the clergy and office-bearers in the Roman Catholic church</headword>
+    </item>
+    <item>
+      <headword id="d0e99" type="heading" level="h1">6. Holy Orders within the Roman Catholic church</headword>
+    </item>
+    <item>
+      <headword id="d0e105" type="heading" level="h1">7. Articles of dress or adornment</headword>
+    </item>
+    <item>
+      <headword id="d0e111" type="heading" level="h1">8. Church building and churchyard</headword>
+    </item>
+    <item>
+      <headword id="idp119985960">cladh</headword>
+      <description>cemetery. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp119983224">vestray</headword>
+      <description>vestry. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp119981712">laetran</headword>
+      <description>[sic] lectern – the enclosure in front of pulpit where elders sat. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="d0e144" type="heading" level="h1">9. Church furniture and ornaments</headword>
+    </item>
+    <item>
+      <headword id="idp119940816">cubee</headword>
+      <description>pulpit. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp119944776">laetran</headword>
+      <description>see above.</description>
+    </item>
+    <item>
+      <headword id="idp115761688">siach bastia</headword>
+      <description>baptismal font. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp115763200">a’ “bockus”</headword>
+      <description>collection box. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp115764712">a’ “cuip”</headword>
+      <description>chalice. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="d0e195" type="heading" level="h1">10. Different services during the week, feast days, sacraments, Sunday school etc.</headword>
+    </item>
+    <item>
+      <headword id="idp115767376">latha “trasgie”</headword>
+      <description>Thursday of the sacraments. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp115768888">na ordeann</headword>
+      <description>the sacraments. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp115770400">“coinoo” urnigh or “urnee”</headword>
+      <description>mid-week service. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp115771912">latha na “chaist”</headword>
+      <description>Friday of the sacraments. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp115773424">latha na bodich</headword>
+      <description>Friday of the sacraments. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="d0e246" type="heading" level="h1">11. God, the Lord, Jesus Christ, the Holy Ghost, the Blessed Virgin, the angels, the apostles, Heaven, the Gospel, prayers etc.</headword>
+    </item>
+    <item>
+      <headword id="idp115775800">Dia</headword>
+      <description>God. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp115777312">Tigherna</headword>
+      <description>Lord. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp115778824">Iosa Criosd</headword>
+      <description>Jesus Christ. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp115780768">Spiorid Naomha</headword>
+      <description>Holy Ghost. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp115782280">a “Noigh-Vorra”</headword>
+      <description>the Virgin. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp115783792">“iangil”</headword>
+      <description>angel. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp115785736">abstol</headword>
+      <description>apostle. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp115787680">Neave</headword>
+      <description>Heaven. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp115789192">Flasanas</headword>
+      <description>Heaven. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp115790704">Soisgeul</headword>
+      <description>Gospel. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp115792216">Urnaigh a Thigherna</headword>
+      <description>Lord’s Prayer. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp115793728">na Chestin</headword>
+      <description>the Shorter Catechism. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp115795240">a’ chestair</headword>
+      <description>catechist. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="d0e369" type="heading" level="h1">12. Satan, Hell, Purgatory, Limbo, different kinds of sin etc.</headword>
+    </item>
+    <item>
+      <headword id="idp115797688">Saatan</headword>
+      <description>Satan.</description>
+    </item>
+    <item>
+      <headword id="idp115799632">Diobhal</headword>
+      <description>Satan.</description>
+    </item>
+    <item>
+      <headword id="idp115801576">Donas</headword>
+      <description>Satan.</description>
+    </item>
+    <item>
+      <headword id="idp115803520">Ifrinn</headword>
+      <description>Hell.</description>
+    </item>
+    <item>
+      <headword id="idp115805032">“Urian”</headword>
+      <description>Hell.</description>
+    </item>
+    <item>
+      <headword id="idp115806544">Purgadair</headword>
+      <description>Purgatory.</description>
+    </item>
+    <item>
+      <headword id="idp115808056">“peacag”</headword>
+      <description>sin.</description>
+    </item>
+    <item>
+      <headword id="idp115809568">reatich</headword>
+      <description>illegitimate.</description>
+    </item>
+  </items>
+</fieldworkDocument>

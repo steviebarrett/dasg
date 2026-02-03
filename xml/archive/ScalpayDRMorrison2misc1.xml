@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 6 11 14 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="DRMorrison_ScalpayDRMorrison2misc1" docType="wordlist" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>[?]</date>
+  <fieldworker>[self]</fieldworker>
+  <note>[NOTES: the original title of the list is “Faclan Gàidhlig le mìneachadh ’na cois”.]</note>
+  <informant>
+    <nameEnglish>D.R. Morrison</nameEnglish>
+    <nameGaelic>D.R. Moireasdan </nameGaelic>
+    <age>[?]</age>
+  </informant>
+  <location>Na Hearadh, Scalpaigh [Harris, Scalpay]</location>
+  <items>
+    <item>
+      <headword id="idp116388216">ciorasail</headword>
+      <description>giggling.</description>
+    </item>
+    <item>
+      <headword id="idp116412768">bloaigeadh</headword>
+      <description>blowing.</description>
+    </item>
+    <item>
+      <headword id="idp116409456">sgòrnanaich</headword>
+      <description>gulping.</description>
+    </item>
+    <item>
+      <headword id="idp116326728">miar (noun)</headword>
+      <description>a notch in wood.</description>
+    </item>
+    <item>
+      <headword id="idp116327952">miarag (n)</headword>
+      <description>a wee notch (dim.).</description>
+    </item>
+    <item>
+      <headword id="idp116327376">bàrr-mara (n)</headword>
+      <description>wave top.</description>
+    </item>
+    <item>
+      <headword id="idp116328600">gionach (adj)</headword>
+      <description>eager.</description>
+    </item>
+    <item>
+      <headword id="idp116329464">gealadh (v)</headword>
+      <description>whitening.</description>
+    </item>
+    <item>
+      <headword id="idp116330976">uitean (n)</headword>
+      <description>whitening chalk material (Harris). From the English word ‘white’, probably.</description>
+    </item>
+    <item>
+      <headword id="idp116332488">gealachadh</headword>
+      <description>whitening, perhaps of the form ‘dealachadh’, originating likewise.</description>
+    </item>
+    <item>
+      <headword id="idp116335656">locairean (n)</headword>
+      <description>lockers (in a boat, etc.).</description>
+    </item>
+    <item>
+      <headword id="idp116337168">raoghachdail</headword>
+      <description>in the act of making hoarse sound.</description>
+    </item>
+    <item>
+      <headword id="idp116339832">riachdail</headword>
+      <description>[See raoghachdail.]</description>
+    </item>
+    <item>
+      <headword id="idp116339328">luidealachd</headword>
+      <description>shabbiness.</description>
+    </item>
+    <item>
+      <headword id="idp116361000">rùidealachd</headword>
+      <description>bruttishness.</description>
+    </item>
+    <item>
+      <headword id="idp116357184">roisean</headword>
+      <description>nose. Na faiceam do roisean a nochdadh a stigh air an t-dorus. [Cf. rùisean.]</description>
+    </item>
+    <item>
+      <headword id="idp116353008">rùisean</headword>
+      <description>[See roisean.] But here ‘gnùis’ may be the etymological embryo while the former word (written above) as above could be from ‘do shròin sa’.</description>
+    </item>
+    <item>
+      <headword id="idp116347248">salbhasdadh</headword>
+      <description>salvaging. (Invented? I heard it once or twice. ‘Salbhasdadh’ – you may have…?)</description>
+    </item>
+    <item>
+      <headword id="idp116345304">seannsal</headword>
+      <description>hurt.</description>
+    </item>
+    <item>
+      <headword id="idp116341488">seinnseal</headword>
+      <description>[See seannsal.]</description>
+    </item>
+    <item>
+      <headword id="idp115762288">lamaisteachadh</headword>
+      <description>being weather, influenced not weather-beaten or being under the weather but being out in bad weather, soaked and fighting against the wind and rain, perhaps you could say in a sense weather-beaten. Weather-beaten ‘dreach nan sion’, a mariner or a sea-farer is always referred to as when having very fresh complexion as being weather-beaten.</description>
+    </item>
+    <item>
+      <headword id="idp115763800">caoirneanaich</headword>
+      <description>small patches of herring playing. Bha caoirneanaich bheaga ann dhe.</description>
+    </item>
+    <item>
+      <headword id="idp115765456">donachd</headword>
+      <description>I am not quite certain if this is a swear word, it’s still in use as: an donachd càil a gheibh e bhuam-sa, unless it’s a corruption of ‘donas’, or dressing the word ‘donas’.</description>
+    </item>
+    <item>
+      <headword id="idp115767832">curgagadh</headword>
+      <description>two in an engagement to bond in romantic matters, towards marriage, etc.</description>
+    </item>
+    <item>
+      <headword id="idp115769344">cuirgigeadh</headword>
+      <description>[See curgagadh.]</description>
+    </item>
+    <item>
+      <headword id="idp115770856">rùp</headword>
+      <description>sale, sell-out; selling goods cheaper as termed ’g a rùp (Harris). It’s still in use, ‘sell out’ is the exact meaning of the word.</description>
+    </item>
+    <item>
+      <headword id="idp115772368">poca-na-busraichean</headword>
+      <description>a spell by a witch through a bag connected with witchcraft.</description>
+    </item>
+    <item>
+      <headword id="idp115773952">sgeimheadh</headword>
+      <description>abrupt.</description>
+    </item>
+    <item>
+      <headword id="idp115775464">sgeimheagh</headword>
+      <description>abrupt female.</description>
+    </item>
+    <item>
+      <headword id="idp115776976">sgabaisteadh</headword>
+      <description>scattering.</description>
+    </item>
+    <item>
+      <headword id="idp115778488">gruamal</headword>
+      <description>surly. Tha an aon ghruamal air.</description>
+    </item>
+    <item>
+      <headword id="idp115780144">marbhalachd</headword>
+      <description>deadness.</description>
+    </item>
+    <item>
+      <headword id="idp115781656">sgraingeal (n)</headword>
+      <description>a surly looking character.</description>
+    </item>
+    <item>
+      <headword id="idp115783168">malcadh</headword>
+      <description>handled often which shows as on herring; drabed [sic], etc. Sgadan air a mhalcadh.</description>
+    </item>
+    <item>
+      <headword id="idp115784896">maide-chas</headword>
+      <description>feet spar.</description>
+    </item>
+    <item>
+      <headword id="idp115786408">mabladh</headword>
+      <description>messed by handling often, fish being continually or often handled shows this effect, also being trawled and the net’s causing it to be recognised as trawl fish.</description>
+    </item>
+  </items>
+</fieldworkDocument>

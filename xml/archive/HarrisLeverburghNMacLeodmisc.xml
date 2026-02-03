@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 23 4 14 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="HarrisVarious_HarrisLeverburghNMacLeodmisc" docType="wordlist" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <fieldworker>[anonymous D]</fieldworker>
+  <informant>
+    <nameEnglish>Norman MacLeod</nameEnglish>
+    <age>about 66</age>
+  </informant>
+  <location>Harris, Leverburgh</location>
+  <items>
+    <item>
+      <headword id="d0e27">An t-Saimh</headword>
+      <description>the Atlantic.</description>
+    </item>
+    <item>
+      <headword id="d0e36">A’ Chuain</headword>
+      <description>the Minch.</description>
+    </item>
+    <item>
+      <headword id="d0e45">corran</headword>
+      <description>sand spit.</description>
+    </item>
+    <item>
+      <headword id="d0e54">taobh an fhuaraidh</headword>
+      <description>oncoming wind.</description>
+    </item>
+    <item>
+      <headword id="d0e63">stuathan</headword>
+      <description>large waves.</description>
+    </item>
+    <item>
+      <headword id="d0e72">coileach</headword>
+      <description>froth from propeller.</description>
+    </item>
+    <item>
+      <headword id="d0e81">iubhrach</headword>
+      <description>boat.</description>
+    </item>
+    <item>
+      <headword id="d0e90">sgoth</headword>
+      <description>small sailing boat.</description>
+    </item>
+    <item>
+      <headword id="d0e99">abhsadh</headword>
+      <description>adharp [oidheirp?] a chaidh thairis air do neart. “Leum e an balla gun abhsadh.”</description>
+    </item>
+    <item>
+      <headword id="d0e108">gearran</headword>
+      <description>gelding.</description>
+    </item>
+    <item>
+      <headword id="d0e117"/>
+      <description>fringe on horse. [NOTES: there is no headword for this definition unless it is meant to be ‘gearran’ above.]</description>
+    </item>
+    <item>
+      <headword id="d0e125">gibeagan</headword>
+      <description>hair coming down on horses’ ‘toes’.</description>
+    </item>
+    <item>
+      <headword id="d0e134">crith-eich</headword>
+      <description>horse shoes.</description>
+    </item>
+    <item>
+      <headword id="d0e143">each diollaid</headword>
+      <description>riding horse.</description>
+    </item>
+    <item>
+      <headword id="d0e152">each marcachd</headword>
+      <description>riding horse.</description>
+    </item>
+    <item>
+      <headword id="d0e161">cealbhaichean</headword>
+      <description>secluded places.</description>
+    </item>
+    <item>
+      <headword id="d0e170">camagan</headword>
+      <description>curls, i.e. in hair.</description>
+    </item>
+    <item>
+      <headword id="d0e179">diasganach</headword>
+      <description>drug addict.</description>
+    </item>
+    <item>
+      <headword id="d0e188">diascain</headword>
+      <description>dregs left after making whisky – very strong coarse stuff.</description>
+    </item>
+    <item>
+      <headword id="d0e197">ceangalaichean</headword>
+      <description>roof beams.</description>
+    </item>
+    <item>
+      <headword id="d0e206">cabair</headword>
+      <description>maidean dol tarsuinn mullach an taighe.</description>
+    </item>
+    <item>
+      <headword id="d0e215">mod</headword>
+      <description>aite teine.</description>
+    </item>
+    <item>
+      <headword id="d0e224">seidhse</headword>
+      <description>bench.</description>
+    </item>
+    <item>
+      <headword id="d0e233">being</headword>
+      <description>bench.</description>
+    </item>
+    <item>
+      <headword id="d0e242">tonnag</headword>
+      <description>seat made of barrel.</description>
+    </item>
+    <item>
+      <headword id="d0e251">snidhe dudh</headword>
+      <description>[sic] mix[ture] of soot and rain in roof.</description>
+    </item>
+    <item>
+      <headword id="d0e260">glutaran</headword>
+      <description>ùir eadar na ballaichean.</description>
+    </item>
+    <item>
+      <headword id="d0e269">d umbaidh</headword>
+      <description>[uine] duine mòr laidir ach aineolach leis [?].</description>
+    </item>
+    <item>
+      <headword id="d0e278">an aon iorram</headword>
+      <description>on the same activity.</description>
+    </item>
+    <item><headword id="d0e286" type="heading" level="h1">Eoin</headword></item>
+    <item>
+      <headword id="d0e291">guilbneach</headword>
+      <description>curlew.</description>
+    </item>
+    <item>
+      <headword id="d0e300">sebhag</headword>
+      <description>sparrowhawk.</description>
+    </item>
+    <item>
+      <headword id="d0e309">gogag</headword>
+      <description>small bird seen with cuckoo.</description>
+    </item>
+    <item>
+      <headword id="d0e318">bigean</headword>
+      <description>sparrow.</description>
+    </item>
+    <item>
+      <headword id="d0e327">gealbhan</headword>
+      <description>sparrow.</description>
+    </item>
+    <item>
+      <headword id="d0e336">golan-gaoithe</headword>
+      <description>swallow, swift.</description>
+    </item>
+    <item>
+      <headword id="d0e345">breac an t-sìl</headword>
+      <description>wheatear.</description>
+    </item>
+    <item>
+      <headword id="d0e354">clacharan</headword>
+      <description>stonechat.</description>
+    </item>
+    <item>
+      <headword id="d0e363">bonna-bhuchaile</headword>
+      <description>northern diver.</description>
+    </item>
+    <item>
+      <headword id="d0e372">sgeigire</headword>
+      <description>gander.</description>
+    </item>
+    <item>
+      <headword id="d0e381">cathain</headword>
+      <description>barnacle geese.</description>
+    </item>
+    <item>
+      <headword id="d0e390">lach</headword>
+      <description>wild duck.</description>
+    </item>
+    <item>
+      <headword id="d0e399">tunnag</headword>
+      <description>domesticated duck.</description>
+    </item>
+    <item>
+      <headword id="d0e408">stearnan</headword>
+      <description>tern.</description>
+    </item>
+    <item>
+      <headword id="d0e417">farsbach</headword>
+      <description>black-backed gull.</description>
+    </item>
+    <item>
+      <headword id="d0e426">fidheach</headword>
+      <description>raven.</description>
+    </item>
+    <item>
+      <headword id="d0e435">fulmair</headword>
+      <description>fulmar.</description>
+    </item>
+    <item>
+      <headword id="d0e444">buigire</headword>
+      <description>puffin.</description>
+    </item>
+  </items>
+</fieldworkDocument>

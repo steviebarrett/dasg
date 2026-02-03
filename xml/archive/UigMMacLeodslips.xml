@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 27/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_UigMMacLeodslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <informant>
+    <nameEnglish>Murdo MacLeod</nameEnglish>
+  </informant>
+  <location>Lewis, Uig</location>
+  <items>
+    <item>
+      <headword id="idp115489784">là</headword>
+      <description>Quotation: “Bha là eile aig fear buain na mòna.”</description>
+    </item>
+  </items>
+</fieldworkDocument>

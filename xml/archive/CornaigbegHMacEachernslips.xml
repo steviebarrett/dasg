@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 10/8/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_CornaigbegHMacEachernslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>10/1970</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <note>[NOTES: in IPA transcriptions, the fieldworker uses [w] for [ɯ].]</note>
+  <informant>
+    <nameEnglish>H. MacEachern</nameEnglish>
+  </informant>
+  <location>Tiree, Cornaigbeg</location>
+  <items>
+    <item>
+      <headword id="idp115457376">lamhchran</headword>
+      <description>[ɫɑ̃:xɾɑṉ] Notes: handle of flail.</description>
+    </item>
+    <item>
+      <headword id="idp115467024">langaid</headword>
+      <description>[ɫɑŋɡɑdʹ] Quotation: a’ cur langaid air an each. Notes: fetter put on the front legs of a horse. (H. Meek says it was put on sheep too.)</description>
+    </item>
+    <item>
+      <headword id="idp115458672">màthair-shiomain</headword>
+      <description>Notes: the thick rope from which stones were suspended near the base of the roof of a thatched house.</description>
+    </item>
+    <item>
+      <headword id="idp115483008">mial</headword>
+      <description>Quotation: a’ mhial. Notes: gum disease in horses.</description>
+    </item>
+    <item>
+      <headword id="idp115443912">mul</headword>
+      <description>[mũ̜ɫ] Notes: shingle.</description>
+    </item>
+    <item>
+      <headword id="idp166264704">réir (sic)</headword>
+      <description>Quotation: (1) Fhuair an t-each ma réir. [mɑ̃:ɾe:ɾ] (2) Tha a’ chonnlach ma réir. Notes: (1) The horse broke free. (2) The straw is loose, untied.</description>
+    </item>
+    <item>
+      <headword id="idp166262904">iarunn-buinn</headword>
+      <description>Notes: soleplate of the plough.</description>
+    </item>
+    <item>
+      <headword id="idp166317048">sàil</headword>
+      <description>Quotation: sàil na h-innean. Notes: the “heel” of the anvil.</description>
+    </item>
+    <item>
+      <headword id="idp166315392">sgroth</headword>
+      <description>Notes: square of skinned turf.</description>
+    </item>
+    <item>
+      <headword id="idp166313880">snighe</headword>
+      <description>[ʃnʹĩə] Notes: water leaking through the roof.</description>
+    </item>
+    <item>
+      <headword id="idp166312296">soirbhean</headword>
+      <description>[sɔɾɑṉ] Notes: a small door at the back of a barn used for creating a draught for winnowing.</description>
+    </item>
+    <item>
+      <headword id="idp166310568">struaic</headword>
+      <description>[st̪ɾu̟ɤçc] Notes: a large portion.</description>
+    </item>
+    <item>
+      <headword id="idp166308120">sùirt</headword>
+      <description>[su̜:ʴsdʹ] Notes: flail. [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+    <item>
+      <headword id="idp166307040">tàth</headword>
+      <description>Quotation: a’ tathadh [ət̪ɑ:]. Notes: weld. He drops -adh ending.</description>
+    </item>
+    <item>
+      <headword id="idp166284360">tighinn-fodha</headword>
+      <description>[tʹĩṉfoə] Notes: water seeping in at floor level.</description>
+    </item>
+    <item>
+      <headword id="idp166289976">tiutadh</headword>
+      <description>[tʹʃu̟t̪əɣ] Notes: for “tiotadh”.</description>
+    </item>
+    <item>
+      <headword id="idp166291992">treabhailt</headword>
+      <description>Quotation: an treabhailt [t̪ɾɛfɑlʹtʹ]. Notes: mill-hopper.</description>
+    </item>
+    <item>
+      <headword id="idp166297032">udalan</headword>
+      <description>Quotation: udalan caiginn. Notes: swivel put on a tether so that two sheep could be tethered together.</description>
+    </item>
+    <item>
+      <headword id="idp166300416">ùir-chuir</headword>
+      <description>[u̜:ɾxu̜ɾ] Notes: the “wrist” of the plough.</description>
+    </item>
+    <item>
+      <headword id="idp166304016">adhrachd</headword>
+      <description>[ɤəɾɑxk] Quotation: adhrachd na h-innein. Notes: the pointed end of the anvil.</description>
+    </item>
+    <item>
+      <headword id="idp166362624">amar</headword>
+      <description>Quotation: amar a’ mhuilinn. Notes: the mill lade.</description>
+    </item>
+    <item>
+      <headword id="idp166364280">bior-chruaidh</headword>
+      <description>Notes: punch for making nail-holes in horseshoes.</description>
+    </item>
+    <item>
+      <headword id="idp166365792">bròg</headword>
+      <description>Quotation: bròg an eich. Notes: hoof.</description>
+    </item>
+    <item>
+      <headword id="idp166367448">brógalais</headword>
+      <description>[bɾo:ɡəlɑʃ] Notes: “swinging the lead”.</description>
+    </item>
+    <item>
+      <headword id="idp166369176">buailtean</headword>
+      <description>Notes: striker of flail.</description>
+    </item>
+    <item>
+      <headword id="idp166370688">buthag</headword>
+      <description>[ˈbu̜ɑɡ] Notes: fairly large rounded stone found on the beach. Used in the old days for heating beds.</description>
+    </item>
+    <item>
+      <headword id="idp166372416">caigeann</headword>
+      <description>Quotation: udalan caiginn. Notes: swivel put on a tether so that two sheep could be tethered together.</description>
+    </item>
+    <item>
+      <headword id="idp166374072">cairt chopaigeadh</headword>
+      <description>Notes: coup-cart.</description>
+    </item>
+    <item>
+      <headword id="idp166375584">canna</headword>
+      <description>[kɑ̃n̪ə] Notes: tin mug.</description>
+    </item>
+    <item>
+      <headword id="idp166377312">ceannag</headword>
+      <description>[cɛ̃n̪ɑɡ] Notes: bundle of straw or hay.</description>
+    </item>
+    <item>
+      <headword id="idp166379040">ceannagaich</headword>
+      <description>[cɛ̃n̪ɑɡiç] Quotation: a’ ceannagachadh na connlaich man a bheireadh iad dheth a’ siol. Notes: making it into bundles.</description>
+    </item>
+    <item>
+      <headword id="idp166380912">ceanna-mhaide</headword>
+      <description>Notes: rafter.</description>
+    </item>
+    <item>
+      <headword id="idp166382424">coch-theinnich</headword>
+      <description>[koxˈhĩnʹiç] Notes: steel grip which went over the back of the fingers for striking flint.</description>
+    </item>
+    <item>
+      <headword id="idp166384152">comhfhurtachail</headword>
+      <description>[kɔ̃əʴst̪ɑxɑl] Notes: comfortable. [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+    <item>
+      <headword id="idp166386024">cranntair</headword>
+      <description>Notes: wooden pegs used in place of nails, e.g. to couple the rafters together.</description>
+    </item>
+    <item>
+      <headword id="idp166387536">crògach</headword>
+      <description>[kɾɔ:ɡɔx] Notes: spiked muzzle put on calves.</description>
+    </item>
+    <item>
+      <headword id="idp166389264">cruidh</headword>
+      <description>[kɾwç] Quotation: an cruidh. Notes: rim of cartwheel.</description>
+    </item>
+    <item>
+      <headword id="idp166391136">crùidh</headword>
+      <description>Quotation: a’ crùidheach [sic] roithean. Notes: putting iron rims on cartwheels.</description>
+    </item>
+    <item>
+      <headword id="idp162328544">cuairt</headword>
+      <description>Quotation: a’ chuairt mun cuairt. Notes: the wooden circumference of the cartwheel.</description>
+    </item>
+    <item>
+      <headword id="idp162330200">fiughair</headword>
+      <description>Quotation: (1) Bha fiughair agam ris an raoir. (2) Dé a bha fiughair agad ris? Notes: (1) I expected him last night. (2) What were you expecting? (H. Meek) Also Rinn e fiughair ris: He showed pleasure at seeing him.</description>
+    </item>
+    <item>
+      <headword id="idp162331856">fòidearachd</headword>
+      <description>Quotation: a’ fòidearachd. Notes: could be applied to cutting “sgrothan” for the old tigh-tughaidh.</description>
+    </item>
+    <item>
+      <headword id="idp162333512">frógh-shnighe</headword>
+      <description>[fɾɤo:nʹiə] Notes: water seeping in through the wall.</description>
+    </item>
+    <item>
+      <headword id="idp162335456">galar</headword>
+      <description>Quotation: Galar a’ chinn. Notes: disease in horses. Lost sense of direction.</description>
+    </item>
+    <item>
+      <headword id="idp162337112">glutadh</headword>
+      <description>Notes: packing of earth, gravel, clay between the double walls of the thatched houses.</description>
+    </item>
+  </items>
+</fieldworkDocument>

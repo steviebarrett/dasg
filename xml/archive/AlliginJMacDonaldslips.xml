@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 5/8/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_AlliginJMacDonaldslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>12/1969</date>
+  <fieldworker>[AJ Smith]</fieldworker>
+  <informant>
+    <nameEnglish>Rev. John MacDonald</nameEnglish>
+  </informant>
+  <location>Ross-shire, Torridon, Alligin</location>
+  <items>
+    <item>
+      <headword id="idp117937960">mineadh</headword>
+      <description>Quotation: Mineadh ort! Notes: term of endearment towards a child.</description>
+    </item>
+    <item>
+      <headword id="idp117939616">sonasan</headword>
+      <description>[sɔ̃ṉəsɑ̃ṉ] Notes: frog.</description>
+    </item>
+    <item>
+      <headword id="idp117941344">tallainde</headword>
+      <description>[t̪ɑɫɑ̃nʹdʹə] Notes: a partition or dividing wall.</description>
+    </item>
+    <item>
+      <headword id="idp117943072">ainneamh (?)</headword>
+      <description>[ɑ̃nʹi] Quotation: (1) Tha e [ɑ̃nʹi] math. (2) Ni sin an gnothach [ɑ̃nʹi]. Notes: (1) It is unusually good. (2) That will do splendidly.</description>
+    </item>
+    <item>
+      <headword id="idp117945592">cailbhe</headword>
+      <description>[kɑlɑvə] Notes: Barra – dividing wall, partition.</description>
+    </item>
+    <item>
+      <headword id="idp117947320">corra-sgritheach</headword>
+      <description>Notes: heron.</description>
+    </item>
+    <item>
+      <headword id="idp117948832">gibeach</headword>
+      <description>Quotation: latha gibeach. Notes: a wet, squally day.</description>
+    </item>
+  </items>
+</fieldworkDocument>

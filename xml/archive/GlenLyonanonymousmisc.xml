@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 1/4/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Word-lists_GlenLyonanonymousmisc" docType="wordlist" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <fieldworker>[Tony Dilworth]</fieldworker>
+  <informant>
+    <nameEnglish>?</nameEnglish>
+  </informant>
+  <location>Glen Lyon</location>
+  <items>
+    <item>
+      <headword id="idm8144608">meuran</headword>
+      <description>ring.</description>
+    </item>
+    <item>
+      <headword id="idm8147560">ros</headword>
+      <description>seed (hay).</description>
+    </item>
+    <item>
+      <headword id="idm8150728">plub</headword>
+      <description>lamp.</description>
+    </item>
+    <item>
+      <headword id="idm8154472">lorgan</headword>
+      <description>crutches.</description>
+    </item>
+    <item>
+      <headword id="idm8130136">crog</headword>
+      <description>handful.</description>
+    </item>
+    <item>
+      <headword id="idm8128624">calm</headword>
+      <description>[kaɫam] calm.</description>
+    </item>
+    <item>
+      <headword id="idm8126896">clod</headword>
+      <description>[kɫɔt] dark appearance in sky.</description>
+    </item>
+    <item>
+      <headword id="idm8125168">seabach</headword>
+      <description>[ʃe̜:b̥əx] snakey [sic] person.</description>
+    </item>
+    <item>
+      <headword id="idm8123440">morgh</headword>
+      <description>[mɔrɔ] barbed spike for spearing salmon.</description>
+    </item>
+    <item>
+      <headword id="idm8121712">iomair</headword>
+      <description>portion of field ploughed by one man.</description>
+    </item>
+    <item>
+      <headword id="idm8120200">gurt</headword>
+      <description>belt.</description>
+    </item>
+    <item>
+      <headword id="idm1259168">meòirean</headword>
+      <description>points of fingers.</description>
+    </item>
+    <item>
+      <headword id="idm1257656">lòd</headword>
+      <description>load.</description>
+    </item>
+    <item>
+      <headword id="idm1256144">uaimheal</headword>
+      <description>weevil.</description>
+    </item>
+    <item>
+      <headword id="idm1254632">bùth</headword>
+      <description>stall for selling at fair. (Shop is [ʃɔxp].)</description>
+    </item>
+    <item>
+      <headword id="idm1252832">muicealan</headword>
+      <description>[muixʹkʹln] tall plant used for feeding.</description>
+    </item>
+    <item>
+      <headword id="idm1251104">tualadh</headword>
+      <description>scatter.</description>
+    </item>
+    <item>
+      <headword id="idm1249592">cuir muinntearas air</headword>
+      <description>hire.</description>
+    </item>
+    <item>
+      <headword id="idm1248080">pinn, stob</headword>
+      <description>peg.</description>
+    </item>
+    <item>
+      <headword id="idm1246568">pùid</headword>
+      <description>pocket.</description>
+    </item>
+    <item>
+      <headword id="idm1245056">spreac</headword>
+      <description>beak.</description>
+    </item>
+    <item>
+      <headword id="idm1243544">sanntachan</headword>
+      <description>thrifty person.</description>
+    </item>
+    <item>
+      <headword id="idm1242032">craicneadh, boicneadh</headword>
+      <description>a hide.</description>
+    </item>
+    <item>
+      <headword id="idm1240520">fealdair</headword>
+      <description>scythe.</description>
+    </item>
+    <item>
+      <headword id="idm1239008">spiolgain</headword>
+      <description>splinters.</description>
+    </item>
+    <item>
+      <headword id="idm1237496">an Duan Mór</headword>
+      <description>Atlantic Ocean.</description>
+    </item>
+    <item>
+      <headword id="idm1235984">glogan an ealachaig</headword>
+      <description>crop of bird.</description>
+    </item>
+    <item>
+      <headword id="idm1234472">brogach, proitseach</headword>
+      <description>stumpy lad.</description>
+    </item>
+    <item>
+      <headword id="idm1232960">sgàrr</headword>
+      <description>flock of birds.</description>
+    </item>
+    <item>
+      <headword id="idm1231448">curach</headword>
+      <description>punt.</description>
+    </item>
+    <item>
+      <headword id="idm1229936">grèan</headword>
+      <description>[ɡ̊re̜:n] crowd.</description>
+    </item>
+    <item>
+      <headword id="idm1228208">labaran</headword>
+      <description>[ɫab̥rn] labouring.</description>
+    </item>
+    <item>
+      <headword id="idm1226480">sùg</headword>
+      <description>suck.</description>
+    </item>
+    <item>
+      <headword id="idm1224968">samhnag</headword>
+      <description>Halloween bonfire.</description>
+    </item>
+    <item>
+      <headword id="idm1223456">casan corrach</headword>
+      <description>wooden stilts used for crossing River Lyon.</description>
+    </item>
+  </items>
+</fieldworkDocument>

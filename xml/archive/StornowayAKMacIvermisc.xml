@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 11 9 14 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="AJSmith_StornowayAKMacIvermisc" docType="wordlist" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>May 1972</date>
+  <fieldworker>A. J. Smith</fieldworker>
+  <note>[NOTES: in IPA transcriptions, the fieldworker uses [w] for [ɯ].]</note>
+
+  <informant>
+    <nameEnglish>Angus K. MacIver</nameEnglish>
+    <origin>[Lewis], Uig, Valtos</origin>
+  </informant>
+  <location>[Lewis], Stornoway</location>
+  <items>
+    <item>
+      <headword id="idp119129696">smugailt</headword>
+      <description>[smũ̟ɡılʹt] [sic] Note: spit.</description>
+    </item>
+    <item>
+      <headword id="idp119095640">smeagailt</headword>
+      <description>[smɛ̃ɡılʹtʹ] Note: chin.</description>
+    </item>
+    <item>
+      <headword id="idp119126600">sin</headword>
+      <description>[ʃĩṉ] Quot.: “duine sin [ʃĩṉ]”. “Tha e sin.” Note: old.</description>
+    </item>
+    <item>
+      <headword id="idp118806416">glùineachan</headword>
+      <description>[ɡɫũ̜:nʹɑxɑ̃ṉ] Note: “Nicky Tams”. Band tied under kneecaps to keep trouser legs up.</description>
+    </item>
+    <item>
+      <headword id="idp118765736">fiultag</headword>
+      <description>[fȷu̜ɫt̪ɑɡ] Note: Harris, Barra for above [i.e. glùineachan].</description>
+    </item>
+    <item>
+      <headword id="idp118734920">lùthag</headword>
+      <description>[ɫu̜:hɑɡ] Note: piece of rope tied tightly just under the main joint of a sheep’s leg. Hobbling effect.</description>
+    </item>
+    <item>
+      <headword id="idp118826504">deadhann</headword>
+      <description>[ˈdʹeən̪] Note: hobble put on a horse – between front legs.</description>
+    </item>
+    <item>
+      <headword id="idp118776968">buidealaich</headword>
+      <description>[bu̜dʹɑɫiç] Quot.: “Tha e dol na bhuidealaich.” “Tha iad a’ dol nam buidealaich.” Note: all mixed up.</description>
+    </item>
+    <item>
+      <headword id="idp1872896">ceannachraimh</headword>
+      <description>[cɑ̃n̪ɑxɾɑ̃ĩ] Note: fixing the boat seat to the gunwale.</description>
+    </item>
+    <item>
+      <headword id="idp1876136">cuairt</headword>
+      <description>[ku̜ɤʴsṯ] Quot.: a’ chuairt. Note: angled piece of wood at stern and stem of a boat for strength.  [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+    <item>
+      <headword id="idp1871744">claigionn</headword>
+      <description>[kɫɑɡən̪] Quot.: “an claigionn deiridh”; “an claigionn toisich”. Note: stempost and sternpost in a boat [sic – in this order].</description>
+    </item>
+    <item>
+      <headword id="idp159790808">tobht</headword>
+      <description>[t̪ot̪] Quot.: “tobht a’ chruinn”. Note: the seat with a semi-circle cut out to admit the mast.</description>
+    </item>
+    <item>
+      <headword id="idp159792824">cleat</headword>
+      <description>[kleṯ] Note: clasp on “tobht a’ chruinn” [q.v.] to keep mast firmly fixed.</description>
+    </item>
+    <item>
+      <headword id="idp159794552">leabaidh</headword>
+      <description>[lʹɑbi] Quot.: leabaidh na tuime [t̪w̃mə]. Note: lowest part of boat where water collects – between the “tobht iomair” [q.v.] and the “tobhta meadhoin” [q.v]. (Put also under taoim.)</description>
+    </item>
+    <item>
+      <headword id="idp159796928">tobht</headword>
+      <description>Quot.: “an tobht iomair”. Note: rowing seat.</description>
+    </item>
+    <item>
+      <headword id="idp159798656">tobhta</headword>
+      <description>Quot.: an tobhta meadhoin. Note: centre seat.</description>
+    </item>
+    <item>
+      <headword id="idp159800384">taoim</headword>
+      <description>[t̪[ɤ̃ĩ]m] Note: water in a boat.</description>
+    </item>
+    <item>
+      <headword id="idp159802544">taoman</headword>
+      <description>[t̪w̃:mɑṉ] Note: baler in a boat.</description>
+    </item>
+    <item>
+      <headword id="idp159804272">tùc</headword>
+      <description>[t̪u̟:k] Note: plug in a boat.</description>
+    </item>
+    <item>
+      <headword id="idp159806000">ùrlar</headword>
+      <description>Quot.: ùrlar a’ bhàta. Note: flat piece of wood on top of the keel.</description>
+    </item>
+    <item>
+      <headword id="idp159808592">slige</headword>
+      <description>[ʃlʹıɡʹə] Note: shell of a boat.</description>
+    </item>
+    <item>
+      <headword id="idp159810320">bulg</headword>
+      <description>[bu̜ɫu̜ɡ] Note: where the boat curves in towards the keel. </description>
+    </item>
+    <item>
+      <headword id="idp159812048">béirear</headword>
+      <description>[be:ɾɑð] Note: probably “bearer”. The strap of wood running the length of the boat on each side and supporting the seats.</description>
+    </item>
+    <item>
+      <headword id="idp159813776">iarunn</headword>
+      <description>Quot.: “iarunn cómhthallach” [iɤrən̪ kõ:hɑɫɑx]. Note: landing hook.</description>
+    </item>
+    <item>
+      <headword id="idp159815720">sòla</headword>
+      <description>[sɔ:ɫə] Note: triangular board in stem and stern of boat, underfoot.</description>
+    </item>
+    <item>
+      <headword id="idp159817520">tobhta</headword>
+      <description>Quot.: “tobhta stiùiridh”. Note: stern seat in a boat.</description>
+    </item>
+    <item>
+      <headword id="idp159819248">tródha</headword>
+      <description>[t̪ɾo:ə] Note: where the bottom of the mast fits in a boat.</description>
+    </item>
+    <item>
+      <headword id="idp159820976">bucas</headword>
+      <description>[bu̟kəs] Quot.: “bucas a’ chruinn”. Note: box which was fixed to the hole in the bottom of the boat where the end of the mast fitted. Mast put down inside it. </description>
+    </item>
+    <item>
+      <headword id="idp159822920">cnag</headword>
+      <description>[kɾɑ̃ɡ] Note: thole-pin.</description>
+    </item>
+    <item>
+      <headword id="idp159824648">raing</headword>
+      <description>[rɛ̃ŋɡ] Note: rib of a boat. (Plural – [rɛ̃ɣəṉ].)</description>
+    </item>
+    <item>
+      <headword id="idp159827528">raing</headword>
+      <description>Quot.: rangan stòbhaig [rɛ̃ɣəṉ sṯɔ:viɡ]. Note: ribs put in a boat by steaming them and pressing them down into the boat’s shell to take the shape of the boat.</description>
+    </item>
+    <item>
+      <headword id="idp159829544">falmadair</headword>
+      <description>[fɑɫɑməd̪ɑð] Note: tiller in a boat.</description>
+    </item>
+    <item>
+      <headword id="idp159831272">iarunn</headword>
+      <description>Quot.: “iarunn stiùireach”. Note: two iron loops fixed to the sternpost to provide a hinge for the rudder.</description>
+    </item>
+    <item>
+      <headword id="idp159833000">spuir</headword>
+      <description>[spu̟ð] Note: two iron prongs attached to the rudder and fitting into the iron loops on the sternpost. Functioned as hinges.</description>
+    </item>
+    <item>
+      <headword id="idp159834728">glùin</headword>
+      <description>[ɡɫũ̜:nʹ] Note: wooden angled support between the stempost and keel and sternpost and keel.</description>
+    </item>
+    <item>
+      <headword id="idp159836456">bac</headword>
+      <description>Note: flat piece of wood put on each side of oar where it passes through thole-pins.</description>
+    </item>
+    <item>
+      <headword id="idp159837968">cum</headword>
+      <description>Quot.: “Cum fodha!” Note: tread water. (Put also under fo.)</description>
+    </item>
+    <item>
+      <headword id="idp159839840">lunn</headword>
+      <description>Note: roller under a boat.</description>
+    </item>
+    <item>
+      <headword id="idp159842216">càsaidh</headword>
+      <description>[kɑ:si] Quot.: air a’ chàsaidh. Note: slip made of flat stones on which boats were hauled up.</description>
+    </item>
+    <item>
+      <headword id="idp159844232">prioga</headword>
+      <description>[pðıɡə] Quot.: “prioga Bhaltois”. Note: landing place.</description>
+    </item>
+    <item>
+      <headword id="idp159846176">earball-sàile</headword>
+      <description>Note: the tail-end of the seaweed “mircean”.</description>
+    </item>
+    <item>
+      <headword id="idp159847688">tulch</headword>
+      <description>[t̪u̜ɫu̜x] Quot.: “tulch stamh”. Note: the bulbous part of the “stamh” which is attached to the rock.</description>
+    </item>
+    <item>
+      <headword id="idp159849632">cas-dhubh</headword>
+      <description>Quot.: “a’ chas-dhubh”. Note: the tangle in its early stages.</description>
+    </item>
+    <item>
+      <headword id="idp159851360">brùchd</headword>
+      <description>Note: heap of rotting seaweed on shore.</description>
+    </item>
+    <item>
+      <headword id="idp159852872">eileatrom</headword>
+      <description>[elət̪ɾəm] Note: funeral bier.</description>
+    </item>
+    <item>
+      <headword id="idp159854600">islig</headword>
+      <description>[iʃlʹiɡʹ] Note: planks on which body lies.</description>
+    </item>
+    <item>
+      <headword id="idp115984992">lionadach</headword>
+      <description>[lʹĩɤ̃ṉəd̪ɑx] Note: shroud. (Lion-aodach.)</description>
+    </item>
+    <item>
+      <headword id="idp115986720">tigh-faire</headword>
+      <description>[t̪ɔˈfɛðə] Note: house in which there is a wake.</description>
+    </item>
+    <item>
+      <headword id="idp115988448">glutradh</headword>
+      <description>Note: earth packing between walls in a black-house.</description>
+    </item>
+    <item>
+      <headword id="idp115989960">glutadh</headword>
+      <description>Note: sediment in a drain.</description>
+    </item>
+    <item>
+      <headword id="idp115992336">maide-starraig</headword>
+      <description>Note: stick jutting up at the end of a black-house. Thatching rope put round it.</description>
+    </item>
+    <item>
+      <headword id="idp115993848">ciomball</headword>
+      <description>[c[ɤ̃ũ̜]mpəɫ] Quot.: “ciomball fraoich”. Note: a bundle of heather.</description>
+    </item>
+    <item>
+      <headword id="idp115996224">cuach</headword>
+      <description>Quot.: “cuach shiomain”. Note: a coil of rope.</description>
+    </item>
+    <item>
+      <headword id="idp115997952">acair</headword>
+      <description>Note: stone weight on thatch.</description>
+    </item>
+    <item>
+      <headword id="idp115999464">gaorr</headword>
+      <description>[ɡw:r] Note: food inside a crab or lobster.</description>
+    </item>
+    <item>
+      <headword id="idp116001192">céir</headword>
+      <description>Note: wax-like matter in a lobster. (Spawn?)</description>
+    </item>
+    <item>
+      <headword id="idp116002704">càrn</headword>
+      <description>Quot.: “càrn ghiomach”. Note: place where lobster is caught.</description>
+    </item>
+    <item>
+      <headword id="idp116004432">càrnaich</headword>
+      <description>Note: a rough shore.</description>
+    </item>
+    <item>
+      <headword id="idp116005944">bròn-mara</headword>
+      <description>Quot.: “’S e bròn-mara a th’ann an diugh.” Note: it’s a flat calm today.</description>
+    </item>
+    <item>
+      <headword id="idp116007672">cuinneag</headword>
+      <description>[kũ̟nʹɑɡ] Quot.: “Tha cuinneag roimh ’n ghréin.”</description>
+    </item>
+    <item>
+      <headword id="idp116009400">adhar</headword>
+      <description>Quot.: “Tha adhar rionnach ann a nochd.” Note: a “mackerel sky”.</description>
+    </item>
+  </items>
+</fieldworkDocument>

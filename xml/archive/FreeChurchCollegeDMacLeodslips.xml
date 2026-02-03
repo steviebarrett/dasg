@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 1/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_FreeChurchCollegeDMacLeodslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>Spring 1979</date>
+  <informant>
+    <nameEnglish>Rev. Prof. D. MacLeod</nameEnglish>
+  </informant>
+  <location>Free Church College</location>
+  <items>
+    <item>
+      <headword id="idp115439096">trianail</headword>
+      <description>Notes: triune.</description>
+    </item>
+    <item>
+      <headword id="idp115447232">trianalachd</headword>
+      <description>Notes: triuneness.</description>
+    </item>
+  </items>
+</fieldworkDocument>

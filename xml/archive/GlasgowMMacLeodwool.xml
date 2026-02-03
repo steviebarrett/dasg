@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 5 4 14 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="WoolworkingandFishing_GlasgowMMacLeodwool" docType="questionnaire" subType="Wool-working" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Obair na Clòimhe / Wool-Working</title>
+  <fieldworker>[self]</fieldworker>
+  <note>[NOTES: the informant uses E and I to mark the gender of the nouns, masculine and feminine respectively.]</note>
+  <informant>
+    <nameEnglish>Murdo MacLeod</nameEnglish>
+    <nameGaelic>Murchadh MacLeòid</nameGaelic>
+    <age>57 8/12</age>
+    <origin>Leòdhas [Lewis], Uig an Iar</origin>
+  </informant>
+  <location>Glaschu [Glasgow]</location>
+  <items>
+    <item><headword id="d0e35" type="heading" level="h1">1. Raw wool</headword></item>
+    <item>
+      <headword id="d0e40">clòimh (I)</headword>
+      <description>Wool. (Againne fuaimnich clòimh mar cluing no cluimh.) (’Se ì a th’innte: “clòimh bheag”, “clòimh fhliuch.”)</description>
+    </item>
+    <item>
+      <headword id="d0e49">rùsg (I)</headword>
+      <description>Fleece; wool or fleece when shorn off in May. (’Se ì a th’innte: “rùsg bheag”.) “Caora air a rùsgadh.” “Rusgadh nan caorach.”</description>
+    </item>
+    <item>
+      <headword id="d0e58">marbhannach (I)</headword>
+      <description>Wool from a dead sheep. (Fuaimnich mar seo: mara' thannach.)</description>
+    </item>
+    <item>
+      <headword id="d0e67">toban, tobanan (E)</headword>
+      <description>Tufts of wool (airson feadhainn bheaga). Airson feadhainn mhóra chan eil cuimhne agam ach tha mi deanamh a mach gu robh ainm ann. (Feuchaibh a’ bhean-phosda Nic Neacail.)</description>
+    </item>
+    <item>
+      <headword id="d0e76">ar-chlòimh (I)</headword>
+      <description>(Fuaimnich ar'-chlòimh mar far-chluais.) A’ chlòimh ùr a bhios a’ fàs air na caoraich fo an t-seann chlòimh. “Bha ar-chlòimh mhath air na caoraich am bliadhna.”</description>
+    </item>
+    <item><headword id="d0e84" type="heading" level="h1">2. Oil or grease put on wool before carding</headword></item>
+    <item>
+      <headword id="d0e89">armadh (E)</headword>
+      <description>Oil or grease put on wool before carding.</description>
+    </item>
+    <item><headword id="d0e97" type="heading" level="h1">3. Carding</headword></item>
+    <item>
+      <headword id="d0e102">càrdadh (E), a’ cardadh</headword>
+      <description>[sic] Carding of wool.</description>
+    </item>
+    <item>
+      <headword id="d0e111">càrd, a’ chàrd (I)</headword>
+      <description>The combs used [for carding]. (Cha chuala mi a riamh “na càrdan”.)</description>
+    </item>
+    <item>
+      <headword id="d0e120">guit (I)</headword>
+      <description>Chan eil ainm agam [airson ‘baskets or other vessels used to hold the uncombed and combed wool’]. Ach bhiodh ‘guit’ aca airson a leithid seo, ga chur gu feum airson a leithid seo, co dhiù. ‘Guit’ – mar criathar beag ach gun tuill idir ann. Rudeigin mar seo: <illustration src="GlasgowMMacLeodwoolillust1.jpg" width="200"/></description>
+    </item>
+    <item>
+      <headword id="d0e130">peàrd (I)</headword>
+      <description>Tuft of wool off the cards in the first carding; the first card in carding; the long roll of wool as it leaves the cards for the spinning wheel. Chan eil ainm sam bith agam ach ‘peàrd’ airson na tha an seo shuas.</description>
+    </item>
+    <item><headword id="d0e138" type="heading" level="h1">4. Spinning</headword></item>
+    <item>
+      <headword id="d0e143">snìomh, a’ snìomh</headword>
+      <description>Spinning.</description>
+    </item>
+    <item>
+      <headword id="d0e152">snìomh (E)</headword>
+      <description>The process of spinning.</description>
+    </item>
+    <item>
+      <headword id="d0e161">a’ leigeil thuice</headword>
+      <description>“Letting go”, the hand being lowered to let the spun thread run on to the reel of the spinning wheel.</description>
+    </item>
+    <item>
+      <headword id="d0e170">sluigeil</headword>
+      <description>Bha againn ‘sluigeil’. “Chan eil i a’ sluigeil.” “Chan eil i a’ sluigeil ceart.” Mur a biodh am bann-beag ’s mar sin air an cur ’s an t-suidheachadh cheart, cha shluigeadh a’ chuibhle ceart, no cha shluigeadh i idir.</description>
+    </item>
+	<item>
+	  <headword id="idola237">[note]</headword>
+	  <description>Chan eil nì agam mu an seo [i.e. a long thread and too much slenderness or too much thickness in a portion of thread]. (Feuchaibh Nic Neacail mu an seo.)</description>
+	</item>
+    <item><headword id="d0e187" type="heading" level="h1">5. Parts of the spinning wheel</headword></item>
+	<item>
+	  <headword id="idola238">[note]</headword>
+	  <description>(Mar a tha iad aig Dwelly, agus na h-ainmeannan nach eil againne.)</description>
+	</item>
+	<item><headword id="d0e200" type="heading" level="h2">[Dealbh 245]</headword></item>
+    <item>
+      <headword id="d0e205">1. Teic. (I)</headword>
+      <description>(Fuaimnich mar ‘take’ (Beurla).)</description>
+    </item>
+    <item>
+      <headword id="d0e214">2. Maighdeann(an) (I), Gairdeanan.</headword>
+      <description>(‘Maighdeannan’ againne.)</description>
+    </item>
+    <item>
+      <headword id="d0e223">3. Iuchair (I) na cìche.</headword>
+      <description>(‘Iuchair’ agus ‘iuchair na cuibhle’ againne.)</description>
+    </item>
+    <item>
+      <headword id="d0e232">4. Rolan.</headword>
+      <description>(‘Roilean’ (E) againne.)</description>
+    </item>
+    <item>
+      <headword id="d0e241">5. Piorna. (E)</headword>
+      <description>(Againn.)</description>
+    </item>
+    <item>
+      <headword id="d0e250">6. Bann-beag. (E)</headword>
+      <description>(Againn.)</description>
+    </item>
+    <item>
+      <headword id="d0e259">7. Dealgan.</headword>
+      <description>(Chan eil e againn.)</description>
+    </item>
+    <item>
+      <headword id="d0e268">8. Cluas na cuibhle.</headword>
+      <description>(‘Cluasag’ (I), ‘cluasagan’ (pl.) againne.)</description>
+    </item>
+    <item>
+      <headword id="d0e277">9. Iuchair. (I)</headword>
+      <description>(Againn.)</description>
+    </item>
+    <item>
+      <headword id="d0e286">10. Beart-mheodhain, Beart-mheadhoin (I)</headword>
+      <description>(Againn.)</description>
+    </item>
+    <item>
+      <headword id="d0e295">11. Stoc. (E)</headword>
+      <description>(Againn.)</description>
+    </item>
+    <item>
+      <headword id="d0e304">12. Com.</headword>
+      <description>(Chan eil e againn.)</description>
+    </item>
+    <item>
+      <headword id="d0e313">13. Asnaichean. (pl.) (I)</headword>
+      <description>(Againn, sg. ‘asann’.)</description>
+    </item>
+    <item>
+      <headword id="d0e322">14. Iuchair. (I)</headword>
+      <description>(Againn.)</description>
+    </item>
+    <item><headword id="d0e330" type="heading" level="h2">Dealbh 246</headword></item>
+    <item>
+      <headword id="d0e335">1. Bann-mór. (E)</headword>
+      <description>(Againn.)</description>
+    </item>
+    <item>
+      <headword id="d0e344">2. Réim. (E)</headword>
+      <description>(Againn.)</description>
+    </item>
+    <item>
+      <headword id="d0e353">3. Na h-eich. (E)</headword>
+      <description>(Againn, sg. ‘each’.)</description>
+    </item>
+    <item>
+      <headword id="d0e362">4. Maide-siubhail. (E)</headword>
+      <description>(Againn.)</description>
+    </item>
+    <item>
+      <headword id="d0e371">5. Deil.</headword>
+      <description>(Chan eil e againn.)</description>
+    </item>
+    <item>
+      <headword id="d0e380">6. Aiseal an t-seic.</headword>
+      <description>(Cha chuala mi a riamh e.)</description>
+    </item>
+    <item>
+      <headword id="d0e389">7. Bann-beag.</headword>
+      <description>(Againn.)</description>
+    </item>
+    <item>
+      <headword id="d0e398">8. Roileanan.</headword>
+      <description>(Againn.)</description>
+    </item>
+    <item>
+      <headword id="d0e407">9. Teic.</headword>
+      <description>(Againn.)</description>
+    </item>
+    <item>
+      <headword id="d0e416">10. Maighdeannan.</headword>
+      <description>(Againn.)</description>
+    </item>
+    <item>
+      <headword id="d0e425">11. Sùil na cuibhle. (I)</headword>
+      <description>(Chan eil e againn.)</description>
+    </item>
+    <item>
+      <headword id="d0e434">12. Clòimh.</headword>
+      <description>(Againn.)</description>
+    </item>
+    <item>
+      <headword id="d0e443">13. Snàth.</headword>
+      <description>(Againn.)</description>
+    </item>
+    <item>
+      <headword id="d0e452">14. Beart-mheadhoin.</headword>
+      <description>(Againn.)</description>
+    </item>
+    <item>
+      <headword id="d0e461">17. Seòl-coise (E) a th’ againne.</headword>
+      <description>(‘Seòl’ air a fhuaimneachadh goirid.)</description>
+    </item>
+    <item>
+      <headword id="d0e470">18. Casan. (I)</headword>
+      <description>(Againn, sg. ‘cas’.)</description>
+    </item>
+    <item><headword id="d0e478" type="heading" level="h1">6. Yarn and associated apparatus</headword></item>
+    <item>
+      <headword id="d0e483">snàth (E)</headword>
+      <description>Yarn.</description>
+    </item>
+    <item>
+      <headword id="d0e492">ceirsle (I)</headword>
+      <description>Ball of yarn. (Faic M’Ghill Fhinnein ‘ceirtle’.) Air a fhuaimneachadh againne ‘ceile’: a’ cheud ‘e’ mar ‘ai’ ann am ‘faireachdainn’ no ‘e’ ann an ‘cell’ (Beurla).</description>
+    </item>
+    <item>
+      <headword id="d0e501">iarna (I)</headword>
+      <description>Hank.</description>
+    </item>
+    <item>
+      <headword id="d0e510">roilean</headword>
+      <description>Reel. Chan aithne dhomh roilean a thaobh nithean de’n t-seòrsa-sa ach roilean mar a tha againn roimhe a thaobh na cuibhle.</description>
+    </item>
+    <item>
+      <headword id="d0e519">iteachan (E)</headword>
+      <description>Bobbin.</description>
+    </item>
+    <item>
+      <headword id="d0e528">boban</headword>
+      <description>[Bobbin.] Air taobh an ear an eilein agus sìos an Taobh Siar.</description>
+    </item>
+    <item>
+      <headword id="d0e537">piorna (E)</headword>
+      <description>Pirn.</description>
+    </item>
+    <item>
+      <headword id="d0e546">dealgan (I) agus (E)</headword>
+      <description>Spindle. Mu dhealgan chanadh sinn: “’Se dealgan math tha seo.” “Chan eil i cho math ris an t’éile a bh’agam.”</description>
+    </item>
+    <item>
+      <headword id="d0e555">cuigeal (I)</headword>
+      <description>Distaff.</description>
+    </item>
+	<item>
+	  <headword id="d0e564">[winding reel]</headword>
+	  <description>Mur a h-e seo a bhiodh ann: Bhiodh dà thèic aca, agus an uair a bhiodh aon tèice làn, bheireadh iad an tè eile a mach agus chuireadh iad an sàs i. Dheidheadh an tè a bha làn a chur an uair sin ann an clàrag [q.v.] agus dheidheadh tòiseachadh ’ga tachrais.</description>
+	</item>  
+    <item>
+      <headword id="d0e573">clàrag (I)</headword>
+      <description>Mar seo: a’ coimhead oirre bhos a cionn agus bho a taobh. <illustration src="GlasgowMMacLeodwoolillust2.jpg" width="400"/><illustration src="GlasgowMMacLeodwoolillust3.jpg" width="300"/> ’Se seo a bh’againne oirre, ach tha mi deanamh a mach gu’m biodh ‘a’chuibhle-bheag’ aig feadhainn oirre.</description>
+    </item>
+    <item>
+      <headword id="d0e585">cuibhle-bheag (I)</headword>
+      <description>[See clàrag]</description>
+    </item>
+    <item>
+      <headword id="d0e594">crois-iarna (I)</headword>
+      <description>Device for making hanks of yarn. Bha i mar seo shìos. <illustration src="GlasgowMMacLeodwoolillust4.jpg" width="200"/> Deànta de fhiodh. Glé choltach ann an cumadh ri acair eathair.</description>
+    </item>
+    <item>
+      <headword id="d0e605">àireamh</headword>
+      <description>Ri cuairt de’n t-snàth air a’ chrois-iarna [q.v.] chanadh iad àireamh. Bha lorg aca air na h-uibhir àireamhan airson nan nithean fa-leth. Na h-uibhir àireamhan airson plaide, na h-uibhir àireamhan airson siod ’s na h-uibhir àireamhan airson seo. Bha uair a bha lorg agam air an àireamh cheart airson plaide, ach tha sin air chall orm an diugh. (Feuchaibh Nic Neacail.)</description>
+    </item>
+    <item><headword id="d0e613" type="heading" level="h1">7. Dyeing</headword></item>
+    <item>
+      <headword id="d0e618">dath, a’ dath</headword>
+      <description>Dyeing.</description>
+    </item>
+    <item>
+      <headword id="d0e627">le prais (prais-dhath) no le boilear</headword>
+      <description>The process of dyeing.</description>
+    </item>
+	<item>
+	  <headword id="idola239">[obair an datha]</headword>
+	  <description>Chan fhaca mise a riamh móran de obair an datha. Chunna mi na h-uibhir dhe, ach bhithinn a’ cluinntinn bho fheadhainn a thàinig romham.</description>
+	</item>
+    <item>
+      <headword id="d0e645">dath sealastair</headword>
+      <description>Chanainn gur h-e dath uaine a bhiodh an seo. “Briogais dath sealastair, dath rinn mo mhàthair, ’S cha robh na bheireadh bàrr oirr’ an Leòdhas.” Chan eil fhios agam ann an as an t-seileastar a tha iad a’ toirt an t-sealastair.</description>
+    </item>
+    <item>
+      <headword id="d0e654">curpair</headword>
+      <description>Chanainn gur h-ann dearg a bha am fear-sa. Chan eil fhios agam de a bhiodh aca. (Fuaimnich air an aon dòigh ri ‘purple’ (Beurla).)</description>
+    </item>
+    <item>
+      <headword id="d0e663">crotal</headword>
+      <description>Dath crotail. Is ann ruadh, gle ruadh, a bha am fear-sa. Is ann bho chrotal nan clach a bha iad ’ga thabhairt.</description>
+    </item>
+    <item>
+      <headword id="d0e672">guirmean</headword>
+      <description>Is ann gorm a bha am fear-sa. Bho ghuirmean na bùtha.</description>
+    </item>
+    <item>
+      <headword id="d0e681">magenta</headword>
+      <description>Bho dhath na bùtha, tha mi smaoineachadh.</description>
+    </item>
+    <item>
+      <headword id="d0e690">maighistir</headword>
+      <description>Leis a’ ghuirmean [q.v.], bha iad ’ga dheanamh le maighistir agus le na h-uibhir de uisge. Linne guirmean a chanadh iad. “Anns an linne ghuirmein”. Chan eil fhios agam am biodh am maighistir aca ri na dathan eile no nach bitheadh.</description>
+    </item>
+    <item>
+      <headword id="d0e699">prais-dhath</headword>
+      <description>Prais mhór, mhór. 21 galan an tè bu mhotha a chunna mi a riamh. <illustration src="GlasgowMMacLeodwoolillust5.jpg" width="200"/></description>
+    </item>
+    <item>
+      <headword id="d0e709">boilear</headword>
+      <description>Na bu mhotha na prais sam bith. <illustration src="GlasgowMMacLeodwoolillust6.jpg" width="200"/></description>
+    </item>
+	<item>
+	  <headword id="idola240">[note]</headword>
+	  <description>(Feuchaibh Nic Neacail mu ghnothaichean an datha.)</description>
+	</item>
+    <item><headword id="d0e727" type="heading" level="h1">8. Washing after dyeing</headword></item>
+	<item>
+	  <headword id="idola241">[note]</headword>
+	  <description>Cha chreid mi gu bheil ni sam bith as fhiach dhomh a chur sìos mu an seo. Ni ùr sam bith có dhiù. (Feuchaibh Nic Neacail.)</description>
+	</item>
+    <item><headword id="d0e740" type="heading" level="h1">9. Warping</headword></item>
+    <item>
+      <headword id="d0e745">deilbh, a’ deilbh</headword>
+      <description>Warping.</description>
+    </item>
+    <item>
+      <headword id="d0e754">beart-dhealbh (I)</headword>
+      <description><illustration src="GlasgowMMacLeodwoolillust7.jpg" width="500"/>Bha na beartan a chunnaic mise gu math mór. Fìor mhór. Chunna mi feadhainn air an suidheachadh ris a’ bhalla ann an tigh na beart-fhighe agus feadhainn eile fuasgailte air an ceann fhéin. Chan eil ainm sam bith agam airson frèim na beairte ach a’ bheart fhéin. Chan eil agam ach an dà ainm: a’ bheart agus na bacain [q.v.].</description>
+    </item>
+    <item>
+      <headword id="d0e764">bacan (E), na bacain</headword>
+      <description>[See beart-dhealbh]</description>
+    </item>
+    <item><headword id="d0e772" type="heading" level="h1">10. Beaming and tying</headword></item>
+	<item>
+	  <headword id="idola242">[note]</headword>
+	  <description>Tha eagal orm nach dean mi móran air a’ cheann-sa.</description>
+	</item>
+    <item>
+      <headword id="d0e786">a’ cur mu chrann</headword>
+      <description>Beaming and tying.</description>
+    </item>
+    <item>
+      <headword id="d0e795">caoibean (E)</headword>
+      <description>[The first five or six inches of warp uncrossed by the weft at the beginning of the web.] Feuch caoibean. Nuair a bhiodh na mnathan a luadh agus a thigeadh firionnach a steach do an chuideachd chanadh iad: “Nì e caoibean dhuinn.” “Nì Tormod caoibean dhuinn.” (Cha b’ann leis a’ ghruaim a chanadh iad seo.) (Fuaimnich: caoidh' agus bean.)</description>
+    </item>
+    <item>
+      <headword id="d0e804">creiseim (E)</headword>
+      <description>[Changing the arrangement of the threads in the eyes for a new pattern.] Cho fad agus is aithne dhomhsa ’s ann tha seo air a dhèanamh leis a’ chreiseim (faic ‘creiseim’ Dwelly t-d 317). Is ann a’ cur an t-snàth ann an dòigh àraidh air na bacain ud a bha an t-allt (E) a bha gu a bhith air an aodach air a shuidheachadh. ’Se an creiseim a chuala mise air an seo. (Fuaimnich: criseim. Seo mar a tha e againne.)</description>
+    </item>
+	<item>
+	  <headword id="idola243">[crann]</headword>
+      <description>Is e aon uair a riamh a chunnaic mi clò ’ga dheilbh. Agus, rud glé àrraid, chan fhaca mi clò a riamh ’ga chur mu chrann. (Nach bochd nach robh na nithean seo shuas air m’aire ’san Iuchar a dh’fhalbh agus mi air a theinntean aig Calum Og.)</description>
+    </item>
+	<item><headword id="d0e821" type="heading" level="h1">11. Weaving</headword></item>
+    <item>
+      <headword id="d0e826">breabadaireachd (I)</headword>
+      <description>Weaving, the act of weaving.</description>
+	</item>
+	<item>
+	  <headword id="d0e835">fighe (I)</headword>
+	  <description>[Weaving.] Canaidh sinne “a’ fighe”. Mar seo: “C’àit am bheil Tormod?” “Tha e ri fighe.”)</description>
+    </item>
+    <item>
+      <headword id="d0e844">breabadair (E)</headword>
+      <description>Weaver. Cha chan sinn idir “figheadair”.</description>
+    </item>
+    <item>
+      <headword id="d0e853">cura, an cura (E)</headword>
+      <description>Weft.</description>
+    </item>
+    <item>
+      <headword id="d0e862">dlùth, an dlùth (E)</headword>
+      <description>Warp.</description>
+    </item>
+    <item>
+      <headword id="d0e871">an t-aodach (E)</headword>
+      <description>The cloth. A’ tòiseachadh clò (E) ùr, nuair a thig a’ cheud choltas aodaich air, canaidh sinn “Thug mi/e/thu aodach air.”</description>
+    </item>
+	<item>
+	  <headword id="idola244">[note]</headword>
+	  <description>Chan eil ainm sam bith agam airson seo [i.e. the fine waste wool that collects under the loom].</description>
+	</item>
+    <item><headword id="d0e888" type="heading" level="h1">12. Parts of the weaving loom</headword></item>
+	<item>
+	  <headword id="idola245">[note]</headword>
+	  <description>Ag gabhail mar a tha iad aig Dwelly.</description>
+	</item>
+    <item><headword id="d0e901" type="heading" level="h2">[Dealbh 38]</headword></item>
+    <item>
+      <headword id="d0e906">1. Beart. (I)</headword>
+      <description>(‘A’ bheart’ againne air a h-uile cail a th’ann.)</description>
+    </item>
+    <item>
+      <headword id="d0e915">2. Crann snàth, garmainn (I) snàth.</headword>
+      <description>(‘Garmainn-shnàth’ againne. Fuaimnich ‘gormainn’.)</description>
+    </item>
+    <item>
+      <headword id="d0e924">3. Crann aodaich, garmainn (I) aodaich.</headword>
+      <description>(‘Garmainn-aodaich’ againne.)</description>
+    </item>
+    <item>
+      <headword id="d0e933">4. Maide teannaidh.</headword>
+      <description>(Chan eil nì agam.)</description>
+    </item>
+    <item>
+      <headword id="d0e942">5. Acfhuinn, iomallan. (E)</headword>
+      <description>(Sg. ‘Iomall’. ‘Iomallnan’ – mar a bha aig m’ athair bha ‘n’ ann. Mar a chanadh m’ athair e bha e air leth coltach ri ‘iomrallan’.)</description>
+    </item>
+    <item>
+      <headword id="d0e951">6. Ullagan.</headword>
+      <description>(Chan eil nì agam mu an a seo.)</description>
+    </item>
+    <item>
+      <headword id="d0e960">7. Croinn chas, greallagan, cranna cas, cliath, casan, casaichean, Barra, Skye etc.</headword>
+      <description>(‘Sgimileir’ (E), ‘sgimileirean’ againne. Air na beartan-móra bha ceithir sgimileirean.)</description>
+    </item>
+    <item>
+      <headword id="d0e969">8. Spàl. (I)</headword>
+      <description>(‘Spàl’ againne, cuideachd.)</description>
+    </item>
+    <item>
+      <headword id="d0e978">9. Iteachan (E), boban.</headword>
+      <description>(‘Iteachan’ againn an Uig an iar. ‘Boban’ an cearnaidhean eile de’n eilean.)</description>
+    </item>
+    <item>
+      <headword id="d0e987">10. Barran.</headword>
+      <description>(Chan eil nì agam.)</description>
+    </item>
+    <item>
+      <headword id="d0e996">11. Snàth. (E)</headword>
+      <description>(‘Snàth’ againne, cuideachd.)</description>
+    </item>
+    <item>
+      <headword id="d0e1005">12. Slinn. (I)</headword>
+      <description>(‘Slinn’ againne, cuideachd.)</description>
+    </item>
+    <item>
+      <headword id="d0e1014">13. Slinn-chlàr.</headword>
+      <description>(Chan eil nì agam.)</description>
+    </item>
+    <item>
+      <headword id="d0e1023">14. Sliasd, sliasaid.</headword>
+      <description>(Chan eil nì agam.)</description>
+    </item>
+    <item>
+      <headword id="d0e1032">15. Dlùth. (E)</headword>
+      <description>(‘Dlùth’ againne, cuideachd.)</description>
+    </item>
+    <item>
+      <headword id="d0e1041">16. Inneach, inneadh, cuirreadh (Lewis), uachdar (Barra).</headword>
+      <description>(‘Cura’ (E) againne.)</description>
+    </item>
+    <item>
+      <headword id="d0e1050">17. Smèideagan.</headword>
+      <description>(Chan eil nì agam.)</description>
+    </item>
+    <item>
+      <headword id="d0e1059">18. Eige, clò (Barra).</headword>
+      <description>(‘Clò’ (E) againne, cuideachd.)</description>
+    </item>
+    <item>
+      <headword id="d0e1068">19. Garmainn-uchd (Argyll), sliseag-uchd (Hebrides).</headword>
+      <description>(Chan eil nì agam.)</description>
+    </item>
+    <item>
+      <headword id="d0e1077">20. Mogul.</headword>
+      <description>(Chan eil nì agam. Mur a h-e ‘sùil’.)</description>
+    </item>
+    <item>
+      <headword id="d0e1086">21. Sliosan.</headword>
+      <description>(Chan eil nì agam.)</description>
+    </item>
+    <item>
+      <headword id="d0e1095">22. Uchd suidhichte.</headword>
+      <description>(Chan eil nì agam.)</description>
+    </item>
+    <item>
+      <headword id="d0e1104">23. Uchd crochte.</headword>
+      <description>(Chan eil nì agam.)</description>
+    </item>
+    <item><headword id="d0e1112" type="heading" level="h2">Other weaving terms</headword></item>
+    <item>
+      <headword id="d0e1117">Ceithir-chuairt, 4-ply.</headword>
+      <description>(Chuala mi seo.)</description>
+    </item>
+    <item>
+      <headword id="d0e1126">Cuidheall-iteachan. (I)</headword>
+      <description>(Tha e againn.)</description>
+    </item>
+    <item>
+      <headword id="d0e1135">Cuibean. (E)</headword>
+      <description>(Bha seo againn.)</description>
+    </item>
+    <item>
+      <headword id="d0e1144">Dà-fhillt.</headword>
+      <description>(Bha e againn.)</description>
+    </item>
+    <item>
+      <headword id="d0e1153">Dealg.</headword>
+      <description>(Chan eil lorg agam.)</description>
+    </item>
+    <item>
+      <headword id="d0e1162">Eàrradh.</headword>
+      <description>(Chan eil e agam.)</description>
+    </item>
+    <item>
+      <headword id="d0e1171">Fuigheagan. (I)</headword>
+      <description>(Sg. ‘Fuigheag’. Tha e againn.)</description>
+    </item>
+	<item>
+	  <headword id="idola246">[note]</headword>
+	  <description>Na’m biodh Donnchadh MacDhòmhnaill air ceann shìos a’ bhaile againn fhìn beò bheireadh e cuideachadh dhuinn mu chùisean na beairte. Cha deacha làmh a riamh air cùl beairte na b’fheàrr na e air dhòigh sam bith. Bheir mi dhuibh ainm fear a tha beò an diugh a bha ag obair air a’ bheairt mu’n d’thàinig na beartan ùra, na beartan abhtamataiceach: Calum MacMhathain (Calum Og), 6 Aird Uige, Ann an Leòdhas. Bhiodh e ag obair air a’ bheairt còmhla ri a athair. Tha a athair beò fhathast agus e gu bhith ceud bliadhna. “An Leddie” am far-ainm a bh’air. Chanainn gu’m bi na h-ainmeannan Uigeadh aig Calum Og. Is iongantach mur a h-eil mise air feadhainn dhiubh a chall.</description>
+	</item>
+    <item><headword id="d0e1188" type="heading" level="h1">13. Finishing</headword></item>
+    <item>
+      <headword id="d0e1193">air a fhighe (an clò (E))</headword>
+      <description>Finishing.</description>
+    </item>
+    <item>
+      <headword id="d0e1202">an t-ùradh (E) air a thoirt as</headword>
+      <description>Washing of the cloth. Chan eil mi glé chinnteach am bheil mi ceud ’s a’ cheud ceart an seo le ‘ùradh’.</description>
+    </item>
+    <item>
+      <headword id="d0e1211">an clò (E) air a stampadh ann an tuba (I)</headword>
+      <description>Old method of washing or scouring the cloth.</description>
+    </item>
+    <item>
+      <headword id="d0e1220">luadh (E)</headword>
+      <description>Waulking or fulling. Chan e ‘luadhadh’ a chanas sinne idir.</description>
+    </item>
+    <item>
+      <headword id="d0e1229">luaidh</headword>
+      <description>Waulking or fulling (verb). “Luaidh an clò.”</description>
+    </item>
+	<item>
+	  <headword id="idola247">[note]</headword>
+	  <description>Agus a leantainn mar sin anns na tionndaidhean eile.</description>
+	</item>
+    <item>
+      <headword id="d0e1247">tuba (I), tubannan</headword>
+    </item>
+    <item>
+      <headword id="d0e1253">cléith-luaidh (I)</headword>
+      <description>Chan e ‘cliath-luaidh’ a chanas sinn idir. Bha a’ chlèith-luaidh mar seo. <illustration src="GlasgowMMacLeodwoolillust8.jpg" width="300"/> Deànta le bùird agus crotaichean oirre fòidhe. Bhiodh i cho mór (cho fada) agus gu’n suidheadh ceathrar (no barrachd) air gach taobh dhith.</description>
+    </item>
+    <item>
+      <headword id="d0e1264">na mnathan-luaidh</headword>
+      <description>The waulking group.</description>
+    </item>
+	<item>
+	  <headword id="idola248">[àite àraidh airson luaidh]</headword>
+	  <description>Cha robh àite àraidh sam bith againne airson luaidh ach an tigh aig an robh an clò ’san luadh.</description>
+	</item>
+	<item>
+	  <headword id="idola249">[note]</headword>
+	  <description>Chan aithne dhomh ainm sam bith againne airson seo [i.e. piece of wood on which the waulked cloth was tightly wound with a weight on it to press it].</description>
+	</item>
+    <item>
+      <headword id="d0e1291">còrn (E)</headword>
+      <description>Final web of cloth when woven. Gu h-àraidh nuair a bhiodh a h-uile càil deseil: an clò air a luadh ’s air a thiormachadh, ’s mar sin.</description>
+    </item>
+  </items>
+</fieldworkDocument>

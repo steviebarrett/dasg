@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 7/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_NorthUistBRobertsonslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>1980-1983</date>
+  <fieldworker>[self?]</fieldworker>
+  <informant>
+    <nameEnglish>Boyd Robertson</nameEnglish>
+    <origin>[North Uist?]</origin>
+  </informant>
+  <location>North Uist, Lochmaddy</location>
+  <items>
+    <item>
+      <headword id="idp165148048">là-fèille</headword>
+      <description>Quotation: Gheibh e a làithean-fèille. Notes: He’ll get a row, telling off.</description>
+    </item>
+    <item>
+      <headword id="idp165151216">làipseach</headword>
+      <description>Quotation: Thoir dha làipseach mhath. Notes: a big plateful.</description>
+    </item>
+    <item>
+      <headword id="idp165154960">leth(o)ir?</headword>
+      <description>Quotation: Dh’èigh e mach orra as an lethoir. Notes: ?one by one?</description>
+    </item>
+    <item>
+      <headword id="idp165159208">leugan</headword>
+      <description>Quotation: Dh’fhuirich e leugan. Tha leugan bho chunnaic mi e. Notes: ‘ages’.</description>
+    </item>
+    <item>
+      <headword id="idp165134728">lorg</headword>
+      <description>Quotation: Cha lorgainn idir e. Bha i ga lorg fhèin. Notes: ‘blame’.</description>
+    </item>
+    <item>
+      <headword id="idp165132280">meadhon-là</headword>
+      <description>Quotation: Tha e sa mheadhon-là aige. Notes: used of a child supposed to be sleeping – as wide awake as though it were mid-day.</description>
+    </item>
+    <item>
+      <headword id="idp165130840">mosgainn</headword>
+      <description>Quotation: Peant brèagh air maide mosgainn.</description>
+    </item>
+    <item>
+      <headword id="idp165129112">teilcheart</headword>
+      <description>Quotation: Bha e air a theilcheart. Notes: ‘utterly exhausted’.</description>
+    </item>
+    <item>
+      <headword id="idp165207304">òrdanachadh</headword>
+      <description>Quotation: Bha mi ’g òrdanachadh gun tigeadh tu. Notes: hoping you would come.</description>
+    </item>
+    <item>
+      <headword id="idp165205648">suim</headword>
+      <description>Quotation: Chaill mi mo shuim. Notes: I lost all sense of time.</description>
+    </item>
+    <item>
+      <headword id="idp165203848">siubhal</headword>
+      <description>Quotation: Ghabh e na shiubhail e. Notes: He took the hint.</description>
+    </item>
+    <item>
+      <headword id="idp165202336">siutal</headword>
+      <description>Quotation: Siutal de bhoireannach. Notes: ‘a galivant.’</description>
+    </item>
+    <item>
+      <headword id="idp165200536">smùid</headword>
+      <description>Quotation: Cuiridh sinn smùid a’ mhoncaidh asda.</description>
+    </item>
+    <item>
+      <headword id="idp165199168">snaidheadh</headword>
+      <description>Quotation: Nach i tha snaidheadh ris an uair. Notes: cutting it fine.</description>
+    </item>
+    <item>
+      <headword id="idp165196936">spitheag</headword>
+      <description>Quotation: A’ caitheamh spitheagan air na cearcan. Notes: raking up muck about someone.</description>
+    </item>
+    <item>
+      <headword id="idp165195280">staigh</headword>
+      <description>Quotation: Thig e staigh air. Notes: He’ll suffer for it yet.</description>
+    </item>
+    <item>
+      <headword id="idp165194200">stall</headword>
+      <description>Notes: site (for a house).</description>
+    </item>
+    <item>
+      <headword id="idp165192112">strac</headword>
+      <description>Quotation: Chan fhuiling e strac fuar no teth. Notes: Can’t endure criticism.</description>
+    </item>
+    <item>
+      <headword id="idp165190456">uilinn</headword>
+      <description>Quotation: Cha chuir e air uilinn e. Notes: It won’t take much effort.</description>
+    </item>
+    <item>
+      <headword id="idp165188800">ùireadh</headword>
+      <description>Quotation: Bhogadh an t-ùireadh ann. Notes: ‘He was easily persuaded.’</description>
+    </item>
+    <item>
+      <headword id="idp165187720">uisge</headword>
+      <description>Quotation: Tha e suas an t-uisge. Notes: He’s heading for success.</description>
+    </item>
+    <item>
+      <headword id="idp165186064">aisling</headword>
+      <description>Quotation: Nach i chunnaic an aisling! Notes: How her circumstances have deteriorated!</description>
+    </item>
+    <item>
+      <headword id="idp165184120">batachadh</headword>
+      <description>Quotation: Bha i batachadh air. Notes: ‘She was pestering him.’</description>
+    </item>
+    <item>
+      <headword id="idp165182176">buird-an-rathaid</headword>
+      <description>Quotation: Bha an càr am buird-an-rathaid. Notes: ‘On the verge of the road.’</description>
+    </item>
+    <item>
+      <headword id="idp165180376">bun-cluaise</headword>
+      <description>Quotation: ’S iomadh fear a b’àirde bun-cluaise. Notes: Many a man came from a better background.</description>
+    </item>
+    <item>
+      <headword id="idp165178720">bun-obair</headword>
+      <description>Quotation: Tha bun-obair agam a bhith dèanamh sin. Notes: ‘It’s pointless for me to be doing that.’</description>
+    </item>
+    <item>
+      <headword id="idp165177208">cath-ghoil</headword>
+      <description>Quotation: Tha an coire a’ cath-ghoil. Notes: boiling over.</description>
+    </item>
+    <item>
+      <headword id="idp165175336">corra-chnàmh</headword>
+      <description>Quotation: Bha i air a corra-chnàmh. Notes: ‘Squatting.’</description>
+    </item>
+    <item>
+      <headword id="idp165168280">corra-mheur</headword>
+      <description>Quotation: Na cuir do chorra-mheur air.</description>
+    </item>
+    <item>
+      <headword id="idp165171664">cuallach (-aich)</headword>
+      <description>Quotation: Carson a tha sin a chuallaich mu d’amhaich? Notes: Why are you so muffled up?</description>
+    </item>
+    <item>
+      <headword id="idp115737752">cuid</headword>
+      <description>Quotation: Cha robh a chuid san fheur. Notes: He wasn’t meant to live.</description>
+    </item>
+    <item>
+      <headword id="idp115739408">cuir</headword>
+      <description>Quotation: Cha chuirinn ite ás. Notes: I couldn’t catch up with him.</description>
+    </item>
+    <item>
+      <headword id="idp115741064">cuir</headword>
+      <description>Quotation: Chuir e air gu robh urad ann. Notes: It surprised him…</description>
+    </item>
+    <item>
+      <headword id="idp115742720">culaidh-sheachnaidh</headword>
+      <description>Quotation: ’Se culaidh-sheachnaidh a th’ann. Notes: He’s a person to be avoided.</description>
+    </item>
+    <item>
+      <headword id="idp115744376">earball-sàile</headword>
+      <description>Quotation: Bidh ’n còmhnaidh earball-sàile air a’ chuid obrach. Notes: His work is always unfinished.</description>
+    </item>
+    <item>
+      <headword id="idp115746032">eòrna na gainmh’chadh</headword>
+      <description>Quotation: Tha sin coltach ri eòrna na gainmh’chadh. Notes: You’ll have to wait a long time for that.</description>
+    </item>
+    <item>
+      <headword id="idp115747688">gobag</headword>
+      <description>Notes: a cheeky upstart.</description>
+    </item>
+    <item>
+      <headword id="idp115749200">gocan</headword>
+      <description>Quotation: Chan eil ann ach gocan an naire. Notes: a cheeky so-and-so.</description>
+    </item>
+    <item>
+      <headword id="idp115750856">goic</headword>
+      <description>Quotation: Chaidh a ghoiceadh a-mach. Notes: unceremoniously thrown out.</description>
+    </item>
+    <item>
+      <headword id="idp115752512">goigean</headword>
+      <description>Quotation: Chan eil ann ach goigean beag. Notes: a wee nyaff.</description>
+    </item>
+	<item><headword id="idola999" type="heading" level="h1">B. Robertson’s Collection (of Idioms).</headword></item>
+    <item>
+      <headword id="idp115755176">maide</headword>
+      <description>Quotation: Cha chuireadh maide nam pàirt. Notes: ‘He couldn’t hold a candle to them.’</description>
+    </item>
+    <item>
+      <headword id="idp115756832">màl</headword>
+      <description>Quotation: Tha mi nam mhàl. Notes: (Lewis) ‘I’m really busy.’</description>
+    </item>
+    <item>
+      <headword id="idp115758488">rud</headword>
+      <description>Quotation: Chuir e rud orm. Notes: It offended me. (?provenance)</description>
+    </item>
+    <item>
+      <headword id="idp115760144">obair</headword>
+      <description>Quotation: Fhuair thu obair! Notes: (Skye) ‘Some daft idea that!’</description>
+    </item>
+    <item>
+      <headword id="idp115761800">pìob</headword>
+      <description>Quotation: Bha ’m pàisd a’ cur suas na pìoba. Notes: ‘setting up a wail’. (?provenance).</description>
+    </item>
+    <item>
+      <headword id="idp115763456">siaradh</headword>
+      <description>Quotation: Thug sinn siaradh na dhèidh. Notes: We chased after it. (?provenance)</description>
+    </item>
+    <item>
+      <headword id="idp115765256">bainne</headword>
+      <description>Quotation: (Lewis?) Chan iarradh e ’m bainne leis.</description>
+    </item>
+    <item>
+      <headword id="idp115766768">bonnach</headword>
+      <description>Quotation: Thainig am bonnach àbhaisteach a-rithist. Notes: ?</description>
+    </item>
+    <item>
+      <headword id="idp115768424">briob-losgadh</headword>
+      <description>Quotation: Bha mi air mo bhriob-losgadh (? priob-losgadh). Notes: ‘I was on tenterhooks.’</description>
+    </item>
+    <item>
+      <headword id="idp115770152">bròn</headword>
+      <description>Quotation: Chan eil bròn air a’ mhuir. Notes: (Lewis?) The sea in calm?</description>
+    </item>
+    <item>
+      <headword id="idp115771808">cas</headword>
+      <description>Quotation: Thàinig na briathran sin air an cois. Notes: (Lewis?) These words came true. (?)</description>
+    </item>
+    <item>
+      <headword id="idp115773464">cas</headword>
+      <description>Quotation: Bha iad air dhroch chasan. Notes: ?</description>
+    </item>
+    <item>
+      <headword id="idp115775120">ceann</headword>
+      <description>Quotation: Cha robh e ach a’ cur seachad do cheann. Notes: (Lewis?) It occupied you for a time.</description>
+    </item>
+    <item>
+      <headword id="idp115776776">duda-leum</headword>
+      <description>Quotation: Thug e aon duda-leum (?dubh de-) as. Notes: (Lewis?) He gave one almighty jump.</description>
+    </item>
+    <item>
+      <headword id="idp115778432">faobhar</headword>
+      <description>Quotation: ’Sann le faobhar nan alt a dh’fhalbh e. Notes: He left very reluctantly.</description>
+    </item>
+  </items>
+</fieldworkDocument>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 1/4/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Word-lists_BragarPrimarySchoolmisc" docType="wordlist" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>27/1/1982</date>
+  <fieldworker>Finlay J. MacDonald</fieldworker>
+  <informant>
+    <nameEnglish>Bragar Primary School</nameEnglish>
+  </informant>
+  <location>Lewis, Bragar</location>
+  <items>
+    <item>
+      <headword id="idola426">[note]</headword>
+      <description>Seo agad caigeann beag eile de dh’fhaclan a thainig asteach. (...)</description>
+	</item>
+    <item>
+      <headword id="idp39166120">stallacaire (stalcair)</headword>
+      <description>blockhead.</description>
+    </item>
+    <item>
+      <headword id="idp39178432">loisdineach</headword>
+      <description>guest.</description>
+    </item>
+    <item>
+      <headword id="idp39179944">dèarnadair</headword>
+      <description>palmist.</description>
+    </item>
+    <item>
+      <headword id="idp39181456">cràiteag</headword>
+      <description>niggardly woman.</description>
+    </item>
+    <item>
+      <headword id="idp39182968">deaguil</headword>
+      <description>twilight.</description>
+    </item>
+    <item>
+      <headword id="idp39184480">flamarach</headword>
+      <description>glutton.</description>
+    </item>
+    <item>
+      <headword id="idp39185992">sgrogaid</headword>
+      <description>old hat or cap.</description>
+    </item>
+    <item>
+      <headword id="idp39187504">dileag</headword>
+      <description>blossom or flower.</description>
+    </item>
+    <item>
+      <headword id="idp39189016">deabastach</headword>
+      <description>bawdy.</description>
+    </item>
+    <item>
+      <headword id="idp39190528">sùmhlachadh</headword>
+      <description>syllabus.</description>
+    </item>
+  </items>
+</fieldworkDocument>

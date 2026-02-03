@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 1 5 13 -->
+<fieldworkDocument docId="CattleandSheep_DunoonJMacLeansheep" docType="questionnaire" subType="Sheep">
+  <title>Caoraich / Sheep</title>
+  <fieldworker>[self]</fieldworker>
+  <informant>
+    <nameEnglish>John MacLean</nameEnglish>
+    <nameGaelic>Iain Mac Illeathain </nameGaelic>
+    <age>48</age>
+    <origin>Barra</origin>
+  </informant>
+  <location>Dunoon</location>
+  <!-- illustration -->
+  <items>
+    <item><headword id="d0e34" type="heading" level="h1">1. Different stages in the growth of sheep (female)</headword></item>
+    <item><headword id="d0e38" type="heading" level="h2">(female)</headword></item>
+    <item>
+      <headword id="d0e43">ogan</headword>
+    </item>
+    <item>
+      <headword id="d0e49">uan</headword>
+    </item>
+    <item>
+      <headword id="d0e55">bliadhnach</headword>
+    </item>
+    <item>
+      <headword id="d0e61">othaisg</headword>
+    </item>
+    <item>
+      <headword id="d0e67">caora</headword>
+    </item>
+    <item>
+      <headword id="d0e73">caora sheasg</headword>
+    </item>
+    <item>
+      <headword id="d0e79">croca or crocsa</headword>
+    </item>
+    <item><headword id="d0e84" type="heading" level="h2">(male)</headword></item>
+    <item>
+      <headword id="d0e89">ogan</headword>
+    </item>
+    <item>
+      <headword id="d0e95">uan</headword>
+    </item>
+    <item>
+      <headword id="d0e101">bliadhnach</headword>
+    </item>
+    <item>
+      <headword id="d0e107">readha</headword>
+    </item>
+    <item>
+      <headword id="d0e113">rùda</headword>
+    </item>
+    <item>
+      <headword id="d0e119">dionag</headword>
+      <description>two year old female. Heard this word in the Mallaig area and [it] is equivalent to ‘othaisg’ in Barra.</description>
+    </item>
+    <item><headword id="d0e127" type="heading" level="h1">2. Different stages in the growth of sheep (male)</headword></item>
+    <item><headword id="d0e131" type="heading" level="h1">3. Different stages in the growth of the castrated male</headword></item>
+    <item>
+      <headword id="d0e136">molt</headword>
+    </item>
+    <item><headword id="d0e141" type="heading" level="h1">4. Sheep’s appearance</headword></item>
+    <item>
+      <headword id="d0e146">caora bhan</headword>
+    </item>
+    <item>
+      <headword id="d0e152">caora dhubh</headword>
+    </item>
+    <item>
+      <headword id="d0e158">dubh-cheannach</headword>
+    </item>
+    <item>
+      <headword id="d0e164">caora mhaol</headword>
+    </item>
+    <item>
+      <headword id="d0e170">leth-adhairc</headword>
+    </item>
+    <item>
+      <headword id="d0e176">caora Nollag</headword>
+    </item>
+    <item><headword id="d0e181" type="heading" level="h1">5. Miscellaneous</headword></item>
+    <item>
+      <headword id="d0e186">piatan</headword>
+      <description>pet.</description>
+    </item>
+    <item>
+      <headword id="d0e195">ruicke (reige)</headword>
+      <description>partly castrated.</description>
+    </item>
+    <item><headword id="d0e203" type="heading" level="h1">6. Feeding and grazing</headword></item>
+    <item>
+      <headword id="d0e208">rathad nan caorach</headword>
+    </item>
+    <item>
+      <headword id="d0e214">frith-rathad</headword>
+    </item>
+    <item><headword id="d0e219" type="heading" level="h1">7. Handling of sheep</headword></item>
+    <item>
+      <headword id="d0e224">cartadh a bhaile</headword>
+      <description>driving to the hills from the crofts.</description>
+    </item>
+    <item>
+      <headword id="d0e233">crò-adh</headword>
+    </item>
+    <item>
+      <headword id="d0e239">deagh chro</headword>
+    </item>
+    <item>
+      <headword id="d0e245">fang</headword>
+    </item>
+    <item>
+      <headword id="d0e251">cro nan uan</headword>
+    </item>
+    <item>
+      <headword id="d0e257">rùsgadh</headword>
+    </item>
+    <item>
+      <headword id="d0e263">duppadh</headword>
+    </item>
+    <item>
+      <headword id="d0e269">duppar</headword>
+    </item>
+    <item>
+      <headword id="d0e275">comharrachadh</headword>
+    </item>
+    <item>
+      <headword id="d0e281">gearradh</headword>
+    </item>
+	<item>
+      <headword id="d0e287">spothadh</headword>
+    </item>
+    <item>
+      <headword id="d0e293">ciosa, ciosa, ciosa</headword>
+      <description>call to a lamb. Heard Kishmul Castle built on the rock Steinn was derived from ciosa-maol – enough growth there to support one hornless pet lamb.</description>
+    </item>
+    <item>
+      <headword id="d0e302">an coimhead</headword>
+      <description>watching that no sheep come in through the hill fence after the crops are sown.</description>
+	</item>
+	<item><headword id="d0e310" type="heading" level="h2">[commands given to a sheep-dog]</headword></item>
+    <item>
+      <headword id="d0e315">Beir orra</headword>
+    </item>
+    <item>
+      <headword id="d0e321">’Stigh iad</headword>
+    </item>
+    <item>
+      <headword id="d0e327">Mach iad</headword>
+    </item>
+    <item>
+      <headword id="d0e333">Sud iad</headword>
+    </item>
+    <item>
+      <headword id="d0e339">Cul mo chois</headword>
+    </item>
+    <item>
+      <headword id="d0e345">Socair</headword>
+    </item>
+    <item>
+      <headword id="d0e351">Sios</headword>
+    </item>
+    <item><headword id="d0e356" type="heading" level="h1">8. Apparatus</headword></item>
+    <item>
+      <headword id="d0e361">ceangal</headword>
+    </item>
+    <item>
+      <headword id="d0e367">teadhair</headword>
+    </item>
+    <item>
+      <headword id="d0e373">ciopain</headword>
+    </item>
+    <item>
+      <headword id="d0e379">udalan</headword>
+      <description>
+        <illustration src="DunoonJMacLeansheepillust1.jpg" width="200"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e390">caigeann</headword>
+	  <description>[See udalan.]</description>
+    </item>
+    <item><headword id="d0e398" type="heading" level="h1">9. Diseases</headword></item>
+	<item><headword id="d0e402" type="heading" level="h2">diseases of the skin affecting the wool; warts, swellings, spots; ticks found in wool, worms in the skin</headword></item>
+    <item>
+      <headword id="d0e407">mial-chaorach</headword>
+    </item>
+    <item>
+      <headword id="d0e413">a chroidheag</headword>
+    </item>
+    <item>
+      <headword id="d0e419">a chuileag</headword>
+    </item>
+    <item><headword id="d0e424" type="heading" level="h2">diseases of the head, neck and throat</headword></item>
+    <item>
+      <headword id="d0e429">at-sclopan</headword>
+      <description>(throat).</description>
+    </item>
+    <item>
+      <headword id="d0e438">an dalladh</headword>
+      <description>blindness.</description>
+    </item>
+    <item><headword id="d0e446" type="heading" level="h2">diseases of the internal organs including digestive upsets</headword></item>
+    <item>
+      <headword id="d0e451">spùt no bhuinneach</headword>
+    </item>
+    <item><headword id="d0e456" type="heading" level="h1">10. Parts of the body</headword></item>
+    <item>
+      <headword id="d0e461">ceann</headword>
+    </item>
+    <item>
+      <headword id="d0e467">amhaich</headword>
+    </item>
+    <item>
+      <headword id="d0e473">suil</headword>
+      <description>The Raven’s call: Suil caora, suil caora / Càite, càite / ’Sa làthaich ’sa làthaich</description>
+    </item>
+    <item>
+      <headword id="d0e482">beul</headword>
+    </item>
+    <item>
+      <headword id="d0e488">cloimh</headword>
+    </item>
+    <item>
+      <headword id="d0e494">creiceann</headword>
+    </item>
+    <item>
+      <headword id="d0e500">adhraic</headword>
+    </item>
+    <item>
+      <headword id="d0e506">lurg</headword>
+      <description>The sheep’s wish: Gun mo lurg a bhristeadh / ’S gun mo chneamh a chur do’n teine.</description>
+    </item>
+    <item>
+      <headword id="d0e515">casan toisich</headword>
+    </item>
+    <item>
+      <headword id="d0e521">casan deiridh</headword>
+    </item>
+    <item>
+      <headword id="d0e527">ugh</headword>
+    </item>
+    <item>
+      <headword id="d0e533">sinnean</headword>
+    </item>
+    <item>
+      <headword id="d0e539">sgamhan</headword>
+    </item>
+    <item>
+      <headword id="d0e545">fuil</headword>
+    </item>
+    <item>
+      <headword id="d0e551">mionach</headword>
+    </item>
+    <item>
+      <headword id="d0e557">dumalas</headword>
+    </item>
+    <item>
+      <headword id="d0e563">geir</headword>
+    </item>
+    <item><headword id="d0e568" type="heading" level="h1">11. Lambing</headword></item>
+    <item>
+      <headword id="d0e573">reathachas</headword>
+    </item>
+    <item><headword id="d0e578" type="heading" level="h1">12. Miscellaneous</headword></item>
+    <item>
+      <headword id="d0e583">caora ghibeach</headword>
+    </item>
+    <item>
+      <headword id="d0e589">stupan</headword>
+    </item>
+  </items>
+</fieldworkDocument>

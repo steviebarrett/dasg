@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 7/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_MullMrandMrsMacKinnonslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>1967</date>
+  <informant>
+    <nameEnglish>Mr and Mrs Angus MacKinnon</nameEnglish>
+  </informant>
+  <location>Mull</location>
+  <items>
+    <item>
+      <headword id="idp119242696">mend</headword>
+      <description>Quotation: Am mend thu e? Notes: Will you manage it? (Attributed to Islay usage by Angus MacKinnon.)</description>
+    </item>
+    <item>
+      <headword id="idp119244352">sgrog</headword>
+      <description>Quotation: Tog sgrog. Notes: Eat up! Have something! (Attributed to Islay usage by Angus MacKinnon.)</description>
+    </item>
+    <item>
+      <headword id="idp119246008">sneachda</headword>
+      <description>Quotation: sneachda biorach. Notes: small-flaked, powdery snow.</description>
+    </item>
+    <item>
+      <headword id="idp119247664">bronagail</headword>
+      <description>Quotation: Dé bhronagail a th’ort? Notes: muttering.</description>
+    </item>
+    <item>
+      <headword id="idp119249320">clàdan</headword>
+      <description>Notes: large-flaked snow.</description>
+    </item>
+  </items>
+</fieldworkDocument>

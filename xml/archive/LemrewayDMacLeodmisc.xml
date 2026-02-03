@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 11 9 14 -->
+<!-- illustration -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="AJSmith_LemrewayDMacLeodmisc" docType="wordlist" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>September 1972</date>
+  <fieldworker>A. J. Smith</fieldworker>
+  <informant>
+    <nameEnglish>D. MacLeod</nameEnglish>
+  </informant>
+  <location>[Lewis], S. Lochs, Lemreway</location>
+  <items>
+    <item>
+      <headword id="idp118776768">slinnteach</headword>
+      <description>[ʃlʹɤ̃ĩnʹtʹɑx] Note: long thin pieces of wood laid on top of the “taobhain” going from the “tobhta” to the “gath-droma”.</description>
+    </item>
+    <item>
+      <headword id="idp118779936">maide-feannaig</headword>
+      <description>Note: the piece of wood protruding from the thatch at the end of the “gath-droma”, round which the thatching rope went to cover the end of the house.</description>
+    </item>
+    <item>
+      <headword id="idp118725864">dileadh</headword>
+      <description>[dʹıləɣ] Note: a drain dug down the centre of the house floor and covered with flat stones. The outlet was at the end of the byre.</description>
+    </item>
+    <item>
+      <headword id="idp118826160">toll-lodain</headword>
+      <description>[t̪oɫɔd̪ɑ̃nʹ] Note: the outlet in the wall at the end of the byre from the “dileadh” [q.v.], the drain down through the house.</description>
+    </item>
+    <item>
+      <headword id="idp118742928">darus-an-tallain</headword>
+      <description>[sic] Note: the door inside the main door [sic] of the blackhouse, leading to the living room.</description>
+    </item>
+    <item>
+      <headword id="idp118801536">fara-dhruim</headword>
+      <description>[fɑɾɑɣɾəm] Note: piece of wood put on the keel of a boat when worn.</description>
+    </item>
+    <item>
+      <headword id="idp118738536">ceanna-chnaigh</headword>
+      <description>[cɑ̃n̪ɑ̃xɾɑ̃ĩ] Note: the brackets at the ends of the thwarts.</description>
+    </item>
+    <item>
+      <headword id="idp118715784">béirear</headword>
+      <description>[be:ɾɑð] Quot.: “am béirear”. Note: the strip of wood on which the ends of the thwarts rested.</description>
+    </item>
+    <item>
+      <headword id="idp118714416">raing</headword>
+      <description>[rɛ̃ŋ] Quot.: na rangan [rɑ̃ɣəṉ]. Note: rib in a boat.</description>
+    </item>
+    <item>
+      <headword id="idp118769928">ùrlar</headword>
+      <description>Quot.: na h-ùrlair. Note: cross-piece in a boat.</description>
+    </item>
+    <item>
+      <headword id="idp118774896">tùc</headword>
+      <description>[t̪u̟:k] Note: plug in a boat.</description>
+    </item>
+    <item>
+      <headword id="idp118774176">toll</headword>
+      <description>Quot.: toll na tùc. Note: plughole in a boat.</description>
+    </item>
+    <item>
+      <headword id="idp119131296">taoim</headword>
+      <description>[t̪ɤım] Note: water lying in a boat.</description>
+    </item>
+    <item>
+      <headword id="idp119099400">taoman</headword>
+      <description>Note: baler in a boat.</description>
+    </item>
+    <item>
+      <headword id="idp119089680">cuairt</headword>
+      <description>Quot.: (1) a’ chuairt dheiridh. (2) a’ chuairt thoisich. Note: (1) brace-stick in the stern of a boat. (2) brace-stick in the stem of a boat.</description>
+    </item>
+    <item>
+      <headword id="idp119128704">aparan</headword>
+      <description>Note: apron in a boat.</description>
+    </item>
+    <item>
+      <headword id="idp119084640">falmadair</headword>
+      <description>Note: tiller.</description>
+    </item>
+    <item>
+      <headword id="idp119115528">iarunn-stiùireach</headword>
+      <description>Note: rudder iron.</description>
+    </item>
+    <item>
+      <headword id="idp119084208">sòla</headword>
+      <description>Note: plural sòlaichean. Flooring in a boat.</description>
+    </item>
+    <item>
+      <headword id="idp119109480">it</headword>
+      <description>[ĩtʹ] Note: the splicing of two planks in a boat. </description>
+    </item>
+    <item>
+      <headword id="idp119092560">liadh</headword>
+      <description>[lʹıɤɣ] Note: oar-blade.</description>
+    </item>
+    <item>
+      <headword id="idp119128272">dòrn</headword>
+      <description>Note: oar handle.</description>
+    </item>
+    <item>
+      <headword id="idp119092416">cnag</headword>
+      <description>Note: thole-pin.</description>
+    </item>
+    <item>
+      <headword id="idp119107032">bac</headword>
+      <description>[bɑk] Note: plural baic [bɛc]. Strip of wood put on gunwale to prevent chafing by the oar.</description>
+    </item>
+    <item>
+      <headword id="idp119083632">crot</headword>
+      <description>[kɾɔt̪] Note: piece of wood put on oar to prevent chafing. Usually four, covering all sides of the oar.</description>
+    </item>
+    <item>
+      <headword id="idp119118552">puilbhear</headword>
+      <description>[pu̟lu̟vɑð] Quot.: puilbhear mór de dhuine. Note: big heavily-built man.</description>
+    </item>
+    <item>
+      <headword id="idp119090760">farasach</headword>
+      <description>Quot.: “na farasaich”. Note: applied to tripod of sticks on top of which a haycock is built. Recent innovation here. Don’t know the origin of the term.</description>
+    </item>
+    <item>
+      <headword id="idp119118048">talamhaich</headword>
+      <description>Quot.: “clach air talamhachadh”. Note: a stone which is embedded (naturally) in the ground.</description>
+    </item>
+  </items>
+</fieldworkDocument>

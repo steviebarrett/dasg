@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 1 8 14 -->
+<fieldworkDocument docId="AOHenley_WestKilbrideDMacIsaacmisc" docType="wordlist" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>[1987-88]</date>
+  <fieldworker personId="ohenleya">A. O’Henley</fieldworker>
+  <note>[NOTES: some notes added (most probably by K. D. MacDonald?). See below for details.]</note>
+  <informant>
+    <nameEnglish>Donald MacIsaac</nameEnglish>
+  </informant>
+  <location>South Uist, West Kilbride</location>
+  <items>
+    <item>
+      <headword id="idp112477504">bualadh an t-sùlaire</headword>
+      <description>collective name for the dive of a gannet.</description>
+    </item>
+    <item>
+      <headword id="idp112455616">drùim arc</headword>
+      <description>float rope. [NOTES: ‘arc’ corrected to ‘àrc’.]</description>
+    </item>
+    <item>
+      <headword id="idp112552096">buidhe ròp</headword>
+      <description>buoy rope.</description>
+    </item>
+    <item>
+      <headword id="idp112484992">solus a’ chruinn</headword>
+      <description>mast light.</description>
+    </item>
+    <item>
+      <headword id="idp112449136">solus seòlaidh</headword>
+      <description>sail light.</description>
+    </item>
+    <item>
+      <headword id="idp112506304">pligainean</headword>
+      <description>flickers of light. [NOTES: note added above the first ‘a’ in ‘pligainean’ – e.]</description>
+    </item>
+    <item>
+      <headword id="idp112547128">dalladh gaoithe</headword>
+      <description>a stiff blowing wind.</description>
+    </item>
+    <item>
+      <headword id="idp112460800">a’ gearradh a chèile</headword>
+      <description>boats hitting into each other due to poor lighting.</description>
+    </item>
+    <item>
+      <headword id="idp112533736">[oidhirpeach]</headword>
+      <description>“Bha daoine oidhirpeach.” – reference to people’s resourcefulness and inventiveness.</description>
+    </item>
+    <item>
+      <headword id="idp112513576">sùgh na dallag dhubh</headword>
+      <description>oil of a young dogfish used as a healing substance.</description>
+    </item>
+    <item>
+      <headword id="idp112454896">[streacadh]</headword>
+      <description>Bàta a’ streacadh air a’ mhuir – a boat ploughing its way through the sea.</description>
+    </item>
+    <item>
+      <headword id="idp112504720">bloinid sgadan</headword>
+      <description>flabby inferior herring.</description>
+    </item>
+    <item>
+      <headword id="idp112483048">fodhnachgain</headword>
+      <description>what is responsible for something, i.e. “Chan eil fiosam dè a tha air fodhnachgain do’n duine bhochd sin.”</description>
+    </item>
+    <item>
+      <headword id="idp112461808">snaim rathad</headword>
+      <description>where two or more roads join up.</description>
+    </item>
+    <item>
+      <headword id="idp112452592">co chosnaich</headword>
+      <description>fellow worker.</description>
+    </item>
+    <item>
+      <headword id="idp112497160">an t-alltapadh</headword>
+      <description>a mishap.</description>
+    </item>
+    <item>
+      <headword id="idp112539640">[lasaich]</headword>
+      <description>Cha do lasaich e. – he did not stop, e.g. until he reached the house.</description>
+    </item>
+    <item>
+      <headword id="idp112508608">roidire</headword>
+      <description>taking a run and a jump at something, e.g. jumping into a large load of hay.</description>
+    </item>
+    <item>
+      <headword id="idp112542808">[glas]</headword>
+      <description>“Ma chliath thusa na threabh mise bidh thu fhein gu math glas.”</description>
+    </item>
+    <item>
+      <headword id="idp112520704">ceathramh deiridh</headword>
+      <description>hindquarters.</description>
+    </item>
+    <item>
+      <headword id="idp112434088">breisleig</headword>
+      <description>turmoil, confusion.</description>
+    </item>
+    <item>
+      <headword id="idp112467640">iollach piobaireachd</headword>
+      <description>cry, skirl of the pipes.</description>
+    </item>
+    <item>
+      <headword id="idp117529784">[neart]</headword>
+      <description>Bha e an treun a neirt. – he was at his peak.</description>
+    </item>
+    <item>
+      <headword id="idp117531296">spuachlach</headword>
+      <description>applied to a young boy, e.g. “Bha e na spuachlach balaich.” Similar to ‘cnabach de bhalach’.</description>
+    </item>
+    <item>
+      <headword id="idp117533096">gu dubhlanach</headword>
+      <description>defiantly. “Sheas e gu dubhlanach an aghaidh a namhaid.”</description>
+    </item>
+    <item>
+      <headword id="idp117535616">mithealach</headword>
+      <description>fragile? As in “na paipearan mithealach”.</description>
+    </item>
+    <item>
+      <headword id="idp117537128">caoinachadh [sic]</headword>
+      <description>mellow. As in “Bha e air caoinachadh le aois.”</description>
+    </item>
+    <item>
+      <headword id="idp117538640">sgalag</headword>
+      <description>farm servant.</description>
+    </item>
+    <item>
+      <headword id="idp117540152">bristeadh muinntireis</headword>
+      <description>breaking ties with your home and your district.</description>
+    </item>
+    <item>
+      <headword id="idp117541664">fathamas</headword>
+      <description>reprieve, e.g. “Cha ruig thu leas dùil a bhith agad le fathamas bhuam sa.”</description>
+    </item>
+    <item>
+      <headword id="idp117543320">peighrid</headword>
+      <description>a blow given with the hand.</description>
+    </item>
+  </items>
+</fieldworkDocument>
+

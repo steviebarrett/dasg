@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 13 4 14 -->
+<fieldworkDocument docId="TireeandMull_MullBunessanWMacDonaldlobster" docType="questionnaire" subType="Lobster-fishing">
+  <title>Iasgach a’ Ghiomaich / Lobster-Fishing</title>
+  <fieldworker>[Alan Boyd]</fieldworker>
+  <note>[NOTES: one word contributed by David MacClounnan from Tiree. See below for details.]</note>
+  <informant>
+    <nameEnglish>William MacDonald</nameEnglish>
+    <nameGaelic>Uilleam Dòmhnallach </nameGaelic>
+    <age>73</age>
+    <origin>An Ros Muileach [Ross of Mull]</origin>
+  </informant>
+  <location>Muile, Bùn Easain [Mull, Bunessan]</location>
+  <items>
+    <item><headword id="d0e35" type="heading" level="h1">The Lobster</headword></item>
+    <item>
+      <headword id="d0e40">giomach fìreann</headword>
+      <description>male lobster.</description>
+    </item>
+    <item>
+      <headword id="d0e49">giomach boireann</headword>
+      <description>female lobster.</description>
+    </item>
+    <item>
+      <headword id="d0e58">spogan</headword>
+      <description>claws.</description>
+    </item>
+    <item>
+      <headword id="d0e67">spog mhór</headword>
+      <description>large claw.</description>
+    </item>
+    <item>
+      <headword id="d0e76">siosar</headword>
+      <description>large claw.</description>
+    </item>
+    <item>
+      <headword id="d0e85">spog bheag</headword>
+      <description>small claw.</description>
+    </item>
+    <item>
+      <headword id="d0e94">ceann</headword>
+      <description>head.</description>
+    </item>
+    <item>
+      <headword id="d0e103">giuran</headword>
+      <description>gills.</description>
+    </item>
+    <item>
+      <headword id="d0e112">urball (m)</headword>
+      <description>tail.</description>
+    </item>
+    <item>
+      <headword id="d0e121">bogag (f) bogagan (pl)</headword>
+      <description>soft-shelled lobster.</description>
+    </item>
+    <item>
+      <headword id="d0e130">slige</headword>
+      <description>shell-cast.</description>
+    </item>
+    <item>
+      <headword id="d0e139">bomar (m)</headword>
+      <description>lobster with both claws missing. (From David MacClounnan, Tiree.)</description>
+    </item>
+    <item><headword id="d0e147" type="heading" level="h1">The Creel</headword></item>
+    <item>
+      <headword id="d0e152">cliabh-ghiomach</headword>
+      <description>creel.</description>
+    </item>
+    <item>
+      <headword id="d0e161">deanamh cléibh</headword>
+      <description>making a creel.</description>
+    </item>
+    <item>
+      <headword id="d0e170">fiodh</headword>
+      <description>the base.</description>
+    </item>
+    <item>
+      <headword id="d0e179">boghachan</headword>
+      <description>rods.</description>
+    </item>
+    <item>
+      <headword id="d0e188">cinn bhiorach</headword>
+      <description>sharpened ends of rods.</description>
+    </item>
+    <item>
+      <headword id="d0e197">lìon</headword>
+      <description>the netting. Attached to base by marlin twine – sreanganan (strings).</description>
+    </item>
+    <item>
+      <headword id="d0e206">cur lìon air cliabh</headword>
+      <description>netting a creel.</description>
+    </item>
+    <item>
+      <headword id="d0e215">Tha mi comhdachadh a’ chliabh.</headword>
+    </item>
+    <item>
+      <headword id="d0e221">sùil</headword>
+      <description>the eye.</description>
+    </item>
+    <item>
+      <headword id="d0e230">clach</headword>
+      <description>weight.</description>
+    </item>
+    <item>
+      <headword id="d0e239">sreang bhiathaidh</headword>
+      <description>bait-holder.</description>
+    </item>
+    <item>
+      <headword id="d0e248">ròpa</headword>
+      <description>rope (manilla).</description>
+    </item>
+    <item>
+      <headword id="d0e257">buidhe, buidheachan</headword>
+      <description>floats.</description>
+    </item>
+    <item>
+      <headword id="d0e266">arachd, arachdan</headword>
+      <description>cork floats.</description>
+    </item>
+    <item>
+      <headword id="d0e275">dorus</headword>
+      <description>door (for admitting hand).</description>
+    </item>
+    <item>
+      <headword id="d0e284">ròbh, robhaichean (pl)</headword>
+      <description>fleet of creels, when attached to a single line.</description>
+    </item>
+    <item><headword id="d0e292" type="heading" level="h1">Fishing</headword></item>
+    <item>
+      <headword id="d0e297">cur a-mach nan cléibh</headword>
+      <description>shooting a creel.</description>
+    </item>
+    <item>
+      <headword id="d0e306">slaodadh</headword>
+      <description>hauling a creel.</description>
+    </item>
+    <item>
+      <headword id="d0e315">biadh-chléibh</headword>
+      <description>bait.</description>
+    </item>
+    <item><headword id="d0e323" type="heading" level="h2">kinds  used</headword><description>[of bait] </description></item>
+    <item>
+      <headword id="d0e328">reannach (righinn)</headword>
+    </item>
+    <item>
+      <headword id="d0e334">lèabagan (righinn)</headword>
+    </item>
+    <item>
+      <headword id="d0e340">sgat (righinn)</headword>
+    </item>
+    <item><headword id="d0e345" type="heading" level="h2">Cleaning a creel, what creatures found within</headword></item>
+    <item>
+      <headword id="d0e350">glanadh a’ chléibh</headword>
+      <description>cleaning a creel.</description>
+    </item>
+    <item>
+      <headword id="d0e359">cruban, crubain (m)</headword>
+    </item>
+    <item>
+      <headword id="d0e365">partan</headword>
+    </item>
+    <item>
+      <headword id="d0e371">conach (m), conachagan</headword>
+      <description>whelk, 3" [?] long.</description>
+    </item>
+    <item><headword id="d0e379" type="heading" level="h2">Other terms</headword></item>
+    <item>
+      <headword id="d0e384">milleadh air an ròp</headword>
+      <description>fraying, or frayed, rope.</description>
+    </item>
+    <item>
+      <headword id="d0e393">ropa briste</headword>
+      <description>broken rope.</description>
+    </item>
+    <item>
+      <headword id="d0e402">Tha an cliabh an greim</headword>
+      <description>creel wedged on ground.</description>
+    </item>
+    <item>
+      <headword id="d0e411">ceangal na spògan le sreang</headword>
+      <description>tying claws of lobsters.</description>
+    </item>
+    <item>
+      <headword id="d0e420">bocsa ghiomach</headword>
+      <description>keep-box.</description>
+    </item>
+    <item>
+      <headword id="d0e429">acair, acraichean</headword>
+      <description>moorings of keep-box.</description>
+    </item>
+  </items>
+</fieldworkDocument>

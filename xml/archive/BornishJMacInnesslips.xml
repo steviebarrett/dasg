@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 5/8/15 -->
+<!-- illustration -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_BornishJMacInnesslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>02/1969</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <informant>
+    <nameEnglish>John MacInnes</nameEnglish>
+  </informant>
+  <location>South Uist, Bornish</location>
+  <items>
+    <item>
+      <headword id="idp117953168">[e:ðinʹɾɑ̃iŋɡʹ]</headword>
+      <description>Notes: a kind of nail. (?)</description>
+    </item>
+    <item>
+      <headword id="idp117950216">lùth-luath</headword>
+      <description>[ɫu̜:ɫu̜ə] Notes: shimmering seen above an outside fire.</description>
+    </item>
+    <item>
+      <headword id="idp117946616">meaban (?)</headword>
+      <description>[mɛ̃bɛ̃nʹ] Notes: half-wit. (Barvas – cheeky young rascal.)</description>
+    </item>
+    <item>
+      <headword id="idp117967496">mùig</headword>
+      <description>Quotation: a’ coimhead air fo na mùigean [mũ̟:ɡʹəṉ]. Notes: looking at a person from under lowered eyebrows, with head lowered.</description>
+    </item>
+    <item>
+      <headword id="idp117969440">riof-ìrein</headword>
+      <description>[rifi:ðɑ̃nʹ] Notes: the nearest reef to the sheet in a sail.</description>
+    </item>
+    <item>
+      <headword id="idp117971168">not</headword>
+      <description>Quotation: [ṉɔṯfɑ:ɾo]. Notes: not sure of the meaning of this, possibly a counterfeit note.</description>
+    </item>
+    <item>
+      <headword id="idp117973184">peursa</headword>
+      <description>[pjɤ:ʴsə] Notes: a pole (1) stuck on a rock in the sea to warn boats, (2) put up by seaweed watchers to let the people of the village know it was ashore. [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+    <item>
+      <headword id="idp117975056">seursadh</headword>
+      <description>[ʃɤ:ʴsəɣ] Quotation: a’ seursadh. Notes: urging people to go and to [sic] something. [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+    <item>
+      <headword id="idp117977072">sgàth-fhras</headword>
+      <description>[sɡɑ:ɾɑs] Notes: a very small shower.</description>
+    </item>
+    <item>
+      <headword id="idp117978800">snòt</headword>
+      <description>[sn̪ɔ:t̪] Notes: ripple made by a fish.</description>
+    </item>
+    <item>
+      <headword id="idp117980528">snòt</headword>
+      <description>Quotation: a’ snòtadh. Notes: hinting. [NOTES: slipped under ‘snòtadh’.]</description>
+    </item>
+    <item>
+      <headword id="idp117982328">steall</headword>
+      <description>Quotation: steall-bainnseadh [ʃtʹɑu̜ɫbɑ̃ĩʃəɣ]. Notes: a man who would go to a wedding without being asked. [NOTES: slipped under ‘steall-bainnseadh’.]</description>
+    </item>
+    <item>
+      <headword id="idp117984416">straointe</headword>
+      <description>[st̪ɾw̃:nʹtʹə] Quotation: Dh’fhàg e ’n dorus straointe fosgailte. Notes: He left the door wide open.</description>
+    </item>
+    <item>
+      <headword id="idp117986288">tannt</headword>
+      <description>[t̪ɑ̃n̪t̪] Notes: a miscalling (from taunt).</description>
+    </item>
+    <item>
+      <headword id="idp117988016">tiulp</headword>
+      <description>Quotation: “Tiulpaidh mi a’ null.” Notes: to go somewhere on a sudden visit, staying only for a short time.</description>
+    </item>
+    <item>
+      <headword id="idp117989672">treamasgal</headword>
+      <description>[t̪ɾɛ̃mɑsɡəɫ] Notes: rubbish.</description>
+    </item>
+    <item>
+      <headword id="idp117991400">tuilig</headword>
+      <description>[t̪u̟lıɡʹ] Quotation: Cha do chuir e tuilig innte. Notes: He never budged it (e.g. a boulder).</description>
+    </item>
+    <item>
+      <headword id="idp117993272">baltag</headword>
+      <description>Quotation: “Nach ann air a tha a’ bhaltag.” Notes: said about an overweight person, or a fat beast. Prob. “a good quantity”.</description>
+    </item>
+    <item>
+      <headword id="idp117994928">blabhdadh</headword>
+      <description>[bɫɑu̟d̪əɣ] Notes: sudden loud bark or shout.</description>
+    </item>
+    <item>
+      <headword id="idp117996656">buille-trot</headword>
+      <description>[bu̟lʹət̪ɾɔt̪] Notes: trot.</description>
+    </item>
+    <item>
+      <headword id="idp117998384">camhasaich</headword>
+      <description>Quotation: a’ camhasaich [əkɑ̃ũ ̜əsiç]. Notes: nagging. A’ camhasachadh – Archie Munro, L. Boisdale.</description>
+    </item>
+    <item>
+      <headword id="idp118000328">conaghucag</headword>
+      <description>[kɔṉɑɣu̜xkɑɡ] Notes: shellfish. </description>
+    </item>
+    <item>
+      <headword id="idp118002056">corghail</headword>
+      <description>[kɔɾɑɣəl] Notes: low chirping of birds.</description>
+    </item>
+    <item>
+      <headword id="idp118003784">cread-mhàthair</headword>
+      <description>[kðed̪vɑ̃:həɾ] Quotation: Chaneil cread-mhàthair air. Notes: “There is absolutely nothing wrong with him.”</description>
+    </item>
+  </items>
+</fieldworkDocument>

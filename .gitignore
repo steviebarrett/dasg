@@ -1,0 +1,29 @@
+# OS / editor
+.DS_Store
+.idea/
+*.swp
+
+# dependencies
+/vendor/
+/node_modules/
+
+# env / secrets
+.env
+.env.*
+config/local*.php
+includes/passwords.php
+
+# logs / cache
+*.log
+/tmp/
+/cache/
+
+/audio/
+/scans/
+/facbeag/
+/meek/
+/fpdf/
+/ckeditor/
+/datetimepicker/
+/jwplayer-7.12.8/
+/gairm/pdf/

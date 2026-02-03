@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 7/10/15 -->
+<!-- illustration -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_LocheportPMacDonaldslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>02/1969</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <informant>
+    <nameEnglish>Peggy MacDonald</nameEnglish>
+    <origin>North Uist</origin>
+  </informant>
+  <location>North Uist, Locheport</location>
+  <items>
+    <item>
+      <headword id="idp115744704">leum</headword>
+      <description>Quotation: a’ spàl a’ leum. Notes: the shuttle being diverted from its path, usually due to the thread not running freely.</description>
+    </item>
+    <item>
+      <headword id="idp115765008">liath</headword>
+      <description>Quotation: aotrom liath. Notes: light blue (wool-dyeing).</description>
+    </item>
+    <item>
+      <headword id="idp115800432">liath</headword>
+      <description>Quotation: trom liath. Notes: navy blue (wool-dyeing).</description>
+    </item>
+    <item>
+      <headword id="idp115812168">lion</headword>
+      <description>Quotation: a’ lionadh na h-iteachanan. Notes: “filling” the spindles for going into the shuttle.</description>
+    </item>
+    <item>
+      <headword id="idp115813896">rèileadh</headword>
+      <description>Quotation: a’ rèileadh. Notes: “spreader” on loom. Equal number of threads between every two nails. Yarn spread over width of the “gormuinn”. <illustration src="LocheportPMacDonaldslipsillust1.jpg" width="300"/></description>
+    </item>
+    <item>
+      <headword id="idp115815552">rollag</headword>
+      <description>[rɔɫɑɡ] Notes: long roll of wool as it leaves the cards for the spinning wheel.</description>
+    </item>
+    <item>
+      <headword id="idp115817280">inneadh</headword>
+      <description>[ĩnʹəɣ] Quotation: Thainig an inneadh orm or Tha inneadh air a chlò. Notes: when there isn’t enough weft to finish off the tweed.</description>
+    </item>
+    <item>
+      <headword id="idp115819296">iteachan</headword>
+      <description>Notes: bobbin.</description>
+    </item>
+    <item>
+      <headword id="idp115820808">iteachan</headword>
+      <description>Notes: spindle which is put in weaving shuttle.</description>
+    </item>
+    <item>
+      <headword id="idp115822320">nigheadaireachd</headword>
+      <description>Quotation: sòda nigheadaireachd.</description>
+    </item>
+    <item>
+      <headword id="idp115823832">sgian</headword>
+      <description>Quotation: sgianan lianraidh. Notes: the blades of the wool-winder.</description>
+    </item>
+    <item>
+      <headword id="idp115825488">sòda</headword>
+      <description>Quotation: sòda nigheadaireachd.</description>
+    </item>
+    <item>
+      <headword id="idp115827000">soilleir</headword>
+      <description>Quotation: buidhe soilleir. Notes: bright yellow. (Wool-dyeing.)</description>
+    </item>
+    <item>
+      <headword id="idp115828656">spàl</headword>
+      <description>Quotation: a’ spàl a’ leum. Notes: the shuttle being diverted from its path, usually due to the thread not running freely.</description>
+    </item>
+    <item>
+      <headword id="idp115830312">stoc</headword>
+      <description>Quotation: stoc lianraidh. Notes: the axle on which the blades revolve.</description>
+    </item>
+    <item>
+      <headword id="idp115831968">trom</headword>
+      <description>Quotation: trom liath. Notes: navy blue. (Wool-dyeing.)</description>
+    </item>
+    <item>
+      <headword id="idp115833624">uaine</headword>
+      <description>Quotation: aotrom uaine. Notes: light green.</description>
+    </item>
+    <item>
+      <headword id="idp115835280">alm</headword>
+      <description>[ɑɫəm] Notes: alum – used in dying wool.</description>
+    </item>
+    <item>
+      <headword id="idp115837008">alt</headword>
+      <description>Quotation: Theid iad an altan a chéile nas fheàrr. Notes: in weaving. Ma bhios an dlùth nas cruaidhe ’s nas caoile ’s an cuir nas reamhra ’s nas buige, theid iad an altan a cheile nas fheàrr.</description>
+    </item>
+    <item>
+      <headword id="idp115838664">aotrom</headword>
+      <description>Quotation: aotrom uaine. Notes: light green (wool-dyeing).</description>
+    </item>
+    <item>
+      <headword id="idp115840320">aotrom</headword>
+      <description>Quotation: aotrom liath. Notes: light blue (wool-dyeing).</description>
+    </item>
+    <item>
+      <headword id="idp115841976">armadh</headword>
+      <description>Notes: oil, used in woolworking.</description>
+    </item>
+    <item>
+      <headword id="idp115843488">beartach</headword>
+      <description>Quotation: Nam biodh iad air son a dheanamh na bu bheartach (sic) bhiodh iad a’ bruich dà luchd dhan a roinneach anns an aon uisg. Bhiodh an dath na bu truime. Notes: wool-dyeing.</description>
+    </item>
+    <item>
+      <headword id="idp115845144">beart-dheilbh</headword>
+      <description>Notes: warping frame.</description>
+    </item>
+    <item>
+      <headword id="idp115846656">bocsa</headword>
+      <description>Quotation: bocsa deilbh. Notes: bobbin frame for warping.</description>
+    </item>
+    <item>
+      <headword id="idp115848312">buidhe</headword>
+      <description>Quotation: buidhe soilleir. Notes: bright yellow. (Wool dyeing.)</description>
+    </item>
+    <item>
+      <headword id="idp115849968">caitheamh</headword>
+      <description>Quotation: a’ caitheamh a spàl. Notes: “throwing” the shuttle, as in the wooden loom.</description>
+    </item>
+    <item>
+      <headword id="idp115851696">càrd</headword>
+      <description>Quotation: card [sic] ìm. Notes: butter pat.</description>
+    </item>
+    <item>
+      <headword id="idp115853352">casachan</headword>
+      <description>Quotation: na casachain. Notes: pedal (4) on wooden loom.</description>
+    </item>
+    <item>
+      <headword id="idp115855008">ceile</headword>
+      <description>[cɛlə] Quotation: ceile shnàth. Notes: ball of yarn.</description>
+    </item>
+    <item>
+      <headword id="idp115856880">cliath-luaidh</headword>
+      <description>Notes: waulking table or bench.</description>
+    </item>
+    <item>
+      <headword id="idp115858392">coinneal</headword>
+      <description>[kɤnʹɑɫ] Quotation: coinneal clò. A’ cur a chlò air choinneal. Notes: roll of cloth.</description>
+    </item>
+    <item>
+      <headword id="idp115860336">colamadh</headword>
+      <description>[kɔɫɑməɣ] Quotation: a’ colamadh. Nach ann agaibh a tha ’n colamadh boidheach. Notes: mixing of differently coloured wools.</description>
+    </item>
+    <item>
+      <headword id="idp115862208">còp</headword>
+      <description>Quotation: Bha iad a’ cur tuilleadh uisge blàth agus siabunn air gus an còpadh an clò.</description>
+    </item>
+    <item>
+      <headword id="idp115863720">crann</headword>
+      <description>Quotation: (1) an crann beag. (2) an crann mór. Notes: (1) the beam on which the cloth is wound in a loom. (2) the beam on which the yarn is wound.</description>
+    </item>
+    <item>
+      <headword id="idp115865376">crois</headword>
+      <description>Quotation: a’ croiseadh an t-snàth. Notes: winding wool on the “crois-iarna”. Making hanks.</description>
+    </item>
+    <item>
+      <headword id="idp115867104">deilbh</headword>
+      <description>Quotation: bocsa deilbh. Notes: bobbin frame used in warping.</description>
+    </item>
+    <item>
+      <headword id="idp115446048">dith</headword>
+      <description>[dʹi] Quotation: Dith de’n chrotal agus dith de’n chloimh air muin a’ chéile. Notes: a layer. (Dw. – *Macalpine)</description>
+    </item>
+    <item>
+      <headword id="idp115461816">dòrn</headword>
+      <description>Quotation: a’ cuir am bogadh an clò agus ’ga fhàsgadh dòrn is dòrn. Notes: hand over hand.</description>
+    </item>
+    <item>
+      <headword id="idp165129512">fàisg</headword>
+      <description>Quotation: a’ cur am bogadh an clò agus ’ga fhàsgadh dòrn is dòrn. Notes: wringing hand over hand.</description>
+    </item>
+    <item>
+      <headword id="idp165131168">figheadair</headword>
+    </item>
+    <item>
+      <headword id="idp165132680">figheadaireachd</headword>
+      <description>Quotation: a’ figheadaireachd. Notes: weaving.</description>
+    </item>
+    <item>
+      <headword id="idp165134336">foghaintean</headword>
+      <description>[foĩntʹəṉ] Quotation: na foghaintean. Notes: wooden pins in warping frame.</description>
+    </item>
+    <item>
+      <headword id="idp165136208">fuigheag</headword>
+      <description>Notes: piece cut off at the end of a tweed when taken out of the loom.</description>
+    </item>
+    <item>
+      <headword id="idp165137720">glas</headword>
+      <description>Quotation: glas na caorach. Notes: the natural colour of the wool of the black sheep.</description>
+    </item>
+  </items>
+</fieldworkDocument>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 3 6 14 -->
+<!-- one illustration! -->
+<fieldworkDocument docId="AOHenley_EriskayDJohnstonemisc" docType="wordlist" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>[1987-88]</date>
+  <fieldworker personId="ohenleya">A. O’Henley</fieldworker>
+  <informant>
+    <nameEnglish>Donald Johnstone</nameEnglish>
+  </informant>
+  <location>Eriskay</location>
+  <items>
+    <item>
+      <headword id="idp2959320">siolla</headword>
+      <description>a quarter bottle. I think this is an elaboration on the original meaning of ‘siolla’ – a gill.</description>
+    </item>
+    <item>
+      <headword id="idp2956152">leth bhodach</headword>
+      <description>half a bottle.</description>
+    </item>
+    <item>
+      <headword id="idp2952912">bodach mór</headword>
+      <description>full bottle.</description>
+    </item>
+    <item>
+      <headword id="idp2975952">glamaradh</headword>
+      <description>word for castrating animals.</description>
+    </item>
+    <item>
+      <headword id="idp2977464">ladhar mór</headword>
+      <description>for the large claw of a lobster.</description>
+    </item>
+    <item>
+      <headword id="idp2978976">siosar</headword>
+      <description>the claw used by the lobster for cutting its food, etc.</description>
+    </item>
+    <item>
+      <headword id="idp2980488">streanganan móra</headword>
+      <description>prior to fishing nets, trawlers, etc. people fished in sailing boats using long fishing lines to catch flounders, cod, ling and so on.</description>
+    </item>
+    <item>
+      <headword id="idp2982000">lugachan</headword>
+      <description>used for bait. Worms found in sand and used on ‘linn chaoile’.</description>
+    </item>
+    <item>
+      <headword id="idp2983512">lion chaol</headword>
+      <description>used for fishing in shallow areas – ‘an òtrach’. Such areas were good fishing grounds.</description>
+    </item>
+    <item>
+      <headword id="idp2528936">bannadh</headword>
+      <description>binding something together.</description>
+    </item>
+    <item>
+      <headword id="idp2516336">cur</headword>
+      <description>used for a drop of the nets. “Rinn sinn a dhà neo trì chùran a raoir.”</description>
+    </item>
+    <item>
+      <headword id="idp2519720">aparan</headword>
+      <description>a wooden partition extending from the stern of the boat to the back seat – ‘tobhta bhig’. Strengthened the rear of the boat. Steering equipment would be connected to this. In Eriskay a bottle of holy water would be attached to this bit of wood as it was thought this kept supernatural forces at bay and generally kept the crew and boat safe.</description>
+    </item>
+    <item>
+      <headword id="idp2532320">saighseadh</headword>
+      <description>hoisting up the sail.</description>
+    </item>
+    <item>
+      <headword id="idp2513600">sgòd</headword>
+      <description>a rope at the lower end of the sail. Tied round one of the seats and loosened accordingly when the wind rose.</description>
+    </item>
+    <item>
+      <headword id="idp2510504">aibhseach</headword>
+      <description>prominent.</description>
+    </item>
+    <item>
+      <headword id="idp2504744">an taca</headword>
+      <description>compared to.</description>
+    </item>
+    <item>
+      <headword id="idp2554640">plocan</headword>
+      <description>mallet.</description>
+    </item>
+    <item>
+      <headword id="idp2551616">giomalaid neo broga</headword>
+      <description>a sharp, thin bit of metal attached to a wooden handle and used to make initial indentations in wood prior to the fixing of nails, screws, etc.</description>
+    </item>
+    <item>
+      <headword id="idp2548232">spèicean</headword>
+      <description>cut nails.</description>
+    </item>
+    <item>
+      <headword id="idp2542688">clach lianraidh</headword>
+      <description>a grinding stone used to sharpen tools.</description>
+    </item>
+    <item>
+      <headword id="idp2540240">eithe</headword>
+      <description>file.</description>
+    </item>
+    <item>
+      <headword id="idp2520440">sgian sgliat</headword>
+      <description><illustration src="EriskayDJohnstonemiscillust1.jpg" width="300"/>slater’s axe. One end used for cutting the slate, tile; the other for breaking it.</description>
+    </item>
+    <item>
+      <headword id="idp2523968">sneicean</headword>
+      <description>flat stones used to fill gaps when building stone walls.</description>
+    </item>
+  </items>
+</fieldworkDocument>
+

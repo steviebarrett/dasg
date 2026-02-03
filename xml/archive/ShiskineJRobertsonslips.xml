@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 26/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_ShiskineJRobertsonslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>1967</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <note>[NOTES: in IPA transcriptions, the fieldworker uses [w] for [ɯ].]</note>
+  <informant>
+    <nameEnglish>John Robertson</nameEnglish>
+    <age>95</age>
+    <origin>Arran</origin>
+  </informant>
+  <location>Arran, Shiskine</location>
+  <items>
+    <item>
+      <headword id="idp161830456">[vwɛ]</headword>
+      <description>Notes: bha. Pronunciation as above particularly as answer to a question.</description>
+    </item>
+    <item>
+      <headword id="idp161827504">[skipɑiṉ]</headword>
+      <description>Quotation: Am bi sibh a’ buain le féith no am bi [skipɑiṉ] ann?</description>
+    </item>
+    <item>
+      <headword id="idp161823688">[kɛriṉ]</headword>
+      <description>Quotation: [kɛriṉ], [kɑriṉ]. Notes: chairs. (?)</description>
+    </item>
+    <item>
+      <headword id="idp161844424">muc-a-bhiorach</headword>
+      <description>[muk ə birəx] Notes: porpoise.</description>
+    </item>
+    <item>
+      <headword id="idp161846152">Nollaig</headword>
+      <description>Quotation: Bhiodh là mór a’ chamhanachd Là [noɫitʹ].</description>
+    </item>
+    <item>
+      <headword id="idp161847952">samhradh</headword>
+      <description>Quotation: anns a [tɔ̃vrɑk].</description>
+    </item>
+    <item>
+      <headword id="idp161849680">timchioll</headword>
+      <description>Quotation: Bhiodh esan a’ dol [tʃiməɫ] a’ ceisteachadh [kɛsṉəxəɣ].</description>
+    </item>
+    <item>
+      <headword id="idp161851768">buntàta</headword>
+      <description>Quotation: [pə̃tɛtə]. Notes: &lt; Eng. ‘potato’?</description>
+    </item>
+    <item>
+      <headword id="idp161853640">ceann</headword>
+      <description>Quotation: a’ cur am mòine air cheann son tiormachadh [tʹirməxk] (sic).</description>
+    </item>
+    <item>
+      <headword id="idp161855512">ceisteachadh</headword>
+    <description>[kɛsṉəxəɣ] </description></item>
+    <item>
+      <headword id="idp161857240">craobh</headword>
+      <description>Quotation: pl. [krɛvən].</description>
+    </item>
+    <item>
+      <headword id="idp161858968">eileag</headword>
+      <description>Quotation: seachdain [eɫɑk]. Notes: For ‘eile’.</description>
+    </item>
+    <item>
+      <headword id="idp161860840">fair</headword>
+      <description>[fɑir] Quotation: Fair Ghlaschu [fɑir ɡɫɛsko]. Notes: Glasgow Fair.</description>
+    </item>
+    <item>
+      <headword id="idp161862928">geamradh</headword>
+      <description>Quotation: anns a’ [jɔ̃rək].</description>
+    </item>
+  </items>
+</fieldworkDocument>

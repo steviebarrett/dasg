@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 5/8/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_BerneraDMacAulayslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>1967, 1980, 1988</date>
+  <informant>
+    <nameEnglish>Donald MacAulay</nameEnglish>
+  </informant>
+  <location>Lewis, Bernera</location>
+  <items>
+    <item>
+      <headword id="idp117936216">peinndeal</headword>
+      <description>Notes: snare for birds.</description>
+    </item>
+    <item>
+      <headword id="idp117937728">solach</headword>
+      <description>[ˈsoLəx] Quotation: a’ solach air bainne. Notes: gulping down greedily.</description>
+    </item>
+    <item>
+      <headword id="idp117939600">càbhail</headword>
+      <description>Quotation: càbhail [ˈkɑ:vəl] air. Notes: having a chew at.</description>
+    </item>
+    <item>
+      <headword id="idp117941544">’an(iain) màsach</headword>
+      <description>Notes: lumpy soda bread.</description>
+    </item>
+    <item>
+      <headword id="idp117943056">gòisneachan</headword>
+      <description>Notes: part of snare where bird was actually caught.</description>
+    </item>
+  </items>
+</fieldworkDocument>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 5 4 14 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="WoolworkingandFishing_ClachanNMacDonaldiasgach" docType="questionnaire" subType="AcfhuinnIasgaich" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Acfhuinn Iasgaich / Fishing Tackle</title>
+  <date>[02/1968 on the slips]</date>
+  <fieldworker>[self]</fieldworker>
+  <note>[NOTES: the two words have been slipped and therefore in this file, apart from the definitions provided by the informant, the definitions as they appear on the slips have also been included (unless the two were the same).]</note>
+  <informant>
+    <nameEnglish>(Rev.) Norman MacDonald</nameEnglish>
+    <age>63</age>
+    <origin>Skye</origin>
+  </informant>
+  <location>North Uist, Locheport, Clachan</location>
+  <items>
+    <item><headword id="d0e35" type="heading" level="h1">1. Lìon-mór</headword></item>
+    <item>
+      <headword id="d0e40">biathadh linn-mhór</headword>
+      <description>The bait put on the hooks of these lines. [NOTES: slip not found.]</description>
+    </item>
+    <item><headword id="d0e48" type="heading" level="h1">2. Lìon-beag</headword></item>
+    <item><headword id="d0e52" type="heading" level="h1">3. Lìon-sgadanach</headword></item>
+    <item><headword id="d0e56" type="heading" level="h1">4. Lìon sam bith eile</headword></item>
+    <item><headword id="d0e60" type="heading" level="h1">5. Duirgh, slatan, driamlaichean</headword></item>
+    <item>
+      <headword id="d0e65">sgrìoban</headword>
+      <description>Hand line used for cod fishing. Line was twined around wooden frame. <illustration src="ClachanNMacDonaldiasgachillust1.jpg" width="200"/> [SLIP: Sgrioban [sic] wooden frame round which a hand line for cod fishing was entwined.]</description>
+    </item>
+    <item><headword id="d0e75" type="heading" level="h1">6. Acfhuinn sam bith eile</headword></item>
+  </items>
+</fieldworkDocument>

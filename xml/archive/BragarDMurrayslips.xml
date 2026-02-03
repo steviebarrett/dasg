@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 6/8/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_BragarDMurrayslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>09/1971</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <informant>
+    <nameEnglish>D. Murray</nameEnglish>
+  </informant>
+  <location>Lewis, Bragar</location>
+  <items>
+    <item>
+      <headword id="idp115463072">ceàrnag</headword>
+      <description>Notes: a small plump woman.</description>
+    </item>
+  </items>
+</fieldworkDocument>

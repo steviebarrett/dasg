@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 1/4/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="PersonalFiles_PrestwickAArchibaldpersonalmisc" docType="wordlist" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>11/11/1966</date>
+  <fieldworker>[self]</fieldworker>
+  <note>[NOTES: ‘I am not a native Gaelic speaker but have been working at it – and Irish – since my boyhood. I am almost what is called here a “Galloway Irishman” and have been fascinated by the Gaelic influence in South Ayrshire, i.e. place-names and surviving words of which I have collected quite a few.’]</note>
+  <informant>
+    <nameEnglish>Alexander Archibald</nameEnglish>
+  </informant>
+  <location>Prestwick</location>
+  <items>
+    <item>
+      <headword id="idp161897040">[stairs]</headword>
+      <description>One word that comes to mind is quite vivid with a touch of Gaelic poetry in it – the word ‘stairs’ (plural) as applied to a school of porpoises in a flat calm, surfacing with their backs gleaming, black in the water and in line astern. In Ballantrae the fishermen used this word not knowing that their great great grandfathers saw these fish as like a line of stepping stones (stair). I am sure of this.</description>
+    </item>
+    <item>
+      <headword id="idp161898840">[cudag]</headword>
+      <description>Others are scart = scarbh = parkin = partan = pickie = young saithe, also piteuchty (Girvan). This fish is the cudag – cudaige – cudann at the sprat stage and living in the harbour. We called the larger ones blockan (léiteanach? [?]). Larger still stemlet = grey fish. Could picky be from pioc nibble? Or from a totem name piocach – Pict?</description>
+    </item>
+  </items>
+</fieldworkDocument>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 5 4 14 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="WoolworkingandFishing_GlasgowDGrantmaorach" docType="questionnaire" subType="Maorach" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Maorach / Shellfish</title>
+  <fieldworker>[self]</fieldworker>
+  <informant>
+    <nameEnglish>Donald Grant</nameEnglish>
+    <nameGaelic>Dòmhnall Grannd </nameGaelic>
+    <age>[66?]</age>
+    <origin>[Skye, Camus Chroise]</origin>
+  </informant>
+  <location>Glasgow</location>
+  <items>
+    <item><headword id="d0e29" type="heading" level="h1">1. Maorach</headword></item>
+    <item>
+      <headword id="d0e34">faochag</headword>
+    </item>
+    <item>
+      <headword id="d0e40">gille-fionn</headword>
+      <description>periwinkle.</description>
+    </item>
+    <item>
+      <headword id="d0e49">coilleag</headword>
+      <description>cockle.</description>
+    </item>
+    <item>
+      <headword id="d0e58">eachan</headword>
+    </item>
+    <item>
+      <headword id="d0e64">creachan</headword>
+      <description>nas motha na eachan, le slige ghil.</description>
+    </item>
+    <item>
+      <headword id="d0e73">fiasgan</headword>
+      <description>mussel.</description>
+    </item>
+    <item>
+      <headword id="d0e82">madadh</headword>
+      <description>nas motha na fiasgan.</description>
+    </item>
+    <item>
+      <headword id="d0e91">eisir</headword>
+    </item>
+    <item>
+      <headword id="d0e97">bàirneach</headword>
+    </item>
+    <item>
+      <headword id="d0e103">muirsgian</headword>
+      <description>spoutfish.</description>
+    </item>
+    <item>
+      <headword id="d0e112">crogan-feannaig</headword>
+    </item>
+    <item><headword id="d0e117" type="heading" level="h1">2. A’ tional maorach</headword></item>
+    <item>
+      <headword id="d0e122">a’ buain maoraich</headword>
+    </item>
+    <item>
+      <headword id="d0e128">a’ buain choilleagan</headword>
+    </item>
+    <item>
+      <headword id="d0e134">a’ togail nam faochag</headword>
+    </item>
+    <item>
+      <headword id="d0e140">ris an fhaochaig</headword>
+    </item>
+    <item>
+      <headword id="d0e146">an tràigh-mhuirsgian</headword>
+    </item>
+    <item>
+      <headword id="d0e152">an oitir</headword>
+    </item>
+    <item>
+      <headword id="d0e158">an tràigh air sgeith</headword>
+      <description>na muirsgianan ’na laighe air uachdar na gainmhich.</description>
+    </item>
+    <item>
+      <headword id="d0e167">sliseag</headword>
+      <description>pìos fiodha gu breith air a’ mhuirsgian mun d’rachadh i sìos. <illustration src="GlasgowDGrantmaorachillust1.jpg" width="400"/></description>
+    </item>
+    <item><headword id="d0e176" type="heading" level="h1">3. Beathaichean eile a gheibhear ’sa’ chladach</headword></item>
+    <item>
+      <headword id="d0e181">clòimheag</headword>
+      <description>easgann òg?</description>
+    </item>
+    <item>
+      <headword id="d0e190">donnag</headword>
+      <description>liùgh òg?</description>
+    </item>
+    <item>
+      <headword id="d0e199">cudaig(inn)</headword>
+      <description>saoithean òg.</description>
+    </item>
+    <item>
+      <headword id="d0e208">lugais</headword>
+    </item>
+    <item>
+      <headword id="d0e214">portan</headword>
+    </item>
+    <item>
+      <headword id="d0e220">crubag</headword>
+    </item>
+    <item>
+      <headword id="d0e226">liabag</headword>
+    </item>
+  </items>
+</fieldworkDocument>

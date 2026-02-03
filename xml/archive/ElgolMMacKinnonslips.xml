@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 29/9/15 -->
+<!-- illustration -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_ElgolMMacKinnonslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>06/1970</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <note>[NOTES: in IPA transcriptions, the fieldworker uses [w] for [ɯ].]</note>
+  <informant>
+    <nameEnglish>M. MacKinnon</nameEnglish>
+  </informant>
+  <location>Skye, Elgol</location>
+  <items>
+    <item>
+      <headword id="idp115450904">saor-shruth</headword>
+      <description>[sw:ɾu̜] Notes: eddy; a current of water running back contrary to the main stream. Occurs about half-flood.</description>
+    </item>
+    <item>
+      <headword id="idp115455224">croisean</headword>
+      <description>[kɾɔʃɛ̃ṉ] Quotation: croisean na spaideadh. Notes: cross-piece at the top of the shaft. </description>
+    </item>
+  </items>
+</fieldworkDocument>

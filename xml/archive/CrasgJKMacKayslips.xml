@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 10/8/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_CrasgJKMacKayslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>1969</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <informant>
+    <nameEnglish>John Kenneth MacKay</nameEnglish>
+    <age>c. 50</age>
+  </informant>
+  <location>Sutherland, Bettyhill, Crasg</location>
+  <items>
+    <item>
+      <headword id="idp166271016">lampan</headword>
+      <description>[ɫɑ̃ũ̜mpɑṉ] Notes: curds.</description>
+    </item>
+    <item>
+      <headword id="idp166272744">lògan</headword>
+      <description>[ɫɔ:ɡɑṉ] Notes: drink made from sowans.</description>
+    </item>
+    <item>
+      <headword id="idp166274472">irinn</headword>
+      <description>[iɾĩnʹ] Notes: teenage girl. [iɾĩnʹɑɡ]: young girl.</description>
+    </item>
+    <item>
+      <headword id="idp166276488">coit</headword>
+    <description>[kotʹʃ] </description></item>
+    <item>
+      <headword id="idp166278216">giullan</headword>
+      <description>Notes: young lad up to ten years old.</description>
+    </item>
+  </items>
+</fieldworkDocument>

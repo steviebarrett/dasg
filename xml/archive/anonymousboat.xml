@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 11 6 13 -->
+<fieldworkDocument docId="AssortedFieldworkers_anonymousboat" docType="questionnaire" subType="Boat-building">
+  <title>Togail Bhàtaichean / Boat-Building</title>
+  <items>
+    <item><headword id="d0e11" type="heading" level="h1">1. The keel</headword></item>
+    <item><headword id="d0e15" type="heading" level="h1">2. The rib-cage with its different parts</headword></item>
+    <item>
+      <headword id="d0e20">stringers</headword>
+      <description>ribs.</description>
+    </item>
+    <item><headword id="d0e28" type="heading" level="h1">3. Stem and stern</headword></item>
+    <item>
+      <headword id="d0e33">snockan</headword>
+      <description>stem post.</description>
+    </item>
+    <item>
+      <headword id="d0e42">aft</headword>
+    </item>
+    <item>
+      <headword id="d0e48">reens</headword>
+      <description>wear strips (made of larch).</description>
+    </item>
+    <item><headword id="d0e56" type="heading" level="h1">4. The planking</headword></item>
+    <item><headword id="d0e60" type="heading" level="h1">5. The gunwale</headword></item>
+    <item>
+      <headword id="d0e65">gunnel</headword>
+    </item>
+    <item><headword id="d0e70" type="heading" level="h1">6. Interior parts, such as seats</headword></item>
+    <item>
+      <headword id="d0e75">thaft</headword>
+      <description>seat.</description>
+    </item>
+    <item><headword id="d0e83" type="heading" level="h1">7. Fittings for oars</headword></item>
+    <item>
+      <headword id="d0e88">rowllocks</headword>
+    </item>
+    <item>
+      <headword id="d0e94">tallups</headword>
+      <description>straight pin.</description>
+    </item>
+    <item><headword id="d0e102" type="heading" level="h1">8. Rudder and its fittings</headword></item>
+    <item>
+      <headword id="d0e107">falamen?</headword>
+    </item>
+    <item>
+      <headword id="d0e113">skewer?</headword>
+    </item>
+    <item>
+      <headword id="d0e119">steer</headword>
+    </item>
+    <item><headword id="d0e124" type="heading" level="h1">9. Fittings for a mast</headword></item>
+    <item><headword id="d0e128" type="heading" level="h1">10. Other fittings if sails are to be used</headword></item>
+    <item><headword id="d0e132" type="heading" level="h1">11. Parts of an oar</headword></item>
+    <item><headword id="d0e136" type="heading" level="h1">12. Tools used in boat-building</headword></item>
+    <item>
+      <headword id="d0e141"> </headword>
+      <description>for trimming wood – in boat building.</description>
+    </item>
+    <item><headword id="d0e149" type="heading" level="h1">13. Any other words or expressions</headword></item>
+    <item>
+      <headword id="d0e154">runach</headword>
+      <description>bracken.</description>
+    </item>
+    <item>
+      <headword id="d0e163">crockle</headword>
+      <description>tangle, seaweed.</description>
+    </item>
+    <item>
+      <headword id="d0e172">graith</headword>
+      <description>net.</description>
+    </item>
+    <item>
+      <headword id="d0e181">plockan</headword>
+      <description>‘batty’ for knocking out fish. For mashing/chapping potatoes?</description>
+    </item>
+    <item>
+      <headword id="d0e190">david</headword>
+      <description>for lifting anchors.</description>
+    </item>
+    <item>
+      <headword id="d0e199">spratan</headword>
+      <description>knife for removing limpets.</description>
+    </item>
+    <item>
+      <headword id="d0e208">scarrow</headword>
+      <description>cormorant.</description>
+    </item>
+    <item>
+      <headword id="d0e217">snoat?</headword>
+    </item>
+    <item>
+      <headword id="d0e223">crasgag</headword>
+      <description>starfish.</description>
+    </item>
+    <item>
+      <headword id="d0e232">cheepick</headword>
+      <description>part of a line, where hook is attached. Put it in ‘heepick’ – to wind hook into line so it won’t catch. E.g. for storing.
+        <illustration src="anonymousboatillust1.jpg" width="300"/>
+      </description>
+    </item>
+  </items>
+</fieldworkDocument>

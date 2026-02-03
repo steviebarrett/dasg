@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 5 4 14 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="WoolworkingandFishing_GlasgowMMacLeodiasgach" docType="questionnaire" subType="AcfhuinnIasgaich" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Acfhuinn Iasgaich / Fishing Tackle</title>
+  <date>[03/1968 on the slips]</date>
+  <fieldworker>[self]</fieldworker>
+  <note>[NOTES: the informant uses E and I to mark the gender of the nouns, masculine and feminine respectively.]</note>
+  <note>[NOTES: the words have been slipped and therefore in this file, apart from the definitions provided by Mr MacLeod, the definitions as they appear on the slips have also been included (unless the two were the same).]</note>
+  <informant>
+    <nameEnglish>Murdo MacLeod</nameEnglish>
+    <nameGaelic>Murchadh MacLeòid </nameGaelic>
+    <age>56 1/2</age>
+    <origin>Leòdhas [Lewis], Uig an Iar</origin>
+  </informant>
+  <location>Glaschu [Glasgow]</location>
+  <items>
+    <item><headword id="d0e41" type="heading" level="h1">1. Lìon-mór</headword></item>
+    <item>
+      <headword id="d0e46">lìon-mór</headword>
+      <description><illustration src="GlasgowMMacLeodiasgachillust1.jpg" width="500"/> Druim an lin. An dòrnan. Snòta. An rèidhleadh. An dubhan.</description>
+    </item>
+    <item>
+      <headword id="d0e56">dubhan</headword>
+      <description>Pàirtean: <illustration src="GlasgowMMacLeodiasgachillust2.jpg" width="600"/> Bois an dubhain. Lurga an dubhain. Gob an dubhain. An ribheag (I) (ribheag, riobhag; againne air fhuaimneachadh mar ruf'ag).</description>
+    </item>
+    <item>
+      <headword id="d0e67">cruaidh</headword>
+      <description><illustration src="GlasgowMMacLeodiasgachillust3.jpg" width="300"/> Tha mi cinnteach gu’m bi i seo anns a chuid mhór de dh’ àiteachan. (Faic na faclairean.) (Faic Dwelly.) Chanadh na bodaich againne “air chruaidhean”: “Bha sinn ar chruaidhean a mach bho Staca na Beirghe.” Dé a’ chruaidh a bhiodh aca? Bhitheadh clach. <illustration src="GlasgowMMacLeodiasgachillust4.jpg" width="400"/></description>
+      <note>[NOTES: slip not found.]</note>
+    </item>
+    <item>
+      <headword id="d0e81">ceann-bhall</headword>
+      <description><illustration src="GlasgowMMacLeodiasgachillust5.jpg" width="200"/> Feumaidh daoine buill a bhith aca airson ceann, ’s mar sin, nan lìon. (Faic puta.) 1. put-suaib [?]. [NOTES: slipped under ‘put-snaib’.]  2. put-sàis.  3. ceann-màra. 4. cruaidh, etc. Chan eil a’ chiad trì dhiubh seo againne idir.</description>
+      <note>[NOTES: slipped under ‘ceann’ with ‘ceann-bhall’ as the quotation. Definition: See MS.]</note>
+    </item>
+	<item>
+	  <headword id="idola226">[note]</headword>
+	  <description>(Tha mi a’ fàgail ainm no dhà eile a tha ’g éirigh rium gu samhradh. Nì mi cinnteach an uair sin gu’m bi mi ceart do’n taobh.)</description>
+	</item>
+    <item>
+      <headword id="d0e103">streang (I), streangan</headword>
+      <description>Ceithir sreangan trì-fichead anns gach pìos. Trì pìosan aig gach duine. Seachdar anns a’ bhàta. (Ceithir sreangan trì-fichead, ’se sin: ceithir sreangan trì-fichead aitheamh.) “Bha e muigh còmhla ruinn le sreangan.” Theireadh na bodaich seo mu dhuine òg a’ tòiseachadh an iasgaich còmhla riutha mu’m biodh an làn lìon-mór aige. [NOTES: slipped under ‘streang(an) (fem.)’]</description>
+    </item>
+	<item>
+	  <headword id="idola227">[lìon-mhór agus lìon-bheag]</headword>
+	  <description>Cho fad’s is aithne dhomh ’se an aon seòrsa ainmeannan aca mu an lìon-mhór agus mu an lìon-bheag.</description>
+	</item>
+    <item>
+      <headword id="d0e121">druim (E)</headword>
+      <description>Druim an lìon-mhóir.</description>
+    </item>
+    <item>
+      <headword id="d0e130">snòta (I)</headword>
+      <description>’Se snòta sreinge a bhiodh air an lìon-mhór.</description>
+    </item>
+    <item>
+      <headword id="d0e139">dòrnan (E)</headword>
+      <description>An dòrnan. (Faic an dealbh.)</description>
+    </item>
+    <item>
+      <headword id="d0e148">dubhanan</headword>
+      <description>Chanainn gur h-e mu 8 (no mu 9) dubhan an lìn-mhóir. Dubhan anns a h-uile dà aitheamh air an lìon-mhór. Pàirtean an dubhain: [See the illustration above.] Lurga an dubhain. [NOTES: slipped under ‘lurga’.] Bois an dubhain. [NOTES: slipped under ‘bois’.] Gob an dubhain. [NOTES: slipped under ‘gob’.] An ribheag (I). [NOTES: slipped under ‘ribheag’.]</description>
+    </item>
+    <item>
+      <headword id="d0e157">rèidhleadh (E)</headword>
+      <description>An ceangal air an dubhan ris an t-snòta.</description>
+    </item>
+    <item>
+      <headword id="d0e166">[flaga]</headword>
+      <description>Gus na lìn a lorg ann am farsuingeachd a’ chuain bhiodh flaga aca air ceann nan lìon. <illustration src="GlasgowMMacLeodiasgachillust6.jpg" width="400"/> Clachan anns a’ bharaille airson a chumail ’na shuidhe anns an fhairge. Bhiodh e na b’fhaide fodha na tha agam-sa anns an dealbh.</description>
+      <note>[NOTES: slipped under ‘flaga’.]</note>
+    </item>
+    <item>
+      <headword id="d0e180">Lèana Mhór Hiort</headword>
+      <description>’Se seo a bhiodh aig bodaich Chrabhlastaidh air a’ chuan far am biodh iad ag iasgach aig Hiort (eadar Hirt agus tìr-mór Leòdhais ’s na Hearadh agus chanainn timchioll air Hiort. Bhiodh iad uaireannan ag iasgach air taobh a muigh Hiort). [NOTES: slipped under ‘lèana’ with ‘Lèana Mhór Hiort’ as the quotation. Definition: The sea between St Kilda and the mainland of Lewis and Harris where they used to fish.]</description>
+    </item>
+    <item>
+      <headword id="d0e189">An Cuan Hiortach (E)</headword>
+      <description>[See Lèana Mhór Hiort.] Cuideachd, chanadh iad “An Cuan Hiortach”. “Anns a’ Chuan Hiortach.” [NOTES: slipped under ‘cuan’ with ‘An Cuan Hiortach’ as the quotation. Definition: The sea between St Kilda and the mainland of Lewis and Harris where they used to fish.]</description>
+    </item>
+    <item>
+      <headword id="d0e198">Cuan nan Eilean (E)</headword>
+      <description>Chanadh iad ris a’ chuan eadar na h-Eileanan Flannach agus tìr-mór Leòdhais. [NOTES: slipped under ‘cuan’ with ‘Cuan nan Eilean’ as the quotation. Definition: Between the Flannan Isles and Lewis.]</description>
+    </item>
+    <item><headword id="d0e206" type="heading" level="h1">2. Lìon-beag</headword></item>
+    <item>
+      <headword id="d0e211">lìon-beag (E)</headword>
+      <description>Druim (E). Snòta (I). Dòrnan (E). Dubhan (E). Rèidhleadh (E). (An aon rud ri lìon-mór. [Ach] fàg a mach sreangan mu an lìon-bheag.)</description>
+    </item>
+    <item>
+      <headword id="d0e220">lìon-beag (E)</headword>
+      <description>Dubhan anns a h-uile h-aitheamh. Ach lìn a bhiodh a’ tighinn bho an choast an ear bhiodh dà dhubhan orra anns a h-uile h-aitheamh. Cha chreid mi gu robh seo càil na b’ fheàrr gu iasg a ghlacadh [no] gu iasgach a dhèanamh. (Seo mar a chanas sinn an cumantas: “an lìon-bhig” agus chan è “an lìn-bhig”.)</description>
+    </item>
+    <item>
+      <headword id="d0e229">druim (E)</headword>
+    </item>
+    <item>
+      <headword id="d0e235">snòta (I)</headword>
+      <description>An dà sheorsa aca: lìon-beag le snòtaichean gaoisde agus lìon-beag le snòtaichean sreinge. Cho fada agus is aithne dhomh ’se na snòtaichean gaoisde a b’fheàrr a dheanadh iasgach. Ach bha iad na b’fhasa do an bhioraich (I) an gearradh.</description>
+    </item>
+    <item>
+      <headword id="d0e244">dòrnan (E)</headword>
+    </item>
+    <item>
+      <headword id="d0e250">dubhan (E), dubhanan</headword>
+      <description>Mur eil mi dol ceàrr, ’se mu 19 dubhan an lìon-bhig.</description>
+    </item>
+    <item>
+      <headword id="d0e259">rèiteach (E)</headword>
+      <description>“A’ rèiteach an lìn-bhig.” A’ rèiteach: ’ga chur rèidh gus a bhith deiseil airson a bhiathadh.</description>
+    </item>
+    <item>
+      <headword id="d0e268">biathadh (E) airson an lìn-bhig:</headword>
+      <description>Siol (I) (siol-ghainmheach). An t-siol na b’fheàrr airson cnòdain (cnòdan – E). Luga (I). An luga na b’fheàrr airson adaig (adag – I). Là blàth agus grianach, làtha a b’fheàrr airson cnòdain.</description>
+    </item>
+    <item><headword id="d0e276" type="heading" level="h1">3. Lìon-sgadanach</headword></item>
+    <item>
+      <headword id="d0e281">lìon-sgadanach (E)</headword>
+      <description>Pàirtean: An druim-àrca. (E) [NOTES: slipped.] An druim-dubh. (E) [NOTES: slipped.] A’ ghéibheal. (I) [NOTES: slipped under ‘géibheal’.] A’ chluas. (I) [NOTES: slipped under ‘cluas’.] An t-abhras. (E) [NOTES: slipped under ‘abhras’.] (Mar a bha sinn a’ bruidhinn air an oidhche roimhe.)</description>
+    </item>
+    <item>
+      <headword id="d0e290">a’ càradh (E) an lìn</headword>
+      <description>[NOTES: slip not found.]</description>
+    </item>
+    <item>
+      <headword id="d0e299">cliùcair (E)</headword>
+      <description>Bhiodh seo aca nuair a bhiodh iad a’ càradh an lìn. (Faic Dwelly t-d 210 (4 DU).)</description>
+    </item>
+    <item>
+      <headword id="d0e308">a’ leagail nan lìon</headword>
+      <description>’Gan cur reidh anns an eathar no anns a’ bhàta gu bhith deiseil airson an cur.</description>
+    </item>
+    <item>
+      <headword id="d0e317">a’ cur nan lìon</headword>
+      <description>[NOTES: slip not found.]</description>
+    </item>
+    <item>
+      <headword id="d0e326">a’ tarruing nan lìon</headword>
+      <description>[NOTES: slip not found.]</description>
+    </item>
+    <item>
+      <headword id="d0e335">put (E)</headword>
+      <description><illustration src="GlasgowMMacLeodiasgachillust7.jpg" width="400"/> <illustration src="GlasgowMMacLeodiasgachillust8.jpg" width="400"/> Craicionn (E). Ceann (E). Toll (E). </description>
+      <note>[SLIP: Buoy. See diag.]</note>
+    </item>
+    <item>
+      <headword id="d0e350">[bolla]</headword>
+      <description>’Se ‘bolla’ a chanas iad an iomadh aite air son ‘put’ [q.v.] againne.</description>
+    </item>
+    <item>
+      <headword id="d0e359">[calcas] (E)</headword>
+      <description>[See ‘put’.] An stopper a bhiodh a’ dol anns an toll ’s e an calcas a chanadh iad ris. [SLIP: The stopper for the herring net buoy. See MS.]</description>
+    </item>
+    <item>
+      <headword id="d0e368">[peallaid]</headword>
+      <description>Ged nach eil mi ag amais air, tha mi de’n bheachd gu robh ainm aca airson craicionn airson puta. Chan eil fhios nach e ‘peallaid’ a bh’ann. [SLIP: Suggested as name for the buoy’s ‘craicionn’. Not sure.]</description>
+    </item>
+    <item><headword id="d0e376" type="heading" level="h1">4. Lìon sam bith eile</headword></item>
+    <item>
+      <headword id="d0e381">lìon-leòbag (E)</headword>
+    </item>
+    <item>
+      <headword id="d0e387">lìon-bhreac (E)</headword>
+    </item>
+    <item><headword id="d0e392" type="heading" level="h1">5. Duirgh, slatan, driamlaichean</headword></item>
+    <item>
+      <headword id="d0e397">dorgh (I)</headword>
+      <description>Chan aithne dhomh seòrsa duirgh a bhith aca againne ach an aon, an tè chumanta. Luaidhe agus na dubhanan mar anns an dealbh. <illustration src="GlasgowMMacLeodiasgachillust9.jpg" width="400"/> Chan eil mi cinnteach an e dà dhubhan, no am bitheadh ceithir aca. Tha mi amharusach gu robh ainm aca airson bodhaig an duirgh.</description>
+    </item>
+    <item>
+      <headword id="d0e408">slat-mhór (I)</headword>
+      <description><illustration src="GlasgowMMacLeodiasgachillust10.jpg" width="400"/> Slat a bhiodh iad fhéin a’ deanamh. Bha trì pìosan innte: am bun (E), am pìos-meadhon (E), am bàrr (E). A mach anns na 30’s thòisich na slatan cuilce airson slatan-móra. No roimh na 30’s.</description>
+    </item>
+    <item>
+      <headword id="d0e418">slat-bhiathaidh (I)</headword>
+      <description>Slat a bhiodh iad fhéin a’ deanamh. Tè bheag, ghoirid airson a bhith ’g oibreachadh le biathadh. An cumantas dà phìos anns an t-slait: am bun, am bàrr.</description>
+    </item>
+    <item>
+      <headword id="d0e427">soll (E)</headword>
+	  <description>[See frithiasg.]</description>
+    </item>
+    <item>
+      <headword id="d0e436">frithiasg (E)</headword>
+      <description>Tha na dhà-sa againn, ach ’se ‘soll’ as trice a bhios againn. (Frithiasg air fhuaimneachadh againne: ‘friasg’ mar ‘fri’ agus ‘asg’, ‘fri' asg’.) [SLIP 1: ‘soll’. Definition: Slat.] [SLIP 2: ‘frithiasg’. Definition: An aon seorsa slat ri ‘soll’ (q.v.).]</description>
+    </item>
+    <item>
+      <headword id="d0e445">driamlach (E)</headword>
+    </item>
+    <item>
+      <headword id="d0e451">cast (E)</headword>
+      <description>(Beurla) Ach chanadh na seana bhodaich ‘dragh’ ri cast.</description>
+    </item>
+    <item>
+      <headword id="d0e460">[dragh] (E)</headword>
+      <description>[See cast.]</description>
+    </item>
+    <item>
+      <headword id="d0e469">[ite]</headword>
+      <description>“Ag obair leis an ite.” B’e sin a bhith ag iasgach leis na h-ìtean – cast a bhiodh iad fhéin a dèanamh. Ite faoileig a bhiodh a’ dol air na dubhanan.</description>
+    </item>
+    <item>
+      <headword id="d0e478">[striùpan]</headword>
+      <description>Am biathadh (E) a bhiodh againne. Feusgan ’s mar sin, anns Na Bàigh.</description>
+    </item>
+    <item><headword id="d0e486" type="heading" level="h1">6. Acfhuinn sam bith eile</headword></item>
+    <item>
+      <headword id="d0e491">cliabh-ghiomach</headword>
+      <description><illustration src="GlasgowMMacLeodiasgachillust11.jpg" width="500"/> Buidhe (E). [NOTES: slipped.] Arca [sic] (E), àrcannan [pl]. [NOTES: slipped under ‘àrca’.] Buidhe-ròp (E) (Fuaimhnich mar buidh'earop) (buidhe' ròp). [NOTES: slipped.]</description>
+    </item>
+    <item>
+      <headword id="d0e501">sparsal (E)</headword>
+      <description>[NOTES: slipped.] Nuair a bhiodh iad air eudomhain, gus nach biodh am buidhe-ròp ’na riap air uachdar na fairge, bhiodh iad a’ cur ceangal air airson giorrachadh. ’Se sparsal a bh’ aca air an seo. “Cuiridh sinn sparsal air.” <illustration src="GlasgowMMacLeodiasgachillust12.jpg" width="400"/></description>
+    </item>
+    <item>
+      <headword id="d0e511">[raighde]</headword>
+      <description>Nuair a bhiodh na giomaich aig na bodaich ann am bucas air acair a’ feitheamh ri’n cur air falbh, chanadh iad gu robh na giomaich “air an raighde” (mar ride' uh).</description>
+    </item>
+    <item>
+      <headword id="d0e520">[càrn]</headword>
+      <description>Nuair a bhiodh iad [i.e. na giomaich] aca ann am bucas ann an càrn anns a’ chladach, chanadh iad gu robh iad “anns a’ chàrn”.</description>
+    </item>
+    <item>
+      <headword id="d0e529">cliabh-ghiomach (E)</headword>
+      <description>Pàirtean: <illustration src="GlasgowMMacLeodiasgachillust13.jpg" width="700"/> Am bottom (E). (Chan e an t-ùrlar a chanas sinn idir.) [NOTES: slipped under ‘bottom’. Definition: An t-ùrlar aig a’ chliabh-ghiomach.] Cearcaill, cabair (cha chreid mi nach canadh iad an dà chuid). [NOTES: slipped under ‘cearcall’ and ‘cabar’ respectively.] Taobhan (E). [NOTES: slipped.] An gath-droma (E). [NOTES: slipped.] Sreang (I) a’ bhiathaidh. [NOTES: slipped under ‘sreang’.] A’ chlach (I). [NOTES: slipped under ‘clach’.] An dorus-beag (E). (Air a dhùnadh le sreing.) <illustration src="GlasgowMMacLeodiasgachillust14.jpg" width="300"/> [NOTES: slipped.]</description>
+    </item>
+    <item>
+      <headword id="d0e542">[slaisneach]</headword>
+      <description>An gath-droma agus na taobhain, chanadh iad an t-slaisneach riutha seo. “Dé mar tha dol dhuit le na cléibh?” “Tha mi air an t-slaisneach a chur orra.”</description>
+    </item>
+    <item>
+      <headword id="d0e551">[osan] (E)</headword>
+      <description>Am pìos àraid a dh’fheumadh tu a dheanamh de an lìon airson an doruis ’s e an t-osan a chanadh iad ris.</description>
+    </item>
+    <item>
+      <headword id="d0e560">mogulair (E)</headword>
+      <description><illustration src="GlasgowMMacLeodiasgachillust15.jpg" width="200"/> Airson a’ mheud cheart a bhith anns na moguil anns an lìon. Bhiodh am mogulair mu 3 òirlich a dh’fhad.</description>
+    </item>
+    <item>
+      <headword id="d0e570">tàbh (E agus I)</headword>
+      <description><illustration src="GlasgowMMacLeodiasgachillust16.jpg" width="400"/> Mur a lorg mi as t-samhradh, chan eil ainmeannan agam airson an tàibh ach ‘cas an tàibh’ agus ‘cearcall an tàibh’. Bhiodh aon cheithir aitheamh anns a’ chearcull, aig beul an tàibh. Ach bhiodh feadhainn na bu lugha na bhiodh againne aca ann an àiteachan eile. Cha chreid mi nach biodh tàbh againn E agus I mar a fhreagradh. </description>
+      <note>[NOTES: ‘cas an tàibh’ slipped under ‘cas’ and ‘cearcall an tàibh’ under ‘cearcall’.]</note>
+    </item>
+    <item>
+      <headword id="d0e583">cabhall (E)</headword>
+      <description>’Ga chur anns na h-uillt airson nan dubh-breac. Bha e rudeigin mar seo. <illustration src="GlasgowMMacLeodiasgachillust17.jpg" width="300"/> Bhiodh osan de an lìon a mach air a chùlaobh. </description>
+      <note>[NOTES: slipped under ‘cabhal’.]</note>
+    </item>
+    <item>
+      <headword id="d0e597">biasd-dhubh (I)</headword>
+      <description><illustration src="GlasgowMMacLeodiasgachillust18.jpg" width="500"/> Chanadh feadhainn de na seana bhodaich ‘biasd-dubh’. Mar cabhall [q.v.] ’s ann airson nan dubh-breac a bhiodh a’ bhiasd-dhubh. Air na Lochan.</description>
+    </item>
+  </items>
+</fieldworkDocument>

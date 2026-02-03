@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 11 6 13 -->
+<fieldworkDocument docId="AssortedFieldworkers_anonymoustaigh2" docType="questionnaire" subType="TaighGaidhealach">
+  <title>Taigh Gàidhealach / House and Furnishings</title>
+  <fieldworker>[Mary MacDonald]</fieldworker>
+  <note>[NOTES: all Gaelic headings were translated into English in second hand. This, together with the phonetic spelling of the Gaelic words, seems to suggest that the fieldworker may not have had Gaelic herself.]</note>
+  <informant>
+    <nameEnglish>Cathie Ross?</nameEnglish>
+  </informant>
+  <items>
+    <item><headword id="d0e23" type="heading" level="h1">1. An stéidh is am balla</headword></item>
+    <item>
+      <description>walls.</description>
+    </item>
+    <item>
+      <description>gutters.</description>
+    </item>
+    <item>
+      <description>stone / block.</description>
+    </item>
+    <item>
+      <description>drain.</description>
+    </item>
+    <item>
+      <description>I’m clearing drains.</description>
+    </item>
+    <item><headword id="d0e57" type="heading" level="h1">2. Am mullach ’s an tughadh</headword></item>
+    <item>
+      <description>roof.</description>
+    </item>
+    <item>
+      <description>thatch.</description>
+    </item>
+    <item>
+      <description>thatcher.</description>
+    </item>
+    <item>
+      <description>rug.</description>
+    </item>
+    <item>
+      <description>pladacks [sic] rug from rashes [sic] for redding the line, baiting the line.</description>
+    </item>
+    <item>
+      <description>slate?</description>
+    </item>
+    <item>
+      <description>nail.</description>
+    </item>
+    <item>
+      <description>redding the line.</description>
+    </item>
+    <item>
+      <description>baiting the line.</description>
+    </item>
+    <item><headword id="d0e115" type="heading" level="h1">3. Dorsan is uinneagan</headword></item>
+    <item>
+      <description>door.</description>
+    </item>
+    <item>
+      <description>window.</description>
+    </item>
+    <item>
+      <description>door handle, sneck.</description>
+    </item>
+    <item>
+      <description>window pane.</description>
+    </item>
+    <item>
+      <description>screens.</description>
+    </item>
+    <item><headword id="d0e149" type="heading" level="h1">4. An broinn an taighe: na sèamraichean</headword></item>
+    <item>
+      <description>room.</description>
+    </item>
+    <item>
+      <description>living / sitting room.</description>
+    </item>
+    <item>
+      <headword id="d0e166">cyarnaigh</headword>
+      <description>kitchen.</description>
+    </item>
+    <item>
+      <description>toilet.</description>
+    </item>
+    <item>
+      <description>bedroom.</description>
+    </item>
+    <item>
+      <description>stair.</description>
+    </item>
+    <item><headword id="d0e192" type="heading" level="h1">5. An t-àite-teine</headword></item>
+    <item>
+      <description>fireplace.</description>
+    </item>
+    <item>
+      <description>fire.</description>
+    </item>
+    <item>
+      <description>coal.</description>
+    </item>
+    <item>
+      <description>coal bucket.</description>
+    </item>
+    <item>
+      <description>brush.</description>
+    </item>
+    <item>
+      <description>rug.</description>
+    </item>
+    <item><headword id="d0e232" type="heading" level="h1">6. Airneis an taighe</headword></item>
+    <item>
+      <description>chair.</description>
+    </item>
+    <item>
+      <description>table.</description>
+    </item>
+    <item>
+      <description>bed.</description>
+    </item>
+    <item>
+      <description>picture.</description>
+    </item>
+    <item>
+      <description>mirror.</description>
+    </item>
+    <item>
+      <headword id="d0e267">boychran</headword>
+      <description>[?] ornament.</description>
+    </item>
+    <item>
+      <description>curtain.</description>
+    </item>
+    <item>
+      <description>light.</description>
+    </item>
+    <item>
+      <headword id="d0e288">cluasack</headword>
+      <description>cushion.</description>
+    </item>
+    <item>
+      <description>blanket.</description>
+    </item>
+    <item>
+      <description>chest of drawers; coffin.</description>
+    </item>
+    <item>
+      <description>store?</description>
+    </item>
+    <item>
+      <description>bedcover.</description>
+    </item>
+    <item>
+      <description>dog’s bed.</description>
+    </item>
+    <item>
+      <description>shadow.</description>
+    </item>
+    <item>
+      <description>I saw her photo.</description>
+    </item>
+    <item><headword id="d0e338" type="heading" level="h1">7. Sobhal, bàthach, no bothanan sam bith eile</headword></item>
+    <item>
+      <description>shed.</description>
+    </item>
+    <item>
+      <description>washhouse.</description>
+    </item>
+    <item>
+      <description>midden.</description>
+    </item>
+    <item><headword id="d0e360" type="heading" level="h1">Colours</headword></item>
+    <item>
+      <description>white.</description>
+    </item>
+    <item>
+      <description>black.</description>
+    </item>
+    <item>
+      <description>blue.</description>
+    </item>
+    <item>
+      <description>red.</description>
+    </item>
+    <item>
+      <description>yellow.</description>
+    </item>
+    <item>
+      <description>fair-haired.</description>
+    </item>
+  </items>
+</fieldworkDocument>

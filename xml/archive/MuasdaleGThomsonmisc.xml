@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 1/4/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Word-lists_MuasdaleGThomsonmisc" docType="wordlist" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <fieldworker>[self]</fieldworker>
+  <informant>
+    <nameEnglish>George Thomson</nameEnglish>
+  </informant>
+  <location>Argyll, Tarbert, Muasdale</location>
+  <items>
+    <item>
+	  <headword id="idola448">[note]</headword>
+	  <description>(...) some local Gaelic names for birds, animals, etc. along with what is probably the only Gaelic name for most of them a long time ago (…)</description>
+	</item>
+	<item>
+	   <headword id="idola449" type="heading" level="h1">Animals etc.</headword>
+	</item>   
+    <item>
+      <headword id="idp159279440">bo</headword>
+      <description>cow.</description>
+    </item>
+    <item>
+      <headword id="idp159280952">each</headword>
+      <description>horse.</description>
+    </item>
+    <item>
+      <headword id="idp159282464">muc</headword>
+      <description>pig.</description>
+    </item>
+    <item>
+      <headword id="idp159283976">caora</headword>
+      <description>sheep.</description>
+    </item>
+    <item>
+      <headword id="idp159285488">madadh</headword>
+      <description>dog.</description>
+    </item>
+    <item>
+      <headword id="idp159287000">abhac</headword>
+      <description>terrier.</description>
+    </item>
+    <item>
+      <headword id="idp159288512">cat</headword>
+      <description>cat.</description>
+    </item>
+    <item>
+      <headword id="idp159290024">nios</headword>
+      <description>weasel.</description>
+    </item>
+    <item>
+      <headword id="idp159291536">feorag</headword>
+      <description>squirrel.</description>
+    </item>
+    <item>
+      <headword id="idp159293048">doran</headword>
+      <description>otter. Also sometimes locally ‘madadh donn’.</description>
+    </item>
+    <item>
+      <headword id="idp159296072">sionnach</headword>
+      <description>fox.</description>
+    </item>
+    <item>
+      <headword id="idp159297584">broc</headword>
+      <description>badger.</description>
+    </item>
+    <item>
+      <headword id="idp159299096">famh</headword>
+      <description>mole.</description>
+    </item>
+    <item>
+      <headword id="idp159300608">fiagh</headword>
+      <description>deer.</description>
+    </item>
+    <item>
+      <headword id="idp159302120">earb</headword>
+      <description>roe deer.</description>
+    </item>
+    <item>
+      <headword id="idp159303632">luch</headword>
+      <description>mouse.</description>
+    </item>
+    <item>
+      <headword id="idp159305144">radan</headword>
+      <description>rat.</description>
+    </item>
+    <item>
+      <headword id="idp159306656">ialtag leatharich</headword>
+      <description>bat.</description>
+    </item>
+    <item>
+      <headword id="idp159308168">leamachan</headword>
+      <description>frog.</description>
+    </item>
+    <item>
+      <headword id="idp159309680">losgann</headword>
+      <description>toad.</description>
+    </item>
+    <item>
+      <headword id="idp159311192">arc-luachrach</headword>
+      <description>lizard.</description>
+    </item>
+    <item>
+      <headword id="idp159312704">coinean</headword>
+      <description>rabbit.</description>
+    </item>
+    <item>
+      <headword id="idp159314216">gearragh</headword>
+      <description>hare.</description>
+    </item>
+    <item>
+      <headword id="idp159315728">gobhar</headword>
+      <description>goat.</description>
+    </item>
+	<item>
+	  <headword id="idola450" type="heading" level="h1">Birds</headword>
+	</item>
+    <item>
+      <headword id="idp159318104">lon dubh</headword>
+      <description>blackbird.</description>
+    </item>
+    <item>
+      <headword id="idp159319616">smeorach</headword>
+      <description>thrush.</description>
+    </item>
+    <item>
+      <headword id="idp159321128">gealbhonn tighe</headword>
+      <description>sparrow.</description>
+    </item>
+    <item>
+      <headword id="idp159322640">dreathan donn</headword>
+      <description>hedge sparrow.</description>
+    </item>
+    <item>
+      <headword id="idp159324152">bru dhearg</headword>
+      <description>robin.</description>
+    </item>
+    <item>
+      <headword id="idp159325664">dreolan</headword>
+      <description>wren.</description>
+    </item>
+    <item>
+      <headword id="idp159327176">gobhlan gaoithe</headword>
+      <description>swallow.</description>
+    </item>
+    <item>
+      <headword id="idp159328688">cuthag</headword>
+      <description>cuckoo.</description>
+    </item>
+    <item>
+      <headword id="idp159330200">cearc fhraoich</headword>
+      <description>grouse.</description>
+    </item>
+    <item>
+      <headword id="idp161262576">cearc thomain</headword>
+      <description>partridge.</description>
+    </item>
+    <item>
+      <headword id="idp161259552">coileach coille</headword>
+      <description>woodcock.</description>
+    </item>
+    <item>
+      <headword id="idp161256600">“crotach”</headword>
+      <description>curlew. (I have never seen it in writing.)</description>
+    </item>
+    <item>
+      <headword id="idp115364080">feadag</headword>
+      <description>golden plover.</description>
+    </item>
+    <item>
+      <headword id="idp115365592">adharcan</headword>
+      <description>green plover or peewit. (From the plume on the head.)</description>
+    </item>
+    <item>
+      <headword id="idp115367104">craibhach</headword>
+      <description>rook. (Spelling uncertain.)</description>
+    </item>
+    <item>
+      <headword id="idp115368616">feannag</headword>
+      <description>hooded crow.</description>
+    </item>
+    <item>
+      <headword id="idp115370128">cadhag</headword>
+      <description>jackdaw.</description>
+    </item>
+    <item>
+      <headword id="idp115371640">fitheach</headword>
+      <description>raven.</description>
+    </item>
+    <item>
+      <headword id="idp115373152">speireag</headword>
+      <description>hawk. (Applied fairly generally to hawks as kestrel, merlin, sparrowhawk, etc.)</description>
+    </item>
+    <item>
+      <headword id="idp115374664">seabhag</headword>
+      <description>falcon.</description>
+    </item>
+    <item>
+      <headword id="idp115376176">croman</headword>
+      <description>hen harrier.</description>
+    </item>
+    <item>
+      <headword id="idp115377688">calman</headword>
+      <description>pigeon.</description>
+    </item>
+    <item>
+      <headword id="idp115379200">bridean</headword>
+      <description>oyster catcher.</description>
+    </item>
+    <item>
+      <headword id="idp115380712">trilleachan</headword>
+      <description>sand piper.</description>
+    </item>
+    <item>
+      <headword id="idp115382224">sgarbh</headword>
+      <description>cormorant.</description>
+    </item>
+    <item>
+      <headword id="idp115383736">stearnal</headword>
+      <description>tern.</description>
+    </item>
+    <item>
+      <headword id="idp115385248">eala</headword>
+      <description>swan.</description>
+    </item>
+    <item>
+      <headword id="idp115386760">geadh</headword>
+      <description>goose.</description>
+    </item>
+    <item>
+      <headword id="idp115388272">iola</headword>
+      <description>eagle.</description>
+    </item>
+    <item>
+      <headword id="idp115389784">faoilann</headword>
+      <description>gull.</description>
+    </item>
+    <item>
+      <headword id="idp115391296">uiseag</headword>
+      <description>lark.</description>
+    </item>
+    <item>
+      <headword id="idp115392808">cailleach oidhche</headword>
+      <description>owl.</description>
+    </item>
+    <item>
+      <headword id="idp115394320">druidag</headword>
+      <description>starling.</description>
+    </item>
+	<item>
+	  <headword id="idola451" type="heading" level="h1">Insects</headword>
+	</item>
+    <item>
+      <headword id="idp119304600">beachann</headword>
+      <description>bee.</description>
+    </item>
+    <item>
+      <headword id="idp119306112">seillean</headword>
+      <description>bumblebee.</description>
+    </item>
+    <item>
+      <headword id="idp119307624">dealan-de</headword>
+      <description>butterfly.</description>
+    </item>
+    <item>
+      <headword id="idp119309136">leoman</headword>
+      <description>moth.</description>
+    </item>
+    <item>
+      <headword id="idp119310648">figheadair</headword>
+      <description>spider.</description>
+    </item>
+    <item>
+      <headword id="idp119312160">tarbh-nathrach</headword>
+      <description>dragonfly.</description>
+    </item>
+    <item>
+      <headword id="idp119313672">cuileag</headword>
+      <description>fly.</description>
+    </item>
+    <item>
+      <headword id="idp119315184">coilag liann</headword>
+      <description>[sic] earwig. (I haven’t a clue about spelling of last. An afterthought came to me that it may well be ‘cuileag leathann’, an earwig having a broad flat body.)</description>
+    </item>
+    <item>
+      <headword id="idp119316696">leumnach uaine</headword>
+      <description>grasshopper.</description>
+    </item>
+    <item>
+      <headword id="idp119318208">biastag</headword>
+      <description>worm.</description>
+    </item>
+    <item>
+      <headword id="idp119319720">deargann</headword>
+      <description>flea. (Spelling?)</description>
+    </item>
+    <item>
+	  <headword id="idola452" type="heading" level="h1">Trees and wild plants</headword>
+	</item>
+    <item>
+      <headword id="idp119322960">darach</headword>
+      <description>oak.</description>
+    </item>
+    <item>
+      <headword id="idp119324472">fearna</headword>
+      <description>alder.</description>
+    </item>
+    <item>
+      <headword id="idp119325984">uinnseaann</headword>
+      <description>[sic] ash.</description>
+    </item>
+    <item>
+      <headword id="idp119327496">beithe</headword>
+      <description>birch.</description>
+    </item>
+    <item>
+      <headword id="idp119329008">calltunn</headword>
+      <description>hazel.</description>
+    </item>
+    <item>
+      <headword id="idp119330520">seileach</headword>
+      <description>willow.</description>
+    </item>
+    <item>
+      <headword id="idp119332032">giubhas</headword>
+      <description>fir. (Applied a bit loosely to conifers: pine, spruce, etc.)</description>
+    </item>
+    <item>
+      <headword id="idp119333616">iuthar</headword>
+      <description>yew.</description>
+    </item>
+    <item>
+      <headword id="idp119335128">droiigheann</headword>
+      <description>[sic] blackthorn. Fruit ‘airne’.</description>
+    </item>
+    <item>
+      <headword id="idp119371000">dris</headword>
+      <description>bramble (the bush).</description>
+    </item>
+    <item>
+      <headword id="idp119372512">smeur</headword>
+      <description>bramble (the fruit).</description>
+    </item>
+    <item>
+      <headword id="idp119374024">groiseid</headword>
+      <description>gooseberry.</description>
+    </item>
+    <item>
+      <headword id="idp119375536">dearc dubh</headword>
+      <description>blackcurrant.</description>
+    </item>
+    <item>
+      <headword id="idp119377048">greushag</headword>
+      <description>cranberry or whortleberry. (Probably local name and doubtful spelling.)</description>
+    </item>
+    <item>
+      <headword id="idp119378560">rodagach</headword>
+      <description>bog myrtle. (Probably also local and spelling?)</description>
+    </item>
+    <item>
+      <headword id="idp119380072">fothanan</headword>
+      <description>thistle.</description>
+    </item>
+    <item>
+      <headword id="idp119381584">iteotha</headword>
+      <description>hemlock.</description>
+    </item>
+    <item>
+      <headword id="idp119383096">foclan buidhe</headword>
+      <description>ragwort. (Spelling?)</description>
+    </item>
+    <item>
+      <headword id="idp119384608">copagach</headword>
+      <description>dock.</description>
+    </item>
+    <item>
+      <headword id="idp119386120">feanntag</headword>
+      <description>nettle.</description>
+    </item>
+    <item>
+      <headword id="idp119387632">sobhrac</headword>
+      <description>primrose.</description>
+    </item>
+    <item>
+      <headword id="idp119389144">noinean</headword>
+      <description>daisy.</description>
+    </item>
+    <item>
+      <headword id="idp119390656">seileastair</headword>
+      <description>iris.</description>
+    </item>
+  </items>
+</fieldworkDocument>

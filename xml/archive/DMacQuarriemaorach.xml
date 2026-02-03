@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 5 4 14 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="WoolworkingandFishing_DMacQuarriemaorach" docType="questionnaire" subType="Maorach" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Maorach / Shellfish</title>
+  <fieldworker>[self]</fieldworker>
+  <informant>
+    <nameEnglish>D. MacQuarrie</nameEnglish>
+  </informant>
+  <items>
+    <item><headword id="d0e20" type="heading" level="h1">1. Maorach</headword></item>
+    <item>
+      <headword id="d0e25">air feamainn</headword>
+    </item>
+    <item>
+      <headword id="d0e31">air creagan</headword>
+    </item>
+    <item>
+      <headword id="d0e37">air gainmeach</headword>
+    </item>
+    <item>
+      <headword id="d0e43">fo ghainmeach</headword>
+    </item>
+    <item>
+      <headword id="d0e49">amanan  bliadhna airson an truiseadh</headword>
+    <description>[?] </description></item>
+    <item><headword id="d0e54" type="heading" level="h1">2. A’ tional maorach</headword></item>
+    <item>
+      <headword id="d0e59">amanan  bliadhna</headword>
+    <description>[?] </description></item>
+    <item>
+      <headword id="d0e65">mar a bha làn</headword>
+    </item>
+    <item><headword id="d0e70" type="heading" level="h1">3. Beothaichean eile a gheibhear ’sa’ chladach</headword></item>
+	<item>
+	  <headword id="idola224">[note]</headword>
+	  <description>[NOTES: the following written on the reverse of the last page.]</description>
+	</item>
+    <item>
+      <headword id="d0e84">maorach</headword>
+    </item>
+    <item>
+      <headword id="d0e90">itheadh – leatha fhein no co leis</headword>
+    </item>
+    <item>
+      <headword id="d0e96">dòighean còcaireachd air gach seorsa</headword>
+    </item>
+  </items>
+</fieldworkDocument>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 7/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_KingussieDMacVarishslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>05/1969</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <informant>
+    <nameEnglish>Duncan MacVarish</nameEnglish>
+    <origin>Arisaig</origin>
+  </informant>
+  <location>Kingussie Old People’s Home</location>
+  <items>
+    <item>
+      <headword id="idp115440416">mial</headword>
+      <description>Quotation: a’ mhial [əvĩɑ̃ɫ]. Notes: disease in horses. The upper gum extends downwards.</description>
+    </item>
+    <item>
+      <headword id="idp115480376">splòcan</headword>
+      <description>[spɫɔ:kɑṉ] Notes: swollen throat in cattle.</description>
+    </item>
+  </items>
+</fieldworkDocument>

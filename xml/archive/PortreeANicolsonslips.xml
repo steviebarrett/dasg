@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 23/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_PortreeANicolsonslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>06/1970</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <informant>
+    <nameEnglish>Alex Nicolson</nameEnglish>
+  </informant>
+  <location>Skye, Portree</location>
+  <items>
+    <item>
+      <headword id="idp115493416">muir-tiachd</headword>
+      <description>Notes: jellyfish.</description>
+    </item>
+    <item>
+      <headword id="idp115459576">altruman</headword>
+      <description>Notes: female crab.</description>
+    </item>
+    <item>
+      <headword id="idp115492048">cadalan</headword>
+      <description>Quotation: cadalan-tràghad. Notes: starfish.</description>
+    </item>
+    <item>
+      <headword id="idp115448560">ciochag-thràghaid</headword>
+      <description>Notes: sea anemone.</description>
+    </item>
+    <item>
+      <headword id="idp115736704">cléireach</headword>
+      <description>Notes: male crab.</description>
+    </item>
+    <item>
+      <headword id="idp115771048">eileadruim</headword>
+      <description>[eləd̪ɾəm] Notes: planks on which corpse was laid.</description>
+    </item>
+    <item>
+      <headword id="idp115773928">faobhag</headword>
+      <description>[fɤ:vɑɡ] Notes: squid.</description>
+    </item>
+  </items>
+</fieldworkDocument>

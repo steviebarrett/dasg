@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 3 5 13 -->
+<fieldworkDocument docId="CattleandSheep_NethyBridgeNSmithcattle" docType="questionnaire" subType="Cattle">
+  <title>Crodh / Cattle</title>
+  <fieldworker>self</fieldworker>
+  <informant>
+    <nameEnglish>Noel Smith</nameEnglish>
+    <age>38</age>
+    <origin>Inverness-shire, Nethy Bridge</origin>
+  </informant>
+  <location>Inverness-shire, Nethy Bridge</location>
+  <!-- illustrations -->
+  <items>
+    <item><headword id="d0e31" type="heading" level="h1">1. Different stages in the growth of cattle</headword></item>
+    <item>
+      <headword id="d0e36">laogh</headword>
+      <description>This was the general term applied to calf either male or female.</description>
+    </item>
+    <item>
+      <headword id="d0e45">gamhna</headword>
+      <description>After it was one year old or a stirk as we say in English.</description>
+    </item>
+    <item>
+      <headword id="d0e54">mairt</headword>
+      <description>I’ve heard this word used in connection with cattle and rather think it was a cow with calf at food but would not be quite sure.</description>
+    </item>
+    <item>
+      <headword id="d0e63">cogair</headword>
+      <description>The early stage in its life when it is drinking out of the cog.</description>
+    </item>
+    <item><headword id="d0e71" type="heading" level="h1">2. Breeds of cattle</headword></item>
+    <item><headword id="d0e75" type="heading" level="h1">3. Outward appearance of cattle</headword></item>
+    <item>
+      <headword id="d0e80">ràmag</headword>
+      <description>This word was used referring to a beast being in very poor condition. A sound as in ‘rannsachadh’ or as in ‘ràmh’, which is a better word to compare it with.</description>
+    </item>
+    <item>
+      <headword id="d0e89">rèipsteal</headword>
+      <description>This word meant poor condition also [(cf. ràmag)] but was more inclined to be used for a beast of bad conformation such as being long legged instead of being thick and deep of body. ‘ei’ as in ‘nèip’.</description>
+    </item>
+    <item><headword id="d0e97" type="heading" level="h1">4. Names for certain beasts, e.g. an animal on which the owner bestows particular attention</headword></item>
+    <item><headword id="d0e101" type="heading" level="h1">5. Parts of the body</headword></item>
+    <item><headword id="d0e105" type="heading" level="h1">6. Calving</headword></item>
+    <item>
+      <headword id="d0e110">streighleag</headword>
+      <description>This was little bits of jelly stuff which starts coming away from a cow a week or about ten days before she calves and also the little bits which fall away for two or three days after she calves but not the afterbirth or the cleaning as we call it here, which is the English word we give to it hereabout. ‘ei’ as in ‘feidh’ (genitive of deer).</description>
+    </item>
+    <item><headword id="d0e118" type="heading" level="h1">7. Milking</headword></item>
+    <item>
+      <headword id="d0e123">cog</headword>
+      <description>This was the vessel used for milking shaped like this: [see below]. Excuse the poor drawing but this will give you some idea how it looked. It was made of wood with an iron ring round the top and bottom. One spar of the cog was longer than the others in order to hold it steady when the calf was drinking. The ‘co’ same as in ‘còig’ or rather a softer sound as in ‘cothrom’.
+        <illustration src="NethyBridgeNSmithcattleillust1.jpg" width="150"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e134">[fro-stick]</headword>
+      <description>Another thing that was used in connection with milk, I do not know the Gaelic name for it but in English it is called a fro-stick. In fact we used to have one here though I have not seen it for some time. I’ll try and make a drawing of one which will give you an idea what it looked like. It was used for what we called a ‘fuarag’. This was some cream in the bottom of a flat dish or any vessel with a flat bottom, you put the fro-stick in it and kept the handle tight between the palms of the hands and made a rubbing movement causing the fro-stick to go one way then the other continuing this for about five minutes, depending on the quality of the cream, until it almost reached the stage what we called the ‘bainne-briste’ stage. ‘Bainne-briste’ was when the milk was starting to change from milk to buttermilk. The ‘fuarag’ was the stage before that when the cream went sour and this was often taken. The material which went round the four spokes was the long hard hair at the end of a cow’s tail like a rope. It didn’t fall off as the ends of the spokes were scouped out cup shaped.
+        <illustration src="NethyBridgeNSmithcattleillust2.jpg" width="150"/>
+      </description>
+    </item>
+	<item>
+	  <headword id="d0e145">[fuarag]</headword>
+	  <description>[See fro-stick.]</description>
+	</item>
+	<item>
+	  <headword id="d0e154">[bainne-briste]</headword>
+	  <description>[See fro-stick.]</description>
+	</item>
+    <item><headword id="d0e162" type="heading" level="h1">8. Feeding</headword></item>
+    <item>
+      <headword id="d0e167">spallag</headword>
+      <description>This was the word used for a forkful of hay.</description>
+    </item>
+    <item><headword id="d0e175" type="heading" level="h1">9. Apparatus</headword></item>
+    <item>
+      <headword id="d0e180">spearreach</headword>
+      <description>This was a piece of rope tied round ‘iosgaid’, what we called the hough, this was put on a sheep for three or four days to stop it from jumping into corn or going where she should not go. I’ve never seen anything put on cattle. The string or whatever was used could not be left on too long as it would cut into the leg, I’ve often seen that happen.</description>
+    </item>
+    <item>
+	  <headword id="idola86">[note]</headword>
+	  <description>This brings to my memory question six on the front of this paper. [NOTES: this seems to be a misunderstanding. ‘Question six’ asks the informants to use a word like ‘beag’ to show the gender of the noun. Mr Smith just provides us with two terms containing ‘beag’ but not connected with cattle in any way.]</description>
+    </item>
+	<item>
+      <headword id="d0e198">[cas-bheag]</headword>
+      <description>When a young dog was too hasty and difficult to control, one of his front legs was put in between the [word missing] and his throat or tied up to the collar in order to slow him down and make him more biddable. This was called the ‘cas-bheag’.</description>
+    </item>
+    <item>
+      <headword id="d0e207">[féil-beag]</headword>
+      <description>The word I’ve heard here for the ordinary kilt was the ‘féil-beag’ though anytime I’ve come across the word in Gairm or Sruth it is just written as ‘féileadh’ but I think ‘féil-beag beag’ [sic] would be a more descriptive word by what we see worn by some of the female sex at the present day.</description>
+    </item>
+    <item><headword id="d0e215" type="heading" level="h1">10. Diseases</headword></item>
+    <item><headword id="d0e219" type="heading" level="h1">11. Miscellaneous</headword><description>[misnumbered as 12] </description></item>
+    <item>
+      <headword id="d0e224">sogho</headword>
+      <description>This was the word used for calling a cow. The word is pronounced exactly the same as the fifth note in the music scale but the ‘o’ sound was slightly longer.</description>
+    </item>
+    <item>
+      <headword id="d0e233">pruidh-dhé</headword>
+      <description>This was the call for a calf. The ‘ui’ is the same as ‘ui’ in ‘suidhe’ (sitting) and the ‘dhé’ same as ‘dhé’ in the genitive of God.</description>
+    </item>
+    <item>
+      <headword id="d0e242">[prui-seog]</headword>
+      <description>While on the subject of calling animals, the word used here for calling a horse was ‘prui-seog’, the ‘og’ the same as in ‘òg’.</description>
+    </item>
+    <item>
+      <headword id="d0e251">spréidheach</headword>
+      <description>Having a number of cattle.</description>
+    </item>
+    <item>
+      <headword id="d0e260">cachd</headword>
+      <description>[Cow dung.] The ‘achd’ is the same as the ‘aca’ in ‘aca’ (at them). ‘Caca’ may be a better way of spelling it.</description>
+    </item>
+  </items>
+</fieldworkDocument>

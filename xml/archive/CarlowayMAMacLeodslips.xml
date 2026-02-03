@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 10/8/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_CarlowayMAMacLeodslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>1971, 1977</date>
+  <informant>
+    <nameEnglish>Mary Ann MacLeod</nameEnglish>
+  </informant>
+  <location>Lewis, Carloway</location>
+  <items>
+    <item>
+      <headword id="idp115468056">siorstaigeadh</headword>
+      <description>Notes: ‘playing truant.’</description>
+    </item>
+    <item>
+      <headword id="idp115484112">criomadair</headword>
+      <description>Notes: ‘cleg.’</description>
+    </item>
+  </items>
+</fieldworkDocument>

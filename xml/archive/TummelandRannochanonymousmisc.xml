@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 1/4/15 -->
+<!-- Again, the IPA is mangled here, but also in the Word file so not much I can do about it -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Word-lists_TummelandRannochanonymousmisc" docType="wordlist" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <fieldworker>[Tony Dilworth]</fieldworker>
+  <informant>
+    <nameEnglish>?</nameEnglish>
+  </informant>
+  <location>Tummel and Rannoch</location>
+  <items>
+    <item>
+	   <headword id="idola457" type="heading" level="h1">Words from Tummel and Rannoch</headword>
+	</item>
+	<item>
+      <headword id="idp120807088">dubh-threabh</headword>
+      <description>mole.</description>
+    </item>
+    <item>
+      <headword id="idp120804136">dubh-mhongach</headword>
+      <description>mole. (Argyll)</description>
+    </item>
+    <item>
+      <headword id="idp120800896">turcan</headword>
+      <description>slabs of wood.</description>
+    </item>
+    <item>
+      <headword id="idp120821848">ciotag</headword>
+      <description>any garment thrown over shoulders.</description>
+    </item>
+    <item>
+      <headword id="idp120823360">ceapair</headword>
+      <description>piece of bread and butter.</description>
+    </item>
+    <item>
+      <headword id="idp120824872">iarunn-faldair</headword>
+      <description>scythe.</description>
+    </item>
+    <item>
+      <headword id="idp120826384">tut</headword>
+      <description>a soft lump.</description>
+    </item>
+    <item>
+      <headword id="idp120827896">cnap</headword>
+      <description>a hard lump.</description>
+    </item>
+    <item>
+      <headword id="idp120829408">damh</headword>
+      <description>castrated bull.</description>
+    </item>
+    <item>
+      <headword id="idp120830920">damh-fiadh</headword>
+      <description>stag.</description>
+    </item>
+    <item>
+      <headword id="idp120832432">fairc</headword>
+      <description>[farxʹkʹ] a wooden mallet.</description>
+    </item>
+    <item>
+      <headword id="idp120834808">failtein</headword>
+      <description>single hair.</description>
+    </item>
+    <item>
+      <headword id="idp120836320">ceann-iomair</headword>
+      <description>edge of field left to be ploughed at finish.</description>
+    </item>
+    <item>
+      <headword id="idp161215416">anigidh</headword>
+      <description>crabbed, nasty.</description>
+    </item>
+    <item>
+      <headword id="idp161214192">croidhleag</headword>
+      <description>one handled basket.</description>
+    </item>
+    <item>
+      <headword id="idp158921408">sgulan</headword>
+      <description>two handled basket.</description>
+    </item>
+    <item>
+      <headword id="idp158922920">àrlas, atharlas</headword>
+      <description>[aurɫıs] a shilling or more given to ratify a bond of hire.</description>
+    </item>
+    <item>
+      <headword id="idp158924648">trath-neòin</headword>
+      <description>supper.</description>
+    </item>
+    <item>
+      <headword id="idp158926160">dìot</headword>
+      <description>breakfast.</description>
+    </item>
+    <item>
+      <headword id="idp158927672">preas-dris</headword>
+      <description>wild rose.</description>
+    </item>
+    <item>
+      <headword id="idp158929184">geibein</headword>
+      <description>[j̊e:b̥ænʹ] crop of bird.</description>
+    </item>
+    <item>
+      <headword id="idp158931416">poinneach</headword>
+      <description>boy.</description>
+    </item>
+    <item>
+      <headword id="idp158932928">cidean</headword>
+      <description>a grain.</description>
+    </item>
+    <item>
+      <headword id="idp158934440">umhlag</headword>
+      <description>[ũɫak] smaller than a dòrlach.</description>
+    </item>
+    <item>
+      <headword id="idp158936168">sgrìob</headword>
+      <description>furrow.</description>
+    </item>
+    <item>
+      <headword id="idp158937680">lò</headword>
+      <description>[ɫo̜:] a meal.</description>
+    </item>
+    <item>
+      <headword id="idp158939408">dìoltach</headword>
+      <description>fond of, persistent.</description>
+    </item>
+    <item>
+      <headword id="idp158940920">cleachdaireachd</headword>
+      <description>blethering.</description>
+    </item>
+    <item>
+      <headword id="idp158942432">ciste-chliabh</headword>
+      <description>a wooden box [?] for keeping milk with a basket front of woven willow used at shieling.</description>
+    </item>
+    <item>
+      <headword id="idp158943944">cuibheall-barr</headword>
+      <description>wheelbarrow.</description>
+    </item>
+    <item>
+	  <headword id="idola458" type="heading" level="h1">These words used by old joiner in Dall, Rannoch.</headword>
+	</item>
+    <item>
+      <headword id="idp158947184">ruaidh</headword>
+      <description>rotten centre in tree.</description>
+    </item>
+    <item>
+      <headword id="idp158948696">crianadh</headword>
+      <description>shrinking.</description>
+    </item>
+    <item>
+      <headword id="idp158950208">gaoid</headword>
+      <description>hollow space in centre of tree.</description>
+    </item>
+    <item>
+      <headword id="idp158951720">saor-chuibhlchan</headword>
+      <description>wheelwright.</description>
+    </item>
+    <item>
+      <headword id="idp119369344">beairt thuairneil</headword>
+      <description>turner’s lathe.</description>
+    </item>
+    <item>
+      <headword id="idp119370856">guid</headword>
+      <description>goudge [sic] [gouge?].</description>
+    </item>
+    <item>
+      <headword id="idp119372368">leathrach</headword>
+      <description>leather.</description>
+    </item>
+    <item>
+      <headword id="idp119373880">troigh-thomhais</headword>
+      <description>foot-rule.</description>
+    </item>
+    <note>[blank]</note>
+    <item>
+      <headword id="idp119376256">lar-chuib</headword>
+      <description>for cutting turf.</description>
+    </item>
+    <item>
+      <headword id="idp119377768">cùlag</headword>
+      <description>a turf.</description>
+    </item>
+    <item>
+      <headword id="idp119379280">na cuairtichean</headword>
+      <description>sheep-gatherings.</description>
+    </item>
+    <item>
+      <headword id="idp119380792">duman-allaidh (eallaidh)</headword>
+      <description>spider.</description>
+    </item>
+    <item>
+      <headword id="idp119382304">suimeach</headword>
+      <description>easy-going.</description>
+    </item>
+    <item>
+      <headword id="idp119383816">sruthlag</headword>
+      <description>smaller than allt.</description>
+    </item>
+    <item>
+      <headword id="idp119385328">claisinn</headword>
+      <description>hearing.</description>
+    </item>
+    <item>
+      <headword id="idp119386840">cuirm</headword>
+      <description>marriage.</description>
+    </item>
+    <item>
+      <headword id="idp119388352">a’ cur àm ailt air</headword>
+      <description>delaying.</description>
+    </item>
+    <item>
+      <headword id="idp119389864">plub</headword>
+      <description>head.</description>
+    </item>
+    <item>
+      <headword id="idp119391376">casan-carbaid</headword>
+      <description>rafters.</description>
+    </item>
+    <item>
+      <headword id="idp119392888">bogha-braon</headword>
+      <description>rainbow.</description>
+    </item>
+    <item>
+      <headword id="idp119394400">chuir e as na h-eubartan e</headword>
+      <description>put out of action.</description>
+    </item>
+    <item>
+      <headword id="idp119395912">sgal-cridhe</headword>
+      <description>heartburn.</description>
+    </item>
+    <item>
+      <headword id="idp119397424">gulbardach</headword>
+      <description>curlew.</description>
+    </item>
+    <item>
+      <headword id="idp119398936">snaim-bàta</headword>
+      <description>a type of knot.</description>
+    </item>
+    <item>
+      <headword id="idp119400448">cnàmh</headword>
+      <description>rotting.</description>
+    </item>
+    <item>
+      <headword id="idp158035736">leitheinean</headword>
+      <description>twins.</description>
+    </item>
+    <item>
+      <headword id="idp158037248">griseach</headword>
+      <description>coldish.</description>
+    </item>
+    <item>
+      <headword id="idp158038760">lòsan</headword>
+      <description>pane of glass.</description>
+    </item>
+    <item>
+      <headword id="idp158040272">clais-bhlàr</headword>
+      <description>army trench.</description>
+    </item>
+    <item>
+      <headword id="idp158041784">clach-lochd</headword>
+      <description>quarry.</description>
+    </item>
+    <item>
+      <headword id="idp158043296">gabhail-roinn</headword>
+      <description>compass.</description>
+    </item>
+    <item>
+      <headword id="idp158044808">brògan-caomhn’</headword>
+      <description>best shoes.</description>
+    </item>
+    <item>
+      <headword id="idp158046320">brògan-caitheamh</headword>
+      <description>everyday shoes.</description>
+    </item>
+    <item>
+      <headword id="idp158047832">staorgaid</headword>
+      <description>[stɤrɤkatʃ] noise.</description>
+    </item>
+    <item>
+      <headword id="idp158049560">stalan</headword>
+      <description>stallion.</description>
+    </item>
+    <item>
+      <headword id="idp158051072">crann</headword>
+      <description>wooden door bolt.</description>
+    </item>
+    <item>
+      <headword id="idp158052584">iorman</headword>
+      <description>[ı̯uruman] song.</description>
+    </item>
+    <item>
+      <headword id="idp158054312">pùd, pùid</headword>
+      <description>bird, birds.</description>
+    </item>
+    <item>
+      <headword id="idp158055824">fearnagan</headword>
+      <description>sloes.</description>
+    </item>
+    <item>
+      <headword id="idp158057336">cabar-droma</headword>
+      <description>ridge-pole of house.</description>
+    </item>
+    <item>
+      <headword id="idp158058848">sùighit</headword>
+      <description>seasoned (of wood).</description>
+    </item>
+    <item>
+      <headword id="idp158060360">suidheachan</headword>
+      <description>rafter of trunk and branch for a thatched roof. <illustration src="TummelandRannochanonymousmiscillust1.jpg" width="200"/></description>
+    </item>
+    <item>
+      <headword id="idp158061944">[tʃe̜:-u]</headword>
+      <description>dried up – of wood air [tʃe̜:-u].</description>
+    </item>
+    <item>
+      <headword id="idp158063888">clachran</headword>
+      <description>stepping stones.</description>
+    </item>
+    <item>
+      <headword id="idp158065400">clach-bholg</headword>
+      <description>[vɔɫak] a stick with a split and a stone inserted to frighten crows.</description>
+    </item>
+    <item>
+      <headword id="idp158067200">iarrtas</headword>
+      <description>loan.</description>
+    </item>
+    <item>
+      <headword id="idp119304024">trasg</headword>
+      <description>dry weather.</description>
+    </item>
+    <item>
+      <headword id="idp119305536">feachd</headword>
+      <description>twisting.</description>
+    </item>
+    <item>
+      <headword id="idp119307048">creaban</headword>
+      <description>[krẽ̜b̥an] 3 legged stool.</description>
+    </item>
+    <item>
+      <headword id="idp119308776">chaidh a thadhall</headword>
+      <description>score a goal.</description>
+    </item>
+    <item>
+      <headword id="idp119310288">claobach</headword>
+      <description>clumsy-handed.</description>
+    </item>
+    <item>
+      <headword id="idp119311800">[mòd]</headword>
+      <description>Cuiridh mòd ort. Bheir chun ’mhòd thu. – used as threats.</description>
+    </item>
+    <item>
+      <headword id="idp119313456">bruthaist</headword>
+      <description>brose.</description>
+    </item>
+    <item>
+      <headword id="idp119314968">ceairteal</headword>
+      <description>ball of wool.</description>
+    </item>
+    <item>
+      <headword id="idp119316480">spiolagan</headword>
+      <description>kindling-sticks.</description>
+    </item>
+    <item>
+      <headword id="idp119317992">sgrath-mhór</headword>
+      <description>heron.</description>
+    </item>
+    <item>
+      <headword id="idp119319504">lag</headword>
+      <description>weak in strength.</description>
+    </item>
+    <item>
+      <headword id="idp119321016">anfhann</headword>
+      <description>weak thro’ illness.</description>
+    </item>
+    <item>
+      <headword id="idp119322528">sradag</headword>
+      <description>star.</description>
+    </item>
+    <item>
+      <headword id="idp119324040">crios</headword>
+      <description>sprigs of corn used to tie the sheaf.</description>
+    </item>
+    <item>
+      <headword id="idp119325552">curan</headword>
+      <description>crock for salting butter.</description>
+    </item>
+    <item>
+      <headword id="idp119327064">pigidh</headword>
+      <description>crock for salting butter.</description>
+    </item>
+    <item>
+      <headword id="idp119328576">planndais</headword>
+      <description>[pɫãũnts] plants.</description>
+    </item>
+    <item>
+      <headword id="idp119330592">plaosg</headword>
+      <description>potato-skin.</description>
+    </item>
+    <item>
+      <headword id="idp119332104">figheadair-fodair</headword>
+      <description>spider.</description>
+    </item>
+    <item>
+      <headword id="idp119333616">grè</headword>
+      <description>thrush.</description>
+    </item>
+    <item>
+      <headword id="idp119335128">atharrach nòt</headword>
+      <description>another note.</description>
+    </item>
+    <item>
+      <headword id="idp115133976">muthadh nòt</headword>
+      <description>change of a note.</description>
+    </item>
+    <item>
+      <headword id="idp115135488">cnoidheadag</headword>
+      <description>[krɛ̃ı̯̃-ıtak] football.</description>
+    </item>
+    <item>
+      <headword id="idp115137216">bodhar</headword>
+      <description>[b̥ɔuʷər] horse – word from an old song.</description>
+    </item>
+    <item>
+      <headword id="idp115138944">paoic</headword>
+      <description>[pɤıxʹkʹ] piece.</description>
+    </item>
+    <item>
+      <headword id="idp115141320">lethchar coltach</headword>
+      <description>rather like.</description>
+    </item>
+    <item>
+      <headword id="idp115142832">a’ tighinn thuig’</headword>
+      <description>improving.</description>
+    </item>
+    <item>
+      <headword id="idp115144344">a stàn</headword>
+      <description>down.</description>
+    </item>
+    <item>
+      <headword id="idp115145856">ghabh e anns an Dàil</headword>
+      <description>he was hired at Dall.</description>
+    </item>
+    <item>
+      <headword id="idp115147368">chan-eil  ann domh</headword>
+      <description>[ɤı̯-ıs] it is of no use to me.</description>
+    </item>
+    <item>
+      <headword id="idp115149168">bùlas</headword>
+      <description>handle of a small pot.</description>
+    </item>
+    <item>
+      <headword id="idp115150680">cloimheag</headword>
+      <description>snowflake.</description>
+    </item>
+    <item>
+      <headword id="idp115152192">[lʹıɤran]</headword>
+      <description>slippery green moss on stones.</description>
+    </item>
+    <item>
+      <headword id="idp115154352">aghaist</headword>
+      <description>[ɤɣaʃtʃ] hand-line.</description>
+    </item>
+    <item>
+      <headword id="idp115156080">aithghearr Baintighearn an t-Sruthain gu Fearnan</headword>
+      <description>via Logierait instead of over the hill – said of a foolish action.</description>
+    </item>
+    <item>
+      <headword id="idp115157592">Eunach Dàil</headword>
+      <description>[ẽ̜ũnəx] Dail grouse moor.</description>
+    </item>
+  </items>
+</fieldworkDocument>

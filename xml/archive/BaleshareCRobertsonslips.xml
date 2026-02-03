@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 5/8/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_BaleshareCRobertsonslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>02/1969</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <informant>
+    <nameEnglish>Calum Robertson</nameEnglish>
+    <age>c. 80</age>
+  </informant>
+  <location>North Uist, Baleshare</location>
+  <items>
+    <item>
+      <headword id="idp161820792">lobhta</headword>
+      <description>[ɫɔtə] Notes: a wooden floor.</description>
+    </item>
+    <item>
+      <headword id="idp161834976">muileann</headword>
+      <description>Quotation: muileann gaoitheadh. Notes: windmill. (Pl. na muiltean.)</description>
+    </item>
+    <item>
+      <headword id="idp161836632">roid</headword>
+      <description>[rɔdʹ] Quotation: roid eòrna. Notes: a barley sheaf with two bands.</description>
+    </item>
+    <item>
+      <headword id="idp161838504">iullann</headword>
+      <description>[ju̜ɫən̪] Notes: a stackyard.</description>
+    </item>
+    <item>
+      <headword id="idp161840232">òpair</headword>
+      <description>[ɔ:pəɾ] Notes: the mill hopper.</description>
+    </item>
+    <item>
+      <headword id="idp161841960">stràc</headword>
+      <description>[st̪ɾɑ:xk] Quotation: stràc spealadh. Notes: swathe.</description>
+    </item>
+    <item>
+      <headword id="idp161843832">as-bhuain</headword>
+      <description>Notes: stubble.</description>
+    </item>
+    <item>
+      <headword id="idp161845344">brist</headword>
+      <description>Quotation: a’ bristeadh as. Notes: just when the ears of corn or barley appear.</description>
+    </item>
+    <item>
+      <headword id="idp161847000">dlòth</headword>
+      <description>[d̪ɫɔ:] Notes: bunch cut by a sweep of the “corran”. Handful.</description>
+    </item>
+    <item>
+      <headword id="idp161848800">gaoth</headword>
+      <description>Quotation: muilleann gaoitheadh.</description>
+    </item>
+  </items>
+</fieldworkDocument>

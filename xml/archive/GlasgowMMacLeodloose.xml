@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 3 5 13 -->
+<fieldworkDocument docId="MurdoMacLeod_GlasgowMMacLeodloose" docType="wordlist" subType="Miscellaneous">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>[1972 on the slips]</date>
+  <fieldworker>[self]</fieldworker>
+  <informant>
+    <nameEnglish>Murchadh MacLeòid (Murdo MacLeod)</nameEnglish>
+    <origin>[Lewis, Uig an Iar]</origin>
+  </informant>
+  <location>[Glasgow]</location>
+  <items>
+    <item><headword id="d0e29" type="heading" level="h1">“Argyll’s Highlands or MacCailein Mor and the Lords of Lorne” by Cuthbert Bede (Rev. Edward Bradley of Grantham).</headword></item>
+    <item>
+      <headword id="d0e34">leurach</headword>
+      <description>“The marriage customs were these: When a young pair had got through the leurach, or contract, and had agreed to get married with the consent of their relatives, a night was appointed for the reite, when the friends met and a feast was prepared, of which all were hearty partakers.” (page 199)</description>
+    </item>
+    <item>
+      <headword id="d0e43">sgreachan réilig</headword>
+      <description>“a shrieker of a burying place.” (page 204)</description>
+    </item>
+    <item>
+      <headword id="d0e52">crann tràigh</headword>
+      <description>“… that the fairy cross was also called crann tràigh.” (page 220)</description>
+    </item>
+    <item>
+      <headword id="d0e61">stike raide</headword>
+      <description>“it was customary to assign him a certain share of the spoil, which was called a stike raide or stike creich – ‘road collop’.” (page 252)</description>
+    </item>
+    <item>
+      <headword id="d0e70">stike creich</headword>
+      <description>[See stike raide]</description>
+    </item>
+    <item>
+      <headword id="d0e79">Siol-Ghall</headword>
+      <description>[sic] “ – he whose parents were Highland on the one side and Lowland on the other – was called Sìol Ghall.” (page 271)</description>
+    </item>
+    <item>
+      <headword id="d0e88">sìol-dubh</headword>
+      <description>plancton.</description>
+    </item>
+  </items>
+</fieldworkDocument>

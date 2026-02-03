@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 23 4 13 -->
+<fieldworkDocument docId="HouseandFurnishings_anonymoustaigh1" docType="questionnaire" subType="TaighGaidhealach">
+  <title>Taigh Gàidhealach / House and Furnishings</title>
+  <fieldworker>[self?]</fieldworker>
+  <note>[NOTES: the first page containing personal details is either missing or was never included. The questionnaire was completed in pencil and the first three sections were then erased but are still legible. The information is presented in the form of descriptions rather than a list of terms with their definitions so in this file some headwords have been added and in section 6 some parts have been rearranged to keep related information under the same heading.]</note>
+  <informant>
+    <nameEnglish>anonymous</nameEnglish>
+    <origin>[Harris? – cf. ‘Taigh Croitear anns na Hearadh – an taigh anns an do rugadh mi.’]</origin>
+  </informant>
+  <location>Harris</location>
+  <!-- ILLUSTRATIONS -->
+  <items>
+    <item><headword id="d0e28" type="heading" level="h1">1. An stéidh is am balla</headword></item>
+    <item>
+      <headword id="d0e33">[an stéidh]</headword>
+      <description>Taigh Croitear anns na Hearadh - an taigh anns an do rugadh mi. Air a steidheachadh air criadh (clay foundation, black soil in the arca).</description>
+    </item>
+    <item>
+      <headword id="d0e42">[am balla]</headword>
+      <description>Bha am balla ’muigh sam balla staigh de chloich – feadhainn dhiubh gu math mor – agus a reir coltais cha do chosgadh cus uine ’gan snaidheadh (no time was wasted on dressing the stones). Bha am balla mu shia troighean a dh’airde – fad an taighe mu dha fhichead troigh – leud an taigh mu choig troighean deug.</description>
+    </item>
+    <item>
+      <headword id="d0e51">[gludruigeadh</headword>
+      <description>[?]] Bha ghlaic eadar an da bhalla air a lionadh le criadh agus clachan meanbh (clachan meanbh agus criadh air am measgachadh. Theiridh mid  [sic] – gludruigeadh [?] ris a sin).</description>
+    </item>
+    <item><headword id="d0e59" type="heading" level="h1">2. Am mullach ’s an tughadh</headword></item>
+    <item>
+      <headword id="d0e64">[an tughadh]</headword>
+      <description>Bha an taigh seo air a thughadh le muran agus air a cheangaill sìos le sioman fraoich arneo rop Gallda ris an canadh iad – ciadhear. 1, 2, 3 etc. na casan ceangaill. 4. an gath droma. 5. na sparan. 6. na sparan. 7. luidheir. 8. maide-staraig. Bha na casan ceangaill air an cur sios air iomall a o [?] taigh a bhalla. Nuair a bha ’n taigh ullamh coiseachadh duine mor thimcheall air barr a bhalla. Bha bordan fiodh air an cur tarsuinn air na sparan fodh ’n mhuran. Co as a thainig am fiodh? Chan ’eil moran fiodha anns na Hearadh. Bha fiodh bharallain a bh’air deibheadh [?].
+        <illustration src="anonymoustaighillust1.jpg" width="400"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e75">ciadhear</headword>
+      <description>choir yarn.</description>
+    </item>
+    <item>
+      <headword id="d0e84">luidheir</headword>
+      <description>chimney. Sometimes called ‘similear’.</description>
+    </item>
+    <item><headword id="d0e92" type="heading" level="h1">3. Dorsan is uinneagan</headword></item>
+    <item>
+      <headword id="d0e97">an dorus am muigh</headword>
+      <description>Bha aon dorus air an taigh – sin air an taobh am muigh, ris an canamaid an dorus a [sic] muigh. Bha da ludagan iarainn air. 1. [refers to the illustration] toll airson na srang.
+        <illustration src="anonymoustaighillust2.jpg" width="200"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e108">[snechd]</headword>
+      <description>Airson a chumail duinte, se snechd a theireadh sinn ris a bhioran fiodha bha airson a dhunadh. Bha e (an snechd) air a shocrachadh air cul an doruis agus air chumail an aite far an ruigeadh srang air. Bha an t-srang air a cur troimh tholl beag anns an dorus far a togadh duine an t-snechd le tarruinn air an t-srang. (The snechd was secured on a swivel on the back of the door, and rested on a crutch on the door post when closed.)</description>
+    </item>
+    <item>
+      <headword id="d0e117">[uinneagan]</headword>
+      <description>Bha tri seomraichean san taigh seo – agus uinneag anns gach aon dhiubh. Bha uinneag ceann an teine mu thri troighean air gach rathad, agus uinneag ceann shios an taighe mun aon mheadachd. Bha uinneag na closaid na bu lutha [sic]. Be uinneag na closaid an aon te a ghabhadh fosgladh.</description>
+    </item>
+    <item><headword id="d0e125" type="heading" level="h1">4. An broinn an taighe: na sèamraichean</headword></item>
+    <item><headword id="d0e129" type="heading" level="h1">5. An t-àite-teine</headword></item>
+    <item>
+      <headword id="d0e134">[mot]</headword>
+      <description>’Se mot a theireadh sinn ris an t-seors’ ait teine againne – bha moran dhiubh anns a bhaile againn. Cha b’ann am meadhainn an lair a bha e. Rudeigan [sic] mar seo. (6. [refers to the illustration] na busan made of clay and stone – flat on top, suitable for pans to be kept near the fire.)
+        <illustration src="anonymoustaighillust3.jpg" width="400"/>
+      </description>
+    </item>
+    <item>
+      <headword id="d0e145">[leac an teinean]</headword>
+      <description>The stone slab in front of the fire – known as ‘leac an teinean’. During my time there I never saw coal burnt.</description>
+    </item>
+    <item>
+      <headword id="d0e154">[culaiste]</headword>
+      <description>Bha balla cloiche air cuil a mhoir (far an robh a chlosaid) – theireadh cuid culaiste ris an t-seomar seo.</description>
+    </item>
+    <item><headword id="d0e162" type="heading" level="h1">6. Airneis an taighe</headword></item>
+    <item>
+      <headword id="d0e167">[trannsa]</headword>
+      <description>Nuair a rachadh tu steach air an dorus am muigh bha thu anns an trannsa. Bha na cuinneagan uisge air an cumail san trannsa. Gach feasgar Sathuirne bha ’n taigh gu leir air a dheagh sguabadh – le sguab fhraoich – agus sadadh math de ghainmhich air a chur air – theirte nuarson gun robh an taigh air a dh’ressaigeadh!</description>
+    </item>
+    <item>
+      <headword id="d0e176">[ceann an teine]</headword>
+      <description>Nuair a rachadh tu steach air an dorus am muigh bha thu anns an trannsa. Air do laimh chli bha ceann an teine. Cha robh leabaidh ann seo idir. Bha beinge fhiodha ann air an suidheadh sianar co-dhiu, an dreassair far an robh na soitheachan, leithid cupanan, truinnsearan agus gnothaichean mar sin air an cumail. Bha tri no ceithir a chathraichean ann agus creadhaill. Bha bord gu math mor ann – a shuidheadh ochdnar no mar sin. Cha robh ann an seomar sam bith ach ceann an teine far an robh am biadh air a dheasachadh.</description>
+    </item>
+    <item>
+      <headword id="d0e185">[an ceann shios]</headword>
+      <description>Ann a ceann shios an taighe bha na leabanan agus caithir neo dha.</description>
+    </item>
+    <item><headword id="d0e193" type="heading" level="h1">7. Sobhal, bàthach, no bothanan sam bith eile</headword></item>
+    <item>
+      <headword id="d0e198">[an sobhal ’s a’ bhathach]</headword>
+      <description>Bha an sobhal sa bhathach ceangailte ris an taigh: aig ceann shios an taighe bha balla cloiche eadar is iad. Cha robh crodh no beathach sam bith eile air an cumail san taigh chomhnaidh. Air do laimh dheas anns a bhathaich bha an crodh, agus an t-each – bha esan aig ceann shuas sa bathchadh [sic], agus aig an fhior cheann shuas bha an sobhal – cha robh e gle mhor ach bha duine comasach air an t-suisde oibreachadh ann.</description>
+    </item>
+    <item>
+      <headword id="d0e207">[bothag chearc]</headword>
+      <description>Bha bothag chearc mu leth mhile bho’n taigh. An uair ’s gun robh an siol air chur ’san Earrach bha na cearcan ’gan cur chon na bothaig.</description>
+    </item>
+  </items>
+</fieldworkDocument>

@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 25 4 13 -->
+<fieldworkDocument docId="CattleandSheep_GlasgowMMacLeodcattle1" docType="questionnaire" subType="Cattle">
+  <title>Crodh / Cattle</title>
+  <date>26/04/1971</date>
+  <fieldworker>[self]</fieldworker>
+  <note>[NOTES: this is not the ‘cattle’ questionnaire itself but a letter that most probably accompanied it (see the first sentence: ‘Seo am pàipear agus tha e ’na thìde a chur a steach’). It contains a few additional words as well as a list of all the nouns that presumably appeared in the questionnaire with their gender (E for masculine and I for feminine). The questionnaire itself seems to be missing.]</note>
+  <informant>
+    <nameEnglish>Murdo
+MacLeod</nameEnglish>
+    <nameGaelic>Murchadh MacLeòid </nameGaelic>
+    <age>[59]</age>
+    <origin>[Lewis, Uig an Iar]</origin>
+  </informant>
+  <location>Glasgow</location>
+  <items>
+    <item><headword id="d0e38" type="heading" level="h1">Facail – E agus I</headword></item>
+    <item>
+      <headword id="d0e43">spiorsag (I)</headword>
+    </item>
+    <item>
+      <headword id="d0e49">spreodag (I)</headword>
+    </item>
+    <item>
+      <headword id="d0e55">smiurs (E)</headword>
+    </item>
+    <item>
+      <headword id="d0e61">gith-how (E)</headword>
+    </item>
+    <item>
+      <headword id="d0e67">durra-mheig (E)</headword>
+    </item>
+    <item><headword id="d0e72" type="heading" level="h1">[blank]</headword></item>
+    <item>
+      <headword id="d0e77">laogh (E)</headword>
+    </item>
+    <item>
+      <headword id="d0e83">gamhainn (E)</headword>
+    </item>
+    <item>
+      <headword id="d0e89">agh (E)</headword>
+    </item>
+    <item>
+      <headword id="d0e95">seasgach (E)</headword>
+    </item>
+    <item>
+      <headword id="d0e101">rotair (E)</headword>
+    </item>
+    <item>
+      <headword id="d0e107">bó (I)</headword>
+    </item>
+    <item>
+      <headword id="d0e113">bó laoigh (I)</headword>
+    </item>
+    <item>
+      <headword id="d0e119">gamhnach (I)</headword>
+    </item>
+    <item>
+      <headword id="d0e125">seachlach (I)</headword>
+    </item>
+    <item>
+      <headword id="d0e131">tri-ghamhnach (I)</headword>
+    </item>
+    <item><headword id="d0e136" type="heading" level="h1">(Biadhtach, dubh-chladach, spicean, ’se E a bhios unnda-san.)</headword><description>[?] </description></item>
+    <item><headword id="d0e140" type="heading" level="h1">[blank]</headword></item>
+    <item>
+      <headword id="d0e145">calg (E)</headword>
+    </item>
+    <item>
+      <headword id="d0e151">amh-sporag (I)</headword>
+    </item>
+    <item>
+      <headword id="d0e157">it-igheach (I)</headword>
+    </item>
+    <item>
+      <headword id="d0e163">sgòrnan (E)</headword>
+    </item>
+    <item>
+      <headword id="d0e169">sgamhan (E)</headword>
+    </item>
+    <item>
+      <headword id="d0e175">cliseach (I)</headword>
+    </item>
+    <item>
+      <headword id="d0e181">sprogan (E)</headword>
+    </item>
+    <item>
+      <headword id="d0e187">arc (I)</headword>
+    </item>
+    <item>
+      <headword id="d0e193">snàithle (I)</headword>
+    </item>
+    <item>
+      <headword id="d0e199">isbean (E)</headword>
+    </item>
+    <item>
+      <headword id="d0e205">lub-dhubh (I)</headword>
+    </item>
+    <item>
+      <headword id="d0e211">slabhaig (I)</headword>
+    </item>
+    <item><headword id="d0e216" type="heading" level="h1">[blank]</headword></item>
+    <item>
+      <headword id="d0e221">mèin darach (I)</headword>
+    </item>
+    <item>
+      <headword id="d0e227">dàir (I)</headword>
+    </item>
+    <item>
+      <headword id="d0e233">fianlan (E)</headword>
+    </item>
+    <item>
+      <headword id="d0e239">badhar (E)</headword>
+    </item>
+    <item>
+      <headword id="d0e245">salchar (E)</headword>
+    </item>
+    <item>
+      <headword id="d0e251">balg-uisge (E)</headword>
+    </item>
+    <item>
+      <headword id="d0e257">mulad (E)</headword>
+    </item>
+    <item>
+      <headword id="d0e263">sgrìob (I)</headword>
+    </item>
+	<item>
+	  <headword id="d0e269">[fèadhaichean]</headword>
+      <description>‘Fèadhaichean’, cha chuala mi riamh iad ach ann am plural.</description>
+	</item>
+    <item><headword id="d0e277" type="heading" level="h1">[blank]</headword></item>
+    <item>
+      <headword id="d0e282">(sreangan) sreang (I)</headword>
+    </item>
+    <item>
+      <headword id="d0e288">cas-ladarach (I)</headword>
+    </item>
+    <item>
+      <headword id="d0e294">bonnach comaineach (E)</headword>
+    </item>
+    <item><headword id="d0e299" type="heading" level="h1">[blank]</headword></item>
+    <item>
+      <headword id="d0e304">bleoghan (E)</headword>
+    </item>
+    <item>
+      <headword id="d0e310">sradadh (E)</headword>
+    </item>
+    <item>
+      <headword id="d0e316">bainne (E)</headword>
+    </item>
+    <item>
+      <headword id="d0e322">nùs (E)</headword>
+    </item>
+    <item>
+      <headword id="d0e328">leth-thrath (E)</headword>
+    </item>
+    <item>
+      <headword id="d0e334">peile (E)</headword>
+    </item>
+    <item>
+      <headword id="d0e340">muga (E)</headword>
+    </item>
+    <item>
+      <headword id="d0e346">siuga (E)</headword>
+    </item>
+    <item>
+      <headword id="d0e352">stòp (E)</headword>
+    </item>
+    <item><headword id="d0e357" type="heading" level="h1">[blank]</headword></item>
+    <item>
+      <headword id="d0e362">biota (I)</headword>
+    </item>
+    <item>
+      <headword id="d0e368">crannachan (E)</headword>
+    </item>
+    <item>
+      <headword id="d0e374">imideal (E)</headword>
+    </item>
+    <item>
+      <headword id="d0e380">buachair (E)</headword>
+    </item>
+    <item>
+      <headword id="d0e386">sgàird (E)</headword>
+    </item>
+    <item>
+      <headword id="d0e392">piatan (E)</headword>
+    </item>
+    <item>
+      <headword id="d0e398">afoinn (I)</headword>
+    </item>
+    <item>
+      <headword id="d0e404">buidheann (E)</headword>
+    </item>
+    <item><headword id="d0e409" type="heading" level="h1">[blank]</headword></item>
+    <item>
+      <headword id="d0e414">inghilt (I)</headword>
+    </item>
+    <item>
+      <headword id="d0e420">ionaltradh (E)</headword>
+    </item>
+    <item>
+      <headword id="d0e426">buachailleachd (I)</headword>
+    </item>
+    <item>
+      <headword id="d0e432">buachaille (E)</headword>
+    </item>
+    <item>
+      <headword id="d0e438">cuairteir (E)</headword>
+    </item>
+    <item>
+      <headword id="d0e444">banachaig (I)</headword>
+    </item>
+    <item>
+      <headword id="d0e450">cnap (E)</headword>
+    </item>
+    <item>
+      <headword id="d0e456">fiodaigeadh (E)</headword>
+    </item>
+    <item>
+      <headword id="d0e462">fodradh (E)</headword>
+    </item>
+    <item>
+      <headword id="d0e468">muillean (E)</headword>
+    </item>
+    <item><headword id="d0e473" type="heading" level="h1">[blank]</headword></item>
+    <item>
+      <headword id="d0e478">stàla (I)</headword>
+    </item>
+    <item>
+      <headword id="d0e484">buabhall (E)</headword>
+    </item>
+    <item>
+      <headword id="d0e490">stiall (I)</headword>
+    </item>
+    <item>
+      <headword id="d0e496">smeadhag (I)</headword>
+    </item>
+    <item>
+      <headword id="d0e502">dòrnan (E)</headword>
+    </item>
+    <item>
+      <headword id="d0e508">ceangal (E)</headword>
+    </item>
+    <item>
+      <headword id="d0e514">bacan (E)</headword>
+    </item>
+    <item>
+      <headword id="d0e520">buarach (I)</headword>
+    </item>
+    <item>
+      <headword id="d0e526">spearrach (Cha chreid mi nach robh an dà chuid againn E agus I.)</headword>
+    </item>
+	<item><headword id="d0e531" type="heading" level="h1">[blank]</headword></item>
+    <item>
+      <headword id="d0e536">spùt (E) (No smait na dhà E agus I.)</headword>
+    </item>
+    <item>
+      <headword id="d0e542">ruadh (E)</headword>
+    </item>
+    <item>
+      <headword id="d0e548">galair (E)</headword>
+    </item>
+    <item>
+      <headword id="d0e554">teasach (I)</headword>
+    </item>
+    <item>
+      <headword id="d0e560">crobhdach (I)</headword>
+    </item>
+    <item>
+      <headword id="d0e566">lios (Chanainn gur h-e E a chanadh sinne.)</headword>
+    </item>
+    <item>
+      <headword id="d0e572">tòc (I)</headword>
+    </item>
+    <item>
+      <headword id="d0e578">suab (Chanainn gur h-e I.)</headword>
+    </item>
+    <item>
+      <headword id="d0e584">bìdearra (E)</headword>
+    </item>
+  </items>
+</fieldworkDocument>

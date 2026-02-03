@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 11 6 13 -->
+<fieldworkDocument docId="AssortedFieldworkers_HiltonCRossbiadh" docType="questionnaire" subType="BiadhIsDeoch">
+  <title>Biadh is Deoch / Food and Drink</title>
+  <fieldworker>Mary MacDonald</fieldworker>
+  <note>[NOTES: all Gaelic headings were translated into English in second hand. This, together with the phonetic spelling of the Gaelic words, seems to suggest that the fieldworker may not have had Gaelic herself.]</note>
+  <informant>
+    <nameEnglish>Miss Cathie Ross</nameEnglish>
+    <age>born 1915</age>
+    <origin>[Ross-shire]</origin>
+  </informant>
+  <location>Hilton</location>
+  <items>
+    <item><headword id="d0e32" type="heading" level="h1">1. Na tràthan</headword></item>
+    <item>
+	  <headword id="d0e37">[blank]</headword>
+      <description>breakfast.</description>
+    </item>
+    <item>
+	  <headword id="d0e46">[blank]</headword>
+      <description>tea.</description>
+    </item>
+    <item>
+	  <headword id="d0e55">[blank]</headword>
+      <description>supper.</description>
+    </item>
+    <item>
+	  <headword id="d0e64">[blank]</headword>
+      <description>dinner?</description>
+    </item>
+    <item><headword id="d0e72" type="heading" level="h1">2. Am biadh a bhidhte gabhail aig gach tràth</headword></item>
+    <item><headword id="d0e76" type="heading" level="h2">Breakfast</headword></item>
+    <item>
+	  <headword id="d0e81">[blank]</headword>
+      <description>bacon and egg.</description>
+    </item>
+    <item>
+	  <headword id="d0e90">[blank]</headword>
+      <description>bread.</description>
+    </item>
+    <item>
+	  <headword id="d0e99">[blank]</headword>
+      <description>tea.</description>
+    </item>
+    <item>
+	  <headword id="d0e108">[blank]</headword>
+      <description>porridge.</description>
+    </item>
+    <item>
+	  <headword id="d0e117">[blank]</headword>
+      <description>toast?</description>
+    </item>
+    <item>
+	  <headword id="d0e126">[blank]</headword>
+      <description>butter.</description>
+    </item>
+    <item>
+      <headword id="d0e135">greem</headword>
+      <description>crowdie.</description>
+    </item>
+    <item>
+	  <headword id="d0e144">[blank]</headword>
+      <description>jam?</description>
+    </item>
+    <item>
+	  <headword id="d0e153">[blank]</headword>
+      <description>cheese.</description>
+    </item>
+    <item>
+	  <headword id="d0e162">[blank]</headword>
+      <description>butter.</description>
+    </item>
+    <item>
+	  <headword id="d0e171">[blank]</headword>
+      <description>sugar.</description>
+    </item>
+    <item>
+	  <headword id="d0e180">[blank]</headword>
+      <description>tea and biscuit.</description>
+    </item>
+    <item>
+	  <headword id="d0e189">[blank]</headword>
+      <description>milk.</description>
+    </item>
+    <item>
+	  <headword id="d0e198">[blank]</headword>
+      <description>kippers.</description>
+    </item>
+    <item><headword id="d0e206" type="heading" level="h2">Lunch?</headword></item>
+    <item>
+	  <headword id="d0e211">[blank]</headword>
+      <description>soup, broth.</description>
+    </item>
+    <item>
+	  <headword id="d0e220">[blank]</headword>
+      <description>meat and potatoes.</description>
+    </item>
+    <item>
+	  <headword id="d0e229">[blank]</headword>
+      <description>fish.</description>
+    </item>
+    <item>
+	  <headword id="d0e238">[blank]</headword>
+      <description>fresh herring.</description>
+    </item>
+    <item>
+	  <headword id="d0e247">[blank]</headword>
+      <description>salt herring.</description>
+    </item>
+    <item>
+	  <headword id="d0e256">[blank]</headword>
+      <description>black pudding.</description>
+    </item>
+    <item>
+	  <headword id="d0e265">[blank]</headword>
+      <description>white pudding.</description>
+    </item>
+    <item>
+      <headword id="d0e274">sleeshacks</headword>
+      <description>fried mashed potatoes.</description>
+    </item>
+    <item>
+	  <headword id="d0e283">[blank]</headword>
+      <description>2nd day’s broth.</description>
+    </item>
+    <item>
+	  <headword id="d0e292">[blank]</headword>
+      <description>chicken.</description>
+    </item>
+    <item>
+      <headword id="d0e301">cullach</headword>
+      <description>roaster.</description>
+    </item>
+    <item>
+	  <headword id="d0e310">[blank]</headword>
+      <description>pork.</description>
+    </item>
+    <item>
+	  <headword id="d0e319">[blank]</headword>
+      <description>beef, mutton.</description>
+    </item>
+    <item>
+	  <headword id="d0e328">[blank]</headword>
+      <description>chops, mince, stew.</description>
+    </item>
+    <item>
+	  <headword id="d0e337">[blank]</headword>
+      <description>salmon.</description>
+    </item>
+    <item>
+      <headword id="d0e346">lyopack</headword>
+      <description>flounder.</description>
+    </item>
+    <item>
+	  <headword id="d0e355">[blank]</headword>
+      <description>duck.</description>
+    </item>
+    <item>
+	  <headword id="d0e364">[blank]</headword>
+      <description>cod.</description>
+    </item>
+    <item>
+	  <headword id="d0e373">[blank]</headword>
+      <description>cod roe.</description>
+    </item>
+    <item>
+	  <headword id="d0e382">[blank]</headword>
+      <description>herring roe.</description>
+    </item>
+    <item>
+	  <headword id="d0e391">[blank]</headword>
+      <description>dogfish.</description>
+    </item>
+    <item>
+      <headword id="d0e400">moorcan</headword>
+      <description>rock salmon.</description>
+    </item>
+    <item>
+	  <headword id="d0e409">[blank]</headword>
+      <description>dark haddy.</description>
+    </item>
+    <item>
+	  <headword id="d0e418">[blank]</headword>
+      <description>haddock.</description>
+    </item>
+    <item>
+	  <headword id="d0e427">[blank]</headword>
+      <description>ling.</description>
+    </item>
+    <item>
+	  <headword id="d0e436">[blank]</headword>
+      <description>whiting.</description>
+    </item>
+    <item>
+	  <headword id="d0e445">[blank]</headword>
+      <description>lobster.</description>
+    </item>
+    <item>
+	  <headword id="d0e454">[blank]</headword>
+      <description>crab.</description>
+    </item>
+    <item>
+	  <headword id="d0e463">[blank]</headword>
+      <description>crab sandwich.</description>
+    </item>
+    <item>
+	  <headword id="d0e472">[blank]</headword>
+      <description>crab and tea (for supper).</description>
+    </item>
+    <item>
+	  <headword id="d0e481">[blank]</headword>
+      <description>wilks [sic]. [whelks?]</description>
+    </item>
+    <item>
+	  <headword id="d0e490">[blank]</headword>
+      <description>mussels.</description>
+    </item>
+    <item>
+	  <headword id="d0e499">[blank]</headword>
+      <description>boiled mussels.</description>
+    </item>
+    <item>
+	  <headword id="d0e508">[blank]</headword>
+      <description>cockles.</description>
+    </item>
+    <item>
+	  <headword id="d0e517">[blank]</headword>
+      <description>clams?</description>
+    </item>
+    <item>
+	  <headword id="d0e526">[blank]</headword>
+      <description>cabbage.</description>
+    </item>
+    <item>
+	  <headword id="d0e535">[blank]</headword>
+      <description>carrots.</description>
+    </item>
+    <item>
+	  <headword id="d0e544">[blank]</headword>
+      <description>custard.</description>
+    </item>
+    <item><headword id="d0e552" type="heading" level="h1">3. Dòighean air biadh a dheasachadh</headword></item>
+    <item>
+	  <headword id="d0e557">[blank]</headword>
+      <description>fry?</description>
+    </item>
+    <item>
+	  <headword id="d0e566">[blank]</headword>
+      <description>bake. I’m baking.</description>
+    </item>
+    <item>
+	  <headword id="d0e575">[blank]</headword>
+      <description>I’m cooking.</description>
+    </item>
+    <item>
+	  <headword id="d0e584">[blank]</headword>
+      <description>boil.</description>
+    </item>
+    <item><headword id="d0e592" type="heading" level="h1">4. Fuine</headword></item>
+    <item>
+	  <headword id="d0e597">[blank]</headword>
+      <description>I’m baking.</description>
+    </item>
+    <item>
+	  <headword id="d0e606">[blank]</headword>
+      <description>oatcakes.</description>
+    </item>
+    <item>
+	  <headword id="d0e615">[blank]</headword>
+      <description>baking scones.</description>
+    </item>
+    <item>
+	  <headword id="d0e624">[blank]</headword>
+      <description>I’m doing a duff.</description>
+    </item>
+    <item>
+	  <headword id="d0e633">[blank]</headword>
+      <description>flour.</description>
+    </item>
+    <item>
+	  <headword id="d0e642">[blank]</headword>
+      <description>eggs.</description>
+    </item>
+    <item>
+	  <headword id="d0e651">[blank]</headword>
+      <description>milk.</description>
+    </item>
+    <item>
+	  <headword id="d0e660">[blank]</headword>
+      <description>sugar.</description>
+    </item>
+    <item>
+	  <headword id="d0e669">[blank]</headword>
+      <description>treacle.</description>
+    </item>
+    <item>
+	  <headword id="d0e678">[blank]</headword>
+      <description>meat.</description>
+    </item>
+    <item>
+      <headword id="d0e687">blonnaig</headword>
+      <description>fat (of beef).</description>
+    </item>
+    <item>
+	  <headword id="d0e696">[blank]</headword>
+      <description>black bun.</description>
+    </item>
+    <item>
+	  <headword id="d0e705">[blank]</headword>
+      <description>I’m baking bread / scones.</description>
+    </item>
+    <item><headword id="d0e713" type="heading" level="h1">5. Deochan dhe gach seòrsa</headword></item>
+    <item>
+	  <headword id="d0e718">[blank]</headword>
+      <description>water.</description>
+    </item>
+    <item>
+	  <headword id="d0e727">[blank]</headword>
+      <description>milk.</description>
+    </item>
+    <item>
+	  <headword id="d0e736">[blank]</headword>
+      <description>beer.</description>
+    </item>
+    <item>
+	  <headword id="d0e745">[blank]</headword>
+      <description>whisky.</description>
+    </item>
+    <item>
+	  <headword id="d0e754">[blank]</headword>
+      <description>buttermilk.</description>
+    </item>
+    <item>
+	  <headword id="d0e763">[blank]</headword>
+      <description>rum.</description>
+    </item>
+    <item>
+	  <headword id="d0e772">[blank]</headword>
+      <description>wine.</description>
+    </item>
+    <item><headword id="d0e780" type="heading" level="h1">6. Biadh no deoch a bhidhte deanamh gu sònraichte do luchd euslan</headword></item>
+    <item>
+      <headword id="d0e785">styoorack</headword>
+      <description>gruel.</description>
+    </item>
+    <item><headword id="d0e793" type="heading" level="h1">7. Nithean a bhiodh ann nuair a rachadh beathach a mharbhadh</headword></item>
+    <item>
+	  <headword id="d0e798">[blank]</headword>
+      <description>black pudding.</description>
+    </item>
+    <item>
+	  <headword id="d0e807">[blank]</headword>
+      <description>white pudding.</description>
+    </item>
+    <item>
+	  <headword id="d0e816">[blank]</headword>
+      <description>tripe?</description>
+    </item>
+    <item>
+	  <headword id="d0e825">[blank]</headword>
+      <description>cod’s head.</description>
+    </item>
+    <item><headword id="d0e833" type="heading" level="h1">8. Faclan sam bith eile</headword></item>
+    <item>
+	  <headword id="d0e838">[blank]</headword>
+      <description>I’m eating hard.</description>
+    </item>
+    <item>
+      <headword id="d0e847">[blank]</headword>
+	  <description>I’m enjoying it.</description>
+    </item>
+    <item>
+      <headword id="d0e856">[blank]</headword>
+	  <description>I’m taking / eating my food.</description>
+    </item>
+    <item>
+      <headword id="d0e865">choran</headword>
+      <description>2nd day soup.</description>
+    </item>
+    <item>
+      <headword id="d0e874">[blank]</headword>
+	  <description>heart.</description>
+    </item>
+    <item>
+      <headword id="d0e883">[blank]</headword>
+	  <description>brains.</description>
+    </item>
+  </items>
+</fieldworkDocument>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?><!-- checked by MM on 23 5 14 --><fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="AOHenley_BishopbriggsMCraneaiteach" docType="questionnaire" subType="Iteach" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Àiteach / Agriculture</title>
+  <date>[1987-88]</date>
+  <fieldworker personId="ohenleya">A. O’Henley</fieldworker>
+  <informant>
+    <nameEnglish>Mrs Mary Crane</nameEnglish>
+    <origin>Leòdhas [Lewis]</origin>
+  </informant>
+  <location>Bishopbriggs</location>
+  <items>
+    <item><headword id="d0e29" type="heading" level="h1">1. Na togalaichean: sobhal, bàthach is mar sin, agus ainm gach pàirt dhiubh</headword></item>
+    <item>
+      <headword id="idp112048704">spiris</headword>
+      <description>shelf for hens.</description>
+    </item>
+    <item>
+      <headword id="idp112051800">clais (-ean)</headword>
+      <description>stalls.</description>
+    </item>
+    <item>
+      <headword id="idp112055544">sobhal</headword>
+      <description>used to store hay and potatoes.</description>
+    </item>
+    <item>
+      <headword id="idp112091544">bathach</headword>
+      <description>cattle.</description>
+    </item>
+    <item>
+      <headword id="idp112099752">slochd</headword>
+      <description>used to preserve seed potatoes.</description>
+    </item>
+    <item>
+      <headword id="idp112095072">sgràthan</headword>
+      <description>turfs put on roof with thatch.</description>
+    </item>
+    <item>
+      <headword id="idp112091904">brèidean</headword>
+      <description>rope placed round the neck of a cow or a sheep.</description>
+    </item>
+    <item>
+      <headword id="idp112097520">criath</headword>
+      <description>clay.</description>
+    </item>
+    <item>
+      <headword id="idp112100400">clachan acair</headword>
+      <description>for holding down the thatch.</description>
+    </item>
+    <item><headword id="d0e114" type="heading" level="h1">2. A’ mathachadh no a’ leasachadh na talmhainn</headword></item>
+    <item><headword id="d0e118" type="heading" level="h1">3. A’ treabhadh no a’ ruamhar: an crann agus ainm gach pàirt dheth</headword></item>
+    <item><headword id="d0e122" type="heading" level="h1">4. Innealan beaga leithid spaid, gràp, ràcan is mar sin</headword></item>
+    <item><headword id="d0e126" type="heading" level="h1">5. Acfhuinn an eich airson gach seòrsa obair</headword></item>
+    <item><headword id="d0e130" type="heading" level="h1">6. A’ cur an t-sìl</headword></item>
+    <item><headword id="d0e134" type="heading" level="h1">7. A’ buain agus a’ tiormachadh an arbhair no an fheòir</headword></item>
+    <item>
+      <headword id="idp2554176">corran</headword>
+      <description>used before the scythe became predominant.</description>
+    </item>
+    <item>
+      <headword id="idp2555688">bad</headword>
+      <description>equivalent of ‘adaig’ [?] in Uist – sheave [sic].</description>
+    </item>
+    <item>
+      <headword id="idp2549496">adag</headword>
+      <description>6 or 12 of above [i.e. bad].</description>
+    </item>
+    <item>
+      <headword id="idp2558208">bann</headword>
+      <description>a few strands of corn used to bind the sheave [sic].</description>
+    </item>
+    <item>
+      <headword id="idp2559072">currachdag</headword>
+      <description>rick of corn. Equivalent of ‘toit’ in Uist.</description>
+    </item>
+    <item><headword id="d0e183" type="heading" level="h1">8. A’ togail a’ bhuntàta</headword></item>
+    <item>
+      <headword id="idp2525304">gràp</headword>
+    </item>
+    <item>
+      <headword id="idp2526816">cliabh</headword>
+      <description>used to carry potatoes.</description>
+    </item>
+    <item>
+      <headword id="idp2528904">taghadh</headword>
+      <description>choosing which potatoes to eat and those to be used for seed potatoes next year. Potato needs 2 eyes to be used for seed purposes. Some of larger potatoes cut up and given to sheep. No name provided for this process.</description>
+    </item>
+    <item><headword id="d0e211" type="heading" level="h1">9. A’ tasgadh an arbhair agus a’ bhuntàta</headword></item>
+    <item><headword id="d0e215" type="heading" level="h1">10. A’ bualadh ’s a’ criathradh</headword></item>
+    <item>
+      <headword id="idp2531928">cliathadh</headword>
+      <description>instrument used for harrowing. Made of wood with iron incisors.</description>
+    </item>
+    <item>
+      <headword id="idp2546400">suist</headword>
+      <description>used for threshing. Corn would be placed on smaller stick and hit forcefully with the bigger stick which was wielded in the hand. Two sticks possibly tied together with rope. <illustration src="BishopbriggsMCraneaiteachillust1.jpg" width="200"/></description>
+    </item>
+    <item>
+      <headword id="idp2542368">suisteadh</headword>
+    </item>
+    <item><headword id="d0e244" type="heading" level="h1">11. A’ bleith an t-sìl</headword></item>
+    <item><headword id="d0e248" type="heading" level="h1">12. Ainmean a chleachdar ri earrainn fearainn</headword></item>
+    <item>
+      <headword id="idp2534664">lòt</headword>
+      <description>croft.</description>
+    </item>
+    <item>
+      <headword id="idp2401000">iomair</headword>
+      <description>separate fields of corn or potatoes.</description>
+    </item>
+    <item><headword id="d0e270" type="heading" level="h1">13. Faclan sam bith eile</headword></item>
+  </items>
+</fieldworkDocument>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 27/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_Tireeanonymousslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <informant>
+    <nameEnglish>anonymous</nameEnglish>
+  </informant>
+  <location>Tiree (?)</location>
+  <items>
+    <item>
+      <headword id="idp117240048">strannd</headword>
+      <description>Quotation: Tharraing e [st̪ɾɑ̃ũ̜n̪d̪]. Notes: He went into a deep sleep.</description>
+    </item>
+    <item>
+      <headword id="idp117241920">stranndraich</headword>
+      <description>Quotation: Tha e a’ stranndraich. Notes: snoring.</description>
+    </item>
+    <item>
+      <headword id="idp117243576">àrach</headword>
+      <description>Quotation: Chaneil àrach air. Notes: It can’t be helped.</description>
+    </item>
+    <item>
+      <headword id="idp117245232">baisinn</headword>
+      <description>[bɑʃĩnʹ] Notes: basin for washing. (“mias” for milk)</description>
+    </item>
+    <item>
+      <headword id="idp117246960">breacadh-gréineadh</headword>
+      <description>Notes: freckles.</description>
+    </item>
+    <item>
+      <headword id="idp117248472">clach-linnteal</headword>
+      <description>[kɫɑxlĩ:nʹtʹɑl] Notes: lintel.</description>
+    </item>
+    <item>
+      <headword id="idp117250200">frontal</headword>
+      <description>[fɾɔ̃ṉṯɑl] Quotation: duine frontal. Notes: bold. [NOTES: slipped under ‘frontail’.]</description>
+    </item>
+    <item>
+      <headword id="idp117252216">greim-mór</headword>
+      <description>Quotation: an greim-mór. Notes: appendicitis.</description>
+    </item>
+  </items>
+</fieldworkDocument>

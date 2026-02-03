@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 5/8/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_BarvasDSmithslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>09/1971</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <informant>
+    <nameEnglish>Donald Smith</nameEnglish>
+  </informant>
+  <location>Lewis, Barvas</location>
+  <items>
+    <item>
+      <headword id="idp115472480">atach</headword>
+      <description>[ɑt̪ɑx] Quotation: atach bhrògan, atach de chòta. Notes: used of items of clothes past their usefulness. Also used of the remains of a sheep. (Is it used of anything useless?)</description>
+    </item>
+    <item>
+      <headword id="idp115467872">drabhcair</headword>
+      <description>Quotation: drabhcair beag uisge. Notes: a little drizzly rain.</description>
+    </item>
+  </items>
+</fieldworkDocument>

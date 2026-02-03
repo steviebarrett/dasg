@@ -1,0 +1,737 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 3 5 13 -->
+<fieldworkDocument docId="MurdoMacLeod_GlasgowMMacLeodnadur" docType="questionnaire" subType="NadurAnDuine">
+  <title>Nàdur an Duine / Personality</title>
+  <date>[1972 on the slips]</date>
+  <fieldworker>[self]</fieldworker>
+  <note>[NOTES: the informant uses E and I to mark the gender of the nouns, masculine and feminine respectively.]</note>
+  <note>[NOTES: the questionnaire suggests a number of words/phrases under each heading so very often Mr MacLeod refers to them in his list saying ‘Tha e seo againn.’ or he gives a local variant instead. See below.]</note>
+  <note>[NOTES: part of the questionnaire has been slipped (in English) and therefore, apart from the definitions provided by Mr MacLeod, in this file the definitions as they appear on the slips have been also included.]</note>
+  <informant>
+    <nameEnglish>Murdo MacLeod</nameEnglish>
+    <nameGaelic>Murchadh MacLeòid </nameGaelic>
+    <age>61 ¼</age>
+    <origin>Leòdhas [Lewis], Uig an Iar</origin>
+  </informant>
+  <location>Glaschu [Glasgow]</location>
+  <!-- illustrations -->
+  <items>
+    <item><headword id="d0e46" type="heading" level="h1">SEORSAICHEAN DUINE</headword></item>
+    <item>
+      <headword id="d0e51">bumailear (E)</headword>
+      <description>Tha e seo againn. [NOTES: slip not found.]</description> 
+    </item>
+    <item>
+      <headword id="d0e60">bugair (E)</headword>
+      <description>Tha e seo againn. ’S bidh fhios agam fhéin mu a dheidhinn. [SLIP: no definition.]</description> 
+    </item>
+    <item>
+      <headword id="d0e69">blaigeard</headword>
+      <description>E seo, cuideachd, mar am fear shuas. [NOTES: slip not found.]</description> 
+    </item>
+    <item>
+      <headword id="d0e78">closach (I)</headword>
+      <description>Duine mór, trom. 6' suas agus sìos mar sin:
+        <illustration src="GlasgowMMacLeodnadurillust1.jpg" width="100"/>
+      </description> 
+      <note>[SLIP: A big heavily-built man.]</note>
+    </item>
+    <item>
+      <headword id="d0e92">cainnean (E)</headword>
+      <description>Duine dìreach mar a shaoileadh sibh a rèir an ainm. Aithghearr, aithghearr anns an nàdur agus a théid ’n a theine airson rudan glé bheag. ’S mar sin. [NOTES: slipped under ‘cainean’. Definition: An upright man.]</description> 
+    </item>
+    <item>
+      <headword id="d0e101">carran (E)</headword>
+      <description>Duine buaireanta. Duine nach leigeadh móran seachad gun na h-uibhir de bhuaireadh a dheanamh m’a dheidhinn. ’S mar sin. [SLIP: An annoying man.]</description> 
+    </item>
+    <item>
+      <headword id="d0e110">duine amhaidh (E)</headword>
+      <description>Duine amh. ’Na dhòigh agus ’n a chòmhradh. Mar a shaoileadh sibh leis an ainm. [NOTES: slipped under ‘amhaidh’. Definition: A rough person in speech and manner.]</description>
+    </item>
+    <item>
+      <headword id="d0e119">dannarran (E)</headword>
+      <description>Duine a dheadh an airde [?] gu buaireadh ’s droch nàdur ’s mar sin gu math aithghearr. ’S a bhiodh mar sin an còmhnuidh. [SLIP: A man with an annoyingly bad temper.]</description> 
+    </item>
+    <item>
+      <headword id="d0e128">fannlag (I)</headword>
+      <description>Duine gun mhóran neart ann, duine beag an cumantas. “Cha robh dad a dh’fheum unnda idir. Fannlagan a bh’unnda.” [SLIP: Usually a small, weak man.]</description>
+    </item>
+    <item>
+      <headword id="d0e137">gleidreaman (E)</headword>
+      <description>Rudeigin mar peitealan [q.v.]. Duine a bhiodh a’ deanamh móran á rud gle bheag. Gu math tric a’ deanamh dragha mu chuspairean beaga ’s mar sin, eadhon gu ìre a bhith deanamh miothlachd. [SLIP: A man who makes a mountain out of a molehill, making small matters seem large.]</description> 
+    </item>
+    <item>
+      <headword id="d0e146">gliogaid (I)</headword>
+      <description>Duine mór, gliogach. Faic MacGhillfh. “a thin clumsy man”. 6' suas agus sìos [?]:
+        <illustration src="GlasgowMMacLeodnadurillust2.jpg" width="100"/>
+      </description> 
+      <note>[SLIP: A big, bald-headed, clumsy man.]</note>
+    </item>
+    <item>
+      <headword id="d0e160">iosgaideach (E)</headword>
+      <description>Duine, mór an cumantas, agus iosgaidean móra, fada aige. Biodh e trom no caol. [SLIP: A big man with large thighs.]</description> 
+    </item>
+    <item>
+      <headword id="d0e169">lìogaire (E)</headword>
+      <description>Duine lìogach. (Faic MacGhillfh.) (lìgeach) Duine slaodach, cuideachd a bhiodh a’ lìogaireachd. Cha b’ann gu taobh molaidh a bhiodh ‘lìogaire’ a’ claonadh uair sam bith. [SLIP 1: A slow-moving person, deliberate in gait.] [SLIP 2: lìogaireachd. Definition: Verb of ‘lìogaire’ q.v.]</description> 
+    </item>
+    <item>
+      <headword id="d0e178">leth-chiallach (E agus I)</headword>
+      <description>Dìreach mar an t-ainm. [SLIP: Noun – half-wit.]</description>
+    </item>
+    <item>
+      <headword id="d0e187">malcaid (I)</headword>
+      <description>Duine mór, trom a rithist. Agus leisg ’s mar sin. Agus gun e deanamh móran feuma. [SLIP: A big, heavy man – also lazy.]</description>
+    </item>
+    <item>
+      <headword id="d0e196">oslaig (I)</headword>
+      <description>Duine mór, mór, trom. [SLIP: A big, heavily-built man.]</description> 
+    </item>
+    <item>
+      <headword id="d0e205">peallag (I)</headword>
+      <description>Rudeigin an ceart aghaidh oslaig [q.v.]. Duine beag, sunndach, ’s mar sin. Mar bu trice cha b’ann a’ claonadh gu taobh a bhith cur onair air a chanadh tu ‘peallag’. [SLIP: Positive term for a small, lively man.]</description> 
+    </item>
+    <item>
+      <headword id="d0e214">mastaige</headword>
+      <description>Duine grànda, ’na dhòigh. Duine a nì rudan grànda, agus glé ghrànda. Chan eil fhios ’am an ann bho mastiff masluidh [?] (cù) a tha seo. Faic Dwelly. [SLIP: A man who would “do the dirty” on other people.]</description> 
+    </item>
+    <item>
+      <headword id="d0e223">peitealan (E)</headword>
+      <description>Duine gun chonn. A bhios a’ leum bho rud gu rud ’s mu shròn dhaoine. ’S a’ miodal ’s a’ brosgul ’s mar sin mar a shaoileadh sibh. [SLIP: A senseless man who jumps from one thing to the other, annoying people. Also ingratiating.]</description> 
+    </item>
+    <item>
+      <headword id="d0e232">salchar (E)</headword>
+      <description>Bidh e seo anns a h-uile h-àit. [SLIP: no definition.]</description> 
+    </item>
+    <item>
+      <headword id="d0e241">sleigeire (E)</headword>
+      <description>Duine fada anns na lethcheannan ’s mar sin.
+        <illustration src="GlasgowMMacLeodnadurillust3.jpg" width="100"/>
+      </description> 
+      <note>[SLIP: A man with long cheeks.]</note>
+    </item>
+    <item>
+      <headword id="d0e255">sìliche (E)</headword>
+      <description>Lìogaire [q.v.] de dhuine. (Faic lìogach aig MacGhillfh.) Duine a bhios a’ deanamh rudan lìogach, ’s mar sin; sly, cunning, ’s nach tig air uachdar aig an toiseach ’s mar sin. [SLIP: Sly, clumsy person.]</description> 
+    </item>
+    <item>
+      <headword id="d0e264">trusdar (E)</headword>
+      <description>Bidh e seo anns a h-uile h-àit. Agus faisg air anns an aon seadh. [SLIP: A “filthy fellow”.]</description> 
+    </item>
+    <item>
+      <headword id="d0e273">truaghan (E)</headword>
+      <description>Air a chleachdadh dìreach mar a shaoileadh sibh. Againne dìreach mar a tha e aig MacGhillfh. [NOTES: slip not found.]</description>
+    </item>
+    <item>
+      <headword id="d0e282">duine gun diù (E)</headword>
+      <description>Air a chleachdadh dìreach mar a shaoileadh sibh. [NOTES: slip not found.]</description> 
+    </item>
+    <item>
+      <headword id="d0e291">ceàrd (E)</headword>
+      <description>Bidh e seo air a chleachdadh faisg air an aon dòigh anns a h-uile h-àit. “’Se ceàrd a bh’ann.” “Nach b’e an ceàrd e.” [SLIP: no definitions.]</description> 
+    </item>
+	<item><headword id="d0e299" type="heading" level="h2">Boirionnaich</headword></item>
+    <item>
+      <headword id="d0e304">cearchaill (I)</headword>
+      <description>Boirionnach tiugh, cruinn, trom ’n a pearsa. [SLIP: A rotund, heavily-built woman.]</description> 
+    </item>
+    <item>
+      <headword id="d0e313">tuarnag (I)</headword>
+      <description>Faisg air an aon seòrsa ris cearchaill [q.v.] ach nas lugha ’n a pearsa agus nas òige an cumantas. (Chan e ‘tuairneag’, mar ’s na faclairean, a chanas sinn idir.) [SLIP: Usually younger smaller than a cearchaill qv. but still rotund and heavily-built.]</description> 
+    </item>
+    <item>
+      <headword id="d0e322">tumarraid (I)</headword>
+      <description>Faisg air an seòrsa ri cearchaill [q.v.] – mór, tiugh agus trom ’n a pearsa. [SLIP 1: A rotund heavily-built woman.] [SLIP 2: A big, tough woman. Seldom used of a boy.]</description>
+    </item>
+    <item>
+      <headword id="d0e331">fursair (E)</headword>
+      <description>Boirionnach rough. Og an cumantas. Teenager rough mar gu’n canadh tu. ’S ann eagalach tearc a chleachdas sinn ‘fursair’ ri balach. [SLIP: A young, tough woman. Seldom used of a boy.]</description> 
+    </item>
+    <item>
+      <headword id="d0e340">màrsach (I)</headword>
+      <description>Boirionnach a tha a’ sealltuinn gu bheil i làidir a thaobh nam fear – ag iarraidh thuca ’s mar sin. Tuigidh sibh fhein! Mar tha ‘màrsach’ againne tha e gu math duilich còmhradh a chur air. [SLIP: A woman who shows she is strong vis-à-vis men.]</description>
+    </item>
+    <item>
+      <headword id="d0e349">làir (I)</headword>
+      <description>Mar a bha mi ag innse dhuibh aig Sràid Sauchiehall. [SLIP: no definition.]</description> 
+    </item>
+    <item>
+      <headword id="d0e358">baobh (I)</headword>
+      <description>Mar aig Sràid Sauchiehall cuideachd. [SLIP: do definition.]</description> 
+    </item>
+    <item>
+      <headword id="d0e367">ramailear (E)</headword>
+      <description>Boirionnach a bhiodh a’ leum ’s a falbh bho àite gu àite gun mhóran stamhnaidh bho thigeadh rud sam bith ’n a ceann. “A ramaileireach an siod ’s an seo.” “Ramailear eagalach a th’innte.” [SLIP: An impetuous woman who would be up and off when it came into her head.]</description> 
+    </item>
+    <item>
+      <headword id="d0e376">goibhneal (E)</headword>
+      <description>Boirionnach caol – chan ann cho caol ri ‘raod’ [q.v.] agus ‘sgriot’ [q.v.] ach dìreach caol gun a bhith cruinn mar boirionnach an cumantas. Agus gun a bhith ro ìosal ’na pearsa. Fuaimnich mar seo: aoi, raoir, coibhneal, goibhneal. [SLIP: A slender woman, though not as thin as ‘raod’ or ‘sgriot’ qv.]</description> 
+    </item>
+    <item>
+      <headword id="d0e385">raod (E)</headword>
+      <description>Boirionnach caol – glé chaol ’n a pearsa. “Raod eagalach a th’innte.” [SLIP: A very thin woman.]</description> 
+    </item>
+    <item>
+      <headword id="d0e394">sgriot (E)</headword>
+      <description>An aon seòrsa ri raod [q.v.]. Faisg, faisg air co dhiu. “Sgriot eagalach a th’innte.” [SLIP: A very thin woman.]</description> 
+    </item>
+    <item><headword id="d0e402" type="heading" level="h1">BAD COMPANY</headword></item>
+    <item><headword id="d0e406" type="heading" level="h2">(1)</headword></item>
+    <item>
+      <headword id="d0e411">sgoladh d’a theangaidh</headword>
+      <description>[NOTES: one of the phrases suggested in the questionnaire.] [NOTES: slipped under ‘sgoladh’. Definition: Tongue-lashing.]</description> 
+    </item>
+    <item>
+      <headword id="d0e420">sgearrach</headword>
+      <description>Tha aca anns na Hearadh – có dhiu bha ’san Scarp – ‘sgearrach’. “Thug mi sgearrach air, no dhà.” [SLIP: Scarp word for ‘tongue-lashing.]</description> 
+    </item>
+    <item>
+      <headword id="d0e429">[teanga]</headword>
+      <description>“Thug e teanga dha.” “Thug e pìos d’a theangaidh dha.” [SLIP: Tongue-lashing.]</description>
+    </item>
+    <item>
+      <headword id="d0e438">[seatha]</headword>
+      <description>“Thug e seatha dha.” – He gave him a telling off. “Thug mi seatha dha.” Cha chreid mi nach robh againn cuideachd ‘seatha’ airson ‘cheek’: “Thug e seatha dha.” – He gave him cheek. [SLIP 1: Thug e seatha dha. He gave him a telling-off. Also: he gave him cheek.] [SLIP 2: Cheek, telling-off.]</description> 
+    </item>
+    <item><headword id="d0e446" type="heading" level="h2">(2)</headword></item>
+    <item>
+      <headword id="d0e451">duine fada as</headword>
+      <description>Tha e seo againn. Agus ’na aghaidh: duine faisg ort. [NOTES: slip not found.]</description> 
+    </item>
+    <item>
+      <headword id="d0e460">[duine faisg ort]</headword>
+      <description>“Tha e cho faisg (ort).” (Faic ‘duine amhaidh’ [q.v.] air an duilleig eile.) [SLIP: Friendly.]</description>
+	</item>
+    <item><headword id="d0e468" type="heading" level="h2">(3)</headword></item>
+    <item>
+      <headword id="d0e473">cabag</headword>
+      <description>Blether, gossip: tha e seo againn. Cabag agus cabaire. Agus preigeadair agus preigire.</description>
+    </item>
+    <item>
+      <headword id="d0e482">[cabaire]</headword>
+      <description>[See cabag.] [SLIP: Gossip, blether.]</description>
+	</item>
+    <item>
+      <headword id="d0e491">[preigeadair]</headword>
+      <description>[See cabag.] [SLIP: Gossip, blether.]</description>
+	</item>
+    <item>
+      <headword id="d0e500">[preigire]</headword>
+      <description>[See cabag.] [SLIP: Gossip, blether.]</description>
+	</item>
+	<item>
+	  <headword id="idola169">[note]</headword>
+	  <description>agus mar sin air adhair [sic]</description>
+	</item>
+    <item><headword id="d0e517" type="heading" level="h1">GOOD COMPANY</headword></item>
+    <item>
+      <headword id="d0e522">[cuideachd]</headword>
+      <description>“Bha e math ann an cuideachd.” – “Good company”. [NOTES: slip not found.]</description> 
+    </item>
+    <item>
+      <headword id="d0e531">[cridhe]</headword>
+      <description>“Bha cridhe math ann.” – warm-hearted and kind. [SLIP: Warm-hearted.]</description> 
+    </item>
+    <item>
+      <headword id="d0e540">[blàth-chridheach]</headword>
+      <description>“Bha e blàth-chridheach.” – warm-hearted and kind. [SLIP: Warm-hearted.]</description> 
+    </item>
+    <item>
+      <headword id="d0e549">geur</headword>
+      <description>Witty. “Tha Domhnull geur.”</description>
+    </item>
+    <item>
+      <headword id="d0e558">[beurr]</headword>
+      <description>Anns na Baigh anns an sgìre againn (Uig an Iar), ’se ‘beurr’ a chanas iad mar a chanas sinne ‘geur’ [q.v.]: “Tha e cho beurr.” [SLIP: Said in ‘na Baigh’ (Sgìre Uig) for ‘geur’ – ‘witty’.]</description> 
+    </item>
+    <item>
+      <headword id="d0e567">eirmiseach</headword>
+      <description>Witty. “Tha e eirmiseach.”</description>
+    </item>
+    <item>
+      <headword id="d0e576">deas air a theangaidh</headword>
+      <description>Witty. “Tha e deas air a theangaidh.” [NOTES: slipped under ‘deas’.]</description> 
+    </item>
+    <item>
+      <headword id="d0e585">[freagairt]</headword>
+      <description>“Tha a fhreagairt gu math faisg air.” – [witty]. [NOTES: slip not found.]</description> 
+    </item>
+    <item>
+      <headword id="d0e594">[cheerful]</headword>
+      <description>Cha chreid mi gu bheil móran sam bith agam airson ‘cheerful’.</description>
+    </item>
+    <item>
+      <headword id="d0e603">[còmhraideach]</headword>
+      <description>A good talker. “Tha e còmhraideach.” [SLIP: Talkative.]</description> 
+    </item>
+    <item>
+      <headword id="d0e612">[còmhraidh]</headword>
+      <description>“Tha pailteas còmhraidh aige.” – a good talker. [NOTES: slip not found.]</description> 
+    </item>
+	<item>
+	  <headword id="idola170">[note]</headword>
+	  <description>Tuilleadh ri shuas.</description>
+	</item>
+    <item>
+      <headword id="d0e630">[tròcair]</headword>
+      <description>Rinn e tròcair rium [one of the phrases suggested in the questionnaire]. “Rinn e tròcair orm” a chanas sinne. [SLIP: He did me a favour.]</description> 
+    </item>
+    <item>
+      <headword id="d0e639">[fàbhar]</headword>
+      <description>“Rinn e fàbhar rium”, againne. [SLIP: He did me a favour.]</description> 
+    </item>
+    <item>
+      <headword id="d0e648">céileach</headword>
+      <description>’Se ‘céileach’ a th’againne [for ‘céilidhiche’ suggested in the questionnaire]. [SLIP: Entertaining, of a person.]</description> 
+    </item>
+    <item>
+      <headword id="d0e657">abhcaid</headword>
+      <description>Tha e seo againn. [Joking – one of the words suggested in the questionnaire.] [NOTES: slip not found.]</description>
+    </item>
+	<item>
+	  <headword id="idola171">[note]</headword>
+	  <description>Tha againn:</description>
+	</item>
+    <item>
+      <headword id="d0e675">duine éibhinn</headword>
+      <description>[NOTES: slip not found.]</description>
+    </item>
+    <item>
+      <headword id="d0e684">duine aincheardach</headword>
+      <description>[NOTES: slipped under ‘aincheardach’. Definition: Funny man.]</description>
+    </item>
+    <item>
+      <headword id="d0e693">duine dibhearsaineach</headword>
+      <description>[NOTES: slipped under ‘dibhearsaineach’. Definition: Funny man.]</description>
+    </item>
+    <item>
+      <headword id="d0e702">duine àraid</headword>
+      <description>(Fuaimnich àrraid.) [NOTES: slip not found.]</description> 
+    </item>
+	<item>
+	  <headword id="idola172">[‘funny man’]</headword>
+	  <description>Iad seo uile airson mar gu’n canadh sibh ‘funny man’. Tuigidh sibh fhéin. Tha barrachd air an seo againn na’n cuimhnichinn orra.</description>
+	</item>
+    <item><headword id="d0e719" type="heading" level="h1">CHEERFUL</headword></item>
+    <item>
+      <headword id="d0e724">[sona]</headword>
+      <description>“Nach e tha sona dheth.” – bha e seo againn. Tha againn: “Cho sona ri bó ann an loch.” “Cho sona ’s a tha an là cho fada.” [SLIP: no definition.]</description> 
+    </item>
+    <item>
+      <headword id="d0e733">[duine dòigheil]</headword>
+      <description>Easy-going, self-control, patience. “Tha e cho dòigheil.” “’Se duine dòigheil a tha an Calum.” “Dòmhnull, ’s e cho dòigheil.” – happy, easy-going, patient. [NOTES: slipped under ‘dòigheil’. Definition: Easy-going.]</description> 
+    </item>
+    <item><headword id="d0e741" type="heading" level="h1">GLOOMY</headword></item>
+    <item>
+      <headword id="d0e746">dreunasach, dreunaire</headword>
+      <description>Tha na dhà-sa againn. [NOTES: ‘dreunasach’ suggested in the questionnaire – ‘a surly person’.]</description> 
+    </item>
+	<item>
+	  <headword id="idola173">[note]</headword>
+	  <description>Tha móran ainmeannan againn, na’n cuimhnichinn-sa orra, le ‘an’, ‘ach’, ‘aire’, ’s mar sin, ’s an deireadh.</description>
+	</item>
+    <item>
+      <headword id="d0e764">dranndan</headword>
+      <description>[SLIP: surly.]</description>
+    </item>
+    <item>
+      <headword id="d0e773">dreunasach</headword>
+      <description>[NOTES: suggested in the questionnaire – ‘a surly person’. Slip not found.]</description>
+    </item>
+    <item>
+      <headword id="d0e782">dreunaire</headword>
+      <description>[SLIP: surly.]</description>
+    </item>
+    <item>
+      <headword id="d0e791">dreimisg</headword>
+      <description>[SLIP: surly.]</description>
+    </item>
+    <item>
+      <headword id="d0e800">mar ugh air aran</headword>
+      <description>’S e ‘mar ugh air bonnach’ a bh’againne. [NOTES: slipped under ‘bonnach’. Definition: Excited.]</description> 
+    </item>
+    <item>
+      <headword id="d0e809">[sìos]</headword>
+      <description>“Tha e sìos (’s an inntinn).” “Tha e fada sìos ’s an inntinn.” – depressed.</description>
+    </item>
+    <item>
+      <headword id="d0e818">[impetuous]</headword>
+      <description>Againne mar a th’aig MacGhillfh.: fiadhaich, feargach, cas, brais.</description>
+    </item>
+    <item>
+      <headword id="d0e827">[fiadhaich]</headword>
+      <description>[Impetuous.]</description>
+    </item>
+    <item>
+      <headword id="d0e836">[feargach]</headword>
+      <description>[Impetuous.]</description>
+    </item>
+    <item>
+      <headword id="d0e845">[cas]</headword>
+      <description>[Impetuous.]</description>
+    </item>
+    <item>
+      <headword id="d0e854">[brais]</headword>
+      <description>[Impetuous.]</description>
+    </item>
+    <item><headword id="d0e862" type="heading" level="h1">A GOOD MAN</headword></item>
+	<item>
+	  <headword id="idola174">[note]</headword>
+	  <description>Cha chreid mi gu bheil càch againne mu an seo ach na tha cumanta anns a h-uile h-àit.</description>
+	</item>
+    <item>
+      <headword id="d0e876">duinne grinn</headword>
+    </item>
+    <item>
+      <headword id="d0e882">duine onarach</headword>
+    </item>
+    <item>
+      <headword id="d0e888">duine ceart</headword>
+    </item>
+    <item>
+      <headword id="d0e894">fìor dhuine</headword>
+    </item>
+    <item>
+      <headword id="d0e900">’s mar sin.</headword>
+    </item>
+    <item>
+      <headword id="d0e906">[gasda]</headword>
+      <description>Thuirt mi roimhe gu bheil againn mu dhuine diadhaidh – duine stòlda diadhaidh, ged nach bitheadh e air leth soilleir mar an fheadhainn chomharraichte – gasda. “’Se gille gasd a th’ann.” ’Se ‘gille’ a chanadh iad ged a bhiodh an duine pòsda agus ’na sheanair. [SLIP: A religious man – irrespective of age.]</description> 
+    </item>
+    <item>
+      <headword id="d0e915">[ionraic]</headword>
+      <description>Duine ionraic – pure. Tha seo againn. Bhà, có dhiù.</description>
+    </item>
+    <item>
+      <headword id="d0e924">grinn</headword>
+      <description>Canaidh sinn ‘grinn’ cuideachd mu dhuine a bhios ’n a aodach ’s mar sin. Snog, glan, sgiobalta. “Tha Calum cho grinn.” “Tha e cho grinn a h-uile turus a théid e a mach.” “Tha e ’ga chumail fhéin cho grinn.” Canaidh sinn ‘grinn’ cuideachd mu ghrinn ann an giùlan. [SLIP: Tidy; also ‘fine’ of behaviour.]</description>
+    </item>
+    <item><headword id="d0e932" type="heading" level="h1">A BAD MAN</headword></item>
+    <item>
+      <headword id="d0e937">[gràisg]</headword>
+      <description>Chan ’eil fhios ’am a bheil e ann an àiteachan eile. Chanadh na bodaich againne ‘a’ ghràisg’ ri clann an cumantas. Gu h-àraidh nuair a bhiodh sinn a’ ruith a muigh. ’S mar sin. [SLIP: ‘Rascals’ – particularly used by older people when children e.g. running out.]</description> 
+    </item>
+    <item>
+      <headword id="d0e946">crosd</headword>
+      <description>’Se seo a chanas sinn mu chloinn a thà crosd. Cuideachd ‘crosd’ mu dhuine a bhiodh dona gu sabaid, ’s mar sin. “Bha e crosd.” “Duine crosd.” (Bha fear thall againne an Uig ri linn mo sheanar ris an canadh iad “Dòmhnull Bàn Crosd”. Duine tough nuair a bha e òg.) [SLIP: Mischievous (of children). Also (of man) tough, bad-tempered, spoiling for a fight.]</description> 
+    </item>
+    <item>
+      <headword id="d0e955">ain-diadhach</headword>
+      <description>Tha e seo againn, dìreach mar a th’aig Dwelly (faic t-d 15). Ach chan eil e againn airson ‘atheist’. ’S ann a tha e againn arison ungodly person. [SLIP: Ungodly person (not ‘atheist’.)]</description> 
+    </item>
+    <item>
+      <headword id="d0e964">fineach</headword>
+      <description>(Fuaimnich ‘fionach’ – seo mar tha e againne.) Tha seo againn airson duine mar tha seo shuas [i.e. ain-diadhach]. Duine gun dia mar gu’n canadh tu, heathen. Faic ‘fineachail’ ag Dwelly. “Domhnull Mór ’se fineach a th’ann.” “’Se fineach a th’ann an Calum Ruadh.” [SLIP: Atheist.]</description> 
+    </item>
+	<item>
+	  <headword id="idola175">[note]</headword>
+	  <description>[NOTES: slips seem to stop here. There are no more ticks in the questionnaire either.]</description>
+	</item>
+	<item>
+	  <headword id="idola176">[note]</headword>
+	  <description>Tuilleadh air cuimhneachadh air bho an phàipear eile:</description>
+	</item>
+    <item>
+      <headword id="d0e991">daorach (I)</headword>
+      <description>Mu dheoch ’s mar sin. “Tha e ’ga dhalladh leis an daoraich.” Agus “Tha e ’ga dhalladh” fhein (gun ‘leis an daoraich’ idir).  “Domhnull Thormoid ’s e ’ga dhalladh.” (Dòmhnull Thormoid leis an daoraich.) “Bha e ’ga sheann dalladh.”</description>
+    </item>
+    <item>
+      <headword id="d0e1000">[dalladh]</headword>
+      <description>[See daorach.]</description>
+    </item>
+    <item><headword id="d0e1008" type="heading" level="h1">A SUCCESSFUL MAN</headword></item>
+    <item>
+      <headword id="d0e1013">sùil-dhìleas</headword>
+      <description>Tha e seo againn. [NOTES: one of the words suggested in the questionnaire – no definition.]</description> 
+    </item>
+    <item>
+      <headword id="d0e1022">[tiuc]</headword>
+      <description>Air a thiuc fhéin. Tha e seo againn. Agus ‘air a gheabhraisde fhéin’. [NOTES: one of the phrases suggested in the questionnaire – ‘doing something on his own initiative’.]</description>
+    </item>
+    <item>
+      <headword id="d0e1031">[geabhraisde]</headword>
+      <description>[See tiuc.]</description>
+    </item>
+    <item>
+      <headword id="d0e1040">corra-chriostag</headword>
+      <description>Chuala mi am facal uair no dhà uaireigin ach chan eil bladh sam bith agam mu a dheidhinn. [NOTES: one of the words suggested in the questionnaire – ‘a woman who is always working’.]</description> 
+    </item>
+    <item>
+      <headword id="d0e1049">cosnaiche</headword>
+      <description>Hard-working, ambitious, capable, lively. “’Se cosnaiche math a bh’ann.” (Faic na faclairean.) Tha ‘cosnaiche’ againn, cuideachd, airson nam fiaclan gearraidh (incisors) gu h-araidh ann an ainmhidhean, bó ’s mar sin. “Na cosnaichean” – the incisors.</description>
+    </item>
+    <item><headword id="d0e1057" type="heading" level="h1">A FAILURE</headword></item>
+    <item>
+      <headword id="d0e1062">[sgluis]</headword>
+      <description>Tha againn ann an Leòdhas ‘sgluis’ airson tè de’n t-seòrsa-sa [i.e. sgliùrach – word suggested in the questionnaire – ‘an untidy housewife’.]</description>
+    </item>
+    <item>
+      <headword id="d0e1071">dradharna</headword>
+      <description>Chan eil e seo againn idir. [NOTES: one of the words suggested in the questionnaire – ‘an insignificant, useless person’.]</description>
+    </item>
+    <item>
+      <headword id="d0e1080">leisgeadair</headword>
+      <description>Tha againn ‘leisgeadair’. Agus, cha chreid mi, cuideachd, ‘leisgeach’ airson boirionnach de’n t-seòrsa.</description>
+    </item>
+    <item>
+      <headword id="d0e1089">[leisgeach]</headword>
+      <description>[See leisgeadair.]</description>
+    </item>
+    <item>
+      <headword id="d0e1098">learach</headword>
+      <description>Agus ‘learach’ airson boirionnach a bhiodh comasach (glé chomasach) air obair ’s mar sin a dheanamh, ach a bha leisg agus nach robh ’ga dhèanamh. Chan eil fhios agam an ann bho ‘leireach’ a thàinig ‘learach’.</description>
+    </item>
+    <item>
+      <headword id="d0e1107">luid</headword>
+      <description>Tha seo againn air an aon sraoin ri sgluis [q.v.]. “’Se luid a th’innte.” Canaidh sinn ‘luid’ mar as trice ri boirionnach.</description>
+    </item>
+    <item><headword id="d0e1115" type="heading" level="h1">A WISE MAN</headword></item>
+    <item>
+      <headword id="d0e1120">tùrail</headword>
+      <description>Intelligent or skilful. Tha e againn an dà chuid. Ach na’s motha ‘skilful’. Tùrail – math air a làmhan a thaobh fiodha agus gnothaichean eile, math air tuigsinn dé mar a tha cùisean mu na cuspairean sin etc. agus math agus grinn air dèanamh.</description>
+    </item>
+    <item><headword id="d0e1128" type="heading" level="h1">FOOLISH</headword></item>
+    <item>
+      <headword id="d0e1133">sgimileir</headword>
+      <description>Chan eil e againn.</description>
+    </item>
+    <item>
+      <headword id="d0e1142">òinseach (I)</headword>
+      <description>Thà [e againn]. [NOTES: one of the words suggested in the questionnaire – ‘a foolish woman’.]</description> 
+    </item>
+    <item>
+      <headword id="d0e1151">bumalair (E)</headword>
+      <description>Thà [ e againn]. [NOTES: one of the words suggested in the questionnaire – ‘a large bumbling man’.]</description> 
+    </item>
+	<item>
+	  <headword id="idola177">[note]</headword>
+	  <description>Tha grunnan ainmeannan againn mar:</description>
+	</item>
+    <item>
+      <headword id="d0e1169">bumallair</headword>
+    <description>[sic] </description></item>
+    <item>
+      <headword id="d0e1175">buaistear (E)</headword>
+    </item>
+    <item>
+      <headword id="d0e1181">blabhdaire (E)</headword>
+    </item>
+    <item>
+      <headword id="d0e1187">bladhastair (E)</headword>
+    </item>
+	<item>
+	  <headword id="idola178">[note]</headword>
+	  <description>(Faic na faclairean airson ‘blabhdaire’ agus ‘bladhastair’.)</description>
+	</item>
+	<item>
+	  <headword id="idola179">[note]</headword>
+	  <description>Chanainn gu bheil ‘bumalair’ agus ‘buaisteir’ [sic] ann an iomadh àite.</description>
+	</item>
+    <item><headword id="d0e1210" type="heading" level="h1">BOLD</headword></item>
+    <item>
+      <headword id="d0e1215">aghannail</headword>
+      <description>A forward person. Bold. Chanainn gur h-ann bho ‘aghaidh’ a tha seo: aghaidh, aghannail.</description>
+    </item>
+    <item>
+      <headword id="d0e1224">[aghaidh]</headword>
+      <description>Chanadh iad againne, a maoidhean òirnn nuair a bhiodh sinn crosd nuair a bha sinn òg: “Cuiridh mi ìomhaigh na h-agh’ dhiot.” Cho fada agus a thuig mise, có dhiu, ’se “cuiridh mi ìomhaigh na h-aghaidh dhiot” a bha iad a’ ciallachadh.</description>
+    </item>
+    <item>
+      <headword id="d0e1233">tàidsear (E)</headword>
+      <description>Chan eil idir againn. ’Sann a tha ‘tàidsear’ againne, mar: “Thug e tàidsearan dhà (no air).” – Thug e broadsides dha (ann am barrachd air aon seadh). Tuigidh sibh fhein.</description>
+    </item>
+    <item>
+      <headword id="d0e1242">làidir (1)</headword>
+      <description>Bold.</description>
+    </item>
+    <item>
+      <headword id="d0e1251">ladarna (2)</headword>
+      <description>Bold.</description>
+    </item>
+    <item>
+      <headword id="d0e1260">dàna (3)</headword>
+      <description>Bold.</description>
+    </item>
+	<item>
+	  <headword id="idola180">[note]</headword>
+	  <description>’Se (1) agus (3) as fheàrr a fhreagras mar a tha e againne.</description>
+	</item>
+    <item><headword id="d0e1277" type="heading" level="h1">TIMID</headword></item>
+    <item>
+	  <headword id="idola181">[note]</headword>
+	  <description>Againne “an easily led man”:</description>
+	</item>
+    <item>
+      <headword id="d0e1291">[blath-laoghain]</headword>
+      <description>“Tha e ’n a bhlath-laoghain aice.”</description>
+    </item>
+    <item>
+      <headword id="d0e1300">[clobhda-sgùraidh] (E)</headword>
+      <description>“Tha e ’n a chlobhda-sgùraidh.</description>
+    </item>
+	<item>
+	  <headword id="idola182">[note]</headword>
+	  <description>’S mar sin.</description>
+	</item>
+    <item>
+      <headword id="d0e1318">[mòinteach]</headword>
+      <description>“Tha e furasda a thoirt a’ mhòinteach.”</description>
+    </item>
+    <item>
+      <headword id="d0e1327">[taobh]</headword>
+      <description>“Tha e furasda a thoirt a thaobh.”</description>
+    </item>
+    <item>
+      <headword id="d0e1336">[leannan-òinsich]</headword>
+      <description>Cha chreid mi gu bheil ‘leannan-òinsich’ againn idir. [NOTES: one of the phrases suggested in the questionnaire – ‘an easily led man’.]</description> 
+    </item>
+    <item><headword id="d0e1344" type="heading" level="h1">PROUD</headword></item>
+    <item>
+      <headword id="d0e1349">[bòsda]</headword>
+      <description>Cha chreid mi gu bheil aon fhacal sam bith againn airson an fheadhainn-sa shuas ach airson ‘boast’ – bòsda, uaill.</description>
+    </item>
+    <item>
+      <headword id="d0e1358">[uaill]</headword>
+      <description>[See bòsda.]</description>
+    </item>
+	<item>
+	  <headword id="idola183">[note]</headword>
+	  <description>Ma thà facail ann, cha chuimnich mise orra aig an àm-sa.</description>
+	</item>
+    <item><headword id="d0e1375" type="heading" level="h1">HUMBLE</headword></item>
+    <item>
+      <headword id="d0e1380">iriosal</headword>
+      <description>Humble. “Tha Domhnull cho iriosal ri duine an àite sam bith”. “Tha e cho beag uaill [q.v.]”</description>
+    </item>
+    <item>
+      <headword id="d0e1389">dìblidh</headword>
+      <description>Servile. ’Se ‘dìblidh’, saoilidh mi, a th’againne an còmhnuidh.</description>
+    </item>
+    <item>
+      <headword id="d0e1398">miodal</headword>
+      <description>Fawning.</description>
+    </item>
+    <item>
+      <headword id="d0e1407">brosgul</headword>
+      <description>Flattery. “Leis a’ bhrosgul.”</description>
+    </item>
+    <item>
+      <headword id="d0e1416">beulachas</headword>
+      <description>Flattery. “Leis a’ bheulachas.” “E cho beulach.”</description>
+    </item>
+	<item>
+	  <headword id="idola184">[note]</headword>
+	  <description>’S mar sin.</description>
+	</item>
+    <item><headword id="d0e1433" type="heading" level="h1">POLITE</headword></item>
+    <item>
+      <headword id="d0e1438">[boirionn]</headword>
+      <description>Feminine (used of a man). “Tha e cho boirionn.”</description>
+    </item>
+    <item>
+      <headword id="d0e1447">[grinn]</headword>
+      <description>Well-mannered. “Tha e cho grinn ’s cho modhail.” “Tha e cho grinn.”</description>
+    </item>
+    <item><headword id="d0e1455" type="heading" level="h1">COARSE</headword></item>
+    <item>
+      <headword id="d0e1460">[curs]</headword>
+      <description>Coarse, bad-mannered. “Tha e curs.” “Tha e curs ’n a dhòigh.”</description>
+    </item>
+    <item>
+      <headword id="d0e1469">[firionn]</headword>
+      <description>Masculine (used of a woman). “Tha i cho firionn.”</description>
+    </item>
+    <item>
+      <headword id="d0e1478">fursair</headword>
+      <description>’Se ‘fursair’ a th’againne [for ‘cursair’ – one of the words suggested in the questionnaire – ‘a rough forward person (usually a woman)’]. “’Se fursair eagalach a th’innte.” Tha am facal ‘fursaireachd’ againn cuideachd agus ’ga chleachdadh.</description>
+    </item>
+    <item>
+      <headword id="d0e1487">[fursaireachd]</headword>
+      <description>[See fursair.]</description>
+    </item>
+    <item>
+      <headword id="d0e1496">biast</headword>
+      <description>Tha againn cuideachd mu bhoirionnach, ‘biast’ no ‘biasd’. “’Se biast a th’innte.” (curs agus garg) Cuideachd, boirionnach cruaidh agus marbh ann am faireachdainn: biast. “Nach b’e a’ bhiast i!” Cleas a’ bhoirionnaich a chaill an duine le bàthadh ’s nach do chuir e móran sum bith oirre. “Nach b’e a’ bhiast i!”</description>
+    </item>
+    <item>
+      <headword id="d0e1505">biasd</headword>
+      <description>[See biast.]</description>
+    </item>
+    <item><headword id="d0e1513" type="heading" level="h1">BAD TYPES</headword></item>
+    <item>
+      <headword id="d0e1518">duine droch nàdurach</headword>
+      <description>Bad tempered.</description>
+    </item>
+    <item>
+      <headword id="d0e1527">duine buaireanta</headword>
+      <description>Troublemaker.</description>
+    </item>
+    <item>
+      <headword id="d0e1536">biorag</headword>
+      <description>Chan eil seo againn idir. [NOTES: one of the words suggested in the questionnaire – ‘an acid-tongued woman’.]</description>
+	</item>
+    <item>
+      <headword id="d0e1545">laghail</headword>
+      <description>Tha againn ‘laghail’ agus ‘laghalachd’ [for ‘laghanta’ – one of the words suggested in the questionnaire – ‘always laying down the law (?).]. “Tha e cho laghail.” – litigious. “Thusa agus do laghalachd.”</description>
+    </item>
+    <item>
+      <headword id="d0e1554">[laghalachd]</headword>
+      <description>[See laghail.]</description>
+    </item>
+	<item>
+	  <headword id="idola185">[note]</headword>
+	  <description>Chan eil facail againn airson duine nosey, suspicious, cunning, stubborn, ’s mar sin idir. Ach mar seo:</description>
+	</item>
+    <item>
+      <headword id="d0e1572">[sròn]</headword>
+      <description>“Tha e le a shròn anns a h-uile rud.” – duine nosey.</description>
+    </item>
+    <item>
+      <headword id="d0e1581">[an-amharusach]</headword>
+      <description>“Tha e cho an-amharusach.” – duine suspicious.</description>
+    </item>
+    <item>
+      <headword id="d0e1590">[carach]</headword>
+      <description>“Tha e cho carach.” – duine cunning.</description>
+    </item>
+    <item>
+      <headword id="d0e1599">[seòlta]</headword>
+      <description>“Tha e cho seòlta.” – duine cunning.</description>
+    </item>
+    <item><headword id="d0e1607" type="heading" level="h1">YOUNG</headword></item>
+    <item><headword id="d0e1611" type="heading" level="h2">“Growing up”</headword></item>
+    <item>
+      <headword id="d0e1616">pocan</headword>
+      <description>Chan eil e againn. [NOTES: one of the words suggested in the questionnaire – ‘tubby, cheeky boy’.]</description>
+	</item>
+    <item>
+      <headword id="d0e1625">[òirleach]</headword>
+      <description>“Cha d’thàinig òirleach air.” – airson “Cha deacha gnogadh air.” [NOTES: one of the phrases suggested in the questionnaire – ‘he hasn’t grown an inch’.]</description> 
+    </item>
+    <item>
+      <headword id="d0e1634">[dub]</headword>
+      <description>“Cha d’thàinig dub air.” – airson “Cha deacha gnogadh air.” [NOTES: one of the phrases suggested in the questionnaire – ‘he hasn’t grown an inch’.]</description> 
+    </item>
+    <item>
+      <headword id="d0e1643">seanacharra</headword>
+      <description>’Se ‘seanacharra’ a chanas sinne [for ‘seanabheulach’ – one of the words suggested in the questionnaire – ‘used of a child who talks like a grown-up’.]</description>
+    </item>
+    <item><headword id="d0e1651" type="heading" level="h1">OLD</headword></item>
+    <item>
+      <headword id="d0e1656">bramalaid</headword>
+      <description>Cho coltach ri facal a bhiodh aca ’s na Hearadh. Dìreach mar facal a thigeadh bho bheul “A’ Bhonnaich” as an Scarp. [NOTES: one of the words suggested in the questionnaire – ‘a lazy, useless woman’.]</description>
+	</item>
+    <item>
+      <headword id="d0e1665">brogaiche no brogach</headword>
+      <description>Cha chreid mi gu bheil am facal ’sa ann an Leòdhas air fad. [NOTES: one of the words suggested in the questionnaire – ‘a spry old man’.]</description>
+	</item>
+    <item><headword id="d0e1673" type="heading" level="h1">AGUS FACLAN SAM BITH EILE</headword></item>
+    <item>
+      <headword id="d0e1678">griupag (I)</headword>
+      <description>Boirionnaich nach eil air leth tarruingeach air dhòigh sam bith. ’N am pearsa, beag. ’S mar sin. Cuideachd nach tugadh dhuit móran (no nì sam bith) mun a faigheadh i uibhir eile air a shon. “’Se griupag a th’innte.” Bha Taillear Eadar-dha-Fhaodhail aig an robh am bus, a’ tighinn eadar Steòrnabhagh agus an t-Acha Mór. Ghoid cailleach anns a’ bhus ball bathair a bh’aig fear de na bh’ann. Nuair a fhuair Pàdruig (an Taillear) a mach có a rinn a’ ghoid ’s e an rud a thuirt e ris a’ chaillich: “A ghriupag ghrànda, nan robh fhios agam-sa gur h-e thus’ a bh’ann.”
+        <illustration src="GlasgowMMacLeodnadurillust4.jpg" width="200"/>
+      </description>
+    </item>
+  </items>
+</fieldworkDocument>

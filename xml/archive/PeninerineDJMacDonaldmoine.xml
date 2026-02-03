@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 24 4 13 -->
+<fieldworkDocument docId="Peat_PeninerineDJMacDonaldmoine" docType="questionnaire" subType="Peat">
+  <title>Mòine / Peat-Working</title>
+  <date>13/11/1967 [date on the letter attached to the questionnaire]</date>
+  <fieldworker>[self]</fieldworker>
+  <informant>
+    <nameEnglish>Donald J MacDonald</nameEnglish>
+  </informant>
+  <location>South Uist, Peninerine</location>
+  <items>
+    <item><headword id="d0e26" type="heading" level="h1">1. Ag ullachadh na talmhainn airson mòine a bhuain</headword></item>
+    <item>
+      <headword id="d0e31">feannadh</headword>
+      <description>a “feannadh” na monadh. Be so a bhi a rùsgadh a phuill mhonadh gus an ruigadh tu a mhòine.</description>
+    </item>
+    <item>
+      <headword id="d0e40">ploc-feannaidh</headword>
+      <description>be so a chante ri aon phloc a chaidh a thoirt a uachdar a phuill-mhonadh.</description>
+    </item>
+    <item>
+      <headword id="d0e49">glanadh</headword>
+      <description>se seo a bhi a glanadh uachdar a phuill-mhònadh nuair a bhiodh e air fheannadh. Sann le spaid a bhiodh seo ga dheanamh cuideachd.</description>
+    </item>
+    <item><headword id="d0e57" type="heading" level="h1">2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</headword></item>
+    <item>
+      <headword id="d0e62">traoisgeir</headword>
+      <description>se seo an t-inneal a bhiodh a buain na mònadh.</description>
+    </item>
+    <item>
+      <headword id="d0e71">gol-fhad</headword>
+      <description>be seo a cheud fhàd s ghearrte anns an t-sreath air taobh a muigh a phuill-mhònadh. Bhiodh e na bu ghairbhe gu h’àrd na bhiodh e gu h’iosal.</description>
+    </item>
+    <item>
+      <headword id="d0e80">gann-fhad</headword>
+      <description>be seo an dàrna fàd, agus am pìos a bha a bharrachd air a cheud fhad, bhi e dhìth air an dàrna fear. Sin bu chiall d’on ainm, gu robh am fàd gann.</description>
+    </item>
+    <item>
+      <headword id="d0e89">barr-fhad</headword>
+      <description>be seo am fad àrd – an t-sreath uile ge leir.</description>
+    </item>
+    <item>
+      <headword id="d0e98">caoran</headword>
+      <description>be seo am fad iosal.</description>
+    </item>
+    <item><headword id="d0e106" type="heading" level="h1">3. A’ tiormachadh na mònach</headword></item>
+    <item>
+      <headword id="d0e111">rubhan</headword>
+      <description>ceithir no coig do fhoidean air an cur na seasamh air an ceann, ann an tacsa a cheile agus fear eile tarsuinn air an uachdar. So an rud ris an cante “togail na mònadh”.</description>
+    </item>
+    <item><headword id="d0e119" type="heading" level="h1">4. A’ cruachadh na mònach</headword></item>
+    <item>
+      <headword id="d0e124">cruach</headword>
+      <description>torr monadh deiseil gus a tarruing dhachaidh.</description>
+    </item>
+    <item>
+      <headword id="d0e133">cona =  chruach</headword>
+      <description>[a hyphen?] cruach bheag mhònadh.</description>
+    </item>
+    <item><headword id="d0e141" type="heading" level="h1">5. A’ toirt na mònach dhachaigh; an cliabh, etc.</headword></item>
+    <item>
+      <headword id="d0e146">cliabh</headword>
+      <description>an t-inneal a bha tarruing dhachaidh na monadh.</description>
+    </item>
+    <item>
+      <headword id="d0e155">iris</headword>
+      <description>an ropa a bhiodh a [sic] as a chliabh as e tarsuinn air uchd an duine bha tarruing a chleibh.</description>
+    </item>
+    <item><headword id="d0e163" type="heading" level="h1">6. Seòrsachan mònach</headword></item>
+    <item>
+      <headword id="d0e168">caoran-dubh</headword>
+      <description>moine chruaidh dhubh anns an robh teas mór. Sann daonnan faisg air creig no grunnd a gheibhte an seorsa so.</description>
+    </item>
+    <item>
+      <headword id="d0e177">moine-chiobail</headword>
+      <description>moine bhog agus moran fhreumhaichean na measg.</description>
+    </item>
+    <item><headword id="d0e185" type="heading" level="h1">7. Faclan eile</headword></item>
+  </items>
+</fieldworkDocument>

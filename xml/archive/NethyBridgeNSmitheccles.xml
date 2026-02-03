@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 20 4 13 -->
+<fieldworkDocument docId="Ecclesiastical_NethyBridgeNSmitheccles" docType="questionnaire" subType="EcclesiasticalTerms">
+  <title>An Eaglais / Ecclesiastical Terms</title>
+  <fieldworker>self</fieldworker>
+  <informant>
+    <nameEnglish>Noel Smith</nameEnglish>
+    <age>38</age>
+    <origin>Inverness-shire, Nethy Bridge</origin>
+  </informant>
+  <location>Inverness-shire, Nethy Bridge</location>
+  <items>
+    <item><headword id="d0e29" type="heading" level="h1">1. Various denominations</headword></item>
+    <item><headword id="d0e33" type="heading" level="h1">2. Member of each of these denominations</headword></item>
+    <item><headword id="d0e37" type="heading" level="h1">3. Different courts of the Presbyterian churches</headword></item>
+    <item><headword id="d0e41" type="heading" level="h1">4. Members of the clergy and office-bearers with the Presbyterian churches</headword></item>
+    <item><headword id="d0e45" type="heading" level="h1">5. Members of the clergy and office-bearers in the Roman Catholic church</headword></item>
+    <item>
+      <headword id="d0e50">sagairt</headword>
+    </item>
+    <item><headword id="d0e55" type="heading" level="h1">6. Holy Orders within the Roman Catholic church</headword></item>
+    <item><headword id="d0e59" type="heading" level="h1">7. Articles of dress or adornment</headword></item>
+    <item><headword id="d0e63" type="heading" level="h1">8. Church building and churchyard</headword></item>
+    <item>
+      <headword id="d0e68">eaglais</headword>
+      <description>This is the word I have always heard for a church but it may be interesting to note that there are three farms in this district called Achnahannet. Not very long ago looking through the dictionary I came on the word ‘annaid’ meaning a church, which may suggest that that word was used in the district at one time.</description>
+    </item>
+    <item><headword id="d0e76" type="heading" level="h1">9. Church furniture and ornaments</headword></item>
+    <item><headword id="d0e80" type="heading" level="h1">10. Different services during the week, feast days, sacraments, Sunday school etc.</headword></item>
+    <item><headword id="d0e84" type="heading" level="h1">11. God, the Lord, Jesus Christ, the Holy Ghost, the Blessed Virgin, the angels, the apostles, Heaven, the Gospel, prayers etc.</headword></item>
+    <item>
+      <headword id="d0e89">Dia</headword>
+    </item>
+    <item>
+      <headword id="d0e95">Tighearn</headword>
+    </item>
+    <item><headword id="d0e100" type="heading" level="h1">12. Satan, Hell, Purgatory, Limbo, different kinds of sin etc.</headword></item>
+  </items>
+</fieldworkDocument>

@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 23/10/15 -->
+<!-- illustration -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_RaasayJCummingsslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>07/1970</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <note>[NOTES: in IPA transcriptions, the fieldworker uses [w] for [ɯ].]</note>
+  <informant>
+    <nameEnglish>John Cummings</nameEnglish>
+  </informant>
+  <location>Raasay</location>
+  <items>
+    <item>
+      <headword id="idp118789072">lagais</headword>
+      <description>Quotation: (1) lagais inneir. (2) Nach tu a rinn a’ lagais dhiot fhéin. Notes: dung-heap.</description>
+    </item>
+    <item>
+      <headword id="idp118785688">lamaiseadh</headword>
+      <description>Notes: severe punishment.</description>
+    </item>
+    <item>
+      <headword id="idp118782736">làmhadh</headword>
+      <description>[ɫɑ̃:həɣ] Notes: axe.</description>
+    </item>
+    <item>
+      <headword id="idp118803328">làmhaid</headword>
+      <description>[ɫɑ̃:vɛdʹ] Notes: handle of cas-chrom.</description>
+    </item>
+    <item>
+      <headword id="idp118805056">leumnach-uaine</headword>
+      <description>Notes: grass-hopper.</description>
+    </item>
+    <item>
+      <headword id="idp118806568">lodair</headword>
+      <description>Notes: ladle.</description>
+    </item>
+    <item>
+      <headword id="idp118808080">losgadh</headword>
+      <description>Notes: phosphorescence in the sea.</description>
+    </item>
+    <item>
+      <headword id="idp118809592">mac-làmhraisg (sic)</headword>
+      <description>[mɑxkɫɑ̃:ɾiʃɡʹ] Notes: monkfish.</description>
+    </item>
+    <item>
+      <headword id="idp118811320">muc-bhiorach</headword>
+      <description>Notes: porpoise.</description>
+    </item>
+    <item>
+      <headword id="idp161821704">muc-chreigeadh</headword>
+      <description>Notes: wrasse.</description>
+    </item>
+    <item>
+      <headword id="idp161823216">mula-mhàgag</headword>
+      <description>Quotation: sgeth na mulaichean-màgag (sic). Notes: frog-spawn.</description>
+    </item>
+    <item>
+      <headword id="idp161824872">rùdhan</headword>
+    <description>[ru:ɣɑṉ] </description></item>
+    <item>
+      <headword id="idp161826600">riabh</headword>
+      <description>Quotation: riabh buntàta. Notes: row of potatoes.</description>
+    </item>
+    <item>
+      <headword id="idp161828256">peinig</headword>
+      <description>[pɛ̃ṉiɡ] Quotation: pl. [pɛṉiɡʹəṉ]. Notes: small stones used for filling in gaps between larger stones in a dry-stone wall.</description>
+    </item>
+    <item>
+      <headword id="idp161830488">sàil</headword>
+      <description>Notes: “heel” of cas-chrom.</description>
+    </item>
+    <item>
+      <headword id="idp161832000">sgàth-fhras</headword>
+      <description>Notes: a passing shower.</description>
+    </item>
+    <item>
+      <headword id="idp161833512">sgeth</headword>
+      <description>Quotation: sgeth na mulaichean-màgag (sic) [mũ̜ɫiçəṉmɑ̃:ɡɑɡ]. Notes: frog-spawn.</description>
+    </item>
+    <item>
+      <headword id="idp161835384">sgonnan</headword>
+      <description>Notes: foot-rest of cas-chrom.</description>
+    </item>
+    <item>
+      <headword id="idp161836896">sgrùbhan</headword>
+      <description>[sɡɾu̟:ɑ̃ṉ] Notes: corn-rick.</description>
+    </item>
+    <item>
+      <headword id="idp161838624">sgùil</headword>
+      <description>[sɡu̟:l] Quotation: sgùil buntàta, sgùil lion mhóir. Notes: basket made from willow wands.</description>
+    </item>
+    <item>
+      <headword id="idp161840496">simid</headword>
+      <description>[ʃĩmidʹ] Notes: potato masher, shaped like a baseball bat.</description>
+    </item>
+    <item>
+      <headword id="idp161842224">spagh</headword>
+      <description>[spɤɣ] Notes: swathe, e.g. of corn.</description>
+    </item>
+    <item>
+      <headword id="idp161843952">steàrnan</headword>
+      <description>[ʃtʹɑ:ʴṉɛ̃ṉ] Notes: tern. [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+    <item>
+      <headword id="idp161845824">tarbh-nathrach</headword>
+      <description>Notes: dragonfly.</description>
+    </item>
+    <item>
+      <headword id="idp161847336">tobhta</headword>
+      <description>Quotation: an tobhta thogarrach. Notes: removable seat.</description>
+    </item>
+    <item>
+      <headword id="idp161848992">togarrach</headword>
+      <description>Quotation: an tobhta thogarrach. Notes: removable seat in a boat.</description>
+    </item>
+    <item>
+      <headword id="idp161850648">toirisginn</headword>
+      <description>[t̪ɤɾɤʃɡʹĩnʹ] Notes: peat-cutting iron.</description>
+    </item>
+    <item>
+      <headword id="idp161852376">tòrr</headword>
+      <description>Quotation: tòrr buntata. Notes: potato pit.</description>
+    </item>
+    <item>
+      <headword id="idp161854032">tudan</headword>
+      <description>[t̪ud̪ɛ̃ṉ] Notes: makeshift corn-rick. Smaller than a sgrùbhan (q.v.) – made hurriedly because of impending bad weather.</description>
+    </item>
+    <item>
+      <headword id="idp161855760">banais</headword>
+      <description>Quotation: banais-chullaich. Notes: a collection of wailing cats at night (Kilmuir).</description>
+    </item>
+    <item>
+      <headword id="idp161857488">beart</headword>
+      <description>Quotation: beart mhór. Notes: tackle used for lythe fishing. It consisted of a line with a rubber eel and lead weight towed after the boat.</description>
+    </item>
+    <item>
+      <headword id="idp161859144">bior-chrith</headword>
+      <description>Notes: iron spike, e.g. for making holes in zinc.</description>
+    </item>
+    <item>
+      <headword id="idp161860656">bioran</headword>
+      <description>Quotation: Bioran-Ceit[?]-Mhóir. Notes: piece of wood with wool wrapped round the end of it, dipped in oil and used as a torch.</description>
+    </item>
+    <item>
+      <headword id="idp161862312">blian</headword>
+      <description>Quotation: pìos blian. Notes: a bit of flank.</description>
+    </item>
+    <item>
+      <headword id="idp161863968">bodach-baic</headword>
+      <description>Notes: the outside peat.</description>
+    </item>
+    <item>
+      <headword id="idp161865480">boiteag</headword>
+      <description>[bɔtʹɑɡ] Notes: earthworm.</description>
+    </item>
+    <item>
+      <headword id="idp161867208">breacadh</headword>
+      <description>Quotation: breacadh a’ phuill. Notes: lining the peat-bank for skinning.</description>
+    </item>
+    <item>
+      <headword id="idp161868864">buail-an-t-òrd</headword>
+      <description>Notes: a beetle which makes a striking noise. (Dw. Buail a’ chnag – Balm cricket.)</description>
+    </item>
+    <item>
+      <headword id="idp161870376">buala</headword>
+      <description>[bu̜ɤɫə] Quotation: buala a’ chruidh. Notes: cow-stall. [NOTES: slipped under ‘buaile’.]</description>
+    </item>
+    <item>
+      <headword id="idp161872392">bùlasg</headword>
+      <description>[bu̟:ləsɡ] Notes: can be used for iron hoop on a barrel.</description>
+    </item>
+    <item>
+      <headword id="idp161874120">buna-bhuachaille</headword>
+      <description>Notes: Great Northern Diver.</description>
+    </item>
+    <item>
+      <headword id="idp161875632">buntàta</headword>
+      <description>Quotation: tòrr buntàta. Notes: potato pit.</description>
+    </item>
+    <item>
+      <headword id="idp161877288">buntàta</headword>
+      <description>Quotation: riabh buntàta. Notes: row of potatoes.</description>
+    </item>
+    <item>
+      <headword id="idp161878944">bùthach</headword>
+      <description>[bu̟:hɔx] Notes: spiked muzzle put on a calf.</description>
+    </item>
+    <item>
+      <headword id="idp161880672">cabadh</headword>
+      <description>Quotation: a’ cabadh a’ bhuntàta. Notes: cleaning potatoes with a hoe.</description>
+    </item>
+    <item>
+      <headword id="idp161882328">cabhanach</headword>
+      <description>[kɛvɛṉɑx] Notes: a small brown trout.</description>
+    </item>
+    <item>
+      <headword id="idp161884056">cabhsair</headword>
+      <description>Notes: paving stones outside a house.</description>
+    </item>
+    <item>
+      <headword id="idp161885568">carcair</headword>
+      <description>Notes: byre drain.</description>
+    </item>
+    <item>
+      <headword id="idp161887080">ceaba</headword>
+      <description>[cebə] Notes: cutting part of the cas-chrom.</description>
+    </item>
+    <item>
+      <headword id="idp161888808">ceanna-phullan</headword>
+      <description>Notes: tadpole.</description>
+    </item>
+    <item>
+      <headword id="idp161890320">ceàrd-fhiullan</headword>
+      <description>[cɑ:ʴd̠iu̜ɫɑ̃ṉ] Notes: a brown insect with a hard body found on dungheaps. Has a “srann”. [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+    <item>
+      <headword id="idp161892408">ciste-mhineadh</headword>
+      <description>Notes: meal-chest.</description>
+    </item>
+    <item>
+      <headword id="idp161893920">ciubhrach</headword>
+      <description>[cu̟ɾɔx] Quotation: Tha ciubhrach uisge ann. Notes: drizzle.</description>
+    </item>
+    <item>
+      <headword id="idp161895792">claban-muilleadh</headword>
+      <description>Quotation: Nach tu an claban-muilleadh. Notes: used for a gossip.</description>
+    </item>
+    <item>
+      <headword id="idp161897448">clàrag</headword>
+      <description>Notes: square stern of a boat.</description>
+    </item>
+    <item>
+      <headword id="idp161898960">cliabh-taobhaisdeach</headword>
+      <description>[klwft̪ɤıʃdʹɑx] Notes: half-size creel for taking fish from cairidh. (Would it not be any kind of creel?)</description>
+    </item>
+    <item>
+      <headword id="idp161900688">cnag</headword>
+      <description>[kṉɑ̃ɡ] Notes: thole-pin.</description>
+    </item>
+    <item>
+      <headword id="idp161902416">cnot</headword>
+      <description>[kṉɔ̃t̪] Notes: piece of wood put on the gunwhale to save it from the chafing of the oars.</description>
+    </item>
+    <item>
+      <headword id="idp161904144">coileach-gaoitheadh</headword>
+      <description>Notes: a round basket with a hole in the top for holding wool for spinning.</description>
+    </item>
+    <item>
+      <headword id="idp161905656">coile-bianan</headword>
+      <description>[kɤləbĩɤ̃ṉɑṉ] Notes: phosphorescence at sea.</description>
+    </item>
+    <item>
+      <headword id="idp161907384">corra-chagailt</headword>
+      <description>[kɔrəxɑɡılʹtʹ] Notes: coloured glow from embers among ashes.</description>
+    </item>
+    <item>
+      <headword id="idp161909112">corra-chòsag</headword>
+      <description>Notes: slater.</description>
+    </item>
+    <item>
+      <headword id="idp161910624">crasgag-tràghad</headword>
+      <description>Notes: starfish.</description>
+    </item>
+    <item>
+      <headword id="idp161912136">croman</headword>
+      <description>Notes: used for hoeing and lifting potatoes.</description>
+    </item>
+    <item>
+      <headword id="idp161913648">cullach</headword>
+      <description>Quotation: banais-chullaich. Notes: a collection of cats wailing at night. (Kilmuir)</description>
+    </item>
+    <item>
+      <headword id="idp161915376">dearc-luachrach</headword>
+      <description>Notes: lizard.</description>
+    </item>
+    <item>
+      <headword id="idp161916888">deiseag</headword>
+      <description>Notes: crab with a velvety back.</description>
+    </item>
+    <item>
+      <headword id="idp161918400">dìobradh</headword>
+      <description>Quotation: Chaneil dìobradh air. Notes: used of incessant rain.</description>
+    </item>
+    <item>
+      <headword id="idp161920056">dorbh</headword>
+      <description>[d̪ɔɾɔv] Notes: fishing tackle. Worked up and down. </description>
+    </item>
+    <item>
+      <headword id="idp161921856">feallag</headword>
+      <description>[fjɑɫɑɡ] Notes: a chopping-block.</description>
+    </item>
+    <item>
+      <headword id="idp161923584">geola</headword>
+      <description>Notes: [ɡʹɔɫə] rather than [ɡʹɔ:ɫə] for a boat.</description>
+    </item>
+    <item>
+      <headword id="idp161925672">glanadh</headword>
+      <description>Quotation: Cha dean mi glanadh dheth. Notes: I can’t make head or tail of it. (From Caol-Rónach.)</description>
+    </item>
+    <item>
+      <headword id="idp161927400">gnoigean</headword>
+      <description>[ɡɾɔ̃ɡʹɛ̃ṉ] Notes: hand-grip on a scythe.</description>
+    </item>
+    <item>
+      <headword id="idp161929128">gobhladair-na-lampa</headword>
+      <description>Notes: daddy-long-legs.</description>
+    </item>
+    <item>
+      <headword id="idp161930640">góbhlag</headword>
+      <description>Notes: V-shaped twigs taken from small trees. Put through roof divots to secure them.</description>
+    </item>
+  </items>
+</fieldworkDocument>

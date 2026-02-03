@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 3 6 14 -->
+<fieldworkDocument docId="AOHenley_ClarkstonRMacNeilmisc" docType="wordlist" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>[1987-88]</date>
+  <fieldworker personId="ohenleya">A. O’Henley</fieldworker>
+  <informant>
+    <nameEnglish>Roderick MacNeil</nameEnglish>
+    <age>[69]</age>
+    <origin>[Barra]</origin>
+  </informant>
+  <location>[Glasgow], Clarkston</location>
+  <items>
+   <item>
+      <headword id="idm113016">roid</headword>
+      <description>bog myrtle. Soaked in hot water and used as a laxative.</description>
+    </item>
+    <item>
+      <headword id="idm115680">trì-bhilleach</headword>
+      <description>not sure of English term but the plant had three leaves. This was boiled and given to cows near calving time. A laxative for animals.</description>
+    </item>
+    <item>
+      <headword id="idm119424">stiùrag</headword>
+      <description>a drink used to quench thirst, consisting of oatmeal, water or milk.</description>
+    </item>
+    <item>
+      <headword id="idm155712">fuarag</headword>
+      <description>given to children at Halloween. Consisted of cream and oatmeal. The last treat of the year since cream would not be readily available thereafter.</description>
+    </item>
+    <item>
+      <headword id="idm157224">carraigeann</headword>
+      <description>found on rocks at low tide. Used to make a sort of pudding which was said to be replenishing.</description>
+    </item>
+    <item>
+      <headword id="idm163992">duillisg</headword>
+      <description>bits of seaweed found on tangles.</description>
+    </item>
+    <item>
+      <headword id="idp109470104">millearach</headword>
+      <description>does not know English equivalent. This substance used to come ashore, and was used as a substitute for straw, especially in mattresses. Stringy, dry substance.</description>
+    </item>
+  </items>
+</fieldworkDocument>
+

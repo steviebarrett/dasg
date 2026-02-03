@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?><!-- checked by MM on 3 6 14 --><fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="AOHenley_ClarkstonRMacNeilnadur" docType="questionnaire" subType="NadurAnDuine" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Nàdur an Duine / Personality</title>
+  <date>[1987-88]</date>
+  <fieldworker personId="ohenleya">A. O’Henley</fieldworker>
+  <informant>
+    <nameEnglish>Roderick MacNeil</nameEnglish>
+    <age>[69]</age>
+    <origin>Barra</origin>
+  </informant>
+  <location>[Glasgow], Clarkston</location>
+  <items>
+    <item><headword id="d0e32" type="heading" level="h1">Good company / Bad company</headword></item>
+    <item>
+      <headword id="idp2508280">duine suairc</headword>
+      <description>good company, pleasant conversant.</description>
+    </item>
+    <item>
+      <headword id="idp2505328">duine truasail</headword>
+      <description>merciful.</description>
+    </item>
+    <item>
+      <headword id="idp2502160">duine amaiseach</headword>
+      <description>witty.</description>
+    </item>
+    <item>
+      <headword id="idp2498416">gasag</headword>
+      <description>horrible wee man / woman.</description>
+    </item>
+    <item>
+      <headword id="idp2522752">duine lom</headword>
+      <description>hard-hearted. “Cho lòm [sic] ris an deargan.”</description>
+    </item>
+    <item>
+      <headword id="idp2524480">duine searbh</headword>
+      <description>sarcastic.</description>
+    </item>
+    <item>
+      <headword id="idp2525992">sgroileadh da theanga</headword>
+      <description>tongue lashing. More often applicable to women being given a tongue lashing.</description>
+    </item>
+    <item><headword id="d0e99" type="heading" level="h1">Cheerful / Gloomy</headword></item>
+    <item>
+      <headword id="idp2528368">duine ciatach</headword>
+      <description>a patient person.</description>
+    </item>
+    <item>
+      <headword id="idp2529880">duine gasda</headword>
+      <description>a pleasant person.</description>
+    </item>
+    <item>
+      <headword id="idp2531392">duine somalta</headword>
+      <description>placid.</description>
+    </item>
+    <item>
+      <headword id="idp2532904">“O nach buidhe dha”</headword>
+      <description>used of a satisfied person.</description>
+    </item>
+    <item>
+      <headword id="idp2534488">duine gàbhaidh</headword>
+      <description>surly.</description>
+    </item>
+    <item>
+      <headword id="idp2536000">dreunair</headword>
+      <description>frowning person.</description>
+    </item>
+    <item>
+      <headword id="idp2537512">duine griofagach</headword>
+      <description>nervous, excitable person.</description>
+    </item>
+    <item>
+      <headword id="idp2539024">drabasdach</headword>
+      <description>when Gaelic speech is spoiled by English interjections.</description>
+    </item>
+    <item><headword id="d0e175" type="heading" level="h1">A good man / A bad man</headword></item>
+    <item>
+      <headword id="idp2541400">earbsach</headword>
+      <description>trustworthy.</description>
+    </item>
+    <item>
+      <headword id="idp2542912">ionraic</headword>
+      <description>just.</description>
+    </item>
+    <item>
+      <headword id="idp2544424">creideach</headword>
+      <description>religious.</description>
+    </item>
+    <item>
+      <headword id="idp2545936">ceard</headword>
+      <description>a man who does not deal honourably with women.</description>
+    </item>
+    <item>
+      <headword id="idp2547448">gròic</headword>
+      <description>used of an incompetent joiner / tradesman.</description>
+    </item>
+    <item>
+      <headword id="idp2548960">leam-leat</headword>
+      <description>person who would be behind you one minute and the next opposed to you.</description>
+    </item>
+    <item><headword id="d0e233" type="heading" level="h1">A successful man / A failure</headword></item>
+    <item>
+      <headword id="idp2551336">comasach</headword>
+      <description>capable.</description>
+    </item>
+    <item>
+      <headword id="idp2552848">duine doigheil</headword>
+      <description>a good tradesman, someone who is good at his job.</description>
+    </item>
+    <item>
+      <headword id="idp2554360">duine dèanadach</headword>
+      <description>ambitious.</description>
+    </item>
+    <item>
+      <headword id="idp2555872">air a thuc fhein</headword>
+      <description>on his own initiative.</description>
+    </item>
+    <item>
+      <headword id="idp2557384">dìcheallach</headword>
+      <description>earnest.</description>
+    </item>
+    <item>
+      <headword id="idp2558896">dìleas</headword>
+      <description>loyal.</description>
+    </item>
+    <item>
+      <headword id="idp3196384">‘ceangailte ris a leisge’</headword>
+      <description>someone who is irrevocably lazy.</description>
+    </item>
+    <item>
+      <headword id="idp3197896">sgliùrach</headword>
+      <description>a woman who makes a lot of noise.</description>
+    </item>
+    <item>
+      <headword id="idp3199408">luid</headword>
+      <description>clumsy housewife.</description>
+    </item>
+    <item>
+      <headword id="idp3200920">rolaisteach</headword>
+      <description>someone who tells tall stories.</description>
+    </item>
+    <item><headword id="d0e327" type="heading" level="h1">A wise man / Foolish</headword></item>
+    <item>
+      <headword id="idp3203296">pungail</headword>
+      <description>sensible.</description>
+    </item>
+    <item>
+      <headword id="idp3204808">ciallach</headword>
+      <description>as well as sensible used to mean a tame animal.</description>
+    </item>
+    <item>
+      <headword id="idp3206320">tonaisgail</headword>
+      <description>sensible.</description>
+    </item>
+    <item>
+      <headword id="idp3207832">seadhach</headword>
+      <description>sensible.</description>
+    </item>
+    <item>
+      <headword id="idp3209344">glomhraisg (-each)</headword>
+      <description>used of a stupid person.</description>
+    </item>
+    <item>
+      <headword id="idp3210856">sgliomair</headword>
+      <description>a hanger on.</description>
+    </item>
+    <item>
+      <headword id="idp3212368">bumalair</headword>
+      <description>someone who does not know how to behave.</description>
+    </item>
+    <item><headword id="d0e394" type="heading" level="h1">Bold / Timid</headword></item>
+    <item>
+      <headword id="idp3214744">dalba</headword>
+      <description>a forward person.</description>
+    </item>
+    <item>
+      <headword id="idp3216256">ladarna</headword>
+      <description>a forward person.</description>
+    </item>
+    <item>
+      <headword id="idp3217768">buatharra</headword>
+      <description>a bossy person. Applicable to both sexes.</description>
+    </item>
+    <item>
+      <headword id="idp3219280">siantaiche</headword>
+      <description>shy person.</description>
+    </item>
+    <item>
+      <headword id="idp3220792">leamh</headword>
+      <description>used of a child needing petting.</description>
+    </item>
+    <item>
+      <headword id="idp3222304">leideil</headword>
+      <description>used of a child needing petting.</description>
+    </item>
+    <item>
+      <headword id="idp3223816">eagallach</headword>
+      <description>timid.</description>
+    </item>
+    <item>
+      <headword id="idp3225328">gealtach</headword>
+      <description>timid.</description>
+    </item>
+    <item><headword id="d0e470" type="heading" level="h1">Proud / Humble</headword></item>
+    <item>
+      <headword id="idp3227704">‘mór as fhein’</headword>
+      <description>conceited.</description>
+    </item>
+    <item>
+      <headword id="idp3229216">uaibhreach</headword>
+      <description>proud.</description>
+    </item>
+    <item>
+      <headword id="idp3230728">duine dha fhein</headword>
+      <description>self-centred.</description>
+    </item>
+    <item>
+      <headword id="idp3232240">duine feineil</headword>
+      <description>self-centred.</description>
+    </item>
+    <item>
+      <headword id="idp3233752">broscul</headword>
+      <description>flattery.</description>
+    </item>
+    <item>
+      <headword id="idp3235264">mascul</headword>
+      <description>flattery.</description>
+    </item>
+    <item>
+      <headword id="idp3236776">sgleip</headword>
+      <description>flattery. “Cha robh e ach a’ sgleip.”</description>
+    </item>
+    <item><headword id="d0e537" type="heading" level="h1">Polite/ Coarse</headword></item>
+    <item>
+      <headword id="idp3239368">bainndidh</headword>
+      <description>a modest woman.</description>
+    </item>
+    <item>
+      <headword id="idp3240880">deideag</headword>
+      <description>neat, tidy woman.</description>
+    </item>
+    <item>
+      <headword id="idp3242392">àlainn</headword>
+      <description>handsome.</description>
+    </item>
+    <item>
+      <headword id="idp3243904">deiseil</headword>
+      <description>handsome.</description>
+    </item>
+    <item>
+      <headword id="idp3245416">glaoic</headword>
+      <description>bad-mannered.</description>
+    </item>
+    <item>
+      <headword id="idp3246928">fearail</headword>
+      <description>masculine looking woman.</description>
+    </item>
+    <item>
+      <headword id="idp3248440">curs</headword>
+      <description>coarse.</description>
+    </item>
+    <item><headword id="d0e604" type="heading" level="h1">Bad types</headword></item>
+    <item>
+      <headword id="idp3250816">buaireasach</headword>
+      <description>bad-tempered.</description>
+    </item>
+    <item>
+      <headword id="idp3252328">duine làn lagh</headword>
+    </item>
+    <item>
+      <headword id="idp3253840">duine amhrasach</headword>
+      <description>suspicious.</description>
+    </item>
+    <item>
+      <headword id="idp3255352">rag</headword>
+      <description>stubborn.</description>
+    </item>
+    <item><headword id="d0e641" type="heading" level="h1">Young / Old</headword></item>
+    <item>
+      <headword id="idp3257728">pocan</headword>
+      <description>tubby, cheeky boy.</description>
+    </item>
+    <item>
+      <headword id="idp3259240">[ioncag]</headword>
+      <description>“Cha deach ioncag air.” – He has not grown an inch.</description>
+    </item>
+    <item>
+      <headword id="idp3260824">[stòlda]</headword>
+      <description>Bodach stòlda – for a child who talks like an adult. Cailleach stòlda – for a girl who talks like an adult.</description>
+    </item>
+  </items>
+</fieldworkDocument>

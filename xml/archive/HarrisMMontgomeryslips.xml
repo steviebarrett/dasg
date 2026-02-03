@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 1/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_HarrisMMontgomeryslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>1967</date>
+  <informant>
+    <nameEnglish>Marion Montgomery</nameEnglish>
+  </informant>
+  <location>Harris</location>
+  <items>
+    <item>
+      <headword id="idp118932264">langadal</headword>
+      <description>Notes: seaweed found far out in very rocky ground, in long strips. Seems to be a general term.</description>
+    </item>
+    <item>
+      <headword id="idp118933776">làthach</headword>
+      <description>Notes: silt on the seashore.</description>
+    </item>
+    <item>
+      <headword id="idp118935288">lionradh</headword>
+      <description>[ʎĩə̃rɑɣ] Notes: part of the beairt-dhealbh.</description>
+    </item>
+    <item>
+      <headword id="idp118937016">lonaid</headword>
+      <description>[ɫɔ̃n̪idʹ] Notes: the stick moved up and down in churn.</description>
+    </item>
+    <item>
+      <headword id="idp118938744">madadh</headword>
+      <description>Notes: clam. Collected only at very low tides in the spring.</description>
+    </item>
+    <item>
+      <headword id="idp118940328">madhair</headword>
+      <description>[məəɾ] Notes: hook with a piece of wool attached for catching mackerel or lythe. Had to be the right size. Sometimes a very small piece of red thread was added to attract the lythe.</description>
+    </item>
+    <item>
+      <headword id="idp118942056">maighistir</headword>
+      <description>Notes: urine used in process of wool-dyeing and also in washing the cloth free from oil.</description>
+    </item>
+    <item>
+      <headword id="idp118943568">maistreadh</headword>
+      <description>[mɑ̃ʃtʹɾəɣ] Notes: churning.</description>
+    </item>
+    <item>
+      <headword id="idp118945296">meung</headword>
+      <description>[mjəŋɡ] Notes: the thin liquid left when crowdie was made, whey.</description>
+    </item>
+    <item>
+      <headword id="idp118947096">milcean</headword>
+      <description>[mĩlkʹɑ̃ṉ] Notes: seaweed which grows quite far out on the rocks. Smallish strips which can be eaten.</description>
+    </item>
+    <item>
+      <headword id="idp118948824">min-eàrraidh (?)</headword>
+      <description>[mĩɲɑ:ri] Notes: part of a loom.</description>
+    </item>
+    <item>
+      <headword id="idp118950552">miosair</headword>
+      <description>[mĩsəð] Notes: a wooden basin used for milk.</description>
+    </item>
+    <item>
+      <headword id="idp118952280">muirsgean</headword>
+      <description>[mũ̜sɡʹɑ̃ṉ] Notes: found in the sand, detected by means of holes in the surface.</description>
+    </item>
+    <item>
+      <headword id="idp118954008">mùrach</headword>
+      <description>Quotation: mùrach anns a ghainmhich. Notes: digging in the sand.</description>
+    </item>
+    <item>
+      <headword id="idp118955664">mùsgan</headword>
+      <description>[mũ̜:sɡɑn] Notes: found in the sand, ejects water from a tube.</description>
+    </item>
+    <item>
+      <headword id="idp118957392">rèim</headword>
+      <description>[rɛ̃:m] Notes: presumably the rim of the big wheel (spinning wheel).</description>
+    </item>
+    <item>
+      <headword id="idp118959192">roileag</headword>
+      <description>[rɔlɑɡ] Notes: when the wool was twisted after carding before going on to the wheel – a roileag was made.</description>
+    </item>
+    <item>
+      <headword id="idp118960920">rolan</headword>
+      <description>Notes: (spinning wheel) one band (the big band) went round the ‘rolan’ and the ‘rèim’.</description>
+    </item>
+    <item>
+      <headword id="idp118962432">rùmhan</headword>
+      <description>[rũ̜:ɑṉ] Notes: in Harris this is a bigger arrangement than a coilleag – as if several coilleags were made into the one heap.</description>
+    </item>
+    <item>
+      <headword id="idp118964160">iteachan</headword>
+      <description>Notes: the bobbin that goes inside the shuttle.</description>
+    </item>
+    <item>
+      <headword id="idp118965672">peàirdean  (plural)</headword>
+      <description>[pjɑ:ʴd̪ɑṉ] Notes: “A cheud [sic] chuid de’n chlòimh a dheadhadh troimh na cairdean s’e peàirdean a chanadh iad riutha.” These were broader than the “roileagan”. [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+    <item>
+      <headword id="idp118967616">piùrna</headword>
+      <description>[pju̜:ɽɴʹə] Notes: the small band in the spinning wheel went round the piùrna.</description>
+    </item>
+    <item>
+      <headword id="idp118969344">saoidh</headword>
+      <description>[səi] Notes: made a yellow dye.</description>
+    </item>
+    <item>
+      <headword id="idp118971072">séacle</headword>
+      <description>[ʃɛ:klə] Notes: part of a spinning wheel – “bha [ʃɛ:klə] air uachdair a phiùrna agus bha fiaclan ann.”</description>
+    </item>
+    <item>
+      <headword id="idp118973088">sealasdair</headword>
+      <description>Notes: used for dyeing.</description>
+    </item>
+    <item>
+      <headword id="idp118974600">sealbhag</headword>
+      <description>Notes: when dyeing with “guirmean” it was put in with the urine and left with the wool in a tub for a few days. Then the “sealbhag” was gathered, boiled and the resulting liquid put into the tub. This made a fast dye. (Left for a day or two.)</description>
+    </item>
+    <item>
+      <headword id="idp118976112">sgreadag</headword>
+      <description>[sɡðed̪ɑɡ] Notes: “… an rud ghiar a bha ’s an uachdair nuair a bha thu ’ga chuir do’n chrannachan.” (not sure what this is)</description>
+    </item>
+    <item>
+      <headword id="idp118977840">siol-choiseadh</headword>
+      <description>Notes: presumably the part of the spinning wheel moved by the foot.</description>
+    </item>
+    <item>
+      <headword id="idp118979352">sioltachan</headword>
+      <description>Notes: sieve.</description>
+    </item>
+    <item>
+      <headword id="idp118980864">slacan</headword>
+      <description>Notes: used for washing cloth – a big wooden stick.</description>
+    </item>
+    <item>
+      <headword id="idp118982376">slaopadh</headword>
+      <description>[sɫw:pəɣ] Notes: process of pouring boiling water on shellfish and shaking until the shell and fish separated.</description>
+    </item>
+    <item>
+      <headword id="idp118984104">slat Ghaidhealach</headword>
+      <description>Notes: weaver’s yard – 8 ft long.</description>
+    </item>
+    <item>
+      <headword id="idp118985616">slinne-chlar</headword>
+      <description>[ʃʎĩɲəxɫɑɾ] [?] Notes: part of a loom.</description>
+    </item>
+    <item>
+      <headword id="idp118987416">sòrnan</headword>
+      <description>Notes: ray; caught in the autumn inshore.</description>
+    </item>
+    <item>
+      <headword id="idp118988928">spàl</headword>
+      <description>Notes: shuttle.</description>
+    </item>
+    <item>
+      <headword id="idp118990440">spar-gaoitheadh</headword>
+      <description>Notes: the “ceangal” at the end of a black-house which protruded.</description>
+    </item>
+    <item>
+      <headword id="idp118991952">stoc</headword>
+      <description>Notes: the part of the spinning wheel to which the three legs were joined.</description>
+    </item>
+    <item>
+      <headword id="idp118993464">suidheachadh</headword>
+      <description>Notes: putting milk aside until the cream was obtained. Barvas: cuir air suidheachadh.</description>
+    </item>
+    <item>
+      <headword id="idp118994976">sùil-cuibhrige</headword>
+      <description>Notes: bird’s-eye pattern.</description>
+    </item>
+    <item>
+      <headword id="idp118996488">sunnag</headword>
+      <description>[sũ̜n̪ɑɡ] Notes: wooden chair made from a barrel.</description>
+    </item>
+    <item>
+      <headword id="idp118998216">tàbh</headword>
+      <description>[t̪ɑ:v] Notes: net bag suspended from circular frame with a long handle used for catching “cudaigean”.</description>
+    </item>
+    <item>
+      <headword id="idp118999944">taosnadh</headword>
+      <description>[t̪ɯ:sn̪ə̃ɣ] Notes: squeezing the “gruth” in order to dry it.</description>
+    </item>
+    <item>
+      <headword id="idp119001672">acuinn mheadhon</headword>
+      <description>Notes: part of the spinning wheel. It was tied by a thin piece of wood to the “siol-choiseadh”.</description>
+    </item>
+    <item>
+      <headword id="idp119003184">àireamh</headword>
+      <description>Notes: a bunch of 5 threads.</description>
+    </item>
+    <item>
+      <headword id="idp119004696">armadh</headword>
+      <description>Notes: oil put on wool (general term).</description>
+    </item>
+    <item>
+      <headword id="idp119006208">basaidh</headword>
+      <description>[bɑsi] Notes: basin.</description>
+    </item>
+    <item>
+      <headword id="idp119007936">beairt-dhealbh</headword>
+      <description>Notes: the loom used for making up the hank of warp before putting it into the loom.</description>
+    </item>
+    <item>
+      <headword id="idp166556264">blàthach</headword>
+      <description>Notes: buttermilk.</description>
+    </item>
+    <item>
+      <headword id="idp166554752">bragair</headword>
+      <description>[bɾɑɡəð] Notes: seaweed coming on to the sandy beaches on the West Coast of Harris. Used as manure.</description>
+    </item>
+    <item>
+      <headword id="idp166553024">breabadaich</headword>
+      <description>Notes: kicking action of the cow.</description>
+    </item>
+    <item>
+      <headword id="idp166551512">breallach</headword>
+      <description>[bðɛɫɑx] Notes: bigger and darker than “coilleagan” but not so coruscated.</description>
+    </item>
+    <item>
+      <headword id="idp166549208">buathalan</headword>
+      <description>[bu̟əʰəɫɑ̃n] Notes: used in dyeing wool.</description>
+    </item>
+    <item>
+      <headword id="idp166547480">cairt</headword>
+      <description>Notes: root of the water-lily; made a brown dye.</description>
+    </item>
+    <item>
+      <headword id="idp166545968">calanas</headword>
+      <description>Notes: working on wool.</description>
+    </item>
+    <item>
+      <headword id="idp166544456">caraicean</headword>
+      <description>[kɑrɑçkʹɑ̃n] Notes: seaweed which grows on rocky ground. [NOTES: slipped under ‘caragain’.]</description>
+    </item>
+    <item>
+      <headword id="idp166543160">carran-creigeadh</headword>
+      <description>[kɑrɑṉ kɾeɟəɣ] Notes: small ugly fish full of spikes. Usually rejected. [NOTES: slipped under ‘carran-creige’.]</description>
+    </item>
+    <item>
+      <headword id="idp166541216">casachan</headword>
+      <description>Notes: part(s) of a loom.</description>
+    </item>
+    <item>
+      <headword id="idp166539704">cioch dhearg</headword>
+      <description>Notes: sea anemone. Sometimes called “cioch a’ chladaich”.</description>
+    </item>
+    <item>
+      <headword id="idp166537616">claimheag</headword>
+      <description>[kɫɑ̃ĩvɑɡ] Notes: small, very lively fish found inshore (said to be the young ling but not sure about this).</description>
+    </item>
+    <item>
+      <headword id="idp166536464">cnòdan</headword>
+      <description>[krõ̜:d̪ɑṉ] Notes: Mrs Montgomery says this is a “faochag mhór”. In Lewis it is a gurnard.</description>
+    </item>
+    <item>
+      <headword id="idp166534160">coidhteag</headword>
+      <description>[kɔ̣itʹɑɡ] Notes: says this is a cowrie shell.</description>
+    </item>
+    <item>
+      <headword id="idp166532648">coilleag</headword>
+      <description>[kəʎɑɡ] Notes: an arrangement of 4 peats standing on end and leaning against each other with a fifth lying on top. Verb: coilleagachadh. (In Lewis this is a “rùmhan”.)</description>
+    </item>
+    <item>
+      <headword id="idp166530704">colamadh</headword>
+      <description>[ˈkɔɫɔməɣ] Notes: seems to mean the arrangement of threads of different colours to make up a pattern. Used as verb and noun.</description>
+    </item>
+    <item>
+      <headword id="idp166529408">cragan feannaig</headword>
+      <description>[kɾɑ̃ɡɑ̃ṉ fjɑ̃ṉɑ̃ɡʹ] Notes: sea urchin found at very low tide.</description>
+    </item>
+    <item>
+      <headword id="idp166527824">crannachan</headword>
+      <description>Notes: churn.</description>
+    </item>
+    <item>
+      <headword id="idp166526312">creachan</headword>
+      <description>Notes: shellfish. Always in water; caught with a gaff.</description>
+    </item>
+    <item>
+      <headword id="idp166524800">crois-iarna</headword>
+      <description>Notes: after coming off the wheel, the thread was put on the crois-iarna.</description>
+    </item>
+    <item>
+      <headword id="idp166523288">crotal</headword>
+      <description>Notes: used in wool-dyeing – brown.</description>
+    </item>
+    <item>
+      <headword id="idp166521776">cuigeal</headword>
+      <description>Notes: used for spinning before the wheel was used – a long piece of wood.</description>
+    </item>
+    <item>
+      <headword id="idp166520264">cuman</headword>
+      <description>Notes: wooden milking pail.</description>
+    </item>
+    <item>
+      <headword id="idp166518752">currachd a’ righ</headword>
+      <description>[ku̜rəxk ə ri:] Notes: part of a sheep’s abdomen used in marag-making. [NOTES: slipped under ‘currac’.]</description>
+    </item>
+    <item>
+      <headword id="idp166516808">donnag</headword>
+      <description>[d̪on̪ɑɡ] Notes: small, brown fish found inshore.</description>
+    </item>
+    <item>
+      <headword id="idp166515080">dream a’ chraoisean</headword>
+      <description>[d̪ɾɛm ə xɾɯ:ʃɑ̣ṉ] Notes: a face – as in making a face.</description>
+    </item>
+    <item>
+      <headword id="idp166512992">drògaid</headword>
+      <description>Notes: cloth made with cotton warp.</description>
+    </item>
+    <item>
+      <headword id="idp166462664">dubh-chasach</headword>
+      <description>Notes: used in wool-dyeing.</description>
+    </item>
+    <item>
+      <headword id="idp166461584">duileasg</headword>
+      <description>[d̪u̟lɤsk] Notes: two kinds, one light-coloured, the other darker, the lighter one being more palatable. Can be eaten alone but used also to be boiled along with meat like cabbage. Called “càl duluisg”.</description>
+    </item>
+    <item>
+      <headword id="idp166457192">eisir</headword>
+      <description>[ẹʃi̜ð] Notes: pl. éisirean [ẹʃi̜ðəṉ]. Oyster?</description>
+    </item>
+    <item>
+      <headword id="idp166451000">eòlan</headword>
+      <description>[ɛɔ:ɫɑṉ] Notes: fish oil put on wool before it was teazed in order to lubricate it.</description>
+    </item>
+    <item>
+      <headword id="idp166448480">falaid</headword>
+      <description>[fɑɫɑdʹ] Notes: in baking – the dry flour or oatmeal spread out on the baking board, and worked into the “bonnach”.</description>
+    </item>
+    <item>
+      <headword id="idp166444520">feamainn bhuidhe</headword>
+      <description>Notes: this kind [of seaweed] has globules with an oily substance inside.</description>
+    </item>
+    <item>
+      <headword id="idp166440704">feamainn chìrean</headword>
+      <description>Notes: seaweed nearest the land; used for feeding cows.</description>
+    </item>
+    <item>
+      <headword id="idp166428680">feamainn dhubh</headword>
+      <description>Notes: the “feamainn dubh [sic]” has globules on it with a water-like liquid inside. Before it is used as manure in Harris, it is left to dry as it is otherwise unsuitable.</description>
+    </item>
+    <item>
+      <headword id="idp166432496">feamainn shiabaidh</headword>
+      <description>Notes: the loose seaweed thrown on to the shore by full tides and when the wind was blowing on to the shore.</description>
+    </item>
+    <item>
+      <headword id="idp166433216">fearsaid</headword>
+      <description>Notes: piece of wood used for spinning together two threads for knitting.</description>
+    </item>
+    <item>
+      <headword id="idp166506152">friasg</headword>
+      <description>[fθiɑsɡ] Notes: bait used in rock-fishing – shellfish boiled and then chewed before being thrown out on the water to attract fish.</description>
+    </item>
+    <item>
+      <headword id="idp166503848">fuadrag</headword>
+      <description>Notes: used to catch lythe, made of rubber.</description>
+    </item>
+    <item>
+      <headword id="idp166503344">fuidheag</headword>
+      <description>Notes: the yarn left in the loom after the tweed was cut.</description>
+    </item>
+    <item>
+      <headword id="idp166502408">fullagan</headword>
+      <description>[fu̜ɫɑɡəṉ] Notes: part of a loom.</description>
+    </item>
+    <item>
+      <headword id="idp166497368">garman-iuchd</headword>
+      <description>Notes: part of a loom.</description>
+    </item>
+    <item>
+      <headword id="idp166452584">geata-siùrag</headword>
+      <description>Notes: part of the beairt-dhealbh.</description>
+    </item>
+    <item>
+      <headword id="idp166497080">giurnalair</headword>
+      <description>[ɟu̜:ʴṉlɑð] [?] Notes: a big chest for holding two bolls of meal, usually one of flour and one of oatmeal. [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+    <item>
+      <headword id="idp166493696">gruaigean</headword>
+      <description>[ɡɾu̜əɟɑ̃ṉ] Notes: seaweed which grows far out on the rocks. Long strips with frilly sides. The middle portion could be eaten.</description>
+    </item>
+  </items>
+</fieldworkDocument>

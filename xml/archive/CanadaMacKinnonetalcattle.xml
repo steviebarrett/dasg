@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 3 5 13 -->
+<fieldworkDocument docId="Canada_CanadaMacKinnonetalcattle" docType="questionnaire" subType="Cattle">
+  <title>Crodh / Cattle</title>
+  <date>[1969]</date>
+  <fieldworker>Susan Norwood</fieldworker>
+  <informant>
+    <nameEnglish>S.J. MacKinnon</nameEnglish>
+    <origin>([Canada], Inverness Co.)</origin>
+  </informant>
+  <informant>
+    <nameEnglish>James MacKay</nameEnglish>
+    <origin>([Canada], Inverness Co.)</origin>
+  </informant>
+  <informant>
+    <nameEnglish>Dan A. MacLeod</nameEnglish>
+    <origin>([Canada], Victoria Co.)</origin>
+  </informant>
+  <location>Canada</location>
+    <items>
+    <item><headword id="d0e44" type="heading" level="h1">1. Different stages in the growth of cattle</headword></item>
+    <item>
+      <headword id="d0e49">laogh boirionn</headword>
+      <description>female calf.</description>
+    </item>
+    <item>
+      <headword id="d0e58">laogh firionn</headword>
+      <description>male calf.</description>
+    </item>
+    <item>
+      <headword id="d0e67">aghan</headword>
+      <description>young heifer.</description>
+    </item>
+    <item>
+      <headword id="d0e76">atharla</headword>
+      <description>yearling heifer (not used in Victoria).</description>
+    </item>
+    <item>
+      <headword id="d0e85">agh</headword>
+      <description>old atharla [q.v.].</description>
+    </item>
+    <item>
+      <headword id="d0e94">bliadhanach</headword>
+      <description>yearling (generally male).</description>
+    </item>
+    <item>
+      <headword id="d0e103">dà-bhliadhanach (dàibhleannach)</headword>
+      <description>two-year-old.</description>
+    </item>
+    <item>
+      <headword id="d0e112">gamhainn</headword>
+      <description>cow just after calving.</description>
+    </item>
+    <item>
+      <headword id="d0e121">gamhnach</headword>
+      <description>milking farrow (you can milk her, but hadn’t calved that year).</description>
+    </item>
+    <item>
+      <headword id="d0e130">seasgach</headword>
+      <description>dry cow (also sometimes in Victoria, one that hasn’t yet calved).</description>
+    </item>
+    <item>
+      <headword id="d0e139">mart seasg</headword>
+      <description>dry cow (also sometimes in Victoria, one that hasn’t yet calved).</description>
+    </item>
+    <item>
+      <headword id="d0e148">mart bainne</headword>
+      <description>milk-cow (in Victoria sometimes -laoigh).</description>
+    </item>
+    <item>
+      <headword id="d0e157">mart laoigh</headword>
+      <description>breeding or pregnant cow .</description>
+    </item>
+    <item>
+      <headword id="d0e166">damh</headword>
+      <description>steer.</description>
+    </item>
+    <item>
+      <headword id="d0e175">ruigeann</headword>
+      <description>half-castrated bull.</description>
+    </item>
+    <item>
+      <headword id="d0e184">spoth</headword>
+      <description>castration.</description>
+    </item>
+    <item>
+      <headword id="d0e193">tarbh</headword>
+      <description>bull.</description>
+    </item>
+	<item>
+      <headword id="d0e202">mart</headword>
+      <description>‘mart’ generally preferred to ‘bò’ in Nova Scotia; the plural is either ‘mairt’ or ‘crodh’ (‘bò’ has no plural).</description>
+    </item>
+    <item><headword id="d0e210" type="heading" level="h1">2. Breeds of cattle</headword></item>
+    <item>
+      <headword id="d0e215">crodh dubh</headword>
+      <description>Angus.</description>
+    </item>
+    <item>
+      <headword id="d0e224">crodh buidhe</headword>
+      <description>Jersey (?).</description>
+    </item>
+    <item>
+      <headword id="d0e233">crodh breac</headword>
+      <description>Holstein at al.</description>
+    </item>
+    <item><headword id="d0e241" type="heading" level="h1">3. Outward appearance of cattle</headword></item>
+	<item>
+	  <headword id="idola47">[note]</headword>
+	  <description>(cf. ‘dubh’ and ‘buidhe’ preceding page [i.e. point 2 above])</description>
+	</item>
+    <item>
+      <headword id="d0e255">ruadh</headword>
+      <description>red of a white-face.</description>
+    </item>
+    <item>
+      <headword id="d0e264">reamhar</headword>
+      <description>fat.</description>
+    </item>
+    <item>
+      <headword id="d0e273">bochd</headword>
+      <description>lean.</description>
+    </item>
+    <item>
+      <headword id="d0e282">ceann-fhionn (ceannainn)</headword>
+      <description>white-face.</description>
+    </item>
+    <item>
+      <headword id="d0e291">blàrag</headword>
+      <description>white-face.</description>
+    </item>
+    <item>
+      <headword id="d0e300">druimhionn</headword>
+      <description>white down the back.</description>
+    </item>
+    <item>
+      <headword id="d0e309">maol</headword>
+      <description>polled.</description>
+    </item>
+    <item><headword id="d0e317" type="heading" level="h1">4. Names for certain beasts, e.g. an animal on which the owner bestows particular attention</headword></item>
+    <item><headword id="d0e321" type="heading" level="h1">5. Parts of the body</headword></item>
+    <item>
+      <headword id="d0e326">seiche</headword>
+      <description>hide.</description>
+    </item>
+    <item>
+      <headword id="d0e335">adhar</headword>
+      <description>horn.</description>
+    </item>
+    <item>
+      <headword id="d0e344">amhach</headword>
+      <description>neck.</description>
+    </item>
+    <item>
+      <headword id="d0e353">fionntrachad</headword>
+      <description>[?] hair.</description>
+    </item>
+    <item>
+      <headword id="d0e362">uchd</headword>
+      <description>breast.</description>
+    </item>
+    <item>
+      <headword id="d0e371">casan cinn</headword>
+      <description>front feet.</description>
+    </item>
+    <item>
+      <headword id="d0e380">casan deiridh</headword>
+      <description>back feet.</description>
+    </item>
+    <item>
+      <headword id="d0e389">ceathair deiridh</headword>
+      <description>hindquarters.</description>
+    </item>
+    <item>
+      <headword id="d0e398">cruachain</headword>
+      <description>hips.</description>
+    </item>
+    <item>
+      <headword id="d0e407">sionnan</headword>
+      <description>teats.</description>
+    </item>
+    <item>
+      <headword id="d0e416">feithean</headword>
+      <description>tendons.</description>
+    </item>
+    <item>
+      <headword id="d0e425">cuislean</headword>
+      <description>arteries.</description>
+    </item>
+    <item>
+      <headword id="d0e434">sgamhan</headword>
+      <description>lungs.</description>
+    </item>
+    <item>
+      <headword id="d0e443">gruthan</headword>
+      <description>liver.</description>
+    </item>
+    <item>
+      <headword id="d0e452">airnean</headword>
+      <description>kidneys.</description>
+    </item>
+    <item>
+      <headword id="d0e461">dumalas</headword>
+      <description>gall bladder.</description>
+    </item>
+    <item>
+      <headword id="d0e470">maodal</headword>
+      <description>big stomach.</description>
+    </item>
+    <item>
+      <headword id="d0e479">caolain</headword>
+      <description>intestines.</description>
+    </item>
+    <item>
+      <headword id="d0e488">taigis</headword>
+      <description>small stomach.</description>
+    </item>
+    <item>
+      <headword id="d0e497">crodhain</headword>
+      <description>hooves.</description>
+    </item>
+    <item><headword id="d0e505" type="heading" level="h1">6. Calving</headword></item>
+    <item>
+      <headword id="d0e510">crodh-dàil</headword>
+      <description>cow taken to the bull.</description>
+    </item>
+    <item>
+      <headword id="d0e519">dàr</headword>
+      <description>heat (also for human beings).</description> 
+    </item>
+    <item>
+      <headword id="d0e528">leabaidh-laoigh</headword>
+      <description>calf-bed.</description>
+    </item>
+    <item>
+      <headword id="d0e537">glanadh</headword>
+      <description>placenta.</description>
+    </item>
+    <item><headword id="d0e545" type="heading" level="h1">7. Milking</headword></item>
+    <item>
+      <headword id="d0e550">bleoghain</headword>
+      <description>milking.</description>
+    </item>
+    <item>
+      <headword id="d0e559">leigeil</headword>
+      <description>milking.</description>
+    </item>
+    <item>
+      <headword id="d0e568">striopadh</headword>
+      <description>milking to the last drop (stripping).</description>
+    </item>
+    <item>
+      <headword id="d0e577">deurannan</headword>
+      <description>last milk.</description>
+    </item>
+    <item>
+      <headword id="d0e586">deoghal</headword>
+      <description>suckling.</description>
+    </item>
+    <item>
+      <headword id="d0e595">àm an eadraidh</headword>
+      <description>milking-time.</description>
+    </item>
+    <item>
+      <headword id="d0e604">bainne buidhe</headword>
+      <description>beastings. (Inverness)</description>
+    </item>
+    <item>
+      <headword id="d0e613">bainne nois</headword>
+      <description>beastings. (Inverness)</description>
+    </item>
+    <item>
+      <headword id="d0e622">ceud-bainne</headword>
+      <description>beastings. (Victoria)</description>
+    </item>
+    <item>
+      <headword id="d0e631">nùis</headword>
+      <description>beastings. (Victoria)</description>
+    </item>
+    <item>
+      <headword id="d0e640">bacaid</headword>
+      <description>milk-pail.</description>
+    </item>
+    <item><headword id="d0e648" type="heading" level="h1">8. Feeding</headword></item>
+    <item>
+      <headword id="d0e653">biathadh</headword>
+      <description>feeding.</description>
+    </item>
+    <item>
+      <headword id="d0e662">feuradh</headword>
+      <description>grazing (seldom used).</description>
+    </item>
+	<item>
+	  <headword id="idola48">[herding]</headword>
+	  <description>(Little real herding done; one generally let the cows out of the barn to the field.)</description>
+	</item>
+    <item><headword id="d0e679" type="heading" level="h1">9. Apparatus</headword></item>
+    <item>
+      <headword id="d0e684">teadhair</headword>
+      <description>tether.</description>
+    </item>
+    <item>
+      <headword id="d0e693">buarach</headword>
+      <description>milking-fetter.</description>
+    </item>
+    <item>
+      <headword id="d0e702">stainseal</headword>
+      <description>stanchion.</description>
+    </item>
+    <item>
+      <headword id="d0e711">steichean</headword>
+      <description>stakes.</description>
+    </item>
+    <item>
+      <headword id="d0e720">crocan</headword>
+      <description>spikes put on a calf to keep it from sucking.</description>
+    </item>
+    <item><headword id="d0e728" type="heading" level="h1">10. Diseases</headword></item>
+    <item>
+      <headword id="d0e733">ruadh</headword>
+      <description>any inflammation, esp. milk-fever (V. [Victoria?] ruaidhe).</description>
+    </item>
+    <item>
+      <headword id="d0e742">cailleach chribeach</headword>
+      <description>when a cow’s cheek gets inside her teeth and forms a sore.</description>
+    </item>
+    <item><headword id="d0e750" type="heading" level="h1">11. Miscellaneous</headword><description>[misnumbered as 12] </description></item>
+    <item>
+      <headword id="d0e755">buachar</headword>
+      <description>dung, esp. of cows.</description>
+    </item>
+  </items>
+</fieldworkDocument>

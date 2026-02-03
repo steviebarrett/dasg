@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 23 4 13 -->
+<fieldworkDocument docId="Peat_DunoonJMacLeanmoine" docType="questionnaire" subType="Peat">
+  <title>Mòine / Peat-Working</title>
+  <fieldworker>[self]</fieldworker>
+  <informant>
+    <nameEnglish>John MacLean</nameEnglish>
+    <nameGaelic>Iain Mac ’Illeathain </nameGaelic>
+    <age>47</age>
+    <origin>Barra</origin>
+  </informant>
+  <location>Dunoon</location>
+  <items>
+    <item><headword id="d0e32" type="heading" level="h1">1. Ag ullachadh na talmhainn airson mòine a bhuain</headword></item>
+    <item>
+      <headword id="d0e37">feannadh</headword>
+      <description>removing turf.</description>
+    </item>
+    <item>
+      <headword id="d0e46">glanadh</headword>
+      <description>clearing the rough.</description>
+    </item>
+    <item>
+      <headword id="d0e55">sgriosadh</headword>
+      <description>slicing the last portions before coming to peat proper.</description>
+    </item>
+    <item>
+      <headword id="d0e64">am poll</headword>
+      <description>the peat bog.</description>
+    </item>
+    <item>
+      <headword id="d0e73">iarunn</headword>
+      <description>= fear ’sa pholl agus fear air an treisgeir. 2 men to 1 iarunn – one cutting – one throwing out peat. 3-4 iaruinn sufficient for a year’s supply.</description>
+    </item>
+    <item>
+      <headword id="d0e82">a sgaoileadh</headword>
+      <description>throwing out in orderly fashion.</description>
+    </item>
+    <item>
+      <headword id="d0e91">gàradh</headword>
+      <description>ventilated wall of peat.</description>
+    </item>
+    <item>
+      <headword id="d0e100">fàd</headword>
+      <description>depth of peat bog. Thig ceithir foidean as – 4 peat length deep. If so, 1st and 2nd layer on top, 3rd layer as gàradh, 4th layer at bottom.</description>
+    </item>
+    <item>
+      <headword id="d0e109">gearradh na mona</headword>
+      <description>cutting peats – very seldom used ‘buain’.</description>
+    </item>
+    <item>
+      <headword id="d0e118">uachdar a phuill</headword>
+      <description>top part where peat are laid out.</description>
+    </item>
+    <item>
+      <headword id="d0e127">mullach a phuill</headword>
+      <description>top part where peat are laid out.</description>
+    </item>
+    <item>
+      <headword id="d0e136">iochdar a phuill</headword>
+      <description>bottom part where peat are laid out.</description>
+    </item>
+    <item><headword id="d0e144" type="heading" level="h1">2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</headword></item>
+	<item>
+	  <headword id="idola195">[note]</headword>
+	  <description>[NOTES: the informant has changed ‘mònach’ to ‘mònadh’, and he has done so in headings 4 and 5, as well.]</description>
+	</item>
+    <item>
+      <headword id="d0e158">spaid</headword>
+      <description>spade.</description>
+    </item>
+    <item>
+      <headword id="d0e167">treisgeir</headword>
+      <description>peat cutter left or right footed according to user.</description>
+    </item>
+    <item>
+      <headword id="d0e176">gollad</headword>
+      <description>the first one in each line next to where cutting stopped previous year – usually unshapely.</description>
+    </item>
+    <item>
+      <headword id="d0e185">fad, pl. fadan or foidean</headword>
+      <description>ordinary peat.</description>
+    </item>
+    <item>
+      <headword id="d0e194">caoran (dubh)</headword>
+      <description>small dry portion.</description>
+    </item>
+    <item>
+      <headword id="d0e203">moine dhùbh</headword>
+      <description>black peat.</description>
+    </item>
+    <item>
+      <headword id="d0e212">moine bhan</headword>
+      <description>turfy peat.</description>
+    </item>
+    <item>
+      <headword id="d0e221">moine le barr</headword>
+      <description>top part turfy.</description>
+    </item>
+    <item>
+      <headword id="d0e230">dubhchonnadh</headword>
+      <description>where the unused peat bog has cracked and you pull off lumps of it by hand. As the lumps are nearly dry they may be used soon after.</description>
+    </item>
+    <item>
+      <headword id="d0e239">ath-mhoine or amhoine</headword>
+      <description>last year’s peat that was left on the hills and not taken home.</description>
+    </item>
+    <item>
+      <headword id="d0e248">pollag</headword>
+      <description>a small size peat bog, not more than two depths.</description>
+    </item>
+    <item>
+      <headword id="d0e257">Latha Ghille Chonnaidh</headword>
+      <description>New Year’s Day. Time taken for a lad to go to the hills for a bag of peats. Extra time on to the shortest day. Cf. Latha Cois-cheum Coillich.</description>
+    </item>
+    <item>
+      <headword id="d0e266">Latha Cois-cheum Coillich</headword>
+      <description>Christmas Day. Extra time from 22nd-25th December. Difference in time amounts to the cockerel taken [sic] the hens an extra step to feed. [Cf. Latha Ghille Chonnaidh.]</description>
+    </item>
+    <item><headword id="d0e274" type="heading" level="h1">3. A’ tiormachadh na mònach</headword></item>
+    <item>
+      <headword id="d0e279">tinnteadh, n. tinntean</headword>
+      <description>4 peats astraddle and one lying on top.</description>
+    </item>
+    <item>
+      <headword id="d0e288">rùdhan</headword>
+      <description>an indefinite number of tinnteinean in a rounded stack according to dryness of peat.</description>
+    </item>
+    <item>
+      <headword id="d0e297">cruach</headword>
+    </item>
+    <item><headword id="d0e302" type="heading" level="h1">4. A’ cruachadh na mònach</headword></item>
+    <item>
+      <headword id="d0e307">cruach</headword>
+      <description>peat stack.</description>
+    </item>
+    <item>
+      <headword id="d0e316">ag griomhadh</headword>
+      <description>making the wall round the peat stack.</description>
+    </item>
+    <item>
+      <headword id="d0e325">a’ tubhadh</headword>
+      <description>covering the stack with the turf taken off the poll – only when left in the hills to be taken home later.</description>
+    </item>
+    <item><headword id="d0e333" type="heading" level="h1">5. A’ toirt na mònach dhachaigh; an cliabh, etc.</headword></item>
+    <item>
+      <headword id="d0e338">cliabh, pl. cleibh</headword>
+      <description>panniers.</description>
+    </item>
+    <item>
+      <headword id="d0e347">strathair</headword>
+      <description>saddle.</description>
+    </item>
+    <item>
+      <headword id="d0e356">strian</headword>
+      <description>reins.</description>
+    </item>
+    <item>
+      <headword id="d0e365">teannachan</headword>
+      <description>billy rope.</description>
+    </item>
+    <item>
+      <headword id="d0e374">butt</headword>
+      <description>bit. Much more common but heard ‘mireineach’ used by some older people.</description>
+    </item>
+    <item>
+      <headword id="d0e383">mireineach</headword>
+      <description>bit. [Cf. butt.]</description>
+    </item>
+    <item>
+      <headword id="d0e392">taod</headword>
+      <description>halter. The bit is not used with a taod.</description>
+    </item>
+    <item>
+      <headword id="d0e401">botrachan</headword>
+      <description>piece of wood in the shape of a broom handle or the part of the rope covered with soft cloth passing under the tail and connected to the saddle.</description>
+    </item>
+    <item>
+      <headword id="d0e410">barradh</headword>
+      <description>vertical wall of peat topping the creel.</description>
+    </item>
+    <item>
+      <headword id="d0e419">plàta</headword>
+      <description>blanket under the saddle and panniers usually made of ropa ruadh or caidh-à.</description>
+    </item>
+    <item>
+      <headword id="d0e428">iris</headword>
+      <description>the rope attaching panniers to saddle.</description>
+    </item>
+    <item>
+      <headword id="d0e437">craoidh</headword>
+      <description>horse shoe.</description>
+    </item>
+    <item>
+      <headword id="d0e446">slige</headword>
+      <description>shoe that has been cast and used again.</description>
+    </item>
+    <item>
+      <headword id="d0e455">muing</headword>
+      <description>mane.</description>
+    </item>
+    <item>
+      <headword id="d0e464">sachd, pl. saichd</headword>
+      <description>load of two panniers.</description>
+    </item>
+    <item>
+      <headword id="d0e473">fiaclan a chleibh</headword>
+      <description>teeth of the creel.</description>
+    </item>
+    <item>
+      <headword id="d0e482">cliabh fraoich</headword>
+      <description>creel made from heather.</description>
+    </item>
+    <item>
+      <headword id="d0e491">lion a’ sachd</headword>
+      <description>fill the creels.</description>
+    </item>
+    <item>
+      <headword id="d0e500">leag a’ sachd</headword>
+      <description>empty the creels.</description>
+    </item>
+    <item>
+      <headword id="d0e509">thuit a’ sachd</headword>
+      <description>if something broke and peats fell to ground.</description>
+    </item>
+    <item>
+      <headword id="d0e518">suidhe boirionnaich</headword>
+      <description>not astraddle.</description>
+    </item>
+    <item>
+      <headword id="d0e527">smùr</headword>
+      <description>fragments of peat at the bottom of creel.</description>
+    </item>
+	<item><headword id="d0e535" type="heading" level="h2">[Horse]</headword></item>
+    <item>
+      <headword id="d0e540">each</headword>
+      <description>often preceded by beathach: beathach eich.</description>
+    </item>
+    <item>
+      <headword id="d0e549">lath</headword>
+    </item>
+    <item>
+      <headword id="d0e555">làir</headword>
+    </item>
+    <item>
+      <headword id="d0e561">searrach</headword>
+    </item>
+    <item>
+      <headword id="d0e567">gearran</headword>
+    </item>
+    <item>
+      <headword id="d0e573">falairidh</headword>
+    <description>[?] </description></item>
+    <item>
+      <headword id="d0e579">stallan</headword>
+    </item>
+    <item>
+      <headword id="d0e585">àigeach</headword>
+    </item>
+    <item><headword id="d0e590" type="heading" level="h1">6. Seòrsachan mònach</headword></item>
+	<item>
+	  <headword id="idola196">[note]</headword>
+	  <description>as page 2.</description>
+	</item>
+    <item><headword id="d0e603" type="heading" level="h1">7. Faclan eile</headword></item>
+  </items>
+</fieldworkDocument>

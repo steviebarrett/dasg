@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 5/8/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_BalallanCMacKayslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>1971</date>
+  <informant>
+    <nameEnglish>Miss C. MacKay</nameEnglish>
+  </informant>
+  <location>Lewis, Balallan</location>
+  <items>
+    <item>
+      <headword id="idp161829408">adag</headword>
+      <description>Quotation: sguab &gt; sgròthan &gt; adag &gt; tòrr &gt; cruach Notes: corn-working terms.</description>
+    </item>
+    <item>
+      <headword id="idp161831064">sgròthan</headword>
+      <description>Quotation: sguab &gt; sgròthan &gt; adag &gt; tòrr &gt; cruach. Notes: corn-working terms.</description>
+    </item>
+    <item>
+      <headword id="idp161832720">sguab</headword>
+      <description>Quotation: sguab &gt; sgròthan &gt; adag &gt; tòrr &gt; cruach. Notes: corn-working terms.</description>
+    </item>
+    <item>
+      <headword id="idp161834376">tòrr</headword>
+      <description>Quotation: sguab &gt; sgròthan &gt; adag &gt; tòrr &gt; cruach. Notes: corn-working terms.</description>
+    </item>
+    <item>
+      <headword id="idp161836032">cruach</headword>
+      <description>Quotation: sguab &gt; sgròthan &gt; adag &gt; tòrr &gt; cruach. Notes: corn-working terms.</description>
+    </item>
+  </items>
+</fieldworkDocument>

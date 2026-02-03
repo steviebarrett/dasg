@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>bookreader demo</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta name="apple-mobile-web-app-capable" content="yes">
+
+    <link rel="stylesheet" href="../BookReader/BookReader.css"/>
+
+    <script src="../BookReader/webcomponents-bundle.js"></script>
+    <script src="../BookReader/jquery-3.js"></script>
+
+
+    <script src="../BookReader/BookReader.js"></script>
+
+    <!-- Plugins -->
+    <script src="../BookReader/plugins/plugin.iframe.js"></script>
+
+    <style>
+html, body, #BookReader { width: 100%; height:100%; margin:0; padding: 0; }
+    </style>
+</head>
+<body style="background-color: #939598;">
+
+<div id="BookReader">
+  Gairm BookReader Demo<br/>
+
+  <noscript>
+  <p>
+      The BookReader requires JavaScript to be enabled. Please check that your browser supports JavaScript and that it is enabled in the browser settings.  You can also try one of the <a href="https://archive.org/details/goodytwoshoes00newyiala"> other formats of the book</a>.
+  </p>
+  </noscript>
+  </div>
+
+
+<script type="text/javascript">
+var options = {
+  data: [
+    [
+      { width: 800, height: 1200,
+        uri: '../../vol/img/page001.jpg' },
+    ],
+    [
+      { width: 800, height: 1200,
+        uri: '../../vol/img/page002.jpg' },
+      { width: 800, height: 1200,
+        uri: '../../vol/img/page003.jpg' },
+    ],
+    [
+      { width: 800, height: 1200,
+        uri: '../../vol/img/page004.jpg' },
+      { width: 800, height: 1200,
+        uri: '../../vol/img/page005.jpg' },
+    ],
+    [
+      { width: 800, height: 1200,
+        uri: '../../vol/img/page006.jpg' },
+      { width: 800, height: 1200,
+        uri: '../../vol/img/page007.jpg' },
+    ],
+    [
+      { width: 800, height: 1200,
+        uri: '../../vol/img/page008.jpg' },
+      { width: 800, height: 1200,
+        uri: '../../vol/img/page009.jpg' },
+    ],
+    [
+      { width: 800, height: 1200,
+        uri: '../../vol/img/page010.jpg' },
+      { width: 800, height: 1200,
+        uri: '../../vol/img/page011.jpg' },
+    ],
+    [
+      { width: 800, height: 1200,
+        uri: '../../vol/img/page012.jpg' },
+      { width: 800, height: 1200,
+        uri: '../../vol/img/page013.jpg' },
+    ],
+    [
+      { width: 800, height: 1200,
+        uri: '../../vol/img/page014.jpg' },
+    ]
+  ],
+
+  // Book title and the URL used for the book title link
+  bookTitle: 'Gairm Vol. 1',
+  bookUrl: 'https://dasg.ac.uk',
+  bookUrlText: 'Back to Gairm Online',
+  bookUrlTitle: 'Back to Gairm Online',
+
+  // thumbnail is optional, but it is used in the info dialog
+  thumbnail: '//archive.org/download/BookReader/img/page014.jpg',
+  // Metadata is optional, but it is used in the info dialog
+  metadata: [
+    {label: 'Title', value: 'Gairm Volume 1'},
+    {label: 'Author', value: 'DASG'},
+  ],
+
+  // Override the path used to find UI images
+  imagesBaseURL: '../BookReader/images/',
+
+  ui: 'embed', // embed, full (responsive)
+
+  el: '#BookReader',
+};
+var br = new BookReader(options);
+br.init();
+</script>
+
+</body>
+</html>

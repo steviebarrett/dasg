@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 23 4 13 -->
+<fieldworkDocument docId="Peat_BoreraigMMacLeodmoine" docType="questionnaire" subType="Peat">
+  <title>Mòine / Peat-Working</title>
+  <date>[27/07/1968 – date in the fieldworker’s comment in section 5]</date>
+  <fieldworker>Ruairidh MacFhionghuin, Peairt [Roderick MacKinnon, Perth]</fieldworker>
+  <informant>
+    <nameEnglish>Murchadh MacLeod</nameEnglish>
+    <nameGaelic>Murchadh MacLeoid </nameGaelic>
+    <age>87</age>
+    <origin>Borraraig [Skye, Boreraig]</origin>
+  </informant>
+  <location>An t-Eilean Sgitheanach, Borraraig [Skye, Boreraig]</location>
+  <items>
+    <item><headword id="d0e35" type="heading" level="h1">1. Ag ullachadh na talmhainn airson mòine a bhuain</headword></item>
+    <item><headword id="d0e39" type="heading" level="h2">Am blàr mona:</headword></item>
+    <item>
+      <headword id="d0e44">breacadh</headword>
+      <description>a’ gearradh an réisg le spaid air fad a’ phuill agus air a leud airson a’ mhòine a rùsgadh.</description>
+    </item>
+    <item>
+      <headword id="d0e53">rùsgadh</headword>
+      <description>a’ gearradh fodha’s a’ tilgeil a’ chip thar a’ phuill. Ma bhitheas dithis ann, bidh am breacadh tarsuinn ’s an gearradh fodha air an deanamh aig an aon am.</description>
+    </item>
+    <item>
+      <headword id="d0e62">an ceap</headword>
+      <description>riasg – mu throigh air leud agus mu dhà throigh gu leth air fhad.</description>
+    </item>
+    <item><headword id="d0e70" type="heading" level="h1">2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</headword></item>
+    <item><headword id="d0e74" type="heading" level="h2">Am poll mona:</headword></item>
+    <item>
+      <headword id="d0e79">am barrad</headword>
+      <description>a’ cheud fhàd.</description>
+    </item>
+    <item>
+      <headword id="d0e88">an grunnad</headword>
+      <description>an dara fàd.</description>
+    </item>
+    <item>
+      <headword id="d0e97">an dubhad</headword>
+      <description>an treas fàd.</description>
+    </item>
+    <item><headword id="d0e105" type="heading" level="h2">[blank]</headword></item>
+    <item>
+      <headword id="d0e110">an sgaoilteach</headword>
+      <description>far am bithear a’ sgaoileadh a mach na mòna airson a tiormachadh – seachd ’nan sreathan a ceann a chéile.</description>
+    </item>
+    <item>
+      <headword id="d0e119">an gàradh uinneagach</headword>
+      <description>nuair a bhios an sgaoilteach ro bheag bithear a’ deanamh gàradh air na fàdan agus uinneagan eatorra.</description>
+    </item>
+    <item>
+      <headword id="d0e128">màthair mhòna</headword>
+      <description>na fàdan anns a’ cheud sreath air tarsuinn a’ phuill.</description>
+    </item>
+    <item>
+      <headword id="d0e137">an carcaire</headword>
+      <description>sreath fhàdan air tarsuinn a’ phuill.</description>
+    </item>
+    <item>
+      <headword id="d0e146">na fàdan (no fòid)</headword>
+      <description>seachd fàdan as a’ bharrad air leud, sia as a’ ghrunnad agus cóig as an dubhad.</description>
+    </item>
+    <item><headword id="d0e154" type="heading" level="h2">Innealan:</headword></item>
+    <item>
+      <headword id="d0e159">an tairsgian (no an t-iarunn-mona)</headword>
+      <description>also referred to as ‘an tairsgil’. Actually, this was the common pronunciation.</description>
+    </item>
+	<item>
+	  <headword id="d0e168">(a) cas</headword>
+	</item>
+	<item>
+	  <headword id="d0e174">(b) sgrogan (also referred to as sgonnan)</headword>
+	  <description>far am bi am fear-buana a’ cur a choise.</description>
+	</item>
+	<item>
+	  <headword id="d0e183">(c) an t-iarunn (no an ceap)</headword>
+	</item>
+	<item>
+	  <headword id="d0e189">(d) claisean</headword>
+	  <description>far am bi a’ chas (agus an sgrogan) a’ dol an greim ’san iarunn.</description>
+	</item>
+	<item>
+	  <headword id="d0e198">(e) sgiath</headword>
+	  <description>a mach dìreach o’n iarunn air an taobh chlì.</description>
+	</item>
+    <item><headword id="d0e206" type="heading" level="h1">3. A’ tiormachadh na mònach</headword></item>
+    <item><headword id="d0e210" type="heading" level="h2">A’ togail na mòna:</headword></item>
+    <item>
+      <headword id="d0e215">1. casa beaga</headword>
+      <description>tri fadan an taic a chéile – fear air oir agus a dhà air uachdar an tacas ris – an taobh a bha fodhpa a mach.</description>
+    </item>
+    <item>
+      <headword id="d0e224">2. teinntean</headword>
+      <description>na fàdan air an cur ’nan tarradanan beaga air chumadh teine mar a bhiodh e am meadhon an làir ’san tigh dhubh.</description>
+    </item>
+    <item>
+      <headword id="d0e233">3. rùdhain</headword>
+      <description>cruachan beaga – mu thrì no ceithir a theinntean anns gach cruaich.</description>
+    </item>
+    <item>
+      <headword id="d0e242">4. cruachan</headword>
+      <description>mu làn cartach anns gach cruaich.</description>
+    </item>
+    <item>
+      <headword id="d0e251">5. a’ chruach mhór</headword>
+      <description>bha a’ chruach seo aig an tigh.</description>
+    </item>
+    <item><headword id="d0e259" type="heading" level="h2">[blank]</headword></item>
+    <item>
+      <headword id="d0e264">griodhadh</headword>
+      <description>fàdan ’nan sreathan air uachdar a chéile taobh a mach na cruaiche móire.</description>
+    </item>
+    <item>
+      <headword id="d0e273">lìonadh</headword>
+      <description>mòine am meadhon na cruaiche móire.</description>
+    </item>
+    <item>
+      <headword id="d0e282">caorain</headword>
+      <description>mòine bhriste.</description>
+    </item>
+    <item>
+      <headword id="d0e291">smùrach</headword>
+      <description>mòine ’na mìrean.</description>
+    </item>
+    <item><headword id="d0e299" type="heading" level="h1">4. A’ cruachadh na mònach</headword></item>
+    <item><headword id="d0e303" type="heading" level="h2">Tughadh:</headword></item>
+    <item>
+      <headword id="d0e308">sgrathan</headword>
+      <description>nuair a bhios a’ chruach mhór ullamh bidh sgrathan fada réisg air an cur tarsuinn air a mullach air an aghaidh fodhpa.</description>
+    </item>
+    <item><headword id="d0e316" type="heading" level="h1">5. A’ toirt na mònach dhachaigh; an cliabh, etc.</headword></item>
+    <item><headword id="d0e320" type="heading" level="h2">An cliabh:</headword></item>
+    <item>
+      <headword id="d0e325">caol beag</headword>
+      <description>tha an cliabh air a dheanamh air caol beag.</description>
+    </item>
+    <item>
+      <headword id="d0e334">staingean</headword>
+      <description>(also referred to as ‘asnaichean’) Bha an caol beag air fhighe ’na chuairtean mu thimchioll nan staingean.</description>
+    </item>
+    <item>
+      <headword id="d0e343">a’ chuairt bheòil</headword>
+      <description>a’ cheud chuairt a bha dol air a’ chliabh.</description>
+    </item>
+    <item>
+      <headword id="d0e352">taobhaistean</headword>
+      <description>fosglaidhean am meadhon a’ chléibh.</description>
+    </item>
+    <item>
+      <headword id="d0e361">màs</headword>
+    </item>
+    <item>
+      <headword id="d0e367">iris</headword>
+      <description>an ròpa, anns na taobhaistean, leis an robhar a’ giùlain a’ chléibh.</description>
+    </item>
+	<item>
+	  <headword id="idola192">[note]</headword>
+	  <description>(Tha mi duilich nach d’ fhuair mi cothrom ceart air na faclan uile mun chliabh a thional nuair a bha mi san Eilean Sgitheanach air an t-samhradh seo. RM [Ruairidh MacFhionghuin] 27/7/68)</description>
+	</item>
+    <item><headword id="d0e384" type="heading" level="h1">6. Seòrsachan mònach</headword></item>
+    <item>
+      <headword id="d0e389">mòine chóinntich</headword>
+      <description>mòine aotrom.</description>
+    </item>
+    <item>
+      <headword id="d0e398">mòine dhubh</headword>
+      <description>mòine dhubh, throm – mar as trice as an dubhad.</description>
+    </item>
+    <item>
+      <headword id="d0e407">mòine spaide</headword>
+      <description>mòine, gun rùsgadh, air a gearradh le spaid – leud na spaide agus mu dhà òirlich air thighead.</description>
+    </item>
+    <item>
+      <headword id="d0e416">mòine chreadha</headword>
+      <description>mòine dhubh, throm, anns a bheil criadh – agus móran luatha.</description>
+    </item>
+    <item><headword id="d0e424" type="heading" level="h1">7. Faclan eile</headword></item>
+  </items>
+</fieldworkDocument>

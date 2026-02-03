@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 23/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_PortskerraHMacKayslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>1969</date>
+  <fieldworker>[AJ Smith]</fieldworker>
+  <note>[NOTES: in IPA transcriptions, the fieldworker uses [w] for [ɯ].]</note>
+  <informant>
+    <nameEnglish>Hugh MacKay</nameEnglish>
+    <age>c. 70</age>
+  </informant>
+  <location>Sutherland, Portskerra</location>
+  <items>
+    <item>
+      <headword id="idp118731240">lorg</headword>
+      <description>Quotation: Cha d’thainig duine riamh [d̪ɔxuɾɫɔɾɑɡ] air. Notes: No one ever came to claim it.</description>
+    </item>
+    <item>
+      <headword id="idp118733184">luirg</headword>
+      <description>[ɫu̜ɾiɡʹ] Notes: the shin.</description>
+    </item>
+    <item>
+      <headword id="idp118734912">madadh</headword>
+      <description>[mɑ̃d̪u̜] Notes: a dog.</description>
+    </item>
+    <item>
+      <headword id="idp118736640">mìn-chuileag</headword>
+      <description>Notes: midge.</description>
+    </item>
+    <item>
+      <headword id="idp118738152">móinteach</headword>
+      <description>[mõ:nʹtʹɑx] Quotation: a’ cur dhachaidh a’ mhóinteach. Notes: peats, collectively.</description>
+    </item>
+    <item>
+      <headword id="idp118740024">mu</headword>
+      <description>Quotation: Tha fear aca ma seach fhathast. Notes: one of them is still living.</description>
+    </item>
+    <item>
+      <headword id="idp118741680">oidhche</headword>
+      <description>Quotation: oidhche nighe-nan-cas. Notes: the custom of washing the feet of the bride and bridegroom the night before the wedding.</description>
+    </item>
+    <item>
+      <headword id="idp118743336">pait</headword>
+      <description>[pɑtʹʃ] Notes: a pot.</description>
+    </item>
+    <item>
+      <headword id="idp118745064">pleòtadh</headword>
+      <description>[plɔ:t̪u̜]] Quotation: a’ pleòtadh a’ chéile. Notes: destroying, e.g. of “a’ sgriosadh”.</description>
+    </item>
+    <item>
+      <headword id="idp118747152">préisteadh</headword>
+      <description>[pɾe:ʃtʹu̜] Quotation: a’ préisteadh [ə pɾe:ʃtʹu̜]. Notes: preaching.</description>
+    </item>
+    <item>
+      <headword id="idp118749240">seach</headword>
+      <description>Quotation: Tha fear aca ma seach fhathast. Notes: One of them is still living.</description>
+    </item>
+    <item>
+      <headword id="idp118750896">sliasd</headword>
+      <description>[ʃlʹiɤsd̪] Notes: thigh.</description>
+    </item>
+    <item>
+      <headword id="idp118752624">smiogaid</headword>
+      <description>[smw̃ɡıdʹʃ] Notes: chin.</description>
+    </item>
+    <item>
+      <headword id="idp118754352">snèib</headword>
+      <description>[ʃnʹɛ̃:b] Notes: turnip.</description>
+    </item>
+    <item>
+      <headword id="idp118756080">spearrach</headword>
+      <description>Notes: hobble.</description>
+    </item>
+    <item>
+      <headword id="idp118757592">toll-dion</headword>
+      <description>[t̪ɤu̜ɫdʹʒĩɑ̃ṉ] Notes: the bunghole in a boat.</description>
+    </item>
+    <item>
+      <headword id="idp118759320">alm-stoc</headword>
+      <description>[ɔɫɑmst̪ɔk] Notes: the tiller of a boat.</description>
+    </item>
+    <item>
+      <headword id="idp118761048">amhaich</headword>
+      <description>[ɔ̃ıç] Notes: neck.</description>
+    </item>
+    <item>
+      <headword id="idp118762776">braoin</headword>
+      <description>[bɾw̃:nʹ] Notes: salt water as used for pickling.</description>
+    </item>
+    <item>
+      <headword id="idp118764504">bun-dùirn</headword>
+      <description>Notes: wrist.</description>
+    </item>
+    <item>
+      <headword id="idp118766016">buntàta</headword>
+    <description>[bwt̪ɔ:t̪] </description></item>
+    <item>
+      <headword id="idp118767744">calp</headword>
+      <description>[kɔɫɑp] Notes: the calf of the leg. [NOTES: slipped under ‘calpa’.]</description>
+    </item>
+    <item>
+      <headword id="idp118769616">clàr-aodainn</headword>
+      <description>Notes: forehead.</description>
+    </item>
+    <item>
+      <headword id="idp118771128">culaidh</headword>
+      <description>[ku̜ɫi] Notes: a boat.</description>
+    </item>
+    <item>
+      <headword id="idp118772856">dochar</headword>
+      <description>Quotation: Tha thu dochar. Notes: wrong.</description>
+    </item>
+    <item>
+      <headword id="idp118774512">fàradh</headword>
+      <description>Quotation: an fhàradh [ən̪ɑ:ɾu̜]. Notes: funeral bier.</description>
+    </item>
+    <item>
+      <headword id="idp118776384">feasgainn</headword>
+      <description>[fɛsɡĩnʹ] Notes: eel.</description>
+    </item>
+    <item>
+      <headword id="idp118778112">feileastair</headword>
+      <description>[fɛləst̪ɑɾ] Notes: wild iris (seileasdair).</description>
+    </item>
+    <item>
+      <headword id="idp118779840">feòsag</headword>
+      <description>[fjɔ:sɑɡ] Notes: beard.</description>
+    </item>
+    <item>
+      <headword id="idp118781568">Fleòdach</headword>
+      <description>[flɔ:d̪ɑx] Quotation: na Fleòdaich. Notes: the Macleods.</description>
+    </item>
+  </items>
+</fieldworkDocument>

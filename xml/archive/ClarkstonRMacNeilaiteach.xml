@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?><!-- checked by MM on 3 6 14 --><!-- illustrations! --><fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="AOHenley_ClarkstonRMacNeilaiteach" docType="questionnaire" subType="Iteach" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Àiteach / Agriculture</title>
+  <date>[1987-88]</date>
+  <fieldworker personId="ohenleya">A. O’Henley [and self]</fieldworker>
+  <informant>
+    <nameEnglish>Roderick MacNeil</nameEnglish>
+    <nameGaelic>Ruaraidh MacNeill</nameGaelic>
+    <age>69</age>
+    <origin>[Barra]</origin>
+  </informant>
+  <location>Glasgow, Clarkston</location>
+  <items>
+    <item><headword id="d0e36" type="heading" level="h1">1. Na togalaichean: sobhal, bàthach is mar sin, agus ainm gach pàirt dhiubh</headword></item>
+	<item>
+	  <headword id="idola1">sparr</headword>
+	  <description><illustration src="ClarkstonRMacNeilaiteachillust1.jpg" width="300"/></description>
+	</item>
+	<item>
+	  <headword id="idola2">ceangal</headword>
+	  <description><illustration src="ClarkstonRMacNeilaiteachillust1.jpg" width="300"/></description>
+	</item>
+	<item>
+	<headword id="idola3">àrd-dorus</headword>
+	  <description><illustration src="ClarkstonRMacNeilaiteachillust1.jpg" width="300"/></description>
+	</item>
+	<item>
+	<headword id="idola4">fàd-bhuinn</headword>
+	  <description><illustration src="ClarkstonRMacNeilaiteachillust1.jpg" width="300"/></description>
+	</item>
+	<item>
+	<headword id="idola5">sìoman</headword>
+	<description>air taigh, bàthach no sobhal air a thugadh.<illustration src="ClarkstonRMacNeilaiteachillust2.jpg" width="700"/></description>
+	</item>
+	<item>
+	<headword id="idola6">màthair shiomain</headword>
+	<description>air taigh, bàthach no sobhal air a thugadh.<illustration src="ClarkstonRMacNeilaiteachillust2.jpg" width="700"/></description>
+	</item>
+	<item>
+	<headword id="idola7">clachan acraich</headword>
+	<description>air taigh, bàthach no sobhal air a thugadh.<illustration src="ClarkstonRMacNeilaiteachillust2.jpg" width="700"/></description>
+	</item>
+	<item>
+	<headword id="idola8">sparran feannaig</headword>
+	<description>air taigh, bàthach no sobhal air a thugadh.<illustration src="ClarkstonRMacNeilaiteachillust2.jpg" width="700"/></description>
+	</item>
+    <item>
+      <headword id="idp112067512">stàl (stàlaichean)</headword>
+      <description>na h-aitean air leth airson gach beathach.</description>
+    </item>
+    <item>
+      <headword id="idp112064848">clais</headword>
+      <description>gu glacadh a’ bhuachair agus a’ mhùin.</description>
+    </item>
+    <item>
+      <headword id="idp112090696">feadan</headword>
+      <description>Ann an sobhal – fosgladh anns a’ bhalla aig a’ cheann mu choinneamh an doruis; mu ochd òirlich dheug gach taobh gu sruth gaoithe a dhèanamh; seo airson càthadh.<illustration src="ClarkstonRMacNeilaiteachillust3.jpg" width="300"/></description>
+    </item>
+    <item><headword id="d0e144" type="heading" level="h1">2. A’ mathachadh no a’ leasachadh na talmhainn</headword></item>
+    <item><headword id="d0e148" type="heading" level="h1">3. A’ treabhadh no a’ ruamhar: an crann agus ainm gach pàirt dheth</headword></item>
+    <item>
+      <headword id="idp112094296">crann</headword>
+      <description>mar ann an ‘Dwelly’ ach am facal ‘bòrd ùiridh’ (mould board).</description>
+    </item>
+    <item>
+      <headword id="idp2416208">spaid</headword>
+      <description><illustration src="ClarkstonRMacNeilaiteachillust4.jpg" width="300"/>croisein, cas, claigeann.</description>
+    </item>
+    <item><headword id="d0e171" type="heading" level="h1">4. Innealan beaga leithid spaid, gràp, ràcan is mar sin</headword></item>
+    <item>
+      <headword id="idp2419952">sgrìoban</headword>
+      <description>car coltach ri ràcan ach nas giorra agus nas gairbhe. ’Se am feum a bha ann, gu lìonadh nan toll anns an cuirte buntata ann an feannaig no ann an achadh beag no gàradh. Seo an obair a dhèante le cliath air achadh nas motha. <illustration src="ClarkstonRMacNeilaiteachillust5.jpg" width="300"/></description>
+    </item>
+    <item>
+      <headword id="idp2495728">pleadhan</headword>
+      <description>gu dèanamh nan toll anns an cuirte am buntàta. <illustration src="ClarkstonRMacNeilaiteachillust6.jpg" width="150"/></description>
+    </item>
+    <item><headword id="d0e195" type="heading" level="h1">5. Acfhuinn an eich airson gach seòrsa obair</headword></item>
+    <item>
+      <headword id="idp2498752">srian</headword>
+	  <description>mar san dealbh.<illustration src="ClarkstonRMacNeilaiteachillust7.jpg" width="700"/></description>
+    </item>
+    <item>
+      <headword id="idp2500696">taod</headword>
+	</item>
+    <item>
+      <headword id="idp2502640">a’ mhinichgneag</headword>
+	  <description>mar san dealbh.<illustration src="ClarkstonRMacNeilaiteachillust7.jpg" width="700"/></description>
+    </item>
+    <item>
+      <headword id="idp2504584">a’ phlàda</headword>
+	  <description>mar san dealbh.<illustration src="ClarkstonRMacNeilaiteachillust7.jpg" width="700"/></description>
+    </item>
+    <item>
+      <headword id="idp2506528">an t-srathair</headword>
+	  <description>mar san dealbh.<illustration src="ClarkstonRMacNeilaiteachillust7.jpg" width="700"/></description>
+    </item>
+    <item>
+      <headword id="idp2508472">an crios bruinne</headword>
+	  <description>mar san dealbh.<illustration src="ClarkstonRMacNeilaiteachillust7.jpg" width="700"/></description>
+    </item>
+    <item>
+      <headword id="idp2510416">na cleibh</headword>
+	  <description>mar san dealbh.<illustration src="ClarkstonRMacNeilaiteachillust7.jpg" width="700"/></description>
+    </item>
+    <item>
+      <headword id="idp2512360">na h-irisean</headword>
+	  <description>mar san dealbh.<illustration src="ClarkstonRMacNeilaiteachillust7.jpg" width="700"/></description>
+    </item>
+    <item>
+      <headword id="idp2514304">na criosan</headword>
+    </item>
+    <item>
+      <headword id="idp2516248">am bodrachan</headword>
+	  <description>mar san dealbh.<illustration src="ClarkstonRMacNeilaiteachillust7.jpg" width="700"/></description>
+    </item>
+    <item>
+      <headword id="idp2519272">an sac</headword>
+    </item>
+    <item>
+      <headword id="idp2521216">dol fon bhroinn</headword>
+    </item>
+    <item><headword id="d0e303" type="heading" level="h1">6. A’ cur an t-sìl</headword></item>
+    <item><headword id="d0e307" type="heading" level="h1">7. A’ buain agus a’ tiormachadh an arbhair no an fheòir</headword></item>
+    <item>
+      <headword id="idp2524960">a’ dèanamh bhannan</headword>
+      <description>bannan le dùsan sop comhlaich neo uime sin gus an sguab a cheangal.</description>
+    </item>
+    <item>
+      <headword id="idp2526472">a’ ceangal</headword>
+    </item>
+    <item>
+      <headword id="idp2527984">sgaoileadh air a’ bhann</headword>
+      <description>sgaoileadh na sguaibe gus a tiormachadh ma ghabh i an t-uisge.</description>
+    </item>
+    <item>
+      <headword id="idp2529568">a’ taghadh (an fheòir)</headword>
+      <description>a’ toirt as luibhean nach ith beathach.</description>
+    </item>
+    <item>
+      <headword id="idp2531080">roladh (an fheòir)</headword>
+      <description>an deidh a thaghadh [q.v.] agus a chrathadh, le ràcan.</description>
+    </item>
+    <item>
+      <headword id="idp2532592">crathadh</headword>
+    </item>
+    <item>
+      <headword id="idp2534104">a’ cocadh</headword>
+      <description>ga chur an cocannan.</description>
+    </item>
+    <item>
+      <headword id="idp2535616">cruach</headword>
+      <description>feur no arbhar san iodhlainn deiseil airson geamhraidh no earraich. Cruach agus dais air an gleidheadh le sioman agus clachan acraich.</description>
+    </item>
+    <item>
+      <headword id="idp2537128">dais</headword>
+	  <description>mar chruaich ach air feur agus air cumadh. Cruach agus dais air an gleidheadh le sioman agus clachan acraich. <illustration src="ClarkstonRMacNeilaiteachillust8.jpg" width="300"/></description>
+    </item>
+    <item><headword id="d0e387" type="heading" level="h1">8. A’ togail a’ bhuntàta</headword></item>
+    <item>
+      <headword id="idp2539504">bùthag</headword>
+      <description><illustration src="ClarkstonRMacNeilaiteachillust9.jpg" width="500"/>toll san talamh air a’ chumadh seo air a lìnigeadh le comhlaich agus air a còmhdach le uir agus le pluic neo sgrathan. Mar bu trice air a dèanamh air an talamh bhuntàta no glè fhaisg air gus am buntàta a ghleidheadh gus an cuirte feum air.</description>
+    </item>
+    <item><headword id="d0e401" type="heading" level="h1">9. A’ tasgadh an arbhair agus a’ bhuntàta</headword></item>
+    <item><headword id="d0e405" type="heading" level="h1">10. A’ bualadh ’s a’ criathradh</headword></item>
+    <item>
+      <headword id="idp2542960">sùisde</headword>
+      <description>gus an siol agus an calg a thearbadh bho’n chomhlaich.</description>
+    </item>
+    <item>
+      <headword id="idp2544544">criathar</headword>
+      <description>gus an siol a thearbadh bho’n chalg no bho’n mholl.</description>
+    </item>
+    <item>
+      <headword id="idp2546056">moll</headword>
+      <description>còmhdach as fhaide a-muigh air an t-sìol.</description>
+    </item>
+    <item><headword id="d0e436" type="heading" level="h1">11. A’ bleith an t-sìl</headword></item>
+    <item><headword id="d0e440" type="heading" level="h1">12. Ainmean a chleachdar ri earrainn fearainn</headword></item>
+    <item>
+      <headword id="idp2549296">earann</headword>
+      <description>pìos no pìosan de fhearann comhla ri pàirt ann am mòr-fhearann (common grazing). Nas lugha feum airson àiteach no ionaltradh na croit.</description>
+    </item>
+    <item><headword id="d0e453" type="heading" level="h1">13. Faclan sam bith eile</headword></item>
+    <item>
+      <headword id="idp2551672">sùgan</headword>
+      <description>pìos de ròpa – meadhonach garbh – airson ceangal rud sam bith agus a ghiulain air druim duine leis an t-sùgan thar na guailne.</description>
+    </item>
+  </items>
+</fieldworkDocument>

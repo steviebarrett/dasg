@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 23 4 13 -->
+<fieldworkDocument docId="Peat_ApplecrossRMacKenziemoine" docType="questionnaire" subType="Peat">
+  <title>Mòine / Peat-Working</title>
+  <fieldworker>[self]</fieldworker>
+  <informant>
+    <nameEnglish>Robert MacKenzie</nameEnglish>
+    <origin>Sgìre na Pàirc an Leódhas [Lewis, the Park district]</origin>
+  </informant>
+  <location>Applecross</location>
+  <items>
+    <item><headword id="d0e26" type="heading" level="h1">1. Ag ullachadh na talmhainn airson mòine a bhuain</headword></item>
+    <item>
+      <headword id="d0e31">fosgladh poll ùr</headword>
+    </item>
+    <item>
+      <headword id="d0e37">deanamh poll ùr</headword>
+    </item>
+    <item>
+      <headword id="d0e43">a’ riachadh</headword>
+      <description>the line running the full length of bank marking the width of turf to be cut. The depth was usually 4"-6".</description>
+    </item>
+    <item>
+      <headword id="d0e52">a’ rusgadh</headword>
+      <description>turfing – removing the upper crust containing living plants and roots.</description>
+    </item>
+    <item>
+      <headword id="d0e61">a’ sgoltadh</headword>
+      <description>as [‘a’ rusgadh’ (q.v.)] but less common.</description>
+    </item>
+    <item>
+      <headword id="d0e70">ceap</headword>
+      <description>a segment of the ‘rusgadh’ of a size that could be conveniently handled and used afterwards in the ‘tughadh’ [q.v.] process.</description>
+    </item>
+    <item><headword id="d0e78" type="heading" level="h1">2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</headword></item>
+    <item>
+      <headword id="d0e83">a’ buain</headword>
+      <description>cutting.</description>
+    </item>
+    <item>
+      <headword id="d0e92">a’ gearradh</headword>
+      <description>cutting.</description>
+    </item>
+    <item>
+      <headword id="d0e101">a’ sgaoileadh</headword>
+      <description>throwing.</description>
+    </item>
+    <item>
+      <headword id="d0e110">iarann mònach</headword>
+      <description>common cutting iron.</description>
+    </item>
+    <item>
+      <headword id="d0e119">tairisgian (tairsgian)</headword>
+      <description>same [as ‘iarann mònach’ (q.v.)], but not so extensively used in S. Lochs.</description>
+    </item>
+    <item>
+      <headword id="d0e128">tairisgein</headword>
+      <description>[See tairisgian]</description>
+    </item>
+    <item>
+      <headword id="d0e137">spaid</headword>
+      <description>common spade.</description>
+    </item>
+    <item>
+      <headword id="d0e146">caibe-làir</headword>
+      <description>an iron used for the ‘rusgadh’ [q.v.] and probably introduced from Sutherland.</description>
+    </item>
+    <item>
+      <headword id="d0e155">an carcair</headword>
+      <description>the block of peat to be cut shorn of the surface turf.</description>
+    </item>
+    <item>
+      <headword id="d0e164">còrrfhad</headword>
+      <description>the peat nearest face and exposed to the weather.</description>
+    </item>
+    <item>
+      <headword id="d0e173">bàrrfhad</headword>
+      <description>the upper layer of peat.</description>
+    </item>
+    <item>
+      <headword id="d0e182">an dara fad</headword>
+    </item>
+    <item>
+      <headword id="d0e188">an trìeamh (treas) fad etc.</headword>
+    </item>
+    <item>
+      <headword id="d0e194">ath-mhoin</headword>
+      <description>large clumsy pieces [of peat] usually very wet and laid aside (cuir air leth).</description>
+    </item>
+    <item><headword id="d0e202" type="heading" level="h1">3. A’ tiormachadh na mònach</headword></item>
+    <item>
+      <headword id="d0e207">a’ sgaoileadh</headword>
+      <description>the initial throw or the subsequent spreading in a dry bed ?</description>
+    </item>
+    <item>
+      <headword id="d0e216">an sgaoilteach</headword>
+      <description>the dry bed (uachdar a phoill).</description>
+    </item>
+    <item>
+      <headword id="d0e225">a’ tionndadh</headword>
+      <description>just turning the peat over during a dry season previous to ‘rùdhadh’ [q.v.].</description>
+    </item>
+    <item>
+      <headword id="d0e234">a’ rudhadh</headword>
+      <description>leaning 4 pieces to one another with a fifth flat on top.</description>
+    </item>
+    <item>
+      <headword id="d0e243">rùdhan (n.)</headword>
+      <description>[See a’ rudhadh]</description>
+    </item>
+    <item>
+      <headword id="d0e252">ath-rudhadh</headword>
+      <description>combining several ‘rùdhans’ [q.v.], the number depending on the degree of dryness.</description>
+    </item>
+    <item><headword id="d0e260" type="heading" level="h1">4. A’ cruachadh na mònach</headword></item>
+    <item>
+      <headword id="d0e265">a’ cruachadh</headword>
+      <description>stacking.</description>
+    </item>
+    <item>
+      <headword id="d0e274">a’ tughadh</headword>
+      <description>thatching with ‘ceap’ [q.v.].</description>
+    </item>
+    <item>
+      <headword id="d0e283">a’ steidheadh</headword>
+      <description>here the outside peats were placed on edge at a steep angle in a more or less level layer.</description>
+    </item>
+    <item>
+      <headword id="d0e292">cruach tughaidh</headword>
+      <description>this was rounded in shape. It kept the peat in excellent condition.</description>
+    </item>
+    <item>
+      <headword id="d0e301">cruach steidhidh</headword>
+      <description>often of large size and of a pyramidal form. The top about 18" broad was thatched with turf (‘ceap’).</description>
+    </item>
+    <item><headword id="d0e309" type="heading" level="h1">5. A’ toirt na mònach dhachaigh; an cliabh, etc.</headword></item>
+    <item>
+      <headword id="d0e314">cliabh</headword>
+      <description>common creel.</description>
+    </item>
+    <item>
+      <headword id="d0e323">bach-chliabh</headword>
+      <description>smaller version [of creel] (often used for carrying fish).</description>
+    </item>
+    <item>
+      <headword id="d0e332">aisean</headword>
+      <description>rib or stake.</description>
+    </item>
+    <item>
+      <headword id="d0e341">breugan or briagan</headword>
+      <description>perforations near edge to hold and slacken the ‘iris’ [q.v.] and lighten the creel.</description>
+    </item>
+    <item>
+      <headword id="d0e350">iris</headword>
+      <description>the rope strap [of the creel].</description>
+    </item>
+    <item>
+      <headword id="d0e359">dronnag</headword>
+      <description>pad of clothes placed on buttock to soften the feel of the creel.</description>
+    </item>
+    <item>
+      <headword id="d0e368">cairt</headword>
+      <description>cart.</description>
+    </item>
+    <item>
+      <headword id="d0e377">càrn-slaoid</headword>
+      <description>a longish cart common round the outskirts of S. [?] but less so in Lochs.</description>
+    </item>
+    <item>
+      <headword id="d0e386">poca</headword>
+      <description>jute or hessian bag.</description>
+    </item>
+    <item><headword id="d0e394" type="heading" level="h1">6. Seòrsachan mònach</headword></item>
+    <item>
+      <headword id="d0e399">mòine dhubh</headword>
+      <description>black good quality peat usually from sloping ground where the peat formation is slower and the vegetation stronger.</description>
+    </item>
+    <item>
+      <headword id="d0e408">mòine bhàn</headword>
+      <description>[peat] from the softer bogs.</description>
+    </item>
+    <item>
+      <headword id="d0e417">mòine riabhach</headword>
+      <description>(brindled) [peat] halfway between ‘mòine dhubh’ [q.v.] and ‘mòine bhàn’ [q.v.] in colour and quality.</description>
+    </item>
+    <item>
+      <headword id="d0e426">mòine chalcais</headword>
+      <description>[kind of peat] probably where the plant roots were still in a good state of preservation.</description>
+    </item>
+    <item>
+      <headword id="d0e435">mòine chràiceach</headword>
+      <description>[peat] composed mostly of dead trees. ‘Cràic’ is used for rotting stumps and branches. ‘Giuthas’, still in a good state of preservation, is used on the mainland to describe the tree roots preserved by the peat.</description>
+    </item>
+    <item>
+      <headword id="d0e444">mòine chriadha</headword>
+      <description>[peat] usually from the bottom stratum. Clay in some measure is still attached to the peat.</description>
+    </item>
+    <item>
+      <headword id="d0e453">mòine chinn</headword>
+      <description>[peat] often cut roughly with a spade. Live vegetation still forms part of it.</description>
+    </item>
+    <item>
+      <headword id="d0e462">grabhag</headword>
+      <description>a small bank in the drier parts of the moor or alternately poll a tha tighinn gu deireadh.</description>
+    </item>
+    <item>
+      <headword id="d0e471">mòine tholltach</headword>
+      <description>[peat] spongy and suffering from runlets and channels caused by running water.</description>
+    </item>
+    <item>
+      <headword id="d0e480">mòine fàs</headword>
+      <description>[peat] spongy and suffering from runlets and channels caused by running water.</description>
+    </item>
+    <item>
+      <headword id="d0e489">mòine chailc</headword>
+      <description>chalky [peat].</description>
+    </item>
+    <item>
+      <headword id="d0e498">caoran</headword>
+      <description>fragment of dried peat.</description>
+    </item>
+    <item>
+      <headword id="d0e507">smùr</headword>
+      <description>powdered peat.</description>
+    </item>
+    <item><headword id="d0e515" type="heading" level="h1">7. Faclan eile</headword></item>
+  </items>
+</fieldworkDocument>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 10/8/15 -->
+<!-- illustrations -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_ChristmasIslandJMacKenzieslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>05/1971</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <informant>
+    <nameEnglish>J. MacKenzie</nameEnglish>
+  </informant>
+  <location>Canada, Christmas Island</location>
+  <items>
+    <item>
+      <headword id="idp166273104">spleog</headword>
+      <description>[splɛɔɡ] Notes: big, untidy woman.</description>
+    </item>
+    <item>
+      <headword id="idp166275048">àmhainn</headword>
+      <description>[ɑ̃:hĩnʹ] Notes: flat cast-iron vessel on which bannocks were baked.</description>
+    </item>
+    <item>
+      <headword id="idp166276848">bonnach-buidhe</headword>
+      <description>Notes: cornmeal bannock.</description>
+    </item>
+    <item>
+      <headword id="idp166278360">bonnach-dorcha</headword>
+      <description>Notes: wheat-bread.</description>
+    </item>
+    <item>
+      <headword id="idp166279872">ceileag</headword>
+      <description>[celɑɡ] Notes: home-made wooden anchor. Stone weight in centre. </description>
+    </item>
+    <item>
+      <headword id="idp166281600">clàr</headword>
+      <description>Notes: barrel stave.</description>
+    </item>
+    <item>
+      <headword id="idp166283112">éisdeachd</headword>
+    </item>
+  </items>
+</fieldworkDocument>

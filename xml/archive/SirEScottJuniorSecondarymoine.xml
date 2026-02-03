@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 24 4 13 -->
+<fieldworkDocument docId="Peat_SirEScottJuniorSecondarymoine" docType="questionnaire" subType="Peat">
+  <title>Mòine / Peat-Working</title>
+  <fieldworker>[school]</fieldworker>
+  <informant>
+    <nameEnglish>Sir E. Scott Junior Secondary School</nameEnglish>
+  </informant>
+  <location>Harris, Tarbert</location>
+  <items>
+    <item><headword id="d0e23" type="heading" level="h1">1. Ag ullachadh na talmhainn airson mòine a bhuain</headword></item>
+    <item>
+      <headword id="d0e28">mòinteach</headword>
+      <description>general area, moorland, where peat is found.</description>
+    </item>
+    <item>
+      <headword id="d0e37">blàr-mònadh</headword>
+      <description>area comprising several peat-banks.</description>
+    </item>
+    <item>
+      <headword id="d0e46">poll-mònadh</headword>
+      <description>peat bank.</description>
+    </item>
+    <item>
+      <headword id="d0e55">sgaoilteach</headword>
+      <description>area over which peat is spread to dry (sgaoilteach mhath, droch sgaoilteach, etc.)</description>
+    </item>
+    <item>
+      <headword id="d0e64">feanntach</headword>
+      <description>turf covering the peat (riasg) which is removed when turfing (a’ feannadh).</description>
+    </item>
+    <item>
+      <headword id="d0e73">rùsg</headword>
+      <description>ditto [i.e. feanntach], but not commonly used.</description>
+    </item>
+    <item>
+      <headword id="d0e82">a’ fosgladh puill (ùr)</headword>
+      <description>opening a new bank.</description>
+    </item>
+    <item>
+      <headword id="d0e91">a’ taomadh a’ phuill</headword>
+      <description>draining a bank.</description>
+    </item>
+    <item>
+      <headword id="d0e100">a’ glanadh nam poll</headword>
+      <description>taking home the peats left on the banks through the winter, ready for the new season’s cutting.</description>
+    </item>
+    <item>
+      <headword id="d0e109">a’ sussadh</headword>
+      <description>(‘u’ pron. as in English ‘cutting’) undercutting the turf (feanntach [q.v.]), esp. when turf is difficult to cut. “Sus romhad e.”</description>
+    </item>
+    <item>
+      <headword id="d0e118">a’ striachdadh</headword>
+      <description>cutting a line parallel with edge of bank about 2' in, as the first operation in ‘feannadh’ [q.v.].</description>
+    </item>
+    <item>
+      <headword id="d0e127">a’ feannadh</headword>
+      <description>turfing.</description>
+    </item>
+    <item>
+      <headword id="d0e136">a’ rùsgadh</headword>
+      <description>turfing.</description>
+    </item>
+    <item>
+      <headword id="d0e145">a’ glanadh a’ charcaire</headword>
+      <description>cleaning up the turfed peat (riasg) before cutting.</description>
+    </item>
+    <item>
+      <headword id="d0e154">a’ càradh na feanntaich</headword>
+      <description>replacing turfs neatly inside the bank (broinn a’ phuill) when turfing.</description>
+    </item>
+    <item>
+      <headword id="d0e163">an carcaire</headword>
+      <description>the peat (riasg) exposed by the ‘feannadh’ [q.v.].</description>
+    </item>
+    <item>
+      <headword id="d0e172">grabhag</headword>
+      <description>(grabhag mònadh) a small peat-bank (common in Harris where peat is running out).</description>
+    </item>
+    <item>
+      <headword id="d0e181">làrach cruaiche</headword>
+      <description>site of a previous stack.</description>
+    </item>
+    <item>
+      <headword id="d0e190">beul ( bial) a’ phuill</headword>
+      <description>[pron.] the face of the bank.</description>
+    </item>
+    <item>
+      <headword id="d0e199">aghaidh a’ phuill</headword>
+      <description>the face of the bank.</description>
+    </item>
+    <item>
+      <headword id="d0e208">aodann a’ phuill</headword>
+      <description>the face of the bank.</description>
+    </item>
+    <item>
+      <headword id="d0e217">iochdar a’ phuill</headword>
+      <description>lower end of the bank.</description>
+    </item>
+    <item>
+      <headword id="d0e226">broinn a’ phuill</headword>
+      <description>inside of the bank.</description>
+    </item>
+    <item>
+      <headword id="d0e235">druim a’ phuill</headword>
+      <description>top of the bank, to which the ‘face’ is at right angles.</description>
+    </item>
+    <item>
+      <headword id="d0e244">ceann a’ phuill</headword>
+      <description>end (usually upper) of the bank.</description>
+    </item>
+    <item><headword id="d0e252" type="heading" level="h1">2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</headword></item>
+    <item>
+      <headword id="d0e257">iarunn mònadh</headword>
+      <description>peat iron or cutter.</description>
+    </item>
+    <item>
+      <headword id="d0e266">taraisgeir</headword>
+      <description>peat iron or cutter (not commonly used).</description>
+    </item>
+    <item>
+      <headword id="d0e275">cas an iaruinn</headword>
+      <description>the handle [of the peat iron].</description>
+    </item>
+    <item>
+      <headword id="d0e284">stehp (Eng. ‘step’)</headword>
+      <description>step of the peat iron.</description>
+    </item>
+    <item>
+      <headword id="d0e293">casachan</headword>
+      <description>step of the peat iron.</description>
+    </item>
+    <item>
+      <headword id="d0e302">smeachan</headword>
+      <description>step of the peat iron (not in common use – probably a Lewis importation).</description>
+    </item>
+    <item>
+      <headword id="d0e311">sàil an iaruinn</headword>
+      <description>the ‘heel’ of the [peat] iron into which the ‘cas’ [q.v.] fits.</description>
+    </item>
+    <item>
+      <headword id="d0e320">sgian</headword>
+      <description>the cutting blade, the lower edge (faobhar) of which cuts the inner and larger plane of the individual peat, while the ‘sàil’ [q.v.] (at right angles to the ‘sgian’) cuts the narrower edge.</description>
+    </item>
+    <item>
+      <headword id="d0e329">sgiath</headword>
+      <description>[See sgian]</description>
+    </item>
+    <item>
+      <headword id="d0e338">eighe</headword>
+      <description>peat-iron (given by only one pupil – probably from a dictionary!).</description>
+    </item>
+    <item>
+      <headword id="d0e347">spaid</headword>
+      <description>spade – used for turfing.</description>
+    </item>
+    <item>
+      <headword id="d0e356">mòine chruaidh, dhubh</headword>
+      <description>hard, black type of peat.</description>
+    </item>
+    <item>
+      <headword id="d0e365">mòine bhàn</headword>
+      <description>spongy type of peat.</description>
+    </item>
+    <item>
+      <headword id="d0e374">mòine chòsach</headword>
+      <description>spongy type of peat.</description>
+    </item>
+    <item>
+      <headword id="d0e383">mòine chailceach</headword>
+      <description>peat mixed with clay.</description>
+    </item>
+    <item>
+      <headword id="d0e392">mòine phrann</headword>
+      <description>crumbly, brittle, black type of peat.</description>
+    </item>
+    <item>
+      <headword id="d0e401">riasg</headword>
+      <description>sedge or peat-moss, which is cut and dried for fuel.</description>
+    </item>
+    <item>
+      <headword id="d0e410">barrad (barr-fhàd)</headword>
+      <description>the first layer or tier of peat cut from a peat bank.</description>
+    </item>
+    <item>
+      <headword id="d0e419">a’ chiad fhàd</headword>
+      <description>the first layer or tier of peat cut from a peat bank.</description>
+    </item>
+    <item>
+      <headword id="d0e428">an dara fàd</headword>
+      <description>the 2nd layer [of peat cut from a peat bank].</description>
+    </item>
+    <item>
+      <headword id="d0e437">an treas fàd</headword>
+      <description>the 3rd layer [of peat cut from a peat bank].</description>
+    </item>
+    <item>
+      <headword id="d0e446">an corrad (corr-fhàd)</headword>
+      <description>the outside or first peat cut in each layer.</description>
+    </item>
+    <item>
+      <headword id="d0e455">an caoran</headword>
+      <description>the lowest layer cut [from a peat bank].</description>
+    </item>
+    <item>
+      <headword id="d0e464">fàd a’ chaorain</headword>
+      <description>[See an caoran]</description>
+    </item>
+    <item>
+      <headword id="d0e473">fàd a’ mhorghain</headword>
+      <description>where the last layer [of peat] lies on gravel.</description>
+    </item>
+    <item>
+      <headword id="d0e482">fàd morghain</headword>
+      <description>[See fàd a’ mhorghain]</description>
+    </item>
+    <item>
+      <headword id="d0e491">fàd feanntaich</headword>
+      <description>where a bank has been opened on the site of a previous bank; such a ‘fàd’ is usually crumbly or spongy in the middle, where it often breaks.</description>
+    </item>
+    <item>
+      <headword id="d0e500">gearradh eadar bhun is bhàrr</headword>
+      <description>cutting without previous turfing, where turf is very thin or non-existent.</description>
+    </item>
+    <item>
+      <headword id="d0e509">fear an iaruinn (fear air an iaruinn)</headword>
+      <description>man operating the cutter.</description>
+    </item>
+    <item>
+      <headword id="d0e518">fear a’ phuill (fear anns a’ pholl)</headword>
+      <description>man taking and throwing out peat as cut.</description>
+    </item>
+    <item>
+      <headword id="d0e527">(fear air an iarunn ’s fear anns a’ pholl )</headword>
+    </item>
+    <item>
+      <headword id="d0e533">a’ leagail (an iaruinn)</headword>
+      <description>cutting (i.e. operating the ‘iarunn-mònadh’ [q.v.]).</description>
+    </item>
+    <item>
+      <headword id="d0e542">a’ cur a mach</headword>
+      <description>throwing out and spreading the peat.</description>
+    </item>
+    <item>
+      <headword id="d0e551">a’ cath</headword>
+      <description>throwing out and spreading the peat.</description>
+    </item>
+    <item>
+      <headword id="d0e560">gàrradh</headword>
+      <description>peats arranged along edge of bank in a kind of dyke.</description>
+    </item>
+    <item>
+      <headword id="d0e569">fàd a’ ghàrraidh</headword>
+      <description>the tier of peat which is put in the ‘dyke’ – usually the second, but this varies according to the number of tiers.</description>
+    </item>
+    <item>
+      <headword id="d0e578">[fàd]</headword>
+      <description>“Fàd na mo làimh, fàd air mo bhròig, ’s fàd air an iarunn”. Used by the person throwing out when the person cutting is going too fast.</description>
+    </item>
+    <item>
+      <headword id="d0e587">feitheamh an fhòid</headword>
+      <description>said when the cutter is too slow.</description>
+    </item>
+    <item><headword id="d0e595" type="heading" level="h1">3. A’ tiormachadh na mònach</headword></item>
+    <item>
+      <headword id="d0e600">a’ togail (na mònadh)</headword>
+      <description>lifting, i.e. setting peat up to dry (general term).</description>
+    </item>
+    <item>
+      <headword id="d0e609">coilleag</headword>
+      <description>three or four peats on end, leaning against each other, with another placed flat on the top to form a small stack – in the initial lifting. (Tha i fhathast anns a’ choilleig.)</description>
+    </item>
+    <item>
+      <headword id="d0e618">a’ coilleagachadh</headword>
+      <description>lifting (i.e. into “coilleag”s).</description>
+    </item>
+    <item>
+      <headword id="d0e627">rùdhan (plural rùdhain)</headword>
+      <description>larger stack than ‘coilleag’ – 2nd stage in the drying process: perhaps 3 to 4 ‘coilleags’ heaped together.</description>
+    </item>
+    <item>
+      <headword id="d0e636">ag ath-rudhadh</headword>
+      <description>either re-forming the original ‘rùdhain’, or putting two or more together to make a still larger heap.</description>
+    </item>
+    <item>
+      <headword id="d0e645">a’ cruachadh</headword>
+      <description>making medium-sized stacks on the banks and ‘slating’ the peats to throw off the rain, if the peats are being left on the banks for some time. Such stacks may sometimes be ‘thatched’ (air an tughadh) with turf (‘sgrathan’).</description>
+    </item>
+    <item><headword id="d0e653" type="heading" level="h1">4. A’ cruachadh na mònach</headword></item>
+    <item>
+      <headword id="d0e658">a’ grìomhadh</headword>
+      <description>building the outside of the peat-stack.</description>
+    </item>
+    <item>
+      <headword id="d0e667">an grìomhadh</headword>
+      <description>the outside ‘wall’ so build [sic].</description>
+    </item>
+    <item>
+      <headword id="d0e676">a’ tughadh</headword>
+      <description>thatching the top of the stack (with ‘sgrathan’).</description>
+    </item>
+    <item>
+      <headword id="d0e685">cruach ghrìomhaigh</headword>
+      <description>a stack with the outside built (air a grìomhadh).</description>
+    </item>
+    <item>
+      <headword id="d0e694">sgoran</headword>
+      <description>buttress of turfs or divots (ceapan) usually placed one on each corner of a stack. “Cuir sgoran rithe.”</description>
+    </item>
+    <item><headword id="d0e702" type="heading" level="h1">5. A’ toirt na mònach dhachaigh; an cliabh, etc.</headword></item>
+    <item>
+      <headword id="d0e707">ag aiseag</headword>
+      <description>where peats are cut on an island, ferrying them to the mainland.</description>
+    </item>
+    <item>
+      <headword id="d0e716">a’ cur chun an rathaid</headword>
+      <description>carrying peat from banks to road for transportation home.</description>
+    </item>
+    <item>
+      <headword id="d0e725">a’ cur gu rathad</headword>
+      <description>carrying peat from banks to road for transportation home.</description>
+    </item>
+    <item>
+      <headword id="d0e734">a’ lìonadh</headword>
+      <description>filling peat-bags ready for carrying to the road.</description>
+    </item>
+    <item>
+      <headword id="d0e743">a’ tarruing (tarrainn) na mònadh</headword>
+      <description>getting the peat home (by lorry etc.).</description>
+    </item>
+    <item>
+      <headword id="d0e752">gàdag</headword>
+      <description>rope used to support bag of peats being carried on the back. (cf. “gàdag ’s a dhà cheann sgaoilte”, metaphorically of assumptions based on dubious premises. Probably a rope of heather originally and if the two ends were ‘loose’ i.e. free to run, the rope would be unsafe.)</description>
+    </item>
+    <item><headword id="d0e760" type="heading" level="h1">6. Seòrsachan mònach</headword></item>
+    <item>
+      <headword id="d0e765">mòine chruaidh dhubh etc.</headword>
+      <description>already given in Section 2.</description>
+    </item>
+    <item>
+      <headword id="d0e774">ath-mhoin (ath-mhoine)</headword>
+      <description>(pronounced ‘amhoinn’) last year’s peat still on the bank.</description>
+    </item>
+    <item>
+      <headword id="d0e783">mòine thaiseallach</headword>
+      <description>slow-burning or long-lasting peat.</description>
+    </item>
+    <item>
+      <headword id="d0e792">mòine gharbh</headword>
+      <description>peat cut very big.</description>
+    </item>
+    <item>
+      <headword id="d0e801">[urpull]</headword>
+      <description>Tha a’ mhòine air a dhol ’na h-urpuill (leis an uisge). When peat is swollen with rain. Geàrr ’na h-urpuill i – cut it big. (Cf. urpull de bhalach – a big lump of a boy.)</description>
+    </item>
+    <item><headword id="d0e809" type="heading" level="h1">7. Faclan eile</headword></item>
+    <item>
+      <headword id="d0e814">obair iaruinn</headword>
+      <description>amount of work expected of a team of two people in a day, or a certain number of yards which had to be cut before wages could be claimed.</description>
+    </item>
+    <item>
+      <headword id="d0e823">bha dà iarunn aige muigh</headword>
+      <description>idiomatic usage: “He had two teams out peat-cutting for him”, i.e. 4 people.</description>
+    </item>
+    <item>
+      <headword id="d0e832">eallacol</headword>
+      <description>bits of peat – akin to ‘caorain’ – which dry on the face of the bank, or in gashes and holes in the bank, and used to be gathered, of old, when stocks of peat were running low.</description>
+    </item>
+  </items>
+</fieldworkDocument>

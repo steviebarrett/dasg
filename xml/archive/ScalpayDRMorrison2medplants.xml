@@ -1,0 +1,1037 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 19 8 14 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="DRMorrison_ScalpayDRMorrison2medplants" docType="questionnaire" subType="MedicinalPlants" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Blàthan-Leighis / Medicinal Plants</title>
+  <date>[?]</date>
+  <fieldworker>[self]</fieldworker>
+  <informant>
+    <nameEnglish/>
+    <age>[?]</age>
+  </informant>
+  <location>Harris, Scalpay</location>
+  <items>
+    <item>
+      <headword id="d0e29" type="heading" level="h1">A. Plant medicines</headword>
+    </item>
+    <item>
+      <headword id="d0e35" type="heading" level="h2">1. Diseases in the head area</headword>
+    </item>
+	<item>
+	  <headword id="idola275">[headache]</headword>
+	  <description>Headache – crystals of salt, the steam of them inhaled.</description>
+	</item>
+    <item>
+      <headword id="idp116358328">uninean</headword>
+      <description>[sic] Onion. Disease: sore throat (amhaich ghoirt). Part used: the lot, peeled and
+        broken up, and put in boiling water in a bowl and the steam coming off it inhaled. Inhaling –
+        am bial fosgailte os cionn uinnean ann am burn goileach. How prepared: boiled, infused –
+        could be used likewise, ground up as a poultice – not necessary). Sources of information: my
+        mother.</description>
+    </item>
+    <item>
+      <headword id="idp116363080">craobh gharabhaigs (Harris)</headword>
+      <description>(Sprig of a) rowan tree. Also termed in Gaelic as undernoted – craobh chaorunn
+        (?). Disease: earache (greim cluaise – ola chroinn, ola theth), eye-diseases (gulamail –
+        incantation in some cases (cure)). Part used: ** To keep evil influences (as a charm) from
+        the door, a spring [sic] [sprig?] set in a cow’s tail did the job likewise to prevent the
+        cow coming under the spell of evil. Sources of information: my mother. ** traditional noted
+        by Martin Martin (?), etc.</description>
+    </item>
+	<item>
+	<headword id="d0e68" type="heading" level="h3">Noted as glossary I</headword>
+    </item>
+    <item>
+      <headword id="idp116337520">arbhar-froisidh</headword>
+      <description>seedless corn.</description>
+    </item>
+    <item>
+      <headword id="idp116336008">arbhar-buailte</headword>
+      <description>beaten corn. Some used to pour hot water on it to help as a ‘beverage-moistening’
+        effect.</description>
+    </item>
+    <item>
+      <headword id="idp116334352">lus-na-Frainge</headword>
+      <description>French weed. Were hung in a place where flies congregated, thus potentially
+        deterrent.</description>
+    </item>
+    <item>
+      <headword id="idp116332840">gruaigean</headword>
+      <description>eatable seaweed (Harris). With vitamins of the iodoine [sic] [iodine?], helpful
+        as a body-builder.</description>
+    </item>
+    <item>
+      <headword id="idp116331328">mircean</headword>
+      <description>[See gruaigean.]</description>
+    </item>
+    <item>
+      <headword id="idp116329816">faochagan</headword>
+      <description>whelks. Faochagan dubha ’s faochagan geala in particular, was [sic] known for
+        their medicinal attributes.</description>
+    </item>
+    <item>
+      <headword id="idp116328160">crotul</headword>
+      <description>lichen. Crotul-coille neo crotul nan creag was associated with ill-luck when in
+        the form of knitwear. A [sic] crotul-coloured socks on a person going to sea meant ill-luck,
+        pointing to ‘crotul nan creag’ in particular.</description>
+    </item>
+    <item>
+      <headword id="idp116326936">teàrr-an-fhiodh</headword>
+      <description>archangel tar was used as an ointment for strains, sprains relative to
+        cattle.</description>
+    </item>
+    <item>
+      <headword id="idp116325424">fliodh</headword>
+      <description>it grows in potatoes and corn, thickly in potato lazy-beds with emerald leaves,
+        perhaps lighter than emerald leaves with pinkish small flower. ‘Fliodh-a-bhuntàta’, given to
+        cattle for food, not for medicinal factors, purposely.</description>
+    </item>
+    <item>
+      <headword id="d0e155" type="heading" level="h2">2. Respiratory diseases</headword>
+    </item>
+    <item>
+      <headword id="idp116323336">fuil na bothaig</headword>
+      <description>Na bothaig neo na bothaig mhara (not a plant of course) – blood of the lark or
+        sea-lark being taken. Disease: asthma (sac, caoidh). Part used / How prepared: le [?] small
+        quantities, in drops I would imagine… Drinking some of it, a little now and again, I
+        presume. Sources of information: traditionally.</description>
+    </item>
+    <item>
+      <headword id="idp116320672">stiùrag</headword>
+      <description>Gruel. Disease: colds. Also: beaten eggs with rum for colds. Part used / How
+        prepared: Taken in hot water – it was or is oatmeal mixed in water infused of a thinly
+        composition and drunk. Drinking some of it, a little now and again, I presume. Sources of
+        information: traditionally.</description>
+    </item>
+    <item>
+	<headword id="d0e179" type="heading" level="h3">Noted as glossary II</headword>
+    </item>
+    <item>
+      <headword id="idp116317720">stiom-fhuail</headword>
+      <description>incantation method of a cure for cattle. (Bhithte cur snàth timchioll oirre ’s a’
+        gabhal [sic] duan.)…</description>
+    </item>
+    <item>
+      <headword id="idp116316064">bainne-deasgain</headword>
+      <description>rennet, for curdling milk.</description>
+    </item>
+    <item>
+      <headword id="idp116314552">seilleach</headword>
+      <description>willow. Its branches used in the making of creels for carrying manure and peat
+        (etc.).</description>
+    </item>
+    <item>
+      <headword id="idp116313040">drumanach</headword>
+      <description>alder. Boys used to fish with rods of the branches of an alder tree, the branches
+        long enough.</description>
+    </item>
+    <item>
+      <headword id="idp116311528">seagal</headword>
+      <description>rye.</description>
+    </item>
+    <item>
+      <headword id="idp116310016">feamainn-dhubh</headword>
+      <description>black seaweed (deep dark green) or black wrack.</description>
+    </item>
+    <item>
+      <headword id="idp116308504">feamainn-dhearg</headword>
+      <description>red seaweed (‘mircean’) or ‘gruaigean’ of this species. A variety of seaweed
+        comes into the category of medicinally essence [sic] towards cattle (feeding),
+        etc.</description>
+    </item>
+    <item>
+      <headword id="idp116306992">sealbhag</headword>
+      <description>sorrel. Used for dyeing wool.</description>
+    </item>
+    <item>
+      <headword id="idp116305480">pionnt</headword>
+      <description>mint. Its dried leaves were used for flavouring tea.</description>
+    </item>
+    <item>
+      <headword id="idp116303968">puineag</headword>
+      <description>sorrel. Eatable; by children, simply picking and eating them without
+        preparation.</description>
+    </item>
+    <item>
+      <headword id="idp116302384">buathalan</headword>
+      <description>ragwort. Used in dyeing wool, giving the yellow proceeds of the colouring
+        version…</description>
+    </item>
+    <item>
+      <headword id="d0e284" type="heading" level="h2">3. The blood</headword>
+    </item>
+    <item>
+      <headword id="idp116300080">lus-nan-laogh</headword>
+      <description>Calf plant. Disease: bad blood, e.g. boils. Part used: the whole plant’s
+        infusion. How prepared: boiled in water, and then the water drunk, a little occasionally.
+        Sources of information: traditionally. A lady still living on Scalpay told me her father
+        drank it for boils on the skin, and he was cured likewise. It was traditionally referred to
+        here (Scalpay) that the plant of which the medical curable properties, [sic] necessary for
+        the patient’s cure, was within a little distance of the house he lived in.</description>
+    </item>
+    <item>
+      <headword id="idp116297704">copag</headword>
+      <description>Docken. Disease: on wounds. Part used: the leaf. How prepared: by placing the
+        leaf on the wound and then the bandage on the top – wound ‘air a teannachadh’. Sources of
+        information: traditionally.</description>
+    </item>
+    <item>
+      <headword id="idp116295328">tombaca</headword>
+      <description>Tobacco, tobacco leaves. Disease: cuts and bruises. Part used: leaves. How
+        prepared: tobacco leaves for cuts, placed on the cut and bandaged untwined leaves, as a
+        disinfectant. Sources of information: traditionally.</description>
+    </item>
+    <item>
+      <headword id="idp116294104">prenistir is bainne</headword>
+      <description>Sulphur and milk. Disease: to prevent the blood from gushing through the bandage,
+        with healing abstraction, qualities. Part used / How prepared: mixed together. Prenisteir
+        [sic] is bainne air a measgadh. Sources of information: traditionally.</description>
+    </item>
+    <item>
+	<headword id="d0e326" type="heading" level="h3">Noted as glossary III</headword>
+    </item>
+    <item>
+      <headword id="idp116291080">glas-fheur</headword>
+      <description>green, a (palish) pale green grass, on which cattle feed, of a more pithy essence
+        than ‘sliabh’. ‘Sliabh’ is longer, not so juicy in other words.</description>
+    </item>
+    <item>
+      <headword id="idp116289208">tuineap</headword>
+      <description>turnip. Cattle and sheep feed on turnip. Tuineap a’ chruidh.</description>
+    </item>
+	<item>
+	  <headword id="idola276">[ashes]</headword>
+	  <description>Note: I have heard of plants being burned into ashes and
+      these ashes used as a preservative for food, perhaps to give food some special flavour, or
+      preserve it further to achieve the flavour required, or to have it salted, so to speak,
+      although perhaps again not giving the same results as salt, more or less, more confined to,
+      could be, an ‘appetising’ method, or to give what was already proven, if done, it was more
+      associated with the appetite in another sense.</description>
+	</item>
+    <item>
+      <headword id="idp116287264">buachar-a-chruidh</headword>
+      <description>fish, only rocker or skate I have heard of, was planted in this dung, for to
+        sour, to have a flavour (relish) which seemed to be a popular (taste) flavour in the past
+        (Harris). After the fish had been in the manure or dung, it was then washed [and] prepared
+        for eating by simply boiling it. In other words, after being in dung or manure, whatever way
+        you want to put it, for days.</description>
+    </item>
+    <item>
+      <headword id="d0e368" type="heading" level="h2">4. The bowels and stomach</headword>
+    </item>
+    <item>
+      <headword id="idp120926288">sobhrach</headword>
+      <description>Primrose. Disease: infested heel wound (at a bhuinn duibh). Part used: the leaves
+        only. How prepared: the leaves placed on the wound with poultice of oatmeal, placed as hot
+        as the patient could accept. Sources of information: my mother doing it.</description>
+    </item>
+    <item>
+      <headword id="idp120928376">brisgein</headword>
+      <description>Disease: for stomach complaint. Part used: the whole plant eaten. How
+        prepared: eating it raw, as taken from the ground.</description>
+    </item>
+    <item>
+	<headword id="d0e392" type="heading" level="h3">Noted as glossary IV</headword>
+    </item>
+    <item>
+      <headword id="idp120931184">cusag</headword>
+      <description>[See cuiseag.]</description>
+    </item>
+    <item>
+      <headword id="idp120932696">cuiseag</headword>
+      <description>wild mustard. The stem of this plant, when at the stage, the withered stage, was
+        used as a final top pinnacle, point, in the corn-stacks.</description>
+    </item>
+    <item>
+      <headword id="idp120934208">cruachan-arbhair</headword>
+      <description>corn-stacks. (Harris)</description>
+    </item>
+    <item>
+      <headword id="idp120935720">comhlach-mhor</headword>
+      <description>straw of the strongest for [sic] [form?], literally: big straw, was used in the
+        thatching of houses.</description>
+    </item>
+    <item>
+      <headword id="idp120937232">comhlach</headword>
+      <description>termed generally; comhlach of a lighter quality was used in bed
+        mattresses.</description>
+    </item>
+    <item>
+      <headword id="idp120938744">sallastair</headword>
+      <description>iris. Was used in thatching sheilings (airighean) and byres.</description>
+    </item>
+    <item>
+      <headword id="idp120940328">fraoch</headword>
+      <description>heather likewise [i.e. ‘used in thatching sheilings’ like ‘sallastair’ above?],
+        etc.</description>
+    </item>
+    <item>
+      <headword id="d0e461" type="heading" level="h2">5. Bladder and kidneys</headword>
+    </item>
+    <item>
+      <headword id="idp120942704">eòrna</headword>
+      <description>1. Sùgh an eòrna – barley water. 2. Brochan eòrna – barley gruel. ‘Eòrna’ was
+        always associated with kidney or bladder trouble. Disease: in the list as above [i.e.
+        infections, retaining water, cystitis, stones in kidney or bladder, discoloured urine]. How
+        prepared: 1. Simply drinking it after infusion. 2. Mixed into paste with a taste of salt.
+        Sources of information: locally informed generally.</description>
+    </item>
+	<item>
+	  <headword id="idola277">[skin]</headword>
+	  <description>Note: 1 The white of an egg mixed with oatmeal served as
+      an ointment towards the removal of pimples, as a beautifying remedy. Likely still used, also
+      as a skin purifier, skin ointment. 2. Same used with flour to soothe the skin if the skin
+      showed signs of parchment.</description>
+	</item>
+	<item>
+	<headword id="d0e485" type="heading" level="h3">Noted as glossary VI</headword>
+    </item>
+    <item>
+      <headword id="idp120947024">fraoch-geal</headword>
+      <description>white heather, a symbol of luck.</description>
+    </item>
+    <item>
+      <headword id="idp120948536">sùgh</headword>
+      <description>sap or juice.</description>
+    </item>
+    <item>
+      <headword id="idp120950048">mucag</headword>
+      <description>berry or fruit as ‘mucagan-fàileag’ (Harris) – fruit of the rose bush. Mucagan
+        fàileag nan dris mheur, ann am pallachan beàrnach is bristeadh.</description>
+    </item>
+    <item>
+      <headword id="idp120951560">coirce</headword>
+      <description>oat.</description>
+    </item>
+    <item>
+      <headword id="idp120953072">coirce-beag</headword>
+      <description>small oats.</description>
+    </item>
+    <item>
+      <headword id="idp120954584">ola-min-fhras-linn</headword>
+      <description>linseed oil. Given to cattle for its beneficial products [sic] in giving the
+        animal a shiny coat.</description>
+    </item>
+    <item>
+      <headword id="idp120956096">luachair</headword>
+      <description>bulrushes. Was [sic] used in thatchings, and as an absorbent of fuel oil,
+        liver oil, etc. in giving light.</description>
+    </item>
+    <item>
+      <headword id="idp120957608">bàrr-an-eòrna</headword>
+      <description>giving [sic] to cattle in the event of, as termed in Gaelic, ‘glasadh
+        uisge’.</description>
+    </item>
+    <item>
+      <headword id="d0e563" type="heading" level="h2">6. Other internal organs</headword>
+    </item>
+    <item>
+      <headword id="idp115179352">greim mór</headword>
+      <description>appendix. Poultices, etc. I’ll attend to this subject in due time, I
+        hope.</description>
+    </item>
+    <item>
+	<headword id="d0e578" type="heading" level="h3">Noted as glossary VII</headword>
+    </item>
+    <item>
+      <headword id="idp115174096">brochan-teth coirce</headword>
+      <description>given to sheep as a beverage.</description>
+    </item>
+    <item>
+      <headword id="idp115171072">caora tinn air uan</headword>
+      <description>confinement. When in the case of a sheep giving, on the point of giving birth to
+        a lamb, it was discovered that the discharge didn’t give the elasticity necessary (uterus,
+        etc.), thus while under this complication tea mixed with whisky and thin gruel of oatmeal
+        also mixed with whisky, a glassful of whisky, this given successively proved successful, and
+        the mother gave birth to a fine healthy baby lamb. In some other instances an operation was
+        necessary, the side of the animal, or rather the appropriate place considered was cut open
+        by a knife, an ordinary (pocket) knife, and the baby lamb was received, and of course the
+        wound stitched. The baby lamb normal – and the operation successful, just, perhaps, like a
+        ceserea [sic] [Caesarean?] female operation, or again as ceserea [sic] [Caesarean?]
+        operation on a woman. This as above noted instances was observed on the island of Scalpay in
+        Harris. F.S. [?] [P.S.?] Bha na màthraichean beò – cha do rinn e càil oirre
+        [sic].</description>
+    </item>
+    <item>
+      <headword id="d0e602" type="heading" level="h2">7. Gynaecological complaints</headword>
+    </item>
+	<item>
+	  <headword id="idola278">[note]</headword>
+	  <description>This subject is having my further attention.</description>
+	</item>
+    <item>
+      <headword id="idp115178344">tuisleadh-asbhuinne</headword>
+      <description>miscarriage.</description>
+    </item>
+    <item>
+      <headword id="idp115154224">toradh-an-abaich</headword>
+      <description>miscarriage.</description>
+    </item>
+    <item>
+      <headword id="idp115155664">stamag-laoidh</headword>
+      <description>’s ann le stamaig laoidh (calf) air a tiormachadh ’s crimeagan air a chuir dh’an
+        a bhainne dhi a bha iad (bhatar) a’ deanamh deasgainn (curdling). Bainne-deasgainn –
+        curdling milk.</description>
+    </item>
+    <item>
+      <headword id="idp115158688">blàthach</headword>
+      <description>buttermilk was also used for burns. Putting ‘blàthach’ on burns, for healing, not
+        the antiseptic portion of the story.</description>
+    </item>
+    <item>
+	<headword id="d0e653" type="heading" level="h3">Noted as glossary VIII</headword>
+    </item>
+    <item>
+      <headword id="idp115160272">comharradh</headword>
+      <description>ears being marked. The tip cut off or a hole cut through the ear, etc. for
+        identification in sheep.</description>
+    </item>
+    <item>
+      <headword id="idp115161640">sgadan</headword>
+      <description>was given to cattle. Cooked herring, fish-meal.</description>
+    </item>
+    <item>
+      <headword id="idp115163080">cloimh-an-dombail</headword>
+      <description>loose tufts of wool left on the heather by sheep walking through
+        it.</description>
+    </item>
+    <item>
+      <headword id="idp115164952">cloimh-an-domail</headword>
+      <description>[See cloimh-an-dombail.]</description>
+    </item>
+    <item>
+      <headword id="idp115166896">gràn-as-a-chochull</headword>
+      <description>grain from the husk.</description>
+    </item>
+    <item>
+      <headword id="idp115168408">fiar-seacaidh</headword>
+      <description>withering grass.</description>
+    </item>
+    <item>
+      <headword id="idp115170136">fiar-gorm</headword>
+      <description>reference to new, fresh grass.</description>
+    </item>
+    <item>
+      <headword id="idp115170568">sguab-leis-an-t-siol</headword>
+      <description>reference to nutrition for cattle.</description>
+    </item>
+    <item>
+      <headword id="idp118769112">garrabhuic-mairt</headword>
+      <description>a cow pad [sic] [pat?] of a soft composition through the influence of
+        dysentery.</description>
+    </item>
+    <item>
+      <headword id="idp118770624">glanadh-mairt</headword>
+      <description>the aftermath of calving.</description>
+    </item>
+    <item>
+      <headword id="d0e749" type="heading" level="h2">8. Skin diseases not already mentioned</headword>
+    </item>
+    <item>
+      <headword id="idp118773000">spealtan</headword>
+      <description>Splinters. Disease: broken bones. How prepared: strips of wood adjusted against
+        the injury, and kept in position by strips of cloth secured firmly round and round the
+        splinters and tied, knotted. Sources of information: local.</description>
+    </item>
+    <item>
+      <headword id="idp118774944">fear a rugadh a comhar a chas</headword>
+      <description>was reputed to cure backache by standing on the patient’s back, while the patient
+        lay flat on the floor.</description>
+    </item>
+	<item>
+	  <headword id="idola279">[burns]</headword>
+	  <description>Burns: cold water – by simply dipping the burnt finger
+      immediately in cold water.</description>
+	</item>
+    <item>
+      <headword id="idp118777320">rùsgadh air a chloinn</headword>
+      <description>skin abrasion was cured by burning paper, and putting the burnt black charcoal
+        composition on the skin. Could be bandaged on, or if there was any means of having the paper
+        on the sore part it served its curable influences.</description>
+    </item>
+    <item>
+      <headword id="idp118778832">crotul is im</headword>
+      <description>crotul is im an ceann a chéile cuideachd air a ghleachdadh mar achduinn-suathaidh
+        air son losgadh a chuir feabhas (ann an Scalpaigh).</description>
+    </item>
+    <item>
+	<headword id="d0e800" type="heading" level="h3">Noted as glossary IX</headword>
+    </item>
+    <item>
+      <headword id="idp118781208">feamainn-shiabaidh</headword>
+      <description>sea-wrack lying dormant on the shore was used as manure not for the beneficial
+        use of nutrition. Naturally enough fresh seaweed species were considered more closely, to
+        the necessary medicinally [sic] purpose required.</description>
+    </item>
+    <item>
+      <headword id="idp118782720">roc-làir</headword>
+      <description>seaweed broken off submerged rocks were [sic] washed ashore, and would lay for that
+        length of time on the shore – thus pithless in some cases.</description>
+    </item>
+    <item>
+      <headword id="idp118784232">rùsg-cloimhe</headword>
+      <description>fleece of wool; was used as a mat through the process of cleansing by alms, alm
+        [sic], etc.</description>
+    </item>
+    <item>
+      <headword id="idp118785744">rùsg-caorach</headword>
+      <description>sheep’s fleece, or the fleece of a sheep.</description>
+    </item>
+    <item>
+      <headword id="idp118787256">clòbhar</headword>
+      <description>clover. An exemptional [sic] [exceptional?] nutriment, nourishment, in connection
+        with the feeding of cattle.</description>
+    </item>
+    <item>
+      <headword id="d0e851" type="heading" level="h2">9. Acute diseases</headword>
+    </item>
+    <item>
+      <headword id="idp118789632">tobacco</headword>
+      <description>[sic] Tobacco. Disease: smallpox (bheanachdachd bhreac). Part used: gitseog tobacca.
+        How prepared: dha shuathaigeadh (chewing). Sources of information: the individual who was in
+        contact with the disease in a foreign country, South America, and his pal, who [sic] he
+        nursed for a while, used to chew tobacco to prevent him having the disease himself – a
+        disinfectant method he adopted himself. I’ll make further enquiry.</description>
+    </item>
+    <item>
+	<headword id="d0e866" type="heading" level="h3">Noted as glossary X</headword>
+    </item>
+    <item>
+      <headword id="idp118792728">mam</headword>
+      <description>infested wound cured by incantation (etc.).</description>
+    </item>
+    <item>
+      <headword id="idp118794240">feamainn-chìrein</headword>
+      <description>this seaweed ‘plant’ was boiled and the voluminous part and liquid from it, the
+        water in which [it] was boiled, the intermixture and the solid parts of it in other words,
+        was given to cattle in spring. The liquid has tonic attribution [sic] plus the seaweed part
+        or parts boiled counteract the effects of the dry straw and hay, which can be ‘administered’
+        too frequently.</description>
+    </item>
+    <item>
+      <headword id="idp118795752">stiùil-nan-sìthichean</headword>
+      <description>mushrooms. (I have only this one vaguely, even although I could accept it as
+        being correct, anyway as one term.)</description>
+    </item>
+    <item>
+      <headword id="idp118797264">fiaras-a-ghualta</headword>
+      <description>black fever (?) (Harris). (I remember hearing the term. You may have, or
+        understand the meaning, or have the term already.)</description>
+    </item>
+    <item>
+      <headword id="idp118798776">fiaras-critheanach</headword>
+      <description>malaria. Sailors, island sailors, used to refer to it thus as here, those who
+        were subjected to it from foreign lands.</description>
+    </item>
+    <item>
+      <headword id="d0e917" type="heading" level="h2">10. The skeleton and muscles</headword>
+    </item>
+    <item>
+      <headword id="idp118801152">ola chroinn ola</headword>
+      <description>Olive oil. Disease: rheumatism. Part used / How prepared: rubbing it on the
+        affected part. Sources of information: traditionally.</description>
+    </item>
+    <item>
+      <headword id="idp118803168">siola-na-h-easgainn</headword>
+      <description>Entrails of an eel. The spawning part in particular. The earliest form of cure.
+        Disease: rheumatism. Part used: spawning part. How prepared: freshly applied. Sources of
+        information: traditionally.</description>
+    </item>
+    <item>
+      <headword id="idp118805256">sàl teth</headword>
+      <description>Hot seawater. Disease: rheumatism. Part used / How prepared: bathed in hot
+        sea-water. Putting the feet in a half bucket full of seawater – hot to the extent of the
+        patient [sic] [patient’s?] acceptance of the temperature. Sources of information:
+        traditionally.</description>
+    </item>
+    <item>
+      <headword id="idp118807200">buntàta</headword>
+      <description>Potato. Disease: rheumatism. Part used / How prepared: a potato with a slice cut
+        off. A potato carried by the patient in an inside pocket nearest to his skin, I believe. The
+        body seemingly responding someway to the potato? Sources of information:
+        traditionally.</description>
+    </item>
+    <item>
+      <headword id="idp118809144">[tòrradh-rodan]</headword>
+      <description>I remember hearing the expression: Bu cheart cho math leam a dhol gu
+        tòrradh-rodan, when a person was asked to go to a wedding or some entertainment.
+        ‘Tòrradh-rodan’ – unless it was an invented phrase.</description>
+    </item>
+    <item>
+	<headword id="d0e968" type="heading" level="h3">Noted as glossary XI</headword>
+    </item>
+    <item>
+      <headword id="idp118811520">lianranaich</headword>
+      <description>a thin layer of a plant, if I may say a plant, on water, a pool, or on a shallow
+        part of a freshwater loch. To my mind it’s something like green moss.</description>
+    </item>
+    <item>
+      <headword id="idp118813032">sleamhnagan</headword>
+      <description>stye. Treated by rubbing it with a gold marriage ring, or any ring, with a little
+        incantation reference.</description>
+    </item>
+    <item>
+      <headword id="idp118814544">sleamhtagan</headword>
+      <description>[See sleamhnagan.] I have heard it pronounced likewise in Harris.</description>
+    </item>
+    <item>
+      <headword id="idp118816056">foinne-riobach</headword>
+      <description>shaggy wart; a hair tied round the wart cuts its way, cuts through it, off
+        [sic].</description>
+    </item>
+    <item>
+      <headword id="idp118817568">ball-dobhrain</headword>
+      <description>a wart like resemblance of a wart, but a birthmark.</description>
+    </item>
+    <item>
+      <headword id="d0e1019" type="heading" level="h1">B. Treatments which did not involve the use of
+        plants</headword>
+    </item>
+    <item>
+      <headword id="idp118819944">saills</headword>
+      <description>or salts. Was [sic] used in connection with a few ailments, ‘sore-head’,
+        headache, constipation, squeamishness and blood disorder.</description>
+    </item>
+    <item>
+      <headword id="idp118821456">[sàil]</headword>
+      <description>salt in the form of seawater, ‘sàil’, was used for bathing the feet in. Boiled
+        seawater in which the feet were kept when brought to the tepid point for the feet to be
+        bathed in regularly was a recommended cure for rheumatics and sore feet, tired
+        feet.</description>
+    </item>
+    <item>
+      <headword id="idp118822968">siola-na-h-easgainn</headword>
+      <description>the spawning organs of the eel was [sic] used likewise – massage.</description>
+    </item>
+	<item>
+	  <headword id="idola280">[baking soda]</headword>
+	  <description>Baking soda – taken in water, for stomach complaints (and
+      bladder trouble of cattle).</description>
+	</item>
+    <item>
+      <headword id="idp118825416">[ola-an-ròin]</headword>
+      <description>heat treatment, liniment oil a more modernisation [sic], seal oil (‘ola an ròin’)
+        boiled, when cooled to the point of applying, then the oil was well rubbed on the affected
+        part of the patient.</description>
+    </item>
+	<item>
+	  <headword id="idola281">[heat treatment]</headword>
+	  <description>Heat treatment – a container with hot water inside a
+      stocking, placed against the affected part.</description>
+	</item>
+    <item>
+      <headword id="idp118827792">buachar a chruidh</headword>
+      <description>‘cow’s dung’ used for burns, but applied immediately meant better
+        results.</description>
+    </item>
+	<item>
+	  <headword id="idola282">[urine]</headword>
+	  <description>Urine – for rash, foul shave.</description>
+	</item>
+    <item>
+	<headword id="d0e1097" type="heading" level="h2">Noted as glossary XII</headword>
+    </item>
+    <item>
+      <headword id="idp118831032">tinneas-cuim</headword>
+      <description>dysentery; laxative treatment.</description>
+    </item>
+    <item>
+      <headword id="idp118832544">lionn-nam-biasd</headword>
+      <description>hops, fermenting into beer, fed with treacle and sugar in a glass jar, the fruit
+        of the plant… a beverage for ‘human acceptance’, in having it as a drink,
+        refreshment.</description>
+    </item>
+    <item>
+      <headword id="idp118834056">suidh</headword>
+      <description>soot. Used mixed with water as a detergent [sic] [deterrent?] on cabbage against
+        flies laying their eggs, and caterpillars. It was poured on the leaves, if not used in
+        powder form.</description>
+    </item>
+    <item>
+      <headword id="idp118835568">[at]</headword>
+      <description>abscess, infestation (at). Fuar-lit choirce, fuar-lit loaf, ’s ’n uair a thig an
+        t-at gu àirde ’n uair sin a’ leigeal (as termed) air le snàthaid.</description>
+    </item>
+    <item>
+      <headword id="idp118837080">déideadh</headword>
+      <description>toothache. Piece of tobacco put into the hole in the tooth, and let it drip from
+        the tooth, into dripping saliva. Also coarse salt similarly. Coarse salt heated on
+        a frying pan, and then transferred into a stocking then placed externally on the cheek
+        nearest the infected tooth. Was recommended towards a relief or cure if it was ‘caused by
+        cold’, etc. (Methylated spirits injected in the tooth, was, is a more modern
+        cure.)</description>
+    </item>
+    <item>
+      <headword id="d0e1148" type="heading" level="h1">C. Veterinary medicine</headword>
+    </item>
+    <item>
+      <headword id="idp118839744">a’ chloimh</headword>
+      <description>(sheep) infestation, etc. etc. cured by dipping.</description>
+    </item>
+    <item>
+      <headword id="idp118841256">doille</headword>
+      <description>eye disease in sheep. As ‘sgiath air a sùil’ (cataract). The cure was glass
+        broken into powder and inserted in the eye or eyes.</description>
+    </item>
+    <item>
+      <headword id="idp118842768">gulamail</headword>
+      <description>personal complaint not so much attributed to sheep. ‘Doille’ [q.v.] – more
+        connected with sheep.</description>
+    </item>
+    <item>
+      <headword id="idp118844280">tuathalan</headword>
+      <description>dizziness in sheep, prone to collapse. Cure: cutting part of the ears and the top
+        part of the tail.</description>
+    </item>
+    <item>
+      <headword id="idp118845792">chuileag</headword>
+      <description>caused by fly, maggots eating into the flesh. Tar only or [?] tar and paraffin,
+        eventually saltwater, dipped in saltwater. The brine helpful in circumstances.
+        Curable.</description>
+    </item>
+    <item>
+      <headword id="idp118847304">brothalan (?)</headword>
+      <description>scab showing on the face caused by eating too much seaweed, or eating excess of
+        it, also noticeable in sheep often on the shore. Cure: giving the animal fat to eat,
+        margarine, etc. (I would say this [i.e. brothalan] is the name for the explanation. I am not
+        quite certain: is an old form beginning to go [?] if not out of use now.)</description>
+    </item>
+    <item>
+      <headword id="idp118848816">bial-muice</headword>
+      <description>swollen lips or a swollen lip, top protruding over the other (more frequently of
+        the top lip), mouth affected disease, etc. where the animal (sheep) cannot, is unable to eat
+        (grass, etc.). Also hereditary.</description>
+    </item>
+    <item>
+      <headword id="idp118850328">glupad</headword>
+      <description>modern cure – pillichean a’ ghlupad. Due to the exercise [sic] of fatness
+        internally, in some cases, it’s kidney infection.</description>
+    </item>
+    <item>
+      <headword id="idp118851840">bracsaidh</headword>
+      <description>caused by fat, excessive richness of fat in the animal.</description>
+    </item>
+    <item>
+      <headword id="idp118853352">spog-dhubh</headword>
+      <description>the skin becoming black, perhaps through the blood circulation from the disease
+        thrombosis. Birds wouldn’t, will not eat from, disdain to eat the dead
+        carcase.</description>
+    </item>
+    <item>
+	<headword id="d0e1244" type="heading" level="h2">Noted as glossary XIII</headword>
+    </item>
+    <item>
+      <headword id="idp118856592">[stocainn]</headword>
+      <description>another reference to ‘stocainn le salainn teth’ is if somebody caused some
+        annoyance and due correction, thus with a slight difference: Gabhaidh mi ort le stocainn de
+        bhrochan teth. (expression) ‘Brochan’ in a covering of cloth was used, poultice of oatmeal
+        with mustard oil or paste mixed was applied to the chest, when pneumonia was suspected.
+        ‘Brochan teth’ to minor cases. Before mustard was recommended, mustard was considered a
+        stronger replacement.</description>
+    </item>
+    <item>
+      <headword id="d0e1259" type="heading" level="h1">D. What do you think is the English name for the plants
+        called in Gaelic.</headword>
+    </item>
+	<item>
+	  <headword id="idola283">[note]</headword>
+	  <description>Please do not use a dictionary. No! (not used)</description>
+	</item>
+    <item>
+      <headword id="idp118859328">móthan</headword>
+      <description>bog-violet.</description>
+    </item>
+    <item>
+      <headword id="idp118860840">cairmeal, carra-meille</headword>
+      <description>derived perhaps from the sweet… caramel… (my own definition). It derived from a
+        word or words, Latin, etc. of the same meaning or pronunciation, etc. etc…
+        or…?</description>
+    </item>
+    <item>
+      <headword id="idp118862352">slan-lus</headword>
+      <description>[sic] ‘sàisde’, a corruption? of ‘slàn-lus’ – healing plant. I have read of ‘sàisde’
+        for ‘slàn-lus’.</description>
+    </item>
+    <item>
+      <headword id="idp118863864">lus nan sul</headword>
+      <description>I’ll enquire!</description>
+    </item>
+    <item>
+      <headword id="idp118866888">fearsanaich</headword>
+      <description>cnapan beaga air druim a chruidh, b’ann an còmhnuidh air crodh fallain a bhiodh
+        seo.</description>
+    </item>
+	<item>
+      <headword id="d0e1319" type="heading" level="h2">Noted as glossary XIV</headword>
+    </item>
+	<item>
+      <headword id="idp118869264">stapag</headword>
+      <description>stapag uachdair. For softening hard skin, caused by sea-spray drying on the skin.
+        A primitive form, the ointment form of procedure serving as ointment. Consisting of crowdie
+        mixed with cream, cream, [sic] say, snow-fire may have originated likewise.</description>
+    </item>
+    <item>
+      <headword id="idp118870776">uachdar</headword>
+      <description>cream (Harris). Cream itself without any mixture was used as (cream) ointment for
+        skin troubles.</description>
+    </item>
+    <item>
+      <headword id="idp118872288">stapag</headword>
+      <description>a mixture of oatmeal and water, accepted as a medicine for
+        constipation.</description>
+    </item>
+    <item>
+      <headword id="idp118873800">sgudal</headword>
+      <description>oatmeal, herring, salted herring or fresh herring or both kinds, bread, cheese, a
+        composition of a variety of eatables for cattle.</description>
+    </item>
+    <item>
+      <headword id="idp118875312">scramhag</headword>
+      <description>an undesirable covering on a melted potion [sic] of fat when in the process of being
+        melted, thus advisable as: thoir dhe’n scramhag th’air uachdar.</description>
+    </item>
+    <item>
+      <headword id="idp118876824">sgramhag</headword>
+      <description>[See scramhag.]</description>
+    </item>
+    <item>
+      <headword id="d0e1379" type="heading" level="h1">E. Any further information about your sources</headword>
+    </item>
+	<item>
+	  <headword id="idola284">[note]</headword>
+	  <description>I’ll enquire.</description>
+	</item>
+    <item>
+      <headword id="idp118880064">màm</headword>
+      <description>ulcerous wound, infesting, externally under the auxter. 2. Gaelic ‘at’ –
+        festing [sic] [festering?] wound approached by an expertee [sic] who used to act with an axe
+        head towards the wound and reciting [sic] a chant, etc. for cure. Have heard of it
+        (orally).</description>
+    </item>
+    <item>
+      <headword id="idp118881792">King’s Evil</headword>
+      <description>King’s Evil wound cured through the seventh member of a family, a boy or girl of
+        a successive line, that is, a family of [sic] having a member male or female, the seventh
+        coming one after another in this order so to speak: the first arrival being a boy, or an
+        arrival being a boy, and the next a boy, a boy, a boy till seven, the seventh is accounted
+        for. He is the healer in this case, using a formula representing the case. (I have seen a
+        patient who received this mode of cure, it was believed in extensively on
+        Harris.)</description>
+    </item>
+    <item>
+      <headword id="idp118883448">faochagan-geal</headword>
+      <description>medical properties, was [sic] boiled and the water in which they were
+        boiled in [sic] was drank for worms in children (cure).</description>
+    </item>
+	<item>
+	  <headword id="d0e1421" type="heading" level="h2">Noted as glossary XV</headword>
+    </item>
+    <item>
+      <headword id="idp118885824">cotan</headword>
+      <description>cotton, cotton wool was used in cuts and bruises. The cotton wool put on the wood
+        [sic] [wound?] and bandaged, after the wound was cleansed and Epsom salts used as a
+        disinfectant in cold water, or lukewarm water, tepid, perhaps as likely cold water was more
+        appropriate in the congealation [sic] of blood, to stop the bleeding. Cotton was also used
+        in having it soaked in hot olive oil, and placed in the ear for earache. Drops of hot olive
+        oil were injected or allowed to run off a teaspoon, inside the ear, to soften hard wax in
+        the ear, etc. etc.</description>
+    </item>
+    <item>
+      <headword id="idp118887480">olainn</headword>
+      <description>wool was used but disapproved of eventually as in the (suspect) case of having
+        germs.</description>
+    </item>
+    <item>
+      <headword id="d0e1445" type="heading" level="h1">F. Other information not covered above</headword>
+    </item>
+    <item>
+      <headword id="d0e1451" type="heading" level="h2">Sheep diseases</headword>
+    </item>
+    <item>
+      <headword id="idp118890720">spùt</headword>
+      <description>diarrhoea (dysentery, on [sic] sheep).</description>
+    </item>
+	<item>
+	  <headword id="idola285">[note]</headword>
+	  <description>In vocabulary form, order or glossary</description>
+	</item>
+    <item>
+      <headword id="idp118893096">bracsaidh</headword>
+      <description>braxy.</description>
+    </item>
+    <item>
+      <headword id="idp118894608">spog-dhubh</headword>
+      <description>black-leg.</description>
+    </item>
+    <item>
+      <headword id="idp118896120">glupad</headword>
+      <description>pulpy kidney, also ‘liabagan anns a ghrùthan’.</description>
+    </item>
+    <item>
+      <headword id="idp118897632">duppadh</headword>
+      <description>dipping to prevent parasites.</description>
+    </item>
+    <item>
+      <headword id="idp161208112">a chloimh</headword>
+      <description>dipping is helpful, is the cure also from what I have already noted previously
+        (maggots).</description>
+    </item>
+    <item>
+      <headword id="idp161209624">na gartain</headword>
+      <description>tick [sic].</description>
+    </item>
+    <item>
+      <headword id="idp161211136">mialan-dearga</headword>
+      <description>keds.</description>
+    </item>
+    <item>
+      <headword id="idp161212648">malan-chaorach</headword>
+      <description>[sic] [mialan as above?] sheep lice.</description>
+    </item>
+    <item>
+      <headword id="idp161214160">a chloimh</headword>
+      <description>sheep scab. ‘Smiùradh’ process by tar was the originally [sic] process. Nowadays
+        the dipping fluid, etc. is the process, alternatively. (Same [i.e. as ‘a chloimh’ above] but
+        ‘smiùradh’ by the tar process was the original remedy.) (Brochan teth, stiùrag theth ma’s e
+        fuachd neo buaidh an fhuachd ’s an uisge – b’aobhar.) [NOTES: not sure if the second note in
+        brackets is part of the definition. Not clear where it belongs.]</description>
+    </item>
+    <item>
+      <headword id="idp161216104">[leabaidh-thiorman]</headword>
+      <description>Tha chaora còmhnuidh ag iarraidh leabaidh-thiorman. Thus otherwise she is prone
+        to pneumonia, etc. as one expert remarked to me…</description>
+    </item>
+    <item>
+      <headword id="d0e1565" type="heading" level="h2">Cattle</headword>
+    </item>
+	<item>
+	  <headword id="idola286">[the evil eye]</headword>
+	  <description>Affected by the evil eye, subjected to its influence, was
+      sprinkled over with water in which silver coins were placed, etc., thus a cure.</description>
+	</item>
+    <item>
+      <headword id="idp161219344">[buidheagan]</headword>
+      <description>Too much of buttercups (‘buidheagan’) (flowers) or variety improper in the
+        feeding caused sickness to cattle. Empoms [sic] [Epsom?] salts were recommended, doses up to
+        as was termed 6 packets were (recommended) as a dose, etc.</description>
+    </item>
+	<item>
+	  <headword id="idola287">[oatmeal]</headword>
+	  <description>Oatmeal in hot water (mixed) also was observed as a
+      beverage to cattle.</description>
+    </item>
+	<item>
+      <headword id="idp161221720">is-sproillean</headword>
+      <description>throat infection.</description>
+    </item>
+	<item>
+	  <headword id="idola288">[canna]</headword>
+	  <description>B’ann le canna, can, a bhiodhta a cur na stiuraig na bial,
+      etc. neo nam bial.</description>
+	</item>
+	<item>
+	  <headword id="d0e1616" type="heading" level="h3">Noted as glossary XVI</headword>
+    </item>
+    <item>
+      <headword id="idp161225104">spuir-eòin</headword>
+      <description>birthmark. The likelihood of it showing the resemblance of a bird’s claws, in the
+        most frequent of cases.</description>
+    </item>
+    <item>
+      <headword id="idp161226616">saus’</headword>
+      <description>fish soup. The water in which fish is boiled is re-boiled with further amount of
+        water added to a boiling continuation, and onions and oatmeal added, and salt.</description>
+    </item>
+    <item>
+      <headword id="idp161228128">cnuimh</headword>
+      <description>maggot. Used on a fishing hook for bait in fishing brown trout. Anything wriggly
+        will attract trout.</description>
+    </item>
+    <item>
+      <headword id="idp161229640">buntàta</headword>
+      <description>raw bits, broken into crumbs (buntàta air a phronnadh le cloich) is [sic] used as
+        a lure for fish when fishing with a spoon-net (‘tàbh’). The mashed potato thrown above the net
+        sinks gradually luring the fish into the net and then the net lifted with the fish inside.
+        The fish is caught unawares so to speak.</description>
+    </item>
+    <item>
+      <headword id="idp161231152">gnàthladh</headword>
+      <description>small collection, as in the event of collecting berries and asked ‘an t’fhuair
+        sibh gin?’ The answer: ‘Fhuair sinn gnàthladh.’ Still used on Scalpay, Harris in connection
+        with fishing: gnàthladh sgadain – scatter, small scatter.</description>
+    </item>
+    <item>
+      <headword id="d0e1667" type="heading" level="h1">F. Other information not covered above</headword>
+    </item>
+    <item>
+      <headword id="idp161233528">bratag-fhraoich</headword>
+      <description>if allowed to draw itself across a patient’s tongue was believed to be a cure for
+        the patient suffering from burns. I have heard this mentioned – perhaps faith
+        cure.</description>
+    </item>
+    <item>
+      <headword id="d0e1682" type="heading" level="h2">Cattle (continued)</headword>
+    </item>
+    <item>
+      <headword id="idp161235904">is broillean</headword>
+      <description>external throat infection. Cure: ‘prènistir’ – sulphur given in water. Also
+        ‘slòcan’ – ‘soft seaweed’ mixed with food from the pail.</description>
+    </item>
+    <item>
+      <headword id="idp161237416">chaileach-ribeach</headword>
+      <description>‘wart’ inside mouth. The cure was cutting it by scissors, or an appropriate
+        instrument.</description>
+    </item>
+    <item>
+      <headword id="idp161238928">sùil-na-leise</headword>
+      <description>strained limb. Piece of woollen blanket with tar applied to feet, to the strained
+        part, was the cure.</description>
+    </item>
+    <item>
+      <headword id="idp161240440">biastan-a-chruidh</headword>
+      <description>little ‘red ticks’ nibbling the flesh. Cure: ‘achduinn-ghorm’ – blue ointment
+        applied usually at the back of horns to avoid it being licked. Sheep dip was also used as a
+        destroyer.</description>
+    </item>
+    <item>
+      <headword id="idp161241952">stàrr is feamainn chirean</headword>
+      <description>[sic] given to cattle with ‘is-sproillean’ [q.v.] and ‘nis-sproillean’, I have
+        discovered the two pronunciations, perhaps there are the two words, seemingly. I shall make
+        more investigation. Stàrr (coarse grass) is feamainn chìrean air a chuir cuide ris, ’s air
+        an goil, ’s an sin leigeil leis gu fuarachadh, ’s a h-uile cail a bh’ann a thoirt dh’an
+        bhoin, sùgh is eile…</description>
+    </item>
+	<item>
+	  <headword id="d0e1733" type="heading" level="h3">Noted as glossary XVII</headword>
+    </item>
+    <item>
+      <headword id="idp161244472">spòg-an-fhithich</headword>
+      <description>birthmark.</description>
+    </item>
+    <item>
+      <headword id="idp161245984">fuailit-lof</headword>
+      <description>poultice made of a loaf for abstraction, abstracting festering matter from a
+        festering wound.</description>
+    </item>
+    <item>
+      <headword id="idp161247496">fuailit</headword>
+      <description>poultice. From ‘fuail’ urine and ‘lite’ porridge (1 [?]). Fuailit theth – hot
+        poultice, etc.</description>
+    </item>
+    <item>
+      <headword id="idp161249152">[ola]</headword>
+      <description>ola-ghrùthain – liver oil, oil from melted liver, was used as a fuel for the old
+        time ‘crusee’ lighting system in the home. Taken for colds, chest troubles. Cod liver oil –
+        ‘ola nan trosg’ for colds. Originally: ola-ghriùthain ’s ola-ròin.</description>
+    </item>
+    <item>
+      <headword id="idp161250808">cumachd-leigheas</headword>
+      <description>healing power.</description>
+    </item>
+    <item>
+      <headword id="idp161252320">branndaidh</headword>
+      <description>brandy (spirits). A [sic] reviving medicinally spirits, medicinally drunk, as in
+        the instances or interests, if you like, of faints, weaknesses…</description>
+    </item>
+  </items>
+</fieldworkDocument>

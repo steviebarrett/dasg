@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 3 6 14 -->
+<fieldworkDocument docId="AOHenley_CrombaghKMacDonaldmisc" docType="wordlist" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>[1987-88]</date>
+  <fieldworker personId="ohenleya">A. O’Henley</fieldworker>
+  <informant>
+    <nameEnglish>Kate MacDonald</nameEnglish>
+  </informant>
+  <location>North Uist, Lochmaddy, Crombagh</location>
+  <items>
+    <item>
+      <headword id="idm109582064">sgal</headword>
+      <description>a tray.</description>
+    </item>
+    <item>
+      <headword id="idm109585160">clòdhag</headword>
+      <description>a postage stamp.</description>
+    </item>
+    <item>
+      <headword id="idm109588256">sùghan</headword>
+      <description>a tart.</description>
+    </item>
+    <item>
+      <headword id="idm109567160">leannra</headword>
+      <description>sauce.</description>
+    </item>
+    <item>
+      <headword id="idm109565648">ceirnean</headword>
+      <description>a plate.</description>
+    </item>
+    <item>
+      <headword id="idm109564136">crùisg</headword>
+      <description>a jug.</description>
+    </item>
+    <item>
+      <headword id="idm109562624">soireag</headword>
+      <description>a fla [sic]. [NOTES: note added in pencil: ‘a flask?’ and then a tick put next to it.]</description>
+    </item>
+    <item>
+      <headword id="idm109560968">tacas</headword>
+      <description>an easel.</description>
+    </item>
+    <item>
+      <headword id="idm109559456">adhartag</headword>
+      <description>a cushion.</description>
+    </item>
+    <item>
+      <headword id="idm109557944">grànlach</headword>
+      <description>a cereal.</description>
+    </item>
+    <item>
+      <headword id="idm109556432">dealbhart</headword>
+      <description>a camera.</description>
+    </item>
+    <item>
+      <headword id="idm109554920">amarlad</headword>
+      <description>a canal.</description>
+    </item>
+    <item>
+      <headword id="idm109553408">cuach</headword>
+      <description>a bowl.</description>
+    </item>
+    <item>
+      <headword id="idm109551896">carlann</headword>
+      <description>a car park.</description>
+    </item>
+    <item>
+      <headword id="idm109550384">dorn nasg</headword>
+      <description>a bracelet.</description>
+    </item>
+    <item>
+      <headword id="idm109548872">sorcair</headword>
+      <description>a cylinder.</description>
+    </item>
+    <item>
+      <headword id="idm108816312">beart</headword>
+      <description>engine.</description>
+    </item>
+    <item>
+      <headword id="idm108814800">loireag</headword>
+      <description>pancake.</description>
+    </item>
+    <item>
+      <headword id="idm108813288">lì ola</headword>
+      <description>paint.</description>
+    </item>
+    <item>
+      <headword id="idm108811776">cùbhran</headword>
+      <description>perfume.</description>
+    </item>
+    <item>
+      <headword id="idm108810264">iucharlan</headword>
+      <description>a piano.</description>
+    </item>
+    <item>
+      <headword id="idm108808752">measruich</headword>
+      <description>jam.</description>
+    </item>
+    <item>
+      <headword id="idm108807240">bioran bile</headword>
+      <description>lipstick.</description>
+    </item>
+    <item>
+      <headword id="idm108805728">sùghlach</headword>
+      <description>jelly.</description>
+    </item>
+    <item>
+      <headword id="idm108804216">lamhanart</headword>
+      <description>a napkin.</description>
+    </item>
+    <item>
+      <headword id="idm108802704">gearradan</headword>
+      <description>a notebook.</description>
+    </item>
+    <item>
+      <headword id="idm108801192">reoidhtean</headword>
+      <description>an ice cream.</description>
+    </item>
+    <item>
+      <headword id="idm108799680">cobhan</headword>
+      <description>a box.</description>
+    </item>
+    <item>
+      <headword id="idm108798168">luthair</headword>
+      <description>an athlete.</description>
+    </item>
+    <item>
+      <headword id="idm108796656">casbhrat</headword>
+      <description>a carpet.</description>
+    </item>
+    <item>
+      <headword id="idm108795144">sanais</headword>
+      <description>to whisper. “Cuir sanais na chluais.”</description>
+    </item>
+    <item>
+      <headword id="idm108793488">saighseagraich</headword>
+      <description>whispering, e.g. to each other.</description>
+    </item>
+    <item>
+      <headword id="idm108791976">staillard</headword>
+      <description>weighing instrument.</description>
+    </item>
+    <item>
+      <headword id="idm108789600">stàireachd</headword>
+      <description>aimlessly walking back and forth.</description>
+    </item>
+    <item>
+      <headword id="idm108788088">eacarsaich</headword>
+      <description>to fidget, nervous movement. “Dè an eacarsaich a tha ort an sin.”</description>
+    </item>
+    <item>
+      <headword id="idm108786432">mobhsgaideach</headword>
+      <description>a lazy, feckless person without any initiative.</description>
+    </item>
+    <item>
+      <headword id="idm108784920">breòite</headword>
+      <description>delicate.</description>
+    </item>
+    <item>
+      <headword id="idm108783408">deatamach</headword>
+      <description>anxious or solicitous.</description>
+    </item>
+    <item>
+      <headword id="idm108781896">cagarsaich</headword>
+      <description>whispering.</description>
+    </item>
+  </items>
+</fieldworkDocument>
+

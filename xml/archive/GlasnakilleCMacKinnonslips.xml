@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 1/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_GlasnakilleCMacKinnonslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>03/1970</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <note>[NOTES: in IPA transcriptions, the fieldworker uses [w] for [ɯ].]</note>
+  <informant>
+    <nameEnglish>Charlie MacKinnon</nameEnglish>
+  </informant>
+  <location>Skye, Glasnakille</location>
+  <items>
+    <item>
+      <headword id="idp115463176">móine</headword>
+      <description>Quotation: móine riabhach [mɔ̃:nʹəɾiɤɤx]. Notes: stringy peat.</description>
+    </item>
+    <item>
+      <headword id="idp115467568">muighlean</headword>
+      <description>[m[u̟i]lʹɛ̃ṉ] Quotation: muighlean feòir. Notes: a bundle of hay for a cow.</description>
+    </item>
+    <item>
+      <headword id="idp115470664">mullach</headword>
+      <description>Quotation: mullach a phuill. Notes: uncut area beside bank.</description>
+    </item>
+    <item>
+      <headword id="idp166463864">musal</headword>
+      <description>[mũ̟sɑɫ] Notes: muzzle (on a dog).</description>
+    </item>
+    <item>
+      <headword id="idp166465592">ròd</headword>
+      <description>Quotation: ròd buntàta. “Sin agad ròd math.” Notes: a row of potatoes.</description>
+    </item>
+    <item>
+      <headword id="idp166467248">ròpa</headword>
+      <description>Quotation: ropa [sic] ruadh. Notes: hemp rope.</description>
+    </item>
+    <item>
+      <headword id="idp166468904">iarunn</headword>
+      <description>Quotation: iarunn móine. Notes: only term used in Glas-na-cille.</description>
+    </item>
+    <item>
+      <headword id="idp166470560">plàta</headword>
+      <description>Notes: blanket of woven hemp put under pack-saddle.</description>
+    </item>
+    <item>
+      <headword id="idp166472072">prabag</headword>
+      <description>Notes: a “coil” of hay.</description>
+    </item>
+    <item>
+      <headword id="idp166473584">sabhal</headword>
+      <description>[soəɫ] Notes: barn.</description>
+    </item>
+    <item>
+      <headword id="idp166475312">sgaoil</headword>
+      <description>Quotation: a’ sgaoileadh an fheur. Notes: after it has been cut in swathes.</description>
+    </item>
+    <item>
+      <headword id="idp166476968">sgealb</headword>
+      <description>Notes: part of potato planted.</description>
+    </item>
+    <item>
+      <headword id="idp166478480">sgiath</headword>
+      <description>Notes: the “wing” of the plough.</description>
+    </item>
+    <item>
+      <headword id="idp166479992">sìneachan</headword>
+      <description>[ʃĩ:ṉɑxəṉ] Notes: drag-chains – from haimes to the “amall”.</description>
+    </item>
+    <item>
+      <headword id="idp166481720">sporan-feannaig</headword>
+      <description>Notes: spawn pouch found on shore.</description>
+    </item>
+    <item>
+      <headword id="idp166483232">stagh</headword>
+      <description>Quotation: feur air a’ stagh. Notes: swathe. Cut a lying in swathes because of bad weather.</description>
+    </item>
+    <item>
+      <headword id="idp166484960">stàile</headword>
+      <description>[sṯɑ:lə] Notes: cattle stall.</description>
+    </item>
+    <item>
+      <headword id="idp166486688">stàth</headword>
+      <description>Notes: swathe.</description>
+    </item>
+    <item>
+      <headword id="idp166488200">strian</headword>
+      <description>[st̪ɾĩɤ̃ṉ] Quotation: strian a’ chruinn. Notes: muzzle of the plough.</description>
+    </item>
+    <item>
+      <headword id="idp166490072">teinntean</headword>
+      <description>[tʹĩ:nhɛ̃ṉ] Notes: 4-5 peats lifted and leaning against each other.</description>
+    </item>
+    <item>
+      <headword id="idp166491800">tog</headword>
+      <description>Quotation: Tha mi a dol a thogail uime. Na thog thu man a bhuntàta? Notes: building up on either side of the potato shaws with earth.</description>
+    </item>
+    <item>
+      <headword id="idp166493456">triubhas</headword>
+      <description>Notes: cod roe.</description>
+    </item>
+    <item>
+      <headword id="idp166494968">tuidean</headword>
+      <description>[t̪u̟dʹɛ̃ṉ] Notes: stook (10-12 sheaves).</description>
+    </item>
+    <item>
+      <headword id="idp166496696">bearradh</headword>
+      <description>Notes: cliff.</description>
+    </item>
+    <item>
+      <headword id="idp166498208">broinn</headword>
+      <description>Quotation: broinn a’ phuill. Notes: cut area of peat beside bank.</description>
+    </item>
+    <item>
+      <headword id="idp166499864">buntàta</headword>
+      <description>Quotation: buntata [sic] tràth. Notes: early potatoes.</description>
+    </item>
+    <item>
+      <headword id="idp166501520">biorach</headword>
+      <description>Notes: two-year-old horse (male or female).</description>
+    </item>
+    <item>
+      <headword id="idp166503032">cabadh</headword>
+      <description>Quotation: a’ cabadh a’ bhuntàta. Notes: cleaning the potatoes with a hoe.</description>
+    </item>
+    <item>
+      <headword id="idp166504688">caibe</headword>
+      <description>Quotation: caibe-làir. Notes: flauchter spade.</description>
+    </item>
+    <item>
+      <headword id="idp166506344">caibe</headword>
+      <description>Notes: sock of the plough.</description>
+    </item>
+    <item>
+      <headword id="idp166507856">càrn</headword>
+      <description>Notes: a “hut” of corn made up of 15-20 stooks.</description>
+    </item>
+    <item>
+      <headword id="idp166509368">càrn</headword>
+      <description>Quotation: càrn geamhraidh. Notes: a stack of corn made in the yard.</description>
+    </item>
+    <item>
+      <headword id="idp166511024">ceannadach</headword>
+      <description>Notes: end-rig.</description>
+    </item>
+    <item>
+      <headword id="idp166512536">cioch</headword>
+      <description>Quotation: cioch na mnàtha sìthe [cıɔxṉəmṉɑ̃əʃi:ə]. Notes: sea anemone. [NOTES: slipped under ‘cioch-na-mnatha-sìthe’.]</description>
+    </item>
+    <item>
+      <headword id="idp166514552">cliatha</headword>
+      <description>[klıɤhə] Notes: harrows.</description>
+    </item>
+    <item>
+      <headword id="idp166516280">cliath</headword>
+      <description>Quotation: a’ cliathadh a’ bhuntàta. Notes: 6 weeks after planting.</description>
+    </item>
+    <item>
+      <headword id="idp166517936">cnaimh</headword>
+      <description>[krɛ̃:v] Notes: part of potato left unplanted.</description>
+    </item>
+    <item>
+      <headword id="idp166519664">coc</headword>
+      <description>[kɔxk] Notes: hay cock.</description>
+    </item>
+    <item>
+      <headword id="idp166521392">crann-slaod</headword>
+      <description>[kɾɑ̃n̪sɫw:d̪] Notes: sledge pulled by a horse. Usually “càrn-slaod”.</description>
+    </item>
+    <item>
+      <headword id="idp166523192">cridhe</headword>
+      <description>Quotation: cridhe mhónadh [kɾıəvɔ̃:ṉəɣ]. Notes: small stacks made on the bank for the winter. “Tughadh” put on with “sgrathan” or “plocan”.</description>
+    </item>
+    <item>
+      <headword id="idp166525064">cròcach</headword>
+      <description>[kɾɔ:xkɑx] Notes: put on calf to prevent it suckling. Usually a leather muzzle with a spike on it.</description>
+    </item>
+    <item>
+      <headword id="idp166526792">crogan-feannaig</headword>
+      <description>Notes: sea urchin.</description>
+    </item>
+    <item>
+      <headword id="idp166528304">croislean</headword>
+      <description>[kɾɔʃlʹɛ̃ṉ] Notes: crossbar of the flauchter-spade.</description>
+    </item>
+    <item>
+      <headword id="idp166530032">crudha</headword>
+      <description>Notes: horseshoe.</description>
+    </item>
+    <item>
+      <headword id="idp166531544">cù</headword>
+      <description>Quotation: cù eunaich. Notes: retriever.</description>
+    </item>
+    <item>
+      <headword id="idp166533200">dà-bhliadhnach</headword>
+      <description>[d̪ɑ:vɫw̃n̪ɑx] Notes: two-year-old cow before calving.</description>
+    </item>
+    <item>
+      <headword id="idp166534928">dàir</headword>
+      <description>Quotation: Tha i fo dhàir.</description>
+    </item>
+    <item>
+      <headword id="idp166536440">dais</headword>
+      <description>Quotation: dais fheòir. Notes: loaf-shaped hay-stack.</description>
+    </item>
+    <item>
+      <headword id="idp166538096">dubh-fhad</headword>
+      <description>Notes: 2nd layer of peat.</description>
+    </item>
+    <item>
+      <headword id="idp166539608">feurachd</headword>
+      <description>[fiɑɾɑxk] Quotation: Tha an crodh a feurachd. Notes: cropping the grass.</description>
+    </item>
+    <item>
+      <headword id="idp166541480">fiacail</headword>
+      <description>Notes: spike on harrow.</description>
+    </item>
+    <item>
+      <headword id="idp166542992">fòidear</headword>
+      <description>[fɔ:dʹɛɾ] Notes: the person who follows the plough turning the bits left unturned by the plough.</description>
+    </item>
+    <item>
+      <headword id="idp166544720">frasach</headword>
+      <description>[fɾɑsɑx] Notes: slatted wooden horse-box for feeding in stable. Fixture.</description>
+    </item>
+    <item>
+      <headword id="idp166546520">fuaidean</headword>
+      <description>Quotation: fuaidean a’ chruinn. Notes: plough-handles.</description>
+    </item>
+    <item>
+      <headword id="idp166548176">gàradh</headword>
+      <description>Notes: “wall” of peats on edge of bank.</description>
+    </item>
+    <item>
+      <headword id="idp166549688">geàrr</headword>
+      <description>Quotation: Tha e geàirrte. Notes: when there is a cold, cutting wind.</description>
+    </item>
+    <item>
+      <headword id="idp166551344">gobag</headword>
+      <description>Notes: hook on pack-saddle.</description>
+    </item>
+    <item>
+      <headword id="idp166552856">gobhar</headword>
+      <description>Quotation: gobhair arbhair. Notes: a sheaf.</description>
+    </item>
+  </items>
+</fieldworkDocument>

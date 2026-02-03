@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 11 9 14 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="AJSmith_SeilebostKFergusonmisc" docType="wordlist" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>June 1972</date>
+  <fieldworker>A. J. Smith</fieldworker>
+  <note>[NOTES: in IPA transcriptions, the fieldworker uses [w] for [ɯ].]</note>
+
+  <informant>
+    <nameEnglish>Mrs K. Ferguson</nameEnglish>
+    <origin>Stockinish</origin>
+  </informant>
+  <location>Harris, Seilebost, Post Office</location>
+  <items>
+    <item>
+      <headword id="idm37712240">griùireach</headword>
+      <description>[ɡɾu̟:ɾɑx] Quot.: a’ ghriùireach. Note: measles.</description>
+    </item>
+    <item>
+      <headword id="idm37612160">banachdach-bhreac</headword>
+      <description>Quot.: a’ bhanachdach-bhreac [əvɑ̃ṉɑxkɑxvɾɛk]. Note: smallpox. A’ bhanachdach – vaccination.</description>
+    </item>
+    <item>
+      <headword id="idm37632752">piocas</headword>
+      <description>[pȷwxkəs] Quot.: am piocas. Note: chickenpox.</description>
+    </item>
+    <item>
+      <headword id="idm37714616">triuthach</headword>
+      <description>Note: whooping-cough.</description>
+    </item>
+    <item>
+      <headword id="idm37709072">bàsmhor</headword>
+      <description>[bɑ:svɔɾ] Quot.: tinneas bàsmhor. Note: a fatal illness.</description>
+    </item>
+    <item>
+      <headword id="idm37711952">fiabhras-scàrlaid</headword>
+      <description>[fıɤɾəs-skɑ:ʴɫɑdʹ] Note: scarlet fever. [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+    <item>
+      <headword id="idm37645064">buidheach</headword>
+      <description>Quot.: a’ bhuidheach. Note: jaundice.</description>
+    </item>
+    <item>
+      <headword id="idm37632680">brollach</headword>
+      <description>[bɾɔɫɑx] Note: breast, chest.</description>
+    </item>
+    <item>
+      <headword id="idm37604312">miala-crion</headword>
+      <description>[mȷɤɫəkɾĩɤ̃ṉ] Note: chilblains.</description>
+    </item>
+    <item>
+      <headword id="idm37641320">losgadh-bràghad</headword>
+      <description>Note: indigestion, heartburn.</description>
+    </item>
+    <item>
+      <headword id="idm37621952">forc</headword>
+      <description>Note: cramp.</description>
+    </item>
+    <item>
+      <headword id="idm37595744">sàileagan</headword>
+      <description>[sɑ:ləɡɑṉ] Note: water-brash.</description>
+    </item>
+    <item>
+      <headword id="idm37604456">foinne</headword>
+      <description>[fonʹə] Note: wart.</description>
+    </item>
+    <item>
+      <headword id="idm37668896">niosgaid</headword>
+      <description>[nʹw̃sɡɑdʹ] Note: boil.</description>
+    </item>
+    <item>
+      <headword id="idm37654784">leigheas</headword>
+      <description>[lʹɛvəs] Note: healing.</description>
+    </item>
+    <item>
+      <headword id="idm37678904">leum-drama</headword>
+      <description>Note: dislocation in the spine – slipped disc?</description>
+    </item>
+    <item>
+      <headword id="idm37695248">rumatas</headword>
+      <description>[rũ̜mɑṯəs] Note: rheumatism.</description>
+    </item>
+    <item>
+      <headword id="idm37599560">fiabhras-rumatas</headword>
+      <description>[fiɤɾəsɾw̃mɑṯəs] Note: rheumatic fever.</description>
+    </item>
+    <item>
+      <headword id="idm37708136">losaid</headword>
+      <description>Quot.: “a’ dol as a losaid”. Note: dislocation of the hip-joint.</description>
+    </item>
+    <item>
+      <headword id="idm37606544">uga</headword>
+      <description>Note: collarbone.</description>
+    </item>
+    <item>
+      <headword id="idm37311848">frioghan</headword>
+      <description>[fɾıɣɑṉ] Note: ragnails.</description>
+    </item>
+  </items>
+</fieldworkDocument>

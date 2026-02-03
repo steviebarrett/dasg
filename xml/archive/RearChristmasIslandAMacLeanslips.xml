@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 23/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_RearChristmasIslandAMacLeanslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>05/1971</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <informant>
+    <nameEnglish>Mrs Annie Maclean</nameEnglish>
+  </informant>
+  <location>Canada, Rear Christmas Island</location>
+  <items>
+    <item>
+      <headword id="idp115465144">saoghal</headword>
+      <description>Quotation: Dé a’ saoghal a th’aice? Notes: How is she?</description>
+    </item>
+  </items>
+</fieldworkDocument>

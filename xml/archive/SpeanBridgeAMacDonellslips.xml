@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 27/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_SpeanBridgeAMacDonellslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>1975</date>
+  <informant>
+    <nameEnglish>Mrs Ann MacDonell</nameEnglish>
+  </informant>
+  <location>Spean Bridge</location>
+  <items>
+    <item>
+      <headword id="idp118691520">lodan</headword>
+      <description>Quotation: “Cha mhair reothadh an lodain làin.” (Proverb)</description>
+    </item>
+    <item>
+      <headword id="idp118693104">urra</headword>
+      <description>Quotation: urra bheag. 2. urra nam bochd. 3. urra dhiolain. Notes: 2. boarded out child. 3. illegitimate child.</description>
+    </item>
+    <item>
+      <headword id="idp118694832">càileadair</headword>
+      <description>Quotation: càileadair math. Notes: a good weather-prophet.</description>
+    </item>
+    <item>
+      <headword id="idp118696488">casan-fodair</headword>
+      <description>Notes: lines radiating from the sun through clouds.</description>
+    </item>
+    <item>
+      <headword id="idp118698000">ciste-mhin</headword>
+      <description>Quotation: ‘Ma thig ceò an earraich sìos cho fada ris a’ chiste-mhin, thig an sneachd ceart cho fada sin.’</description>
+    </item>
+    <item>
+      <headword id="idp118699512">fiacaill-mhara</headword>
+      <description>Notes: short rainbow supposed to portend stormy weather. ‘Dog’s tooth.’</description>
+    </item>
+    <item>
+      <headword id="idp118701024">fìdhleirean</headword>
+      <description>Quotation: Fìdhleirean Srath-Éirinn. Notes: term for strong, piercing east wind.</description>
+    </item>
+    <item>
+      <headword id="idp118702680">frimean-freamain</headword>
+      <description>Notes: small patch of varicose vein.</description>
+    </item>
+  </items>
+</fieldworkDocument>

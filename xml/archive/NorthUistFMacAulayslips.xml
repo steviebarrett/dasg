@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 7/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_NorthUistFMacAulayslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>1967-1988</date>
+  <fieldworker>[self?]</fieldworker>
+  <informant>
+    <nameEnglish>Fred MacAulay</nameEnglish>
+  </informant>
+  <location>North Uist</location>
+  <items>
+    <item>
+      <headword id="idp115753760">làmh</headword>
+      <description>Quotation: air an làmh bhàn. Notes: (heard in Lewis) a hire purchase, deferred payment.</description>
+    </item>
+    <item>
+      <headword id="idp115750664">riamalach</headword>
+      <description>Notes: slow to move. D. Archie MacDonald’s from riamannach.</description>
+    </item>
+    <item>
+      <headword id="idp115747424">rongach</headword>
+      <description>Notes: (Donald Archie MacDonald) slow to move.</description>
+    </item>
+    <item>
+      <headword id="idp115743968">prabalais</headword>
+      <description>Quotation: Thog i prabalais de Ghàidhlig. Notes: ‘smattering’.</description>
+    </item>
+    <item>
+      <headword id="idp115767728">puingreadh</headword>
+      <description>Quotation: puingreadh de chnatan. Notes: bad doze (e.g. of cold). (Word known in Skye.)</description>
+    </item>
+    <item>
+      <headword id="idp115769384">sgaileag</headword>
+      <description>Quotation: sgaileag(an) a’ bhuachair. Notes: mushrooms. Donald Archie MacDonald’s form: sgalagan-buachair also known as sgalag a’ bhuachaille.</description>
+    </item>
+    <item>
+      <headword id="idp115771040">sglungaid</headword>
+      <description>Notes: ‘smugaid mhòr uaine’.</description>
+    </item>
+    <item>
+      <headword id="idp115772552">sochaireach</headword>
+      <description>Notes: used in parts of Argyll in the sense of ‘imbecile’.</description>
+    </item>
+    <item>
+      <headword id="idp115774136">turtraich</headword>
+      <description>Quotation: Bha turtraich Bheurla aige. Notes: ‘a smattering’.</description>
+    </item>
+    <item>
+      <headword id="idp115775792">aithne</headword>
+      <description>Quotation: ’S mise chuir an aithne a chèile iad. Notes: introduced them to each other.</description>
+    </item>
+    <item>
+      <headword id="idp115777448">ballan</headword>
+      <description>Notes: barrel for catching water from roof.</description>
+    </item>
+    <item>
+      <headword id="idp115778960">bàn</headword>
+      <description>Quotation: air an làmh bhàn. Notes: (heard in Lewis) on hire purchase, deferred payment.</description>
+    </item>
+    <item>
+      <headword id="idp115780688">bròg</headword>
+      <description>Quotation: Chàin e gu bhrògan e. Notes: in phr. gu a bhrògan.</description>
+    </item>
+    <item>
+      <headword id="idp115782344">buinteagan</headword>
+      <description>Quotation: b(p)uinteagan. Notes: leaf of sealbhag.</description>
+    </item>
+    <item>
+      <headword id="idp115784000">deòthanach</headword>
+      <description>Quotation: deòthanach beag. Notes: used, e.g. of a small, feeble trout.</description>
+    </item>
+    <item>
+      <headword id="idp115785656">doichcleach</headword>
+      <description>Notes: (Scalpay word) shy.</description>
+    </item>
+    <item>
+      <headword id="idp115787168">duilean</headword>
+      <description>Quotation: an duilean. Notes: gift sent to mother when child was acknowledged; or, drink given when a newborn child was visited.</description>
+    </item>
+    <item>
+      <headword id="idp115788824">duilein</headword>
+      <description>Quotation: an duilein. Notes: N. Uist equivalent of ùrstan in Lewis – celebration of birth. From dubh-leann?</description>
+    </item>
+    <item>
+      <headword id="idp115790480">fudanadh</headword>
+      <description>Quotation: a’ fudanadh ’s a’ furaraich. Notes: expression used of being busy without achieving very much.</description>
+    </item>
+    <item>
+      <headword id="idp115792136">furaraich</headword>
+      <description>Quotation: a’ fudanadh ’s a’ furaraich. Notes: expression used of being busy without achieving very much.</description>
+    </item>
+    <item>
+      <headword id="idp115793792">gil</headword>
+      <description>Notes: (Harris word) watercourse running down side of mountain.</description>
+    </item>
+  </items>
+</fieldworkDocument>

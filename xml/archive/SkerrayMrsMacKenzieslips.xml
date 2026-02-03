@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 26/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_SkerrayMrsMacKenzieslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>1969</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <note>[NOTES: in IPA transcriptions, the fieldworker uses [w] for [ɯ].]</note>
+  <informant>
+    <nameEnglish>Mrs MacKenzie</nameEnglish>
+    <age>80s</age>
+  </informant>
+  <location>Sutherland, Bettyhill, Skerray</location>
+  <items>
+    <item>
+      <headword id="idp161846904">lanaid</headword>
+      <description>[ɫɑ̃ṉidʹ] Notes: churn stick.</description>
+    </item>
+    <item>
+      <headword id="idp161859792">leamhnad</headword>
+      <description>[ɫʹɑ̃ũ̟ṉəd̪] Notes: sty.</description>
+    </item>
+    <item>
+      <headword id="idp161861520">mèireag</headword>
+      <description>[mɛ̃:ɾɑɡ] Notes: a ball of yarn.</description>
+    </item>
+    <item>
+      <headword id="idp161863248">muigh</headword>
+      <description>[mũ̜i] Notes: churn.</description>
+    </item>
+    <item>
+      <headword id="idp161864976">mùran</headword>
+      <description>[mũ:ɾɑ̃ṉ] Notes: sea-bent, sometimes used for thatching.</description>
+    </item>
+    <item>
+      <headword id="idp161866704">ruifean</headword>
+      <description>[rufɑ̃ṉ] Notes: a strip of combed wool.</description>
+    </item>
+    <item>
+      <headword id="idp161868432">nùs</headword>
+      <description>Notes: first milk.</description>
+    </item>
+    <item>
+      <headword id="idp161869944">sguabag</headword>
+      <description>Notes: a sheaf.</description>
+    </item>
+    <item>
+      <headword id="idp161871456">stiùrag</headword>
+      <description>Notes: meal mixed with cold water and then hot water added.</description>
+    </item>
+    <item>
+      <headword id="idp161873040">stòrag</headword>
+      <description>[st̪ɔ:ɾɑɡ] Notes: a small “heap” of drying peats.</description>
+    </item>
+    <item>
+      <headword id="idp161874768">teamhar</headword>
+      <description>[tʹɑ̃ũ̜ɾ] Quotation: teamhair an fhoghair. Notes: time, season.</description>
+    </item>
+    <item>
+      <headword id="idp161876640">triuth-chasd</headword>
+      <description>Notes: whooping cough.</description>
+    </item>
+    <item>
+      <headword id="idp161878152">abhrad</headword>
+      <description>[ɤu̜rəd̪] Notes: eyelash.</description>
+    </item>
+    <item>
+      <headword id="idp161879880">ad</headword>
+      <description>Quotation: Cuir ad air mullach a’ stòrag.</description>
+    </item>
+    <item>
+      <headword id="idp161881392">aodach-cùmhnaidh</headword>
+      <description>[w:d̪ɑxkw̃:ṉi] Notes: best clothes, Sunday best.</description>
+    </item>
+    <item>
+      <headword id="idp161883120">breac</headword>
+      <description>Quotation: a’ bhreac. Notes: chickenpox.</description>
+    </item>
+    <item>
+      <headword id="idp161884776">buarach</headword>
+      <description>Notes: fetter.</description>
+    </item>
+    <item>
+      <headword id="idp161886288">ceangaladair</headword>
+      <description>[cɑ̃:ɫᵊd̪ɑɾ] Notes: same as crois-iarna.</description>
+    </item>
+    <item>
+      <headword id="idp161888016">copair-dubhaidh</headword>
+      <description>Notes: used in dyeing along with “logwood” to produce black.</description>
+    </item>
+    <item>
+      <headword id="idp161889528">cota-gorm</headword>
+      <description>[kɔt̪əɡɔɾɑm] Notes: tweed petticoat, not necessary of a blue colour.</description>
+    </item>
+    <item>
+      <headword id="idp161891256">crosgach</headword>
+      <description>[kɾɔsɡɑx] Quotation: Tha ’n eaglais crosgach an rathad. Notes: The church is across the road.</description>
+    </item>
+    <item>
+      <headword id="idp161893128">diùbhraig</headword>
+      <description>[dʹu̜:ɾiɡ] Quotation: Tha e [dʹu̜:ɾiɡʹu̜]. Notes: It differs.</description>
+    </item>
+    <item>
+      <headword id="idp161895216">eubhachdan</headword>
+      <description>[e:vɑxkəṉ] Quotation: na h-eubhachdan. Notes: reading the banns – 3rd, 2nd or 1st week before the wedding.</description>
+    </item>
+    <item>
+      <headword id="idp161897088">glùinean</headword>
+      <description>[ɡɫũ̜:nʹɑ̃ṉ] Notes: garter.</description>
+    </item>
+    <item>
+      <headword id="idp161898816">griaman</headword>
+      <description>[ɡɾĩɑ̃mɑ̃ṉ] Notes: a kind of lichen growing on stones, used in wool-dyeing to produce a green colour.</description>
+    </item>
+  </items>
+</fieldworkDocument>

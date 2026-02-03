@@ -1,0 +1,767 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 15 1 15 -->
+<!-- illustrations! -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="DRMorrisonetal_DurnessGMacKenzieagriculture" docType="questionnaire" subType="LandCultivation" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Àiteach / Agriculture</title>
+  <date>[1970]</date>
+  <fieldworker>[self]</fieldworker>
+  <note>[NOTES: the original title of the questionnaire is “Land Cultivation”.]</note>
+  <informant>
+    <nameEnglish>George MacKenzie</nameEnglish>
+    <age>67</age>
+    <origin>Assynt, Stoer</origin>
+  </informant>
+  <location>Sutherland, Lairg, Durness</location>
+  <items>
+    <item>
+      <headword id="d0e37" type="heading" level="h1">1. Land division and allocation</headword>
+    </item>
+    <item>
+      <headword id="d0e43" type="heading" level="h2">(a) Specific portions or allotments into which arable land is divided</headword>
+    </item>
+    <item>
+      <headword id="idp159393800">ged</headword>
+      <description>plot between two ditches. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp159398696">fannag</headword>
+      <description>small plot of cultivated land. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp159377888">pairk</headword>
+      <description>field – usually with some dyke. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp159376376">talamh “cork”</headword>
+      <description>corn field. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp159374864">talamh “butata”</headword>
+      <description>potato field. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp159373352">talamh “sneapin”</headword>
+      <description>turnip field. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp159371912">talamh glas</headword>
+      <description>ley ground. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp119888128">talamh dubh</headword>
+      <description>ground after potatoes are lifted. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="d0e121" type="heading" level="h2">(b) Various types of arable land</headword>
+    </item>
+	<item>
+	  <headword id="idola323">[note]</headword>
+	  <description>[NOTES: this page is missing. There are two pages with 1. (c) instead.]</description>
+	</item>
+    <item>
+      <headword id="d0e130" type="heading" level="h2">(c) Actual dividing and allocating of land, e.g. casting lots</headword>
+    </item>
+    <item>
+      <headword id="idp115760480">cur crinn</headword>
+      <description>casting lot.</description>
+    </item>
+    <item>
+      <headword id="d0e145" type="heading" level="h2">(d) Land owned or held under leases of various duration</headword>
+    </item>
+    <item>
+      <headword id="d0e151" type="heading" level="h1">2. Harness of a horse</headword>
+    </item>
+    <item>
+      <headword id="d0e157" type="heading" level="h2">(a) The harness of a horse as used in the performance of different tasks</headword>
+    </item>
+    <item>
+      <headword id="d0e163" type="heading" level="h2">(b) Different parts of the harness for carting</headword>
+    </item>
+    <item>
+      <headword id="idp115765448">strin</headword>
+      <description>bridle. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp115766960">a’ bit</headword>
+      <description>the bit. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp115768472">strathar</headword>
+      <description>saddle. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp115769984">diollaid</headword>
+      <description>riding saddle. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp115771496">briogais</headword>
+      <description>breeching. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp115773008">hemachin</headword>
+      <description>hames. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp115774520">a’ back-chain</headword>
+      <description>chain over saddle. (Stoer, Assynt) Like the back chain all the other names used are purely English.</description>
+    </item>
+    <item>
+      <headword id="idp115776248">plaid agus strathar</headword>
+      <description>saddle for two creels. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="d0e241" type="heading" level="h2">(c) Different parts of the harness for ploughing or harrowing</headword>
+    </item>
+    <item>
+      <headword id="d0e247" type="heading" level="h1">3. Carts</headword>
+    </item>
+    <item>
+      <headword id="d0e253" type="heading" level="h2">(a) The common farm-yard cart</headword>
+    </item>
+    <item>
+      <headword id="idp115780424">carn</headword>
+      <description>cart. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp115781936">carn coopigag</headword>
+      <description>couping cart. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="d0e277" type="heading" level="h2">(b) Different parts of a cart</headword>
+    </item>
+    <item>
+      <headword id="d0e283" type="heading" level="h3">1. Body</headword>
+    </item>
+    <item>
+      <headword id="idp115785176">bocus a’ coirn</headword>
+      <description>body of the cart. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp115786688">sparran</headword>
+      <description>beams. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp115788200">dorus toisach</headword>
+      <description>front door. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp115789712">dorus “dheiree”</headword>
+      <description>back door. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="d0e325" type="heading" level="h3">2. Trams</headword>
+    </item>
+    <item>
+      <headword id="idp115792088">na trammichan</headword>
+      <description>trams. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="d0e340" type="heading" level="h3">3. Wheel and axle</headword>
+    </item>
+    <item>
+      <headword id="idp115794896">cuile</headword>
+      <description>wheel.</description>
+    </item>
+    <item>
+      <headword id="idp115796408">aishel</headword>
+      <description>axle.</description>
+    </item>
+    <item>
+      <headword id="idp115797920">fillies</headword>
+      <description>felloes.</description>
+    </item>
+    <item>
+      <headword id="idp115799432">cergail</headword>
+      <description>iron ring round the felloes.</description>
+    </item>
+    <item>
+      <headword id="idp115800944">cioch</headword>
+      <description>nave.</description>
+    </item>
+    <item>
+      <headword id="idp115802456">tol na cioch</headword>
+      <description>hole in hub.</description>
+    </item>
+    <item>
+      <headword id="idp115803968">“carnel”</headword>
+      <description>axle pin.</description>
+    </item>
+    <item>
+      <headword id="d0e409" type="heading" level="h3">4. Decorations</headword>
+    </item>
+	<item>
+	  <headword id="idola324">[colours]</headword>
+	  <description>Usual colours of Stoer carts were: sides green or blue / wheels, top side boards and trams red.</description>
+	</item>
+    <item>
+      <headword id="d0e418" type="heading" level="h2">(c) Other words associated with carting</headword>
+    </item>
+    <item>
+      <headword id="idp115808432">cur a h-each as a carn</headword>
+      <description>(Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp115810160">leig a h-each as a carn</headword>
+      <description>(Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp115811672">trog a carn</headword>
+      <description>(Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="d0e451" type="heading" level="h1">4. The plough</headword>
+    </item>
+    <item>
+      <headword id="d0e457" type="heading" level="h2">(a) Different kinds of ploughs</headword>
+    </item>
+    <item>
+      <headword id="idp115815344">crann</headword>
+      <description>plough. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp115816856">crann “drellaig”</headword>
+      <description>double furrow or drilling plough. (Stoer, Assynt)</description>
+    </item>
+	<item>
+	  <headword id="idola325">[note]</headword>
+	  <description>Two horses always used in our ploughs.</description>
+	</item>
+    <item>
+      <headword id="d0e484" type="heading" level="h2">(b) Parts of a plough in detail</headword>
+    </item>
+    <item>
+      <headword id="idp115820096">stron a crinn</headword>
+      <description>part of plough for attaching swingle trees.</description>
+    </item>
+    <item>
+      <headword id="idp115821608">amal mor</headword>
+      <description>main or big swingle tree.</description>
+    </item>
+    <item>
+      <headword id="idp115823120">amal beag</headword>
+      <description>small swingle tree.</description>
+    </item>
+    <item>
+      <headword id="idp115824632">druim a crinn</headword>
+      <description>the back from the shafts to the nose of the plough.</description>
+    </item>
+    <item>
+      <headword id="idp115826144">a bord</headword>
+      <description>the board.</description>
+    </item>
+    <item>
+      <headword id="idp115827656">a sock</headword>
+      <description>the sock.</description>
+    </item>
+    <item>
+      <headword id="idp115829168">cooltir</headword>
+      <description>coltair [sic] [coulter].</description>
+    </item>
+    <item>
+      <headword id="idp115830680">na stiltachin</headword>
+      <description>the stilts or handles.</description>
+    </item>
+    <item>
+      <headword id="d0e562" type="heading" level="h1">5. Harrows and swingle trees</headword>
+    </item>
+    <item>
+      <headword id="d0e568" type="heading" level="h2">(a) Different types of harrows</headword>
+    </item>
+    <item>
+      <headword id="idp115833920">cliath</headword>
+      <description>harrow. Consisted of four wooden main beams with six cross beams. Probably eight tines (iron) in each row, about 32 tines each placed so that they ran in different runs. Pulled by one horse with one amal beag.</description>
+    </item>
+    <item>
+      <headword id="d0e583" type="heading" level="h2">(b) Swingle trees</headword>
+    </item>
+    <item>
+      <headword id="idp115836512">amal mor</headword>
+      <description>main swingle tree.</description>
+    </item>
+    <item>
+      <headword id="idp115838024">amal beag</headword>
+      <description>two small trees used.</description>
+    </item>
+    <item>
+      <headword id="idp115839536">na “tressachin”</headword>
+      <description>the iron chain traces.</description>
+    </item>
+    <item>
+      <headword id="idp115841048">na “dooanin”</headword>
+      <description>the “s” hooks.</description>
+    </item>
+    <item>
+      <headword id="d0e625" type="heading" level="h1">6. Spring work</headword>
+    </item>
+    <item>
+      <headword id="d0e631" type="heading" level="h2">(a) Fertilisers and fertilising</headword>
+    </item>
+    <item>
+      <headword id="d0e637" type="heading" level="h3">1. Fertilisers</headword>
+    </item>
+    <item>
+      <headword id="idp115845152">[“gooana”]</headword>
+      <description>in my young days all artificial fertilisers were collectively termed “gooana” (guano). Seldom used.</description>
+    </item>
+    <item>
+      <headword id="idp115846664">feamin dhearg</headword>
+      <description>red ware washed up on beaches. Each part of the shore was divided between every crofter. “Latha rinn na feamin” was a fertile source of bickering and the occasional fight!</description>
+    </item>
+    <item>
+      <headword id="idp115848392">feamin dubh</headword>
+      <description>the bladder and other types of seaweed which was cut with “corrans” and carried up in creels. Frequently went with boats to outlying islands to cut this ware. Always used for potato manure. Many boats lost through overloading.</description>
+    </item>
+    <item>
+      <headword id="idp115849904">“laigadal”</headword>
+      <description>the red tangle with long red fronds only obtained at spring tides – ( traigh “laingadal” [sic]). Generally used for turnip manure.</description>
+    </item>
+    <item>
+      <headword id="idp115851416">inneir</headword>
+      <description>dung (horse, cow or sheep dung).</description>
+    </item>
+    <item>
+      <headword id="d0e688" type="heading" level="h3">2. The actual work performed, e.g. transporting seaweed/manure to field</headword>
+    </item>
+    <item>
+      <headword id="idp115853792">crathadh inneir</headword>
+      <description>spreading dung.</description>
+    </item>
+    <item>
+      <headword id="d0e703" type="heading" level="h3">3. Implements used for lifting, carrying and spreading manure or seaweed</headword>
+    </item>
+    <item>
+      <headword id="idp115856168">grape</headword>
+      <description>fork.</description>
+    </item>
+    <item>
+      <headword id="idp115857680">claive</headword>
+      <description>creel.</description>
+    </item>
+    <item>
+      <headword id="idp115859192">barra</headword>
+      <description>barrow.</description>
+    </item>
+    <item>
+      <headword id="d0e736" type="heading" level="h2">(b) Turning and tilling the soil</headword>
+    </item>
+    <item>
+      <headword id="d0e742" type="heading" level="h3">1. Implements used for turning or tilling the soil</headword>
+    </item>
+    <item>
+      <headword id="idp115862432">spaad</headword>
+      <description>spade. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp115864376">grape</headword>
+      <description>fork. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp115866320">cas-chrom</headword>
+      <description>foot plough. (Stoer, Assynt) The last cas-crom [sic] I saw used in Stoer was over 60 years ago.<illustration src="DurnessGMacKenzieagricultureillust1.jpg" width="200px"/></description>
+    </item>
+    <item>
+      <headword id="d0e776" type="heading" level="h3">2. Parts of the implements used</headword>
+    </item>
+    <item>
+      <headword id="d0e782" type="heading" level="h3">3. Words used in connection with tilling the soil, e.g. digging</headword>
+    </item>
+    <item>
+      <headword id="idp115869992">rooar</headword>
+      <description>delving. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp115871504">kenivag</headword>
+      <description>end of “ged” left unploughed where the horses turned. Usually turned with the spade. (Rooar na kenivagin) (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="d0e806" type="heading" level="h2">(c) Seed planting</headword>
+    </item>
+    <item>
+      <headword id="d0e812" type="heading" level="h3">1. Names of seeds planted and words used for sowing or planting them</headword>
+    </item>
+    <item>
+      <headword id="idp115874960">“cork” dubh</headword>
+      <description>black or sandy oats. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp115876472">cork geal</headword>
+      <description>white oats usually the potato oat – a popular variety 50 years ago. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp115877984">eorna</headword>
+      <description>barley. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp115879496">butata dubh</headword>
+      <description>the old blue variety. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp115881008">butata geal</headword>
+      <description>favourite variety was the Champion before Kerr’s Pink. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="d0e863" type="heading" level="h3">2. Names of any special sack, basket etc. used for carrying seed when sowing or planting</headword>
+    </item>
+    <item>
+      <headword id="d0e869" type="heading" level="h3">3. Names of any special implement used for planting</headword>
+    </item>
+    <item>
+      <headword id="d0e875" type="heading" level="h1">7. Summer work</headword>
+    </item>
+    <item>
+      <headword id="d0e881" type="heading" level="h2">(a) Cleaning and weeding potatoes</headword>
+    </item>
+    <item>
+      <headword id="idp115885976">glanig a butata</headword>
+      <description>cleaning the potatoes. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp115887488">sgriobag a butata</headword>
+      <description>running the grubber or the hoe between rows. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp115889072">toaig a butata</headword>
+      <description>earthing potatoes. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="d0e914" type="heading" level="h2">(b) Thinning and weeding other crops</headword>
+    </item>
+    <item>
+      <headword id="idp115891448">tannag na sneapin</headword>
+      <description>thinning turnips.</description>
+    </item>
+    <item>
+      <headword id="d0e929" type="heading" level="h1">8. Autumn work</headword>
+    </item>
+    <item>
+      <headword id="d0e935" type="heading" level="h2">(a) Hay making</headword>
+    </item>
+    <item>
+      <headword id="d0e941" type="heading" level="h3">1. The implement used for (a) cutting (b) raking and turning (c) lifting and stacking</headword>
+    </item>
+    <item>
+      <headword id="idp120765696">speal</headword>
+      <description>scythe.</description>
+    </item>
+    <item>
+      <headword id="idp120767208">corran</headword>
+      <description>sickle – generally used for cutting grass out of ditches.</description>
+    </item>
+    <item>
+      <headword id="idp120768792">clach “blea”</headword>
+      <description>[sharpener] usually a sandstone.</description>
+    </item>
+    <item>
+      <headword id="idp120770304">clach georaichin</headword>
+      <description>[sharpener] usually a sandstone.</description>
+    </item>
+    <item>
+      <headword id="idp120771816">strake</headword>
+      <description>an oblong piece of wood with emery cloth on each side – now superseded with the Carborundum stones.</description>
+    </item>
+    <item>
+      <headword id="d0e992" type="heading" level="h3">2. Name the parts of the implements mentioned</headword>
+    </item>
+    <item>
+      <headword id="idp120774192">speal bheag</headword>
+      <description>the two handed American scythe. <illustration src="DurnessGMacKenzieagricultureillust2.jpg" width="200px"/></description>
+    </item>
+    <item>
+      <headword id="idp120775920">speal mhor</headword>
+      <description>the old Scots scythe. Seldom used. <illustration src="DurnessGMacKenzieagricultureillust3.jpg" width="200px"/></description>
+    </item>
+    <item>
+      <headword id="idp120777648">cas na speal</headword>
+      <description>the handle.</description>
+    </item>
+    <item>
+      <headword id="idp120779160">“fivor”</headword>
+      <description>the blade.</description>
+    </item>
+    <item>
+      <headword id="idp120780672">iarunn</headword>
+      <description>the blade.</description>
+    </item>
+    <item>
+      <headword id="d0e1045" type="heading" level="h3">3. Various stages of hay-making</headword>
+    </item>
+    <item>
+      <headword id="idp120783048">scara</headword>
+      <description>the swath.</description>
+    </item>
+    <item>
+      <headword id="idp120784560">dorrag</headword>
+      <description>hay cole [?].</description>
+    </item>
+    <item>
+      <headword id="d0e1069" type="heading" level="h2">(b) Corn cutting and securing</headword>
+    </item>
+    <item>
+      <headword id="d0e1075" type="heading" level="h3">1. Implements used for cutting, raking, binding, lifting into stacks etc.</headword>
+    </item>
+    <item>
+      <headword id="idp120787800">rackan</headword>
+      <description>rake. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp120789312">a’ fork</headword>
+      <description>the fork. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="d0e1099" type="heading" level="h3">2. Bands (for tying corn), sheaves, stooks etc.</headword>
+    </item>
+    <item>
+      <headword id="idp120791688">baun</headword>
+      <description>band – each house had its own different method of tying the bands handed down from the days of the rig-about system – when a storm might mix up sheaves from different rigs. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp120793200">scrooan</headword>
+      <description>stook: eight sheaves – four a side. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp120794712">tudan</headword>
+      <description>temporary stack. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="d0e1135" type="heading" level="h3">3. Stack making (in yard)</headword>
+    </item>
+    <item>
+      <headword id="idp120797952">larach na cruach</headword>
+      <description>stones on which stack was built.</description>
+    </item>
+    <item>
+      <headword id="idp120799464">annais</headword>
+      <description>when vertical height was reached and stack brought up to a point.</description>
+    </item>
+    <item>
+      <headword id="idp120800976">cridhe na cruich</headword>
+      <description>the centre.</description>
+    </item>
+    <item>
+      <headword id="idp120802488">toppas</headword>
+      <description>the last three sheaves tied together and trimmed to form a sharp point.</description>
+    </item>
+    <item>
+      <headword id="d0e1177" type="heading" level="h3">4. Methods of carrying or transporting corn from field to corn yard</headword>
+    </item>
+    <item>
+      <headword id="idp120804864">crooag</headword>
+      <description>taking home the corn to the stackyard or barn.</description>
+    </item>
+    <item>
+      <headword id="idp120806376">uallach-arbhar</headword>
+      <description>carrying corn on the back – tied with a rope.</description>
+    </item>
+    <item>
+      <headword id="d0e1201" type="heading" level="h2">(c) Potato lifting and storing</headword>
+    </item>
+    <item>
+      <headword id="d0e1207" type="heading" level="h3">1. Implements</headword>
+    </item>
+    <item>
+      <headword id="idp120809616">[“croman”]</headword>
+      <description>the “croman” was the most popular implement for lifting potatoes. Constructed like a small pick – broad blade with handle at right angle.<illustration src="DurnessGMacKenzieagricultureillust4.jpg" width="200px"/></description>
+    </item>
+    <item>
+      <headword id="d0e1223" type="heading" level="h3">2. Sack, creel, barrow etc. used for carrying potatoes in field and to steading</headword>
+    </item>
+    <item>
+      <headword id="d0e1229" type="heading" level="h3">3. Where potatoes are kept or stored</headword>
+    </item>
+    <item>
+      <headword id="idp120813072">poul butata</headword>
+      <description>pit – it was constructed by digging an oblong area about two yards long and 6" deep and two to three ft wide. Potatoes built up to a sharp point and covered with turf “scranan” – the heather side to the potatoes – and then covered by about 12" soil. About 3' high. In some sandy ground a round circular pit was dug about 5' deep and 3' dia. Took about 10 creels of potatoes. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="d0e1244" type="heading" level="h3">4. Potato diseases</headword>
+    </item>
+    <item>
+      <headword id="idp120815448">gasag</headword>
+      <description>any disease. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp120816960">lumag</headword>
+      <description>long thin shaws – usually caused by too much manure. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="d0e1268" type="heading" level="h2">(d) Other crops (Lifting and storing)</headword>
+    </item>
+    <item>
+      <headword id="d0e1274" type="heading" level="h3">1. Implements used for lifting</headword>
+    </item>
+    <item>
+      <headword id="d0e1280" type="heading" level="h3">2. How and where crop is stored</headword>
+    </item>
+    <item>
+      <headword id="d0e1286" type="heading" level="h3">3. Diseases/insects which attack the particular crop(s)</headword>
+    </item>
+    <item>
+      <headword id="d0e1292" type="heading" level="h1">9. Winter work</headword>
+    </item>
+    <item>
+      <headword id="d0e1298" type="heading" level="h2">(a) Land drainage</headword>
+    </item>
+    <item>
+      <headword id="d0e1304" type="heading" level="h3">1. Drains, ditches etc.</headword>
+    </item>
+    <item>
+      <headword id="idp120824520">deig</headword>
+      <description>usually a “leader” into which other drains ran.</description>
+    </item>
+    <item>
+      <headword id="idp120826032">drena</headword>
+      <description>an open drain.</description>
+    </item>
+    <item>
+      <headword id="idp120827544">drena douit</headword>
+      <description>closed drain – stone channels. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp120829056">drena vootach</headword>
+      <description>not common. Constructed in peaty soil. They dug until the peat was reached – about 18" wide and a peat was then lifted out of the centre about 9" wide, using a double bladed “tusker”. This was then covered with a heather sod and filled up. These drains lasted many years. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="d0e1346" type="heading" level="h3">2. Implements used</headword>
+    </item>
+    <item>
+      <headword id="idp120831648">reachar</headword>
+      <description>rutting spade. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp120833592">spaad</headword>
+      <description>spade. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp120835536">haake</headword>
+      <description>a fork with curved tines for hauling the sods out of the ditch. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp120837048">gialag</headword>
+      <description>crowbar. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp120838560">peek</headword>
+      <description>pick. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="d0e1397" type="heading" level="h2">(b) Potato cutting for seed</headword>
+    </item>
+    <item>
+      <headword id="d0e1403" type="heading" level="h3">1. Instruments used</headword>
+    </item>
+    <item>
+      <headword id="idp120841800">sgian</headword>
+      <description>knife. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp120843312">garrag siol butata</headword>
+      <description>cutting seed potatoes. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp120844824">scoltan</headword>
+      <description>part with best eyes retained for seed. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp120846336">gluan</headword>
+      <description>part rejected – used for feeding sheep and cattle and sometimes used for the table if potatoes were scarce. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="d0e1445" type="heading" level="h3">2. Different kinds of potatoes</headword>
+    </item>
+    <item>
+      <headword id="idp120848712">Champion</headword>
+    </item>
+    <item>
+      <headword id="idp120850224">Kerr’s Pink</headword>
+    </item>
+    <item>
+      <headword id="idp120851736">Golden Wonder</headword>
+    </item>
+    <item>
+      <headword id="idp120853248">[butata dubh]</headword>
+      <description>before the Champion was introduced well over 60 years ago, a dark blue variety with blue streaked flesh, called butata dubh, was generally used.</description>
+    </item>
+    <item>
+      <headword id="d0e1478" type="heading" level="h2">(c) Corn threshing</headword>
+    </item>
+    <item>
+      <headword id="d0e1484" type="heading" level="h3">1. Implements used</headword>
+    </item>
+    <item>
+      <headword id="idp120856488">mullin da laive</headword>
+      <description>hand threshing mill with handle on each side turned by two men. One man fed the sheaves into the mill.</description>
+    </item>
+    <item>
+      <headword id="idp120858000">mullin bualie</headword>
+      <description>[See mullin da laive.]</description>
+    </item>
+    <item>
+      <headword id="idp120859512">tuiste</headword>
+      <description>flail. Constructed of two circular pieces of hard wood joined together by a thong usually constructed of sheep skin. The part held by the thresher was about 3' and the striking part about 4' in length.</description>
+    </item>
+    <item>
+      <headword id="idp120861024">fannars</headword>
+    </item>
+    <item>
+      <headword id="d0e1523" type="heading" level="h3">2. Threshing</headword>
+    </item>
+    <item>
+      <headword id="idp120863400">bualag</headword>
+      <description>threshing.</description>
+    </item>
+    <item>
+      <headword id="idp120864912">[foddar-barrie]</headword>
+      <description>straw for thatching was never put through the mill. It was always threshed by the flail – tuiste [q.v.] – and called foddar-barrie.</description>
+    </item>
+    <item>
+      <headword id="d0e1547" type="heading" level="h2">(d) Grain winnowing</headword>
+    </item>
+    <item>
+      <headword id="d0e1553" type="heading" level="h3">1. Devices used</headword>
+    </item>
+    <item>
+      <headword id="idp120868152">criather</headword>
+      <description>sieve. (Stoer, Assynt) Latterly hand-turned fanners were used and merely called by the English name.</description>
+    </item>
+    <item>
+      <headword id="d0e1568" type="heading" level="h3">2. How constructed and materials used. Winnowing</headword>
+    </item>
+    <item>
+      <headword id="idp120870744">[criather]</headword>
+      <description>the criather was constructed by a skin – probably sheepskin – stretched on a wooden ring and holes burnt through the skin by a hot iron. (Stoer, Assynt)</description>
+    </item>
+    <item>
+      <headword id="idp120872256">fasganag</headword>
+      <description>winnowing.</description>
+    </item>
+    <item>
+      <headword id="d0e1592" type="heading" level="h1">10. Permanent structures/buildings for storing crops</headword>
+    </item>
+    <item>
+      <headword id="d0e1598" type="heading" level="h2">(a) Stack-yard</headword>
+    </item>
+    <item>
+      <headword id="idp120875496">lhioss avar (lios)</headword>
+      <description>stackyard.</description>
+    </item>
+    <item>
+      <headword id="d0e1613" type="heading" level="h2">(b) Barn and parts of a barn</headword>
+    </item>
+    <item>
+      <headword id="idp120877872">sooal</headword>
+      <description>barn.</description>
+    </item>
+    <item>
+      <headword id="d0e1628" type="heading" level="h1">11. Modern implements and machines</headword>
+    </item>
+    <item>
+      <headword id="idp120880248">a’ tractar</headword>
+      <description>the tractor.</description>
+    </item>
+    <item>
+      <headword id="idp120881760">a’ reepar</headword>
+      <description>reaper.</description>
+    </item>
+  </items>
+</fieldworkDocument>

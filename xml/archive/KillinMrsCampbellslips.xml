@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 7/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_KillinMrsCampbellslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>04/1968, 05/1968</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <informant>
+    <nameEnglish>Mrs Campbell</nameEnglish>
+  </informant>
+  <location>Perthshire, Killin</location>
+  <items>
+    <item>
+      <headword id="idp115744184">meug</headword>
+      <description>Quotation: Bàrr na meuig [bɑ:r ṉə mĩ:ɡʹ]. Notes: top of the “meug” taken with porridge if there was no milk.</description>
+    </item>
+    <item>
+      <headword id="idp115746200">ith</headword>
+      <description>Quotation: “Ith do bhagain leasaich agus cuir saluinn air do ghiaban.” Notes: cheeky saying for “away you go”.</description>
+    </item>
+    <item>
+      <headword id="idp115747856">bigean</headword>
+      <description>[biɡʹɛṉ] Notes: young chick (maybe a Mull word).</description>
+    </item>
+    <item>
+      <headword id="idp115749584">cnèaban</headword>
+      <description>[kɾɛ̃:bɑṉ] Notes: stool.</description>
+    </item>
+  </items>
+</fieldworkDocument>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 7/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_MullNMacLeanslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>1967</date>
+  <informant>
+    <nameEnglish>Neil MacLean</nameEnglish>
+  </informant>
+  <location>Mull</location>
+  <items>
+    <item>
+      <headword id="idp119243376">riasg</headword>
+      <description>Notes: coarse grass that flourishes in the spring.</description>
+    </item>
+    <item>
+      <headword id="idp119244888">aorachdan</headword>
+      <description>Notes: peewit.</description>
+    </item>
+    <item>
+      <headword id="idp119246400">clabhraich</headword>
+      <description>Quotation: Coir’ a’ Chlabhraich (east of Ben Nevis). Notes: moaning, weeping. Place said to have taken its name from beheading of Lochiel wrongdoers.</description>
+    </item>
+    <item>
+      <headword id="idp119248128">fathad (?)</headword>
+      <description>Notes: help; assistance.</description>
+    </item>
+    <item>
+      <headword id="idp119249640">fionn-raineach</headword>
+    </item>
+    <item>
+      <headword id="idp119251152">glìobraich shneachd</headword>
+      <description>Notes: sleet.</description>
+    </item>
+  </items>
+</fieldworkDocument>

@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 1/10/15 -->
+<!-- illustration -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_GlendaleANicolsonslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>06/1970</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <informant>
+    <nameEnglish>A. Nicolson</nameEnglish>
+  </informant>
+  <location>Glendale</location>
+  <items>
+    <item>
+      <headword id="idp166439352">laogh-biadhta</headword>
+      <description>Notes: a stuffed calf.</description>
+    </item>
+    <item>
+      <headword id="idp166441008">liùgh</headword>
+      <description>Notes: lythe.</description>
+    </item>
+    <item>
+      <headword id="idp166444968">losgann</headword>
+      <description>Notes: toad.</description>
+    </item>
+    <item>
+      <headword id="idp166448784">losgann</headword>
+      <description>sledge (horse-drawn).</description>
+    </item>
+    <item>
+      <headword id="idp166514088">màthair-an-duilisg</headword>
+      <description>Notes: Irish moss.</description>
+    </item>
+    <item>
+      <headword id="idp166511856">mula-mhàgag</headword>
+      <description>Notes: frog.</description>
+    </item>
+    <item>
+      <headword id="idp166510200">mún-dearg</headword>
+      <description>Notes: redwater in cattle.</description>
+    </item>
+    <item>
+      <headword id="idp166508544">ath-theinnde</headword>
+      <description>[ɑhĩnʹdʹə] Notes: half-burnt peat.</description>
+    </item>
+    <item>
+      <headword id="idp166507104">iomair-taomaidh</headword>
+      <description>Notes: lazy-bed.</description>
+    </item>
+    <item>
+      <headword id="idp166505448">piunnd</headword>
+      <description>Notes: mint.</description>
+    </item>
+    <item>
+      <headword id="idp166503936">puthag</headword>
+      <description>Notes: porpoise.</description>
+    </item>
+    <item>
+      <headword id="idp166502856">salachar</headword>
+      <description>Notes: afterbirth.</description>
+    </item>
+    <item>
+      <headword id="idp166501344">sgeth-mulamhàgag</headword>
+      <description>Notes: frog spawn.</description>
+    </item>
+    <item>
+      <headword id="idp166500120">sgonnan</headword>
+      <description>Quotation: sgonnan na coise-cruime. Notes: the foot-rest of the cas-chrom.</description>
+    </item>
+    <item>
+      <headword id="idp166498464">sgrogag</headword>
+      <description>Quotation: sgrogag na coise-cruime. Notes: the foot-rest on a cas-chrom. (also sgonnan)</description>
+    </item>
+    <item>
+      <headword id="idp166496520">sloc</headword>
+      <description>Quotation: sloc bhuntàta. Notes: outside pit. (tòrr also used)</description>
+    </item>
+    <item>
+      <headword id="idp166493352">tàbh</headword>
+      <description>Notes: landing net.</description>
+    </item>
+    <item>
+      <headword id="idp166491696">tarsann</headword>
+      <description>Quotation: tarsannan na cléitheadh. Notes: cross-beams of harrows.</description>
+    </item>
+    <item>
+      <headword id="idp166489968">teum</headword>
+      <description>[tʹɤ:m] Notes: jerk.</description>
+    </item>
+    <item>
+      <headword id="idp166488096">tòrr</headword>
+      <description>Quotation: tòrr buntàta. Notes: outside pit. (also sloc bhuntàta)</description>
+    </item>
+    <item>
+      <headword id="idp166488888">treana-ri-trian</headword>
+      <description>[t̪ɾɛ̃ṉəɾit̪ɾĩɑ̃ṉ] Notes: corncrake.</description>
+    </item>
+    <item>
+      <headword id="idp166484856">truimean</headword>
+      <description>[t̪ɾɤ̃mɑṉ] Notes: a lead sinker.</description>
+    </item>
+    <item>
+      <headword id="idp166483128">tuaicheal</headword>
+      <description>[t̪u̟ɤçɑɫ] Notes: water on the brain in sheep.</description>
+    </item>
+    <item>
+      <headword id="idp166481616">uan-biadhta</headword>
+      <description>Notes: a lamb covered by the skin of another.</description>
+    </item>
+    <item>
+      <headword id="idp166479888">bacach</headword>
+      <description>[bɑxkɑx] Notes: turbot.</description>
+    </item>
+    <item>
+      <headword id="idp166478376">baclag</headword>
+      <description>[bɑxkɫɑɡ] Notes: sprout growing on potatoes. See bachallag.</description>
+    </item>
+    <item>
+      <headword id="idp166477872">balachan</headword>
+      <description>Notes: dim. of “balach”.</description>
+    </item>
+    <item>
+      <headword id="idp166476216">bànag</headword>
+      <description>Notes: grilse.</description>
+    </item>
+    <item>
+      <headword id="idp166475136">bonnach-gropaidh</headword>
+      <description>Notes: same mixture as ceann-cropaic but not boiled in fish-head.</description>
+    </item>
+    <item>
+      <headword id="idp166474056">brac</headword>
+      <description>[bɾɑxk] Notes: fox’s den. (See braclach.)</description>
+    </item>
+    <item>
+      <headword id="idp166471896">bradan-leathainn</headword>
+      <description>Notes: halibut.</description>
+    </item>
+    <item>
+      <headword id="idp166470384">bratag-bhuntàta</headword>
+      <description>Notes: white worm with a red head.</description>
+    </item>
+    <item>
+      <headword id="idp166469160">breac</headword>
+      <description>Notes: salmon.</description>
+    </item>
+    <item>
+      <headword id="idp166467648">brìg</headword>
+      <description>[bɾi:ɡʹ] Quotation: brìg bhuntàta. Notes: heap of potatoes inside, e.g. in the corner of the barn.</description>
+    </item>
+    <item>
+      <headword id="idp166463760">caillt</headword>
+      <description>Quotation: Tha iad uamhasach caillt air talamh. Notes: speaking of moles – destructive.</description>
+    </item>
+    <item>
+      <headword id="idp166464120">càrnag</headword>
+      <description>Notes: the dark-coloured eel found in near the shore.</description>
+    </item>
+    <item>
+      <headword id="idp167327584">carrachan</headword>
+      <description>Notes: Irish Moss.</description>
+    </item>
+    <item>
+      <headword id="idp167329096">ceanna-phollan</headword>
+      <description>Notes: tadpole.</description>
+    </item>
+    <item>
+      <headword id="idp167330608">ceann-cuiligean</headword>
+      <description>[cɑn̪ku̟liɡʹɑ̃ṉ] Notes: heard this for the sheaf put at the very tip of a stack to make it pointed.</description>
+    </item>
+    <item>
+      <headword id="idp167332336">cearc-ghreannach</headword>
+      <description>Quotation: cearcan-greannach. Notes: a breed of small hens which had erect feathers.</description>
+    </item>
+    <item>
+      <headword id="idp167333992">claimheag</headword>
+      <description>Notes: a small eel found at the mouth of a river.</description>
+    </item>
+    <item>
+      <headword id="idp167335504">clupad</headword>
+      <description>Notes: fluke disease in cattle and sheep.</description>
+    </item>
+    <item>
+      <headword id="idp167337016">cnaimh-runnach</headword>
+      <description>Notes: horse mackerel.</description>
+    </item>
+    <item>
+      <headword id="idp167338528">coilleach-cràigean (sic)</headword>
+      <description>[kɤlʹɔxkɾɑ:ɡʹɑ̃ṉ] Notes: sheaf put at the very top of a cornstack to make it pointed.</description>
+    </item>
+    <item>
+      <headword id="idp167340256">corrachan</headword>
+      <description>[kɔrɔxɑ̃ṉ] Notes: plant with an edible root – like a nut. Small red flower growing on it.</description>
+    </item>
+    <item>
+      <headword id="idp167341984">cragan-feannaig</headword>
+      <description>Notes: sea-urchin.</description>
+    </item>
+    <item>
+      <headword id="idp167343496">darach</headword>
+      <description>[d̪ɑɾɑx] Notes: line used for mackerel fishing – pulled up and let down. </description>
+    </item>
+    <item>
+      <headword id="idp167345224">druidte</headword>
+      <description>Notes: watertight.</description>
+    </item>
+    <item>
+      <headword id="idp167346736">duineachan</headword>
+      <description>Notes: dim. of duine.</description>
+    </item>
+    <item>
+      <headword id="idp167348248">easgann</headword>
+      <description>Notes: the conger eel caught out in deep water.</description>
+    </item>
+    <item>
+      <headword id="idp167349760">falmair</headword>
+      <description>Notes: hake.</description>
+    </item>
+    <item>
+      <headword id="idp167351272">geallag</headword>
+      <description>Notes: sea-trout.</description>
+    </item>
+  </items>
+</fieldworkDocument>

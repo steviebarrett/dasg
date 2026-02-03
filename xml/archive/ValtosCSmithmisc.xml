@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 11 9 14 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="AJSmith_ValtosCSmithmisc" docType="wordlist" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>May 1972</date>
+  <fieldworker>A. J. Smith</fieldworker>
+  <informant>
+    <nameEnglish>Miss C. Smith</nameEnglish>
+    <origin>Uig</origin>
+  </informant>
+  <location>Lewis, Uig, Valtos</location>
+  <items>
+    <item>
+      <headword id="idp118750712">làmhchara</headword>
+      <description>[ɫɑ̃:xɑɾə] Quot.: “Tha e glé làmhchara.” Note: “He’s good with his hands.”</description>
+    </item>
+    <item>
+      <headword id="idp118717952">stailleard</headword>
+      <description>[st̪ɑlʹɑʴḏ] Note: spring balance. [NOTES: the turned r used for the symbol which is unclear in the original.]</description>
+    </item>
+    <item>
+      <headword id="idp118770728">préileadh</headword>
+      <description>[pɾe:ləɣ] Quot.: “Tha thu a’ préileadh an diugh.” Note: used of mending clothes.</description>
+    </item>
+    <item>
+      <headword id="idp118781816">gràsd</headword>
+      <description>[ɡɾɑ:sd̪] Quot.: “’S e duine gràsd a tha sud.” Note: ugly.</description>
+    </item>
+    <item>
+      <headword id="idp118717664">giulla</headword>
+      <description>Quot.: “An ann a giulla a fhuair thu ’n t-iasg sin?” “Eil thu dol a’ ghiulla a nochd?” (iulla – ?) Note: fly-fishing (sea).</description>
+    </item>
+    <item>
+      <headword id="idp118765112">searbhadair</headword>
+      <description>Note: used for a towel by older people. “Tubhailt” more common now.</description>
+    </item>
+    <item>
+      <headword id="idp118838048">rosglach</headword>
+      <description>[rɔsɡɫɑx] Quot.: “là rosglach”. Note: cloudy with bright periods. Showery.</description>
+    </item>
+    <item>
+      <headword id="idp118777352">norrant</headword>
+      <description>[n̪ɔrɑn̪t̪] Quot.: “là norrant”. Note: a blustery day.</description>
+    </item>
+    <item>
+      <headword id="idp118739408">glaine-shìde</headword>
+      <description>Note: barometer.</description>
+    </item>
+    <item>
+      <headword id="idp118769432">slinnteach</headword>
+      <description>Quot.: “slinnteach shneachd”. Note: mixture of snow and rain.</description>
+    </item>
+    <item>
+      <headword id="idp118780520">fàilligeach</headword>
+      <description>Quot.: duine fàilligeach. Note: a man who is physically ailing.</description>
+    </item>
+    <item>
+      <headword id="idp118830848">stem</headword>
+      <description>[sṯɛ̃m] Quot.: “Cha dean mi stem dheth.” Note: “I can’t make anything of it.” Often used when one sees a person whom one can’t identify.</description>
+    </item>
+    <item>
+      <headword id="idp118796864">drabhcan</headword>
+      <description>Quot.: “drabhcan uisge”. Note: very light drizzle.</description>
+    </item>
+    <item>
+      <headword id="idp118735088">gil-géirig</headword>
+      <description>[ɡʹılʹɡʹe:ðiɡʹ] Note: her pronunciation of “diol-déirc”.</description>
+    </item>
+    <item>
+      <headword id="idp118832648">pearraid</headword>
+      <description>[pȷɑrɑdʹ] Note: term used for a cheeky young girl.</description>
+    </item>
+    <item>
+      <headword id="idp118784768">teasach</headword>
+      <description>Quot.: “an teasach shiataig”. Note: rheumatic fever.</description>
+    </item>
+    <item>
+      <headword id="idp118716656">ciste-chaol</headword>
+      <description>Note: a wooden seat which could open like an ottoman. Working clothes usually kept in it.</description>
+    </item>
+    <item>
+      <headword id="idp118715864">còta</headword>
+      <description>Quot.: “còta-sàbhalaidh”. Note: for best wear.</description>
+    </item>
+    <item>
+      <headword id="idp118802768">bròg</headword>
+      <description>Quot.: brogan [sic] tionndaidh. Note: thinks they were made of hide – possibly turned inside out to have hair inside.</description>
+    </item>
+    <item>
+      <headword id="idp118731272">stocainn</headword>
+      <description>Quot.: “stocainnean-dùil-ris”. Note: made by young ladies for their bottom drawer. Left half-closed till the size of the man’s foot was known.</description>
+    </item>
+  </items>
+</fieldworkDocument>

@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 23 4 14 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="HarrisVarious_HarrisHorgabostDMacDonaldcoltas" docType="questionnaire" subType="ColtasAnDuine" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Coltas an Duine / Personal Appearance</title>
+  <fieldworker>[anonymous D]</fieldworker>
+  <note>[NOTES: second informant (NM) identified on the last page as Norman MacLeod from Leverburgh. It seems that items provided by Donald MacDonald are in black ink, and those provided by Norman MacLeod in blue.]</note>
+  <informant>
+    <nameEnglish>Donald MacDonald</nameEnglish>
+    <age>62</age>
+  </informant>
+  <location>Na Hearadh [Harris], Horgabost</location>
+  <items>
+    <item><headword id="d0e29" type="heading" level="h1">Shapes and general appearance</headword></item>
+    <item>
+      <headword id="d0e34">duine deanta</headword>
+      <description>well built.</description>
+    </item>
+    <item>
+      <headword id="d0e43">duine caileanta</headword>
+      <description>well built.</description>
+    </item>
+    <item>
+      <headword id="d0e52">duine foghainteach</headword>
+      <description>well built.</description>
+    </item>
+    <item>
+      <headword id="d0e61">gaisgeach</headword>
+      <description>giant.</description>
+    </item>
+    <item>
+      <headword id="d0e70">cuile bhìd</headword>
+      <description>midget.</description>
+    </item>
+    <item>
+      <headword id="d0e79">meagalan</headword>
+      <description>duine beag.</description>
+    </item>
+    <item>
+      <headword id="d0e88">duine meangach</headword>
+      <description>thin person.</description>
+    </item>
+    <item>
+      <headword id="d0e97">duine meadhte</headword>
+      <description>thin, delicate person.</description>
+    </item>
+    <item><headword id="d0e105" type="heading" level="h2">(N)</headword><description>[orman] M[acLeod] </description></item>
+    <item>
+      <headword id="d0e110">seang</headword>
+      <description>thin.</description>
+    </item>
+    <item>
+      <headword id="d0e119">cruchaill</headword>
+    </item>
+    <item>
+      <headword id="d0e125">glugaire</headword>
+      <description>daoine mor cliobach.</description>
+    </item>
+    <item>
+      <headword id="d0e134">d sgairteil</headword>
+    <description>[uine] </description></item>
+    <item>
+      <headword id="d0e140">d deas</headword>
+      <description>[uine] duine direach, mor, tapaidh.</description>
+    </item>
+    <item>
+      <headword id="d0e149">fuamhair</headword>
+      <description>giant.</description>
+    </item>
+    <item>
+      <headword id="d0e158">ciuraidh</headword>
+      <description>[?] giant.</description>
+    </item>
+    <item>
+      <headword id="d0e167">troich</headword>
+    </item>
+    <item>
+      <headword id="d0e173">doiteach</headword>
+      <description>[?] duine deanta gun a bhi ro àrd, ‘stocky’.</description>
+    </item>
+    <item>
+      <headword id="d0e182">cnagan</headword>
+      <description>duine beag tabaidh.</description>
+    </item>
+    <item>
+      <headword id="d0e191">nighean gnùic</headword>
+      <description>“nach ann orra [sic] tha a gnùig [sic]” – a sullen looking girl; also bashful.</description>
+    </item>
+    <item><headword id="d0e199" type="heading" level="h1">Deformities, blemishes, scars</headword></item>
+    <item>
+      <headword id="d0e204">(n) eitig, tha eitig ann</headword>
+      <description>duine truagh nach eil fallain.</description>
+    </item>
+    <item>
+      <headword id="d0e213">giùig</headword>
+      <description>hunchback, duine air a bheil giùig.</description>
+    </item>
+    <item>
+      <headword id="d0e222">gàileach</headword>
+      <description>roof of mouth.</description>
+    </item>
+    <item>
+      <headword id="d0e231">gaileach  ribeach</headword>
+      <description>[sic] (a chaileach ribeach) craicean a tighinn sios bho’n gaileach.</description>
+    </item>
+    <item><headword id="d0e239" type="heading" level="h2">(N)</headword><description>[orman] M[acLeod] </description></item>
+    <item>
+      <headword id="d0e244">duine crotach</headword>
+      <description>hunchback.</description>
+    </item>
+    <item>
+      <headword id="d0e253">d ciorramach</headword>
+      <description>[uine] disabled person.</description>
+    </item>
+    <item>
+      <headword id="d0e262">aodann plugach</headword>
+      <description>pock marked face.</description>
+    </item>
+    <item>
+      <headword id="d0e271">niosgaid</headword>
+      <description>boil, carbuncle, usually on back of neck.</description>
+    </item>
+    <item>
+      <headword id="d0e280">guirean</headword>
+      <description>pimple.</description>
+    </item>
+    <item>
+      <headword id="d0e289">fiaranaich</headword>
+      <description>cross-eyed, “fiaranaich na shùil”.</description>
+    </item>
+    <item>
+      <headword id="d0e298">duine cam</headword>
+      <description>one-eyed person.</description>
+    </item>
+    <item>
+      <headword id="d0e307">failmean</headword>
+      <description>knee cap.</description>
+    </item>
+    <item>
+      <headword id="d0e316">iosgaidan</headword>
+      <description>[sic] tendons behind knee and thigh, cùl na coiseadh.</description>
+    </item>
+    <item>
+      <headword id="d0e325">caoldrum</headword>
+      <description>narrowing of back.</description>
+    </item>
+    <item>
+      <headword id="d0e334">clàragan</headword>
+      <description>front teeth.</description>
+    </item>
+    <item>
+      <headword id="d0e343">cùlagan</headword>
+      <description>back teeth.</description>
+    </item>
+    <item><headword id="d0e351" type="heading" level="h1">Beauty and ugliness</headword></item>
+    <item>
+      <headword id="d0e356">duine iargalta</headword>
+      <description>ugly man.</description>
+    </item>
+    <item><headword id="d0e364" type="heading" level="h2">(N)</headword><description>[orman] M[acLeod] </description></item>
+    <item>
+      <headword id="d0e369">nighean snasail</headword>
+      <description>well dressed girl.</description>
+    </item>
+    <item>
+      <headword id="d0e378">duine grìnn</headword>
+      <description>well dressed man.</description>
+    </item>
+    <item>
+      <headword id="d0e387">aileagan</headword>
+      <description>[aiteagan?] good looking girl.</description>
+    </item>
+    <item>
+      <headword id="d0e396">duine deas</headword>
+      <description>handsome man.</description>
+    </item>
+    <item>
+      <headword id="d0e405">nighean chumachdail</headword>
+      <description>shapely girl.</description>
+    </item>
+    <item>
+      <headword id="d0e414">duine dreachail</headword>
+      <description>duine ruadh as an adhaigh.</description>
+    </item>
+    <item>
+      <headword id="d0e423">droch dhreach</headword>
+      <description>poorly looking.</description>
+    </item>
+    <item>
+      <headword id="d0e432">duine le “dath a bhais”</headword>
+      <description>deathly appearance.</description>
+    </item>
+    <item>
+      <headword id="d0e441">sgraing</headword>
+      <description>a scowl.</description>
+    </item>
+    <item>
+      <headword id="d0e450">sturaichd</headword>
+      <description>a scowl.</description>
+    </item>
+    <item>
+      <headword id="d0e459">“chaidh e cho geal ris an anart”</headword>
+      <description>his face turned white as a sheet.</description>
+    </item>
+    <item>
+      <headword id="d0e468">daorach</headword>
+      <description>“nach ann air a tha an daorach” – someone very drunk, “air an daoraich”.</description>
+    </item>
+    <item>
+      <headword id="d0e477">misgear</headword>
+      <description>drunkard.</description>
+    </item>
+    <item>
+      <headword id="d0e486">camagan</headword>
+      <description>curls.</description>
+    </item>
+    <item>
+      <headword id="d0e495">falt camagach</headword>
+      <description>curly hair.</description>
+    </item>
+    <item><headword id="d0e503" type="heading" level="h1">Strength, fitness and the opposite</headword></item>
+    <item><headword id="d0e507" type="heading" level="h1">Ways of walking, sitting, lying</headword></item>
+	<item><headword id="d0e511" type="heading" level="h2">[Norman MacLeod]</headword></item>
+    <item>
+      <headword id="d0e516">coiseachd le ceum goirid</headword>
+    </item>
+    <item>
+      <headword id="d0e522">coiseachd le ceum fada</headword>
+    </item>
+    <item>
+      <headword id="d0e528">duine spagach</headword>
+      <description>a clumsy, gangly man.</description>
+    </item>
+    <item><headword id="d0e536" type="heading" level="h1">Pulling faces, frowns, other expressions</headword></item>
+	<item><headword id="d0e540" type="heading" level="h2">[Norman MacLeod]</headword></item>
+    <item>
+      <headword id="d0e545">“dreun air aodann”</headword>
+      <description>pulling a face.</description>
+    </item>
+    <item><headword id="d0e553" type="heading" level="h1">Clean and untidy</headword></item>
+	<item><headword id="d0e557" type="heading" level="h2">(Norman MacLeod)</headword></item>
+    <item>
+      <headword id="d0e562">duine sgiobalta</headword>
+    </item>
+    <item>
+      <headword id="d0e568">boireannach luideach</headword>
+      <description>untidy woman.</description>
+    </item>
+    <item>
+      <headword id="d0e577">rinn e gulm dhe</headword>
+      <description>rinn e bùrach dhe.</description>
+    </item>
+    <item>
+      <headword id="d0e586">cearbach</headword>
+      <description>ragged, clumsy, untidy.</description>
+    </item>
+    <item>
+      <headword id="d0e595">rapach</headword>
+      <description>ragged.</description>
+    </item>
+  </items>
+</fieldworkDocument>

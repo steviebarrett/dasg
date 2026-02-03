@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 13 4 14 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="TireeandMull_TireeScarinishDMacPheehouse" docType="questionnaire" subType="SomeTermsOfOldTireeHouses" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Taigh Gàidhealach / House and Furnishings</title>
+  <fieldworker>Alan Boyd</fieldworker>
+  <note>[NOTES: the original title of the list is “Some Terms of Old Tiree Houses”.]</note> 
+  <note>[NOTES: note on the reverse side of the first page ‘collected from Duncan MacPhee (Scarinish) – information from Alan Boyd, 15 July 2008 (R. Ó Maolalaigh)’.]</note>
+  <informant>
+    <nameEnglish>Duncan MacPhee</nameEnglish>
+  </informant>
+  <location>[Tiree, Scarinish]</location>
+  <items>
+    <item>
+	  <headword id="d0e30">Old Tiree house</headword>
+	  <description><illustration src="TireeScarinishDMacPheehouseillust1.jpg" width="600"/>1. Gluta (dh). 2. Am balla-mach. 3. Am balla-staigh. 4. Tobhta. 5. Na buadhan. 6. (Na) Ceann a’ mhaidean. 7. Na taobhan (àrd is ìseal). 8. Sparr tharsainn. 9. Na cabair. 10. Sgrothan. 11. Spallachan. 12. Lobhta. 13. Am balla beag. 14. Cranndairean. 15. Ùrlar dubh. 16. Tughadh. 17. Sìoman ruadh. [NOTES: see below for definitions.]</description>
+    <note>Note: no ridge pole in Tiree houses, which gives rise to a rounder ridge.</note>
+	</item>
+	<item>
+      <headword id="d0e43">1. Gluta (dh)</headword>
+      <description>Rarely, if ever, does this word have a ‘g’ sound at the end. [NOTE: see the illustration under ‘Old Tiree house’.]</description>
+    </item>
+    <item>
+      <headword id="d0e52">2. Am balla-mach</headword>
+      <description>The word ‘muigh’ is never used in Tiree. [NOTE: see the illustration under ‘Old Tiree house’.]</description>
+    </item>
+    <item>
+      <headword id="d0e61">3. Am balla-staigh</headword>
+	  <description>[NOTE: see the illustration under ‘Old Tiree house’.]</description>
+    </item>
+    <item>
+      <headword id="d0e70">4. Tobhta</headword>
+	  <description>[NOTE: see the illustration under ‘Old Tiree house’.]</description>
+    </item>
+    <item>
+      <headword id="d0e79">5. Na buadhan</headword>
+      <description>This is always the word used in Tiree for anchor stones. Never ‘acraichean’ as is the usual in most places. [NOTE: see the illustration under ‘Old Tiree house’.]</description>
+    </item>
+    <item>
+      <headword id="d0e88">6. (Na) Ceann a’ mhaidean</headword>
+      <description>Couples. [NOTE: see the illustration under ‘Old Tiree house’.]</description>
+    </item>
+    <item>
+      <headword id="d0e97">7. Na taobhan (àrd is ìseal)</headword>
+      <description>Sometimes there are three purlins on each side of the roof instead of just two. [NOTE: see the illustration under ‘Old Tiree house’.]</description>
+    </item>
+    <item>
+      <headword id="d0e106">8. Sparr tharsainn</headword>
+	  <description>[NOTE: see the illustration under ‘Old Tiree house’.]</description>
+    </item>
+    <item>
+      <headword id="d0e115">9. Na cabair</headword>
+	  <description>[NOTE: see the illustration under ‘Old Tiree house’.]</description>
+    </item>
+    <item>
+      <headword id="d0e124">10. Sgrothan</headword>
+      <description>As opposed to ‘sgrathan’. [NOTE: see the illustration under ‘Old Tiree house’.]</description>
+    </item>
+    <item>
+      <headword id="d0e133">11. Spallachan</headword>
+      <description>Small wedge stones in wall. [NOTE: see the illustration under ‘Old Tiree house’.]</description>
+    </item>
+    <item>
+      <headword id="d0e142">12. Lobhta</headword>
+      <description>Ceiling. [NOTE: see the illustration under ‘Old Tiree house’.]</description>
+    </item>
+    <item>
+      <headword id="d0e151">13. Am balla beag</headword>
+      <description>Usually made of lime from maoraich mixed with dung and mud; connecting the top of the inner wall with the ceiling to exclude the house interior from draughts. [NOTE: see the illustration under ‘Old Tiree house’.]</description>
+    </item>
+    <item>
+      <headword id="d0e160">14. Cranndairean</headword>
+      <description>Octagonal wooden pins. [NOTE: see the illustration under ‘Old Tiree house’.]</description>
+    </item>
+    <item>
+      <headword id="d0e169">15. Ùrlar dubh</headword>
+      <description>Made from a mixture of clay and sand with sheep’s urine. The ‘ùrlar’ tended if anything to be slightly lower than the level of the ground outside. [NOTE: see the illustration under ‘Old Tiree house’.]</description>
+    </item>
+    <item>
+      <headword id="d0e178">16. Tughadh</headword>
+      <description>Note: a thatched house in Tiree is called ‘tigh tughadh’ and not ‘tigh tughaidh’ as is customary in some other places. [NOTE: see the illustration under ‘Old Tiree house’.]</description>
+    </item>
+    <item>
+      <headword id="d0e187">17. Sìoman ruadh</headword>
+      <description>Coir stack rope. [NOTE: see the illustration under ‘Old Tiree house’.]</description>
+    </item>
+    <item>
+      <headword id="d0e196">17. Sìoman càmhlaich</headword>
+      <description>Word used in Tiree for straw-rope. [NOTE: see the illustration under ‘Old Tiree house’.]</description>
+    </item>
+    <item>
+	  <headword id="d0e205">Some ropework terms</headword>
+	  <description><illustration src="TireeScarinishDMacPheehouseillust2.jpg" width="600"/>1. Am mathair-shioman. 2. Na criosan. 3. Sioman gualainn. 4. An sioman dróma. 6. An t-àrd doras. 7. Bùna-baca. [NOTES: see below for definitions.]</description>
+	</item>
+	<item>
+	  <headword id="d0e215">Ropework at hip with chimney</headword>
+	  <description><illustration src="TireeScarinishDMacPheehouseillust3.jpg" width="400"/>1. Am mathair-shioman. 2. Na criosan. 3. Sioman gualainn. 4. An sioman dróma. 7. Bùna-baca. [NOTES: see below for definitions.]</description>
+	</item>
+    <item>
+	  <headword id="d0e225">Ropework at hip without chimney</headword>
+	  <description><illustration src="TireeScarinishDMacPheehouseillust4.jpg" width="400"/>1. Am mathair-shioman. 2. Na criosan. 4. An sioman dróma. 5. Na lùban. 7. Bùna-baca. [NOTES: see below for definitions.]</description>
+    </item>
+	<item>
+      <headword id="d0e235">1. Am mathair-shioman</headword>
+	  <description>[NOTES: see the illustrations under ‘Some ropework terms’, ‘Ropework at hip with chimney’ and ‘Ropework at hip without chimney’.]</description>
+    </item>
+    <item>
+      <headword id="d0e244">2. Na criosan</headword>
+      <description>About every sixth horizontal rope had a rope twisted round it after the vertical ones were in place on top of them, so as to keep the vertical ones equally spaced from one another. [NOTES: see the illustrations under ‘Some ropework terms’, ‘Ropework at hip with chimney’ and ‘Ropework at hip without chimney’.]</description>
+    </item>
+    <item>
+      <headword id="d0e253">3. Sioman gualainn</headword>
+      <description>Rope going round chimney and weighted down at both ends by extra large anchor stones. [NOTES: see the illustrations under ‘Some ropework terms’ and ‘Ropework at hip with chimney’.]</description>
+    </item>
+    <item>
+      <headword id="d0e262">4. An sioman dróma</headword>
+      <description>This rope was usually double and went longitudinally from one hip-end to the other. It was always the first rope to be laid on the roof as all the horizontal ropes (except ones at a chimney which are made fast to the ‘sioman guallain’ [sic]) were made fast to it as also were the hip vertical ropes which were passed through loops on it. [NOTES: see the illustrations under ‘Some ropework terms’, ‘Ropework at hip with chimney’ and ‘Ropework at hip without chimney’.]</description>
+    </item>
+    <item>
+      <headword id="d0e271">5. Na lùban</headword>
+      <description>Loops formed by a length of rope tied at the top of the hip to the ‘sioman dróma’ [q.v.], through which the hip vertical ropes passed. [NOTES: see the illustration under ‘Ropework at hip without chimney’.]</description>
+    </item>
+    <item>
+      <headword id="d0e280">6. An t-àrd doras</headword>
+	  <description>[NOTES: see the illustration under ‘Some ropework terms’.]</description>
+    </item>
+    <item>
+      <headword id="d0e289">7. Bùna-baca</headword>
+      <description>(‘Bonnacha-bac’ in Dwelly’s.) If draughts were entering the house or rain was getting in at this low part of the roof then sacks of sand were sometimes placed at the ‘bùna-baca’. [NOTES: see the illustrations under ‘Some ropework terms’, ‘Ropework at hip with chimney’ and ‘Ropework at hip without chimney’.]</description>
+    </item>
+    <item>
+      <headword id="d0e298">[spàrr bheag]</headword>
+      <description><illustration src="TireeScarinishDMacPheehouseillust5.jpg" width="400"/>The old felt-roofed houses of Tiree also had a flatly rounded ridge, made by connecting the couples by means of a piece of wood known as ‘an spàrr bheag’.</description>
+    </item>
+    <item>
+      <headword id="d0e308">[lair-chaib’]</headword>
+      <description><illustration src="TireeScarinishDMacPheehouseillust6.jpg" width="200"/>In Dwelly’s this turfing spade (for houses roofs and potato pits) is called ‘caibe làir’, but in Tiree it is always known the other way round – ‘lair-chaib’’.</description>
+    </item>
+    <item>
+      <headword id="d0e318">[caitcheann]</headword>
+      <description>Dwelly says that ‘caitcheann’ is “Land common to all the crofters in a township – Tiree.” The only way I have heard it pronounced in Tiree is ‘càiteanan’.</description>
+    </item>
+  </items>
+</fieldworkDocument>

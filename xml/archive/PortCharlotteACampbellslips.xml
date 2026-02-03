@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 23/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_PortCharlotteACampbellslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>12/1968</date>
+  <fieldworker>[AJ Smith]</fieldworker>
+  <note>[NOTES: in IPA transcriptions, the fieldworker uses [w] for [ɯ].]</note>
+  <informant>
+    <nameEnglish>Alasdair Campbell</nameEnglish>
+    <age>c. 63</age>
+    <origin>Islay</origin>
+  </informant>
+  <location>Islay, Port Charlotte</location>
+  <items>
+    <item>
+      <headword id="idp115438984">[hɛçc]</headword>
+      <description>Notes: slatted wooden frame to hold hay for feeding horses.</description>
+    </item>
+    <item>
+      <headword id="idp115458352">leabaidh</headword>
+      <description>Notes: straw bedding.</description>
+    </item>
+    <item>
+      <headword id="idp115485712">leasaich</headword>
+      <description>Quotation: talamh leasaichte. Notes: redland. 3rd year in 5-year crop rotation. (See Gilbert Clark’s)</description>
+    </item>
+    <item>
+      <headword id="idp115480168">leibhreagan</headword>
+      <description>[lʹevɾəɡɑṉ] Quotation: leibhreagan a’ fhraoich. Notes: a small yellow flower which grows among the heather.</description>
+    </item>
+    <item>
+      <headword id="idp167450232">lìobhragach</headword>
+      <description>[lʹi:vɾɑɡɑx] Notes: green slimy growth found in wells, streams, etc. during dry weather. Also applied to green growth on slates or on wood cast ashore.</description>
+    </item>
+    <item>
+      <headword id="idp167451960">loireadh</headword>
+      <description>[ɫɔʔɾəɣ] Quotation: “Nach e a fhuair a’ loireadh.” Notes: a good pummelling.</description>
+    </item>
+    <item>
+      <headword id="idp167453832">mainnsear</headword>
+      <description>Quotation: am mainnsear. Notes: the manger (stable).</description>
+    </item>
+    <item>
+      <headword id="idp167455488">maol</headword>
+      <description>Quotation: caora mhaol. Notes: Cheviot.</description>
+    </item>
+    <item>
+      <headword id="idp167457144">maolag</headword>
+      <description>[mw:ɫɑɡ] Notes: small wooden vessel used for milking.</description>
+    </item>
+    <item>
+      <headword id="idp119252304">math</headword>
+      <description>Quotation: Gu robh math [kɔrɔmɛ̃] (agad). Notes: Thank you.</description>
+    </item>
+    <item>
+      <headword id="idp119251152">marcaich</headword>
+      <description>Quotation: diollaid marcachd. Notes: riding saddle.</description>
+    </item>
+    <item>
+      <headword id="idp119249640">moch-eirigh</headword>
+      <description>Quotation: Am fear ainm na moch-eirigh, faodaidh e cadal gu meadhon-la.</description>
+    </item>
+    <item>
+      <headword id="idp119248128">molt</headword>
+      <description>Notes: wedder.</description>
+    </item>
+    <item>
+      <headword id="idp119246328">mortaigeil</headword>
+      <description>[mɔrṯiɡʹəl] Quotation: am mortaigeil. Notes: a strap joining the haimes to the “giort”. Went down the breast and in between the forelegs. Was done up attractively for shows.</description>
+    </item>
+    <item>
+      <headword id="idp119243520">muc</headword>
+      <description>Quotation: gnos muice. Notes: sow-mouth. In sheep, cattle and horses where the lower jaw is short.</description>
+    </item>
+    <item>
+      <headword id="idp119243088">rèile</headword>
+      <description>[rɛ:lə] Notes: rails on a cart. Na rèilichean móra: the additional rails put on for high loads.</description>
+    </item>
+    <item>
+      <headword id="idp119241360">reithe</headword>
+      <description>Notes: ram.</description>
+    </item>
+    <item>
+      <headword id="idp119239128">roth</headword>
+      <description>Notes: wheel.</description>
+    </item>
+    <item>
+      <headword id="idp119236680">rùbail</headword>
+      <description>[ru:bəl] Notes: trouble. (n. and vb.)</description>
+    </item>
+    <item>
+      <headword id="idp119235096">rumach (adj)</headword>
+      <description>Notes: muddy, miry as a place where cattle have been churning the ground to mud with their stamping.</description>
+    </item>
+    <item>
+      <headword id="idp163582112">troch</headword>
+      <description>[t̪ɾɔx] Quotation: an troch. Notes: horse-trough.</description>
+    </item>
+    <item>
+      <headword id="idp163583984">adagachadh</headword>
+      <description>Notes: making stooks of corn. There would often be as little as six sheaves in it – two pairs side by side and one at each end.</description>
+    </item>
+    <item>
+      <headword id="idp163585496">iarunn</headword>
+      <description>Quotation: (1) an iarunn bonn. (2) an iarunn cliathaich. Notes: (1) the edge plate of the plough. (2) the bottom plate of the plough.</description>
+    </item>
+    <item>
+      <headword id="idp163587440">imleag</headword>
+      <description>Quotation: an imleag. Notes: the hub, or nave of the wheel (cart).</description>
+    </item>
+    <item>
+      <headword id="idp163589096">nodan</headword>
+      <description>[n̪ɔʔd̪ɑ̃ṉ] Notes: the lower joint in a horse’s leg.</description>
+    </item>
+    <item>
+      <headword id="idp163590824">òigeach</headword>
+      <description>Notes: stallion.</description>
+    </item>
+    <item>
+      <headword id="idp163592336">pab</headword>
+      <description>Quotation: a’ pabadh. Notes: giving blows.</description>
+    </item>
+    <item>
+      <headword id="idp163593992">pailleart</headword>
+      <description>[pɑlʹɑrt̪] Quotation: Bheir mi pailleart ort. Notes: a light blow.</description>
+    </item>
+    <item>
+      <headword id="idp163595864">pollag</headword>
+      <description>[poɫɑɡ] Notes: nostril.</description>
+    </item>
+    <item>
+      <headword id="idp163597592">sia-raitheach</headword>
+      <description>[ʃɛ:rɑʔɑx] Notes: 18 month-old heifer.</description>
+    </item>
+    <item>
+      <headword id="idp163599320">slat</headword>
+      <description>Quotation: a’ slat beòil. Notes: piece of wood, one on each side of cart. ??</description>
+    </item>
+    <item>
+      <headword id="idp163600976">smiùir</headword>
+      <description>Quotation: a’ smiuireadh [sic] [smjũ̟:ɾəɣ] na caoraich. Notes: tarring the sheep as a method of disinfection.</description>
+    </item>
+    <item>
+      <headword id="idp163602920">smuiseal</headword>
+      <description>[smũ̟ʃɑɫ] Quotation: a’ smuiseal. Notes: The “muzzle” of the plough. The chain from the main swingle-tree was attached to this. Had different settings to alter the position of the plough.</description>
+    </item>
+    <item>
+      <headword id="idp163604792">soc</headword>
+      <description>Notes: the sock of the plough.</description>
+    </item>
+    <item>
+      <headword id="idp163606304">spàg</headword>
+      <description>Quotation: spàg, spàgan. Notes: handles of plough.</description>
+    </item>
+    <item>
+      <headword id="idp163607960">spéic</headword>
+      <description>Quotation: na spéicean. Notes: the 12 spokes of the cartwheel.</description>
+    </item>
+    <item>
+      <headword id="idp163609616">speir</headword>
+      <description>[speɾ] Notes: joint corresponding to the knee on a horse’s hindlegs.</description>
+    </item>
+    <item>
+      <headword id="idp163611416">spoth</headword>
+      <description>Quotation: a’ spoth nan uan. Notes: castrate.</description>
+    </item>
+    <item>
+      <headword id="idp163613072">spuir</headword>
+      <description>[spu̟ɾ] Quotation: pl [spu̟ɾəṉ]. Notes: hard growth on the inside of a horse’s knee.</description>
+    </item>
+    <item>
+      <headword id="idp163615160">srian</headword>
+      <description>Quotation: srian gaosaid. Notes: reins made of horse hair.</description>
+    </item>
+    <item>
+      <headword id="idp163616816">stàile</headword>
+      <description>[sṯɑ:lə] Notes: stall for each horse in a stable.</description>
+    </item>
+    <item>
+      <headword id="idp163618544">staoth</headword>
+      <description>[st̪ɤ] Quotation: Bha iad a’ gearradh air a’ [st̪ɤ]. Notes: cutting the corn, hay etc. in swathes.</description>
+    </item>
+    <item>
+      <headword id="idp163620704">stiùireap</headword>
+      <description>[ʃtʹu̟:ɾɑp] Notes: stirrup.</description>
+    </item>
+    <item>
+      <headword id="idp163622432">strap</headword>
+      <description>Quotation: na strapannan. Notes: iron bands holding in the wood of cartwheel nave.</description>
+    </item>
+    <item>
+      <headword id="idp163624160">sùgan</headword>
+      <description>Notes: horse-collar.</description>
+    </item>
+    <item>
+      <headword id="idp163625672">sùgan</headword>
+      <description>Quotation: sugan [sic] àrd. Notes: high horse collar. Built up high at the top and dressed.</description>
+    </item>
+    <item>
+      <headword id="idp163627328">sùgan</headword>
+      <description>Quotation: sùgan connlach. Notes: straw collar used in the old days.</description>
+    </item>
+    <item>
+      <headword id="idp163628984">sùgan</headword>
+      <description>Quotation: sùgan ìosal. Notes: ordinary working collar for a horse. (See sùgan àrd.)</description>
+    </item>
+    <item>
+      <headword id="idp163630712">sùganaich</headword>
+      <description>Quotation: a’ sùganachadh a’ mhulan. Notes: lashing the stack.</description>
+    </item>
+    <item>
+      <headword id="idp163632368">sùil-chrith</headword>
+      <description>Notes: small area of bog.</description>
+    </item>
+    <item>
+      <headword id="idp163633880">talamh</headword>
+      <description>Quotation: talamh leasaichte. Notes: red land. 3rd year of 5-year crop rotation. (See Gilbert Clark’s.)</description>
+    </item>
+    <item>
+      <headword id="idp163635752">tanalachd</headword>
+      <description>Notes: (n) shallow piece of land or water.</description>
+    </item>
+    <item>
+      <headword id="idp163637264">tarraing</headword>
+      <description>Quotation: an tarraing. Notes: the chain from the main swingle tree to the plough.</description>
+    </item>
+    <item>
+      <headword id="idp163638992">thig</headword>
+      <description>Quotation: Nan d’thàinig e an uair sin... Notes: If he had come then.</description>
+    </item>
+    <item>
+      <headword id="idp163640648">tog</headword>
+      <description>Quotation: a’ togail. Notes: when binding corn, the act of lifting the sheaf of corn or barley and tying it.</description>
+    </item>
+    <item>
+      <headword id="idp163642304">treabhailear</headword>
+      <description>[t̪ɾɛvəlɑɾ] Notes: the “runner” on the shaft of a cart. </description>
+    </item>
+    <item>
+      <headword id="idp163644104">urchaill</headword>
+      <description>[u̟ɾɑxilʹ] Notes: furrow board.</description>
+    </item>
+    <item>
+      <headword id="idp163645832">aisil</headword>
+      <description>[ɑʃəl] Notes: axle (cart).</description>
+    </item>
+    <item>
+      <headword id="idp164974816">ath-dhìonag</headword>
+      <description>Notes: if it doesn’t have a lamb in its second year, the “dìonag” becomes an “ath-dhìonag”. (See Dìonag)</description>
+    </item>
+    <item>
+      <headword id="idp164976328">bacman</headword>
+      <description>[bɑxkmɑ̃ṉ] Quotation: am bacman. Notes: strap over the back of the horse to keep the “drag chains” from falling down when the horse turns.</description>
+    </item>
+    <item>
+      <headword id="idp164978200">bad</headword>
+      <description>Quotation: “Bheir dhith bad dheth.” Notes: a handful (of hay or straw).</description>
+    </item>
+    <item>
+      <headword id="idp164979856">badach</headword>
+      <description>Quotation: caora bhadach. Notes: a sheep with a small tuft on its forehead.</description>
+    </item>
+    <item>
+      <headword id="idp164981512">bàrr</headword>
+      <description>Quotation: barrannan a’ bhuntàt. Notes: potato shoots.</description>
+    </item>
+    <item>
+      <headword id="idp164983168">biolair</headword>
+      <description>Notes: watercress.</description>
+    </item>
+    <item>
+      <headword id="idp164984680">bloc</headword>
+      <description>[blɔxk] Quotation: am bloc. Notes: a square block of wood, hanging from a rope which went round the horse’s neck. The rope passed through a ring attached to a post. It allowed a limited freedom of movement. </description>
+    </item>
+    <item>
+      <headword id="idp164986552">bó</headword>
+      <description>Quotation: bó chleideagach. Notes: when a cow has been in all year and her coat is hanging tasselled with dirt.</description>
+    </item>
+    <item>
+      <headword id="idp164988208">bó</headword>
+      <description>Quotation: bó ghibeach. Notes: shaggy cow.</description>
+    </item>
+    <item>
+      <headword id="idp164989864">bó</headword>
+      <description>Quotation: bó odhar. Notes: dun cow.</description>
+    </item>
+    <item>
+      <headword id="idp164991520">bó</headword>
+      <description>Quotation: bó riabhach. Notes: brindled cow.</description>
+    </item>
+    <item>
+      <headword id="idp164993176">bogha</headword>
+      <description>Notes: plural – boghachan. The rope going over the top of the stack.</description>
+    </item>
+    <item>
+      <headword id="idp164994688">bolg</headword>
+      <description>Quotation: [əvɔɫɔɡ]. Notes: the belly.</description>
+    </item>
+    <item>
+      <headword id="idp164996560">bóta</headword>
+      <description>[bo:d̪ə] Quotation: am bóta. Notes: the bolt going down through shaft, clogs and axle of a cart. </description>
+    </item>
+    <item>
+      <headword id="idp164998432">braid</headword>
+      <description>[bɾɑidʹ] Notes: haimes.</description>
+    </item>
+    <item>
+      <headword id="idp165000160">brangas</headword>
+      <description>[bɾɛ̃ŋɡəs] Notes: headpiece put on horses when tethered. It consisted of a piece of wood coming down each of the horse’s cheeks, with a rope joining them underneath. The tether rope was attached in such a way that when the horse pulled at the tether the pieces of wood tightened on its cheeks and forced it to stop pulling.</description>
+    </item>
+    <item>
+      <headword id="idp165001888">brigeis</headword>
+      <description>[bɾıɡʹəs] Notes: breeches.</description>
+    </item>
+    <item>
+      <headword id="idp165003616">brocach</headword>
+      <description>Quotation: caora brocach [vɾɔxkɑx] or brochdach. Notes: a sheep having a speckled face.</description>
+    </item>
+    <item>
+      <headword id="idp165005560">bròg</headword>
+      <description>Quotation: a’ bhròg. Notes: the hoof.</description>
+    </item>
+    <item>
+      <headword id="idp165007216">broilleach</headword>
+      <description>[bɾɔlʹɑx] Notes: breast (of a horse).</description>
+    </item>
+    <item>
+      <headword id="idp165008944">buail</headword>
+      <description>[bu̟əl] Quotation: buail na bà. Notes: cowstall.</description>
+    </item>
+    <item>
+      <headword id="idp165010816">buarach</headword>
+      <description>Notes: cow-fetter.</description>
+    </item>
+    <item>
+      <headword id="idp165012328">bàthach</headword>
+      <description>Quotation: a’ cartadh a’ bhàthach. Notes: cleaning out the byre.</description>
+    </item>
+    <item>
+      <headword id="idp165013984">biorach</headword>
+      <description>Quotation: a’ bhiorach [əvıɾɑx]. Notes: cow at first calving (2½ years).</description>
+    </item>
+    <item>
+      <headword id="idp165015856">cailleach-bhuaineadh</headword>
+      <description>[kɑlʹɑxvu̟ɤṉəɣ] Notes: the last handful of corn at harvest-time was taken in, made into a St. Andrew’s Cross, decorated with ribbon and hung inside the house on a nail. The two horses got a half-share each of this before they started the ploughing in spring.</description>
+    </item>
+    <item>
+      <headword id="idp165017584">caora</headword>
+      <description>Quotation: caora bhadach. Notes: a sheep having a small tuft on its forehead.</description>
+    </item>
+    <item>
+      <headword id="idp165019240">caora</headword>
+      <description>Quotation: caora bhrocach [vɾɔxkɑx] or bhrochdach. Notes: sheep with a speckled face.</description>
+    </item>
+    <item>
+      <headword id="idp165021184">caora</headword>
+      <description>Quotation: caora croimheagach [sic]. Notes: a sheep with maggots. [NOTES: slipped under ‘caora chroimheagach’.]</description>
+    </item>
+    <item>
+      <headword id="idp165022984">caora</headword>
+      <description>Quotation: caora dhubh-cheannach. Notes: a black-faced sheep.</description>
+    </item>
+    <item>
+      <headword id="idp165024640">caora</headword>
+      <description>Quotation: caora mhaol. Notes: Cheviot.</description>
+    </item>
+    <item>
+      <headword id="idp165026296">capull</headword>
+      <description>Notes: mare. [NOTES: slipped under ‘capall’.]</description>
+    </item>
+    <item>
+      <headword id="idp165027952">carbad</headword>
+      <description>Quotation: carbad an diollaid. Notes: metal channel set in wood across the saddle for the chain from the shafts to slide in.</description>
+    </item>
+    <item>
+      <headword id="idp165029608">cartadh</headword>
+      <description>Quotation: a’ cartadh a’ bhàthach. Notes: cleaning out the byre.</description>
+    </item>
+    <item>
+      <headword id="idp165031264">ceangal</headword>
+      <description>Quotation: pl. ceangaltaichean [ceʔəɫt̪ıçəṉ]. Notes: tether rope attached to the side of the stall. Usually had two cows in every stall.</description>
+    </item>
+    <item>
+      <headword id="idp165033136">cearcall</headword>
+      <description>Notes: iron rim of cartwheel.</description>
+    </item>
+    <item>
+      <headword id="idp165034648">cearcall</headword>
+      <description>Quotation: cearcall a’ ghrìs. Notes: circular plate on the hub of a cartwheel to keep the grease in.</description>
+    </item>
+    <item>
+      <headword id="idp165036304">ciall</headword>
+      <description>[ciʔəl] Notes: a cheek; also applied to part of doorpost opposite the edge of the door when it is closed.</description>
+    </item>
+    <item>
+      <headword id="idp165038032">ciste</headword>
+      <description>Quotation: an ciste shiol. Notes: for storing grain.</description>
+    </item>
+    <item>
+      <headword id="idp165039688">claimh</headword>
+      <description>Quotation: a’ chlaimh [əxɫɑıf]. Notes: “The Scab” in sheep. (See Donald Ferguson’s.)</description>
+    </item>
+    <item>
+      <headword id="idp162215416">cleideagach</headword>
+      <description>Quotation: bó chleideagach. Notes: when a cow has been inside all year and her coat is hanging tasselled with dirt.</description>
+    </item>
+    <item>
+      <headword id="idp162217072">clogs</headword>
+      <description>Quotation: na “clogs”. Notes: wooden block about 9" deep and 2ft long resting on the axle at each end (to raise the box of the cart). <illustration src="PortCharlotteACampbellslipsillust4.jpg" width="250"/></description>
+    </item>
+    <item>
+      <headword id="idp162218728">cnocach</headword>
+      <description>Notes: full of small hillocks.</description>
+    </item>
+    <item>
+      <headword id="idp162220240">coltair</headword>
+      <description>Quotation: an coltair. Notes: “coulter” of the plough.</description>
+    </item>
+    <item>
+      <headword id="idp162221896">crèileag</headword>
+      <description>[kɾɛ:lɑɡ] Notes: miniature creel or basket for holding potatoes.</description>
+    </item>
+    <item>
+      <headword id="idp162223624">cripidh</headword>
+      <description>[kɾipi] Quotation: an cripidh. Notes: three-legged stool used for milking.</description>
+    </item>
+    <item>
+      <headword id="idp162225496">cròcach</headword>
+      <description>[kɾɔ:xkɑx] Notes: apparatus with spikes attached to it which was fitted over a calf’s mouth (or head) to prevent it from suckling its mother.</description>
+    </item>
+    <item>
+      <headword id="idp162227224">crog</headword>
+      <description>Notes: an old sheep, after 4th or 5th lamb.</description>
+    </item>
+    <item>
+      <headword id="idp162228736">croimheag</headword>
+      <description>[kɾɔıɑɡ] Quotation: a’ chroimheag. Notes: maggot (as in sheep).</description>
+    </item>
+    <item>
+      <headword id="idp162230608">croimheagach</headword>
+      <description>Quotation: caora chroimheagach. Notes: sheep with maggots.</description>
+    </item>
+    <item>
+      <headword id="idp162232264">croinnean</headword>
+      <description>Quotation: [əŋᵏɾɔ̃nʹɑnʹ]. Notes: cloven hoof.</description>
+    </item>
+    <item>
+      <headword id="idp162234136">cuillean</headword>
+      <description>[ku̜lʹ:ɑ̃ṉ] Notes: stubble land. (See G. Clark’s.) 2nd year of 5-year crop rotation.</description>
+    </item>
+    <item>
+      <headword id="idp162236152">cuip</headword>
+      <description>[ku̜ıp] Quotation: an cuip. Notes: whip.</description>
+    </item>
+    <item>
+      <headword id="idp162238024">damh</headword>
+      <description>Notes: castrated male once it is a year old.</description>
+    </item>
+    <item>
+      <headword id="idp162239536">deireadh</headword>
+      <description>Quotation: an deireadh. Notes: the board at the back of the cart.</description>
+    </item>
+    <item>
+      <headword id="idp162241192">deisealan</headword>
+      <description>[dʹʒeʃəɫɑ̃ṉ] Quotation: Bheir mi dhuit … mu’n chluais. Notes: cuff.</description>
+    </item>
+    <item>
+      <headword id="idp162243064">diollaid</headword>
+      <description>Quotation: diollaid marcachd. Notes: riding saddle.</description>
+    </item>
+    <item>
+      <headword id="idp162244720">dìonag</headword>
+      <description>Notes: a sheep in its second year. Put to ram about November of second year and becomes a “caora” when it lambs the following spring. (See ath-dhìonag.)</description>
+    </item>
+    <item>
+      <headword id="idp162246232">druim</headword>
+      <description>Quotation: druim a’ chrann. Notes: the main shaft of the plough.</description>
+    </item>
+    <item>
+      <headword id="idp162247888">drumach</headword>
+      <description>[d̪ɾũʔmɑx] Notes: chain going over the saddle from the shafts.</description>
+    </item>
+    <item>
+      <headword id="idp162249616">dubh-cheannach</headword>
+      <description>Quotation: caora dhubh-cheannach. Notes: black-faced sheep.</description>
+    </item>
+    <item>
+      <headword id="idp162251272">dùnan</headword>
+      <description>Quotation: an dùnan. Notes: the dung heap.</description>
+    </item>
+    <item>
+      <headword id="idp162252928">éirigh</headword>
+      <description>Quotation: Tha éirigh mhath air a’ chloimh. Tha droch éirigh air a’ chloimh. Notes: terms used when clipping sheep. Applied to the growth of new wool next the skin.</description>
+    </item>
+    <item>
+      <headword id="idp162254584">feur</headword>
+      <description>[fiɑɾ] Notes: lea land. 1st year of 5-year rotation. (See G. Clark.)</description>
+    </item>
+    <item>
+      <headword id="idp162256384">feurlochan</headword>
+      <description>[fɛ:ɾɫɔxɑṉ] Notes: grassy pond.</description>
+    </item>
+    <item>
+      <headword id="idp162258112">fìor-uisge</headword>
+      <description>Notes: a spring.</description>
+    </item>
+    <item>
+      <headword id="idp162259624">gath-muing</headword>
+      <description>[ɡɑmũ̜ĩ] Notes: mane.</description>
+    </item>
+    <item>
+      <headword id="idp162261352">geàrr</headword>
+      <description>Quotation: a’ gearradh nan uan. Notes: castrate (euphemism).</description>
+    </item>
+    <item>
+      <headword id="idp162263008">gearrachuill</headword>
+      <description>[ɡʹɑrɑxu̟lʹ] Quotation: an gearrachuill. Notes: the master-tree or main swingle tree.</description>
+    </item>
+    <item>
+      <headword id="idp162264880">gibeach</headword>
+      <description>Quotation: bó ghibeach. Notes: shaggy cow.</description>
+    </item>
+    <item>
+      <headword id="idp162266536">giort</headword>
+      <description>[ɡwrt̪] Quotation: an giort. Notes: saddle belly strap.</description>
+    </item>
+    <item>
+      <headword id="idp162268408">glacach</headword>
+      <description>Notes: full of small hollows.</description>
+    </item>
+    <item>
+      <headword id="idp162269920">gnos</headword>
+      <description>Quotation: gnos muice. Notes: sow-mouth: in sheep, cattle, horses, where the lower jaw is short.</description>
+    </item>
+    <item>
+      <headword id="idp162271576">gnos-muic</headword>
+      <description>Notes: sow-mouth. In sheep, cattle, horses, where the lower jaw is short.</description>
+    </item>
+    <item>
+      <headword id="idp162273088">gobhal</headword>
+      <description>Quotation: ann an gobhal a’ chrann. Notes: between the handles of the plough.</description>
+    </item>
+    <item>
+      <headword id="idp162274744">goile</headword>
+      <description>Quotation: goile cearc. Notes: hen’s stomach (“giaban” in Lewis?).</description>
+    </item>
+    <item>
+      <headword id="idp162276400">greallag</headword>
+      <description>Quotation: na greallagan. Notes: the two smaller swingle trees for a pair of horses.</description>
+    </item>
+    <item>
+      <headword id="idp162278128">greallag</headword>
+      <description>Notes: a shoulder frame used when carrying full pails.</description>
+    </item>
+    <item>
+      <headword id="idp165259640">guallainneach</headword>
+      <description>[ɡu̜əɫĩnʹɑx] Notes: the chain from the collar to the shafts of a cart. “Drag-chain”.</description>
+    </item>
+    <item>
+      <headword id="idp165261368">guitear</headword>
+      <description>Notes: a gutter (in byre).</description>
+    </item>
+  </items>
+</fieldworkDocument>

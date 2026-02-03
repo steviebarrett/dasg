@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 5/8/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_BoisdaleJGillisslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>05/1971</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <informant>
+    <nameEnglish>Joe Gillis</nameEnglish>
+  </informant>
+  <location>Canada, Cape Breton, Boisdale</location>
+  <items>
+    <item>
+      <headword id="idp162111528">locair</headword>
+      <description>Quotation: Cha d’fhuair mi locair cadail fad na h-oidhche. Notes: I didn’t get a wink of sleep all night.</description>
+    </item>
+    <item>
+      <headword id="idp162113256">luasganach</headword>
+      <description>[ɫu̜ɤsɡɑṉɑx] Notes: restless, over-active.</description>
+    </item>
+    <item>
+      <headword id="idp162114984">malaidhean (pl)</headword>
+      <description>[mɛ̃lɑiəṉ] Notes: eyebrows.</description>
+    </item>
+    <item>
+      <headword id="idp162116712">miosair</headword>
+      <description>Notes: a wooden basin.</description>
+    </item>
+    <item>
+      <headword id="idp162118224">ropa-sliseag</headword>
+      <description>Notes: applied to a rope made from strips of birch.</description>
+    </item>
+    <item>
+      <headword id="idp162119736">ruideal</headword>
+      <description>[ru̜dʹɑɫ] Notes: riddle (like criathar).</description>
+    </item>
+    <item>
+      <headword id="idp162121464">ostal</headword>
+      <description>Quotation: na h-ostail. Notes: the apostles.</description>
+    </item>
+    <item>
+      <headword id="idp162123120">peallag</headword>
+      <description>Notes: saucy little wench.</description>
+    </item>
+    <item>
+      <headword id="idp162124632">pitheag</headword>
+      <description>[ˈpiɑɡ] Notes: used for a young girl.</description>
+    </item>
+    <item>
+      <headword id="idp162126360">piullaire</headword>
+      <description>Notes: a little fellow.</description>
+    </item>
+    <item>
+      <headword id="idp162127872">sglòinteach</headword>
+      <description>[sɡɫɔ̃:nʹtʹɑx] Notes: a careless, untidy woman.</description>
+    </item>
+    <item>
+      <headword id="idp162129600">sgrathail</headword>
+      <description>Notes: awful, disgusting.</description>
+    </item>
+    <item>
+      <headword id="idp162131112">sguidseach</headword>
+      <description>Quotation: sguidseach de nighean. Tha i na sguidseach math. Notes: a half-grown girl.</description>
+    </item>
+    <item>
+      <headword id="idp162132840">slaod</headword>
+      <description>Notes: rough sledge used for hauling boulders.</description>
+    </item>
+    <item>
+      <headword id="idp162134352">slat-bheòil</headword>
+      <description>Notes: wooden slat running along the top edge of a sleigh runner.</description>
+    </item>
+    <item>
+      <headword id="idp162135864">sleamhnan</headword>
+      <description>[ʃlʹɛ̃ũ̟ṉɑṉ] Notes: sty.</description>
+    </item>
+    <item>
+      <headword id="idp162137592">sleighe</headword>
+      <description>[ʹsleə] Quotation: sleighe-connaidh. Notes: sledge used for hauling firewood.</description>
+    </item>
+    <item>
+      <headword id="idp162139464">sligneach</headword>
+      <description>Notes: sleet.</description>
+    </item>
+    <item>
+      <headword id="idp162140976">sniap</headword>
+      <description>[ʃnʹĩɑ̃p] Notes: turnip.</description>
+    </item>
+    <item>
+      <headword id="idp162142704">spagh</headword>
+      <description>[spɤɣ] Notes: swathe.</description>
+    </item>
+    <item>
+      <headword id="idp162144432">spearrach</headword>
+      <description>[spjɑrɑx] Notes: hobbling device by tying two legs loosely.</description>
+    </item>
+    <item>
+      <headword id="idp162146160">spruis</headword>
+      <description>Quotation: spruis ghlas. Notes: fir.</description>
+    </item>
+    <item>
+      <headword id="idp162147816">stranndan</headword>
+      <description>Notes: moth.</description>
+    </item>
+    <item>
+      <headword id="idp162149328">sàrcamaid</headword>
+      <description>[sɑ:ɾkəmɑdʹ] Notes: sacrament.</description>
+    </item>
+    <item>
+      <headword id="idp162151056">tighearnadh</headword>
+      <description>Quotation: Nach ann air a chaidh an tighearnadh. Notes: said e.g. when a person had a lucky escape.</description>
+    </item>
+    <item>
+      <headword id="idp162152712">toinnteachadh</headword>
+      <description>Notes: twisting threads.</description>
+    </item>
+    <item>
+      <headword id="idp162154224">tubaid</headword>
+      <description>[t̪ɤbɑdʹ] Notes: a lady’s or child’s shawl.</description>
+    </item>
+    <item>
+      <headword id="idp162155952">blianach</headword>
+      <description>[blĩɑ̃ṉɑx] Notes: rotten carcase.</description>
+    </item>
+    <item>
+      <headword id="idp162157680">bòcan</headword>
+      <description>Quotation: Bòcan a mheadhoin-latha. Notes: believed there was a mid-day evil spirit.</description>
+    </item>
+    <item>
+      <headword id="idp162159336">boilleag</headword>
+      <description>[b[ɤı]lʹɑɡ] Notes: birch bark.</description>
+    </item>
+    <item>
+      <headword id="idp162161496">bréid</headword>
+      <description>Quotation: a’ cur bréid air rùda. Notes: to prevent early lambing.</description>
+    </item>
+    <item>
+      <headword id="idp162163152">brùgh-ghoirt</headword>
+      <description>Quotation: Bhual am brùgh-ghoirt e. [NOTES: the quotation is unclear – it may be ‘Bhual am bhrùgh-ghoirt e.’]</description>
+    </item>
+    <item>
+      <headword id="idp162164808">bruthach</headword>
+      <description>Quotation: Tha i suas am bruthach. Notes: she is pregnant.</description>
+    </item>
+    <item>
+      <headword id="idp162166464">bunabhuchaille</headword>
+      <description>Notes: says it’s a bird called the loon.</description>
+    </item>
+    <item>
+      <headword id="idp162167976">cachaileith</headword>
+      <description>[kɑxəlɑi] Notes: gate.</description>
+    </item>
+    <item>
+      <headword id="idp162169704">càineil</headword>
+      <description>[kɑ̃:nʹɑl] Notes: used for “language” by Joe.</description>
+    </item>
+    <item>
+      <headword id="idp162171432">cailid</headword>
+      <description>[kɑlidʹ] Notes: fence, hedge. [NOTES: slipped under ‘callaid’.]</description>
+    </item>
+    <item>
+      <headword id="idp162173304">car</headword>
+      <description>Quotation: Chaidh mi ’n car each. Notes: I bought a horse.</description>
+    </item>
+    <item>
+      <headword id="idp162174960">car</headword>
+      <description>Quotation: Chaidh mi na car. Notes: I had carnal relations with her.</description>
+    </item>
+    <item>
+      <headword id="idp162176616">casa-góbhlach</headword>
+      <description>Quotation: Bha e na shuidhe casa-gobhlach [sic] air.</description>
+    </item>
+    <item>
+      <headword id="idp162178128">ceileag</headword>
+      <description>[celɑɡ] Notes: rope made of birch – long strips taken off with the drawknife and twisted. Yellow birch the toughest. One of uses to attach to anchor.</description>
+    </item>
+    <item>
+      <headword id="idp162179856">closnach</headword>
+      <description>[kɫɔsn̪ɑx] Notes: carcase.</description>
+    </item>
+    <item>
+      <headword id="idp162181584">corra-chritheach</headword>
+      <description>Notes: heron.</description>
+    </item>
+    <item>
+      <headword id="idp162183096">darag</headword>
+      <description>[d̪ɑɾɑɡ] Quotation: darag de chraoibh. Notes: a short tree which is full of branches from the ground up – not a good tree.</description>
+    </item>
+    <item>
+      <headword id="idp162184968">deilearachd</headword>
+      <description>Notes: see-sawing; up and down motion of something.</description>
+    </item>
+    <item>
+      <headword id="idp162186480">eireachdail</headword>
+      <description>[eðɑxkɑl] Quotation: Tha e [eðɑxkɑl] math. Notes: good in all respects, exceedingly good.</description>
+    </item>
+    <item>
+      <headword id="idp162188640">fannlag</headword>
+      <description>Notes: known as a swallow.</description>
+    </item>
+    <item>
+      <headword id="idp162190152">feasda</headword>
+      <description>[fɛsd̪ə] Notes: rung on a ladder.</description>
+    </item>
+    <item>
+      <headword id="idp162191880">feuch</headword>
+      <description>Quotation: Dh’fheuch iad dha. Notes: They showed him.</description>
+    </item>
+    <item>
+      <headword id="idp162193536">fuireachail</headword>
+      <description>Notes: careful.</description>
+    </item>
+  </items>
+</fieldworkDocument>

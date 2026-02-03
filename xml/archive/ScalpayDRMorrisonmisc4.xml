@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 5 2 15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="DRMorrisonetal_ScalpayDRMorrisonmisc4" docType="wordlist" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>[1975 on the slips]</date>
+  <fieldworker>[self]</fieldworker>
+  <note>[NOTES: the words have been slipped and therefore, apart from the definitions provided by Mr Morrison, the definitions as they appear on the slips have also been included (unless the two were the same).]</note>
+  <informant>
+    <nameEnglish>Donald R. Morrison</nameEnglish>
+    <nameGaelic>Dòmhnall R. Moireasdan</nameGaelic>
+    <age>[55]</age>
+  </informant>
+  <location>Na Hearadh, Scalpaigh [Harris,Scalpay]</location>
+  <items>
+    <item>
+      <headword id="idola347" type="heading" level="h1">Word-list (‘Cruinneachadh de dh’fhaclan’)</headword>
+    </item>
+    <item>
+      <headword id="idp118882712">plodraigeadh</headword>
+      <description>(also) simmer (as of water slowly boiling). [NOTES: Slipped under ‘plodraig’ with ‘plodraigeadh’ as a quotation.]</description>
+    </item>
+    <item>
+      <headword id="idp118867952">mathachadh</headword>
+      <description>(also) arguing.</description>
+    </item>
+    <item>
+      <headword id="idp118793864">dul-coise</headword>
+      <description>a hole in a wooden handle (as in a spade).</description>
+    </item>
+    <item>
+      <headword id="idp118773200">prannagan</headword>
+      <description>bits. [NOTES: slipped under ‘prannag’ – pl. prannagan.]</description>
+    </item>
+    <item>
+      <headword id="idp118892360">phéilipeanachadh</headword>
+      <description>pilferating [sic], not full heartedly involved in doing work, only meddling. [SLIP: Not wholeheartedly engaged in doing work.]</description>
+    </item>
+    <item>
+      <headword id="idp118800416">sgineachan</headword>
+      <description>(also) smithereens.</description>
+    </item>
+    <item>
+      <headword id="idp118821872">stearnàg</headword>
+      <description>(a slang form) tern (bird). Sometimes used to illustrate a chirpish, sharp movement, or ‘ternish’, (if I may use this term, my own invented word of my own inspiration, perhaps in connection with the meaning of such like) female. [NOTES: the slip has ‘stearnag’. Definition: Tern; also used to describe a chirpish, sharp movement.]</description>
+    </item>
+    <item>
+      <headword id="idp118814744">fabhar</headword>
+      <description>peep. (pronounced unaccented). Gabhail fabhar air an tigh – old time phrase. [SLIP: A peep, look (out of use now).]</description>
+    </item>
+    <item>
+      <headword id="idp118813664">falmair</headword>
+      <description>hake (fish).</description>
+    </item>
+    <item>
+      <headword id="idp118806968">moglachadh</headword>
+      <description>enmeshed. Air moglachadh.</description>
+    </item>
+    <item>
+      <headword id="idp118805240">patraigeadh</headword>
+      <description>(also) packing between the lining of a coat, cuttings for the making of a suit or coat.</description>
+    </item>
+    <item>
+      <headword id="idp118800344">podsaireachd</headword>
+      <description>(also) unskilled.</description>
+    </item>
+    <item>
+      <headword id="idp118803080">curach</headword>
+      <description>coracle, boat. [SLIP: Coracle.]</description>
+    </item>
+    <item>
+      <headword id="idp118801784">curachan</headword>
+      <description>coracle but perhaps smaller [than curach q.v.]. I haven’t heard this two words ever used on Scalpay, not that I am aware of. To my own way of thinking (I think) they originated from the Columba version of his ‘transport’ to Iona? [SLIP: Coracle.]</description>
+    </item>
+  </items>
+</fieldworkDocument>

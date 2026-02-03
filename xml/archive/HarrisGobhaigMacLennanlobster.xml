@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 20 04 13 -->
+<fieldworkDocument docId="HarrisMacLennan_HarrisGobhaigMacLennanlobster" docType="questionnaire" subType="LobsterFishing">
+  <title>Iasgach a’ Ghiomaich / Lobster-Fishing</title>
+  <fieldworker>[self?]</fieldworker>
+  <informant>
+    <nameEnglish>A. MacLennan</nameEnglish>
+    <nameGaelic>A. MacGill Fhinnein</nameGaelic>
+    <age>19</age>
+  </informant>
+  <location>Na Hearadh, Gòbhaig [Harris, Gobhaig]</location>
+  <items>
+    <item><headword id="d0e29" type="heading" level="h1">The Lobster</headword></item>
+    <item>
+      <headword id="d0e34">ine</headword>
+      <description>claw.</description>
+    </item>
+    <item>
+      <headword id="d0e43">ine mhor</headword>
+      <description>large [claw].</description>
+    </item>
+    <item>
+      <headword id="d0e52">ine bheag</headword>
+      <description>small [claw].</description>
+    </item>
+    <item>
+      <headword id="d0e61">stuirean</headword>
+      <description>[?] feelers.</description>
+    </item>
+    <item>
+      <headword id="d0e70">sron</headword>
+      <description>head.</description>
+    </item>
+    <item>
+      <headword id="d0e79">gàileach</headword>
+      <description>gills.</description>
+    </item>
+    <item>
+      <headword id="d0e88">leabaid</headword>
+      <description>tail.</description>
+    </item>
+    <item>
+      <headword id="d0e97">casan beaga</headword>
+      <description>‘swimmers’ or underside.</description>
+    </item>
+    <item>
+      <headword id="d0e106">screagag</headword>
+      <description>encrustations on back.</description>
+    </item>
+    <item>
+      <headword id="d0e115">uidhean</headword>
+      <description>eggs.</description>
+    </item>
+    <item>
+      <headword id="d0e124">damh</headword>
+      <description>lobster with claw missing.</description>
+    </item>
+    <item><headword id="d0e132" type="heading" level="h1">The Creel</headword></item>
+    <item>
+      <headword id="d0e137">cliabh</headword>
+      <description>creel.</description>
+    </item>
+    <item>
+      <headword id="d0e146">a’ deanamh cliabh</headword>
+      <description>making a creel.</description>
+    </item>
+    <item>
+      <headword id="d0e155">màs</headword>
+      <description>the base.</description>
+    </item>
+    <item>
+      <headword id="d0e164">ceana</headword>
+      <description>rods before and after bending and fitting to base.</description>
+    </item>
+    <item>
+      <headword id="d0e173">cearcal</headword>
+      <description>rods before and after bending and fitting to base.</description>
+    </item>
+    <item>
+      <headword id="d0e182">slatan</headword>
+      <description>rods before and after bending and fitting to base.</description>
+    </item>
+    <item>
+      <headword id="d0e191">osan</headword>
+      <description>the eye.</description>
+    </item>
+    <item>
+      <headword id="d0e200">strang bhiathaidh</headword>
+      <description>bait-holder.</description>
+    </item>
+    <item>
+      <headword id="d0e209">ròp</headword>
+      <description>rope.</description>
+    </item>
+    <item>
+      <headword id="d0e218">àrca</headword>
+      <description>floats.</description>
+    </item>
+    <item>
+      <headword id="d0e227">dorus</headword>
+      <description>door (for admitting hand).</description>
+    </item>
+    <item>
+      <headword id="d0e236">gad</headword>
+      <description>fleet of creels, when attached to a single line.</description>
+    </item>
+    <item><headword id="d0e244" type="heading" level="h1">Fishing</headword></item>
+    <item>
+      <headword id="d0e249">taruing</headword>
+      <description>hauling a creel.</description>
+    </item>
+    <item>
+      <headword id="d0e258">biathadh</headword>
+      <description>bait.</description>
+    </item>
+    <item><headword id="d0e266" type="heading" level="h2">kinds  used</headword><description>[of bait] </description></item>
+	<item>
+	  <headword id="idola125">[bait]</headword>
+	  <description>rionnach, sgadan, leobag</description>
+	</item>
+    <item><headword id="d0e279" type="heading" level="h2">cleaning a creel, what creatures found within</headword></item>
+    <item>
+      <headword id="d0e284">crosgag</headword>
+      <description>star fish.</description>
+    </item>
+    <item>
+      <headword id="d0e293">deiseag</headword>
+      <description>velvet crab.</description>
+    </item>
+    <item>
+      <headword id="d0e302">crogan</headword>
+      <description>sea urchin.</description>
+    </item>
+    <item>
+      <headword id="d0e311">starraig</headword>
+    <description>[?] </description></item>
+    <item>
+      <headword id="d0e317">portain</headword>
+    </item>
+    <item>
+      <headword id="d0e323">conochagan</headword>
+      <description>whelks.</description>
+    </item>
+    <item>
+      <headword id="d0e332">crubag</headword>
+      <description>crab.</description>
+    </item>
+    <item><headword id="d0e340" type="heading" level="h2">natures of ground (e.g. soft, hard)</headword></item>
+    <item>
+      <headword id="d0e345">lathach</headword>
+    </item>
+    <item>
+      <headword id="d0e351">rochd</headword>
+    </item>
+    <item><headword id="d0e356" type="heading" level="h2">rope</headword></item>
+    <item>
+      <headword id="d0e361">bleith</headword>
+      <description>fraying, or frayed, rope.</description>
+    </item>
+    <item>
+      <headword id="d0e370">briste</headword>
+      <description>broken rope.</description>
+    </item>
+    <item><headword id="d0e378" type="heading" level="h2">tying claws of lobsters – device used</headword></item>
+	<item>
+	  <headword id="idola126">[gearradh]</headword>
+	  <description>gan gearradh (gob na sgeine dhan fheithidh eadar na h-inean)</description>
+	</item>
+    <item><headword id="d0e391" type="heading" level="h2">keep-box</headword></item>
+    <item>
+      <headword id="d0e396">bocsa raididh</headword>
+      <description>[?] keep-box.</description>
+    </item>
+    <item>
+      <headword id="d0e405">cruaidh</headword>
+      <description>moorings of keep-box.</description>
+    </item>
+  </items>
+</fieldworkDocument>

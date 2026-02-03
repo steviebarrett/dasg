@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 5 2 15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="DRMorrisonetal_ScalpayDRMorrisonmisc21" docType="wordlist" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>1975</date>
+  <fieldworker>[self]</fieldworker>
+  <note>[NOTES: the words have been slipped and therefore, apart from the definitions provided by Mr Morrison, the definitions as they appear on the slips have also been included (unless the two were the same).]</note>
+  <informant>
+    <nameEnglish>D.R. Morrison</nameEnglish>
+    <nameGaelic>D.R. Moireasdan </nameGaelic>
+    <age>[55]</age>
+  </informant>
+  <location>Na Hearadh, Scalpaigh [Harris, Scalpay]</location>
+  <items>
+    <item>
+      <headword id="idola392" type="heading" level="h1">Word-list (‘Cruinneachadh de dh’fhaclan’)</headword>
+    </item>
+    <item>
+      <headword id="idp115371480">tarbh-bualaidh</headword>
+      <description>fighting bull.</description>
+    </item>
+    <item>
+      <headword id="idp115374360">gliogan</headword>
+      <description>tingle. [NOTES: corrected to ‘tinkle’ most probably by the person preparing the slips.] [SLIP: Tinkle.]</description>
+    </item>
+    <item>
+      <headword id="idp115351248">glugan</headword>
+      <description>sound indication of a wee drop of liquid in a bottle, diminutive. [SLIP: Sound of water coming out of a bottle.]</description>
+    </item>
+    <item>
+      <headword id="idp115349736">easgach (adj.)</headword>
+      <description>(also) water under the soil causing unseen softness, thus a person liable to fall into such unknowingly of its presence. [SLIP: Said of soil so moistened by water that a person sinks deeply into it.]</description>
+    </item>
+    <item>
+      <headword id="idp115348224">easg (pl. easgan)</headword>
+      <description>ditch.</description>
+    </item>
+    <item>
+      <headword id="idp115346280">easgach</headword>
+      <description>perhaps could be accepted as the adjective word.</description>
+    </item>
+    <item>
+      <headword id="idp115344552">phónadh</headword>
+      <description>phoning (Scalpay). New word, while I termed others as old words if you will accept such terms at the moment. [NOTES: slipped under ‘phón’ with ‘a’ phónadh’ as the quotation.]</description>
+    </item>
+    <item>
+      <headword id="idp115342896">dion-chaitheamh</headword>
+      <description>galloping consumption.</description>
+    </item>
+    <item>
+      <headword id="idp115341384">creach</headword>
+      <description>calamity.</description>
+    </item>
+    <item>
+      <headword id="idp115340088">reic</headword>
+      <description>wreck.</description>
+    </item>
+    <item>
+      <headword id="idp115337784">rèic</headword>
+      <description>glutton, uncontrollable sense of eating or drinking. Dh’òl thu mar rèic. [SLIP: Glutton of eating or drinking.]</description>
+    </item>
+    <item>
+      <headword id="idp115336704">réic</headword>
+      <description>sold.</description>
+    </item>
+    <item>
+      <headword id="idp115334400">réic</headword>
+      <description>sell.</description>
+    </item>
+    <item>
+      <headword id="idp115333032">riomhadh</headword>
+      <description>redness in the face. [SLIP: Ruddiness in the face.]</description>
+    </item>
+    <item>
+      <headword id="idp115331232">roit</headword>
+      <description>speed.</description>
+    </item>
+    <item>
+      <headword id="idp115329144">sgaothag</headword>
+      <description>wee shoal, fish.</description>
+    </item>
+    <item>
+      <headword id="idp115327416">cliath</headword>
+      <description>(also) cliath (chudaigean) – shoal. [SLIP: Cliath. Quotation: cliath chudaigean. Definition: shoal.]</description>
+    </item>
+    <item>
+      <headword id="idp115326336">cliathan</headword>
+      <description>congregated shoals, moving, swimming rather, in one direction. ’Ad ’na cliathan. [SLIP: Cliathan (plural). Quotation: ’nan cliathan. Definition: Shoals of fish swimming gregariously in one direction.]</description>
+    </item>
+    <item>
+      <headword id="idp115322592">canndreachd</headword>
+      <description>disapproval. Canndreachd ort! – interjection class of words, or list of words.</description>
+    </item>
+    <item>
+      <headword id="idp115320864">spochadh</headword>
+      <description>words spoken for to check a person from doing the wrong thing.</description>
+    </item>
+    <item>
+      <headword id="idp115319856">splungag</headword>
+      <description>sling, crann-tabhail. Splungag is how we pronounce the word in Scalpay. (I may have noted this word already.)</description>
+    </item>
+    <item>
+      <headword id="idp115318056">cnàmh-a-cire</headword>
+      <description>chewing her cud, in the case of a cow.</description>
+    </item>
+    <item>
+      <headword id="idp115314024">cnàmh-a-chire</headword>
+      <description>in the case of a bull. As it sounds to me from the Scalpay dialect?</description>
+    </item>
+    <item>
+      <headword id="idp115314672">foitseach</headword>
+      <description>throw by hand. Thug mi foitseach dha – thrown by the full strength of the hand. [NOTES: the slip has ‘…dhà’. Definition: A throw with the full strength of the hand behind it.]</description>
+    </item>
+    <item>
+      <headword id="idp115311792">plabag</headword>
+      <description>a baby girl indicating; ‘plabadh’ and perhaps ‘plabadaich’ in the form of movement of hands.</description>
+    </item>
+    <item>
+      <headword id="idp115310280">bàca</headword>
+      <description>the rope to which a fishing net, drift-net, is attached, the ‘dabhans’, their ends, one end knotted to the net, passing through the hole in the cork on (fastened) to the (main rope). Bàca – main rope in this case as the strongest rope.</description>
+    </item>
+    <item>
+      <headword id="idp115309344">druim-beag</headword>
+      <description>the string to which the meshes of the net are knotted, on which the ‘dabhans’ are tied then through the hole in the cork and on to the; [sic] bàca.</description>
+    </item>
+    <item>
+      <headword id="idp115306752">putan</headword>
+      <description>round piece of wood on the top of a mast, yachts. [SLIP: Round piece of wood on the top of a mast on yachts.]</description>
+    </item>
+    <item>
+      <headword id="idp115304880">plaoisgeach</headword>
+      <description>bit simple person, brittle (originated from plaosg). Tha i plaoisgeach – referring to a female. (Scalpay)</description>
+    </item>
+    <item>
+      <headword id="idp115303080">stràic</headword>
+      <description>stroke. Cha d’fhuair mi air adhart stràic. (Scalpay)</description>
+    </item>
+    <item>
+      <headword id="idp115301352">stroighlich</headword>
+      <description>stress. Thug e stroighlich air a’ phiob – could be a smoking pipe or bagpipes. [NOTES: the slip has ‘…air a’ phìob’. Definition: Stress (?). Above could be a pipe for smoking or bagpipes.]</description>
+    </item>
+    <item>
+      <headword id="idp115299480">stratagan</headword>
+      <description>sparks. Chaidh e ’na s(h)ratagan’ [sic] – metaphor: anger. (Scalpay) [NOTES: originally slipped under ‘stratag’ then changed to ‘sratag [stratak]’ and finally slipped under ‘sradag’. Definition: Sparks. As metaphor – anger.]</description>
+    </item>
+    <item>
+      <headword id="idp115297032">trataire</headword>
+      <description>traitor.</description>
+    </item>
+    <item>
+      <headword id="idp115295160">seodadh</headword>
+      <description>forcing, passing an article in a forcible like manner for to be accepted. Bha e seodadh sud thuige. [SLIP: Forcing something onto someone for them to accept it.]</description>
+    </item>
+    <item>
+      <headword id="idp115294008">sgeodadh</headword>
+      <description>a piece of underwear appearing over the outside apparel. Tha pios dhe’n léine a’ sgeodadh a mach. Perhaps from sgòdadh. [NOTES: the slip has ‘…pìos…’. Definition: Particularly of a piece of clothing that should not be seen, appearing, peeping out.]</description>
+    </item>
+    <item>
+      <headword id="idp115290984">pumalair</headword>
+      <description>bully, awkward person, of a rude disposition and over the average stature. Nach ann an sud a tha pumalair.</description>
+    </item>
+    <item>
+      <headword id="idp115289688">sguab-fhraoich</headword>
+      <description>heather hand broom.</description>
+    </item>
+  </items>
+</fieldworkDocument>

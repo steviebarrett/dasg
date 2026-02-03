@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 24 4 14 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="HarrisVarious_HarrisSgarastamhorFMacLeodMMacLennannadur" docType="questionnaire" subType="NadurAnDuine" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Nàdur an Duine / Personality</title>
+  <fieldworker>[anonymous D]</fieldworker>
+  <note>[NOTES: two colours of ink used possibly to distinguish the two informants.]</note>
+  <informant>
+    <nameEnglish>Flora MacLeod</nameEnglish>
+    <age>60</age>
+  </informant>
+  <informant>
+    <nameEnglish>Morag MacLennan</nameEnglish>
+    <age>50</age>
+  </informant>
+  <location>Harris, Sgarastamhor</location>
+  <items>
+    <item><headword id="d0e38" type="heading" level="h1">Good company / Bad company</headword></item>
+    <item>
+      <headword id="d0e43">faisg ort</headword>
+    </item>
+    <item>
+      <headword id="d0e49">duine gasda</headword>
+    </item>
+    <item>
+      <headword id="d0e55">duine aoigheil toilichte</headword>
+    </item>
+    <item>
+      <headword id="d0e61">duine dibhearsanach</headword>
+    </item>
+    <item>
+      <headword id="d0e67">duine tlachdmhor</headword>
+    </item>
+    <item>
+      <headword id="d0e73">duine socharach</headword>
+      <description>shy.</description>
+    </item>
+    <item>
+      <headword id="d0e82">duine siobhalta</headword>
+      <description>civil.</description>
+    </item>
+    <item>
+      <headword id="d0e91">duine diùd</headword>
+      <description>shy.</description>
+    </item>
+    <item>
+      <headword id="d0e100">duine sona</headword>
+      <description>happy.</description>
+    </item>
+    <item>
+      <headword id="d0e109">duine abhachdach</headword>
+      <description>jolly.</description>
+    </item>
+    <item>
+      <headword id="d0e118">duine mear</headword>
+      <description>merry.</description>
+    </item>
+    <item>
+      <headword id="d0e127">duine eubhainn</headword>
+      <description>funny.</description>
+    </item>
+    <item>
+      <headword id="d0e136">duine eirmseach</headword>
+      <description>witty.</description>
+    </item>
+    <item>
+      <headword id="d0e145">duine geur</headword>
+      <description>witty.</description>
+    </item>
+    <item>
+      <headword id="d0e154">duine geur air a theangaidh</headword>
+    </item>
+    <item>
+      <headword id="d0e160">duine gun loc</headword>
+      <description>good-natured.</description>
+    </item>
+    <item>
+      <headword id="d0e169">“rinn e cobhair orm”</headword>
+      <description>he helped me.</description>
+    </item>
+    <item>
+      <headword id="d0e178">duine dùr</headword>
+    </item>
+    <item>
+      <headword id="d0e184">spiocaire</headword>
+      <description>miser.</description>
+    </item>
+    <item>
+      <headword id="d0e193">cabairneach</headword>
+      <description>(m) gossip.</description>
+    </item>
+    <item>
+      <headword id="d0e202">cabag</headword>
+      <description>(f) gossip.</description>
+    </item>
+    <item>
+      <headword id="d0e211">speireag</headword>
+      <description>spiteful woman (sparrow hawk).</description>
+    </item>
+    <item>
+      <headword id="d0e220">biorag</headword>
+      <description>spiteful woman.</description>
+    </item>
+    <item>
+      <headword id="d0e229">duine leimh</headword>
+      <description>tiresome.</description>
+    </item>
+    <item>
+      <headword id="d0e238">duine sligeach</headword>
+      <description>sneering man.</description>
+    </item>
+    <item>
+      <headword id="d0e247">duine sniageach</headword>
+      <description>sneaky.</description>
+    </item>
+    <item>
+      <headword id="d0e256">sgramh de dhuine</headword>
+      <description>a disgusting person. [NOTES: there is (M) next to this item possibly to indicate that it was provided by Morag MacLennan.]</description>
+    </item>
+    <item>
+      <headword id="d0e265">chuireadh e sgramh ort</headword>
+      <description>he would disgust you.</description>
+    </item>
+    <item>
+      <headword id="d0e274">fear</headword>
+    <description>[sic] </description></item>
+    <item>
+      <headword id="d0e280">sgleap de dhuine</headword>
+      <description>disgusting.</description>
+    </item>
+    <item>
+      <headword id="d0e289">sgiortaich  de chaillich</headword>
+      <description>[?] old woman.</description>
+    </item>
+    <item>
+      <headword id="d0e298">riamhal</headword>
+      <description>an untidy person.</description>
+    </item>
+    <item>
+      <headword id="d0e307">duine ràbhardach</headword>
+      <description>maker up of tall tales.</description>
+    </item>
+    <item>
+      <headword id="d0e316">sgluidseach</headword>
+      <description>untidy woman.</description>
+    </item>
+	<item>
+	  <headword id="d0e325">[</headword>
+	  <description>[NOTES: the rest of the page in blue ink.]</description>
+	</item>
+    <item>
+      <headword id="d0e334">buaireasach</headword>
+      <description>troublemaker.</description>
+    </item>
+    <item>
+      <headword id="d0e343">neamh</headword>
+      <description>duine beag, bragail.</description>
+    </item>
+    <item>
+      <headword id="d0e352">ag goileam</headword>
+      <description>blethering.</description>
+    </item>
+    <item>
+      <headword id="d0e361">goileam (f.n. )</headword>
+      <description>[?] a gossipy woman.</description>
+    </item>
+    <item>
+      <headword id="d0e370">goileam (n)</headword>
+      <description>meaningless talk.</description>
+    </item>
+    <item><headword id="d0e378" type="heading" level="h1">Cheerful / Gloomy</headword></item>
+    <item>
+      <headword id="d0e383">mar cearc air greideal</headword>
+      <description>excited.</description>
+    </item>
+    <item>
+      <headword id="d0e392">“tha do bheul a’ dol an uachdar ort”</headword>
+      <description>meaning “tha do chridhe a’ mireag riut” – a cluinntin leanabh a gàireachdainn. [NOTES: there is F next to this item possibly to indicate that it was provided by Flora MacLeod.]</description>
+    </item>
+    <item>
+      <headword id="d0e401">làn riospars</headword>
+      <description>a show off.</description>
+    </item>
+    <item>
+      <headword id="d0e410">thug e riddalaidhs air</headword>
+      <description>thug e an aghaidh air.</description>
+    </item>
+    <item>
+      <headword id="d0e419">goraisg</headword>
+      <description>foolish woman.</description>
+    </item>
+    <item>
+      <headword id="d0e428">gilcuram</headword>
+      <description>[?] daft.</description>
+    </item>
+    <item>
+      <headword id="d0e437">meuraite</headword>
+      <description>duine nach gabh a bhiadh.</description>
+    </item>
+    <item>
+      <headword id="d0e446">“nach fhiach thu ri grirdum ”</headword>
+      <description>[?] would you believe it? who would have thought it?</description>
+    </item>
+    <item>
+      <headword id="d0e455">criamhal mor de dhuine</headword>
+      <description>a clumsy big man.</description>
+    </item>
+	<item><headword id="d0e463" type="heading" level="h1">A successful man / A failure</headword></item>
+    <item>
+      <headword id="d0e468">duine adhartach</headword>
+    </item>
+    <item>
+      <headword id="d0e474">duine soirbheachail</headword>
+    </item>
+    <item>
+      <headword id="d0e480">te a gnothaich</headword>
+      <description>purposeful woman.</description>
+    </item>
+    <item>
+      <headword id="d0e489">air a thuc fhein</headword>
+      <description>working on own initiative.</description>
+    </item>
+    <item>
+      <headword id="d0e498">air a cheann fhein</headword>
+      <description>working on own initiative.</description>
+    </item>
+    <item>
+      <headword id="d0e507">duine laghanta</headword>
+      <description>[?] someone who did things to letter of law. [NOTES: this item in blue ink.]</description>
+    </item>
+    <item>
+      <headword id="d0e516">sgliurach</headword>
+      <description>an untidy housewife. [NOTES: the word provided as an example by the authors of the questionnaire and ticked by the fieldworker most probably to show that the informant used it.]</description>
+    </item>
+    <item>
+      <headword id="d0e525">leisgeadair</headword>
+      <description>lazy man.</description>
+    </item>
+    <item>
+      <headword id="d0e534">duine gun suim</headword>
+      <description>absent minded. Collainn gun suim cha tig dhachaidh.</description>
+    </item>
+    <item>
+      <headword id="d0e543">duine monaiseach</headword>
+      <description>absent-minded.</description>
+    </item>
+    <item>
+      <headword id="d0e552">duine rollaiseach</headword>
+      <description>over-excited in words or deeds.</description>
+    </item>
+    <item>
+      <headword id="d0e561">duine cearbach</headword>
+	  <description>[NOTES: this item in blue ink.]</description>
+    </item>
+    <item><headword id="d0e569" type="heading" level="h1">A wise man / Foolish</headword></item>
+	<item>
+	  <headword id="idola148">[note]</headword>
+	  <description>[NOTES: this section in blue ink]</description>
+	</item>
+    <item>
+      <headword id="d0e583">tùrail</headword>
+      <description>intelligent, skilful, practical.</description>
+    </item>
+    <item>
+      <headword id="d0e592">duine sgeinneil</headword>
+      <description>an efficient, energetic worker.</description>
+    </item>
+    <item>
+      <headword id="d0e601">sgeinn</headword>
+      <description>“dean sgeinn” – hurry up.</description>
+    </item>
+  </items>
+</fieldworkDocument>

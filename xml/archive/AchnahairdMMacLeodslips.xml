@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 5/8/15 -->
+<!-- Stephen/Ola: check out the last item here! -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_AchnahairdMMacLeodslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>10/1969</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <informant>
+    <nameEnglish>Murdo MacLeod</nameEnglish>
+    <age>80s</age>
+  </informant>
+  <location>Ross-shire, Achnahaird</location>
+  <items>
+    <item>
+      <headword id="idp167338112">luid</headword>
+      <description>Quotation: luid uisge. Notes: thin covering of water on the ground. (pl. of lod?)</description>
+    </item>
+    <item>
+      <headword id="idp167339840">raide</headword>
+      <description>[rɑdʹə] Notes: small, broad-leafed plant which cattle won’t eat.</description>
+    </item>
+    <item>
+      <headword id="idp167341640">pot</headword>
+      <description>[pɔt̪] Notes: a natural deep hole in the ground.</description>
+    </item>
+    <item>
+      <headword id="idp167343368">stàrn</headword>
+      <description>Notes: A kind of reed growing in soft places. About the height of corn. Has some leaves at the top.</description>
+    </item>
+    <item>
+      <headword id="idp167344880">tuanaich</headword>
+      <description>Quotation: tuanaich do bhòt. Notes: open, set free.</description>
+    </item>
+    <item>
+      <headword id="idp167346536">anamaig</headword>
+      <description>[ɑ̃ṉɑ̃mıɡʹ] Quotation: ’S ann anamaig a chunna mi e. Notes: seldom. (or anmaig)</description>
+    </item>
+    <item>
+      <headword id="idp167348408">buidheag-bhuidhe</headword>
+      <description>Notes: yellow flower growing in corn. (Prob. sgeallan.)</description>
+    </item>
+    <item>
+      <headword id="idp167349920">falaisg</headword>
+      <description>[fɑɫiʃɡʹ] Quotation: Dh’fhalbh iad a dh’fhalaisgeadh. Notes: vb. set fire to the heather.</description>
+    </item>
+  </items>
+</fieldworkDocument>

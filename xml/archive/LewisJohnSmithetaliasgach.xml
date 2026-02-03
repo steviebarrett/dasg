@@ -1,0 +1,714 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 13 4 14 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="WoolworkingandFishing_LewisJohnSmithetaliasgach" docType="questionnaire" subType="AcfhuinnIasgaich" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Acfhuinn Iasgaich / Fishing Tackle</title>
+  <fieldworker>Tormod MacLeòid [Norman MacLeod], Sgoil Lionail an Leòdhas [Lionel School, Lewis]</fieldworker>
+  <informant>
+    <nameEnglish>John Smith</nameEnglish>
+    <nameGaelic>Iain Mac a’ Ghobhainn</nameGaelic>
+    <origin>[Lewis], Dail a Tuath</origin>
+  </informant>
+  <informant>
+    <nameEnglish>Angus Cambell</nameEnglish>
+    <nameGaelic>Aonghas Caimbeul (Am Puilean)</nameGaelic>
+    <origin>[Lewis], Suaineabost [Swainbost]</origin>
+  </informant>
+  <informant>
+    <nameEnglish>Lewis Murray</nameEnglish>
+    <nameGaelic>Leòdhas Moireach</nameGaelic>
+    <origin>[Lewis], Lional</origin>
+  </informant>
+  <location>Lewis</location>
+  <items>
+    <item><headword id="d0e50" type="heading" level="h1">1. Lìon-mór</headword></item>
+    <item>
+      <headword id="d0e55">Lion-mor</headword>
+      <description>Great line. Tri cheud ’s tri fichead eathamh a dh’fhad.</description>
+    </item>
+    <item>
+      <headword id="d0e64">Sreang lin-mhoir</headword>
+      <description>Tri fichead eathamh.</description>
+    </item>
+    <item>
+      <headword id="d0e73">Sia sreangan chun an lin no chun na bascaid</headword>
+      <description>’S ann am bascaid sgadanach a bhios an lion mor air a’ reiteach gus a chur. Tha piosan àrca air an leigeil am beul na bascaid gus an càirear da dubhain annta. Tha an lion ga bhiadhadh mar a bhios iad ga chur a mach as an eathar. ’Se leth sgadain no sgadan beag slan am biadhadh mar as trice, ach tha gibnich anabarrach tarraingeach air an iasg, gu h-àraidh an langainn.</description>
+    </item>
+    <item>
+      <headword id="d0e82">Druim an lin</headword>
+      <description>An t-sreang air fad ris a bheil na snotaichean ceangailte. Tha trì eatheannan eadar gach snòta no dubhan. Chan eil sreang na snòta cho garbh ris an druim ach tha i air a dual dùbailte.</description>
+    </item>
+    <item>
+      <headword id="d0e91">Carcair</headword>
+      <description>So an t-ainm a tha air an t-snaim a tha ceangal na snòta ris an druim.</description>
+    </item>
+    <item>
+      <headword id="d0e100">An t-snòta</headword>
+      <description>Tha trì pìosan an so: an t-snòta sreanga, snòta gaoisd dhubh is snòta gaoisd gheal. Tha na tri ceangailte r’a cheile a’ deanamh na snòta.</description>
+    </item>
+    <item>
+      <headword id="d0e109">An dubhan</headword>
+      <description>Tha an dubhan air a réileadh ri ceann na snòta.</description>
+    </item>
+    <item>
+      <headword id="d0e118">Cur thuige lion-mór</headword>
+      <description>Deanamh an lin.</description>
+    </item>
+    <item>
+      <headword id="d0e127">Corcach</headword>
+      <description>Hemp. ’Se corcach a tha ann an druim an lin. ’Se dòrgh-dhradh garbh a tha anns na snòtaichean – aig amannan air am fileadh dùbailte. Tha an lion mór air a chur thuige air an aon dòigh ’sa tha an lion beag. Chan eil eadar dhealachadh eadar lion mór is lion beag ach ann an gairbhead an droma, am meud nan dubhan, is an truimid na cruaidhe.</description>
+    </item>
+    <item><headword id="d0e135" type="heading" level="h2">Ceangalaichean no Snaimeannan</headword></item>
+    <item>
+      <headword id="d0e140">(1) Carcair</headword>
+      <description>(Clove Hitch) Sin an snaim a tha ceangal na snòtaichean ris an druim anns gach lion. <illustration src="LewisJohnSmithetaliasgachillust1.jpg" width="800"/></description>
+    </item>
+    <item>
+      <headword id="d0e150">(2) Da shnaim càraidh</headword>
+      <description>(Double-sheet Bend) Sin an snaim a tha ceangal na sreangan r’a cheile gan cur. ’Se a tha ceangal earball a’ chàbuill ri aon earball de ròpa na cruaidhe, agus a’ ceangal earball no cluas an lin mhóir no an lin bhig ri earball eile ròpa na cruaidhe. <illustration src="LewisJohnSmithetaliasgachillust1.jpg" width="800"/></description>
+    </item>
+    <item>
+      <headword id="d0e160">(3) Snaim an iasgair</headword>
+      <description>(Fisherman’s Bend) Sin an snaim a tha daonnan a’ ceangal a’ chàbuill ris a’ phuta, ged aig amannan theid carcair air. <illustration src="LewisJohnSmithetaliasgachillust1.jpg" width="800"/><illustration src="LewisJohnSmithetaliasgachillust2.jpg" width="200"/></description>
+    </item>
+    <item>
+      <headword id="d0e171">Na Dubhain</headword>
+      <description>’Se Meud ceithir a tha iad a’ cleachdadh an diugh air lin mhóra. ’Se Meud trì a chleachd a bhith aca an so gu am a’ Chogaidh Mhóir 1939/45. ’Se iarrunn a bha ann am Meud Tri, ach ’se ‘alloy’ a tha ann am Meud Ceithir is tha e na’s làidire is cha mheirg e. <illustration src="LewisJohnSmithetaliasgachillust3.jpg" width="400"/>Suas gu Cogadh 1939/45 ’se (A) Meud Tri a bhiodh iasgairean Nis is Phortnagùran a’ gnathachadh. Bho’n am sin ’se (B) Meud Ceithir a tha iad a’ gnathachadh anns gach àite.</description>
+    </item>
+    <item><headword id="d0e181" type="heading" level="h2">Tha ainm fhein air gach pios de’n dubhan – beag is mór an aon ainm</headword></item>
+    <item>
+      <headword id="d0e186">(a) Am pas no chluas</headword>
+      <description>The flattened top part of the foot. <illustration src="LewisJohnSmithetaliasgachillust3.jpg" width="400"/></description>
+    </item>
+    <item>
+      <headword id="d0e196">(b) A’ chas no an calp</headword>
+      <description>The shaft of the hook. <illustration src="LewisJohnSmithetaliasgachillust3.jpg" width="400"/></description>
+    </item>
+    <item>
+      <headword id="d0e206">(c) A’ ghlaic</headword>
+      <description>The rounded part of the hook. <illustration src="LewisJohnSmithetaliasgachillust3.jpg" width="400"/></description>
+    </item>
+    <item>
+      <headword id="d0e216">(d) An rifeag</headword>
+      <description>The barb. <illustration src="LewisJohnSmithetaliasgachillust3.jpg" width="400"/></description>
+    </item>
+    <item>
+      <headword id="d0e226">(e) An gob no an rinn</headword>
+      <description>The point. <illustration src="LewisJohnSmithetaliasgachillust3.jpg" width="400"/></description>
+    </item>
+    <item><headword id="d0e235" type="heading" level="h2">Putan (Buoys)</headword></item>
+	<item>
+	  <headword id="idola250">[putan]</headword>
+	  <description>Tha iad an diugh air an deanamh de iomadh seorsa rud: canabhas, ‘plastic’, ‘aluminium’ is gloine.</description>
+	</item>
+    <item>
+      <headword id="d0e249">(1) Puta lin mhóir is lin sgadanach; Slige peileid</headword>
+      <description>B’ àbhaist do shlige a’ phuta so a bhith air a dheanamh de pheileid caorach – sin craiceann caorach is a’ chloimh air spionadh dheth. ’S ann ainneamh a chi sibh iad so an diugh. <illustration src="LewisJohnSmithetaliasgachillust4.jpg" width="700"/></description>
+    </item>
+    <item>
+      <headword id="d0e259">(2) Puta lin bhig</headword>
+      <description>Tha e so air a dheanamh de pheileid uain no othaisg. Tha e ma leth meud puta lin mhóir.</description>
+    </item>
+    <item>
+      <headword id="d0e268">(3) Aotraman</headword>
+      <description>Ni aotraman mór mairt deagh phuta lin bhig air an tràigh le tìde mhath samhraidh.</description>
+    </item>
+    <item>
+      <headword id="d0e277">(4) Puta canabhais</headword>
+      <description>’Se iad so as pailte an diugh.</description>
+    </item>
+    <item>
+      <headword id="d0e286">(5) Puta plastic</headword>
+      <description>The e so duinte gu h-iomlan gun chlaigeann no toll shéididh, is an ailbheag, cruinn mar faine, a’ fàs a mach as an t-slige.</description>
+    </item>
+    <item>
+      <headword id="d0e295">(6) Puta suap</headword>
+      <description>So gad arcachan a tha air a cheangal dha no tri de aitheannan sios air càbull an lin bhig nuair a bhios sruth tìde mhara làidir ann. Bheir so beagan faochaidh don phut bho neart na tìde mhara.</description>
+    </item>
+    <item>
+      <headword id="d0e304">(7) Puta gloine</headword>
+      <description>So puta de ghloine uaine a bhios a’ tighinn air tir air a’ chladach a bhios a’ fosgladh bho thràbhlaichean nan tralairean. Tha iad mu shia oirlich a’ leud mun teis meadhon, is ni tri dhuibh [sic] ann am pios lin puta lin bhig ann an tìde mhath, ach tha iad duilich am faicinn ma bhios pluicean no coileach air a’ mhuir.</description>
+    </item>
+    <item>
+      <headword id="d0e313">Claigeann puta</headword>
+      <description>Bòrd cruinn fiodha mu oirleach a thuighead [sic] a tha dunadh beul a’ phuta. Tha tearr (Archangel) ga chur air an oir is an canabhas no an craiceann air a leigeil ann.</description>
+    </item>
+    <item>
+      <headword id="d0e322">Reileadh</headword>
+      <description>Tha beul a’ phuta air a reileadh gu daingean gan an tearr so le sreang làidir is air a glasadh le snaimh an iasgair bho iochdair an réilidh.</description>
+    </item>
+    <item>
+      <headword id="d0e331">Toll shéididh</headword>
+      <description>Toll anns a’ chlaigeann gus sèideadh ann le t-anail gus am puta lionadh le gaoith.</description>
+    </item>
+    <item>
+      <headword id="d0e340">Spuinnean</headword>
+      <description>(Spun-yarn?) Tùc an toll shéididh. Tha pios den ròpa so air a chireadh a mach is air a roiligeadh cruinn is le beagan cagnaidh a dheanamh air tha e dol don toll shéididh. Bócaidh e anns an uisge.</description>
+    </item>
+    <item>
+      <headword id="d0e349">Dubhan comhallach</headword>
+      <description>[sic] So dubhan mór iarruinn air a dheanamh le gobha is air a leigeil do bhata làidir fada gus an t-iasg trom a thogail a steach don eathar no don bhàta. Gu tric is ann de spàg grapa a tha an dubhan so air a dheanamh. </description>
+    </item>
+    <item><headword id="d0e358" type="heading" level="h1">2. Lìon-beag</headword></item>
+    <item>
+      <headword id="d0e363">Lion-beag</headword>
+      <description>Tha sia sreangan a’ dol gu aon lion beag. Tha trì fichead aitheamh a’ dol gu aon sreang. Tha aon aitheamh eadar gach snòta no dubhan. An diugh ’se leth aitheamh.</description>
+    </item>
+    <item>
+      <headword id="d0e372">Druim an lin bhig</headword>
+      <description>Sin an t-sreang air a fad ris am bi na snòtaichean ceangailte.</description>
+    </item>
+    <item>
+      <headword id="d0e381">Snòtaichean</headword>
+      <description>Tha ceithir piosan anns gach snota: (1) An toinneamh. (2) An calp. (3) Snòta gaoisd gheal is dubh. (4) Dubhan. An diugh gheibh thu snòta ‘nylon’ leis an dubhan oirre anns a’ bhùth an aite snòta gaoisde, gus a ceangal ris a’ chalp.</description>
+    </item>
+    <item>
+      <headword id="d0e390">Sguil</headword>
+      <description>Bidh an lion beag air a bhiadhadh agus air a ghiùlain ann an sgùil. Gheibh thu sgùil air a deanamh (a) de fhiodh, <illustration src="LewisJohnSmithetaliasgachillust6.jpg" width="500"/>(b) de chuilc, <illustration src="LewisJohnSmithetaliasgachillust7.jpg" width="400"/>(c) de chearcaill. Chan fhaca mise sgùil air a deanamh de chearcaill ann an àite ’sam bith eile de’n eilean so ach ann an Sgìre Nis. ’Si as cumanta a tha ann an so.</description>
+    </item>
+    <item>
+      <headword id="d0e403">Beul na sgùil</headword>
+      <description>Tha sifeadh an àrda anns a’ bheul bho bhun a mionaich, is tha e air a thoirt beagan a steach – na’s cuinge – so far am bi am biadhadh air a leigeil.</description>
+    </item>
+    <item>
+      <headword id="d0e412">Broinn no Mionach na sgùil</headword>
+      <description>So mu mheadhon na sgùil, bho bun a’ bheòil gu faisg air an deireadh.</description>
+    </item>
+    <item>
+      <headword id="d0e421">An deireadh no An màs</headword>
+      <description>So far an cuir thu fon an t-sreang bonnach le im agus botul bainne air do shlighe chun a’ chladaich gu bhith agad ma thig an t-acras ort a muigh – mar as tric a thig. So cuideachd far an cuir thu crùbag, no creachan no beathach eisg annasach a thig air do lion beag fhein a bhios tu airson a thoirt dhachaidh leat.</description>
+    </item>
+    <item>
+      <headword id="d0e430">Cluasan na sgùil</headword>
+      <description>So toll anns gach cliathaich (a) Gus greim a ghabhail air nuair a bhiodh tu a’ falbh leis an sgùil air do chruachainn, air do ghualainn, no air cùl t-amhach. (b) Gus cluas no earbuill an lin bhig a cheangal ann nuair a sguireadh tu a bhiadhadh. (c) Gus sreang a cheangal tarsainn air an lion bho chluas gu cluas gus nach tuit e mach as nuair a bhios i agad air cùl t-amhach.</description>
+    </item>
+    <item>
+      <headword id="d0e439">Cleachdadh</headword>
+      <description>Shios againne ann am Portnaguran na’n tigeadh iasg annasach mar sùil-òir, no creachan air lion bha am fear leis am biodh an lion gan dleasadh dha fhein. Da mhìle suas air an sin anns an Rudha ann an Siadar na’m ann air druim an lin a bhiodh an creachan air greimeachadh ’se sgiobair a bha ga dhleasadh, ach ’nam ann air an dubhan a bhiodh e air greimeachadh ’se fear sgròbaidh a bha ga dhleasadh – cha robh facal aig fear an lin anns a’ ghnothach.</description>
+    </item>
+    <item><headword id="d0e447" type="heading" level="h2">A’ cur thuige lion beag</headword></item>
+    <item>
+      <headword id="d0e452">Dorgh-dhragh</headword>
+      <description>Faigh ceirsle de dhorgh-dhragh laidir nach bi cho caol ri dragh slait chreagaich.<illustration src="LewisJohnSmithetaliasgachillust8.jpg" width="700"/></description>
+    </item>
+    <item>
+      <headword id="d0e462">Calpan</headword>
+      <description>Gearr a mach as mu thri fichead pios anns an fhad a bhios tu ag iarraidh airson calpan na snotaichean.</description>
+    </item>
+    <item>
+      <headword id="d0e471">Sreang corcach; Druim</headword>
+      <description>Faigh ceirsle corcach trì cheud is trì fichead aitheamh a dh’fhad. Gearr aiste tri fichead aitheamh is ni sin druim aon sreang lin bhig.</description>
+    </item>
+    <item>
+      <headword id="d0e480">Toirt an toinneamh as an t-sreang so</headword>
+      <description>Ceangail ceann na sreanga so ri post no ri àite sam bith freagarrach a muigh agus ruith i eadar do lamhan dha no thri uairean a mach chun a chinn eile gus an laigh i air an talamh gun toinneamh innte.</description>
+    </item>
+    <item>
+      <headword id="d0e489">Ceangal nan calpan</headword>
+      <description>Tha na calpan a ghearr thu mach aig do chasan. Tomhais an nis an t-sreang as an tug thu an toinneamh a mach ’na h-aitheannan [?]. Ni thu sin le cur tarsainn do bhroilleach a’ tarraing do ghàirdeanan pios gu do chulthaobh. Aig ceann gach aitheamh ceangail calpa snòta le snaim carcair (Clove Hitch) ga theannachadh gus nach ruith e sios an druim. Gheibh thu da fhichead calp ’sa h-ochd deug air tha an t-sreang le na calpan ’na cnap aig do chasan.</description>
+    </item>
+    <item>
+      <headword id="d0e498">Toinneamh nan calp</headword>
+      <description>Faodaidh tu so a dheanamh a muigh ach tha e na’s goireasaiche a dheanamh a stigh, gu h-àraidh ma tha ulag an lin sgadanaich fhathast crochaid. Cuir ceann an droma troimh’n ulag is tarraing còrr is leth aitheamh troimphe, is ceangail ri tarag e dluth don ulaig a’ fagail a’ chinn slaoidte sios fo’n taraig.</description>
+    </item>
+    <item>
+      <headword id="d0e507">An t-earball</headword>
+      <description>Dean an nis earball an lin bhig leis na tha agad sios fo’n taraig, le lùbadh air a fhein agus toinneamh da dhual a chur air ga ghlasadh le ‘splice’. Teannaich an nis pios den druim bhon tarag so sios cho fada ’sa leigeas cliathaich an tighe dhuit agus ceangail e ri tarag eile gus am bi pios math den druim agad teann eadar an dà tharaig. Nuair a chuir thu na calpan air an druim dh’fhag thu cas fhada agus cas bheag mu thri oirlich no beagan na’s fhaide sios fon charcair. Tha a chas bheag so air a toinneamh ris a’ chalp fhada is air a glasadh le snaim. Nuair a ni thu so air a chula calp a tha eadar an da tharaig tha thu ga fosgladh bho na tairgean agus a’ slaodadh uiread eile don druim le na calpan troimh’n ulaig is gan ceangal a rithist. Lean air adhairt mar so gus an cuir thu an toinneamh air a chula calp.</description>
+    </item>
+    <item>
+      <headword id="d0e516">Cluas</headword>
+      <description>Nuair a ruigeas tu an ceann tha thu a’ cur cluas no earbull eile air an druim an so. Faodaidh cluas is earbull no dà earbull a bhith air a chula sreang lin bhig.</description>
+    </item>
+    <item>
+      <headword id="d0e525">Cartadh</headword>
+      <description>Mus cuir thu na snòtaichean gaoisd air tha thu ga chartadh anns a’ phrais dhath le cairt dhonn (bark) agus ga chur ’na luibean air gàrradh na h-iodhlann, no air àite freagarrach eile gus an tiormaich e.</description>
+    </item>
+    <item>
+      <headword id="d0e534">Deanamh na snòtaichean gaoisde</headword>
+      <description>’Se muigh no earball eich a bha so – dubh no geal. Chan fhaca mi a riamh gaoisde ruadh. Tha mu shia gu ochd de ghaisneannan gaoisde agus mu ochd oirlich de fhad a’ dol gu snòta. Tha thu a’ cur snaim ‘half-hitch’ agus a’ deanamh da leth air fad air an aireamh de ghaisneannan so – tri no ceithir air gach taobh. Tha an t-snòta an nis ga toinneamh le do bhois air do ghlùin, agus gus a fàs craiceann do ghlùin cleachte ris an obair so tha thu a’ cur cràiteachan de luathaidh as an teine oirre an drasda ’sa rithist, ach am beagan uine cha leig sibh a leas so oir theid a’ ghlùin mar crodhan. ’S mise fear a bha thall ’sa dh’fhairich. Tha thu a’ dùnadh gach snota le ‘half-hitch’; a’ ceangal snota dhubh is snota gheal r’a cheile, agus an sin ris a’ chalp. Tha thu a’ reileadh dubhan aig ceann gach snota is tha an lion beag a nis air a chur thuige.</description>
+    </item>
+    <item><headword id="d0e542" type="heading" level="h2">Biathadh</headword></item>
+    <item>
+      <headword id="d0e547">Boit no boite</headword>
+      <description>(Bait) Tha an lion beag air a bhiathadh ann an sgùil, le boite ga chur air gach dubhan.</description>
+    </item>
+    <item>
+      <headword id="d0e556">(1) Siolan</headword>
+      <description>(Sand eels) Tha iad so air an cladhach as an tràigh ghainmhich le gràpa no le corran.</description>
+    </item>
+    <item>
+      <headword id="d0e565">(2) Luga</headword>
+      <description>(Lug-worm) Tha iad so air an cladhach as an traigh ghainmhich no as an laghach le spaid. Tha na siolan freagarrach (is na lugaichean) air lion beag a theid a chur air a’ chamus air an tràigh, ged a ni maorach is sgadan deagh iasgach an so cuideachd.</description>
+    </item>
+    <item>
+      <headword id="d0e574">(3) Maorach</headword>
+      <description>(Limpets) Tha am facal ‘maorach’ a’ ciallachadh anns an eilean so air fad ‘bàirnich’ (limpets). ’Se bàirneach a chanadh sinne ris a’ bhàirneach bheag bhàn a gheibheadh sinn ann an carraic stamh. Tha am maorach air a bhuain feir na sgeirean le òrd maoraich.</description>
+    </item>
+    <item>
+      <headword id="d0e583">Ord-maoraich</headword>
+      <description>’Se sgian bhùird a tha so air a deanamh goirid. Tha a’ chas aice air a suaineadh le luideig, is sin air a réileadh le dragh no le pios sreang lin bhig. Mar sin cha shleamhnuich i ’na do laimh ged a bhiodh an sgian is do làmh fliuch. <illustration src="LewisJohnSmithetaliasgachillust9.jpg" width="400"/>s</description>
+    </item>
+    <item>
+      <headword id="d0e594">Slaopadh</headword>
+      <description>Ga chur gu feum cha teid ach slaopadh a dheanamh air a’ mhaorach. Nuair a bhlathaicheas e anns an t-slige air an teine cho luath as urrainn dhuit am biadh a chur as an t-slige le bruthadh bho t-òrdaig mhóir, tha e slaoipte is deas gus a chur air an dubhan anns an sguil no a thoirt leat chun a’ chreagaich. Ma leigeas tu goil leis tha am biadh a’ dol cruaidh is gun fheum airson iasgach leis.</description>
+    </item>
+    <item>
+      <headword id="d0e603">Cac a’ mhaoraich</headword>
+      <description>Mionach, no broinn bog na bairnich. Gle bhlasda ma bhios an t-acras ort air a’ chreagach.</description>
+    </item>
+    <item>
+      <headword id="d0e612">(4) Feusgan</headword>
+      <description>(Mussel) ’So am biadhadh as àill leis an iasgair gus iasgach leis air an tràigh no aig airde.</description>
+    </item>
+    <item>
+      <headword id="d0e621">Feusag an fheusgain</headword>
+      <description>Na gaoisdean laidir a tha ga cheangal ris an sgeir.</description>
+    </item>
+    <item>
+      <headword id="d0e630">Sgileadh</headword>
+      <description>(Unhusking) Fosgladh an fheusgain le sgithinn is a’ toirt a’ bhiadhaidh as. Tha an t-ainm so – sgileadh – aca air an obair so air feadh an eilein so air fad, ach tha ainmeannan eile aca air an obair so an sud ’san so: Spioladh fheusgan – canaidh iad sin ris anns an Rudha (Portnaguran); Sgiuileadh fheusgan – air na Lochan; Sgiuileadh no sgiuileagadh – ann an Nis.</description>
+    </item>
+    <item>
+      <headword id="d0e639">(5) Sgadan</headword>
+      <description>Tha an sgadan air a sgoltadh sios am broinn is an cnaimh air a thoirt as. Tha na boitean air an gearradh ann an cumadh ‘diamond’, is mar sin theid iad an glaic a cheile anns an sgùil is gheibhear barrachd dhuibh [sic] do bheul cumhang na sgùile.</description>
+    </item>
+    <item>
+      <headword id="d0e648">(6) Rionnach</headword>
+      <description>Tha an rionnach air a sgoltadh sios an druim is tha e air a ghearradh airson biadhaidh mar an sgadan – cumadh diamon.</description>
+    </item>
+    <item><headword id="d0e656" type="heading" level="h2">Biadhadh an lin-bhig</headword></item>
+	<item>
+	  <headword id="idola251">[lion beag]</headword>
+	  <description>Tha an lion beag, a tha air a réiteach a cheana, air a dhòirteadh ’na chnap ri do chois chli. Suidh air stòl, no air an lar leis an sguil fhalamh eadar do dha chois. (Tha seir car àrd is trom air do dhruim.) Tarraing earball an lin bhig tarsainn air do shliasaid chli, is cuir a mach tarsainn air oisean màs na sguile e gus am bi e deiseil gus a cheangal ri lion beag eile aig am cura. Tha druim an lin-bhig a nise ga chuibhligeadh do bhroinn no mhionnach na sguile gus an tig thu chun a’ cheud snòta. Tha biadhadh ga chur air an dubhan, is tha an dubhan leis a bhiadhadh so ga chur ’na laighe ri cliathaich na sguile gu do laimh chli far am bheil broinn agus beul na sguile a’ coinneachadh, is tha thu gabhail air t-adhart a leigeil gach dubhan le biadhadh taobh ri taobh gus an ruig thu taobh eile na sguile is bidh sreath deiseil. Tha thu a’ tilleadh gu do laimh chli leis an dara sreath is leis gach sreath eile gus am bi an lion air a bhiadhadh gu h-iomlan. Nuair a theid an dubhan mu dheireadh a bhiadhadh tha thu ceangal earball (no cluas) an lin bhig ri cluais na sguile – ris a chluais dheis – oir ’se ise a bhios na’s fhaisge air an fhear cura anns an eathar. Cuiridh thu a nise an sgùil air a bhalla tarsainn no air an tobhta gus am bi thu deas gu falbh leatha, ach fiach gun cuir thu t-oiliscin no comhdach sam bith eile air a bhiadhadh anns an sguil air an neo ’se cait a’ bhaile a bhios tu a’ sgròbadh dheth mus fhaic e an fhairge.</description>
+	</item>
+    <item><headword id="d0e669" type="heading" level="h2">A’ cur na lion-bheaga</headword></item>
+	<item>
+      <headword id="d0e674">Air a’ chladach</headword>
+      <description>Tha an criudha cruinn mu’n eathar.</description>
+    </item>
+    <item>
+      <headword id="d0e683">Lonnan</headword>
+      <description>So cabair ghoirid de dh’fhiodh, gu tric stéibhichean tocsaid a tha air an càradh mu thri troighean bho cheile bho far a bheil an t-eathar gu beul na mara. Mu bhios an t-eathar trom tha ‘cart-grease’ air a shliobadh air na lonnan so. Tha an t-eathar air a slaodadh sios (Siudaibh a bhalacha, bhur druim rithe) air na lonnan so gus a faighear i air bhog.</description>
+    </item>
+    <item>
+      <headword id="d0e692">(Seòladh)</headword>
+      <description>Tha dithis air am bi botunnan dionach ga cumail ’na h-aite an sin, no dithis anns an eathar le ràmh a fear an taice ris a ghrunn. Tha an t-uidheam iasgaich a nise ga chur innte – na raimh, an crann, an seòl, an stiùir, dà phuta, dà chàbull, dà chruaidh agus na sgùiltean. Tha an dubhan comhallach innte daonnan.</description>
+    </item>
+    <item>
+      <headword id="d0e701">A’ chruaidh</headword>
+      <description>’Se clach throm, freagarrach gus am ball cruaidhe a shnaim uimpe a tha so.</description>
+    </item>
+    <item>
+      <headword id="d0e710">Ball no Ròpa na cruaidhe</headword>
+      <description>’Se pios càbuill, le dà earball air a thoinneamh air a tha so. Bidh e suas ri aitheamh a dh’fhad.</description>
+    </item>
+    <item>
+      <headword id="d0e719">Ceangalaichean na cruadhach</headword>
+      <description>Tha am ball so air a shnaim ris a chruaidh le tri snaimeannan daingean. A cheud snaim mu thrian bho cheann na cruadhach ‘Timber Hitch’, air a neartachadh le ‘Half Hitch’ mu thrian bhon cheann eile agus tha iad air an glasadh os cionn na cruadhach le carcair no ‘Clove Hitch’.</description>
+    </item>
+    <item>
+      <headword id="d0e728">Earbaill seasg</headword>
+      <description>Tha an da earball don bhall so a nis air ceann sgaoilte gus an ceangal ris a’ chàbull is ris a’ lion bheag. ’Se earbaill seasg a bhiodh aca oirre mar so.</description>
+    </item>
+    <item>
+      <headword id="d0e737">Mach leatha</headword>
+      <description>Nuair a tha gach ni anns an eathar tha an criudha a’ dol air bòrd, ach gu bheil am fear as fhearr botunnan a’ fuireachd a muigh gus sàthadh a thoirt dhith. As deidh dha-san leum innte tha iad a deanamh air a’ ghrunn iasgaich.</description>
+    </item>
+    <item>
+	  <headword id="d0e746">A’ cur</headword>
+      <description><illustration src="LewisJohnSmithetaliasgachillust1.jpg" width="800"/>Tha an sgiobair air an sguit deiridh agus is e esan as trice a bhios ri cur. Tha fear a dh’aon ghnothaich air an tobhta deiridh gus gach sguil a chur chun an fhir cura. Tha e cur sguil air an t-sòla eadar e fhein agus an sgiobair agus a’ ceangal an lin bhig [ri?] fear de earbaill seasg na cruadhach agus tha an sgiobair a’ ceangal a’ chabuill ris an earball seasg eile a’ deanamh cinnteach gu bheil pailteas cabuill aige a reir an àirde aig a bheil e. Tha na lin – lin mhóra, lin bheaga, no lin sgadanach air an cur air ‘taobh a deas na luinge’ agus tha na lin air an cur is air an togail mu ghabhas e deanamh le ruith sruth na tìde mhara – gu h-àraidh ma tha t-earbsa ann an ràimh no seòl – agus ma bhios sruth anabarrach laidir ann tha puta suap a’ dol air a’ chàbull. Tha an càbull, a tha ’na luban réidh air beulaibh an fhir cura a’ ruith air a shocair tre làmhan, a’ chruaidh air a slighe chun a ghrunn a’ toirt a mach an lin bhig gu réidh as an sguil. Tha an càbull a ruith tre làmhan an sgiobair a chionn mu theid an lion troimhe cheile no mu ghlacas dubhan ann an àite sam bith gu stad e a’ chruaidh gu h-obann fhads a bhitear a’ réiteach sin. Tha an t-eathar aig an am so gu tric ’na stad no an dithis a tha air na raimh a’ cumail fòdhpa gus an dean a chruaidh grunnd dheth.</description>
+	  <note>Tha na snaimeannan air am fàgail gun an teannachadh. Thoir slaodadh air gach ceann sgaoilte is dùinidh iad teann r’a cheile.</note>
+    </item>
+	<item>
+      <headword id="d0e759">Cum fodha</headword>
+      <description>(Back Water) Put the brakes on.</description>
+    </item>
+    <item>
+      <headword id="d0e768">Togail nan comharraidhean</headword>
+      <description>Nuair a bhuaileas a chruaidh tha na comhraidhean gan togail. B’ann nuair a bhiodh iad a’ cur aig airde a bhiodh iad a’ cumail cuimhne air comharraidhean grunn iasgaich. Faisg air tir ’se na comharraidhean a dh’fheumadh tu a sheachnadh bu tric a chluinneadh tu, is bhiodh iad mar rann bàrdachd ‘Cnoc an teine air Mùirneag is Seonaid air an t-Sìthean’ – comharradh Bogha bàgh Phort Mhallair.</description>
+    </item>
+    <item>
+      <headword id="d0e777">Fannadh</headword>
+      <description>Nuair a bhuaileas a’ chruaidh tha an dithis a tha air an ràmh a’ toirt fannadh do’n eathar – sin gluasad socair. Cha bhi i ag iarraidh moran de neart iomraidh co dhiù oir tha i a’ ruith ann an sruth na tide mhara. “Cha robh fiu fannadh againn.” Sin a their fear a chaidh a ghlacadh a muigh le sheòl is thainig feath nan eun air ’sa sheol ’sa dhruim ris a chrann.</description>
+    </item>
+    <item>
+      <headword id="d0e786">A’ cur</headword>
+      <description>Tha an sgiobair a’ cur, ’na shuidhe air an sguit amna [sic] [anns?] an deireadh agus tha fear air an tobhta deiridh a’ cumail ris na sgùiltean agus aig an aon am a’ ceangal an lion bheaga r’a cheile, is tha sin a’ dol gus an teid an dubhan mu dheireadh a mach.</description>
+    </item>
+    <item>
+      <headword id="d0e795">Fangh</headword>
+      <description>Bidh an sgiobair a’ toirt nan òrdughan. Nuair a bhios e air son luib a thoirt air an lion bheag ceanglaidh e clach no cuideam beag ri druim an lin ach an lub an lion gu cothromach air a’ ghrunn. ’Se ‘fangh’ a tha air a’ chuideam so. (Fangh, a vey nasal ‘n’.) Nuair a theid an dubhan ma dheireadh a mach tha earball an lin sin air a cheangal ri earball seasg na cruaide [sic], is a chruaidh ’sam puta ga thilgeil a mach.</description>
+    </item>
+    <item>
+      <headword id="d0e804">Clach bhàithte</headword>
+      <description>So cruaidh a tha a’ dol air earball an lin bhig ma dheireadh is gun chàbull no puta oirre.</description>
+    </item>
+    <item>
+      <headword id="d0e813">Tìdeachadh</headword>
+      <description>Gabhail air do shocair chun a’ cheud phuta, is ri stad tiota gus cothrom a thoirt don iasg a thighinn chun nan dubhan. Ma bhristeas an lion beag eadar an da chruaidh anns an togail ’se sgrioban a bheir chun an uachdair a ris iad.</description>
+    </item>
+    <item>
+      <headword id="d0e822">A’ togail</headword>
+      <description>Tha an sgiobair a’ beirsinn air a’ phuta is a togail a’ chabuill a steach is earball a’ cheud lion ceangailte ris.</description>
+    </item>
+    <item>
+      <headword id="d0e831">Geal ris a’ chruaidh</headword>
+      <description>Tha so a’ ciallachadh gu bheil iasg air an dubhan as fhaisge air a’ chruaidh. Tha cuid ann fhathast nach eil ag iarraidh so oir tha iad don bheachd gur e mealladh a tha ann is nach fhaigh iad móran éisg as a chur so.</description>
+    </item>
+    <item>
+      <headword id="d0e840">Sgròbadair no Fear sgròbaidh</headword>
+      <description>So a fear a bhios a’ toirt an éisg bho na dubhain mar a thig e don eathar. Aithnichidh tu an droch sgròbadair air na bhios de dhubhanan a dhith air do lion beag, no ma bhios gaileach an eisg a mach air a bheul. ’Sann a’ slaodadh nan dubhan as na beòil a bhios esan an àite fosgladh.</description>
+    </item>
+    <item>
+      <headword id="d0e849">[Sgiobair]</headword>
+      <description>Bidh an sgiobair anns an deireadh a’ togail nan lion agus a’ toirt ordughan don dithis air an ràmh.</description>
+    </item>
+    <item>
+	  <headword id="d0e858">Cum fodha</headword>
+	  <description>Back water. Ma bhios a’ ghaoth air a gualainn, bidh an t-eathar ag iarraidh chun na gaoithe, is feumaidh buille nas làidire a bhith aig an fhear a bhios air ràmh an fhuairidh. So cuid de bhriathran sgiobair don dithis a tha iomradh: Cum agad i; Na leig thugad i; Ràmh a tha thall as fheàrr; Socair – bheil sibh a’ faicinn an lion a’ tighinn as mo dheidh; Buile mhath le cheile an nis; Cum bhuat i; Bheil sibh a’ faicinn gu bheil sibh a’ ruith air a dhruim, etc. Chan e obair thlachdmhor a bhith air na raimh agus sgiobair greannach a togail.</description>
+	</item>  
+    <item>
+      <headword id="d0e867">Roinn</headword>
+      <description>Nuair a thig an dubhan mu dheireadh a steach air bòrd tha iad a’ deanamh air a’ chladach. Nuair a ruigeas iad, tha an t-iasg ga thoirt aisde agus air a roinn ’na earrannan cothromach air a’ mhol, is fear a’ dol air a shùilean gus eubhachd a mach co gheibh iad. Bidh earrain air leth ann airson an eathair.</description>
+    </item>
+    <item>
+      <headword id="d0e876">Réiteach lion beag</headword>
+      <description>Tha an lion ga dhóirteach a mach as an sguil is ga réiteach innte. Tha chula dubhan ga chur ann an siopaig le ‘Marline Spike Hitch’. <illustration src="LewisJohnSmithetaliasgachillust10.jpg" width="400"/>Bidh cuid a’ cur an dubhain ann an toinneabh na calp.</description>
+    </item>
+    <item>
+      <headword id="d0e887">Siopaig no siopaigeadh</headword>
+      <description>’Se iasg air a shiopaigeadh a chanar ri iasg a theid a ghlacadh gun an dubhan ’na bheul.  Tha e deiseil an nis air son a bhiathadh as ùr.<illustration src="LewisJohnSmithetaliasgachillust11.jpg" width="400"/></description>
+    </item>
+    <item><headword id="d0e896" type="heading" level="h1">3. Lìon-sgadanach</headword></item>
+    <item>
+      <headword id="d0e901">Lion-sgadanach</headword>
+      <description>Mu ochd slait dheug a leud agus leth cheud slat a dh’fhad. Tha ainmeannan nan ropan air an dealbh. Glacaidh an lion so sgadan, rionnach is cnaimh-rionnach. Cha toigh leis an iasgair an cnaimh-rionnach idir. Tha e dona gu milleadh nan lion agus anabarrach duilich a chrathadh asda – aig amannan feumaidh iad an lamhan a ghabhail dha. Aig amannan theid corra bhradan an sàs, ach feuchaidh an t-iasgair ri chrathadh as an lion mus buail a beul a’ bhàta. Aig amannan eile suainidh cearban e fhein annta – agus is e sin as miosa buileach.<illustration src="LewisJohnSmithetaliasgachillust12.jpg" width="800"/></description>
+    </item>
+    <item>
+      <headword id="d0e911">Dafuns</headword>
+      <description>Sreangan caola eadar a’ gheibhil is an rib le àrca air a chula dàrna dafun. An diugh tha lin ann leis an àrca air a leigeil ris an rib is cha bhi feum air dafuns.</description>
+    </item>
+    <item>
+      <headword id="d0e920">Am buidhe ròpa</headword>
+      <description>So an ròpa a tha ceangal a’ phuta ri cluasan da lion. Innsidh de an àirde aig am bi an sùlaire ri sgéith mus teid e air a cheann gu de am fad a leigeas iad am buidhe ropa mus ceangail iad ris an lion e. Mu bhios an sulaire ri seoladh ard tha an sgadan domhainn.</description>
+    </item>
+    <item>
+      <headword id="d0e929">A’ tarraing nan lion</headword>
+      <description>’Se ‘Tarraing’ a chanas iad ri toirt air bòrd na lin so, ach ’se togail a chanas iad ri toirt air bòrd lin bheaga is lin mhóra.</description>
+    </item>
+    <item>
+      <headword id="d0e938">Tarraing dubh</headword>
+      <description>Sin tarraing nan lion mar a chaidh iad a mach gun lann annta.</description>
+    </item>
+    <item>
+      <headword id="d0e947">Tarraing breac</headword>
+      <description>Sgadan an sud ’san so air feadh nan lion.</description>
+    </item>
+    <item>
+      <headword id="d0e956">Tarraing geal</headword>
+      <description>Shota math.</description>
+    </item>
+    <item>
+      <headword id="d0e965">Togail nan lion</headword>
+      <description>Tha na lin air an tarraing dhan an toll. Ma bhios sgadan annta tha na h-iasgairean air an t-slighe gu port dhan togail as an toll gu dec is a’ crathadh an sgadain nach do chrath iad asda dhan tarraing dhan na tuill fo’n dec agus fo àrd ùrlar an tuill. Mar a bi sgadan aca cha tog iad na lin gu ruig iad port. Bidh na lin air an dec gus an teid an sgadan a chur a mach.</description>
+    </item>
+    <item>
+      <headword id="d0e974">‘Layaigeadh’ nan lion</headword>
+      <description>Mus teid iad gu muir a rithist tha na lin air an càradh air àrd ùrlar an tuill réidh deas gus an cur – na putan taobh an deiridh is na stopairean taobh an toisich.</description>
+    </item>
+    <item>
+      <headword id="d0e983">Leth-chas</headword>
+      <description>Aon snàilean briste ann am mogul. <illustration src="LewisJohnSmithetaliasgachillust13.jpg" width="300"/></description>
+    </item>
+    <item>
+      <headword id="d0e993">Da leth-chois</headword>
+      <description>Da mhogul ri taobh a cheile is snàilean briste anns gach fear. ’Sann air leth-choisean a dh’ionnsuich balaich is clannighean toiseach càraidh. <illustration src="LewisJohnSmithetaliasgachillust14.jpg" width="300"/></description>
+    </item>
+	<item>
+	  <headword id="idola252">[dà chleachdadh a bha air an casg]</headword>
+	  <description>(Da chleachdadh a bha air an casg dhuinne anns an eathar aig muir: feadalaich – tharraingeadh so gaoth nuair nach bitear ga h-iarraidh, agus a’ cunntadh an éisg mar a bhiodh e a’ tighinn fear bho fhear air an lion – chuireadh so a mach a iasg thu.)</description>
+	</item>
+    <item><headword id="d0e1011" type="heading" level="h1">4. Lìon sam bith eile</headword></item>
+	<item>
+      <headword id="d0e1016">Lion sgadanach</headword>
+      <description>Tha ceithir cluasan air lion sgadanach. Anns a’ chur tha am buidhe ròp a’ ceangal da lion r’a cheile aig an arc gu h-àrd, agus tha ‘Stopair’ a’ ceangal a dha aig an druim iochdair.</description>
+    </item>
+    <item>
+      <headword id="d0e1025">Stopair</headword>
+      <description>Am ball a tha ceangal na lin aig an druim iochdair ris an ‘Spring-Rope’.</description>
+    </item>
+    <item>
+      <headword id="d0e1034">Spring-rope</headword>
+      <description>An ròpa tiugh trom a tha cumail na lin comhnard anns a’ mhuir. Anns an tarraing tha an càbull so a’ dol mu cheapsun is tha an còcaire ga chuibhligeadh gu cothromach do tholl anns an dec faisg air an toiseach. Is e so as coireach gur e cuibhleir a theirte ris a’ chòcaire. Tha na stopairean air am fosgladh bhon spring-rope anns an tarraing ach chan eil na buidhe-ropan air am fosgladh bho na lin.</description>
+    </item>
+    <item>
+      <headword id="d0e1043">Mogul</headword>
+      <description>Tha da oirleach anns gach mogul anns gach lion ùr. Leis a’ chartadh agus leis cho tric is a bhios iad anns an fhairge tha gach mogul a’ fas na’s cuinge gach season, gus mu dheireadh cha bhith na lin so gu feum ann an iasgach an t-samhraidh. Bidh iad gan cur gu feum anns a’ gheamhradh agus as t-earrach gu glacadh sgadan beag na lochan. Tha cuid de na lochan cho salach le sgeirean is le bóghaichean is nach fhaigh na bàtaichean air ‘druftadh’ annta. Bidh iad mar sin a cur badan lion air acraichean annta aig tuiteam na h-oidhche is gan togail aig tighinn an la. <illustration src="LewisJohnSmithetaliasgachillust15.jpg" width="400"/></description>
+    </item>
+    <item>
+      <headword id="d0e1053">Roinn a’ chosnaidh</headword>
+      <description>Tha an ‘Gross’ – sin na choisneas am bàta fada an t-séasoin anns a’ bhanca. Aig deireadh an t-séasoin tha an toiseach cosgais a’ bhàta ga phàidheadh – am biadh a dh’ith iad, an gual no an ola, tuarasdal nan daoine dubha – so an draibhear (engineer), a ‘fireman’ is an còcaire, is bhiodh beagan ga thoirt mar thiodhlac don sgiobair. Bha sin a’ fagail an ‘Net’.</description>
+    </item>
+    <item>
+      <headword id="d0e1062">‘An Net’</headword>
+      <description>Bha an ‘Net’ air a roinn ’na thrì earrainnean. Bha trian a’ dol chun a’ bhàta; is trian eile chun na lin. Bhiodh cuid de’n chriudha aig am biodh earrainnean lion innte, is bha an trian so ga roinn eatorra a reir meud an earrainn. Bha an tritheamh trian air a roinn gu cothromach eadar an criudha gu leir ach na daoine dubha. Mar sin chleachd fear tuarasdail aig nach biodh earrainn lion no ciubhroinn do’n bhàta a bhith faighinn ochdamh earrainn deug de’n ‘Net’.</description>
+    </item>
+    <item>
+      <headword id="d0e1071">‘Ring-Net’</headword>
+      <description>So lion mór fada air oibreachadh eadar da bhàta. Leis an lion so tha iad ga chur mun chliath sgadain anns an uisge agus a’ crodhadh a’ sgadain ann gus an tig an da bhata gu cheile. Tha iad an sin a’ togail an sgadain chun an uachdair is ga sgumaireachd do bhàta eile. Cha bu toigh le iasgairean nan ‘Drift-nets’ an dòigh iasgaich so idir. Bha iadsan a’ cumail a mach gu robh an dòigh so a’ glacadh an sgadain mus tigeadh e gu ìre, gur e sgadan air a lannaigeadh (scaled fish) a bh’ann leis a mhoran laimhseachadh a bha iad a’ deanamh air mus ruigeadh e port, is gu robh an dòigh so a’ glacadh a chula seòrsa sgadain, beag, mór agus spent, is gu robh móran dheth ga bhàthadh is gun fheum airson min éisg fhein. Cha robh móran feum anns an sgadan so airson a’ chutadh, is bhiodh e air a’ reic ri bhanaichean a ruitheadh gach sgìre leis ga reic bho dhorus gu dorus, ach bha a chuid mhór dheth a dol chun a’ factoraidh far an robh e air a phronnadh sios, an ola air a thoirt as, is an còrr a bhiodh air fhàgail dheth air a thionndadh ’na thodhar Gallda, ’na bhiadh mhucan is ’na bhiadh chearcan.</description>
+    </item>
+    <item>
+      <headword id="d0e1080">Sgadan beag nan lochan</headword>
+      <description>Bhiodh an sgadan so, lan meilg is iuchair a’ dol a steach gu ruigeadh feamainn nan creag do gach loch mara is òb sios corsa sear Leódhais gach geamhradh mu am na bliadhn’ ùire. Bha e mar gum biodh iad a’ cur feum air uisge nan allt ’s nan aibhnichean. An diugh ’se gle bheag den sgadan so a gheibhear anns na lochan so – tha na ‘ring-netters’ ga ghlacadh a muigh anns a’ chuan mus ruig e tir. Cha chreid mi gu bheil iad a’ faighinn na h-uighir dheth ann an Loch Fìn fhein an diugh. ’Se gle bheag de bhàtaichean ‘drift-nets’ a tha ris an iasgach sin an diugh is mar sin ’se gle bheag de chutadh a tha dol air adhairt. Bha uair ’s ge bith de am bàta gu rachadh tu, bochd ’s ga robh iad, thairgte ‘fry’ dhuit. An diugh feumaidh tu do làmh a chur ’na do phocaid.</description>
+    </item>
+    <item>
+      <headword id="d0e1089">Seine nets</headword>
+      <description>An diugh ’se ‘seine-netters’ a tha anns a’ chuid as motha de iasgairean Leódhais ag iasgach an eisg ghil is na musgain caol. Chan eil an obair so cho cruaidh oir tha iad anns a’ chidhe a chula h-oidhche. Cha t-fhuair mi eòlas ’sam bith air an obair so.</description>
+    </item>
+    <item>
+      <headword id="d0e1098">Lion-leóbag</headword>
+      <description>Tha e mu thri cheud troigh a dh’fhad is mu cheud troigh a leud ach gheibh thu cuid na’s motha is na’s lugha na sin. Tha ceithir cluasan air is coig òirlich anns gach mogul. Tha àrcaichean caola mar arcaichean botuil a’ ruith an druim àrd mu shia òirleach dheug bho cheile, agus mu choinneamh gach àrca sin air an druim iochdair tha piosan de luaidhe chaol. Tha poca air fhighe anns an lion fhein is tha na leóbagan is na sòrnain ga suaineadh fhein anns a’ phoca so. Bidh barrachd air an sin ga suaineadh fhein ann – eoin mhara – an sgarbh, an t-eun dubh is bughaidean, is chunna mi aon uair burbhailleach bhòidheach air a bathadh ann am fear is chuir e an aghaidh an lin so mi. <illustration src="LewisJohnSmithetaliasgachillust16.jpg" width="800"/></description>
+    </item>
+    <item><headword id="d0e1107" type="heading" level="h2">An cutadh</headword></item>
+    <item>
+      <headword id="d0e1112">Cutadh</headword>
+      <description>A’ toirt a’ mhionaich as gach sgadan le cutaig ach a’ fàgail an iuchair, no a’ mhealg is a’ bhloinig ann. Tha e an uair sin air a shailleadh is air a phacaigeadh ann am baraille. <illustration src="LewisJohnSmithetaliasgachillust17.jpg" width="200"/></description>
+    </item>
+    <item>
+      <headword id="d0e1122">Criudha chutairean</headword>
+      <description>Tha triùir anns gach criudha – da chutair agus pacair. Ann an Leódhas co dhiu, ’se boireannaich a bhiodh anns gach criudha, ach bhiodh criudhaichean fhireannach a Eirinn an sud ’san so am puirt a’ chost a sear as t-samhradh air am biodh na caileagan a’ faighinn dibhersion gu leor.</description>
+    </item>
+    <item>
+      <headword id="d0e1131">Cuibhleirean</headword>
+      <description>’Se cuibhleirean a chanadh iad ri criudha chlannighean a’ cheud season a bhiodh iad aig a’ chutadh.</description>
+    </item>
+    <item>
+      <headword id="d0e1140">Airleis</headword>
+      <description>So airgiod a bhiodh gach te ann an criudha ri faighinn bhon chùireir nuair a cheangaladh iad fhein ris mus toisicheadh an t-iasgach. Tha cuid beò fhathast a thoisich air tasdan de àirleis, ach bha e cho àrd ri deich tasdain an te nuair a sguir iad a dhol ’nan treudan chun an iasgaich so.</description>
+    </item>
+    <item>
+      <headword id="d0e1149">Na fàluns</headword>
+      <description>So an t-ainm a bha aca air an amar mhór cheithir oiseanach anns am biodh an sgadan air a dhòirteadh air beulaibh nan cutairean mar a thigeadh e as na bàtaichean. <illustration src="LewisJohnSmithetaliasgachillust18.jpg" width="600"/></description>
+    </item>
+    <item>
+      <headword id="d0e1159">Tubaichean an taghaidh</headword>
+      <description>Air an làr ri laimh dheis gach cutair bhiodh sreath de thubaichean le làmhan ròpa, agus gun sealltuinn gu an culaibh thilgeadh an cutair an taghadh sgadain ceart do’n tuba cheart. Cha bhiodh mar bu tric barrachd air ceithir taghaidh ga dheanamh aig an aon am as an aon thiùrr sgadain. Bha fear an urra ri tri criudhachan air cùl nan cutairean agus bhiodh esan a’ ruith air na tubaichean so le maide tomhais gus deanamh cinnteach gu robh an sgadan ceart anns an tuba cheart. ’S ann air cùl nan cuibhleirean bu tric a bhiodh esan agus as iomadh malachadh nach robh e a’ tuigsinn a bhiodh a’ dol gu chluasan. <illustration src="LewisJohnSmithetaliasgachillust19.jpg" width="200"/></description>
+    </item>
+    <item>
+      <headword id="d0e1169">Tuba nam mionach</headword>
+      <description>Air an làr ri laimh chli gach cutair bhiodh tuba le lamhan ròpa airson nam mionach a bhiodh iad a’ toirt as gach sgadan. Bu sgiobalta a bha an da làmh ag oibreachadh gu tric le gàire no òran air am bilean no a’ magadh air na cùbairean. <illustration src="LewisJohnSmithetaliasgachillust20.jpg" width="300"/></description>
+    </item>
+    <item>
+      <headword id="d0e1179">Sìlig no Sìligeadh</headword>
+      <description>Nuair a chutadh gach cutair na bha do sgadan air a beulaibh air an ruigeadh an làmh anns na faluns dh’eubhadh i ‘sìlig’ no ‘sìligeadh’ is thigeadh fear le maide sìligeadh a bhruthadh tuilleadh sgadain thuice.</description>
+    </item>
+    <item>
+      <headword id="d0e1188">Maide-sìligeadh</headword>
+      <description>Cabar fada le bòrd cheithir oiseanach air aon cheann dheth mar tóbha mór a bhruthadh a sgadan gun a lannaigeadh. <illustration src="LewisJohnSmithetaliasgachillust21.jpg" width="500"/></description>
+    </item>
+    <item>
+      <headword id="d0e1198">Tuba rousaigeadh</headword>
+      <description>So tuba mhòr cheithir oiseanach no aig amannan cruinn anns am biodh iad a’ rousaigeadh an sgadain mar a bhiodh e air a chutadh is a’ cur salainn air. Nuair a lionadh na cutairean tuba no tubaichean le sgadan an aon seorsa taghaidh bha iad a’ dol leotha chun an tuba so is nuair a rachadh a rousaigeadh ann an salainn bha iad a’ dol leotha chun a’ phacair. <illustration src="LewisJohnSmithetaliasgachillust22.jpg" width="300"/></description>
+    </item>
+    <item>
+      <headword id="d0e1208">‘Bottom tier’</headword>
+      <description>Bha am pacair an uair sin a’ deanamh ‘bottom tier’, ceann ri earball air màs a’ bharaille, is nuair a bhiodh sin deante dh’ eubhadh i ‘Bottom tier here sir’. Cha phacaigeadh i an còrr gus an tigeadh a ‘forman’ a dheanamh cinnteach gur e an aon seorsa sgadain a bha anns a chula gin a bha anns an tier so – an aon mheud, agus mus e iuchair a bhiodh anns a’ cheud fhear ’se iuchair a dh’fheumadh a bhith anns a chula h-aon eile an so, no mealg etc. As deidh sin phacaigeadh i an aon taghadh dhan a’ bharaille mealg no iuchair mar a thigeadh iad gu a’ laimh, ach ’se an aon seòrsa ‘top-tier’ ’sa bha anns a’ ‘bhottom-tier’ leis a’ feumadh i a dhùnadh. Chan eil fios agam carson a bha so mar ar ann air son toirt a char as na ceannaichean. Nuair a bhiodh am baraille lan bha an ceann air a chur air a bheul gun theannachadh agus air fhàgail airson la no dha.</description>
+    </item>
+    <item>
+      <headword id="d0e1217">Ath-lionadh</headword>
+      <description>Bhiodh an sgadan a’ ‘sinceadh’ sios anns gach baraille a bhiodh air a lionadh, agus ann an la no dha bha aca ri ath-lionadh le sgadan eile. Bhiodh an criudha gu leir a’ gabhail pàirt anns an obair so, oir ’sann anns a’ bharaille a bha iad pàidhte agus pàidhte anns an uair airson an ath-lionadh is an treas lionadh.</description>
+    </item>
+    <item>
+      <headword id="d0e1226">Treas lionadh</headword>
+      <description>Dh’fheumte treas lionadh a dheanamh air a chula baraille agus as deidh an treas lionadh bha an ceann air a chur teann ann le bualadh sios cearcall àrd iaruinn a’ bharaille. Bha am baraille an uair sin ga chur air a chliathaich, agus air a roiligeadh le putair chun na tuba rousaigidh.</description>
+    </item>
+    <item>
+      <headword id="d0e1235">Putair</headword>
+      <description>Cabar caol làidir le spìc bhiorach iaruinn air a cheann gu bhith roiligeadh nam baraillean leis. <illustration src="LewisJohnSmithetaliasgachillust23.jpg" width="150"/></description>
+    </item>
+    <item>
+      <headword id="d0e1245">Piceil ur</headword>
+      <description>Bha piceil ur ga dheanamh anns an tuba rousaigeadh le salainn a dh’aon ghnothaich air son so. Thuirt aon seann chutair rium gur e ‘Salainn Dorabhaigeadh’ a bhiodh acasan air an t-salainn so. Bha toll ga dheanamh le torra anns gach baraille a bhiodh air a threas lionadh agus a’ chuid bu mhotha den phiceil air a leigeil as. Bha an uair sin am piceil ùr a bha air a dheanamh anns an tuba rousaigeadh ga chur troimh thonnadair air an sgadan agus spìc fiodha ga chur a dhùnadh an tuill anns gach baraille. Nuair a rachach am piceil ùr a chur do gach baraille bha iad air an roiligeadh leis a’ phutair gu an aite suidhe, agus air an cur ’na seasamh air an ceann dìreach ‘bottom-tier’ an àrda, agus air am fàgail an sin gus an tigeadh ceannaiche a thoirt sùil orra. Nuair a thigeadh esan bha an ceann ga thoirt a baraille is chitheadh e gu de seorsa sgadan a bha ann. Dh’itheadh am Pole, an Gearmailteach is an Ruiseanach fear amh dhuibh [sic] gus an dearbhadh. Bhiodh cuid de na ceannaichean aig am biodh spìc fhada iaruinn a bhrodadh iad sios tre mheadhon an sgadain gu màs a’ bharaille gus deanamh cinnteach nach do chuir am pacair bad corc no sean chòta oiliscin na theis meadhon gus am baraille a lionadh le cabhaig oir gur ann anns a’ bharaille a bha iad pàidhte.</description>
+    </item>
+    <item>
+      <headword id="d0e1254">Tonnadair</headword>
+      <description>A big filler. <illustration src="LewisJohnSmithetaliasgachillust24.jpg" width="300"/></description>
+    </item>
+    <item>
+      <headword id="d0e1264">An taghadh</headword>
+      <description>So gach ainm a bha aig na cutairean air gach taghadh: ‘Dead Small’, ‘Small’, ‘Matte’, ‘Matte Furl’, ‘Matte Large’, ‘Torn Bellies’, ‘Spent’, ‘Select’.</description>
+    </item>
+    <item>
+      <headword id="d0e1273">‘Select’</headword>
+      <description>Cha robh ‘Select’ r’a fhaighinn ach a mach as Steòrnabhagh is an Sealtuinn. Dh’fheumte an ‘Select’ ath-lionadh an ath mhaduinn, is a threas-lionadh an ath mhaduinn a rithist.</description>
+    </item>
+    <item>
+      <headword id="d0e1282">‘Torn Bellies’</headword>
+      <description>Bha móran de na ‘Torn-bellies’ a’ dol do thuba nam mionach. Bhiodh luchd a’ gheàrd a’ toirt dhachaidh cuid gus an ròstadh, agus gu tric thigeadh balaich bheaga timchioll ag eubhachd ‘Any torn-bellies?’ gus an cur gu biadhadh ag iasgach chudaig is smalag anns a’ bhàgh.</description>
+    </item>
+    <item>
+      <headword id="d0e1291">A’ Gheàrd</headword>
+      <description>’Se a’ gheàrd a bhiodh aca air an àite far am biodh na cutairean a’ cutadh, ach ’se ‘gheard’ a chainte ri aite ’sam bith anns an rachadh faluns a shuidheachadh ged a b’ ann air druim a’ chidhe a muigh fo na siantan. Bhiodh tighean fada fiodha aig na cùirearan móra le uinneagan móra fiodha a ghabhadh a fosgladh, na faluns a stigh fòdhpa, is an sgadan ga dhòirteadh annta tre na h-uinneagan so. Bha na tighean so a’ dion nan cruidheachan on uisge is on t-sneachda.</description>
+    </item>
+    <item>
+      <headword id="d0e1300">Lobhtaichean</headword>
+      <description>Ann an cuid de phuirt air a chost a sear bhiodh cùirearan a’ togail tighean móra fiodha le móran rumanan do chlannighean an iasgaich. Bhiodh da chriudha dol gu gach rum. ’Se lobhtaichean a chainte ri na tighean so – Lobhta Edie Gòrdon, Lobhta nam Brusach, Lobhta Mhic an Thearlaich, etc. Lobhtaichean an t-sugraidh, an fheala dha ’sa chiùil. Tha mi cinnteach gu bheil ‘Skyscrapers’ air fàs air an laraich an diugh. Is iomadh iasgair a thug bean a eilean eile asda.</description>
+    </item>
+    <item>
+      <headword id="d0e1309">Spealltrag</headword>
+      <description>Sgadan air a ghlanadh is a sgoltadh sios am broinn is an cnaimh air a thoirt as. Bidh iad so air an tiormachadh gus an ròsdadh. Faodar cuideachd cuid mar so a chur ann an salainn ann am miodar is tha iad blasda leis a’ bhuntàta ùr.</description>
+    </item>
+    <item>
+      <headword id="d0e1318">Sgadan air a shnaidheadh</headword>
+      <description>Sgadan air a lannadh, ’s air a ghlanadh is gach ni a tha ’na bhroinn air a thoirt as. Tha e air a shriochadh le sgithinn sios gach cliathaich bho a dhruim gu a bhroinn – gach sriochag mu oirleach bho cheile. Theid a thiormachadh is a ròstadh.</description>
+    </item>
+    <item><headword id="d0e1326" type="heading" level="h1">5. Duirgh, slatan, driamlaichean</headword></item>
+    <item>
+      <headword id="d0e1331">Murtair</headword>
+      <description>Cnap cruinn luaidhe, naoidh oirlich a dh’fhad, oirleach gu leth anns a’ bhun is oirleach ’na bhàrr. Tha sia dubhanan lin mhór air, is e dorgh dhragh an t-sreang a bhios air. Tha an dorgh dhragh so laidir le 1/10 oirleach a thuighead. <illustration src="LewisJohnSmithetaliasgachillust25.jpg" width="600"/></description>
+    </item>
+    <item>
+      <headword id="d0e1341">Modarach</headword>
+      <description>’S ann an Nis a tha an t-ainm so. Tha e mu leth meud murtair is air an aon chumadh le sia dubhanan lin mhóra. Tha e so freagarrach gu bhith glacadh na leth bhodach ruadha as t-earrach. Chan eil biadhadh ga chur air modarach no air murtair. Tha iad air an tarraing as deidh an eathair, no air an oibreachadh sios as suas a mach air cliathaich an eathair. Tha an glensa a tha as an luaidhe a’ tarraing an éisg thuca is tha na dubhain a’ dol an sàs.</description>
+    </item>
+    <item>
+      <headword id="d0e1350">Meidh (Ann an Nis); Maigh (Anns an Rudha)</headword>
+      <description>Faic an dealbh. <illustration src="LewisJohnSmithetaliasgachillust26.jpg" width="800"/><illustration src="LewisJohnSmithetaliasgachillust27.jpg" width="300"/>’S ann air son iasg a’ chamuis a tha an dòrgh so freagarrach – adagan, cnodain, etc. Nuair a ruigeas tu an grunn iasgaich le na maighean tha toiseach an eathair ga cur ris an t-sruth, is mar a bi an sruth ro làidir cumaidh aon duine le da ràmh i faisg air an aon àite. Tha na dubhain air am biadhadh le sgadan, rionnach, feusgan no maorach is tha am maigh air a leigeil chun a’ ghrunna. Tha thu ga thogail mu throigh no dha bhon a’ ghrunn is a’ feitheamh gu fairich thu clibeadh.</description>
+    </item>
+    <item>
+      <headword id="d0e1362">Clibeadh</headword>
+      <description>Sin an slaodadh beag a tha an t-iasg a toirt air an dubhan nuair a shluigeas e am boite. ’Se cur seachad anabarrach solasach a tha ann a bhith dòrghachd gus an tig a’ bhiorach. Nuair a thig ise ’na sgaoth as dòcha gur e tri cinn adag a bheir thu steach don eathar air do dhubhain. Tha a bhiorach làidir is tha i dona gu bhith gearradh na snòta. Is iomadh biorach as an deacha an fhuil a leigeil is a’ tilgeil air ais don mhuir agus ann an tiota bhiodh i air a h-ithe aig a càirdean. Bhiodh cuid dhuibh [sic] a’ breith nan iseanan anns an eathar agus nuair a thilgeadh tu iad so a mach bhiodh iad am broinn chàich mus canadh tu sgian.</description>
+    </item>
+    <item><headword id="d0e1370" type="heading" level="h2">Air a’ chreagach</headword></item>
+    <item>
+      <headword id="d0e1375">Slat bheag</headword>
+      <description>Mu dheich no dusan troigh a dh’fhad gu bhith glacadh nan cudaig ri bonn na creige. Faodaidh i a bhith air a deanamh le cas sguab bùtha le geug seilich ’na bhàrr.</description>
+    </item>
+    <item>
+      <headword id="d0e1384">Slat Mhór Chuilce (Bamboo)</headword>
+      <description>Faodaidh iad so a bhith suas ri deich troighean fichead de dh’fhad. <illustration src="LewisJohnSmithetaliasgachillust28.jpg" width="700"/></description>
+    </item>
+    <item>
+      <headword id="d0e1394">Driamlach</headword>
+      <description>Dragh caol laidir. Bidh fad gu leth na slait agad air slait mhóir. Aig ceann fosgailte an dragh so bidh snòta de wid le dubhan air airson biadhadh.</description>
+    </item>
+    <item>
+      <headword id="d0e1403">‘Flies’</headword>
+      <description>Bidh bho choig gu seachd gaisneanan wid air an ceangal r’a cheile le snaim an iasgair is dafuns mu oirleach gu leth a dh’fhad air a fagail aig a chula ceangal. Bidh dubhan air gach dafun so le ite faoileig no stiall chaol de chloimh gheal uain.</description>
+    </item>
+    <item>
+      <headword id="d0e1412">Topan</headword>
+      <description>Stialag de chloimh gheal air a réileadh ri dubhan charbhanach aig a’ phas is sios pios an calp gu glacadh liùgh le slait. <illustration src="LewisJohnSmithetaliasgachillust29.jpg" width="600"/></description>
+    </item>
+    <item>
+      <headword id="d0e1422">Dubhan charbhanach</headword>
+      <description>Dubhan na’s motha is na’s làidire na dubhan lin bhig le car anns a’ ghlaic.</description>
+    </item>
+    <item>
+      <headword id="d0e1431">Easgann uillt</headword>
+      <description>Easgann mu shia no seachd a dh’oirlich a dh’fhad air a feannadh is air a faileadh air a réileadh ri dubhan charbhanach aig a’ phas agus sios pios an calp gu glacadh liùgh. <illustration src="LewisJohnSmithetaliasgachillust30.jpg" width="600"/>Se easgainn ‘rubber’ as tric a tha aca an diugh.</description>
+    </item>
+    <item>
+      <headword id="d0e1442">Glacadh easgann uillt</headword>
+      <description>Tha thu a’ cur casg air allt samhraidh is an nuair a ruitheas an t-uisge bho thaobh shios a’ chasg so tha thu cladhach a’ phuill is a’ togail leat easgainn a bhios am meud freagarrach. Tha thu an uair sin a leigeil ruith do’n chasg.</description>
+    </item>
+    <item><headword id="d0e1450" type="heading" level="h2">Acfhuinn gu glacadh chudaig air a’ chreagach</headword></item>
+    <item>
+      <headword id="d0e1455">(1) Slat bheag</headword>
+    </item>
+    <item>
+      <headword id="d0e1461">(2) Slat mhór</headword>
+    </item>
+    <item>
+      <headword id="d0e1467">(3) Poca chudaig</headword>
+      <description>Tha am poca ga chur a mach do’n uisge agus tha pronnabhiadhadh ga chrathadh a mach ’na bhroinn. Nuair a chruinnicheas móran chudaig a dh’itheadh a bhiadhidh so tha thu ga thogail is tha do nàbuidh ga sgròbadh le mios. ’Se mios as fhearr na peile airson na h-oibreach so a chionn gum biodh cluasan a’ pheile dualtach air a dhol an sas anns an lion.</description>
+    </item>
+    <item>
+      <headword id="d0e1476">Pronnabhiadhadh</headword>
+      <description>Buntata air a chagnadh; sgruim – maorach meanbh nan sgeir air a phronnadh ’na lite; partanan is crubagan air am pronnadh, no biadh meanbh ’sam bith a dh’itheadh cudaig.</description>
+    </item>
+    <item>
+      <headword id="d0e1485">(4) Tàbh beag</headword>
+      <description>Ni bun slait chreagaich cas do’n tabh so. Chan fhaca mi ann an àite e ach ann an Uig an Ungaisiadar. Tha e air oibreachadh mar poca chudaig – a’ crathadh a’ phronnabhiadhaidh ’na bhroinn. Tha e cho aotram is nach leig thu leas fear sgròbaidh, dòirtidh tu fhein na bheir thu gu tir de chudaig do pheile no do chliabh. <illustration src="LewisJohnSmithetaliasgachillust31.jpg" width="700"/></description>
+    </item>
+    <item>
+      <headword id="d0e1495">(5) Tàbh mór</headword>
+      <description>’Se ‘tigh-thàbhaidh’ a chanas na Nisich ris an tàbh so agus faodaidh mi a radh gur e Nis dachaidh an taibh so oir tha iad ann ’nan dusain. Chan fhaca mise gin ach aon dhuibh [sic] anns an Rudha, ’se ‘am poca’ bhiodh againne is bha am poca againn cho pailt is a tha an tigh thàbhaidh aig na Nisich. Tha e cho mór is cho trom is gum bi buarach air a cur mu mheadhon an fhir a bhios ag obair leis, is fear air a chùlaibh ga cumail, oir na’n tigeadh muir tarsainn gun fhiosd is an tàbh a muigh bhiodh e dualtach car a chur do’n tàbh is an t-iasgair a tharraing a mach. Ag iasgach le tàbh mór tha iad a’ biadhadh na creige, is nuair a chruinnicheas na cudaigean chun a phronnabhaidh-so, tha an t-iasgair a’ sàthadh sios an tàbh air an taobh a muigh is gan crodhadh ann eadar an tàbh ’sa chreag. Tha e a’ doirteadh na ghlacas e air a’ chreig is togaidh na bhios timchioll do na peileachan iad. ’Se duine làidir a dh’fheumas tu airson tigh thàbhaidh oibreachadh, ach is e daoine làidir a tha anns na Nisich. <illustration src="LewisJohnSmithetaliasgachillust32.jpg" width="700"/></description>
+    </item>
+    <item>
+      <headword id="d0e1505">Anns a’ bhraga</headword>
+      <description>“Tha mi anns a’ bhraga.” ’Se sin a chanadh sinne anns an Rudha nuair a dheidheadh an dubhan a sàs anns an fheamainn a bha ri fas domhain aig bun na creige. Chan eil iad a’ gnathachadh an fhacail leis a chiall so ann an Nis idir. ’Se ‘braga’ chanas iadsan ri sgeir (reef) anns an uisge.</description>
+    </item>
+    <item><headword id="d0e1513" type="heading" level="h1">6. Acfhuinn sam bith eile</headword></item>
+	<item>
+      <headword id="d0e1518">Lion-coise</headword>
+      <description>Sreang lin bhig air a cur air an tràigh nuair a bhios an tràigh a muigh air a cumail le da chloich bhàithte, agus ga togail nuair a theid an ath thràigh a mach. Feumaidh tu bhith aice mus fhàg am muir i air an neo ma bhios iasg oirre ’se faoileagan a gheibh thu air na dubhain.</description>
+    </item>
+    <item>
+      <headword id="d0e1527">Pater-Noster</headword>
+      <description>So seòrsa do dhòrgh a tha aca ann an Uig. Chan fhaca mise e ann an àite ach an Uig, is chan eil sian a dh’fhios agam ciamar a fhuair e an t-ainm. <illustration src="LewisJohnSmithetaliasgachillust33.jpg" width="500"/></description>
+    </item>
+    <item><headword id="d0e1536" type="heading" level="h1">Addenda</headword></item>
+    <item>
+      <headword id="d0e1541">Air an iolla</headword>
+      <description>So a bhith muigh an an eathar anns a’ bhàgh, dithis ag iomradh agus na ‘flies’ ga slaodadh as a deidh air na slatan no air an dragh gun na slatan. Feumaidh cuideam luaidhe rud-eigin trom a bhith air an driamlach os cionn na ‘flies’ gus an cumail sios beagan anns a’ mhuir.</description>
+    </item>
+    <item>
+      <headword id="d0e1550">Siaplaich</headword>
+      <description>Slaodadh na ‘flies’ air do shocair troimh’n uisge le do shlait air a’ chreig. Bidh cuideam beag luaidhe air an driamlach os cionn na ‘flies’. Tha thu a’ tilgeil a chuideam so a mach cho fada ’sa leigeas an dragh leat is ga shiaplaich a steach air do shocair gu bun na creige.</description>
+    </item>
+    <item>
+      <headword id="d0e1559">Siaraigeadh</headword>
+      <description>Nuair a thig aon iasg air na ‘flies’ tha thu ga siaplaich bho thaobh gu taobh dhiot gun an togail as a’ mhuir gu faic thu an greimich an còrr ort. Mar as trice nuair a ghreimicheas aon iasg tha e dualtach do thuilleadh a leantuinn is faodaidh tu lan na ‘flies’ fhaighinn le siaraigeadh mus tog thu as an uisge iad.</description>
+    </item>
+    <item>
+      <headword id="d0e1568">‘Dandy’</headword>
+      <description>Chan eil fada bho thòisich an dòigh iasgaich so idir. Ag obair leis an ‘dandy’ – ’se sin cuideam luaidhe air an dubhan mu dheireadh do na ‘flies’, agus ag oibreachadh na slait sios is suas anns an aon àite ann an dòchas gu ruith iasg gu dubhan. Chan eil dad a dh’fhios agam carson a chaidh ‘dandy’ a thoirt air.</description>
+    </item>
+    <item><headword id="d0e1576" type="heading" level="h2">Seòrsa eathraichean a bhiodh aca fo sheol ag oibreachadh lin mhora is lin bheaga.</headword></item>
+    <item>
+      <headword id="d0e1581">Liteach</headword>
+      <description>Cha robh i so gle fhreagarrach ann am muir mór idir. Bha a toiseach is a deireadh a’ dol dìreach sios a’ fàgail fada an droma an aon mheud ri a fad air a h-uachdair. Ghearradh i so tre na sualaichean gun èiridh orra is mar sin bha i dualtach air a bhith air a lionadh le muir gorm a thoirt innte ri dol an aghaidh na mara.</description>
+    </item>
+    <item>
+      <headword id="d0e1590">Suilidh</headword>
+      <description>Bha toiseach suilidh a’ dol sios dìreach gu a leth is an sin a’ lùbadh cas a steach chun an droma. Dh’eireadh ise air an tonn ach thuiteach i le ‘Plop’ don ghlaic nuair a dh’fhàgadh an tonn i.</description>
+    </item>
+    <item>
+      <headword id="d0e1599">Sgoth Niseach</headword>
+      <description>Bha toiseach is deireadh na sgoth Nisich a’ dol cho cas a steach chun an droma is gu robh moran throighean a dh’eadar dhealachadh eadar a druim agus fad a h-uachdair. Bha iad so math da rireabh gu ruith na mara agus gu dol ’na aghaidh. Dh’eireadh iad air an t-suala ach cha robh iad èasgaidh air an stiùir ann am muir tarsainn, is chaidh iomadh te dhuibh [sic] a chall a’ deanamh air Port Nis is muir tarsainn a’ tighinn orra bho thìr.</description>
+    </item>
+    <item>
+      <headword id="d0e1608">An t-arcach</headword>
+      <description>So, tha mi a’ smaoineachadh an te a b’fheàrr aig muir is bu shàbhailte. Bha a toiseach is a deireadh a’ tighinn cruinn a steach chun an droma, is bha i fada na b’fharsaing eadar a dà ghualainn na bha i eadar an da shliasaid. Dh’eireadh i so gu bòidheach air gach tonn, a’ ruith na mara no dol ’na aghaidh, agus bha i cho easgaidh air an stiùir is gur e fìor dhroch sgiobair a leigeadh do mhuir tarsainn a thighinn air gun a ghlacadh air a sliasaid no air a gualainn.</description>
+    </item>
+	<item>
+	  <headword id="idola253">[motor]</headword>
+	  <description>An diugh chan fhaic thu seòl – tha motor orra uile, eadhon air geòla. Chan fhada as aithne do fhear iomradh.</description>
+	</item>
+    <item>
+      <headword id="d0e1626">Sgrìoban gus crùbag no giomach a thoirt a sgor</headword>
+      <description><illustration src="LewisJohnSmithetaliasgachillust34.jpg" width="400"/></description>
+    </item>
+    <item>
+      <headword id="d0e1635">Cliùcair</headword>
+      <description><illustration src="LewisJohnSmithetaliasgachillust35.jpg" width="200"/></description>
+    </item>
+    <item>
+      <headword id="d0e1644">Arca</headword>
+      <description><illustration src="LewisJohnSmithetaliasgachillust36.jpg" width="300"/></description>
+    </item>
+    <item>
+      <headword id="d0e1653">Snathad chàraidh</headword>
+      <description><illustration src="LewisJohnSmithetaliasgachillust37.jpg" width="300"/></description>
+    </item>
+    <item>
+      <headword id="d0e1662">Snaim càraidh</headword>
+      <description><illustration src="LewisJohnSmithetaliasgachillust38.jpg" width="300"/></description>
+    </item>
+    <item>
+      <headword id="d0e1671">An arc air an druim</headword>
+      <description><illustration src="LewisJohnSmithetaliasgachillust39.jpg" width="600"/></description>
+    </item>
+  </items>
+</fieldworkDocument>

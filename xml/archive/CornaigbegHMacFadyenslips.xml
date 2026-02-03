@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 10/8/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_CornaigbegHMacFadyenslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>10/1970</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <informant>
+    <nameEnglish>H. MacFadyen</nameEnglish>
+  </informant>
+  <location>Tiree, Cornaigbeg</location>
+  <items>
+    <item>
+      <headword id="idp161836112">lann</headword>
+      <description>Quotation: tairnean is lannan chopair. Notes: washers.</description>
+    </item>
+    <item>
+      <headword id="idp161833160">ropa</headword>
+      <description>Quotation: ròpa [sic] brùghnaich [rɔpəbɾũ̟:ṉiç]. Notes: belly rope on a horse. (From “brùgh”?)</description>
+    </item>
+    <item>
+      <headword id="idp161829416">sinnteag</headword>
+      <description>[ʃĩ:nʹtʹɑɡ] Notes: stride or jump.</description>
+    </item>
+    <item>
+      <headword id="idp161824736">stuadh</headword>
+      <description>[st̪u̟ɤ] Notes: gable-end of a house.</description>
+    </item>
+    <item>
+      <headword id="idp161850584">àbh</headword>
+      <description>Notes: landing net used on the “carraig”.</description>
+    </item>
+    <item>
+      <headword id="idp161852096">beul</headword>
+      <description>Quotation: beul na maduinn. Notes: daybreak.</description>
+    </item>
+    <item>
+      <headword id="idp161853752">beul</headword>
+      <description>Quotation: ann am beul an latha. Notes: at daybreak.</description>
+    </item>
+    <item>
+      <headword id="idp161855408">ceud-bhainne</headword>
+      <description>Notes: first milk.</description>
+    </item>
+    <item>
+      <headword id="idp161856920">ciùbhragaich</headword>
+      <description>[cu̟:ɾɑɡiç] Notes: drizzle.</description>
+    </item>
+    <item>
+      <headword id="idp161858648">cràgair</headword>
+      <description>[kɾɑ:ɡɑɾ] Notes: the bits at the two ends of a horseshoe which are turned down.</description>
+    </item>
+    <item>
+      <headword id="idp161860376">croman</headword>
+      <description>Notes: landing hook, gaff.</description>
+    </item>
+    <item>
+      <headword id="idp161861888">deigheannach</headword>
+      <description>[dʹehən̪ɑx] Notes: ice.</description>
+    </item>
+    <item>
+      <headword id="idp161863616">dìogan</headword>
+      <description>Notes: thistle.</description>
+    </item>
+    <item>
+      <headword id="idp161865128">dìosgan</headword>
+      <description>[dʹi:sɡɑṉ] Notes: squeaking noise.</description>
+    </item>
+    <item>
+      <headword id="idp161866856">diosgan</headword>
+      <description>[dʹʒı:ʃɡɑnʹ] Notes: boarded-out alcoholic.</description>
+    </item>
+    <item>
+      <headword id="idp161868584">druimeal</headword>
+      <description>[d̪ɾĩmɑɫ] Notes: rigwoodie – chain across the saddle.</description>
+    </item>
+    <item>
+      <headword id="idp161870312">eallag</headword>
+      <description>[ɛɫɑɡ] Notes: chopping block, shoeing stool (orig. made from a tree-stump).</description>
+    </item>
+    <item>
+      <headword id="idp161872040">garadh-tàth</headword>
+      <description>[ɡɑɾəɣt̪ɑ:] Notes: welding heat.</description>
+    </item>
+    <item>
+      <headword id="idp161873768">greallathach</headword>
+      <description>[ɡɾɛɫɑhɑx] Notes: rubbish.</description>
+    </item>
+  </items>
+</fieldworkDocument>

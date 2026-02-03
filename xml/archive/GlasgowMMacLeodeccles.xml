@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 3 5 13 -->
+<fieldworkDocument docId="MurdoMacLeod_GlasgowMMacLeodeccles" docType="questionnaire" subType="EcclesiasticalTerms">
+  <title>An Eaglais / Ecclesiastical Terms</title>
+  <fieldworker>[self]</fieldworker>
+  <informant>
+    <nameEnglish>Murdo MacLeod</nameEnglish>
+    <nameGaelic>Murchadh MacLeòid </nameGaelic>
+    <age>58</age>
+    <origin>Leòdhas [Lewis], Uig an Iar</origin>
+  </informant>
+  <location>Glaschu [Glasgow]</location>
+  <items>
+    <item><headword id="d0e32" type="heading" level="h1">1. Various denominations</headword></item>
+    <item>
+      <headword id="d0e37">Muinntir an Aonaidh</headword>
+    </item>
+    <item>
+      <headword id="d0e43">Na h-Antis</headword>
+    </item>
+    <item>
+      <headword id="d0e49">Na Secéders</headword>
+    </item>
+    <item>
+      <headword id="d0e55">Na Pàpanaich</headword>
+    </item>
+    <item>
+      <headword id="d0e61">Na Moderats</headword>
+    </item>
+    <item>
+      <headword id="d0e67">An Eaglais Stéidhichte</headword>
+      <description>B’e seo an Established Church. Agus mar a th’agam air an taobh eile, ’s ann riutha seo a chanadh sinn Na Moderats. Ach bho 1929 chan eil an t-ainm tric ’ga chleachdadh. Ach cho fad’s is aithne dhomh, tha e beò fhathast.</description>
+    </item>
+    <item>
+      <headword id="d0e76">A Chealla</headword>
+      <description>“An a sgaoil a’ Chealla?” A’ Chealla b’e seo againne eaglais Bhaile na Cille ann an Uig. Bha e aig na seann daoine mar a th’agam an seo shuas. “A’ Chealla” agus “An a sgaoil a’ Chealla”. Ach cha robh e againne ach mar ainm do’m biodh sinn a’ toirt an aire, chluinneadh sinn e an dràsda ’s a rithist. Nuair a bha Calum MacLeòid am ministeir (Calum MacLeòid a chaochail ann am Both-chuidir agus a bha ’na Cheann-suidhe air a’ Chomunn Ghàidhealach airson greis), nuair a bha e dol troimh an fhòghlum an Dunéideann, thuit a mach bhuaithe uaireigin “A Chealla” agus mar sin. Thug an t-Ollamh Mac Fhionghuin an aire do an seo anns an spot agus chòrd an rud a bh’ann ris anabarrach math.</description>
+    </item>
+    <item><headword id="d0e84" type="heading" level="h2">Na h-eaglaisean againne ann an Uig:</headword></item>
+    <item>
+      <headword id="d0e89">An Eaglais Mhór</headword>
+      <description>An Eaglais Stéidhichte, Eaglais Bhaile na Cille.</description>
+    </item>
+    <item>
+      <headword id="d0e98">Eaglais Cheann Langabhat</headword>
+      <description>An Eaglais Shaor Aonaichte, gu 1929.</description>
+    </item>
+    <item>
+      <headword id="d0e107">Eaglais na Secéders</headword>
+      <description>Tha i seo, cuideachd, an Ceann Langabhat.</description>
+    </item>
+    <item>
+      <headword id="d0e116">[An Canastair]</headword>
+      <description>Gu ma dhà-fhichead bliadhna air ais bha eaglais aig na h-Antis ann an Ceann Langabhat, eaglais bheag iaruinn (suinc) agus ’se An Canastair am far-ainm a bh’aig an fheadhainn eile oirre.</description>
+    </item>
+    <item><headword id="d0e124" type="heading" level="h1">2. Member of each of these denominations</headword></item>
+    <item>
+      <headword id="d0e129">Aonadair</headword>
+    </item>
+    <item>
+      <headword id="d0e135">Anti</headword>
+    </item>
+    <item>
+      <headword id="d0e141">Secéder</headword>
+    </item>
+    <item>
+      <headword id="d0e147">Pàpanach</headword>
+    </item>
+    <item><headword id="d0e152" type="heading" level="h1">3. Different courts of the Presbyterian churches</headword></item>
+    <item>
+      <headword id="d0e157">cléir</headword>
+      <description>A’ chléir – presbytery.</description>
+    </item>
+    <item>
+      <headword id="d0e166">cùrt nan Deacon</headword>
+      <description>Deacon’t court.</description>
+    </item>
+    <item>
+      <headword id="d0e175">an Seisean</headword>
+      <description>Kirk session.</description>
+    </item>
+    <item>
+      <headword id="d0e184">deacon</headword>
+      <description>Deucon a chanas sinn. Mar beuc (aithghearr) + on: beucon, deucon, deacon.</description>
+    </item>
+	<item>
+	  <headword id="idola151">[note]</headword>
+	  <description>Cha b’ann tric a chuala mi càil ach cléir, a’ chléir, seisean, deacon, éildeir.</description>
+	</item>
+    <item><headword id="d0e201" type="heading" level="h1">4. Members of the clergy and office-bearers with the Presbyterian churches</headword></item>
+    <item>
+      <headword id="d0e206">ministeir</headword>
+    </item>
+    <item>
+      <headword id="d0e212">misionaraidh</headword>
+    </item>
+    <item>
+      <headword id="d0e218">eildeir</headword>
+    </item>
+    <item>
+      <headword id="d0e224">deacon</headword>
+    </item>
+    <item>
+      <headword id="d0e230">clàrc an t-Seisein</headword>
+    </item>
+    <item>
+      <headword id="d0e236">luchd-dreuchd</headword>
+    </item>
+    <item>
+      <headword id="d0e242">maor-eaglais</headword>
+    </item>
+	<item>
+	  <headword id="idola152">[note]</headword>
+	  <description>Airson ‘lay preacher’ agus ‘treasurer’ chan eil ainm suidhichte sam bith againn a bharrachd air na h-ainmeannan cumanta.</description>
+	</item>
+    <item>
+      <headword id="d0e257">soisdeir</headword>
+      <description>Seo facal a bhiodh aig na bodaich thall againne mu dhuine a bhiodh an còmhnuidh aig gnothaichean soisgeil gu h-àraid a’ teagaisg. A’ teagaisg a h-uile cothrom a gheibheadh e. Soisdeir siod, ’s soisdeir seo, chanadh iad. Is ann aig na bodaich nach biodh cho cràbhach a bhiodh am facal ‘soisdeir’ ’ga chleachdadh.</description>
+    </item>
+    <item><headword id="d0e265" type="heading" level="h1">5. Members of the clergy and office-bearers in the Roman Catholic church</headword></item>
+    <item><headword id="d0e269" type="heading" level="h1">6. Holy Orders within the Roman Catholic church</headword></item>
+    <item><headword id="d0e273" type="heading" level="h1">7. Articles of dress or adornment</headword></item>
+    <item>
+      <headword id="d0e278">[an coileir cruinn]</headword>
+      <description>Chan eil nì àraid sam bith againn air son seo [i.e. ‘articles of dress or adornment worn by priests, ministers, etc.’]. Mur a h-eil ‘an coileir cruinn’. “Tha an coileir cruinn air.” (Tha coileir ministeir air.)</description>
+    </item>
+    <item><headword id="d0e286" type="heading" level="h1">8. Church building and churchyard</headword></item>
+    <item>
+      <headword id="d0e291">Tigh Seisein</headword>
+      <description>An Tigh Seisein – vestry.</description>
+    </item>
+	<item>
+	  <headword id="idola153">[churchyard]</headword>
+      <description>Chan eil churchyard againn. Na cladhan a th’againn ’se bha unnda [?] cladhan air an ceann fhéin.</description>
+	</item>
+    <item><headword id="d0e308" type="heading" level="h1">9. Church furniture and ornaments</headword></item>
+    <item>
+      <headword id="d0e313">an truinnsear</headword>
+      <description>Collection plate.</description>
+    </item>
+    <item>
+      <headword id="d0e322">cùbainn</headword>
+      <description>Pulpit.</description>
+    </item>
+	<item><headword id="d0e330" type="heading" level="h2">Different seats:</headword></item>
+    <item>
+      <headword id="d0e335">Suidheachan nan Eildeirean</headword>
+    </item>
+    <item>
+      <headword id="d0e341">an Suidheachan Mór</headword>
+    </item>
+    <item>
+      <headword id="d0e347">Suidheachan Bean a’ Mhinisteir</headword>
+    </item>
+    <item><headword id="d0e352" type="heading" level="h1">10. Different services during the week, feast days, sacraments, Sunday school etc.</headword></item>
+    <item><headword id="d0e356" type="heading" level="h2">Coinneamhan:</headword></item>
+    <item>
+      <headword id="d0e361">coinneamh-mhìos</headword>
+    </item>
+    <item>
+      <headword id="d0e367">coinneamh-sheachduin</headword>
+    </item>
+    <item>
+      <headword id="d0e373">coinneamh-urnuigh</headword>
+    </item>
+    <item>
+      <headword id="d0e379">[coinneamh-cheist]</headword>
+      <description>Còmhla ris an fheadhainn eile faodaidh sibh toirt an aire do ‘choinneamh-cheist’. Bhiodh seo ann uaireannan ged nach robh e suidhichte mar na coinneamhan eile.</description>
+    </item>
+    <item><headword id="d0e387" type="heading" level="h2">Orduighean:</headword></item>
+    <item>
+      <headword id="d0e392">Orduighean an Earraich ’s an Fhoghair</headword>
+      <description>Orduighean an Earraich ’s an Fhoghair is ann aig coimhthional na h-Eaglais Shaoir Aonaichte a chaidh do an Aonadh an 1929 a tha iad.</description>
+    </item>
+    <item>
+      <headword id="d0e401">Orduighean an t-Samhraidh ’s a’ Gheamhraidh</headword>
+      <description>Orduidhean an t-Samhraidh ’s a’ Gheamhraidh is ann aig na Moderats anns an Aonadh a tha iad.</description>
+    </item>
+    <item>
+      <headword id="d0e410">Na h-Orduighean Beaga</headword>
+      <description>Cho fada ’s is aithne dhomh ’s ann an Leòdhas a thòisich seo. Orduighean beaga aca eadar na h-òrduighean suidhichte, aon uair, no smaite barrachd air aon uair, anns a’ bhliadhna. Cha chreid mi gu bheil comanachadh aca aig na h-Orduighean Beaga idir. Chan eil mi cinnteach am bheil Là Ceist fhein aca. Cha chanainn gu bheil.</description>
+    </item>
+	<item>
+	  <headword id="idola154">[note]</headword>
+	  <description>Aig na bodaich mu na h-orduighean suidhichte bha aca: Diar-daoin, Di h-aoine, Di-Sathuirn, Là na Sàbaid, agus Di-Luain.</description>
+	</item>
+    <item>
+      <headword id="d0e428">Diar-daoin</headword>
+      <description>Là an Trasgaidh. (‘Trosgadh’ a chanas sinne.)</description>
+    </item>
+    <item>
+      <headword id="d0e437">Di-h-aoine</headword>
+      <description>[sic] Là na Ceist.</description>
+    </item>
+    <item>
+      <headword id="d0e446">Di-Sathuirn</headword>
+      <description>Là ullachaidh chanadh iad.</description>
+    </item>
+    <item>
+      <headword id="d0e455">Là na Sàbaid</headword>
+      <description>Là comanachaidh.</description>
+    </item>
+    <item>
+      <headword id="d0e464">Di-Luain</headword>
+      <description>Là sgaoileadh nan orduighean.</description>
+    </item>
+	<item>
+	  <headword id="idola155">[note]</headword>
+	  <description>Diar-daoin – latha trasgaidh. Di h-aoine – latha ceist. Di-Sathuirn – latha ullachaidh. Latha na Sabaid – latha comanachaidh. Di-Luain – latha dealachaidh. Sin mar a bha na bodaich a’ coimhead air.</description>
+	</item>
+	<item>
+	  <headword id="idola156">[note]</headword>
+      <description>Canaidh sinne mar seo: Là Trasgaidh nan Orduighean, Di h-aoine nan Orduighean, Di-Sathurn [sic] nan Orduighean. Là Sàbaid nan Orduighean. Di-Luain nan Orduighean.</description>
+	</item>
+    <item>
+      <headword id="d0e491">[Là Taingealachd an Fhoghair]</headword>
+      <description>La eile a bhiodh aca agus a bha iad a’ cumail glé mhath: Là Taingealachd an Fhoghair. Bha iad a’ cumail an fhir-sa cho cùramach ri Là na Sàbaid.</description>
+    </item>
+    <item>
+      <headword id="d0e500">[An Ceasnachadh]</headword>
+      <description>Ni eile a bhiodh aca (aig na Moderats), b’e sin An Ceasnachadh – ceasnachadh mu ghnothaichean a’ Bhìobuill ’s a’ chreideimh. Cho fad’s is aithne dhomh cha robh An Ceasnachadh aig an eaglais againne idir (An Eaglais Shaor Aonaichte).</description>
+    </item>
+    <item>
+      <headword id="d0e509">an urnuigh</headword>
+      <description>Prayers.</description>
+    </item>
+    <item>
+      <headword id="d0e518">an t-seinn</headword>
+      <description>Praise.</description>
+    </item>
+    <item>
+      <headword id="d0e527">an t-searmon</headword>
+      <description>Sermon.</description>
+    </item>
+    <item>
+      <headword id="d0e536">collection</headword>
+      <description>(An t-ainm Beurla.)</description>
+    </item>
+    <item>
+      <headword id="d0e545">sgoil Shàbaid</headword>
+      <description>Sunday school. (‘Sàboinn’ no ‘Sàboinnd’ a chanas sinn airson Sàbaid. ’Se ‘Sàbon’ a chanas an ceàrd.)</description>
+    </item>
+    <item><headword id="d0e553" type="heading" level="h1">11. God, the Lord, Jesus Christ, the Holy Ghost, the Blessed Virgin, the angels, the apostles, Heaven, the Gospel, prayers etc.</headword></item>
+    <item>
+      <headword id="d0e558">Dia</headword>
+      <description>God.</description>
+    </item>
+    <item>
+      <headword id="d0e567">An Uile Chumhachdach</headword>
+      <description>God.</description>
+    </item>
+    <item>
+      <headword id="d0e576">An Ti Tha Riaghladh</headword>
+      <description>God.</description>
+    </item>
+    <item>
+      <headword id="d0e585">An Tighearna</headword>
+      <description>The Lord.</description>
+    </item>
+    <item>
+      <headword id="d0e594">Criosda</headword>
+      <description>Jesus Christ.</description>
+    </item>
+    <item>
+      <headword id="d0e603">Criosd</headword>
+      <description>Jesus Christ.</description>
+    </item>
+    <item>
+      <headword id="d0e612">Iosa Criosd</headword>
+      <description>Jesus Christ.</description>
+    </item>
+    <item>
+      <headword id="d0e621">An Spiorad Naomh</headword>
+      <description>The Holy Ghost.</description>
+    </item>
+    <item>
+      <headword id="d0e630">An Oighe Muire</headword>
+      <description>The Blessed Virgin.</description>
+    </item>
+    <item>
+      <headword id="d0e639">Na h-Ainglean</headword>
+      <description>The Angels.</description>
+    </item>
+    <item>
+      <headword id="d0e648">Na h-Apostoil</headword>
+      <description>The Apostles.</description>
+    </item>
+    <item>
+      <headword id="d0e657">Nèamh</headword>
+      <description>Heaven.</description>
+    </item>
+    <item>
+      <headword id="d0e666">An Soisgeul</headword>
+      <description>The Gospel.</description>
+    </item>
+    <item>
+      <headword id="d0e675">Urnuigh an Tighearna</headword>
+      <description>The Lord’s Prayer.</description>
+    </item>
+    <item><headword id="d0e683" type="heading" level="h1">12. Satan, Hell, Purgatory, Limbo, different kinds of sin etc.</headword></item>
+    <item>
+      <headword id="d0e688">An Sàtan</headword>
+      <description>Satan.</description>
+    </item>
+    <item>
+      <headword id="d0e697">An Diabhol</headword>
+      <description>Satan.</description>
+    </item>
+    <item>
+      <headword id="d0e706">An Droch Spiorad</headword>
+      <description>Satan.</description>
+    </item>
+    <item>
+      <headword id="d0e715">Am Fear Millidh</headword>
+      <description>Satan.</description>
+    </item>
+    <item>
+      <headword id="d0e724">An Nàmhaid</headword>
+      <description>Satan.</description>
+    </item>
+	<item>
+	  <headword id="idola157">[note]</headword>
+      <description>(’Se iad seo an cumantas a bhios againn a thaobh eaglais is creideamh.)</description>
+	</item>
+    <item>
+      <headword id="d0e742">Ifrinn</headword>
+      <description>Hell. Chan eil ‘iutharn’ againn ach mar chainnt eagalach. No mar chainnt air leth làidir a thaobh eaglais is creideamh.</description>
+    </item>
+    <item>
+      <headword id="d0e751">Purgadair</headword>
+      <description>Purgatory.</description>
+    </item>
+    <item>
+      <headword id="d0e760">peacadh-gine</headword>
+      <description>Original sin.</description>
+    </item>
+    <item>
+      <headword id="d0e769">peacadh-gnìomha</headword>
+      <description>Actual sin.</description>
+    </item>
+	<item>
+	  <headword id="idola158">[note]</headword>
+      <description>A mach bho gnothaichean eaglais is creideamh, tha móran ainmeannan againne airson an t-Sàtain. Mar:</description>
+	</item>
+    <item>
+      <headword id="d0e787">Dòmhnall Dubh</headword>
+    </item>
+    <item>
+      <headword id="d0e793">Piullaidh</headword>
+      <description>“Bha Piullaidh ’ga dhrilligeadh”</description>
+    </item>
+    <item>
+      <headword id="d0e802">An Riabhach</headword>
+      <description>“Mac an Riabhaich”</description>
+    </item>
+    <item>
+      <headword id="d0e811">An Donas</headword>
+      <description>“Bugair an Donais”</description>
+    </item>
+    <item>
+      <headword id="d0e820">Am Mac-Mallachd</headword>
+    </item>
+    <item>
+      <headword id="d0e826">An t-Abhaisteir</headword>
+      <description>“Cho dubh ris an Abhaisteir”</description>
+    </item>
+	<item>
+	  <headword id="idola159">[note]</headword>
+      <description>’S mar sin, ’s mar sin. Mar anns na h-àiteachan eile, móran ainmeannan mar a tha fios agaibh, airson an t-Sàtain.</description>
+	</item>
+    <item>
+      <headword id="d0e844">[am fear mór]</headword>
+      <description>“Am fear mór orm-sa mur a toir mise air” chanadh na bodaich.</description>
+    </item>
+  </items>
+</fieldworkDocument>

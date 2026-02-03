@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 3 6 14 -->
+<fieldworkDocument docId="AOHenley_CreagorryCTMacKenziemisc" docType="wordlist" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>[1987-88]</date>
+  <fieldworker personId="ohenleya">A. O’Henley</fieldworker>
+  <informant>
+    <nameEnglish>Rev. C. T. MacKenzie</nameEnglish>
+  </informant>
+  <location>Benbecula, Creagorry</location>
+  <items>
+    <item>
+      <headword id="idm109578560">sgeamhadh</headword>
+      <description>without delay, on the spot. “Gun sgeamhadh.” Possibly from word ‘sgiamh’ – “Mharbh e e gun eadhan sgiamh as.”</description>
+    </item>
+    <item>
+      <headword id="idm109581368">tearraidearrachd</headword>
+      <description>to turn something over in the palm of your hand whilst examining the object. Manual inspection.</description>
+    </item>
+    <item>
+      <headword id="idm109604840">tearraideachadh</headword>
+      <description>[See tearraidearrachd.]</description>
+    </item>
+    <item>
+      <headword id="idm109562216">drip, dripeil</headword>
+      <description>busy. “Bhe e na dhrip.”</description>
+    </item>
+    <item>
+      <headword id="idm109561784">gealltanach</headword>
+      <description>promising.</description>
+    </item>
+    <item>
+      <headword id="idm109560200">prangas</headword>
+      <description>common word in Harris and used in the sense of a prison, or jail.</description>
+    </item>
+    <item>
+      <headword id="idm109455192">smuaisleadh</headword>
+      <description>a lively reaction, e.g. someone quickly awakening from a deep sleep. From ‘smuais’ – vigour, energy, pith.</description>
+    </item>
+    <item>
+      <headword id="idm109452816">bleadhach</headword>
+      <description>a worn piece of cutlery or even a shell. Common in Taransay.</description>
+    </item>
+    <item>
+      <headword id="idp94704">bliathach</headword>
+      <description>[See bleadhach.]</description>
+    </item>
+    <item>
+      <headword id="idp93120">bleaghan</headword>
+      <description>a dibble for digging shellfish.</description>
+    </item>
+    <item>
+      <headword id="idp91608">ceardalan</headword>
+      <description>same as ‘ceard-dubhan’ or dung beetle.</description>
+    </item>
+    <item>
+      <headword id="idp89160">borgh</headword>
+      <description>a fish spear. Possibly from English word ‘barb’.</description>
+    </item>
+    <item>
+      <headword id="idp87648">dubh rusg</headword>
+      <description>a saw.</description>
+    </item>
+    <item>
+      <headword id="idp86136">da rusg</headword>
+      <description>[See dubh rusg.]</description>
+    </item>
+    <item>
+      <headword id="idp84624">làgarsaid</headword>
+      <description>a surge of sea on beach, backwash.</description>
+    </item>
+    <item>
+      <headword id="idp83760">gob fìdhle (fiodhla)</headword>
+      <description>prow of boat, figurehead.</description>
+    </item>
+    <item>
+      <headword id="idp83544">soilleireadh</headword>
+      <description>a bruise or mark as a result of a blow. “Nach e a thug a’ soilleireadh dha.”</description>
+    </item>
+    <item>
+      <headword id="idp81456">deifaidhir</headword>
+      <description>a wallop or blow. From English ‘de-fire’?</description>
+    </item>
+    <item>
+      <headword id="idp79944">diofaidhear</headword>
+      <description>[See deifaidhir.]</description>
+    </item>
+    <item>
+      <headword id="idp76992">làgaraid</headword>
+      <description>a sea surge on shore or beach.</description>
+    </item>
+    <item>
+      <headword id="idp75480">amhallach</headword>
+      <description>a bully, rough fellow.</description>
+    </item>
+    <item>
+      <headword id="idp73968">crineachadh</headword>
+      <description>to be badly shaken, e.g. after a nasty fall whereby all your joints are sore.</description>
+    </item>
+    <item>
+      <headword id="idp72384">lasadan</headword>
+      <description>a cigarette lighter.</description>
+    </item>
+    <item>
+      <headword id="idp72024">leid</headword>
+      <description>a makeshift bed made on the floor.</description>
+    </item>
+    <item>
+      <headword id="idp70296">fear fòirneadh</headword>
+      <description>a burglar or intruder.</description>
+    </item>
+    <item>
+      <headword id="idp68784">cochlaich</headword>
+      <description>sobbing.</description>
+    </item>
+    <item>
+      <headword id="idp67272">spleucadh</headword>
+      <description>staring.</description>
+    </item>
+    <item>
+      <headword id="idp65760">sgeing</headword>
+      <description>bounce.</description>
+    </item>
+    <item>
+      <headword id="idp64248">polaraich iomraidh</headword>
+      <description>gentle rowing movement to hold boat steady whilst net being lowered into the water.</description>
+    </item>
+    <item>
+      <headword id="idp62736">dàlach</headword>
+      <description>delay.</description>
+    </item>
+    <item>
+      <headword id="idp61152">ùpag</headword>
+      <description>a shove or push.</description>
+    </item>
+    <item>
+      <headword id="idp58848">spochadh</headword>
+      <description>angrily threatening someone.</description>
+    </item>
+    <item>
+      <headword id="idp57336">steòrl</headword>
+      <description>to direct, steer towards.</description>
+    </item>
+    <item>
+      <headword id="idp55824">ìoccras</headword>
+      <description>keenness.</description>
+    </item>
+    <item>
+      <headword id="idp54312">spreigeadh</headword>
+      <description>bagpipes being prepared for playing. “Pìob ga spreigeadh” – stirring of the pipes.</description>
+    </item>
+    <item>
+      <headword id="idp52656">loineadh</headword>
+      <description>to give someone a good going over. “Gus loineadh a thoirt air an duin’ oillteil.”</description>
+    </item>
+    <item>
+      <headword id="idp50136">steòrladh</headword>
+      <description>waving a stick about in a threatening manner.</description>
+    </item>
+    <item>
+      <headword id="idp48624">claparan</headword>
+      <description>to pat someone on the shoulder. “Bha i gam chlaparan ’sa ghualainn.”</description>
+    </item>
+    <item>
+      <headword id="idp46392">monabar</headword>
+      <description>a low whisper.</description>
+    </item>
+    <item>
+      <headword id="idp44880">seathan</headword>
+      <description>gentle rolling noise of waves heard from a distance. “Seathan socair na mara.”</description>
+    </item>
+    <item>
+      <headword id="idp43800">luasgadh</headword>
+      <description>ruffled.</description>
+    </item>
+    <item>
+      <headword id="idp42288">sgrùbail</headword>
+      <description>feeling your way with your hands. “Bha mi sgrùbail ’san dorchadas airson àit’ anns an suidhinn.”</description>
+    </item>
+    <item>
+      <headword id="idp40632">a’ fuidealadh</headword>
+      <description>excessive footering or fussing over something.</description>
+    </item>
+    <item>
+      <headword id="idp39120">sraon</headword>
+      <description>applied to someone setting a hectic pace, e.g. a walker. “Bha sraon uamhasach air an duine agus strùth fallais leam a’ feuchainn cumail suas ris.”</description>
+    </item>
+    <item>
+      <headword id="idp36240">siorgeal</headword>
+      <description>a poor, destitute person deserving of charity.</description>
+    </item>
+    <item>
+      <headword id="idp36024">seirgeal</headword>
+      <description>[See siorgeal.]</description>
+    </item>
+    <item>
+      <headword id="idp34296">seirgean</headword>
+      <description>a sickly, consumptive, withered person.</description>
+    </item>
+  </items>
+</fieldworkDocument>
+

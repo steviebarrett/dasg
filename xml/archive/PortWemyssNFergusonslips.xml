@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- Checked by MM on 23/10/15 -->
+<fieldworkDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" docId="Slips_PortWemyssNFergusonslips" docType="questionnaire" subType="" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>12/1968</date>
+  <fieldworker>[AJ Smith?]</fieldworker>
+  <informant>
+    <nameEnglish>Neil Ferguson</nameEnglish>
+    <age>c. 70</age>
+    <origin>Port Wemyss</origin>
+  </informant>
+  <location>Islay, Port Wemyss</location>
+  <items>
+    <item>
+      <headword id="idp115481176">le</headword>
+      <description>Quotation: Thuirt mi ris an fhear a bha leam. Notes: … who was with me.</description>
+    </item>
+    <item>
+      <headword id="idp115468216">leumadair</headword>
+      <description>Quotation: leumadair an fheòir. Notes: grasshopper.</description>
+    </item>
+    <item>
+      <headword id="idp115486288">lot</headword>
+      <description>Quotation: Lot i mi. Notes: She stung me.</description>
+    </item>
+    <item>
+      <headword id="idp115737568">luachair</headword>
+      <description>Quotation: an dearc luachrach. Notes: lizard.</description>
+    </item>
+    <item>
+      <headword id="idp115773352">monadh</headword>
+      <description>Quotation: Tha na h-amsain dol do’n mhonadh agus na coilich dhubh a’ dol do’n chuan. Notes: see amsan.</description>
+    </item>
+    <item>
+      <headword id="idp162083768">mosgail</headword>
+      <description>Quotation: Laigh e ’s gun sgiuch ann; mhosgail e sin as a shuain.</description>
+    </item>
+    <item>
+      <headword id="idp162085712">ramhaic</headword>
+      <description>Quotation: “Bha e a’ ramhaicheadh [rɛ̃viçci] rium.” Notes: He was bawling at me.</description>
+    </item>
+    <item>
+      <headword id="idp162088592">ròn</headword>
+      <description>Quotation: Nuair a bhios na ròin a’ nuallanaich bi [sic] bàs sa bhaile. Notes: local (?) belief.</description>
+    </item>
+    <item>
+      <headword id="idp162090680">iomagain</headword>
+      <description>Notes: worry.</description>
+    </item>
+    <item>
+      <headword id="idp162092624">iteag</headword>
+      <description>Notes: a feather.</description>
+    </item>
+    <item>
+      <headword id="idp162094568">iteag</headword>
+      <description>Quotation: Bha rud beag de dh’iteag ann. Notes: He was quite smart.</description>
+    </item>
+    <item>
+      <headword id="idp162096656">neo-shunndach</headword>
+      <description>Notes: not feeling up to scratch. Not “mi-shunndach”.</description>
+    </item>
+    <item>
+      <headword id="idp162098672">nuallanaich</headword>
+      <description>Quotation: Bha e a’ nuallanaich. Notes: bellowing.</description>
+    </item>
+    <item>
+      <headword id="idp162100760">ola</headword>
+      <description>Notes: ointment. (Oil – ùilleadh.)</description>
+    </item>
+    <item>
+      <headword id="idp162102704">pìos</headword>
+      <description>Quotation: pìos an t-aon. Notes: a bit each.</description>
+    </item>
+    <item>
+      <headword id="idp162104792">séid</headword>
+      <description>Quotation: “Sil, séid agus frois!” Notes: an expression of hopelessness. Addressing the elements.</description>
+    </item>
+    <item>
+      <headword id="idp162106952">sgiuch</headword>
+      <description>[sɡʹu̜x] Quotation: Laigh e ’s gun sgiuch ann. Notes: He lay without moving or uttering a sound.</description>
+    </item>
+    <item>
+      <headword id="idp162109472">sil</headword>
+      <description>Quotation: “Sil, séid agus frois!” Notes: an expression of hopelessness. As if to say, “nothing can be done now”.</description>
+    </item>
+    <item>
+      <headword id="idp162111560">similidh</headword>
+      <description>[ʃiməli] Notes: shy.</description>
+    </item>
+    <item>
+      <headword id="idp162113936">siorram</headword>
+      <description>Notes: sheriff.</description>
+    </item>
+    <item>
+      <headword id="idp162115880">sloinneadh</headword>
+      <description>Quotation: Chan [ɑ:çɑç] mi mo shloinneadh ged a b’e MacIllemhoire e.</description>
+    </item>
+    <item>
+      <headword id="idp162118616">smàl</headword>
+      <description>Quotation: a’ smàladh an gealbhan. Notes: covering up the fire.</description>
+    </item>
+    <item>
+      <headword id="idp162120704">spliùcan</headword>
+      <description>[splu̜:xkɑ̃ṉ] Notes: tobacco pouch; leggings, spats.</description>
+    </item>
+    <item>
+      <headword id="idp162123080">spùdan</headword>
+      <description>Quotation: gunna spùdan [spu̟:d̪ɑ̃ṉ]. Notes: water pistol.</description>
+    </item>
+    <item>
+      <headword id="idp162125816">studaich</headword>
+      <description>Quotation: a’ studachadh [əsṯɤḏɑxəɣ]. Notes: studying.</description>
+    </item>
+    <item>
+      <headword id="idp162128552">sàthach</headword>
+      <description>Quotation: Dh’òladh e a’ [hɑ:ıç] de’n uisg. Notes: He would drink his fill of the water.</description>
+    </item>
+    <item>
+      <headword id="idp162131432">teadhair</headword>
+      <description>[tʹʃəʔəɾ] Notes: tether or rope tied round a bundle on one’s back or rope tying load on a cart.</description>
+    </item>
+    <item>
+      <headword id="idp162133808">toil</headword>
+      <description>Quotation: Tha toil aice a’ ghleidheil. Notes: She wishes to keep it.</description>
+    </item>
+    <item>
+      <headword id="idp162135896">tóiseal</headword>
+      <description>[to:ʃɑl] Quotation: duine tóiseal. Notes: tidy man. P. Wemyss localism.</description>
+    </item>
+    <item>
+      <headword id="idp162138416">toit</headword>
+      <description>Notes: smoke.</description>
+    </item>
+    <item>
+      <headword id="idp162140360">trasd</headword>
+      <description>Quotation: trasd an caol. Notes: across the narrows.</description>
+    </item>
+    <item>
+      <headword id="idp162142448">trom-laighe</headword>
+      <description>[t̪ɾoməlʹiʔə] Notes: nightmare.</description>
+    </item>
+    <item>
+      <headword id="idp162144824">tuireachadal</headword>
+      <description>Quotation: a’ tuireachadal [ət̪u̟ɾəxɑd̪əɫ]. Notes: dozing, nodding.</description>
+    </item>
+    <item>
+      <headword id="idp162147560">tuit</headword>
+      <description>Quotation: Thuit e ann an gaol air a’ nighean.</description>
+    </item>
+    <item>
+      <headword id="idp162149504">ùilleadh</headword>
+      <description>Notes: oil.</description>
+    </item>
+    <item>
+      <headword id="idp162151448">aghaidh</headword>
+      <description>Quotation: Tha e tighinn air aghaidh ’s an fheasgair. Notes: It is getting late in the evening.</description>
+    </item>
+    <item>
+      <headword id="idp162153536">amsan</headword>
+      <description>Quotation: “Tha na h-amsain dol do’n mhonadh agus na coilich dhubha dol do’n chuan.” Notes: this is what an experienced local fisherman said once when he heard that farm workers were getting a boat, he himself having come ashore. Amsan – solan goose.</description>
+    </item>
+    <item>
+      <headword id="idp162155624">aobhach</headword>
+      <description>[ɤ:vɑx] Quotation: Chaneil e aobhach. Notes: It is not easy.</description>
+    </item>
+    <item>
+      <headword id="idp162158144">aon</headword>
+      <description>Quotation: pios an t-aon. Notes: a piece each.</description>
+    </item>
+    <item>
+      <headword id="idp162160232">bàs</headword>
+      <description>Quotation: Air do bhàs na caill am bàta. Notes: Air do bheath (Lewis).</description>
+    </item>
+    <item>
+      <headword id="idp162162320">bùrail</headword>
+      <description>Quotation: Tha Sloc an Ime (local gully) a’ bùrail. Notes: a sign that the wind was going to come from the north and would be strong.</description>
+    </item>
+    <item>
+      <headword id="idp162164408">ceò</headword>
+      <description>Notes: mist.</description>
+    </item>
+    <item>
+      <headword id="idp162166352">clisgeadh</headword>
+      <description>Quotation: Fuair mi clisgeadh. Notes: I got a sudden fright.</description>
+    </item>
+    <item>
+      <headword id="idp162168440">cochall</headword>
+      <description>[koxəɫ] Notes: outer covering or skin. Used of skin which serpent throws off every year. Can also be used of the outer skin of a plant.</description>
+    </item>
+    <item>
+      <headword id="idp162170816">coimeas</headword>
+      <description>Quotation: mar choimeas. Notes: example.</description>
+    </item>
+    <item>
+      <headword id="idp162172904">colg</headword>
+      <description>Quotation: Nach ann air a bha a’ cholg. Notes: rage.</description>
+    </item>
+    <item>
+      <headword id="idp162174992">croidh</headword>
+      <description>Quotation: a’ [kɾɔiəɣ]. Notes: taking in the corn to the stackyard.</description>
+    </item>
+    <item>
+      <headword id="idp162177728">dearc</headword>
+      <description>[dʹʒɛɾk] Quotation: Bha i a’ dearcail a mach a gath. Notes: shoot out. (local – Portnahaven and P. Wemyss)</description>
+    </item>
+    <item>
+      <headword id="idp162180320">dearc</headword>
+      <description>Quotation: an dearc luachrach. Notes: lizard.</description>
+    </item>
+    <item>
+      <headword id="idp162182408">drongair</headword>
+      <description>[d̪ɾɔ̃ŋɡɑɾ] Notes: drunkard.</description>
+    </item>
+    <item>
+      <headword id="idp162184784">eun</headword>
+      <description>Quotation: na h-eòin. Notes: young chicks.</description>
+    </item>
+    <item>
+      <headword id="idp162186872">foill</headword>
+      <description>Quotation: Cho fad’s a bhios slat ’s a’ choill, bi foill ’s a Chaimbeulach.</description>
+    </item>
+    <item>
+      <headword id="idp162188816">frois</headword>
+      <description>Quotation: “Sil, séid agus frois!” Notes: an expression of hopelessness. As if to say, “Nothing can be done now.”</description>
+    </item>
+    <item>
+      <headword id="idp162190904">gaol</headword>
+      <description>Quotation: Thuit e ann an gaol air a’ nighean.</description>
+    </item>
+    <item>
+      <headword id="idp162192848">gaorsinn</headword>
+      <description>Notes: chirping of birds. Pr. pt. a’ gaorsinn.</description>
+    </item>
+    <item>
+      <headword id="idp162194792">gealbhan</headword>
+      <description>Quotation: ’S e cheud duine thog gealbhan ’s a bhaile seo. Notes: He was the first man to set up home in the place.</description>
+    </item>
+    <item>
+      <headword id="idp162197024">giunach</headword>
+      <description>[ɡʹũ̟ʔṉɑ̃x] Notes: hungry, ravenous, in a healthy way.</description>
+    </item>
+    <item>
+      <headword id="idp162199400">gunna</headword>
+      <description>Quotation: gunna spùdan [spu̟:d̪ɑ̃ṉ]. Notes: water pistol.</description>
+    </item>
+  </items>
+</fieldworkDocument>

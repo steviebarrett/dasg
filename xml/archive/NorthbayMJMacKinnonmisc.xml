@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./xml/fieldworkHTML.xsl"?>
+<!-- checked by MM on 24 7 14 -->
+<fieldworkDocument docId="AOHenley_NorthbayMJMacKinnonmisc" docType="wordlist" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../fieldwork.xsd">
+  <title>Measgaichte / Miscellaneous</title>
+  <date>[1988]</date>
+  <fieldworker personId="ohenleya">A. O’Henley</fieldworker>
+  <note>[NOTES: some notes in pencil most probably added by K. D. MacDonald. See below for details.]</note>
+  <informant>
+    <nameEnglish>Michael J. MacKinnon</nameEnglish>
+  </informant>
+  <location>Barra, Northbay</location>
+  <items>
+    <item>
+      <headword id="idp112444088">durragan</headword>
+      <description>applied to a dour, chubby person who sits quietly in a corner without contributing to the conversation.</description>
+    </item>
+    <item>
+      <headword id="idp112468712">croiseadh</headword>
+      <description>a word associated with woollen industry. Means to bind or twist strands of wool together. A variant on ‘toinneamh’.</description>
+    </item>
+    <item>
+      <headword id="idp112438472">[sìde]</headword>
+      <description>“Sìde iomlanach, cha bhith [sic] i uair sam bith air an aon ròdh.” – a saying used in changeable weather conditions.</description>
+    </item>
+    <item>
+      <headword id="idp112527968">ceum</headword>
+      <description>a footpath.</description>
+    </item>
+    <item>
+      <headword id="idp112552592">cinneachadh</headword>
+      <description>gathering.</description>
+    </item>
+    <item>
+      <headword id="idp112487432">bàl ciutaig</headword>
+      <description>a dance whereby the entrance fee was a pair of socks, usually handmade. These were then given to needy or more deserving people.</description>
+    </item>
+    <item>
+      <headword id="idp112443584">tùrling</headword>
+      <description>falling. “Thùrling e far an àraidh.”</description>
+    </item>
+    <item>
+      <headword id="idp112480520">spliachdadh</headword>
+      <description>to stare or gaze at something or other. “Bha e a’ spliachdadh ùine mhór ’san uinneag.”</description>
+    </item>
+    <item>
+      <headword id="idp112543808">[leannan]</headword>
+      <description>Fuath a ghiollain a cheud leannan. – an old Gaelic expression which turns its English equivalent on its head. Implies that a first love is not forgotten but for reasons other than romantic nostalgia. Rather this saying says that a first love is hated thereafter.</description>
+    </item>
+    <item>
+      <headword id="idp112428608">oil-eas</headword>
+      <description>fuss and commotion over an incident. [NOTES: note added in pencil: fuaim is litreachadh?]</description>
+    </item>
+    <item>
+      <headword id="idp112433792">[miann]</headword>
+      <description>Chan eil miann deise an aona mhìos. – a saying meaning that not everyone has the same tastes or preferences.</description>
+    </item>
+    <item>
+      <headword id="idp112528256">[cloimh]</headword>
+      <description>Nach ann chloimh chiannda an amhaich. – an expression used for people who were related to each other. Usually referred to when similar characteristics or mannerisms surfaced between two people.</description>
+    </item>
+    <item>
+      <headword id="idp112511192">sgeith</headword>
+      <description>vomit (animal). [Cf. dithiort.]</description>
+    </item>
+    <item>
+      <headword id="idp112541576">dithiort</headword>
+      <description>vomit (human). [Cf. sgeith.]</description>
+    </item>
+    <item>
+      <headword id="idp112496792">bonnach pòisidh</headword>
+      <description>prior to the advent of modern day wedding cakes, people used to make their own cakes. Mrs C. MacLellan, Lochcarnan, South Uist remembers this tradition too whereby a sponge cake with sultanas was baked covered with icing. [NOTES: ‘pòisidh’ corrected to ‘pòsaidh’.]</description>
+    </item>
+    <item>
+      <headword id="idp112523144">[fead]</headword>
+      <description>Chan e fead a bhainne a tha muigh. – an expression used on a windy day. Literally the wind was stronger than the gentle wisps of air which you feel around your hands when milking.</description>
+    </item>
+    <item>
+      <headword id="idp112503776">sprogan</headword>
+      <description>a double chin.</description>
+    </item>
+    <item>
+      <headword id="idp112513136">clomhan</headword>
+      <description>a latch on older type door. Same word as ‘cluamhain’.</description>
+    </item>
+    <item>
+      <headword id="idp112432856">[latha]</headword>
+      <description>Suipeir soillse latha latha Fhéill Brìde, ’s dinneir soillse latha latha Fhéill Pàdruig. – A saying which refers to the lengthening of the available hours of daylight. [NOTES: note added in pencil: a question mark and an arrow showing that the words ‘suipeir’ and ‘dinneir’ should be the other way round.]</description>
+    </item>
+  </items>
+</fieldworkDocument>
+
