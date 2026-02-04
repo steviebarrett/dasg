@@ -6,6 +6,27 @@ namespace models;
 
 class functions
 {
+    /**
+     * Escapes for HTML output
+     * @param mixed $value
+     * @return string
+     */
+    public static function e(mixed $value): string
+    {
+        return htmlspecialchars((string)$value, ENT_QUOTES | ENT_SUBSTITUTE, 'UTF-8');
+    }
+
+    /**
+     * Builds application-style URLs
+     * @param mixed $value
+     * @return string
+     */
+    public static function urlEncode(mixed $value): string
+    {
+        $text = str_ireplace(' ', '.', $value);
+        return rawurlencode((string)$text);
+    }
+
 	/**
 	 * Takes a database column name and returns a human-friendly version
 	 * @param $text string input string (database column name)

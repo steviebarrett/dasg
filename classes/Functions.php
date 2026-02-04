@@ -3,7 +3,7 @@
 final class Functions
 {
     /**
-     * Makes user inputted value safe for use
+     * Escapes for HTML output
      * @param mixed $value
      * @return string
      */
@@ -13,7 +13,7 @@ final class Functions
     }
 
     /**
-     * Makes value safe for URL use
+     * Builds application-style URLs
      * @param mixed $value
      * @return string
      */
