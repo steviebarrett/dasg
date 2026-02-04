@@ -1,12 +1,13 @@
 <?php
+declare(strict_types=1);
 
 require_once '../includes/include.php';
 
-//error_reporting(E_ALL); ini_set('display_errors', '1');
+$lang = 'en';
 
 $pageSlug = "gairm";
-$pageTitleElems = array("en" => "Gairm Online", "gd" => "Gairm Air-loidhne");
-$pageTitle = $pageTitleElems[$lang];
+$pageTitleElems = ["en" => "Gairm Online", "gd" => "Gairm Air-loidhne"];
+$pageTitle = $pageTitleElems[$lang] ?? $pageTitleElems["en"];
 
 $cqpPage = true;
 
@@ -18,26 +19,23 @@ HTML;
 require_once '../includes/htmlHeader.php';
 require_once '../includes/sideMenu.php';
 
+// Normalise input
+$get = $_GET ?? [];
+$action = ($get['action'] ?? '') === 'browse' ? 'browse' : ''; // '' means search/default
 
+// ---------- Menu ----------
+$searchSelected = ($action === 'browse') ? "" : "menuSelected";
+$browseSelected = ($action === 'browse') ? "menuSelected" : "";
 
-//TEMP : disable Gaelic for now
-$lang = "en";
+$menuElems = [
+    "search" => ["en"=>"Search", "gd"=>"[gd]Search"],
+    "browse" => ["en"=>"Browse", "gd"=>"[gd]Browse"],
+    "about" => ["en"=>"About Gairm", "gd"=>"[gd]About Gairm"],
+    "acknowledge" => ["en"=>"Acknowledgements", "gd"=>"[gd]Acknowledgements"],
+];
 
-
-
-$searchSelected = $browseSelected = "";
-if ($_GET["action"] === "browse") {
-	$browseSelected = "menuSelected";
-} else {
-	$searchSelected = "menuSelected";
-}
-$menuElems = array(
-	"search" => array("en"=>"Search", "gd"=>"[gd]Search"),
-	"browse" => array("en"=>"Browse", "gd"=>"[gd]Browse"),
-	"about" => array("en"=>"About Gairm", "gd"=>"[gd]About Gairm"),
-	"acknowledge" => array("en"=>"Acknowledgements", "gd"=>"[gd]Acknowledgements")
-);
-$aboutText = array("en"=>"<p><em>Gairm</em> was a Gaelic periodical that ran from 1952 to 2002, edited by Professor Derick S. Thomson. In total,
+$aboutText = [
+    "en" => "<p><em>Gairm</em> was a Gaelic periodical that ran from 1952 to 2002, edited by Professor Derick S. Thomson. In total,
 			200 issues were printed, with more than 6,000 articles. This index allows you to search for article references.
 			In due course we expect to have full-text digitised versions of each article.
 			<br/><br/>DASG gratefully acknowledges the help of Jamie Gaukroger at Am Baile in assessing the scale of this project.
@@ -45,15 +43,16 @@ $aboutText = array("en"=>"<p><em>Gairm</em> was a Gaelic periodical that ran fro
 			<h3>Gairm Online</h3>
 			<p>DASG aims to put all issues of <em>Gairm</em> (1952–2002) online, including both images and transcribed texts enabling search by word, contributor, subject etc.</p>
 			<p>Free and accessible, this will allow readers and researchers to fully access the most important periodical in Gaelic literature.</p>
-			<p>In order to complete this, <em>Gairm</em>’s issues will be added online gradually over time. A considerable amount of work is still required to complete the full text transcription and we are continually working on our systems.</p>
-",
-"gd"=>"<p>’S e ràitheachan Gàidhlig a bha ann an Gairm a bha air fhoillseachadh eadar 1952 agus 2002, agus a bha deasaichte airson na cuid a bu mhotha leis an Ollamh Ruaraidh MacThòmais. Bha 200 àireamh ann uile gu lèir, a’ gabhail a-steach còrr is 6,000 alt, sgeulachd-ghoirid, dàn is eile. Tha an clàr-innse seo a’ toirt cothrom dhut altan fa leth no pìosan fiosrachaidh a lorg. An ceann greis, bidh dreach didseatach dhen chruinneachadh air fad ri fhaighinn air loidhne.</p>
+			<p>In order to complete this, <em>Gairm</em>’s issues will be added online gradually over time. A considerable amount of work is still required to complete the full text transcription and we are continually working on our systems.</p>",
+    "gd" => "<p>’S e ràitheachan Gàidhlig a bha ann an Gairm a bha air fhoillseachadh eadar 1952 agus 2002, agus a bha deasaichte airson na cuid a bu mhotha leis an Ollamh Ruaraidh MacThòmais. Bha 200 àireamh ann uile gu lèir, a’ gabhail a-steach còrr is 6,000 alt, sgeulachd-ghoirid, dàn is eile. Tha an clàr-innse seo a’ toirt cothrom dhut altan fa leth no pìosan fiosrachaidh a lorg. An ceann greis, bidh dreach didseatach dhen chruinneachadh air fad ri fhaighinn air loidhne.</p>
 			<h3>Gairm Air-loidhne</h3>
 			<p>’S e an t-amas a th’ aig DASG <em>Gairm</em> gu lèir (1952–2002) a chur air-loidhne, a’ gabhail a-steach ìomhaighean agus teacsa tar-sgrìobhte a ghabhas rannsachadh a rèir facal, com-pàirtiche, cuspair is eile.</p> 
 			<p>Bidh seo saor an-asgaidh agus so-ruigsinn – a’ leigeil le leughadairean agus rannsaichean cothrom fhaighinn air an ràitheachan as cudromaiche ann an litreachas na Gàidhlig.</p>
-			<p>Gus seo a ghabhail os làimh, cuirear na h-àireamhan air-loidhne mean air mhean. Tha tòrr obrach fhathast ri dèanamh air tar-sgrìobhadh agus tha sinn a’ sìor leasachadh nan siostaman againn.</p>
-");
-$acknowledgeText = array("en"=>"
+			<p>Gus seo a ghabhail os làimh, cuirear na h-àireamhan air-loidhne mean air mhean. Tha tòrr obrach fhathast ri dèanamh air tar-sgrìobhadh agus tha sinn a’ sìor leasachadh nan siostaman againn.</p>",
+];
+
+$acknowledgeText = [
+    "en" => "
 	<h3>Acknowledgements</h3>
 	<p>We would like to sincerely thank the Gaelic Books Council for their help and support; and the family of Derick S. Thomson (Ruaraidh MacThòmais), <em>Gairm</em>’s editor, for giving their blessing to this project.</p>
 	<p>We gratefully ackowledge the following inviduals/organisations: Carcanet Press for permission to reproduce selected poems by Sorley MacLean – <em>Sorley MacLean: Collected Poems</em> (2017), edited by Christopher Whyte and Emma Dymock, is available to purchase <a target='_blank' href='https://www.carcanet.co.uk/cgi-bin/indexer?product=345' title='Buy Sorley MacLean Collected Poems'>here</a>; Fiona MacKenzie and the National Trust for Scotland for permission to reproduce the work of John Lorne Campbell; Donald E. Meek for permission to reproduce his own writings as well as the writings of the Rev. Dr Thomas Murchison (An Dr Urr. Tòmas MacCalmain) – Os Cionn Gleadhraich nan Sràidean: Sgrìobhaidhean Thòmais MhicCalmain (2010), deas. le Dòmhnall E. Meek, is availablity to purchase <a target='_blank' href=\"https://www.gaelicbooks.org/explore-the-shop/non-fiction/spirituality-beliefs/os-cionn-gleadhraich-nan-sraidean?lang=gd\" title='Gairm Book'>here</a>.</p>
@@ -65,7 +64,7 @@ $acknowledgeText = array("en"=>"
 	<p>If you can give us any other information about contributors or the content of the periodical, we would be interested to include this in our metadata so that others can read it.</p>
 </h3>
 ",
-	"gd"=>"
+    "gd" => "
 	<h3>Buidheachas</h3>
 	<p>Bu mhath leinn taing mhòr a thoirt do Chomhairle nan Leabhraichean airson na taic a tha iad air toirt dhuinn; agus do theaghlach Ruaraidh MhicThòmais, deasaiche Ghairm, airson beannachd a thoirt don phròiseact seo.</p>
 	<p>Tha sinn a’ toirt buidheachas do na daoine/buidhnean a leanas: Carcanet Press airson cead dàin Shomhairle MhicGill-Eain ath-riochdachadh – faodar <em>Sorley MacLean: Collected Poems</em> (2017), deas. le Christopher Whyte agus Emma Dymock, a cheannach an <a target='_blank' title='Buy Sorley MacLean Poems' href='https://www.carcanet.co.uk/cgi-bin/indexer?product=345'>seo</a>; Fiona NicCoinnich agus Urras Nàiseanta na h-Alba airson cead sgrìobhaidhean Iain Latharna Chaimbeil ath-riochdachadh; Dòmhnall E. Meek airson cead a chuid sgrìobhaidhean fhèin agus sgrìobhaidhean an Dr Urr. Tòmas MacCalmain ath-riochdachadh – faodar Os Cionn Gleadhraich nan Sràidean: Sgrìobhaidhean Thòmais MhicCalmain (2010), deas. le Dòmhnall E. Meek, a cheannach an <a target='_blank' href='https://www.gaelicbooks.org/explore-the-shop/non-fiction/spirituality-beliefs/os-cionn-gleadhraich-nan-sraidean?lang=gd' title='Gairm Book'>seo</a>.</p>
@@ -75,330 +74,369 @@ $acknowledgeText = array("en"=>"
 	<p>Tha sinn ag iarraidh, ge-tà, gum bi an ràitheachan cho slàn coileanta ’s a ghabhas airson ’s gun dèan duine sam bith feum dheth.  ’S e goireas foghlaim neo-phrothaide a th’ ann an <em>Gairm Air-loidhne</em>.</p>
 	<p>Ma chuir thusa ri <em>Gairm</em> ann an dòigh sam bith – no, ma chuir ball dhe do theaglach ris – nach innis thu dhuinn gu bheil thu riaraichte gum bi an obair ri faotainn an <a title='Email DASG' href='mail@dasg.ac.uk'>seo</a>.</p>
 	<p>Cuideachd, mas urrainn dhut fiosrachadh eile a thoirt dhuinn mu chom-pàirtiche no susbaint an ràitheachain, bhiodh ùidh againn sin a chur ris a’ mheata-dàta againn gus am faodadh daoine eile a leughadh.</p>
-");
-$closeText = array("en"=>"close", "gd"=>"[gd]close");
+",
+];
+
+$closeText = ["en" => "close", "gd" => "[gd]close"];
+
+// Precompute values that go into heredoc interpolation
+$menuSearch = $menuElems["search"][$lang] ?? $menuElems["search"]["en"];
+$menuBrowse = $menuElems["browse"][$lang] ?? $menuElems["browse"]["en"];
+$menuAbout  = $menuElems["about"][$lang] ?? $menuElems["about"]["en"];
+$menuAck    = $menuElems["acknowledge"][$lang] ?? $menuElems["acknowledge"]["en"];
+
+$aboutHtml = $aboutText[$lang] ?? $aboutText["en"];
+$ackHtml   = $acknowledgeText[$lang] ?? $acknowledgeText["en"];
+$closeLbl  = $closeText[$lang] ?? $closeText["en"];
+
+
+
 echo <<<HTML
 <div class="rightContentWrapper">
 	<div id="dasg_cqp_main_menu">
         <div class="menuItem {$searchSelected}">
-            <a href="/gairm/">{$menuElems["search"][$lang]}</a>
+            <a href="/gairm/">{$menuSearch}</a>
         </div>
         <div class="menuItem {$browseSelected}">
-            <a href="/gairm/browse">{$menuElems["browse"][$lang]}</a>
+            <a href="/gairm/browse">{$menuBrowse}</a>
         </div>
         <div class="menuItem">
-						<a href="#" id="aboutGairmLink">{$menuElems["about"][$lang]}</a>
-				</div>
-				<div class="menuItem">
-						<a href="#" id="acknowledgeGairmLink">{$menuElems["acknowledge"][$lang]}</a>
-				</div>
-				<div id="gairmAbout">
-					<h2>Gairm</h2>
-						{$aboutText[$lang]}
-					<a href="#" id="gairmAboutClose">{$closeText[$lang]}</a>
-				</div>
-				<div id="gairmAcknowledge">
-					<h2>Gairm</h2>
-						{$acknowledgeText[$lang]}
-					<a href="#" id="gairmAcknowledgeClose">{$closeText[$lang]}</a>
-				</div>
-				
-				<br class="clear"/>
-				
+			<a href="#" id="aboutGairmLink">{$menuAbout}</a>
+		</div>
+		<div class="menuItem">
+			<a href="#" id="acknowledgeGairmLink">{$menuAck}</a>
+		</div>
+		<div id="gairmAbout">
+			<h2>Gairm</h2>
+			{$aboutHtml}
+			<a href="#" id="gairmAboutClose">{$closeLbl}</a>
+		</div>
+		<div id="gairmAcknowledge">
+			<h2>Gairm</h2>
+			{$ackHtml}
+			<a href="#" id="gairmAcknowledgeClose">{$closeLbl}</a>
+		</div>
+		<br class="clear"/>
     </div>
-    <!-- div id="gairmPDFLinks">
-		<div>
-        	<button class="dasg_medButton" id="pdfAuthor">Author PDF</button>
-        </div>
-        <div>
-			<button class="dasg_medButton" id="pdfVolume">Volume PDF</button>
-        </div>
-    </div -->
 HTML;
 
-if ($_GET["action"] !== "browse") {		//default to search
-	/*
-	 * Generate the search form HTML and populate the search field array
-	 */
-	$selectedSearchFields = $selectedFilterFields = array();
-	$searchFields = array("en" => array(
-		"Title"=>"title", "Last Name"=>"lastName", "First Name"=>"firstName", "Origin (en)"=>"origin", "Origin (gd)"=>"origin_gd", "Year"=>"yearOfPublication",
-		"Comments"=>"comments", "Transcription"=>"transcription"),
-			"gd" => array(
-		"Title[gd]"=>"title", "Last Name[gd]"=>"lastName", "First Name[gd]"=>"firstName", "Origin[gd] (en)"=>"origin", "Origin[gd] (gd)"=>"origin_gd", "Year[gd]"=>"yearOfPublication",
-				"Comments[gd]"=>"comments", "Transcription[gd]"=>"transcription"
-			)
-	);
-	$searchFieldHtml = "<ul>";
-	//Default to title search if no search entered yet
-	if (empty($_GET["search"])) {
-		$_GET["title"] = "on";
-	}
-	//clear the form
-	if (isset($_GET["clear"])) {
-		unset($_GET);
-	}
-	foreach ($searchFields[$lang] as $label => $searchField) {
-		if (empty($_GET[$searchField])) {
-			$checked = "";
-		} else {
-			$selectedSearchFields[] = $searchField;
-			$checked = "checked='checked'";
-		}
-		$searchFieldHtml .= <<<HTML
+// ---------- Search vs Browse ----------
+if ($action !== 'browse') {
+
+    $selectedSearchFields = [];
+    $selectedFilterFields = [];
+
+    $searchFields = [
+        "en" => [
+            "Title" => "title", "Last Name" => "lastName", "First Name" => "firstName",
+            "Origin (en)" => "origin", "Origin (gd)" => "origin_gd", "Year" => "yearOfPublication",
+            "Comments" => "comments", "Transcription" => "transcription"
+        ],
+        "gd" => [
+            "Title[gd]" => "title", "Last Name[gd]" => "lastName", "First Name[gd]" => "firstName",
+            "Origin[gd] (en)" => "origin", "Origin[gd] (gd)" => "origin_gd", "Year[gd]" => "yearOfPublication",
+            "Comments[gd]" => "comments", "Transcription[gd]" => "transcription"
+        ]
+    ];
+
+    // Clear form: do NOT unset($_GET); just clear our local $get
+    if (isset($get["clear"])) {
+        $get = [];
+    }
+
+    // Default to title search if no search submitted yet
+    if (empty($get["search"])) {
+        $get["title"] = "on";
+    }
+
+    $searchFieldHtml = "<ul>";
+    foreach ($searchFields[$lang] as $label => $searchField) {
+        $isChecked = !empty($get[$searchField]);
+        if ($isChecked) {
+            $selectedSearchFields[] = $searchField;
+        }
+        $checked = $isChecked ? "checked='checked'" : "";
+
+        $labelEsc = Functions::e($label);
+        $sfEsc = Functions::e($searchField);
+
+        $searchFieldHtml .= <<<HTML
 			<li>
-				<label for="{$searchField}">{$label}</label>
-				<input type="checkbox" name="{$searchField}" id="{$searchField}" $checked/>
+				<label for="{$sfEsc}">{$labelEsc}</label>
+				<input type="checkbox" name="{$sfEsc}" id="{$sfEsc}" {$checked}/>
 			</li>
 HTML;
-	}
-	$searchFieldHtml .= "</ul>";
-	$filterFields = array("en"=>array("Language"=>"language", "Genre"=>"genre", "Type"=>"type"),
-		"gd"=>array("Language[gd]"=>"language", "Genre[gd]"=>"genre", "Type[gd]"=>"type"));
-	$filterFieldHtml = "<ul>";
-	foreach ($filterFields[$lang] as $label => $filterField) {
-		$filterFieldHtml .= <<<HTML
-			<li><label for="{$filterField}">{$label}</label>
-			<select name="{$filterField}" id="{$filterField}"/>
+    }
+    $searchFieldHtml .= "</ul>";
+
+    $filterFields = [
+        "en" => ["Language" => "language", "Genre" => "genre", "Type" => "type"],
+        "gd" => ["Language[gd]" => "language", "Genre[gd]" => "genre", "Type[gd]" => "type"],
+    ];
+
+    $filterFieldHtml = "<ul>";
+    foreach ($filterFields[$lang] as $label => $filterField) {
+
+        $labelEsc = Functions::e($label);
+        $ffEsc = Functions::e($filterField);
+        $filterFieldHtml .= <<<HTML
+			<li><label for="{$ffEsc}">{$labelEsc}</label>
+			<select name="{$ffEsc}" id="{$ffEsc}">
 				<option value="">--All--</option>
 HTML;
-		$filterValues = GairmRecords::getFilterValues($filterField);
-		foreach ($filterValues as $filterValue) {
-			if ($_GET[$filterField] != $filterValue) {
-				$selected = "";
-			} else {
-				$selected = "selected='selected'";
-				$selectedFilterFields[$filterField] = $filterValue;
-			}
-			$filterFieldHtml .= <<<HTML
-				<option value="{$filterValue}" {$selected}>{$filterValue}</option>
+
+        $filterValues = GairmRecords::getFilterValues($filterField);
+        $current = (string)($get[$filterField] ?? '');
+
+        foreach ($filterValues as $filterValue) {
+            $filterValue = (string)$filterValue;
+
+            $selected = ($current !== '' && $current === $filterValue) ? "selected='selected'" : "";
+            if ($selected !== "") {
+                $selectedFilterFields[$filterField] = $filterValue;
+            }
+
+            $fvEsc = Functions::e($filterValue);
+            $filterFieldHtml .= <<<HTML
+				<option value="{$fvEsc}" {$selected}>{$fvEsc}</option>
 HTML;
-		}
-		$filterFieldHtml .= "</select></li>";
-	}
-	$filterFieldHtml .= "</ul>";
-	
-	$queryString = "";
-	$results = array();
-	/*
-	 * If there has been a search, get the results
-	 */
+        }
+        $filterFieldHtml .= "</select></li>";
+    }
+    $filterFieldHtml .= "</ul>";
 
-	$errorMsg = array(
-		"en" => array(
-			"selectFields" => "<h3 class=\"error\">Please select one or more fields to search</h3>",
-			"enterQuery" => "<h3 class=\"error\">Please enter a search query</h3>"),
-		"gd" => array(
-			"selectFields" => "<h3 class=\"error\">[gd]Please select one or more fields to search</h3>",
-			"enterQuery" => "<h3 class=\"error\">[gd]Please enter a search query</h3>"));
-	if (!empty($_GET["search"])) {
-		$queryString = $_GET["queryString"];
-		if (empty($selectedSearchFields)) {
-			echo "<h3 class=\"error\">{$errorMsg[$lang]["selectFields"]}</h3>";
-		} else if (empty($_GET["queryString"])) {
-			echo "<h3 class=\"error\">{$errorMsg[$lang]["enterQuery"]}</h3>";
-		} else {
-			$results = GairmRecords::searchRecords($queryString, $selectedSearchFields, $selectedFilterFields);
-		}
-	}
+    $queryString = (string)($get["queryString"] ?? "");
+    $results = [];
 
-	$searchForText = array("en"=>"Search for", "gd"=>"[gd]Search for");
-	$searchLabel = array("en"=>"Search", "gd"=>"[gd]Search");
-	$filterLabel = array("en"=>"Filter by", "gd"=>"[gd]Filter by");
-	$searchButton = array("en"=>"search", "gd"=>"[gd]search");
-	$placeholder = array("en"=>"search term", "gd"=>"[gd]search term");
-	$clear = array("en"=>"clear", "gd"=>"[gd]clear");
-	$searchFormHtml = <<<HTML
+    $errorMsg = [
+        "en" => [
+            "selectFields" => "Please select one or more fields to search",
+            "enterQuery" => "Please enter a search query",
+        ],
+        "gd" => [
+            "selectFields" => "[gd]Please select one or more fields to search",
+            "enterQuery" => "[gd]Please enter a search query",
+        ]
+    ];
+
+    if (!empty($get["search"])) {
+        if (empty($selectedSearchFields)) {
+            echo '<h3 class="error">' . Functions::e($errorMsg[$lang]["selectFields"]) . '</h3>';
+        } elseif (empty($get["queryString"])) {
+            echo '<h3 class="error">' . Functions::e($errorMsg[$lang]["enterQuery"]) . '</h3>';
+        } else {
+            $results = GairmRecords::searchRecords($queryString, $selectedSearchFields, $selectedFilterFields);
+        }
+    }
+
+    $searchForText = ["en" => "Search for", "gd" => "[gd]Search for"];
+    $searchLabel = ["en" => "Search", "gd" => "[gd]Search"];
+    $filterLabel = ["en" => "Filter by", "gd" => "[gd]Filter by"];
+    $searchButton = ["en" => "search", "gd" => "[gd]search"];
+    $placeholder = ["en" => "search term", "gd" => "[gd]search term"];
+    $clear = ["en" => "clear", "gd" => "[gd]clear"];
+
+    // Precompute for heredoc
+    $searchLabelEsc = Functions::e($searchLabel[$lang]);
+    $filterLabelEsc = Functions::e($filterLabel[$lang]);
+    $searchForEsc = Functions::e($searchForText[$lang]);
+    $queryStringEsc = Functions::e($queryString);
+    $placeholderEsc = Functions::e($placeholder[$lang]);
+    $searchBtnEsc = Functions::e($searchButton[$lang]);
+    $clearEsc = Functions::e($clear[$lang]);
+
+    echo <<<HTML
 		<div id="gairmSearch">
 			<form method="GET">
-			
 				<div id="gairmSearchFields">
-					<h3>{$searchLabel[$lang]}:</h3>
+					<h3>{$searchLabelEsc}:</h3>
 					{$searchFieldHtml}
 					<br/>
-				</div>	<!-- end gairmSearchFields -->
-				
+				</div>
 				<div id="gairmSearchFilters">
-					<h3>{$filterLabel[$lang]}:</h3>
+					<h3>{$filterLabelEsc}:</h3>
 					{$filterFieldHtml}
 					<br/>
 				</div>
-				
 				<div id="gairmSearchMain">
-					<h3>{$searchForText[$lang]}:</h3>
-					<input type="text" name="queryString" id="queryString" value="{$queryString}" placeholder="{$placeholder[$lang]}"/>
-					<input type="submit" name="search" id="search" value="{$searchButton[$lang]}" class="dasg_medButton"/>
-					<input type="submit" name="clear" id="clear" value="{$clear[$lang]}" class="dasg_smlButton"/>
-				</div>	<!-- end gairmSearchMain -->
-							
+					<h3>{$searchForEsc}:</h3>
+					<input type="text" name="queryString" id="queryString" value="{$queryStringEsc}" placeholder="{$placeholderEsc}"/>
+					<input type="submit" name="search" id="search" value="{$searchBtnEsc}" class="dasg_medButton"/>
+					<input type="submit" name="clear" id="clear" value="{$clearEsc}" class="dasg_smlButton"/>
+				</div>
 			</form>
 		</div>
-							
 HTML;
-	echo $searchFormHtml;		//end search form code
-} else {					//begin browse form code
-	$results = array();
-	$queryString = "";
-	$category = "";
-	$dbCategories = array();
-	if (!empty($_GET["yearOfPublication"])) {
-		$queryString = $_GET["yearOfPublication"];
-		$category = "year";
-		$dbCategories = array("yearOfPublication");
-	} else if (!empty($_GET["author"])) {
-		$queryString = $_GET["author"];
-		$category = "author";
-		$dbCategories = array("lastName", "firstName");
-	} else if (!empty($_GET["volume"])) {
-		$queryString = $_GET["volume"];
-		$category = "volume";
-		$dbCategories = array("volume");
-	}
-	if ($category !== "" && $category != "read") {
-		$results = GairmRecords::browseRecords($queryString, $dbCategories);
-	}
-	
-	/*
-	 * Assemble the browse options HTML
-	 */
-	$browseOptions = array("year" => array("en" => "Browse By Year", "gd" => "[gd]Browse by Year"),
-		"volume" => array("en" => "Browse By Volume", "gd" => "[gd]Browse by Volume"),
-		"read" => array("en" => "Read Volume", "gd" => "[gd]Read Volume"));
-	/*
-	 * years
-	 */
-	$years = GairmRecords::getYears();
-	$yearSelectHtml = '<select id="yearOfPublication" name="yearOfPublication"><option value="">-- ' .$browseOptions["year"][$lang] .' --</option>';
-	foreach ($years as $year) {
-		$yearSelectHtml .= '<option value="' . $year . '">' . $year . '</option>';
-	}
-	$yearSelectHtml .= '</select>';
-	
-	/*
-	 * authors
-	 */
-	/*
-	$authors = GairmRecords::getAuthors();
-	$authorSelectHtml = '<select id="author" name="author"><option value="">-- Browse By Author --</option>';
-	foreach ($authors as $author) {
-		$lastName = (mb_strlen($author["lastName"]) > 30) ? mb_substr($author["lastName"], 0, 30) . " ... " : $author["lastName"];
-		$firstName = (mb_strlen($author["firstName"]) > 18) ? mb_substr($author["firstName"], 0, 18) . " ... " : $author["firstName"];
-		$formattedName = (empty($firstName)) ? $lastName : $lastName . ", " . $firstName;
-		$authorSelectHtml .= '<option value="' . str_replace('"', '||', $author["lastName"] . '|' . $author["firstName"]) . '">' . $formattedName . '</option>';
-	}
-	$authorSelectHtml .= '</select>';
-	*/
 
-	/*
-	 * volumes
-	 */
-	$volumes = GairmRecords::getVolumes();
-	$volumeSelectHtml = '<select id="volume" name="volume"><option value="">-- ' .$browseOptions["volume"][$lang] .' --</option>';
-	$readVolumeSelectHtml = '<select id="read" name="read"><option value="">-- ' .$browseOptions["read"][$lang] .' --</option>';
-	foreach ($volumes as $volume) {
-		$volumeSelectHtml .= '<option value="' . $volume . '">' . $volume . '</option>';
-		//restrict the volumes available
-		if ((int)$volume < 11) {
-			$readVolumeSelectHtml .= '<option value="' . $volume . '">' . $volume . '</option>';
-		}
-	}
-	$volumeSelectHtml .= '</select>';
-	$readVolumeSelectHtml .= '</select>';
-	
-	//write browse options
-	echo <<<HTML
+} else {
+
+    $results = [];
+    $queryString = "";
+    $category = "";
+    $dbCategories = [];
+
+    if (!empty($get["yearOfPublication"])) {
+        $queryString = (string)$get["yearOfPublication"];
+        $category = "year";
+        $dbCategories = ["yearOfPublication"];
+    } elseif (!empty($get["author"])) {
+        $queryString = (string)$get["author"];
+        $category = "author";
+        $dbCategories = ["lastName", "firstName"];
+    } elseif (!empty($get["volume"])) {
+        $queryString = (string)$get["volume"];
+        $category = "volume";
+        $dbCategories = ["volume"];
+    }
+
+    if ($category !== "" && $category !== "read") {
+        $results = GairmRecords::browseRecords($queryString, $dbCategories);
+    }
+
+    $browseOptions = [
+        "year" => ["en" => "Browse By Year", "gd" => "[gd]Browse by Year"],
+        "volume" => ["en" => "Browse By Volume", "gd" => "[gd]Browse by Volume"],
+        "read" => ["en" => "Read Volume", "gd" => "[gd]Read Volume"]
+    ];
+
+    $years = GairmRecords::getYears();
+    $yearSelectHtml = '<select id="yearOfPublication" name="yearOfPublication"><option value="">-- ' . Functions::e($browseOptions["year"][$lang]) . ' --</option>';
+    foreach ($years as $year) {
+        $yearEsc = Functions::e($year);
+        $yearSelectHtml .= '<option value="' . $yearEsc . '">' . $yearEsc . '</option>';
+    }
+    $yearSelectHtml .= '</select>';
+
+    $volumes = GairmRecords::getVolumes();
+    $volumeSelectHtml = '<select id="volume" name="volume"><option value="">-- ' . Functions::e($browseOptions["volume"][$lang]) . ' --</option>';
+    $readVolumeSelectHtml = '<select id="read" name="read"><option value="">-- ' . Functions::e($browseOptions["read"][$lang]) . ' --</option>';
+
+    foreach ($volumes as $volume) {
+        $volEsc = Functions::e($volume);
+        $volumeSelectHtml .= '<option value="' . $volEsc . '">' . $volEsc . '</option>';
+        if ((int)$volume < 11) {
+            $readVolumeSelectHtml .= '<option value="' . $volEsc . '">' . $volEsc . '</option>';
+        }
+    }
+
+    $volumeSelectHtml .= '</select>';
+    $readVolumeSelectHtml .= '</select>';
+
+    echo <<<HTML
 		<div class="gairmCategory">{$readVolumeSelectHtml}</div>
 		<div class="gairmCategory">{$yearSelectHtml}</div>
-		<!--div class="gairmCategory">{$authorSelectHtml}</div-->
 		<div class="gairmCategory">{$volumeSelectHtml}</div>
 HTML;
-}	//end the browse form code
+}
 
-
-/*
- * Print the results
- */
+// ---------- Results rendering ----------
 $resultsHtml = '<img id="gairmImage" src="/images/gairm/gairmCartoon.jpg" alt="Gairm Cartoon Image" width="730"/>';
 
 if (!empty($queryString)) {
-	$encodedQuery = urlencode($_SERVER['QUERY_STRING']);
-	//test for zero results
-	if (empty($results)) {
-		$resultsHtml = "<h2>There were no results for " . $queryString . "</h2>";
-	} else {
-		$numResults = count($results);
-		$resultsTagline = ($numResults === 1) ? "There was one result for " : "There were {$numResults} results for ";
-		//hack for year of publication
-		if ($category === "yearOfPublication") {
-			$category = "year";
-		}
-		$queryString = str_replace('||', '"', $queryString);
-		$queryString = str_replace('|', ', ', $queryString);
-		$queryString = trim($queryString, ', ');
-		$resultsTagline .= ucfirst($category) . ": " . $queryString;
-		$headings = array(
-			"title" => array("en"=>"Title", "gd"=>"[gd]Title"),
-			"surname" => array("en"=>"Last Name", "gd"=>"[gd]Last Name"),
-			"firstname" => array("en"=>"First Name", "gd"=>"[gd]First Name"),
-			"origin" => array("en"=>"Origin", "gd"=>"[gd]Origin"),
-			"year" => array("en"=>"Year", "gd"=>"[gd]Year"),
-			"info" => array("en"=>"Info", "gd"=>"Fios"),
-			"read" => array("en"=>"Read", "gd"=>"[gd]Read")
-		);
-		$resultsHtml = <<<HTML
-			<h2>{$resultsTagline}</h2>
-				<table id="gairmResultsTable" class="tablesorter">
-					<thead>
-						<tr>
-							<th class="header">{$headings["title"][$lang]}</th>
-							<th class="header">{$headings["surname"][$lang]}</th>
-							<th class="header" id="firstNameCol">{$headings["firstname"][$lang]}</th>
-							<th class="header">{$headings["origin"][$lang]}</th>
-							<th class="header headerSortUp">{$headings["year"][$lang]}</th>
-							<th>{$headings["info"][$lang]}</th>
-							<th>{$headings["read"][$lang]}</th>
-						</tr>
-					</thead>
-					<tbody>
+
+    $encodedQuery = rawurlencode((string)($_SERVER['QUERY_STRING'] ?? ''));
+
+    if (empty($results)) {
+        $resultsHtml = "<h2>There were no results for " . Functions::e($queryString) . "</h2>";
+    } else {
+        $numResults = count($results);
+        $resultsTagline = ($numResults === 1) ? "There was one result for " : "There were {$numResults} results for ";
+
+        if (($category ?? '') === "yearOfPublication") {
+            $category = "year";
+        }
+
+        $displayQuery = str_replace(['||', '|'], ['"', ', '], $queryString);
+        $displayQuery = trim($displayQuery, ', ');
+
+        $resultsTagline .= ucfirst((string)($category ?? '')) . ": " . $displayQuery;
+
+        $headings = [
+            "title" => ["en"=>"Title", "gd"=>"[gd]Title"],
+            "surname" => ["en"=>"Last Name", "gd"=>"[gd]Last Name"],
+            "firstname" => ["en"=>"First Name", "gd"=>"[gd]First Name"],
+            "origin" => ["en"=>"Origin", "gd"=>"[gd]Origin"],
+            "year" => ["en"=>"Year", "gd"=>"[gd]Year"],
+            "info" => ["en"=>"Info", "gd"=>"Fios"],
+            "read" => ["en"=>"Read", "gd"=>"[gd]Read"],
+        ];
+
+        // Precompute headings and tagline for heredoc
+        $resultsTaglineEsc = Functions::e($resultsTagline);
+        $hTitle = Functions::e($headings["title"][$lang]);
+        $hSurname = Functions::e($headings["surname"][$lang]);
+        $hFirst = Functions::e($headings["firstname"][$lang]);
+        $hOrigin = Functions::e($headings["origin"][$lang]);
+        $hYear = Functions::e($headings["year"][$lang]);
+        $hInfo = Functions::e($headings["info"][$lang]);
+        $hRead = Functions::e($headings["read"][$lang]);
+
+        $resultsHtml = <<<HTML
+			<h2>{$resultsTaglineEsc}</h2>
+			<table id="gairmResultsTable" class="tablesorter">
+				<thead>
+					<tr>
+						<th class="header">{$hTitle}</th>
+						<th class="header">{$hSurname}</th>
+						<th class="header" id="firstNameCol">{$hFirst}</th>
+						<th class="header">{$hOrigin}</th>
+						<th class="header headerSortUp">{$hYear}</th>
+						<th>{$hInfo}</th>
+						<th>{$hRead}</th>
+					</tr>
+				</thead>
+				<tbody>
 HTML;
-		foreach ($results as $id => $gairmRecord) {
-			$origin = ($gairmRecord->getOrigin() === "/") ? "" : $gairmRecord->getOrigin();
-			//if the page number is NOT an integer then it must be a roman numeral in sqaure brackets => remove brackets
-			$volume = $gairmRecord->getVolume();
-			$page = $gairmRecord->getFirstPage();
-/*			$page = is_int((int)$gairmRecord->getFirstPage())
-				? "TD_" . $gairmRecord->getFirstPage()
-				: str_ireplace(array('[', ']'), '', $gairmRecord->getFirstPage());
-*/
-			$volFirstPage = GairmRecords::getFirstPageNoInVolume($volume);
-			if ($volFirstPage > 1) {  //handle vols that start with higher page numbers
-				$page = ((int)$page - (int)$volFirstPage) +3; //take account of covers at start of vol
-			}
-	//		$page .= ".pdf";
-			$view = array("en"=>"view", "gd"=>"[gd]view");
-			$readLinkHtml = "";
-			if ((int)$volume < 11) {
-				$readUrl = "/gairm/read.php?sub=vol/{$volume}#page/n{$page}/mode/2up";
-				$readLinkHtml = '<a class="gairmViewLink" target="_blank" alt="View text" href="' . $readUrl . '">' . $view[$lang] . '</a>';
-			}
-			$resultsHtml .= <<<HTML
-						<tr>
-							<td>{$gairmRecord->getTitle()}</td>
-							<td>{$gairmRecord->getLastName()}</td>
-							<td>{$gairmRecord->getFirstName()}</td>
-							<td>{$origin}</td>
-							<td>&nbsp;&nbsp;{$gairmRecord->getYearOfPublication()}&nbsp;&nbsp;</td>
-							<td><a href="view.php?id={$id}&query={$encodedQuery}" id="gairmRecord_{$id}" class="gairmViewLink" title="View record">{$view[$lang]}</a></td>
-							<td>{$readLinkHtml}</td>							
+
+        $view = ["en" => "view", "gd" => "[gd]view"];
+        $viewLbl = Functions::e($view[$lang]);
+
+        foreach ($results as $id => $gairmRecord) {
+            $idInt = (int)$id;
+
+            $origin = $gairmRecord->getOrigin();
+            $origin = ($origin === "/") ? "" : (string)$origin;
+
+            $volume = (int)$gairmRecord->getVolume();
+            $page = (int)$gairmRecord->getFirstPage();
+
+            $volFirstPage = (int)GairmRecords::getFirstPageNoInVolume($volume);
+            if ($volFirstPage > 1) {
+                $page = ($page - $volFirstPage) + 3;
+            }
+
+            $readLinkHtml = "";
+            if ($volume < 11) {
+                $readUrl = "/gairm/read.php?sub=vol/{$volume}#page/n{$page}/mode/2up";
+                $readLinkHtml = '<a class="gairmViewLink" target="_blank" rel="noopener noreferrer" alt="View text" href="' . Functions::e($readUrl) . '">' . $viewLbl . '</a>';
+            }
+
+            $title = Functions::e($gairmRecord->getTitle());
+            $last  = Functions::e($gairmRecord->getLastName());
+            $first = Functions::e($gairmRecord->getFirstName());
+            $originEsc = Functions::e($origin);
+            $yearPub = Functions::e($gairmRecord->getYearOfPublication());
+
+            $resultsHtml .= <<<HTML
+					<tr>
+						<td>{$title}</td>
+						<td>{$last}</td>
+						<td>{$first}</td>
+						<td>{$originEsc}</td>
+						<td>&nbsp;&nbsp;{$yearPub}&nbsp;&nbsp;</td>
+						<td><a href="view.php?id={$idInt}&query={$encodedQuery}" id="gairmRecord_{$idInt}" class="gairmViewLink" title="View record">{$viewLbl}</a></td>
+						<td>{$readLinkHtml}</td>
+					</tr>
 HTML;
-		}
-		$resultsHtml .= <<<HTML
-					</tbody>
-				</table>
-				
-				<div id="gairmRecord"></div>
+        }
+
+        $resultsHtml .= <<<HTML
+				</tbody>
+			</table>
+
+			<div id="gairmRecord"></div>
 HTML;
-	}
+    }
 }
 
 echo <<<HTML
@@ -407,31 +445,31 @@ echo <<<HTML
 	</div> <!-- end gairmSearchResults -->
 </div> <!-- end right content wrapper -->
 HTML;
-		
-		echo <<<JS
-	<script>
-		$(function() {
-	  	$('#read').change(function() {
-	  	  let url = '/gairm/read.php?sub=vol/' + $(this).val();
-				window.open(url, '_blank');
-			});
-			$('#yearOfPublication').change(function() {
-				window.location.href = '/gairm/browse/year/' + $(this).val();
-			});
-			$('#author').change(function() {
-				window.location.href = '/gairm/browse/author/' + $(this).val();
-			});
-			$('#volume').change(function() {
-				window.location.href = '/gairm/browse/volume/' + $(this).val();
-			});
-			$('#pdfVolume').on('click', function() {
-				window.open('/gairm/pdf.php?format=volume');
-			});
-			$('#pdfAuthor').on('click', function() {
-				window.open('/gairm/pdf.php?format=author');
-			});
+
+echo <<<JS
+<script>
+	$(function() {
+		$('#read').change(function() {
+			let url = '/gairm/read.php?sub=vol/' + $(this).val();
+			window.open(url, '_blank');
 		});
-	</script>
+		$('#yearOfPublication').change(function() {
+			window.location.href = '/gairm/browse/year/' + $(this).val();
+		});
+		$('#author').change(function() {
+			window.location.href = '/gairm/browse/author/' + $(this).val();
+		});
+		$('#volume').change(function() {
+			window.location.href = '/gairm/browse/volume/' + $(this).val();
+		});
+		$('#pdfVolume').on('click', function() {
+			window.open('/gairm/pdf.php?format=volume');
+		});
+		$('#pdfAuthor').on('click', function() {
+			window.open('/gairm/pdf.php?format=author');
+		});
+	});
+</script>
 JS;
-		
-		require_once '../includes/htmlFooter.php';
+
+require_once '../includes/htmlFooter.php';

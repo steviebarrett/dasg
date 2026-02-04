@@ -1,15 +1,19 @@
 <?php
 
+$lenited = $_GET["lenited"] ?? '';
+$accInsens = $_GET["accInsens"] ?? '';
+
+$extrasHtml = isset($extrasHtml) ? $extrasHtml : "";
 
 //prepare words for CQPSyntax query
-if ($_GET["lenited"] == "on" || $_GET["accInsens"] == "on") {
+if ($lenited == "on" || $accInsens == "on") {
     $words = explode(" ", $query);
 	foreach ($words as $i => $word) {
-        if ($_GET["lenited"] == "on") {
+        if ($lenited == "on") {
             $words[$i] = $word[0] . "h?" . mb_substr($word, 1);
         }
         $words[$i] = "\"" . $words[$i] . "\"";
-        if ($_GET["accInsens"] == "on") {
+        if ($accInsens == "on") {
             $words[$i] = $words[$i] . " %d";
         }
     }
@@ -80,9 +84,8 @@ HTML;
 /*
  * Grammar
  */
-if ($pageSlug == "grammar") {
-    $grammarSelected = " menuSelected";
-}
+$grammarSelected = ($pageSlug == "grammar") ? " menuSelected" : "";
+
 $grammarSlug = array("en"=>"LEACAN", "gd"=>"LEACAN");
 echo <<<HTML
 						<li class="sideMenuItem {$grammarSelected}">
@@ -104,9 +107,8 @@ HTML;
 */
 
 $gairmSlug = array("en"=>"Gairm Online", "gd"=>"Gairm Air-loidhne");
-if ($pageSlug == "gairm") {
-	$gairmSelected = " menuSelected";
-}
+$gairmSelected = ($pageSlug == "gairm") ? " menuSelected" : "";
+
 echo <<<HTML
 						<li class="sideMenuItem {$gairmSelected}">
 							<a href="/gairm/" title="{$gairmSlug[$lang]}">{$gairmSlug[$lang]}</a>
@@ -116,9 +118,8 @@ HTML;
 /*
  * Seanchas
  */
-if ($pageSlug == "seanchas") {
-    $seanchasSelected = " menuSelected";
-}
+$seanchasSelected = ($pageSlug == "seanchas") ? " menuSelected" : "";
+
 echo <<<HTML
 					<!--li class="sideMenuItem {$seanchasSelected}">
 						<a href="/seanchas?lang={$lang}" title="Seanchas">Seanchas</a>
@@ -128,9 +129,8 @@ HTML;
 	/*
 	 * Blog
 	*/
-if ($pageSlug == "blog") {
-	$blogSelected = " menuSelected";
-}
+$blogSelected=  ($pageSlug == "blog") ? " menuSelected" : "";
+
 echo <<<HTML
 						<li class="sideMenuItem {$blogSelected}">
 							<a href="/blog/{$lang}" title="Blog">Blog</a>

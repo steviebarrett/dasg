@@ -13,6 +13,9 @@
 config/local*.php
 includes/passwords.php
 
+# subprojects
+/colbhan/
+
 # logs / cache
 *.log
 /tmp/

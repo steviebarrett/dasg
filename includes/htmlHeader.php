@@ -5,7 +5,9 @@ $metaTitle = empty($seoTitle) ? $pageTitle : $seoTitle;
 if (empty($pageSlug) && stristr($_SERVER["REQUEST_URI"], "corpus"))
 	$pageSlug = "corpus";
 	
-$languageChoiceBlock;
+$languageChoiceBlock = "";
+$javascriptBlock = isset($javascriptBlock) ? $javascriptBlock : "";
+
 $languages = array("gd"=>"Gàidhlig", "en"=>"English");	//perhaps better to make this a CONSTANT and move to includes?
 
 if($includeIrish)
@@ -14,7 +16,7 @@ if($includeIrish)
 $cqpStyleSheetBlock = "";
 $pageUrl = $_SERVER['REQUEST_URI'];
 
-if (!$cqpPage) {	//do not include language block for corpus section as it breaks CQPWeb at the moment
+if (!isset($cqpPage)) {	//do not include language block for corpus section as it breaks CQPWeb at the moment
 	$urlParts = explode('/', $pageUrl);
 	//if the URL has been rewritten set the href accordingly
 	if (array_key_exists(end($urlParts), $languages)) {
