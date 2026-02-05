@@ -216,7 +216,10 @@ SQL;
 				}
 				$whereClause .= " {$booleans[$index]} (" . implode(' OR ', $whereList). ')';
 			} else {    //user selected field to be searched
-				$parenthesis = ($booleans[$index+1] == 'OR') ? "(" : "";   //nest the ORs for correct precedence
+                $parenthesis = (
+                    isset($booleans[$index + 1]) &&
+                    $booleans[$index + 1] === 'OR'
+                ) ? '(' : '';
 				$whereClause .= <<<SQL
 					{$booleans[$index]} {$parenthesis} {$searchFields[$index]} REGEXP :searchString{$index}
 SQL;

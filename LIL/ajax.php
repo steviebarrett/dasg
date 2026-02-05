@@ -5,8 +5,6 @@ namespace models;
 
 header('X-Content-Type-Options: nosniff');
 
-session_start();
-
 // output clean JSON consistently
 $sendJson = static function ($data, int $status = 200): void {
     http_response_code($status);

@@ -1,6 +1,7 @@
 <?php
 
-$adminHtml = $_SESSION["loggedIn"]
+
+$adminHtml = (!empty($_SESSION["loggedIn"]))
 	? '<li><a href="?m=admin"><span class="gaelic">Rianachd</span><br>Admin</a></li><li><a href="?m=admin&a=logout"><span class="gaelic"></span><br>Logout</a></li>'
 	: '<li><a href="?m=admin&a=login"><span class="gaelic">Rianachd</span><br>Admin</a></li>';
 echo <<<HTML
