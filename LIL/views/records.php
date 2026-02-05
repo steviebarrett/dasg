@@ -47,7 +47,7 @@ HTML;
 				<tr>
 					<td style="text-align: center;vertical-align: middle;">---</td>
 					<td>
-						<div class="form-group>">
+						<div class="form-group">
 							{$this->_getSearchFieldsDropdown()}
 						</div>
 					</td>
@@ -83,6 +83,7 @@ HTML;
 				}
 				$plus = $i == (count($data["s"]) - 1) ? '<button type="button" class="btn btn-success addRow"><i class="fas fa-plus"></i></button>': "";
 				//check for controlled vocabularies
+                $searchField = "";
 				if ($options = models\records::getControlledVocabularies($data["searchField"][$i])) {
 					$searchField = <<<HTML
 						<select class="form-control" name="s[{$i}]" required>
@@ -94,11 +95,15 @@ HTML;
 							<option value="{$option}" {$searchSelected}>{$option}</option>
 HTML;
 					}
-					$searchField .= "</select>";
-				} //end check for controlled vocabularies
-				$searchField = <<<HTML
-					<input type="text" placeholder="Search" aria-label="Search" class="form-control" id=s{$i}" name="s[{$i}]" value="{$data["s"][$i]}" {$autofocus}>
+					$searchField .= "</select>";    //end check for controlled vocabularies
+				} else {
+                    $searchField = <<<HTML
+                        <input type="text" placeholder="Search" aria-label="Search"
+                            class="form-control" id="s{$i}" name="s[{$i}]"
+                            value="{$data["s"][$i]}" {$autofocus}>
 HTML;
+                }
+
 				$searchTermHtml .= <<<HTML
 					<tr>
 						<td>{$firstCol}</td>
@@ -131,7 +136,7 @@ HTML;
                                 <input type="hidden" name="a" value="search">
                                 <div class="col-12 buttons">
                                     <button type="button" id="resetForm" class="btn btn-secondary float-end mx-1">Reset</button>
-                                    <button type="submit" id="searchSubmit" class="btn btn-primary float-end mx-1">Search</button>
+                                    <button type="button" id="searchSubmit" class="btn btn-primary float-end mx-1">Search</button>
                                 </div>
 
                             </div>
@@ -190,41 +195,49 @@ HTML;
 
 	private function _getSearchOptionsHtml($data) {
 
-		$regexSelected = $data["params"][3] ? "checked" : "";
-		$accinsSelected = $data["params"][0] ? "checked" : "";
-		$lenitionSelected = $data["params"][1] ? "checked" : "";
-		$exactSelected = $data["params"][2] ? "checked" : "";
-        $transcriptionsSelected = $data["params"][4] ? "checked" : "";
-        $recordingsSelected = $data["params"][5] ? "checked" : "";
+        $regexSelected          = !empty($data['params'][3]) ? "checked" : "";
+        $accinsSelected         = !empty($data['params'][0]) ? "checked" : "";
+        $lenitionSelected       = !empty($data['params'][1]) ? "checked" : "";
+        $exactSelected          = !empty($data['params'][2]) ? "checked" : "";
+        $transcriptionsSelected = !empty($data['params'][4]) ? "checked" : "";
+        $recordingsSelected     = !empty($data['params'][5]) ? "checked" : "";
 
-        if (!$_SESSION["searchForm"]) {$accinsSelected = $lenitionSelected = "checked";}    //default to on
+        if (empty($_SESSION["searchForm"])) {
+            $accinsSelected = $lenitionSelected = "checked";
+        }   //default to on
 
 		$html = <<<HTML
 			<div class="container">
 				<div class="row">
 					<!-- <div class="col-sm"></div> -->
 					<div class="col-md-3 form-check">
-						<input type="checkbox" class="form-check-input" id="regex" name="params[3]" $regexSelected>
+					    <input type="hidden" name="params[3]" value="0">
+						<input type="checkbox" class="form-check-input" id="regex" name="params[3]" value="1" $regexSelected>
 						<label class="form-check-label" for="regex"><h5>Regular Expression</h5></label>
 					</div>
 					<div class="col-md-3 form-check">
-						<input type="checkbox" class="form-check-input" id="accins" name="params[0]" $accinsSelected>
+					    <input type="hidden" name="params[0]" value="0">
+						<input type="checkbox" class="form-check-input" id="accins" name="params[0]" value="1" $accinsSelected>
 						<label class="form-check-label" for="accins"><h5>Accent Insensitive</h5></label>
 					</div>
 					<div class="col-md-3 form-check">
-						<input type="checkbox" class="form-check-input" id="lenins" name="params[1]" $lenitionSelected>
+					    <input type="hidden" name="params[1]" value="0">
+						<input type="checkbox" class="form-check-input" id="lenins" name="params[1]" value="1" $lenitionSelected>
 						<label class="form-check-label" for="lenins"><h5>Lenition Insensitive</h5></label>
 					</div>
 					<div class="col-md-3 form-check">
-						<input type="checkbox" class="form-check-input" id="exact" name="params[2]" $exactSelected>
+					    <input type="hidden" name="params[2]" value="0">
+						<input type="checkbox" class="form-check-input" id="exact" name="params[2]" value="1" $exactSelected>
 						<label class="form-check-label" for="exact"><h5>Exact word only (no substring)</h5></label>
 					</div>
 					<div class="col-md-3 form-check">
-						<input type="checkbox" class="form-check-input" id="transcriptions" name="params[4]" $transcriptionsSelected>
+					    <input type="hidden" name="params[4]" value="0">
+						<input type="checkbox" class="form-check-input" id="transcriptions" name="params[4]" value="1" $transcriptionsSelected>
 						<label class="form-check-label" for="transcriptions"><i class="fa-solid fa-file" style="color:#0d6efd" aria-hidden="true"></i> Records with transcription</label>
 					</div>
 					<div class="col-md-3 form-check">
-						<input type="checkbox" class="form-check-input" id="recordings" name="params[5]" $recordingsSelected>
+					    <input type="hidden" name="params[5]" value="0">
+						<input type="checkbox" class="form-check-input" id="recordings" name="params[5]" value="1" $recordingsSelected>
 						<label class="form-check-label" for="recordings"><i class="fa-solid fa-headphones" style="color:#0d6efd" aria-hidden="true"></i> Records with recording</label>
 					</div>
 				</div>
@@ -616,13 +629,25 @@ HTML;
 				    event.preventDefault();
 				  });
 
-				  $('#resetForm').on('click', function () {
-				    $.ajax('ajax.php?action=resetSearchForm')
-				    .done(function () {
-				      window.location.href = "?m=records&a=search";
-				    });
-				  });
-					
+                  $('#resetForm').on('click', function (e) {
+                      e.preventDefault();
+                    
+                      $.ajax({
+                        url: 'ajax.php?action=resetSearchForm',
+                        method: 'POST',
+                        dataType: 'text',               // reset returns "1" (plain text)
+                        headers: { 'X-CSRF-Token': window.CSRF_TOKEN },
+                        success: function (resp) {
+                          // resp will be "1"
+                          window.location.reload();     // simplest: clear UI + reload defaults
+                        },
+                        error: function (xhr) {
+                          console.error('resetSearchForm failed', xhr.status, xhr.responseText);
+                          alert('Reset failed (' + xhr.status + '). Please refresh and try again.');
+                        }
+                      });
+                    });
+           
 				  /*
 				    Save the search form data to reload when back is clicked
 				  */
@@ -634,11 +659,13 @@ HTML;
 				      url: url,
 				      method: 'post',
 				      data: data,
+				      headers: { 'X-CSRF-Token': window.CSRF_TOKEN },
 				      success: function (response) {
-				        if (response == true) {          
+                        const ok = (response === true || response === '1' || response === 1 || response === 'true');
+				        if (ok) {          
 				          var validator = $( "#searchForm" ).validate();
-									if(validator.form()) {
-				            form[0].submit();
+                            if(validator.form()) {
+				                form[0].submit();
 				           }					
 				        }
 				      }

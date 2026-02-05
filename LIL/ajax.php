@@ -3,7 +3,51 @@ declare(strict_types=1);
 
 namespace models;
 
+header('X-Content-Type-Options: nosniff');
+
 session_start();
+
+// output clean JSON consistently
+$sendJson = static function ($data, int $status = 200): void {
+    http_response_code($status);
+    header('Content-Type: application/json; charset=UTF-8');
+    echo json_encode($data);
+    exit;
+};
+
+// helper to ensure POST is used
+$requirePost = static function () use ($sendJson): void {
+    if (($_SERVER['REQUEST_METHOD'] ?? '') !== 'POST') {
+        $sendJson(['error' => 'POST required'], 405);
+    }
+};
+
+// helper to ensure admin is logged in
+$requireAdmin = static function () use ($sendJson): void {
+    if (empty($_SESSION['loggedIn'])) {
+        $sendJson(['error' => 'admin required'], 403);
+    }
+};
+
+// helper to ensure CSRF token is valid
+$requireCsrf = static function () use ($sendJson): void {
+    $token = $_SERVER['HTTP_X_CSRF_TOKEN'] ?? '';
+    if (empty($_SESSION['csrf_token']) || !hash_equals($_SESSION['csrf_token'], $token)) {
+        $sendJson(['error' => 'CSRF failed'], 403);
+    }
+};
+
+$clampInt = static function (mixed $v, int $min, int $max, int $default) : int {
+    if ($v === null || $v === '') return $default;
+    $n = (int)$v;
+    if ($n < $min) return $min;
+    if ($n > $max) return $max;
+    return $n;
+};
+
+$validAi = static function (string $ai) : bool {
+    return (bool)preg_match('/^[A-Za-z0-9_-]{1,64}$/', $ai);
+};
 
 require_once 'includes/include.php';
 
@@ -14,20 +58,13 @@ $req = $_REQUEST ?? [];
 
 $action = (string)($req['action'] ?? '');
 
-// output clean JSON consistently
-$sendJson = static function ($data, int $status = 200): void {
-    http_response_code($status);
-    header('Content-Type: application/json; charset=UTF-8');
-    echo json_encode($data);
-    exit;
-};
-
 switch ($action) {
 
     case "getRecord": {
         $ai = (string)($get["ai"] ?? '');
-        if ($ai === '') {
-            $sendJson(["error" => "missing ai"], 400);
+
+        if ($ai === '' || !$validAi($ai)) {
+            $sendJson(["error" => "invalid ai"], 400);
         }
 
         $result = [];
@@ -61,53 +98,63 @@ switch ($action) {
     }
 
     case "searchRecords": {
+
         $records = new records();
 
-        // Read from REQUEST so it works for GET or POST
         $searchStringsRaw = (string)($_REQUEST["searchStrings"] ?? '');
         if ($searchStringsRaw === '') {
-            header('Content-Type: application/json; charset=UTF-8');
-            echo json_encode(["error" => "no search string"]);
-            exit;
+            $sendJson(["error" => "no search string"], 400);
         }
 
         $searchFieldsRaw = (string)($_REQUEST["searchFields"] ?? '');
         $booleansRaw     = (string)($_REQUEST["booleans"] ?? '');
         $paramsRaw       = (string)($_REQUEST["params"] ?? '');
 
+        if (strlen($searchStringsRaw) > 2000) {
+            $sendJson(['error' => 'search too long'], 413);
+        }
+
         // Split and normalise
         $searchStrings = array_values(array_filter(explode('|', $searchStringsRaw), 'strlen'));
         $searchFields  = array_values(array_filter(explode('|', $searchFieldsRaw), 'strlen'));
 
-        // Booleans: remove empties; if the UI sends just "|" treat as none
-        $booleans = array_values(array_filter(explode('|', $booleansRaw), 'strlen'));
+        // --- Booleans: MUST preserve index alignment with searchStrings ---
+        // Expect booleans like: "" (index 0), "OR" (index 1), "AND" (index 2) ...
+        $tmpBooleans = explode('|', $booleansRaw); // KEEP empties
 
-        // Params: KEEP empties sometimes matters, but your example has trailing empties.
-        // We'll trim trailing empties and keep meaningful ones.
+        $allowedOps = ['AND', 'OR', 'NOT'];
+        $booleans = array_fill(0, count($searchStrings), 'AND');
+        $booleans[0] = ''; // first term has no operator
+
+        for ($i = 1; $i < count($searchStrings); $i++) {
+            $op = strtoupper(trim($tmpBooleans[$i] ?? 'AND'));
+            $booleans[$i] = in_array($op, $allowedOps, true) ? $op : 'AND';
+        }
+
+        // Params: trim trailing empties
         $params = explode('|', $paramsRaw);
         while (!empty($params) && end($params) === '') {
             array_pop($params);
         }
 
         // Ensure searchFields aligns with searchStrings
-        // If UI sends "all" once but there are N strings, repeat "all"
         if (count($searchFields) === 1 && count($searchStrings) > 1) {
             $searchFields = array_fill(0, count($searchStrings), $searchFields[0]);
         }
 
-        // If booleans count doesn't match N-1, pad with AND (or truncate)
-        $needBooleans = max(0, count($searchStrings) - 1);
-        if (count($booleans) < $needBooleans) {
-            $booleans = array_merge($booleans, array_fill(0, $needBooleans - count($booleans), 'AND'));
-        } elseif (count($booleans) > $needBooleans) {
-            $booleans = array_slice($booleans, 0, $needBooleans);
-        }
-
         // Default paging/sort
-        $offset = isset($_REQUEST["offset"]) ? (int)$_REQUEST["offset"] : 0;
-        $limit  = isset($_REQUEST["limit"])  ? (int)$_REQUEST["limit"]  : 10;
-        $sort   = (string)($_REQUEST["sort"] ?? '');
-        $order  = (string)($_REQUEST["order"] ?? '');
+        $offset = $clampInt($_REQUEST["offset"] ?? null, 0, 1000000, 0);
+        $limit  = $clampInt($_REQUEST["limit"] ?? null, 1, 100, 10);
+
+        $allowedSort = ['ai','title','alternative_title','first_line_chorus','first_line_verse','classifications',
+            'subjects','place_of_origin','composer_first_name','composer_last_name','community','singer'];
+
+        $sort = (string)($_REQUEST["sort"] ?? '');
+        $sort = in_array($sort, $allowedSort, true) ? $sort : '';
+
+        $order = strtolower((string)($_REQUEST["order"] ?? ''));
+        $order = in_array($order, ['asc','desc'], true) ? $order : 'asc';
+
         $search = (string)($_REQUEST["search"] ?? '');
 
         $results = $records->getAdvancedSearchResults(
@@ -122,19 +169,23 @@ switch ($action) {
             $order
         );
 
-        header('Content-Type: application/json; charset=UTF-8');
-        echo json_encode($results);
-        exit;
+        $sendJson($results);
     }
+
 
     case "browseRecords": {
         $records = new records();
 
-        $offset = isset($get["offset"]) ? (int)$get["offset"] : 0;
-        $limit  = isset($get["limit"])  ? (int)$get["limit"]  : 50;
+        $offset = $clampInt($get["offset"] ?? null, 0, 1000000, 0);
+        $limit  = $clampInt($get["limit"] ?? null, 1, 100, 50);
 
-        $sort   = (string)($get["sort"] ?? '');
-        $order  = (string)($get["order"] ?? '');
+        $allowedSort = ['ai','title', 'alternative_title','first_line_chorus','first_line_verse','classifications',
+            'subjects', 'place_of_origin', 'composer_first_name', 'composer_last_name', 'community', 'singer'];
+        $sort = (string)($get["sort"] ?? '');
+        $sort = in_array($sort, $allowedSort, true) ? $sort : '';
+
+        $order = strtolower((string)($get["order"] ?? ''));
+        $order = in_array($order, ['asc','desc'], true) ? $order : 'asc';
         $search = (string)($get["search"] ?? '');
 
         $getText = ((string)($get["getText"] ?? 'y')) !== 'n';
@@ -153,31 +204,74 @@ switch ($action) {
     }
 
     case "editRecord": {
-        $ai = (string)($get["ai"] ?? '');
-        if ($ai === '') {
-            $sendJson(["error" => "missing ai"], 400);
+        $requirePost();
+        $requireCsrf();
+        $requireAdmin();
+
+        $ai = (string)($post["ai"] ?? $get["ai"] ?? '');
+        if ($ai === '' || !$validAi($ai)) {
+            $sendJson(["error" => "invalid ai"], 400);
         }
 
         $controller = new \controllers\record($ai);
         $controller->run("edit");
-        // controller likely echoes its own response
         exit;
     }
 
     case "saveSearchForm":
-        $_SESSION["searchForm"] = $_POST;
-        echo "1"; // or echo true;
+        $requirePost();
+        $requireCsrf();
+
+        $clean = [];
+
+        $clean['m'] = isset($post['m']) ? (string)$post['m'] : 'records';
+        $clean['a'] = isset($post['a']) ? (string)$post['a'] : 'search';
+
+        // IMPORTANT: derive row count from posted arrays (this is what restores “worked before hardening” behaviour)
+        $sCount  = (isset($post['s']) && is_array($post['s'])) ? count($post['s']) : 0;
+        $fCount  = (isset($post['searchField']) && is_array($post['searchField'])) ? count($post['searchField']) : 0;
+        $count   = max(1, $sCount, $fCount);
+        $count   = min(10, $count); // cap to prevent abuse
+        $clean['searchFieldCount'] = $count;
+
+        // Copy row arrays up to $count
+        if (isset($post['searchField']) && is_array($post['searchField'])) {
+            $clean['searchField'] = array_slice($post['searchField'], 0, $count, true);
+        }
+        if (isset($post['s']) && is_array($post['s'])) {
+            $clean['s'] = array_slice($post['s'], 0, $count, true);
+        }
+
+        // b[] only exists from index 1..($count-1) typically — keep whatever was posted, but cap size
+        if (isset($post['b']) && is_array($post['b'])) {
+            // keep keys, but cap to at most $count entries
+            $clean['b'] = array_slice($post['b'], 0, $count, true);
+        }
+
+        // params[] is independent of row count — DO NOT slice it by $count
+        if (isset($post['params']) && is_array($post['params'])) {
+            $clean['params'] = $post['params'];
+        }
+
+        $_SESSION["searchForm"] = $clean;
+
+        header('Content-Type: text/plain; charset=UTF-8');
+        echo "1";
         exit;
 
     case "resetSearchForm":
+        $requirePost();
+        $requireCsrf();
+
         unset($_SESSION["searchForm"]);
+        header('Content-Type: text/plain; charset=UTF-8');
         echo "1";
         exit;
 
     case "getRecordExists": {
         $ai = (string)($get["ai"] ?? '');
-        if ($ai === '') {
-            $sendJson(["error" => "missing ai"], 400);
+        if ($ai === '' || !$validAi($ai)) {
+            $sendJson(["error" => "invalid ai"], 400);
         }
 
         $result = ["exists" => records::getRecordExists($ai)];
@@ -186,10 +280,14 @@ switch ($action) {
     }
 
     case "updateSearchQueryOptions": {
+        $requirePost();
+        $requireCsrf();
+        $requireAdmin();
+
         $records = new records();
 
-        $checked = (string)($get["checked"] ?? 'false');
-        $field   = (string)($get["field"] ?? '');
+        $checked = (string)($post["checked"] ?? 'false');
+        $field   = (string)($post["field"] ?? '');
 
         if ($field === '') {
             $sendJson(["error" => "missing field"], 400);
@@ -207,10 +305,14 @@ switch ($action) {
     }
 
     case "updateSearchOptions": {
+        $requirePost();
+        $requireCsrf();
+        $requireAdmin();
+
         $records = new records();
 
-        $checked = (string)($get["checked"] ?? 'false');
-        $field   = (string)($get["field"] ?? '');
+        $checked = (string)($post["checked"] ?? 'false');
+        $field   = (string)($post["field"] ?? '');
 
         if ($field === '') {
             $sendJson(["error" => "missing field"], 400);
@@ -228,10 +330,14 @@ switch ($action) {
     }
 
     case "updateBrowseOptions": {
+        $requirePost();
+        $requireCsrf();
+        $requireAdmin();
+
         $records = new records();
 
-        $checked = (string)($get["checked"] ?? 'false');
-        $field   = (string)($get["field"] ?? '');
+        $checked = (string)($post["checked"] ?? 'false');
+        $field   = (string)($post["field"] ?? '');
 
         if ($field === '') {
             $sendJson(["error" => "missing field"], 400);

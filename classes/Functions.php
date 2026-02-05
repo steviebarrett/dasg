@@ -96,6 +96,7 @@ final class Functions
                 </form>
             </div>
 HTML;
+        return true;
     }
 
     public static function showLogoutForm()
