@@ -2,57 +2,78 @@
 
 namespace controllers;
 
-use models;
-use views;
+use models\record as RecordModel;
+use views\record as RecordView;
 
-final class record
+class record
 {
-    private models\record $_model;
+    private RecordModel $_model;
 
-    public function __construct(?string $ai = null)
+    public function __construct($ai)
     {
-        // Backup for crawlers: allow ai via GET if not passed.
-        $ai = $ai ?? (string)($_GET['ai'] ?? '');
-
-        $this->_model = new models\record($ai);
+        if (!$ai) {
+            $ai = $_GET["ai"] ?? ''; // keep your crawl fallback
+        }
+        $this->_model = new RecordModel((string)$ai);
     }
 
-    public function run(string $action): void
+    private function requireAdmin(): void
+    {
+        if (empty($_SESSION['loggedIn'])) {
+            http_response_code(403);
+            echo "Not authorised";
+            exit;
+        }
+    }
+
+    private function requirePost(): void
+    {
+        if (($_SERVER['REQUEST_METHOD'] ?? '') !== 'POST') {
+            http_response_code(405);
+            echo "POST required";
+            exit;
+        }
+    }
+
+    private function requireCsrf(): void
+    {
+        $token = (string)($_SERVER['HTTP_X_CSRF_TOKEN'] ?? $_POST['_csrf'] ?? '');
+        if (empty($_SESSION['csrf_token']) || $token === '' || !hash_equals((string)$_SESSION['csrf_token'], $token)) {
+            http_response_code(403);
+            echo "CSRF failed";
+            exit;
+        }
+    }
+
+    public function run($action): void
     {
         switch ($action) {
 
             case "view":
-                $view = new views\record($this->_model, $_GET["o"] ?? '');
+                $origin = (string)($_GET["o"] ?? '');
+                $view = new RecordView($this->_model, $origin);
                 $view->show();
                 break;
 
             case "edit":
-                requireAdmin();
-                $view = new views\record($this->_model);
+                $this->requireAdmin();
+                $view = new RecordView($this->_model);
                 $view->edit();
                 break;
 
             case "save":
-                requireAdmin();
-
-                // CSRF check (controller-level, not view)
-                if (
-                    empty($_POST['_csrf']) ||
-                    empty($_SESSION['csrf_token']) ||
-                    !hash_equals($_SESSION['csrf_token'], (string)$_POST['_csrf'])
-                ) {
-                    http_response_code(403);
-                    echo "CSRF validation failed";
-                    exit;
-                }
+                $this->requireAdmin();
+                $this->requirePost();
+                $this->requireCsrf();
 
                 $this->_model->save($_POST);
 
-                if (($_GET["id"] ?? '') === '-1') {
-                    $this->_model = new models\record($_POST["ai"] ?? '');
+                if (($_GET["id"] ?? null) == -1 && !empty($_POST["ai"])) {
+                    $this->_model = new RecordModel((string)$_POST["ai"]);
                 }
 
-                (new views\record($this->_model))->show();
+                $view = new RecordView($this->_model);
+                $view->show();
                 break;
 
             default:

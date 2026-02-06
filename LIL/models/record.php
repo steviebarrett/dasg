@@ -135,29 +135,34 @@ final class record
      */
     public function save(array $data): void
     {
-        // whitelist columns to prevent SQL identifier injection
-        $allowed = (new records())->getAllFieldNames();
-        $allowedMap = array_fill_keys($allowed, true);
+        // Allow only real DB columns (prevents mass assignment)
+        $recordsModel = new records();
+        $allowed = array_flip($recordsModel->getAllFieldNames());
 
+        // Keep only allowed fields
         $clean = [];
         foreach ($data as $field => $value) {
             $field = (string)$field;
-            if (!isset($allowedMap[$field])) {
-                continue; // ignore unexpected keys
+            if (!isset($allowed[$field])) {
+                continue;
             }
 
+            // handle multiples (array): e.g. classifications
             if (is_array($value)) {
                 $value = implode(" , ", $value);
             }
+
             $clean[$field] = $value;
         }
 
         if (empty($clean)) {
-            return; // nothing to save
+            return;
         }
 
-        // If ai is present, keep tracking behaviour
-        $ai = isset($clean['ai']) ? (string)$clean['ai'] : $this->getAI();
+        // Require ai for replace/update semantics
+        if (!isset($clean['ai']) || (string)$clean['ai'] === '') {
+            throw new \InvalidArgumentException("Missing ai");
+        }
 
         $fields = array_keys($clean);
         $fieldList = implode(', ', $fields);
@@ -167,10 +172,10 @@ final class record
 
         $values = array_values($clean);
 
-        $sql = "REPLACE INTO record ({$fieldList}) VALUES ({$placeholderList})";
-        $this->db->exec($sql, $values);
+        $sql = "REPLACE INTO record ({$fieldList}) VALUES({$placeholderList})";
+        $this->_db->exec($sql, $values);
 
-        $this->_updateTracking($ai);
+        $this->_updateTracking((string)$clean["ai"]);
     }
 
     private function _updateTracking(string $ai): void
