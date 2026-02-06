@@ -253,8 +253,11 @@ HTML;
         return $html;
     }
 
-    private function _getSearchFieldsDropdown($index = 0, $value = "")
+    private function _getSearchFieldsDropdown($index = 0, $value = ""): string
     {
+        $value = (string)$value;
+
+        // these fields are to be displayed at the top of the list
         $priorityFields = ["title", "composer_last_name", "classifications", "subjects", "place_of_origin"];
         $priorityListHtml = "";
 
@@ -262,35 +265,42 @@ HTML;
             $selected = ($value === $field) ? "selected" : "";
             $friendlyName = models\functions::getFriendlyName($field);
 
-            $fieldEsc = models\functions::e($field);
+            $fieldEsc    = models\functions::e($field);
             $friendlyEsc = models\functions::e((string)$friendlyName);
 
             $priorityListHtml .= <<<HTML
-                <option value="{$fieldEsc}" {$selected}>{$friendlyEsc}</option>
+            <option value="{$fieldEsc}" {$selected}>{$friendlyEsc}</option>
 HTML;
         }
 
         $idxEsc = models\functions::e((string)$index);
+
+        // ✅ restore selected state for the "all" option
+        $selectedAll = ($value === "" || $value === "all") ? "selected" : "";
+
         $html = <<<HTML
-                <select name="searchField[{$idxEsc}]" data-index="{$idxEsc}" class="form-control searchFieldSelect">
-                    <option value="all">Search All Fields  ▿</option>
+        <select name="searchField[{$idxEsc}]" data-index="{$idxEsc}" class="form-control searchFieldSelect">
+            <option value="all" {$selectedAll}>Search All Fields ▿</option>
 HTML;
 
         $html .= $priorityListHtml;
 
         $searchFields = $this->_model->getSearchQueryFields();
         foreach ($searchFields as $searchField) {
+            $searchField = (string)$searchField;
+
             if (in_array($searchField, $priorityFields, true)) {
                 continue;
             }
+
             $selected = ($value === $searchField) ? "selected" : "";
             $friendlyName = models\functions::getFriendlyName($searchField);
 
-            $sfEsc = models\functions::e((string)$searchField);
+            $sfEsc = models\functions::e($searchField);
             $fnEsc = models\functions::e((string)$friendlyName);
 
             $html .= <<<HTML
-                <option value="{$sfEsc}" {$selected}>{$fnEsc}</option>
+            <option value="{$sfEsc}" {$selected}>{$fnEsc}</option>
 HTML;
         }
 
