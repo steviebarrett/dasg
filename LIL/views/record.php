@@ -202,8 +202,13 @@ HTML;
 HTML;
         }
 
+        $csrfToken = models\functions::e($_SESSION['csrf_token'] ?? '');
+        $csrfInput = '<input type="hidden" name="_csrf" value="' . $csrfToken . '">';
+
         $html .= <<<HTML
                     {$hiddenFields}
+                    
+                    {$csrfInput}
                     <a class="btn btn-secondary" href="index.php" title="close">Cancel</a>
                     <button type="submit" class="btn btn-primary">Save</button>
                 </form>
