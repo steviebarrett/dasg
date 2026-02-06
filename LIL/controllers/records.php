@@ -5,7 +5,7 @@ namespace controllers;
 use models;
 use views;
 
-final class records
+final class records extends ControllerBase
 {
     public function run(string $action): void
     {

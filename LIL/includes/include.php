@@ -77,19 +77,6 @@ if (empty($_SESSION['csrf_token'])) {
 // ========= Secrets / config =========
 require_once '.env';
 
-/**
- * Require admin authentication
- * @return void
- */
-function requireAdmin(): void
-{
-    if (empty($_SESSION['loggedIn'])) {
-        http_response_code(403);
-        echo "Not authorised";
-        exit;
-    }
-}
-
 // ========= Autoload =========
 spl_autoload_extensions(".php");
 spl_autoload_register();

@@ -1,47 +1,58 @@
 <?php
-
 declare(strict_types=1);
 
 namespace controllers;
 
-use views, models;
+use views\admin as AdminView;
+use models\records as RecordsModel;
 
-class admin
+final class admin extends ControllerBase
 {
-    public function run($action = null) {
-        $model = new models\records();
-        $view  = new views\admin($model);
+    public function run($action = null): void
+    {
+        $model = new RecordsModel();
+        $view  = new AdminView($model);
 
-        switch ($action) {
+        switch ((string)$action) {
 
-            case "logout":
-                $_SESSION["loggedIn"] = false;
+            case 'login':
+                // state-changing
+                $this->requirePost();
+                $this->requireCsrf();
+
+                $username = (string)($_POST['u'] ?? '');
+                $password = (string)($_POST['p'] ?? '');
+
+                // constant-time comparisons
+                if (!hash_equals((string)ADMIN_USERNAME, $username) || !hash_equals((string)ADMIN_PASSWORD, $password)) {
+                    $_SESSION['loggedIn'] = false;
+                    // rotate anyway to reduce fixation/spraying value
+                    session_regenerate_id(true);
+                    $view->writeLoginForm();
+                    return;
+                }
+
+                $_SESSION['loggedIn'] = true;
+                session_regenerate_id(true);
+                $view->show();
+                return;
+
+            case 'logout':
+                // state-changing
+                $this->requirePost();
+                $this->requireCsrf();
+                $this->requireAdmin();
+
+                $_SESSION['loggedIn'] = false;
                 session_regenerate_id(true);
                 $view->writeLoginForm();
-                break;
-
-            case "login":
-                $username = isset($_POST["u"]) ? (string)$_POST["u"] : '';
-                $password = isset($_POST["p"]) ? (string)$_POST["p"] : '';
-
-                if (!hash_equals(ADMIN_USERNAME, $username) || !hash_equals(ADMIN_PASSWORD, $password)) {
-                    $_SESSION["loggedIn"] = false;
-                    $view->writeLoginForm();
-                    break;
-                }
-
-                $_SESSION["loggedIn"] = true;
-                session_regenerate_id(true); // prevent session fixation
-                $view->show();
-                break;
+                return;
 
             default:
-                if (!empty($_SESSION["loggedIn"])) {
-                    $view->show();
-                } else {
-                    $view->writeLoginForm();
-                }
-                break;
+                // read-only but sensitive
+                $this->requireAdmin();
+                $view->show();
+                return;
         }
     }
 }

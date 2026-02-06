@@ -5,7 +5,7 @@ namespace controllers;
 use models\record as RecordModel;
 use views\record as RecordView;
 
-class record
+final class record extends ControllerBase
 {
     private RecordModel $_model;
 
@@ -15,34 +15,6 @@ class record
             $ai = $_GET["ai"] ?? ''; // keep your crawl fallback
         }
         $this->_model = new RecordModel((string)$ai);
-    }
-
-    private function requireAdmin(): void
-    {
-        if (empty($_SESSION['loggedIn'])) {
-            http_response_code(403);
-            echo "Not authorised";
-            exit;
-        }
-    }
-
-    private function requirePost(): void
-    {
-        if (($_SERVER['REQUEST_METHOD'] ?? '') !== 'POST') {
-            http_response_code(405);
-            echo "POST required";
-            exit;
-        }
-    }
-
-    private function requireCsrf(): void
-    {
-        $token = (string)($_SERVER['HTTP_X_CSRF_TOKEN'] ?? $_POST['_csrf'] ?? '');
-        if (empty($_SESSION['csrf_token']) || $token === '' || !hash_equals((string)$_SESSION['csrf_token'], $token)) {
-            http_response_code(403);
-            echo "CSRF failed";
-            exit;
-        }
     }
 
     public function run($action): void
