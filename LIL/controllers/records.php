@@ -9,12 +9,13 @@ final class records
 {
     public function run(string $action): void
     {
+        $model = new models\records();
+        $view  = new views\records($model);
+
         switch ($action) {
 
             // Public browse/list (no CSRF/admin needed)
             case 'list': {
-                $model = new models\records();
-                $view  = new views\records($model);
                 $view->show();
                 return;
             }
@@ -23,8 +24,6 @@ final class records
             // - showSearchForm if no query terms
             // - show results view if query present
             case 'search': {
-                $model = new models\records();
-                $view  = new views\records($model);
 
                 // Advanced search uses s[...] and searchField[...] etc.
                 // If no search terms, show the form.

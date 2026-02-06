@@ -6,6 +6,7 @@ declare(strict_types=1);
  * - sets session config
  * - starts session ONCE
  * - manages inactivity timeout
+ * - contains requireAdmin() function for authentication
  * - ensures CSRF token exists
  * - loads secrets/config
  * - autoload
@@ -75,6 +76,19 @@ if (empty($_SESSION['csrf_token'])) {
 
 // ========= Secrets / config =========
 require_once '.env';
+
+/**
+ * Require admin authentication
+ * @return void
+ */
+function requireAdmin(): void
+{
+    if (empty($_SESSION['loggedIn'])) {
+        http_response_code(403);
+        echo "Not authorised";
+        exit;
+    }
+}
 
 // ========= Autoload =========
 spl_autoload_extensions(".php");

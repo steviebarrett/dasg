@@ -21,67 +21,43 @@ final class record
     {
         switch ($action) {
 
-            // Public (no CSRF/admin needed)
-            case 'view': {
-                $origin = (string)($_GET['o'] ?? '');
-                $view = new views\record($this->_model, $origin);
+            case "view":
+                $view = new views\record($this->_model, $_GET["o"] ?? '');
                 $view->show();
-                return;
-            }
+                break;
 
-            // Admin-only (no CSRF required because it renders a form, does not mutate state)
-            case 'edit': {
-                if (empty($_SESSION['loggedIn'])) {
-                    http_response_code(403);
-                    echo 'Not authorised';
-                    return;
-                }
-
+            case "edit":
+                requireAdmin();
                 $view = new views\record($this->_model);
                 $view->edit();
-                return;
-            }
+                break;
 
-            // Admin-only + CSRF (mutates state)
-            case 'save': {
-                if (empty($_SESSION['loggedIn'])) {
+            case "save":
+                requireAdmin();
+
+                // CSRF check (controller-level, not view)
+                if (
+                    empty($_POST['_csrf']) ||
+                    empty($_SESSION['csrf_token']) ||
+                    !hash_equals($_SESSION['csrf_token'], (string)$_POST['_csrf'])
+                ) {
                     http_response_code(403);
-                    echo 'Not authorised';
-                    return;
-                }
-
-                // CSRF: accept either header (AJAX) or POST param (plain form)
-                $token = (string)($_SERVER['HTTP_X_CSRF_TOKEN'] ?? ($_POST['csrf_token'] ?? ''));
-                if (empty($_SESSION['csrf_token']) || !hash_equals((string)$_SESSION['csrf_token'], $token)) {
-                    http_response_code(403);
-                    echo 'CSRF failed';
-                    return;
-                }
-
-                // Only accept POST for saves
-                if (($_SERVER['REQUEST_METHOD'] ?? '') !== 'POST') {
-                    http_response_code(405);
-                    echo 'POST required';
-                    return;
+                    echo "CSRF validation failed";
+                    exit;
                 }
 
                 $this->_model->save($_POST);
 
-                // If a new record was created, reload it
-                $id = (int)($_GET['id'] ?? 0);
-                if ($id === -1 && isset($_POST['ai'])) {
-                    $this->_model = new models\record((string)$_POST['ai']);
+                if (($_GET["id"] ?? '') === '-1') {
+                    $this->_model = new models\record($_POST["ai"] ?? '');
                 }
 
-                $view = new views\record($this->_model);
-                $view->show();
-                return;
-            }
+                (new views\record($this->_model))->show();
+                break;
 
             default:
                 http_response_code(404);
-                echo 'Unknown action';
-                return;
+                echo "Unknown action";
         }
     }
 }
