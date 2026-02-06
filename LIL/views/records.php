@@ -520,41 +520,54 @@ HTML;
                 }
 
                 $(function () {
-                  var myModal = new bootstrap.Modal(document.getElementById('recordModal'));
-                  $('.search-input').prop('placeholder', 'Filter Table');
+  var myModal = new bootstrap.Modal(document.getElementById('recordModal'));
+  $('.search-input').prop('placeholder', 'Filter Table');
 
-                  $(document).on('click', '.recordLink', function () {
-                     let ai = $(this).attr('data-id')
-                     $('.editRecord').attr('data-id', ai);
-                     $('.deleteRecord').attr('data-id', ai);
+  $(document).on('click', '.recordLink', function () {
+    let ai = $(this).attr('data-id');
+    $('.editRecord').attr('data-id', ai);
+    $('.deleteRecord').attr('data-id', ai);
 
-                     var html = '<dl>';
-                     $.getJSON('ajax.php?action=getRecord&ai='+encodeURIComponent(ai), function (data) {
-                       $.each(data, function (i, v) {
-                         if (v == '' || v == 'null' || v == null) {
-                           return;
-                         }
-                         if (i == 'hasTranscription') {
-                           html += '<dt>transcription</dt><dd><a href="#">link</a>';
-                         }
-                         else if (typeof v === 'string' && v.substr(0,4) == 'http') {
-                           const href = escAttr(v);
-                           v = '<a href="' + href + '" target="_blank" rel="noopener noreferrer">link</a>';
-                         } else {
-                           v = escHtml(v);
-                         }
+    var html = '<dl>';
 
-                         html += '<dt>' + escHtml(i) + '</dt>';
-                         html += '<dd>' + v + '</dd>';
-                       });
-                     })
-                     .done(function () {
-                       html += '</dl>'
-                       $('.modal-title').text(ai);
-                       $('.modal-body').html(html);
-                       myModal.show();
-                     });
+        $.getJSON('ajax.php?action=getRecord&ai=' + encodeURIComponent(ai), function (data) {
+                      $.each(data, function (i, v) {
+                        // v is expected to be like: { label_en, label_gd, value }
+                        const en = (v && v.label_en != null) ? String(v.label_en) : '';
+                        const gd = (v && v.label_gd != null) ? String(v.label_gd) : '';
+                        const rawValue = (v && v.value != null) ? String(v.value) : '';
+                
+                        // treat empty/null/"null" as absent
+                        if (!rawValue || rawValue === 'null') return;
+                
+                        // Build the <dd> content safely
+                        let ddHtml = '';
+                        if (/^https?:\/\//i.test(rawValue)) {
+                          // href attribute must be escaped separately
+                          ddHtml =
+                            '<a href="' + escAttr(rawValue) + '" target="_blank" rel="noopener noreferrer">' +
+                              escHtml(rawValue) +
+                            '</a>';
+                        } else {
+                          ddHtml = escHtml(rawValue);
+                        }
+                
+                        html += '<dt><span class="text-muted"><em>' + escHtml(gd) + '</em></span><br>' + escHtml(en) + '</dt>';
+                        html += '<dd>' + ddHtml + '</dd>';
+                      });
+                    })
+                    .done(function () {
+                      html += '</dl>';
+                      $('.modal-title').text(ai);
+                      $('.modal-body').html(html);
+                      myModal.show();
+                    })
+                    .fail(function (xhr) {
+                      console.error('getRecord failed', xhr.status, xhr.responseText);
+                      alert('Failed to load record (' + xhr.status + ').');
+                    });
                   });
+
 
                   $(document).on('click', '.editRecord', function () {
                     let ai = $(this).attr('data-id');

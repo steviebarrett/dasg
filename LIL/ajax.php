@@ -81,12 +81,9 @@ switch ($action) {
             // Gaelic label: guard missing key
             $gaelicLabel = (string)($gaelicFieldMap[$key] ?? '');
 
-            // NOTE: keys are used as labels in JSON; escaping is not required for JSON,
-            // but you appear to intentionally embed HTML in the key for display client-side.
-            // That’s okay if your UI expects it, but ensure $gaelicLabel is trusted (it’s server-defined).
-            $friendlyName = '<span class="text-muted"><em>' . $gaelicLabel . '</em></span><br>' . $friendlyName;
-
-            $result[$friendlyName] = $value;
+            $result[$key]["label_en"] = $friendlyName;
+            $result[$key]["label_gd"] = $gaelicLabel;
+            $result[$key]["value"] = $value;
         }
 
         $result["Transcription"] = $record->getTranscriptionLink();

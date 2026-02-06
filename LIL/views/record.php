@@ -112,7 +112,7 @@ HTML;
         $html .= <<<HTML
             </tbody></table>
             <a class="btn btn-secondary" href="{$closeButtonUrlEsc}" title="close">close</a>
-            <!--a class="btn btn-primary" href="index.php?m=record&a=edit&id={$idEsc}&o={$this->_origin}" title="Edit {$idEsc}">edit</a-->
+           
 HTML;
 
         $html .= '</div>';  // end container div

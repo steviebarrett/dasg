@@ -71,7 +71,7 @@ final class record
         $rows = $this->db->fetch($sql, [":ai" => $this->getAI()]);
 
         if (empty($rows) || !isset($rows[0]) || !is_array($rows[0])) {
-            // keep behaviour: empty props if not found (avoid notices)
+            // empty props if not found (avoid notices)
             $this->props = [];
             $this->transcription = null;
             return $this;
