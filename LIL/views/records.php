@@ -542,7 +542,7 @@ HTML;
                 
                         // Build the <dd> content safely
                         let ddHtml = '';
-                        if (/^https?:\/\//i.test(rawValue)) {
+                        if (/^https?:\/\//i.test(rawValue)) {   // support for links in the record
                           // href attribute must be escaped separately
                           ddHtml =
                             '<a href="' + escAttr(rawValue) + '" target="_blank" rel="noopener noreferrer">' +
