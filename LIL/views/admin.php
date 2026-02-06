@@ -64,7 +64,8 @@ HTML;
 
     public function writeLoginForm(): void
     {
-        // (Controller hardening can add CSRF validation; leaving logic unchanged here.)
+        $token = functions::e((string)($_SESSION['csrf_token'] ?? ''));
+
         echo <<<HTML
 			<h2 class="page-title">Admin Login</h2>
 			<form name="login" method="post" action="index.php?m=admin&a=login" autocomplete="off">
@@ -76,6 +77,7 @@ HTML;
 			        <label for="p">password:</label>
 			        <input type="password" id="p" name="p" placeholder="password" autocomplete="current-password">
 			    </div>
+			    <input type="hidden" name="csrf_token" value="{$token}">
 			    <button type="submit">Submit</button>
 			</form>
 HTML;

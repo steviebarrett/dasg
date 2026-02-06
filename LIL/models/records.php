@@ -119,7 +119,14 @@ SQL;
 	 * Queries the records for info on specific fields
 	 * @return array of results
 	 */
-	public function getBrowseResults($offset=0, $limit=10, $sort, $order, $searchString = "", $getText = true) {
+    public function getBrowseResults(
+        int $offset = 0,
+        int $limit = 10,
+        string $sort = "ai",
+        string $order = "asc",
+        string $searchString = "",
+        bool $getText = true
+    ) {
 		$whereClause = "";
 		$limit = (int)$limit;
 		$offset = (int)$offset;
@@ -188,8 +195,17 @@ SQL;
 	 * @params array $params - optional search parameters
 	 * @return array of results
 	 */
-	public function getAdvancedSearchResults(
-        $searchStrings, $searchFields, $booleans, $params = array(), $search, $offset=0, $limit=10, $sort="ai", $order="ASC") {
+    public function getAdvancedSearchResults(
+        array $searchStrings,
+        array $searchFields,
+        array $booleans,
+        array $params = [],
+        string $search = "",
+        int $offset = 0,
+        int $limit = 10,
+        string $sort = "ai",
+        string $order = "asc"
+    ) {
 		$limit = (int)$limit;
 		$offset = (int)$offset;
 		$sort = $sort ? $sort: "ai";
@@ -310,6 +326,9 @@ SQL;
 			"place_of_origin" => array("Scotland", "Nova Scotia", "Prince Edward Island", "Ontario", "United States", "Other"),
 			"original_format" => array("Sound recording", "Manuscript", "Publication", "Newspaper Clipping")
 		);
+        if (!array_key_exists($field, $fields)) {
+            return null;
+        }
 		return $fields[$field];
 	}
 

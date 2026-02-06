@@ -5,37 +5,53 @@ namespace models;
 
 header('X-Content-Type-Options: nosniff');
 
-// output clean JSON consistently
+require_once __DIR__ . '/includes/include.php';
+
+// -------------------------
+// JSON responder (consistent)
+// -------------------------
 $sendJson = static function ($data, int $status = 200): void {
     http_response_code($status);
     header('Content-Type: application/json; charset=UTF-8');
-    echo json_encode($data);
+
+    $json = json_encode($data, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES);
+    if ($json === false) {
+        // fall back to a safe error if encoding fails
+        http_response_code(500);
+        echo '{"error":"json_encode failed"}';
+        exit;
+    }
+
+    echo $json;
     exit;
 };
 
-// helper to ensure POST is used
+// -------------------------
+// Guards
+// -------------------------
 $requirePost = static function () use ($sendJson): void {
     if (($_SERVER['REQUEST_METHOD'] ?? '') !== 'POST') {
         $sendJson(['error' => 'POST required'], 405);
     }
 };
 
-// helper to ensure admin is logged in
 $requireAdmin = static function () use ($sendJson): void {
     if (empty($_SESSION['loggedIn'])) {
         $sendJson(['error' => 'admin required'], 403);
     }
 };
 
-// helper to ensure CSRF token is valid
 $requireCsrf = static function () use ($sendJson): void {
-    $token = $_SERVER['HTTP_X_CSRF_TOKEN'] ?? '';
-    if (empty($_SESSION['csrf_token']) || !hash_equals($_SESSION['csrf_token'], $token)) {
+    $token = (string)($_SERVER['HTTP_X_CSRF_TOKEN'] ?? '');
+    if (empty($_SESSION['csrf_token']) || $token === '' || !hash_equals((string)$_SESSION['csrf_token'], $token)) {
         $sendJson(['error' => 'CSRF failed'], 403);
     }
 };
 
-$clampInt = static function (mixed $v, int $min, int $max, int $default) : int {
+// -------------------------
+// Input helpers
+// -------------------------
+$clampInt = static function ($v, int $min, int $max, int $default): int {
     if ($v === null || $v === '') return $default;
     $n = (int)$v;
     if ($n < $min) return $min;
@@ -43,81 +59,101 @@ $clampInt = static function (mixed $v, int $min, int $max, int $default) : int {
     return $n;
 };
 
-$validAi = static function (string $ai) : bool {
+$validAi = static function (string $ai): bool {
     return (bool)preg_match('/^[A-Za-z0-9_-]{1,64}$/', $ai);
 };
 
-require_once 'includes/include.php';
-
-// Helpers for safe reads
-$get = $_GET ?? [];
+// -------------------------
+// Request data
+// -------------------------
+$get  = $_GET ?? [];
 $post = $_POST ?? [];
-$req = $_REQUEST ?? [];
+$req  = $_REQUEST ?? [];
 
 $action = (string)($req['action'] ?? '');
+if ($action === '') {
+    $sendJson(['error' => 'missing action'], 400);
+}
 
+// -------------------------
+// Router
+// -------------------------
 switch ($action) {
+
+    // =========================
+    // READ-ONLY JSON endpoints
+    // =========================
 
     case "getRecord": {
         $ai = (string)($get["ai"] ?? '');
-
         if ($ai === '' || !$validAi($ai)) {
             $sendJson(["error" => "invalid ai"], 400);
         }
 
-        $result = [];
-        $gaelicFieldMap = record::getGaelicFieldMap();
-
         $record = new record($ai);
         $record->load();
 
+        // Return structured data (labels + value) so the client can render safely
+        $gaelicFieldMap = record::getGaelicFieldMap();
+
+        $out = [];
         foreach ($record->getAllProps() as $key => $value) {
-            $key = (string)$key;
+            $k = (string)$key;
 
-            $friendlyName = ($key === "ai")
+            $labelEn = ($k === "ai")
                 ? "Identifier Number"
-                : functions::getFriendlyName($key);
+                : functions::getFriendlyName($k);
 
-            // Gaelic label: guard missing key
-            $gaelicLabel = (string)($gaelicFieldMap[$key] ?? '');
+            $labelGd = (string)($gaelicFieldMap[$k] ?? '');
 
-            $result[$key]["label_en"] = $friendlyName;
-            $result[$key]["label_gd"] = $gaelicLabel;
-            $result[$key]["value"] = $value;
+            $out[$k] = [
+                'label_en' => $labelEn,
+                'label_gd' => $labelGd,
+                'value'    => $value,
+            ];
         }
 
-        $result["Transcription"] = $record->getTranscriptionLink();
+        // transcription link is handled specially in your UI
+        $out["Transcription"] = [
+            'label_en' => 'Transcription',
+            'label_gd' => '',
+            'value'    => $record->getTranscriptionLink(), // may be null
+        ];
 
-        $sendJson($result);
+        $sendJson($out);
         break;
     }
 
     case "searchRecords": {
-
+        // NOTE: bootstrap-table uses GET. Keep as GET/POST compatible.
         $records = new records();
 
-        $searchStringsRaw = (string)($_REQUEST["searchStrings"] ?? '');
+        $searchStringsRaw = (string)($req["searchStrings"] ?? '');
         if ($searchStringsRaw === '') {
             $sendJson(["error" => "no search string"], 400);
         }
-
-        $searchFieldsRaw = (string)($_REQUEST["searchFields"] ?? '');
-        $booleansRaw     = (string)($_REQUEST["booleans"] ?? '');
-        $paramsRaw       = (string)($_REQUEST["params"] ?? '');
 
         if (strlen($searchStringsRaw) > 2000) {
             $sendJson(['error' => 'search too long'], 413);
         }
 
+        $searchFieldsRaw = (string)($req["searchFields"] ?? '');
+        $booleansRaw     = (string)($req["booleans"] ?? '');
+        $paramsRaw       = (string)($req["params"] ?? '');
+
         // Split and normalise
         $searchStrings = array_values(array_filter(explode('|', $searchStringsRaw), 'strlen'));
         $searchFields  = array_values(array_filter(explode('|', $searchFieldsRaw), 'strlen'));
 
-        // --- Booleans: MUST preserve index alignment with searchStrings ---
-        // Expect booleans like: "" (index 0), "OR" (index 1), "AND" (index 2) ...
-        $tmpBooleans = explode('|', $booleansRaw); // KEEP empties
+        // Ensure searchFields aligns with searchStrings
+        if (count($searchFields) === 1 && count($searchStrings) > 1) {
+            $searchFields = array_fill(0, count($searchStrings), $searchFields[0]);
+        }
 
-        $allowedOps = ['AND', 'OR', 'NOT'];
+        // Booleans: preserve alignment with searchStrings (index 0 has no operator)
+        $tmpBooleans = explode('|', $booleansRaw); // keep empties
+        $allowedOps  = ['AND', 'OR', 'NOT'];
+
         $booleans = array_fill(0, count($searchStrings), 'AND');
         $booleans[0] = ''; // first term has no operator
 
@@ -126,31 +162,27 @@ switch ($action) {
             $booleans[$i] = in_array($op, $allowedOps, true) ? $op : 'AND';
         }
 
-        // Params: trim trailing empties
-        $params = explode('|', $paramsRaw);
-        while (!empty($params) && end($params) === '') {
-            array_pop($params);
+        // Params: parse "0|1|0|..." into array; pad to at least 6 items
+        $params = array_map('intval', explode('|', $paramsRaw));
+        for ($i = count($params); $i < 6; $i++) {
+            $params[$i] = 0;
         }
 
-        // Ensure searchFields aligns with searchStrings
-        if (count($searchFields) === 1 && count($searchStrings) > 1) {
-            $searchFields = array_fill(0, count($searchStrings), $searchFields[0]);
-        }
+        // Paging/sort
+        $offset = $clampInt($req["offset"] ?? null, 0, 1000000, 0);
+        $limit  = $clampInt($req["limit"] ?? null, 1, 100, 10);
 
-        // Default paging/sort
-        $offset = $clampInt($_REQUEST["offset"] ?? null, 0, 1000000, 0);
-        $limit  = $clampInt($_REQUEST["limit"] ?? null, 1, 100, 10);
+        $allowedSort = [
+            'ai','title','alternative_title','first_line_chorus','first_line_verse','classifications',
+            'subjects','place_of_origin','composer_first_name','composer_last_name','community','singer'
+        ];
+        $sort = (string)($req["sort"] ?? '');
+        $sort = in_array($sort, $allowedSort, true) ? $sort : 'ai';
 
-        $allowedSort = ['ai','title','alternative_title','first_line_chorus','first_line_verse','classifications',
-            'subjects','place_of_origin','composer_first_name','composer_last_name','community','singer'];
-
-        $sort = (string)($_REQUEST["sort"] ?? '');
-        $sort = in_array($sort, $allowedSort, true) ? $sort : '';
-
-        $order = strtolower((string)($_REQUEST["order"] ?? ''));
+        $order = strtolower((string)($req["order"] ?? 'asc'));
         $order = in_array($order, ['asc','desc'], true) ? $order : 'asc';
 
-        $search = (string)($_REQUEST["search"] ?? '');
+        $search = (string)($req["search"] ?? '');
 
         $results = $records->getAdvancedSearchResults(
             $searchStrings,
@@ -165,8 +197,8 @@ switch ($action) {
         );
 
         $sendJson($results);
+        break;
     }
-
 
     case "browseRecords": {
         $records = new records();
@@ -174,15 +206,17 @@ switch ($action) {
         $offset = $clampInt($get["offset"] ?? null, 0, 1000000, 0);
         $limit  = $clampInt($get["limit"] ?? null, 1, 100, 50);
 
-        $allowedSort = ['ai','title', 'alternative_title','first_line_chorus','first_line_verse','classifications',
-            'subjects', 'place_of_origin', 'composer_first_name', 'composer_last_name', 'community', 'singer'];
-        $sort = (string)($get["sort"] ?? '');
-        $sort = in_array($sort, $allowedSort, true) ? $sort : '';
+        $allowedSort = [
+            'ai','title','alternative_title','first_line_chorus','first_line_verse','classifications',
+            'subjects','place_of_origin','composer_first_name','composer_last_name','community','singer'
+        ];
+        $sort = (string)($req["sort"] ?? '');
+        $sort = in_array($sort, $allowedSort, true) ? $sort : 'ai';
 
-        $order = strtolower((string)($get["order"] ?? ''));
+        $order = strtolower((string)($req["order"] ?? 'asc'));
         $order = in_array($order, ['asc','desc'], true) ? $order : 'asc';
-        $search = (string)($get["search"] ?? '');
 
+        $search = (string)($get["search"] ?? '');
         $getText = ((string)($get["getText"] ?? 'y')) !== 'n';
 
         $results = $records->getBrowseResults(
@@ -198,54 +232,115 @@ switch ($action) {
         break;
     }
 
-    case "editRecord": {
-        $requirePost();
-        $requireCsrf();
-        $requireAdmin();
-
-        $ai = (string)($post["ai"] ?? $get["ai"] ?? '');
+    case "getRecordExists": {
+        $ai = (string)($get["ai"] ?? '');
         if ($ai === '' || !$validAi($ai)) {
             $sendJson(["error" => "invalid ai"], 400);
         }
 
-        $controller = new \controllers\record($ai);
-        $controller->run("edit");
+        $sendJson(["exists" => records::getRecordExists($ai)]);
+        break;
+    }
+
+    case "getDropdownOptions": {
+        $field = (string)($get["field"] ?? '');
+        if ($field === '') {
+            $sendJson(["error" => "missing field"], 400);
+        }
+
+        $fields = records::getControlledVocabularies($field);
+        $sendJson($fields);
+        break;
+    }
+
+    case "getSearchFieldDropdown": {
+        // read-only (returns HTML snippet); no CSRF required
+        $count = isset($post["searchFieldCount"]) ? (int)$post["searchFieldCount"] : 0;
+        if ($count < 0 || $count > 25) $count = 0;
+
+        $countEsc = functions::e($count);
+
+        $html = <<<HTML
+            <select name="searchField[{$countEsc}]" data-index="{$countEsc}" class="form-control searchFieldSelect">
+                <option value="all">Search All Fields ▿</option>
+HTML;
+
+        $model = new records();
+        $searchFields = $model->getSearchQueryFields();
+
+        foreach ($searchFields as $searchField) {
+            $sf = (string)$searchField;
+            $friendlyName = functions::getFriendlyName($sf);
+
+            $sfEsc = functions::e($sf);
+            $fnEsc = functions::e($friendlyName);
+
+            $html .= <<<HTML
+                <option value="{$sfEsc}">{$fnEsc}</option>
+HTML;
+        }
+
+        $html .= "</select>";
+
+        header('Content-Type: text/html; charset=UTF-8');
+        echo $html;
         exit;
     }
+
+    // =========================
+    // STATE-CHANGING endpoints
+    // =========================
 
     case "saveSearchForm":
         $requirePost();
         $requireCsrf();
 
+        // store the submitted form so search page can reload it.
+        // Hardening: do NOT trust searchFieldCount.
         $clean = [];
 
         $clean['m'] = isset($post['m']) ? (string)$post['m'] : 'records';
         $clean['a'] = isset($post['a']) ? (string)$post['a'] : 'search';
 
-        // IMPORTANT: derive row count from posted arrays (this is what restores “worked before hardening” behaviour)
-        $sCount  = (isset($post['s']) && is_array($post['s'])) ? count($post['s']) : 0;
-        $fCount  = (isset($post['searchField']) && is_array($post['searchField'])) ? count($post['searchField']) : 0;
-        $count   = max(1, $sCount, $fCount);
-        $count   = min(10, $count); // cap to prevent abuse
+        // Pull arrays if present
+        $searchField = (isset($post['searchField']) && is_array($post['searchField'])) ? $post['searchField'] : [];
+        $s           = (isset($post['s']) && is_array($post['s'])) ? $post['s'] : [];
+        $b           = (isset($post['b']) && is_array($post['b'])) ? $post['b'] : [];
+        $params      = (isset($post['params']) && is_array($post['params'])) ? $post['params'] : [];
+
+        // Derive count from the actual submitted rows (max index + 1), cap to prevent abuse
+        $maxIndex = -1;
+        foreach ([$searchField, $s] as $arr) {
+            foreach ($arr as $k => $_) {
+                if (is_int($k) || ctype_digit((string)$k)) {
+                    $maxIndex = max($maxIndex, (int)$k);
+                }
+            }
+        }
+        $count = max(1, $maxIndex + 1);
+        $count = min($count, 10); // cap (matches your previous intent)
+
         $clean['searchFieldCount'] = $count;
 
-        // Copy row arrays up to $count
-        if (isset($post['searchField']) && is_array($post['searchField'])) {
-            $clean['searchField'] = array_slice($post['searchField'], 0, $count, true);
-        }
-        if (isset($post['s']) && is_array($post['s'])) {
-            $clean['s'] = array_slice($post['s'], 0, $count, true);
+        // Normalise and slice/preserve keys
+        $clean['searchField'] = array_slice($searchField, 0, $count, true);
+        $clean['s']           = array_slice($s, 0, $count, true);
+
+        // Booleans are indexed starting at 1 in your UI (row 0 has no boolean)
+        // Keep only keys 1..count-1
+        $clean['b'] = [];
+        for ($i = 1; $i < $count; $i++) {
+            if (isset($b[$i])) {
+                $clean['b'][$i] = (string)$b[$i];
+            }
         }
 
-        // b[] only exists from index 1..($count-1) typically — keep whatever was posted, but cap size
-        if (isset($post['b']) && is_array($post['b'])) {
-            // keep keys, but cap to at most $count entries
-            $clean['b'] = array_slice($post['b'], 0, $count, true);
-        }
-
-        // params[] is independent of row count — DO NOT slice it by $count
-        if (isset($post['params']) && is_array($post['params'])) {
-            $clean['params'] = $post['params'];
+        // Params: keep expected indexes 0..5 (checkboxes)
+        $clean['params'] = [];
+        for ($i = 0; $i <= 5; $i++) {
+            if (isset($params[$i])) {
+                $clean['params'][$i] = (string)$params[$i];
+            }
         }
 
         $_SESSION["searchForm"] = $clean;
@@ -254,24 +349,15 @@ switch ($action) {
         echo "1";
         exit;
 
-    case "resetSearchForm":
+    case "resetSearchForm": {
         $requirePost();
         $requireCsrf();
 
         unset($_SESSION["searchForm"]);
+
         header('Content-Type: text/plain; charset=UTF-8');
         echo "1";
         exit;
-
-    case "getRecordExists": {
-        $ai = (string)($get["ai"] ?? '');
-        if ($ai === '' || !$validAi($ai)) {
-            $sendJson(["error" => "invalid ai"], 400);
-        }
-
-        $result = ["exists" => records::getRecordExists($ai)];
-        $sendJson($result);
-        break;
     }
 
     case "updateSearchQueryOptions": {
@@ -349,48 +435,19 @@ switch ($action) {
         break;
     }
 
-    case "getSearchFieldDropdown": {
-        $count = isset($post["searchFieldCount"]) ? (int)$post["searchFieldCount"] : 0;
+    case "editRecord": {
+        $requirePost();
+        $requireCsrf();
+        $requireAdmin();
 
-        $countEsc = functions::e($count);
-
-        $html = <<<HTML
-			<select name="searchField[{$countEsc}]" data-index="{$countEsc}" class="form-control searchFieldSelect">
-				<option value="all">Search All Fields ▿</option>
-HTML;
-
-        $model = new records();
-        $searchFields = $model->getSearchQueryFields();
-
-        foreach ($searchFields as $searchField) {
-            $searchField = (string)$searchField;
-            $friendlyName = functions::getFriendlyName($searchField);
-
-            $sfEsc = functions::e($searchField);
-            $fnEsc = functions::e($friendlyName);
-
-            $html .= <<<HTML
-				<option value="{$sfEsc}">{$fnEsc}</option>
-HTML;
+        $ai = (string)($post["ai"] ?? $get["ai"] ?? '');
+        if ($ai === '' || !$validAi($ai)) {
+            $sendJson(["error" => "invalid ai"], 400);
         }
 
-        $html .= "</select>";
-
-        // This endpoint returns HTML, not JSON
-        header('Content-Type: text/html; charset=UTF-8');
-        echo $html;
+        $controller = new \controllers\record($ai);
+        $controller->run("edit");
         exit;
-    }
-
-    case "getDropdownOptions": {
-        $field = (string)($get["field"] ?? '');
-        if ($field === '') {
-            $sendJson(["error" => "missing field"], 400);
-        }
-
-        $fields = records::getControlledVocabularies($field);
-        $sendJson($fields);
-        break;
     }
 
     default:

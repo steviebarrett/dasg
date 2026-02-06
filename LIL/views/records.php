@@ -520,17 +520,17 @@ HTML;
                 }
 
                 $(function () {
-  var myModal = new bootstrap.Modal(document.getElementById('recordModal'));
-  $('.search-input').prop('placeholder', 'Filter Table');
+                  var myModal = new bootstrap.Modal(document.getElementById('recordModal'));
+                  $('.search-input').prop('placeholder', 'Filter Table');
+                
+                  $(document).on('click', '.recordLink', function () {
+                    let ai = $(this).attr('data-id');
+                    $('.editRecord').attr('data-id', ai);
+                    $('.deleteRecord').attr('data-id', ai);
+                
+                    var html = '<dl>';
 
-  $(document).on('click', '.recordLink', function () {
-    let ai = $(this).attr('data-id');
-    $('.editRecord').attr('data-id', ai);
-    $('.deleteRecord').attr('data-id', ai);
-
-    var html = '<dl>';
-
-        $.getJSON('ajax.php?action=getRecord&ai=' + encodeURIComponent(ai), function (data) {
+                    $.getJSON('ajax.php?action=getRecord&ai=' + encodeURIComponent(ai), function (data) {
                       $.each(data, function (i, v) {
                         // v is expected to be like: { label_en, label_gd, value }
                         const en = (v && v.label_en != null) ? String(v.label_en) : '';
@@ -618,20 +618,22 @@ HTML;
                     if (typeof(inputVal) == "undefined") {
                       inputVal = "";
                     }
-                    $.getJSON('ajax.php?action=getDropdownOptions&field='+encodeURIComponent(field), function (data) {
-                      if (data == null) {
-                        var html = '<input type="text" value="'+inputVal+'" id="s'+index+'" name="s['+index+']" class="form-control" placeholder="Search" aria-label="Search" required>';
-                        $('#cell_'+index).html(html);
+                    $.getJSON('ajax.php?action=getDropdownOptions&field=' + encodeURIComponent(field), function (data) {
+                      // If null OR empty array -> render text input
+                      if (!data || (Array.isArray(data) && data.length === 0)) {
+                        var html = '<input type="text" value="' + escAttr(inputVal) + '" id="s' + index + '" name="s[' + index + ']" class="form-control" placeholder="Search" aria-label="Search" required>';
+                        $('#cell_' + index).html(html);
                         return;
                       }
-                      var html = '<select name="s['+index+']" id="s'+index+'" data-index="'+index+'" class="form-control" required>';
+                    
+                      var html = '<select name="s[' + index + ']" id="s' + index + '" data-index="' + index + '" class="form-control" required>';
                       html += '<option value="">--- select ---</option>';
                       $.each(data, function(i, value) {
-                        html += '<option value="'+value+'">'+value+'</option>';
-                      })
+                        html += '<option value="' + escAttr(value) + '">' + escHtml(value) + '</option>';
+                      });
                       html += '</select>';
-                      $('#cell_'+index).html(html);
-                    })
+                      $('#cell_' + index).html(html);
+                    });
                   });
 
                   let regexIsChecked = $('#regex').attr("checked") == "checked";
@@ -726,6 +728,26 @@ HTML;
                         $('#exact').attr("disabled", false);
                         $('#exact').attr("checked", false);
                     }
+                }
+                
+                function escHtml(value) {
+                  if (value === null || value === undefined) return '';
+                  return String(value)
+                    .replace(/&/g, '&amp;')
+                    .replace(/</g, '&lt;')
+                    .replace(/>/g, '&gt;')
+                    .replace(/"/g, '&quot;')
+                    .replace(/'/g, '&#39;');
+                }
+                
+                function escAttr(value) {
+                  if (value === null || value === undefined) return '';
+                  return String(value)
+                    .replace(/&/g, '&amp;')
+                    .replace(/"/g, '&quot;')
+                    .replace(/'/g, '&#39;')
+                    .replace(/</g, '&lt;')
+                    .replace(/>/g, '&gt;');
                 }
             </script>
 HTML;
