@@ -1,152 +1,206 @@
 <?php
-
+declare(strict_types=1);
 
 namespace models;
 
-
-class record
+final class record
 {
-	private $_ai;
-	private $_db; //an instance of models\database
-	private $_props = array();  //an array of properties pulled from the database
-	private $_transcription;
-	private static $_gaelicFieldMap = array(
-		"ai" => "Àireamh-aithneachaidh",
-		"title" => "Tiotal",
-		"alternative_title" => "Tiotal eile",
-		"air" => "Fonn",
-		"first_line_chorus" => "A’ chiad sreath (séist)",
-		"first_line_verse" => "A’ chiad sreath (rann)",
-		"classifications" => "Seòrsachan",
-		"subjects" => "Cuspairean",
-		"structure" => "Structar",
-		"place_of_origin" => "Tùs-àite",
-		"composer_first_name" => "Ainm a’ bhàird",
-		"composer_last_name" => "Cinneadh a’ bhàird",
-		"composer_patronymic" => "Sloinneadh / ainmean eile a' bhàird",
-		"composer_dates" => "Bliadhnachan a’ bhàird",
-		"composer_gender" => "Gné a' bhàird",
-		"community" => "Coimhearsnachd",
-		"county" => "Siorramachd",
-		"era_of_poetry" => "Linn na bàrdachd",
-		"original_format" => "Cruth tùsail",
-		"singer" => "Seinneadair",
-		"singer_location" => "Àite an t-seinneadair",
-		"date_recorded" => "Ceann-latha clàraidh",
-		"collector" => "Neach-cruinneachaidh",
-		"collection_title" => "Tiotal a’ chruinneachaidh",
-		"collection_location" => "Àite a' chruinneachaidh",
-		"collection_number" => "Àireamh-bhratha",
-		"publication_title" => "Tiotal an fhoillseachain",
-		"editor" => "Neach-deasachaidh",
-		"publisher" => "Foillsichear",
-		"publication_date" => "Ceann-là foillseachaidh",
-		"page_number" => "Àireamh na duilleige",
-		"online_access" => "Air loidhne",
-		"notes_1" => "Nòtaichean 1",
-		"notes_2" => "Nòtaichean 2",
-		"notes_3" => "Nòtaichean 3",
-		"notes_4" => "Nòtaichean 4"
-	);
+    private string $ai;
+    private database $db;
+    private array $props = [];        // props pulled from DB
+    private ?string $transcription = null;
 
-	public function __construct($ai) {
-		$this->_ai = $ai;
-		if (!$this->_db) {
-			$this->_db = new database();
-		}
-	}
+    /** @var array<string,string> */
+    private static array $gaelicFieldMap = [
+        "ai" => "Àireamh-aithneachaidh",
+        "title" => "Tiotal",
+        "alternative_title" => "Tiotal eile",
+        "air" => "Fonn",
+        "first_line_chorus" => "A’ chiad sreath (séist)",
+        "first_line_verse" => "A’ chiad sreath (rann)",
+        "classifications" => "Seòrsachan",
+        "subjects" => "Cuspairean",
+        "structure" => "Structar",
+        "place_of_origin" => "Tùs-àite",
+        "composer_first_name" => "Ainm a’ bhàird",
+        "composer_last_name" => "Cinneadh a’ bhàird",
+        "composer_patronymic" => "Sloinneadh / ainmean eile a' bhàird",
+        "composer_dates" => "Bliadhnachan a’ bhàird",
+        "composer_gender" => "Gné a' bhàird",
+        "community" => "Coimhearsnachd",
+        "county" => "Siorramachd",
+        "era_of_poetry" => "Linn na bàrdachd",
+        "original_format" => "Cruth tùsail",
+        "singer" => "Seinneadair",
+        "singer_location" => "Àite an t-seinneadair",
+        "date_recorded" => "Ceann-latha clàraidh",
+        "collector" => "Neach-cruinneachaidh",
+        "collection_title" => "Tiotal a’ chruinneachaidh",
+        "collection_location" => "Àite a' chruinneachaidh",
+        "collection_number" => "Àireamh-bhratha",
+        "publication_title" => "Tiotal an fhoillseachain",
+        "editor" => "Neach-deasachaidh",
+        "publisher" => "Foillsichear",
+        "publication_date" => "Ceann-là foillseachaidh",
+        "page_number" => "Àireamh na duilleige",
+        "online_access" => "Air loidhne",
+        "notes_1" => "Nòtaichean 1",
+        "notes_2" => "Nòtaichean 2",
+        "notes_3" => "Nòtaichean 3",
+        "notes_4" => "Nòtaichean 4"
+    ];
 
-	/**
-	 * Queries the database for record properties and sets them appropriately
-	 * @return $this
-	 */
-		public function load() {
-			if ($this->_ai == -1) {    //ai flag for creating a new record
-				$this->_loadTemplate();
-				return $this;
-			}
-			$sql = "SELECT * FROM record WHERE ai = :ai";
-			$props = $this->_db->fetch($sql, array(":ai"=>$this->getAI()));
-			foreach ($props[0] as $propName => $value) {
-				$this->setPropValue($propName, $value);
-			}
-			$this->getTranscriptionLink();    //refactor - this should not be here SB
-			return $this;
-		}
+    public function __construct(string $ai)
+    {
+        $this->ai = $ai;
+        $this->db = new database();
+    }
 
-		public function getTranscriptionLink() {
-			//check if there is a transcription for this record
-			$sql = <<<SQL
-				SELECT text FROM transcription WHERE record_ai = :ai
-SQL;
-			$result = $this->_db->fetch($sql, array(":ai" => $this->getAI()));
-			if ($result) {
-				$this->_transcription = $result[0]["text"];
-				return <<<HTML
-					<a target="_blank" href="transcription.php?ai={$this->getAI()}">link</a>
-HTML;
-			}
-		}
+    /**
+     * Queries the database for record properties and sets them appropriately
+     * @return $this
+     */
+    public function load(): self
+    {
+        if ($this->ai === '-1') { // ai flag for creating a new record
+            $this->_loadTemplate();
+            return $this;
+        }
 
-		public function getTranscription() {
-			return $this->_transcription;
-		}
+        $sql = "SELECT * FROM record WHERE ai = :ai";
+        $rows = $this->db->fetch($sql, [":ai" => $this->getAI()]);
 
-	/**
-	 * Initialises the required properties for a new blank record
-	 * @return $this
-	 */
-		private function _loadTemplate() {
-			$model = new records();
-			$fields = $model->getAllFieldNames();
-			foreach ($fields as $field) {
-				$this->setPropValue($field, "");  //initialise all the properties
-			}
-			return $this;
-		}
+        if (empty($rows) || !isset($rows[0]) || !is_array($rows[0])) {
+            // keep behaviour: empty props if not found (avoid notices)
+            $this->props = [];
+            $this->transcription = null;
+            return $this;
+        }
 
-		public function save($data) {
-			$fields = array_keys($data);
-			$fieldList = implode(', ', $fields);
-			$values = $placeholders = array();
-			foreach ($data as $fieldname => $value) {
-				//test for multiples (array): e.g. classifications
-				if (is_array($value)) {
-					$value = implode(" , ", $value);
-				}
-				$placeholders[] = '?';  //set a PDO placeholder for each value
-				$values[] = $value;
-			}
-			$placeholderList = implode(', ', $placeholders);
-			$sql = "REPLACE INTO record ({$fieldList}) VALUES({$placeholderList})";
-			$this->_db->exec($sql, $values);
-			$this->_updateTracking($data["ai"]);
-		}
+        foreach ($rows[0] as $propName => $value) {
+            $this->setPropValue((string)$propName, $value);
+        }
 
-	private function _updateTracking($ai) {
-		$sql = <<<SQL
-			REPLACE INTO recordTracking VALUES(?, now())	
-SQL;
-		$this->_db->exec($sql, array($ai));
-	}
+        // legacy behaviour retained
+        $this->getTranscriptionLink();
 
-		public function getAI() {
-			return $this->_ai;
-		}
+        return $this;
+    }
 
-		public function getPropValue($propName) {
-			return $this->_props[$propName];
-		}
+    /**
+     * Returns an HTML link if transcription exists; otherwise null.
+     * (Same behaviour as before: nothing returned if none exists.)
+     */
+    public function getTranscriptionLink(): ?string
+    {
+        $sql = "SELECT text FROM transcription WHERE record_ai = :ai";
+        $result = $this->db->fetch($sql, [":ai" => $this->getAI()]);
 
-		public function getAllProps() {
-			return $this->_props;
-		}
+        if (!empty($result)) {
+            $this->transcription = (string)($result[0]["text"] ?? '');
 
-		public function setPropValue($propName, $value) {
-			$this->_props[$propName] = $value;
-		}
+            // safe encode ai for the URL and for HTML context
+            $aiUrl = functions::urlEncode($this->getAI());
 
-		public static function getGaelicFieldMap() {
-			return self::$_gaelicFieldMap;
-		}
+            return '<a target="_blank" rel="noopener noreferrer" href="transcription.php?ai=' . $aiUrl . '">link</a>';
+        }
+
+        return null;
+    }
+
+    public function getTranscription(): ?string
+    {
+        return $this->transcription;
+    }
+
+    /**
+     * Initialises required properties for a new blank record
+     * @return $this
+     */
+    private function _loadTemplate(): self
+    {
+        $model = new records();
+        $fields = $model->getAllFieldNames();
+
+        foreach ($fields as $field) {
+            $this->setPropValue((string)$field, "");
+        }
+
+        return $this;
+    }
+
+    /**
+     * Persist record data (REPLACE INTO) using a whitelist of real DB columns.
+     * Values are parameterised; column names are validated against schema.
+     */
+    public function save(array $data): void
+    {
+        // whitelist columns to prevent SQL identifier injection
+        $allowed = (new records())->getAllFieldNames();
+        $allowedMap = array_fill_keys($allowed, true);
+
+        $clean = [];
+        foreach ($data as $field => $value) {
+            $field = (string)$field;
+            if (!isset($allowedMap[$field])) {
+                continue; // ignore unexpected keys
+            }
+
+            if (is_array($value)) {
+                $value = implode(" , ", $value);
+            }
+            $clean[$field] = $value;
+        }
+
+        if (empty($clean)) {
+            return; // nothing to save
+        }
+
+        // If ai is present, keep tracking behaviour
+        $ai = isset($clean['ai']) ? (string)$clean['ai'] : $this->getAI();
+
+        $fields = array_keys($clean);
+        $fieldList = implode(', ', $fields);
+
+        $placeholders = array_fill(0, count($fields), '?');
+        $placeholderList = implode(', ', $placeholders);
+
+        $values = array_values($clean);
+
+        $sql = "REPLACE INTO record ({$fieldList}) VALUES ({$placeholderList})";
+        $this->db->exec($sql, $values);
+
+        $this->_updateTracking($ai);
+    }
+
+    private function _updateTracking(string $ai): void
+    {
+        $sql = "REPLACE INTO recordTracking VALUES(?, now())";
+        $this->db->exec($sql, [$ai]);
+    }
+
+    public function getAI(): string
+    {
+        return $this->ai;
+    }
+
+    public function getPropValue(string $propName): mixed
+    {
+        return $this->props[$propName] ?? null;
+    }
+
+    public function getAllProps(): array
+    {
+        return $this->props;
+    }
+
+    public function setPropValue(string $propName, mixed $value): void
+    {
+        $this->props[$propName] = $value;
+    }
+
+    public static function getGaelicFieldMap(): array
+    {
+        return self::$gaelicFieldMap;
+    }
 }
