@@ -648,3 +648,30 @@ footer ul li a span.gaelic {
 .logos .logo a img {
     max-width: 100%;
 }
+
+/* Footer: make POST buttons match footer <a> links */
+footer ul li form {
+    display: block;
+    margin: 0;
+}
+
+footer ul li form .link-button {
+    /* match: footer ul li a */
+    text-decoration: none;
+    color: #fff !important;
+    padding: 0.5rem 1rem;
+    display: block;
+
+    /* reset button defaults */
+    background: none;
+    border: 0;
+    width: 100%;
+    text-align: left;
+    cursor: pointer;
+    font: inherit;
+}
+
+footer ul li form .link-button span.gaelic {
+    font-size: 0.85rem;
+    font-style: italic;
+}

@@ -4,10 +4,12 @@ $csrf = htmlspecialchars((string)($_SESSION['csrf_token'] ?? ''), ENT_QUOTES, 'U
 
 $loginHtml = <<<HTML
     <form method="post" action="index.php" class="admin-login-form">
-        <input type="hidden" name="m" value="admin">
-        <input type="hidden" name="a" value="login">
-        <input type="hidden" name="_csrf" value="{$csrf}">
-        <button type="submit" class="btn btn-link">Admin login</button>
+      <input type="hidden" name="m" value="admin">
+      <input type="hidden" name="a" value="login">
+      <input type="hidden" name="_csrf" value="{$csrf}">
+      <button type="submit" class="link-button">
+        <span class="gaelic">Rianachd</span><br>Admin
+      </button>
     </form>
 HTML;
 
@@ -16,7 +18,9 @@ $logoutHtml = <<<HTML
       <input type="hidden" name="m" value="admin">
       <input type="hidden" name="a" value="logout">
       <input type="hidden" name="_csrf" value="{$csrf}">
-      <button type="submit" class="btn btn-link">Logout</button>
+      <button type="submit" class="link-button">
+        Logout
+      </button>
     </form>
 HTML;
 

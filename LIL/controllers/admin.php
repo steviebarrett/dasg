@@ -27,13 +27,18 @@ final class admin extends ControllerBase
                 if (!hash_equals((string)ADMIN_USERNAME, $username) || !hash_equals((string)ADMIN_PASSWORD, $password)) {
                     $_SESSION['loggedIn'] = false;
                     // rotate anyway to reduce fixation/spraying value
-                    session_regenerate_id(true);
+                    if (!headers_sent()) {
+                        session_regenerate_id(true);
+                    }
+
                     $view->writeLoginForm();
                     return;
                 }
 
                 $_SESSION['loggedIn'] = true;
-                session_regenerate_id(true);
+                if (!headers_sent()) {
+                    session_regenerate_id(true);
+                }
                 $view->show();
                 return;
 
@@ -44,7 +49,9 @@ final class admin extends ControllerBase
                 $this->requireAdmin();
 
                 $_SESSION['loggedIn'] = false;
-                session_regenerate_id(true);
+                if (!headers_sent()) {
+                    session_regenerate_id(true);
+                }
                 $view->writeLoginForm();
                 return;
 
