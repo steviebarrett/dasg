@@ -68,7 +68,7 @@ HTML;
 
         echo <<<HTML
 			<h2 class="page-title">Admin Login</h2>
-			<form name="login" method="post" action="index.php?m=admin&a=login" autocomplete="off">
+			<form name="login" method="post" action="index.php" autocomplete="off">
 				<div>
 			        <label for="u">username:</label>
 			        <input type="text" id="u" name="u" placeholder="username" autocomplete="username">
@@ -78,6 +78,8 @@ HTML;
 			        <input type="password" id="p" name="p" placeholder="password" autocomplete="current-password">
 			    </div>
 			    <input type="hidden" name="_csrf" value="{$token}">
+			    <input type="hidden" name="m" value="admin">
+                <input type="hidden" name="a" value="login">
 			    <button type="submit">Submit</button>
 			</form>
 HTML;

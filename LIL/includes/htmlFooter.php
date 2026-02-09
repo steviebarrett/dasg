@@ -1,9 +1,28 @@
 <?php
 
+$csrf = htmlspecialchars((string)($_SESSION['csrf_token'] ?? ''), ENT_QUOTES, 'UTF-8');
+
+$loginHtml = <<<HTML
+    <form method="post" action="index.php" class="admin-login-form">
+        <input type="hidden" name="m" value="admin">
+        <input type="hidden" name="a" value="login">
+        <input type="hidden" name="_csrf" value="{$csrf}">
+        <button type="submit" class="btn btn-link">Admin login</button>
+    </form>
+HTML;
+
+$logoutHtml = <<<HTML
+    <form method="post" action="index.php" class="admin-logout-form">
+      <input type="hidden" name="m" value="admin">
+      <input type="hidden" name="a" value="logout">
+      <input type="hidden" name="_csrf" value="{$csrf}">
+      <button type="submit" class="btn btn-link">Logout</button>
+    </form>
+HTML;
 
 $adminHtml = (!empty($_SESSION["loggedIn"]))
-	? '<li><a href="?m=admin"><span class="gaelic">Rianachd</span><br>Admin</a></li><li><a href="?m=admin&a=logout"><span class="gaelic"></span><br>Logout</a></li>'
-	: '<li><a href="?m=admin&a=login"><span class="gaelic">Rianachd</span><br>Admin</a></li>';
+	? "<li>{$logoutHtml}</li>"
+	: "<li>{$loginHtml}</li>";
 echo <<<HTML
 			</div>  <!-- end row -->
 			</div>  <!-- end mainBody -->
@@ -11,30 +30,7 @@ echo <<<HTML
 	<footer>
 		<div class='container py-4 mt-5'>
 			<div class='row'>
-				<!-- <div class='col-md-3'>
-					<ul>
-						<li><a href='#'>Homepage</a></li>
-						<li><a href='#'>Browse Index</a></li>
-					</ul>
-				</div>
-				<div class='col-md-3'>
-					<ul>
-						<li><a href='#'>Search Index</a></li>
-						<li><a href='#'>User Guide</a></li>
-					</ul>
-				</div>
-				<div class='col-md-3'>
-					<ul>
-						<li><a href='#'>Gratitude & Acknowledgments</a></li>
-						<li><a href='#'>Language and Lyrics Team</a></li>
-					</ul>
-				</div>
-				<div class='col-md-3'>
-					<ul>
-						<li><a href='#'>Contact Us</a></li>
-						<li><a href='#'>Admin Login</a></li>
-					</ul>
-				</div> -->
+				
 				<div class='col-12'>
 					<ul>
 						<li><a href='?m=index'><span class='gaelic'>Dachaigh</span><br>Homepage</a></li>

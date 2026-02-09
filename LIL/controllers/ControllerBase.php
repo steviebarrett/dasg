@@ -25,21 +25,34 @@ abstract class ControllerBase
 
     protected function requireCsrf(): void
     {
-        $sessionToken = $_SESSION['csrf_token'] ?? '';
-        if (!is_string($sessionToken) || $sessionToken === '') {
-            http_response_code(403);
-            echo 'CSRF missing';
-            exit;
+        // Only enforce CSRF for state-changing requests
+        $method = $_SERVER['REQUEST_METHOD'] ?? 'GET';
+        if ($method !== 'POST') {
+            return;
         }
 
-        $header = $_SERVER['HTTP_X_CSRF_TOKEN'] ?? '';
-        $post   = $_POST['_csrf'] ?? '';
-        $token  = is_string($header) && $header !== '' ? $header : (is_string($post) ? $post : '');
+        $sessionToken = (string)($_SESSION['csrf_token'] ?? '');
+        if ($sessionToken === '') {
+            $this->csrfFail();
+        }
 
+        // Accept either header or form field
+        $header = (string)($_SERVER['HTTP_X_CSRF_TOKEN'] ?? '');
+        $post   = (string)($_POST['_csrf'] ?? '');
+
+        $token = $header !== '' ? $header : $post;
         if ($token === '' || !hash_equals($sessionToken, $token)) {
-            http_response_code(403);
-            echo 'CSRF failed';
-            exit;
+            $this->csrfFail();
         }
+    }
+
+    protected function csrfFail(): void
+    {
+        // If headers already sent, avoid http_response_code warning.
+        if (!headers_sent()) {
+            http_response_code(403);
+        }
+        echo 'CSRF failed';
+        exit;
     }
 }
