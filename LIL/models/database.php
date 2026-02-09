@@ -15,7 +15,7 @@ class database {
 				"mysql:host=" . DB_HOST . ";dbname=" . $dbName . ";charset=utf8;", DB_USER, DB_PASSWORD, array(
 				\PDO::MYSQL_ATTR_LOCAL_INFILE => true,
 			));
-		} catch (PDOException $e){
+		} catch (\PDOException $e){
 			echo "An error occurred";
 		}
 	}
@@ -42,7 +42,7 @@ class database {
 			$this->_sth->execute($values);
 			$results = $this->_sth->fetchAll(\PDO::FETCH_ASSOC);
 			return $results;
-		} catch (PDOException $e) {
+		} catch (\PDOException $e) {
 			echo $e->getMessage();
 		}
 	}
@@ -58,7 +58,7 @@ class database {
 		try {
 			$this->_sth = $this->_dbh->prepare($sql);
 			$this->_sth->execute($values);
-		} catch (PDOException $e) {
+		} catch (\PDOException $e) {
 			echo $e->getMessage();
 		}
 	}

@@ -173,7 +173,7 @@ final class record
         $values = array_values($clean);
 
         $sql = "REPLACE INTO record ({$fieldList}) VALUES({$placeholderList})";
-        $this->_db->exec($sql, $values);
+        $this->db->exec($sql, $values);
 
         $this->_updateTracking((string)$clean["ai"]);
     }
