@@ -14,7 +14,13 @@ $sendJson = static function ($data, int $status = 200): void {
     http_response_code($status);
     header('Content-Type: application/json; charset=UTF-8');
 
-    $json = json_encode($data, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES);
+    $json = json_encode(
+        $data,
+        JSON_UNESCAPED_UNICODE
+        | JSON_UNESCAPED_SLASHES
+        | JSON_INVALID_UTF8_SUBSTITUTE
+        | JSON_PARTIAL_OUTPUT_ON_ERROR
+    );
     if ($json === false) {
         // fall back to a safe error if encoding fails
         http_response_code(500);
@@ -61,6 +67,11 @@ $clampInt = static function ($v, int $min, int $max, int $default): int {
 
 $validAi = static function (string $ai): bool {
     return (bool)preg_match('/^[A-Za-z0-9_-]{1,64}$/', $ai);
+};
+
+$validField = static function (records $records, string $field): bool {
+    $fields = $records->getAllFieldNames();
+    return in_array($field, $fields, true);
 };
 
 // -------------------------
@@ -130,7 +141,7 @@ switch ($action) {
 
         $searchStringsRaw = (string)($req["searchStrings"] ?? '');
         if ($searchStringsRaw === '') {
-            $sendJson(["error" => "no search string"], 400);
+            $sendJson(["total" => 0, "totalNotFiltered" => 0, "rows" => []]);
         }
 
         if (strlen($searchStringsRaw) > 2000) {
@@ -152,7 +163,7 @@ switch ($action) {
 
         // Booleans: preserve alignment with searchStrings (index 0 has no operator)
         $tmpBooleans = explode('|', $booleansRaw); // keep empties
-        $allowedOps  = ['AND', 'OR', 'NOT'];
+        $allowedOps  = ['AND', 'OR', 'NOT', 'AND NOT'];
 
         $booleans = array_fill(0, count($searchStrings), 'AND');
         $booleans[0] = ''; // first term has no operator
@@ -246,6 +257,14 @@ switch ($action) {
         $field = (string)($get["field"] ?? '');
         if ($field === '') {
             $sendJson(["error" => "missing field"], 400);
+        }
+        if ($field === 'all') {
+            $sendJson(null);
+        }
+
+        $model = new records();
+        if (!$validField($model, $field)) {
+            $sendJson(["error" => "invalid field"], 400);
         }
 
         $fields = records::getControlledVocabularies($field);
@@ -373,6 +392,9 @@ HTML;
         if ($field === '') {
             $sendJson(["error" => "missing field"], 400);
         }
+        if (!$validField($records, $field)) {
+            $sendJson(["error" => "invalid field"], 400);
+        }
 
         if ($checked === "true") {
             $records->addSearchQueryField($field);
@@ -397,6 +419,9 @@ HTML;
 
         if ($field === '') {
             $sendJson(["error" => "missing field"], 400);
+        }
+        if (!$validField($records, $field)) {
+            $sendJson(["error" => "invalid field"], 400);
         }
 
         if ($checked === "true") {
@@ -423,6 +448,9 @@ HTML;
         if ($field === '') {
             $sendJson(["error" => "missing field"], 400);
         }
+        if (!$validField($records, $field)) {
+            $sendJson(["error" => "invalid field"], 400);
+        }
 
         if ($checked === "true") {
             $records->addBrowseField($field);
@@ -448,6 +476,21 @@ HTML;
         $controller = new \controllers\record($ai);
         $controller->run("edit");
         exit;
+    }
+
+    case "deleteRecord": {
+        $requirePost();
+        $requireCsrf();
+        $requireAdmin();
+
+        $ai = (string)($post["ai"] ?? '');
+        if ($ai === '' || !$validAi($ai)) {
+            $sendJson(["error" => "invalid ai"], 400);
+        }
+
+        records::delete($ai);
+        $sendJson(["ok" => true]);
+        break;
     }
 
     default:

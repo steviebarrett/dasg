@@ -216,8 +216,10 @@ SQL;
 		if ($order != "asc" AND $order != "desc") {
 			return false;     //error - could be an injection attack
 		}
-		$orCount = 0; //tracks the number of OR clauses in the query
-		$whereClause = "(";
+		$whereClause = "";
+		$placeholders = [];
+		$inOrGroup = false;
+
 		foreach ($searchStrings as $index => $searchString) {
 			//check for hyphen in searchString and make optional
 			$searchString = str_replace("-", "-?", $searchString);
@@ -226,25 +228,55 @@ SQL;
 				$searchString = $this->_processSearchStringOptions($searchString, $params);
 			}
 			$placeholders[":searchString". $index] = $searchString; //for the PDO query
+
 			if ($searchFields[$index] == "all") {   //all fields to be searched
 				foreach ($this->getSearchQueryFields() as $field) {
 					$whereList[] = "{$field} REGEXP :searchString{$index}";
 				}
-				$whereClause .= " {$booleans[$index]} (" . implode(' OR ', $whereList). ')';
+				$clause = "(" . implode(' OR ', $whereList) . ")";
 			} else {    //user selected field to be searched
-                $parenthesis = (
-                    isset($booleans[$index + 1]) &&
-                    $booleans[$index + 1] === 'OR'
-                ) ? '(' : '';
-				$whereClause .= <<<SQL
-					{$booleans[$index]} {$parenthesis} {$searchFields[$index]} REGEXP :searchString{$index}
-SQL;
-				if ($booleans[$index] == "OR") {
-					$whereClause .= ")";      //nest the ORs for correct precedence
+				$clause = "{$searchFields[$index]} REGEXP :searchString{$index}";
+			}
+
+			$op = strtoupper(trim($booleans[$index] ?? 'AND'));
+			if ($op === 'NOT') {
+				$op = 'AND NOT';
+			}
+
+			if ($index === 0) {
+				$whereClause = $clause;
+				continue;
+			}
+
+			if ($op === 'OR') {
+				if (!$inOrGroup) {
+					$whereClause = '(' . $whereClause;
+					$inOrGroup = true;
 				}
+				$whereClause .= ' OR ' . $clause;
+			} elseif ($op === 'AND NOT') {
+				if ($inOrGroup) {
+					$whereClause .= ')';
+					$inOrGroup = false;
+				}
+				$whereClause .= ' AND NOT ' . $clause;
+			} else { // AND
+				if ($inOrGroup) {
+					$whereClause .= ')';
+					$inOrGroup = false;
+				}
+				$whereClause .= ' AND ' . $clause;
 			}
 		}
-		$whereClause .= ") ";
+
+		if ($inOrGroup) {
+			$whereClause .= ')';
+		}
+		if ($whereClause === "") {
+			$whereClause = "1=1";
+		} else {
+			$whereClause = "(" . $whereClause . ")";
+		}
         if ($params[4]) {   // transcriptions ONLY
             $whereClause .= " AND (transcription.text IS NOT NULL) ";
         }

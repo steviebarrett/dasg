@@ -13,11 +13,16 @@ declare(strict_types=1);
  */
 
 // ========= DEV/PROD error handling (leave as you prefer) =========
-// dev only
-ini_set('display_errors', '1');
-ini_set('display_startup_errors', '1');
-error_reporting(E_ALL);
-// prod: display_errors=0, log_errors=1 (php.ini/vhost)
+$appEnv = defined('APP_ENV') ? (string)APP_ENV : (string)(getenv('APP_ENV') ?: 'prod');
+if ($appEnv !== 'prod') {
+    ini_set('display_errors', '1');
+    ini_set('display_startup_errors', '1');
+    error_reporting(E_ALL);
+} else {
+    ini_set('display_errors', '0');
+    ini_set('display_startup_errors', '0');
+    error_reporting(E_ALL & ~E_NOTICE & ~E_DEPRECATED);
+}
 
 // ========= Session hardening (MUST be before session_start) =========
 ini_set('session.use_only_cookies', '1');
@@ -72,6 +77,14 @@ $_SESSION['last_activity'] = $now;
 // ========= CSRF token =========
 if (empty($_SESSION['csrf_token'])) {
     $_SESSION['csrf_token'] = bin2hex(random_bytes(32));
+}
+
+// ========= Security headers =========
+if (!headers_sent()) {
+    header('X-Content-Type-Options: nosniff');
+    header('X-Frame-Options: SAMEORIGIN');
+    header('Referrer-Policy: strict-origin-when-cross-origin');
+    header('Permissions-Policy: geolocation=(), microphone=(), camera=()');
 }
 
 // ========= Secrets / config =========

@@ -163,6 +163,9 @@ final class record
         if (!isset($clean['ai']) || (string)$clean['ai'] === '') {
             throw new \InvalidArgumentException("Missing ai");
         }
+        if (!$this->isValidAi((string)$clean['ai'])) {
+            throw new \InvalidArgumentException("Invalid ai");
+        }
 
         $fields = array_keys($clean);
         $fieldList = implode(', ', $fields);
@@ -176,6 +179,11 @@ final class record
         $this->db->exec($sql, $values);
 
         $this->_updateTracking((string)$clean["ai"]);
+    }
+
+    private function isValidAi(string $ai): bool
+    {
+        return (bool)preg_match('/^[A-Za-z0-9_-]{1,64}$/', $ai);
     }
 
     private function _updateTracking(string $ai): void

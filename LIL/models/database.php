@@ -11,12 +11,18 @@ class database {
 	 */
 	public function __construct($dbName = DB) {
 		try {
+			$options = [
+				\PDO::ATTR_ERRMODE => \PDO::ERRMODE_EXCEPTION,
+				\PDO::ATTR_DEFAULT_FETCH_MODE => \PDO::FETCH_ASSOC,
+				\PDO::ATTR_EMULATE_PREPARES => true,
+				\PDO::MYSQL_ATTR_LOCAL_INFILE => false,
+			];
 			$this->_dbh = new \PDO(
-				"mysql:host=" . DB_HOST . ";dbname=" . $dbName . ";charset=utf8;", DB_USER, DB_PASSWORD, array(
-				\PDO::MYSQL_ATTR_LOCAL_INFILE => true,
-			));
+				"mysql:host=" . DB_HOST . ";dbname=" . $dbName . ";charset=utf8;", DB_USER, DB_PASSWORD, $options
+			);
 		} catch (\PDOException $e){
-			echo "An error occurred";
+			error_log("DB connect error: " . $e->getMessage());
+			$this->_dbh = null;
 		}
 	}
 
@@ -37,13 +43,17 @@ class database {
 	 * @return array $results  : The results array
 	 */
 	public function fetch($sql, $values = array()) {
+		if (!$this->_dbh) {
+			return [];
+		}
 		try {
 			$this->_sth = $this->_dbh->prepare($sql);
 			$this->_sth->execute($values);
-			$results = $this->_sth->fetchAll(\PDO::FETCH_ASSOC);
+			$results = $this->_sth->fetchAll();
 			return $results;
 		} catch (\PDOException $e) {
-			echo $e->getMessage();
+			error_log("DB fetch error: " . $e->getMessage());
+			return [];
 		}
 	}
 
@@ -54,12 +64,16 @@ class database {
 	 * @param array $values    : The params for the query (defaults to empty)
 	 */
 	public function exec($sql, array $values = array()) {
-		$results = array();
+		if (!$this->_dbh) {
+			return false;
+		}
 		try {
 			$this->_sth = $this->_dbh->prepare($sql);
 			$this->_sth->execute($values);
+			return true;
 		} catch (\PDOException $e) {
-			echo $e->getMessage();
+			error_log("DB exec error: " . $e->getMessage());
+			return false;
 		}
 	}
 

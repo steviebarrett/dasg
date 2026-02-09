@@ -3,8 +3,8 @@ namespace controllers;
 
 require_once "includes/htmlHeader.php";
 
-$m = (string)($_POST['m'] ?? $_GET['m'] ?? 'records');
-$a = (string)($_POST['a'] ?? $_GET['a'] ?? 'list');
+$m = (string)($_POST['m'] ?? $_GET['m'] ?? 'index');
+$a = (string)($_POST['a'] ?? $_GET['a'] ?? 'show');
 
 if (!preg_match('/^[a-zA-Z][a-zA-Z0-9_]{0,40}$/', $m)) $m = 'records';
 if (!preg_match('/^[a-zA-Z][a-zA-Z0-9_]{0,40}$/', $a)) $a = 'list';

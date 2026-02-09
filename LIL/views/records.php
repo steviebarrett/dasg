@@ -442,43 +442,59 @@ HTML;
 
                 $.getJSON('ajax.php?action=' + encodeURIComponent(ajaxAction) + '&' + $.param(params.data), {format: 'json'})
                   .then(function (res) {
-                    $.each(res.rows, function (i, v) {
-                      let ai = v["ai"];
-                      let link = '<a href="#" class="recordLink" data-toggle="modal" data-target="#recordModal" data-id="'+ai+'">'+ai+'</a>';
-
-                      if (v['text'] != null) {
-                        link += '&nbsp;<a title="transcription" target="_blank" href="transcription.php?ai='+ai+'"><i class="fa-solid fa-file"></i></a>';
+                    try {
+                      if (!res || !Array.isArray(res.rows)) {
+                        params.success({ total: 0, totalNotFiltered: 0, rows: [] });
+                        return;
                       }
+                      $.each(res.rows, function (i, v) {
+                        let ai = v["ai"];
+                        let link = '<a href="#" class="recordLink" data-toggle="modal" data-target="#recordModal" data-id="'+ai+'">'+ai+'</a>';
 
-                      if (v['original_format'] == 'Sound Recording' && v['online_access'] && v['online_access'].substring(0, 4) == 'http') {
-                        link += '&nbsp;&nbsp;<a title="sound recording" target="_blank" href="'+v['online_access']+'"><i class="fa-solid fa-headphones"></i></a>';
-                      }
+                        if (v['text'] != null) {
+                          link += '&nbsp;<a title="transcription" target="_blank" href="transcription.php?ai='+ai+'"><i class="fa-solid fa-file"></i></a>';
+                        }
 
-                      res.rows[i]["ai"] = link;
+                        if (v['original_format'] == 'Sound Recording' && v['online_access'] && v['online_access'].substring(0, 4) == 'http') {
+                          link += '&nbsp;&nbsp;<a title="sound recording" target="_blank" href="'+v['online_access']+'"><i class="fa-solid fa-headphones"></i></a>';
+                        }
 
-                      if (searchTerms[0] != '') {
-                        $.each(v, function(j, value) {
-                          if (j == 'ai' || j == 'text') {
-                            return;
-                          }
-                          $.each(searchTerms, function(k, searchTerm) {
-                            if (searchTerm == null) { return; }
+                        res.rows[i]["ai"] = link;
 
-                            searchTerm = searchTerm.replace('[[:<:]]', String.raw`\\b`);
-                            searchTerm = searchTerm.replace('[[:>:]]', String.raw`\\b`);
-                            searchTerm = searchTerm.replace('[[:alpha:]]', '[a-z]');
-                            searchTerm = searchTerm.replace('[[:digit:]]', '[0-9]');
-                            searchTerm = searchTerm.replace('[[:space:]]', String.raw`\\s`);
-
-                            re = new RegExp(searchTerm, 'giu');
-                            if (res.rows[i][j]) {
-                              res.rows[i][j] = res.rows[i][j].replace(re, '<span class="highlight">$&</span>');
+                        if (searchTerms[0] != '') {
+                          $.each(v, function(j, value) {
+                            if (j == 'ai' || j == 'text') {
+                              return;
                             }
+                            $.each(searchTerms, function(k, searchTerm) {
+                              if (searchTerm == null) { return; }
+
+                              searchTerm = searchTerm.replace('[[:<:]]', String.raw`\\b`);
+                              searchTerm = searchTerm.replace('[[:>:]]', String.raw`\\b`);
+                              searchTerm = searchTerm.replace('[[:alpha:]]', '[a-z]');
+                              searchTerm = searchTerm.replace('[[:digit:]]', '[0-9]');
+                              searchTerm = searchTerm.replace('[[:space:]]', String.raw`\\s`);
+
+                              const re = new RegExp(searchTerm, 'giu');
+                              if (res.rows[i][j]) {
+                                res.rows[i][j] = res.rows[i][j].replace(re, '<span class="highlight">$&</span>');
+                              }
+                            });
                           });
-                        });
-                      }
-                    });
-                    params.success(res)
+                        }
+                      });
+                      params.success(res)
+                    } catch (err) {
+                      console.error('ajaxRequest parse error', err);
+                      params.success({ total: 0, totalNotFiltered: 0, rows: [] });
+                    }
+                  })
+                  .fail(function (xhr, textStatus, error) {
+                    console.error('ajaxRequest failed', textStatus, error);
+                    params.success({ total: 0, totalNotFiltered: 0, rows: [] });
+                    if (params.error) {
+                      params.error(xhr);
+                    }
                   });
               }
             </script>
@@ -602,7 +618,11 @@ HTML;
                       return;
                     }
                     $.ajax({
-                      url: 'ajax.php?action=deleteRecord&ai=' + encodeURIComponent(ai)
+                      url: 'ajax.php?action=deleteRecord',
+                      method: 'POST',
+                      dataType: 'json',
+                      headers: { 'X-CSRF-Token': window.CSRF_TOKEN },
+                      data: { ai: ai }
                     })
                     .done(function () {
                       alert('Record deleted');
