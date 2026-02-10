@@ -1,23 +1,27 @@
 <?php
 
-//ini_set("display_errors", 1);
-
-session_start();
-
 $javascriptBlock = <<<HTML
 
 	<script type="text/javascript">
 	
 		function updateComment(id, status) {
-			$.getJSON("/ajax/blog.php?action=updateCommentStatus&id="+id+"&status="+status);
-			if (status == "approve") {
+          $.ajax({
+            url: "/ajax/blog.php",
+            method: "POST",
+            dataType: "json",
+            headers: { "X-CSRF-Token": $('meta[name="csrf-token"]').attr('content') },
+            data: { action: "updateCommentStatus", id: id, status: status }
+          }).done(function () {
+            // update classes after success
+            if (status == "approve") {
 				$('#row_'+id).removeClass('commentRejected');
 				$('#row_'+id).addClass('commentApproved');
 			} else {
 				$('#row_'+id).removeClass('commentApproved');
 				$('#row_'+id).addClass('commentRejected');
 			}
-		}
+          });
+        }
 		
 	</script>
 HTML;
@@ -26,6 +30,14 @@ HTML;
 $cqpPage = true;
 
 require_once 'includes/include.php';
+
+// CSRF protection
+if ($_SERVER['REQUEST_METHOD'] === 'POST') {
+    Csrf::validateRequest();
+}
+
+// initialise variables
+$_GET["show"] = (isset($_GET["show"])) ? $_GET["show"] : "unmod";
 
 $pageSlug = "commentAdmin";
 $pageTitle = "DASG Comment Admin";

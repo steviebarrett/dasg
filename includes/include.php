@@ -54,8 +54,7 @@ require_once 'passwords.php';
 
 define("DB_AUDIO", "dasgaudio");			//audio database - move into main DASG DB??
 
-// ========= CSRF token =========
-if (empty($_SESSION['csrf_token'])) {
-    $_SESSION['csrf_token'] = bin2hex(random_bytes(32));
-}
+// load Csrf class
+require_once __DIR__ . '/../classes/Csrf.php';
+Csrf::ensureToken();
 

@@ -1,9 +1,5 @@
 <?php
 
-//ini_set("display_errors", 1);
-
-session_start();
-
 require_once '../includes/include.php';
 
 $titleText = array("en"=>"Slips Admin", "gd"=>"Slips Admin");
@@ -36,7 +32,9 @@ HTML;
 require_once '../includes/htmlHeader.php';
 
 if (Functions::showLoginForm() == true) {
-	
+
+    $csrfField = Csrf::field();
+
 	$user = Users::getUser($_SESSION["user"]);
 	
 	//check for admin status
@@ -86,84 +84,88 @@ HTML;
 					$dateRangeHtml .= "<option value=\"{$id}\" {$selected}>{$dateRange}</option>";
 				}
 				$dateRangeHtml .= "</select>";
-				//the form
+
+                //the form
+
 				echo <<<HTML
-			<div class="backLink">
-				<a href="slips.php" title="Back to Slips Home">< Back to Slips Home</a>
-			</div>
-			
-			<form id="slipData" method="POST">
-			
-				<div>
-					<label for="folder">Folder</label>
-					{$folderSelectHtml}
-				</div>
-				<div>
-					<label for="id">Slip ID</label>
-					<input name="id" id="id" type="text" class="shortInput" value="{$_POST["id"]}"/>
-				</div>
-				<div>
-					<label for="headword">Headword</label>
-					<input name="headword" id="headword" type="text" value="{$slip["headword"]}" required/>
-				</div>
-				<div>
-					<label for="slip_found">Slip Found</label>
-					<input name="slip_found" id="slip_found" type="checkbox" value="1" {$slipFoundChecked}/>
-				</div>
-				<div>
-					<label for="quotation">Quotation</label>
-					<textarea name="quotation" id="quotation">{$slip["quotation"]}</textarea>
-					<script>CKEDITOR.replace("quotation");</script>
-				</div>
-				<div>
-					<label for="author">Author</label>
-					<input name="author" id="author" type="text" value="{$slip["author"]}"/>
-				</div>
-				<div>
-					<label for="title">Title</label>
-					<input name="title" id="title" type="text" value="{$slip["title"]}"/>
-				</div>
-				<div>
-					<label for="page">Page</label>
-					<input name="page" id="page" type="text" class="shortInput" value="{$slip["page"]}"/>
-				</div>
-				<div>
-					<label for="date">Date</label>
-					<input name="date" id="date" type="text" class="shortInput" value="{$slip["date"]}"/>
-				</div>
-				
-				<div>
-					<label for="dateRange">Date Range</label>
-					{$dateRangeHtml}
-				</div>
-				
-				<div>
-					<label for="notes">Notes</label>
-					<textarea name="notes" id="notes">{$slip["notes"]}</textarea>
-					<script>CKEDITOR.replace("notes");</script>
-				</div>
-				<div>
-					<label for="translation">Translation</label>
-					<textarea name="translation" id="translation">{$slip["translation"]}</textarea>
-					<script>CKEDITOR.replace("translation");</script>
-				</div>
-				<div>
-					<label for="sense">Sense</label>
-					<input name="sense" id="sense" type="text" value="{$slip["sense"]}"/>
-				</div>
-				<div>
-					<label for="edition">Edition</label>
-					<input name="edition" id="edition" type="text" value="{$slip["edition"]}"/>
-				</div>
-							
-				<div>
-					<input type="hidden" name="action" value="save"/>
-					<input type="submit" class="dasg_bigButton" value="save">
-				</div>
-							
-			</form>
-							
-			<a href="slips.php" title="Back to Slips Home">< Back to Slips Home</a>
+
+                    {$csrfField}
+                    <div class="backLink">
+                        <a href="slips.php" title="Back to Slips Home">< Back to Slips Home</a>
+                    </div>
+                    
+                    <form id="slipData" method="POST">
+                    
+                        <div>
+                            <label for="folder">Folder</label>
+                            {$folderSelectHtml}
+                        </div>
+                        <div>
+                            <label for="id">Slip ID</label>
+                            <input name="id" id="id" type="text" class="shortInput" value="{$_POST["id"]}"/>
+                        </div>
+                        <div>
+                            <label for="headword">Headword</label>
+                            <input name="headword" id="headword" type="text" value="{$slip["headword"]}" required/>
+                        </div>
+                        <div>
+                            <label for="slip_found">Slip Found</label>
+                            <input name="slip_found" id="slip_found" type="checkbox" value="1" {$slipFoundChecked}/>
+                        </div>
+                        <div>
+                            <label for="quotation">Quotation</label>
+                            <textarea name="quotation" id="quotation">{$slip["quotation"]}</textarea>
+                            <script>CKEDITOR.replace("quotation");</script>
+                        </div>
+                        <div>
+                            <label for="author">Author</label>
+                            <input name="author" id="author" type="text" value="{$slip["author"]}"/>
+                        </div>
+                        <div>
+                            <label for="title">Title</label>
+                            <input name="title" id="title" type="text" value="{$slip["title"]}"/>
+                        </div>
+                        <div>
+                            <label for="page">Page</label>
+                            <input name="page" id="page" type="text" class="shortInput" value="{$slip["page"]}"/>
+                        </div>
+                        <div>
+                            <label for="date">Date</label>
+                            <input name="date" id="date" type="text" class="shortInput" value="{$slip["date"]}"/>
+                        </div>
+                        
+                        <div>
+                            <label for="dateRange">Date Range</label>
+                            {$dateRangeHtml}
+                        </div>
+                        
+                        <div>
+                            <label for="notes">Notes</label>
+                            <textarea name="notes" id="notes">{$slip["notes"]}</textarea>
+                            <script>CKEDITOR.replace("notes");</script>
+                        </div>
+                        <div>
+                            <label for="translation">Translation</label>
+                            <textarea name="translation" id="translation">{$slip["translation"]}</textarea>
+                            <script>CKEDITOR.replace("translation");</script>
+                        </div>
+                        <div>
+                            <label for="sense">Sense</label>
+                            <input name="sense" id="sense" type="text" value="{$slip["sense"]}"/>
+                        </div>
+                        <div>
+                            <label for="edition">Edition</label>
+                            <input name="edition" id="edition" type="text" value="{$slip["edition"]}"/>
+                        </div>
+                                    
+                        <div>
+                            <input type="hidden" name="action" value="save"/>
+                            <input type="submit" class="dasg_bigButton" value="save">
+                        </div>
+                                    
+                    </form>
+                                    
+                    <a href="slips.php" title="Back to Slips Home">< Back to Slips Home</a>
 							
 HTML;
 					
@@ -194,7 +196,11 @@ HTML;
 				
 				echo <<<HTML
 			<h3>Add/Edit Slip:</h3>
+			
 			<form method="POST" action="slips.php">
+			
+			    {$csrfField}
+			    
 				{$folderSelectHtml}
 				<label for="selectSlip">Slip</label>
 				<select name="id" id="selectSlip">

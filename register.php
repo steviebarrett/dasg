@@ -1,10 +1,11 @@
 <?php
 
-//ini_set("display_errors", 1);
-
-session_start();
-
 require_once 'includes/include.php';
+
+// CSRF protection
+if ($_SERVER['REQUEST_METHOD'] === 'POST') {
+    Csrf::validateRequest();
+}
 
 $titleText = array("en"=>"Register", "gd"=>"Cunntas a chruthachadh");
 
@@ -12,10 +13,7 @@ $pageTitle = $titleText[$lang];
 $pageSlug = "register";
 
 $javascriptBlock = <<<HTML
-
 	<script src="https://www.google.com/recaptcha/api.js" async defer></script>
-
-	
 HTML;
 
 require_once 'includes/htmlHeader.php';
@@ -38,22 +36,22 @@ if (!empty($_POST["submit"])) {
 	$user->setLastName($_POST["lastname"]);
 	$user->setIsBlogAdmin(false);
 	
-	//set temp password and password change auth
-	$pass = time();
-	$user->setPassword($pass);
-	$user->encryptPassword();
-	$passwordAuth = time();
-	$user->setPasswordAuth($passwordAuth);
+	//set temp password and password change token
+	$pass = bin2hex(random_bytes(32));
+	$user->setPasswordFromPlaintext($pass);
+    $token = bin2hex(random_bytes(32)); // raw token for email
+    $tokenHash = hash('sha256', $token);
+    $user->setPasswordAuth($tokenHash);
+    $user->setPasswordAuthExpires(date('Y-m-d H:i:s', time() + 3600)); // 1 hour
 	
 	Users::saveUser($user);
-	
-	$changeParams = array("reset", $user->getEmail(), $passwordAuth);
-	$changeParams = implode('|', $changeParams);
-	$url = "https://dasg.ac.uk/forgotPassword.php?p=" . base64_encode($changeParams);
+
+    $url = "https://" . $_SERVER["HTTP_HOST"] . "/forgotPassword.php?action=reset&email=" . rawurlencode($user->getEmail()) . "&token=" . rawurlencode($token);
 	
 	//email the user
+    $firstNameEsc = Functions::e($user->getFirstName());
 	$emailText = <<<HTML
-		<p>Dear {$user->getFirstName()},</p>
+		<p>Dear {$firstNameEsc},</p>
 
 		<p>A DASG user account has been set up for you using this email address.</p>
 
@@ -121,10 +119,15 @@ $usernameText["en"]		= "Please choose a username";
 $usernameText["gd"]		= "Tagh ainm mar neach-cleachdaidh";
 $submitText["en"]		= "submit";
 $submitText["gd"]		= "cuir a-steach";
+
+$csrfField = Csrf::field();
+
 echo <<<HTML
 
 	<form method="POST" id="register">
-	
+	    
+	    {$csrfField}
+	    
 		<div>
 			<label for="email">{$emailText[$lang]}:</label>
 			<input title="{$errorEmailText[$lang]}" type="text" name="email" id="email"/>

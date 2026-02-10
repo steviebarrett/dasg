@@ -85,6 +85,11 @@ HTML;
 if ($_SERVER["SERVER_NAME"] == "dev.dasg.ac.uk") 
 	$devHighlightCss = 'style="border:2px solid red;"';
 
+// CSRF token exposure
+$csrf = Csrf::token();
+$csrfJs = htmlspecialchars($csrf, ENT_QUOTES | ENT_SUBSTITUTE, 'UTF-8');
+$metaHtml =  "<meta name=\"csrf-token\" content=\"{$csrfJs}\">";
+
 echo <<<HTML
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
@@ -96,6 +101,8 @@ echo <<<HTML
 		<link rel="shortcut icon" href="favicon.ico?23189126" type="image/x-icon">
 	
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+		
+		{$metaHtml}
 		
 		<meta name="description" content="DASG - Digital Archive of Scottish Gaelic. DASG is an online repository of digitised texts and lexical resources for Scottish Gaelic.">
 		

@@ -1,8 +1,11 @@
 <?php
 
-session_start();
-
 require_once 'includes/include.php';
+
+// CSRF protection
+if ($_SERVER['REQUEST_METHOD'] === 'POST') {
+    Csrf::validateRequest();
+}
 
 $titleText = array("en"=>"Login", "gd"=>"Cuir a-staigh");
 

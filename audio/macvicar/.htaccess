@@ -1,0 +1,8 @@
+AuthType Basic
+AuthName "Password Protected Area"
+AuthUserFile /var/www/html/dasg.arts.gla.ac.uk/www/.htpass
+Require valid-user
+
+Options +FollowSymLinks
+RewriteEngine On
+

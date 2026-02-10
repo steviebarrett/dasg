@@ -73,9 +73,11 @@ final class Functions
 
         $refererEsc = self::e($referer ?? '');
 
+        $csrfField = Csrf::field();
         echo <<<HTML
             <div id="login">
                 <form id="loginForm" method="POST">
+                    {$csrfField}
                     <div>
                         <label for="email">{$emailText[$lang]}:</label>
                         <input type="text" id="email" name="email"/>
@@ -114,10 +116,12 @@ HTML;
         $first = self::e($user->getFirstName());
         $last  = self::e($user->getLastName());
 
+        $csrfField = Csrf::field();
         echo <<<HTML
             <div id="logout">
                 <p><strong>Logged-in as {$first} {$last}</strong></p>
                 <form method="POST">
+                    {$csrfField}
                     <input type="hidden" name="logout" value="true"/>
                     <input type="submit" value="logout" class="dasg_smlButton">
                 </form>

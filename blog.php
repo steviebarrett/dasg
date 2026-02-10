@@ -1,15 +1,21 @@
 <?php
 
-//ini_set("display_errors", 1);
-//
 
-session_start();
-
-if ($_POST["action"] == "logout") {
+if (isset($_POST["action"]) && $_POST["action"] == "logout") {
 	unset($_SESSION["user"]);	
 }
 
 require_once 'includes/include.php';
+
+// CSRF protection
+if ($_SERVER['REQUEST_METHOD'] === 'POST') {
+    Csrf::validateRequest();
+} else {
+    http_response_code(405);
+    header('Content-Type: application/json; charset=UTF-8');
+    echo json_encode(['ok' => false, 'error' => 'Method not allowed']);
+    exit;
+}
 
 $pageSlug = "blog";
 $pageTitle = "DASG Blog";
@@ -25,6 +31,13 @@ $javascriptBlock = <<<HTML
 <script>
 
 	$(document).ready(function() {
+        
+        $.ajaxSetup({
+          headers: {
+            'X-CSRF-Token': $('meta[name="csrf-token"]').attr('content')
+          }
+        });
+        
 		$('#hideComments').on('click', function() {
 			$('#hideComments').hide();
 			$('#showComments').show();
@@ -95,7 +108,14 @@ $blogEntryId = empty($_REQUEST["id"]) ? BlogEntries::getMostRecentBlogEntryId() 
 
 $commentSubmitted = false;
 
-if ($_POST["userComment"]) {
+if (isset($_POST["userComment"])) {
+
+    $email = $_SESSION['user'] ?? '';
+    if ($email === '') {
+        http_response_code(401);
+        echo json_encode(['ok' => false, 'error' => 'Not logged in']);
+        exit;
+    }
 	
 	$newCommentId = DB::getLastId(DB_NAME, "blogComment");
 	$comment = new BlogComment($newCommentId);

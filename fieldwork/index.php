@@ -4,6 +4,15 @@
 
 require_once '../includes/include.php';
 
+// CSRF protection
+$method = $_SERVER['REQUEST_METHOD'] ?? 'GET';
+if ($method === 'POST') {
+    Csrf::validateRequest();
+}
+
+// initalise page variables
+$lenitedHtml = $accentSelectedHtml = $searchAllHtml = $searchHeadHtml = $searchDefHtml = $resultsHtml = $query = "";
+
 $pageTitle = "Search the Fieldwork Archive";
 $pageSlug = "fieldwork";
 

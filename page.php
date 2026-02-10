@@ -2,6 +2,11 @@
 
 require_once 'includes/include.php';
 
+// CSRF protection
+if ($_SERVER['REQUEST_METHOD'] === 'POST') {
+    Csrf::validateRequest();
+}
+
 $page = Pages::getPage($_GET["slug"]);
 
 $pageSlug = $page->getSlug();

@@ -16,12 +16,14 @@ includes/passwords.php
 # subprojects
 /colbhan/
 
+/corpus/faclairEntry.php
+/corpus/faclairAjax.php
+
 # logs / cache
 *.log
 /tmp/
 /cache/
 
-/audio/
 /scans/
 /facbeag/
 /meek/

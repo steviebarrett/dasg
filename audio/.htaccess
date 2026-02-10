@@ -1,0 +1,12 @@
+#AuthType Basic
+#AuthName "Password Protected Area"
+#AuthUserFile /var/www/html/dasg.arts.gla.ac.uk/www/.htpass
+#Require valid-user
+
+#Options +FollowSymLinks
+#RewriteEngine On
+
+#RewriteRule ^audio/view/(.*)$ /audio/view.php?ref=$1  [NC,L]
+
+AddType text/vtt .vtt
+

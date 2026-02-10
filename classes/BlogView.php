@@ -29,6 +29,9 @@ class BlogView {
 	}
 	
 	private function getEntryHtml() {
+
+        $nextHtml = $prevHtml = "";
+
 		$blogEntry = BlogEntries::getBlogEntry($this->blogEntryId);
 	
 		if (!$this->showUnpublished && !$blogEntry->getIsPublished())	{ //only show entries that are published
@@ -131,8 +134,10 @@ HTML;
 			$placeholderText["gd"] = "Faodar beachd a chur a-staigh an seo";
  			$postCommentText["en"] = "Post Comment";
  			$postCommentText["gd"] = "Cuir beachd a-staigh";
+            $csrfField = Csrf::field();
 			$html .= <<<HTML
 					<form action="#hideComments" method="POST">
+					    {$csrfField}
 						<textarea id="userComment" placeholder="{$placeholderText[$this->lang]}" name="userComment"></textarea>
 					
 						<input type="hidden" id="id" name="id" value="{$this->blogEntryId}"/>
@@ -188,11 +193,13 @@ HTML;
 		} else {
 			$user = Users::getUser($_SESSION["user"]);
 			$logoutLabel["en"] = "logout";
-			$logoutLabel["gd"] = "Cuir dheth"; 
+			$logoutLabel["gd"] = "Cuir dheth";
+            $csrfField = Csrf::field();
 			$logoutHtml = <<<HTML
 					<form method="POST" action="">
-					<input type="hidden" name="action" value="logout"/>
-					<input class="dasg_medButton" type="submit" value="{$logoutLabel[$this->lang]}"/>
+					    {$csrfField}
+					    <input type="hidden" name="action" value="logout"/>
+					    <input class="dasg_medButton" type="submit" value="{$logoutLabel[$this->lang]}"/>
 				</form>
 HTML;
 			$loggedInHtml["en"] = "Logged in as {$user->getFirstName()} {$user->getLastName()}";

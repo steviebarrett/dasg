@@ -34,6 +34,11 @@ require_once 'includes/htmlHeader.php';
 
 $action = (string)($_POST['action'] ?? $_GET['action'] ?? '');
 
+// CSRF protection
+if ($_SERVER['REQUEST_METHOD'] === 'POST') {
+    Csrf::validateRequest();
+}
+
 switch ($action)
 {
 	case "save":
@@ -91,12 +96,13 @@ switch ($action)
         $tokenEsc = Functions::e($token);
 
         // show form with hidden email+token
+        $csrfField = Csrf::field();
 		echo <<<HTML
 		
 		<h3>Please enter a new password</h3>
 	
 		<form id="savePassword" action="forgotPassword.php" method="POST">
-	
+	        {$csrfField}
 			<label for="pass1">Password:</label>
 			<input type="password" id="pass1" name="pass1"/>
 			
@@ -136,11 +142,6 @@ HTML;
 
         $url = "https://" . $_SERVER["HTTP_HOST"] . "/forgotPassword.php?action=reset&email=" . rawurlencode($user->getEmail()) . "&token=" . rawurlencode($token);
 
-
-        error_log("RESET URL: " . $url);
-
-
-
         $firstNameEsc = Functions::e($user->getFirstName());
         // send email
         $emailText = <<<HTML
@@ -158,14 +159,14 @@ HTML;
         $email = new Email($user->getEmail(), "DASG Admin Password Reset", $emailText, "mail@dasg.ac.uk");
         $email->send();
 		break;
-	default:	
-
+	default:
+        $csrfField = Csrf::field();
 		echo <<<HTML
 
             <h3>Please enter your email:</h3>
             
             <form id="forgotPassword" action="forgotPassword.php" method="POST">
-            
+                {$csrfField}
                 <label id="email">Email:</label>
                 <input type="text" id="email" name="email"/>
                 

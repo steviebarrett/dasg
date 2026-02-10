@@ -38,7 +38,7 @@ class BlogEntry
 	
 	public function getDate($lang)
 	{
-		return $this->date[$lang];
+		return (isset($this->date[$lang]) ? $this->date[$lang] : '');
 	}
 	
 	public function setDate($lang, $timestamp) 
@@ -58,7 +58,7 @@ class BlogEntry
 	
 	public function getContent($lang)
 	{
-		return $this->content[$lang];
+		return isset($this->content[$lang]) ? $this->content[$lang] : '';
 	}
 	
 	public function setContent($lang, $content) 

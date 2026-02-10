@@ -75,7 +75,7 @@ class BlogComments
 		
 		try {
 			$sth = $dbh->prepare("SELECT id FROM blogComment WHERE approved = {$approved} ORDER by date DESC");
-			$sth->execute(array(":blogId"=>$blogId));
+			$sth->execute();
 		
 			while ($row = $sth->fetch()) {
 				$blogCommentIds[] = $row["id"];

@@ -1,9 +1,5 @@
 <?php
 
-//ini_set("display_errors", 1);
-
-session_start();
-
 require_once '../includes/include.php';
 
 $titleText = array("en"=>"Admin", "gd"=>"Admin");
@@ -113,6 +109,7 @@ HTML;
         }
         
         //the form
+        $csrfField = Csrf::field();
         echo <<<HTML
 			<div class="backLink">
 				<a href="index.php" title="Back to Admin Home">< Back to Admin Home</a>
@@ -120,6 +117,8 @@ HTML;
 			
 			<form id="textMetadata" method="POST" action="index.php">
 			
+			    {$csrfField}
+			    
 				<div>
 					<label for="reference_number">Reference Number</label>
 					<input name="reference_number" id="reference_number" type="text" class="shortInput" value="{$_POST["reference_number"]}" required/>
@@ -373,10 +372,12 @@ HTML;
 				<option value="{$reference_number}">{$reference_number} - {$short_title}</option>
 HTML;
         }
-        
+
+        $csrfField = Csrf::field();
         echo <<<HTML
 			<h3>Add/Edit Text:</h3>
 			<form method="POST" action="index.php">
+			    {$csrfField}
 				<select name="reference_number">
 					{$formHtml}
 				</select>
