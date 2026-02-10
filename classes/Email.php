@@ -7,10 +7,20 @@ class Email
 	
 	public function __construct($to, $subject, $message, $from)	
 	{
-		$this->to = $to;
+        $toClean = $this->cleanHeader($to);
+        if (!filter_var($toClean, FILTER_VALIDATE_EMAIL)) {
+            throw new InvalidArgumentException('Invalid email address');
+        }
+        $this->to = $toClean;
+
+        $fromClean = $this->cleanHeader($from);
+        if (!filter_var($fromClean, FILTER_VALIDATE_EMAIL)) {
+            throw new InvalidArgumentException('Invalid email address');
+        }
+        $this->from = $fromClean;
+
 		$this->subject = $subject;
 		$this->message = $message;
-		$this->from = $from;
 	}
 	
 	public function getTo()
@@ -55,7 +65,7 @@ class Email
 		if($this->getCc())
 			$headers[] = "CC: " . $this->getCcList();
 		$headers[] = "MIME-Version: 1.0";
-		$headers[] = "Content-Type: text/html; charset=ISO-8859-1";
+        $headers[] = "Content-Type: text/html; charset=UTF-8";
 		
 		return implode("\r\n", $headers);
 	}
@@ -64,4 +74,9 @@ class Email
 	{
 		mail($this->getTo(), $this->getSubject(), $this->getMessage(), $this->getHeaders());	
 	}
+
+    private function cleanHeader(string $value): string
+    {
+        return preg_replace('/[\x00-\x1F\x7F]+/u', '', $value);
+    }
 }

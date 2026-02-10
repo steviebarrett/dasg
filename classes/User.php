@@ -2,7 +2,8 @@
 
 class User
 {
-	private $email, $username, $password, $salt, $firstName, $lastName, $isBlogAdmin, $passwordAuth, $lastLoggedIn, $updated;
+	private $email, $username, $password, $firstName, $lastName, $isBlogAdmin, $passwordAuth, $passwordAuthExpires,
+        $lastLoggedIn, $updated;
 	
 	public function __construct($email) {
 		$this->email = $email;	
@@ -19,21 +20,19 @@ class User
 	public function getPassword() {
 		return $this->password;	
 	}
-	
-	public function getSalt() {
-		if (empty($this->salt)) {
-			$this->salt = uniqid(mt_rand(), true);
-		}
-		return $this->salt;
-	}
-	
-	public function setSalt($salt) {
-		$this->salt = $salt;
-	}
-	
-	public function checkPassword($password) {
-		return md5($this->getSalt() . $password) == $this->getPassword() ? 1 : 0;	
-	}
+
+    public function checkPassword(string $password): bool
+    {
+        $hash = (string)$this->getPassword();
+        if ($hash === '' || $hash === '!') return false;
+        return password_verify($password, $hash);
+    }
+
+    public function setPasswordFromPlaintext(string $password): void
+    {
+        // PASSWORD_DEFAULT is fine; PHP will pick a strong algorithm and params.
+        $this->password = password_hash($password, PASSWORD_DEFAULT);
+    }
 	
 	public function setUsername($username) {
 		$this->username = $username;
@@ -41,10 +40,6 @@ class User
 	
 	public function setPassword($password) {
 		$this->password = $password;	
-	}
-	
-	public function encryptPassword() {
-		$this->password = md5($this->getSalt() . $this->getPassword());
 	}
 	
 	public function getFirstName() {
@@ -82,6 +77,14 @@ class User
 	public function setPasswordAuth($auth) {
 		$this->passwordAuth = $auth;
 	}
+
+    public function getPasswordAuthExpires() {
+        return $this->passwordAuthExpires;
+    }
+
+    public function setPasswordAuthExpires($time) {
+        $this->passwordAuthExpires = $time;
+    }
 	
 	public function setLastLoggedIn($timestamp) {
 		$this->lastLoggedIn = $timestamp;

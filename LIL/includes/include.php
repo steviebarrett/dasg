@@ -12,7 +12,7 @@ declare(strict_types=1);
  * - autoload
  */
 
-// ========= DEV/PROD error handling (leave as you prefer) =========
+// ========= DEV/PROD error handling =========
 $appEnv = defined('APP_ENV') ? (string)APP_ENV : (string)(getenv('APP_ENV') ?: 'prod');
 if ($appEnv !== 'prod') {
     ini_set('display_errors', '1');

@@ -30,8 +30,10 @@ $blogImageDir = ROOT . "/images/blog/";
 
 require_once 'includes/htmlHeader.php';
 
-if (Functions::showLoginForm() == true) {
-	
+Functions::showLoginForm();
+
+if (isset($_SESSION["user"])) {
+
 	$user = Users::getUser($_SESSION["user"]);
 	
 	//check for blog admin status

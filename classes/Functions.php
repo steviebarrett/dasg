@@ -53,9 +53,9 @@ final class Functions
 
             if (empty($user)) {
                 echo "<h3 class=\"error\">Email/Password combination not recognised</h3>";
-            } else if ($user->checkPassword($pass)) {
+            } else if ($user->checkPassword($pass) === true) {
                 $_SESSION["user"] = $user->getEmail();
-                Users::saveUser($user); // updates last logged-in
+                Users::markLoggedIn($user->getEmail());  // updates last logged-in
                 self::showLogoutForm();
                 return true;
             } else {
@@ -87,7 +87,7 @@ final class Functions
                     </div>
 
                     <div id="forgotPassLink">
-                        <a href="https://dasg.ac.uk/forgotPassword.php" title="Forgotten password link">{$forgotText[$lang]}</a>
+                        <a href="/forgotPassword.php" title="Forgotten password link">{$forgotText[$lang]}</a>
                     </div>
 
                     <input type="hidden" name="referer" value="{$refererEsc}"/>
