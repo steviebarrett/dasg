@@ -16,11 +16,11 @@ $lenitedHtml = $accentSelectedHtml = $searchAllHtml = $searchHeadHtml = $searchD
 $pageTitle = "Search the Fieldwork Archive";
 $pageSlug = "fieldwork";
 
-$id = isset($_GET["id"]) ? $_GET["id"] : "";
-$q = isset($_GET["q"]) ? $_GET["q"] : "";
-$l = isset($_GET["l"]) ? $_GET["l"] : "";
-$as = isset($_GET["as"]) ? $_GET["as"] : "";
-$searchScope = isset($_GET["searchScope"]) ? $_GET["searchScope"] : "";
+$id = isset($_GET["id"]) ? Functions::e(["id"]) : "";
+$q = isset($_GET["q"]) ? Functions::e($_GET["q"]) : "";
+$l = isset($_GET["l"]) ? Functions::e($_GET["l"]) : "";
+$as = isset($_GET["as"]) ? Functions::e($_GET["as"]) : "";
+$searchScope = isset($_GET["searchScope"]) ? Functions::e($_GET["searchScope"]) : "";
 
 $javascriptBlock = <<<HTML
 
@@ -437,7 +437,7 @@ HTML;
     </div>
     <a href="#" class="scrollToTop">^ Return To Top ^</a>
     <div class="backToResults clear">
-        <a class="backLink" href="/fieldwork/search?q={$query}" title="Back to results">
+        <a class="backLink" href="/fieldwork/search?q={$q}" title="Back to results">
             <br/>&lt; Back to results</a>
     </div>
     

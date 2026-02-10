@@ -52,9 +52,10 @@ HTML;
 require_once '../includes/include.php';
 require_once '../includes/htmlHeader.php';
 
+$q = Functions::e(["q"]);
 echo <<<HTML
 	<div class="fixedNav">
-		<h4 class="transEx">{$_GET["q"]}</h4>
+		<h4 class="transEx">{$q}</h4>
 		<div class="controlBar">
 			<input id="findPrev" class="findTerm" value="prev" type="button"/>
 			<input id="findNext" class="findTerm" value="next" type="button"/>

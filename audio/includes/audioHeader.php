@@ -47,12 +47,14 @@ HTML;
         
         foreach ($subTabs as $tab => $link) {
             if ($tab == $audioSlug) {
+                $tabEsc = Functions::e($tab);
                 echo <<<HTML
             <div class="archiveMenuSelected">
                 {$tab}
             </div>
 HTML;
             } else {
+                $link = Functions::urlEncode($link);
                 echo <<<HTML
             <div>
                 {$link}
