@@ -5,19 +5,19 @@ ini_set( 'pcre.backtrack_limit', '2M' );
 
 require_once '../includes/include.php';
 
-$search = $_GET["search"];
+$search = Functions::e($_GET["search"]);
 
 $params = explode('|', base64_decode($search));
 
-$fieldworkItem 	= $params[0];
-$headword 		= $params[1];
-$id 			= $params[2];
-$itemId 		= empty($params[3]) ? "" : $params[3];
-$enteredQuery 	= empty($params[4]) ? "" : $params[4];
-$resultId 		= empty($params[5]) ? "" : $params[5];
-$lenited 		= empty($params[6]) ? "" : $params[6];
-$accInsens		= empty($params[7]) ? "" : $params[7];
-$searchScope 	= empty($params[8]) ? "" : $params[8];
+$fieldworkItem 	= Functions::e($params[0]);
+$headword 		= Functions::e($params[1]);
+$id 			= Functions::e($params[2]);
+$itemId 		= empty($params[3]) ? "" : Functions::e($params[3]);
+$enteredQuery 	= empty($params[4]) ? "" : Functions::e($params[4]);
+$resultId 		= empty($params[5]) ? "" : Functions::e($params[5]);
+$lenited 		= empty($params[6]) ? "" : Functions::e($params[6]);
+$accInsens		= empty($params[7]) ? "" : Functions::e($params[7]);
+$searchScope 	= empty($params[8]) ? "" : Functions::e($params[8]);
 
 $query = $enteredQuery;
 $html = FieldworkItems::getHtml($fieldworkItem);

@@ -39,8 +39,8 @@ $siteTitle = array("en"=>"Digital Archive of Scottish Gaelic", "gd"=>"Dachaigh a
 
 //load the classes
 $classes = ['AudioItem', 'AudioItems', 'BlogComment', 'BlogComments', 'BlogEntries', 'BlogEntry',
-	'BlogView', 'DB', 'Email', 'FeedbackForm', 'FieldworkItems', 'FieldworkPerson', 'FieldworkPersons',
-	'Functions', 'GairmRecord', 'GairmRecords', 'Metadata', 'MssSlips', 'Page',
+	'BlogView', 'DB', 'Email', 'FieldworkItems', 'FieldworkPerson', 'FieldworkPersons',
+	'Functions', 'GairmRecord', 'GairmRecords', 'Metadata', 'Page',
 	'Pages', 'User', 'Users',];
 foreach ($classes as $class) {
 	spl_autoload_register(function ($class) {

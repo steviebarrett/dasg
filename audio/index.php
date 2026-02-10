@@ -16,8 +16,8 @@ error_reporting(E_ALL);
 require_once 'includes/audioVars.php';
 require_once 'includes/audioHeader.php';
 
-
-$audioItems = AudioItems::getAudioItemReferences($_GET["archive"]); //get all completed audio items
+$archive = $_GET["archive"] ? Functions::e($_GET["archive"]) : "crc";
+$audioItems = AudioItems::getAudioItemReferences($archive); //get all completed audio items
 
 echo <<<HTML
     <div>   <!-- container -->
@@ -26,9 +26,10 @@ HTML;
 foreach ($audioItems as $ref) {
 	$item = AudioItems::getAudioItem($ref);
 	$isNewHtml = $item->getIsNew() ? '<div class="newAudioItem"new">new</div>' : "";
-	$subtitle = ($_GET["archive"] == "crc") ? $item->getFieldworker() : $item->getContributors();
+
+	$subtitle = ($archive == "crc") ? $item->getFieldworker() : $item->getContributors();
 	echo <<<HTML
-        <a href="/audio/view/s/{$_GET["archive"]}/{$ref}" title="{$item->getTitle()}">
+        <a href="/audio/view/s/{$archive}/{$ref}" title="{$item->getTitle()}">
             <div class="audioCard">
                 {$isNewHtml}
                 <img src="/audio/images/{$ref}.jpg" width="100px" alt="{$item->getTitle()}"/>

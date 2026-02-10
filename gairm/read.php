@@ -4,7 +4,7 @@ declare(strict_types=1);
 require_once '../includes/include.php'; // so Functions is available (adjust if needed)
 
 // Safe GET read
-$subRaw = (string)($_GET['sub'] ?? '');
+$subRaw = (string)(Functions::e($_GET['sub']) ?? '');
 
 // Expecting "vol/NN" (based on your use elsewhere)
 $subParts = array_values(array_filter(explode('/', trim($subRaw, '/')), 'strlen'));

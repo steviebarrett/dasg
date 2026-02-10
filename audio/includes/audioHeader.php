@@ -1,14 +1,7 @@
 <?php
 
-if (!isset($_GET["archive"])) {
-    $_GET["archive"] = "crc";       //default archive
-}
-
-if (isset($_POST["searchTerm"])) {
-    $_GET["searchTerm"] = $_POST["searchTerm"];
-}
-
-$domain = isset($_GET["domain"]) ? $_GET["domain"] : "s";
+$archive = isset($_GET["archive"]) ? Functions::e($_GET["archive"]) : "crc";
+$domain = isset($_GET["domain"]) ? Functions::e($_GET["domain"]) : "s";
 
 //Assemble the archive navigation HTML
 $navElems = "";
@@ -30,9 +23,9 @@ HTML;
 }
 
 $subTabs = array(
-    "About" => '<a href="/audio/about/' . $_GET["archive"] . '/' . $lang . '">About</a>',
-    "Browse" => '<a href="/audio/browse/' . $_GET["archive"] . '">Browse</a>',
-    "Search" => '<a href="/audio/search/' . $domain . '/' . $_GET["archive"] . '/">Search</a>'
+    "About" => '<a href="/audio/about/' . $archive . '/' . $lang . '">About</a>',
+    "Browse" => '<a href="/audio/browse/' . $archive . '">Browse</a>',
+    "Search" => '<a href="/audio/search/' . $domain . '/' . $archive . '/">Search</a>'
 );
 
 echo <<<HTML
@@ -54,7 +47,7 @@ HTML;
             </div>
 HTML;
             } else {
-                $link = Functions::urlEncode($link);
+                //$link = Functions::urlEncode($link);
                 echo <<<HTML
             <div>
                 {$link}

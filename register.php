@@ -9,6 +9,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
 $titleText = array("en"=>"Register", "gd"=>"Cunntas a chruthachadh");
 
+$lang = isset($lang) ? Functions::e($lang) : "en";
+
 $pageTitle = $titleText[$lang];
 $pageSlug = "register";
 
@@ -65,11 +67,12 @@ if (!empty($_POST["submit"])) {
 HTML;
 	$email = new Email($user->getEmail(), "DASG Admin Password Reset", $emailText, "mail@dasg.ac.uk");
 	$email->send();
+    $emailEsc = Functions::e($user->getEmail());
 	
 	echo <<<HTML
 		<h3>Thank you.</h3>
 		
-		<h3>Your user account has been created and an email has been sent to {$user->getEmail()}.</h3> 
+		<h3>Your user account has been created and an email has been sent to {$emailEsc}.</h3> 
 				
 		<h3>Please use the link in this email to set your password.</h3>
 	
@@ -80,15 +83,16 @@ HTML;
 	die();
 }
 
-if (empty($_POST["referer"])) {
-	$referer = $_SERVER["HTTP_REFERER"];
-} else {
-	$referer = $_POST["referer"];
-}
+$referer = (string)($_POST['referer'] ?? $_SERVER['HTTP_REFERER'] ?? '');
+$path = parse_url($referer, PHP_URL_PATH) ?: '/';
+if ($path === '' || $path[0] !== '/') $path = '/';
+$pathEsc = Functions::e($path);
 
 if ($_SESSION["user"]) {
 	$user = Users::getUser($_SESSION["user"]);
-	echo "<p>You are already registered and logged-in as {$user->getFirstname()} {$user->getLastname()}";
+    $firstNameEsc = Functions::e($user->getFirstName());
+    $lastNameEsc = Functions::e($user->getLastName());
+	echo "<p>You are already registered and logged-in as {$firstNameEsc} {$lastNameEsc}";
 	echo <<<HTML
 		<br/><br/><a href="{$referer}">Return to page</a>
 HTML;
@@ -162,32 +166,46 @@ echo <<<HTML
 		</div>
 		
 		<br/>
-		<input type="hidden" name="referer" value="{$referer}"/>
+		<input type="hidden" name="referer" value="{$pathEsc}"/>
 		
 		<input class="dasg_medButton" id="submit" name="submit" type="submit" value="{$submitText[$lang]}"/>
 		
 	</form>
 				
 	<script>
-	$('#register').validate({
-		rules: {
-    		email: {
-      			required: true,
-      			email: true,
-				remote: "https://dasg.ac.uk/ajax/user.php?lang={$lang}&action=checkregistered&email="+$('#email').val()
-    		},
-    		confirmEmail: {
-    			equalTo: "#email"
-    		},
-			username: {
-				required:true,
-				remote: "https://dasg.ac.uk/ajax/user.php?lang={$lang}&action=checkusername&username="+$('#username').val()
-			}
-  		}
-	});
-				
-	</script>
-
+        $('#register').validate({
+          rules: {
+            email: {
+              required: true,
+              email: true,
+              remote: {
+                url: "/ajax/user.php",
+                type: "get",
+                data: {
+                  lang: function() { return "{$lang}"; },
+                  action: function() { return "checkregistered"; },
+                  email: function() { return $('#email').val(); }
+                }
+              }
+            },
+            confirmEmail: {
+              equalTo: "#email"
+            },
+            username: {
+              required: true,
+              remote: {
+                url: "/ajax/user.php",
+                type: "get",
+                data: {
+                  lang: function() { return "{$lang}"; },
+                  action: function() { return "checkusername"; },
+                  username: function() { return $('#username').val(); }
+                }
+              }
+            }
+          }
+        });
+</script>
 HTML;
 
 function isValid()
