@@ -26,6 +26,7 @@ $headword = str_replace("[", "\[", $headword);
 $headword = str_replace("]", "\]", $headword);
 
 if (!empty($headword)) {
+    $headword = preg_quote($headword, '/');
     $html = preg_replace("/({$headword})/iu", '<span class="hi">' . "$1" . '</span>', $html);
 }
 if (!empty($enteredQuery)) {

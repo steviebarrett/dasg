@@ -67,8 +67,9 @@ HTML;
 $transcription = file_get_contents('transcriptions/' . $_GET["ref"] . '.txt');
 
 //colour code the search term
-$_GET["q"] = Functions::getAccentInsensitive($_GET["q"], false);
-$transcription = preg_replace("/{$_GET["q"]}/i", '<span class="highlight">$0</span>', $transcription);
+$q = Functions::getAccentInsensitive($q, false);
+$q = preg_quote($q, '/');
+$transcription = preg_replace("/({$q})/iu", '<span class="highlight">$0</span>', $transcription);
 
 echo nl2br($transcription);
 

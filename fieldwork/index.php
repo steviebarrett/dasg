@@ -393,9 +393,11 @@ if (!empty($enteredQuery)) {
             if ($headword == "") {
                 $headwordHtml = "--blank--";
             } else {
+                $query = preg_quote($query, '/');
                 $headwordHtml = preg_replace("/({$query})/iu", '<span class="hi">' . "$1" . '</span>', $headword);
             }
 
+            $queryRegExp = preg_quote($queryRegExp, '/');
             $description = $_GET["searchScope"] == "headOnly" ? "" : $description = preg_replace("/({$queryRegExp})/iu", '<span class="hi">' . "$1" . '</span>', $result["description"]);
             $resultId = "result{$i}";
             $filename = str_replace(".xml", "", $result["filename"]);
