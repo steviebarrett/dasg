@@ -325,17 +325,18 @@ if (!empty($enteredQuery)) {
         $itemNodes = $xml->xpath($itemQ);
         $hitNodes = array();
         foreach ($itemNodes as $node) {
-            
+            $queryRegExp = preg_quote($queryRegExp, '/');
+
             if ($_GET["searchScope"] == "headOnly") {
-                if (preg_match("/{$queryRegExp}/iu", (string)$node->headword)) {
+                if (preg_match("/({$queryRegExp})/iu", (string)$node->headword)) {
                     $hitNodes[] = $node;
                 }
             } else if ($_GET["searchScope"] == "defOnly") {
-                if (preg_match("/{$queryRegExp}/iu", (string)$node->description)) {
+                if (preg_match("/({$queryRegExp})/iu", (string)$node->description)) {
                     $hitNodes[] = $node;
                 }
             } else {
-                if (preg_match("/{$queryRegExp}/iu", (string)$node->description) || preg_match("/{$queryRegExp}/iu", (string)$node->headword)) {
+                if (preg_match("/({$queryRegExp})/iu", (string)$node->description) || preg_match("/({$queryRegExp})/iu", (string)$node->headword)) {
                     $hitNodes[] = $node;
                 }
             }

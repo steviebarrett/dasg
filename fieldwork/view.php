@@ -46,6 +46,7 @@ if (!empty($enteredQuery)) {
     $query = str_replace("h=", "h?", $query);
     
     //only add highlighting to text not in a tag (fix for illustration paths)
+    $query = preg_quote($query, '/');
     $html = preg_replace("/(<.+?>[^<>]*?)({$query})([^<>]*?<.+?>)/iu", "$1" . '<span class="hi">' . "$2" . '</span>' . "$3", $html);
     //	$html = preg_replace("/({$query})/iu", '<span class="hi">' . "$1" . '</span>', $html);
     
