@@ -28,65 +28,82 @@ function getAccentInsens($string)
 
 switch ($_REQUEST["action"]) {
     case "search":
-        $searchFields = $_GET["f"];
-        $ignoreTags = $_GET["ignoreTags"];
-        //ignore tags
-        if ($ignoreTags === 'true') {
-            foreach ($searchFields as $k => $f) {
-                $searchFields[$k] = "REGEXP_REPLACE({$f}, '<[^>]+>', '') ";
+        // 1) allowlist the searchable columns
+        $allowedFields = [
+            'diplomatic'  => 'l.diplomatic',
+            'vernacular'  => 'l.vernacular',
+            'classical'   => 'l.classical',
+            'translation' => 'l.translation',
+            'notes'       => 'l.notes'
+        ];
+
+        // 2) normalise/validate inputs
+        $searchFieldsIn = $_GET['f'] ?? [];
+        if (!is_array($searchFieldsIn) || !$searchFieldsIn) {
+            http_response_code(400);
+            echo json_encode(['error' => 'No fields selected']);
+            exit;
+        }
+
+        $ignoreTags = (($_GET['ignoreTags'] ?? '') === 'true');
+        $singleWord = (($_GET['sw'] ?? '') === 'true');
+        $accentSensitive = (($_GET['as'] ?? '') === 'true');
+
+        // 3) map requested fields to safe SQL identifiers
+        $searchExprs = [];
+        foreach ($searchFieldsIn as $f) {
+            if (!is_string($f) || !isset($allowedFields[$f])) {
+                continue; // ignore unknown fields (or hard-fail if you prefer)
+            }
+            $col = $allowedFields[$f]; // safe: comes from allowlist
+            if ($ignoreTags) {
+                // MySQL 8+: REGEXP_REPLACE. Column name is allowlisted, so safe.
+                $searchExprs[] = "REGEXP_REPLACE($col, '<[^>]+>', '')";
+            } else {
+                $searchExprs[] = $col;
             }
         }
 
-        $q = $_GET["q"];
-        //replace the 'any character' dot with an alpha to handle diacritics etc
+        if (!$searchExprs) {
+            http_response_code(400);
+            echo json_encode(['error' => 'Invalid fields']);
+            exit;
+        }
+
+        // 4) build the REGEXP where clause safely
+        $whereClause = '(' . implode(' REGEXP :q OR ', $searchExprs) . ' REGEXP :q)';
+
+        $q = $_GET['q'] ?? '';
+        if (!is_string($q)) $q = '';
+        // optional: cap length to avoid abuse / heavy REGEXP costs
+        if (mb_strlen($q, 'UTF-8') > 200) {
+            http_response_code(400);
+            echo json_encode(['error' => 'Query too long']);
+            exit;
+        }
+
         $q = str_replace(".", "[[:alpha:]]", $q);
 
-        //accent insensitive search
-        if ($_GET["as"] != 'true') {
-            $q = getAccentInsens($_GET["q"]);
+        if (!$accentSensitive) {
+            $q = getAccentInsens($q);
         }
 
-        //check for single word search
-        $prebound = $_GET["sw"] == 'true' ? "(^|[^[:alpha:]])" : "";
-        $postbound = $_GET["sw"] == 'true' ? "([^[:alpha:]]|$)" : "";
+        $prebound  = $singleWord ? "(^|[^[:alpha:]])" : "";
+        $postbound = $singleWord ? "([^[:alpha:]]|$)" : "";
 
-        $fieldQuery = implode(" REGEXP :q OR ", $searchFields);
-        $whereClause = $fieldQuery . " REGEXP :q ";
+        $sql = "SELECT l.id AS id, page_id, l.number AS number, p.number AS pageNum, text_id,
+                   diplomatic, vernacular, classical, translation, notes
+            FROM bdl_line l
+            JOIN bdl_page p ON l.page_id = p.id
+            WHERE {$whereClause}";
 
-        $sql = "SELECT l.id AS id, page_id, l.number AS number, p.number AS pageNum, text_id, 
-                    diplomatic,
-                    vernacular, 
-                    classical, 
-                    translation, 
-                    notes
-                FROM bdl_line l JOIN bdl_page p ON l.page_id = p.id 
-                WHERE {$whereClause}";
         $sth = $dbh->prepare($sql);
+        $sth->execute([":q" => "{$prebound}{$q}{$postbound}"]);
 
-        $sth->execute(array(":q" => "{$prebound}{$q}{$postbound}"));
         $text = $sth->fetchAll(PDO::FETCH_ASSOC);
         $output = [];
-
         foreach ($text as $line) {
-            $output[] = removeTags($line, array("strike"));
-        }
-        echo json_encode($output);
-        break;
-    case "searchText":
-        $sql = "SELECT id, 
-                    author,
-                    firstline_c 
-                FROM bdl_text l 
-                WHERE author LIKE :qt OR firstline_c LIKE :qt OR notes LIKE :qt OR edition LIKE :qt OR notes LIKE :qt 
-                    OR firstline_t LIKE :qt OR firstline_d LIKE :qt OR firstline_v LIKE :qt";
-        $sth = $dbh->prepare($sql);
-
-        $sth->execute(array(":qt" => "%{$_GET["qt"]}%"));
-        $texts = $sth->fetchAll(PDO::FETCH_ASSOC);
-        $output = [];
-
-        foreach ($texts as $text) {
-            $output[] = removeTags($text, array("strike"));
+            $output[] = removeTags($line, ["strike"]);
         }
         echo json_encode($output);
         break;
@@ -108,14 +125,14 @@ $sql = <<<SQL
 
             SELECT * FROM bdl_page 
                 {$whereClause} 
-                    ORDER BY 
-      LENGTH(REGEXP_SUBSTR(number, '^[0-9]+')),  -- Length of the numeric part
-      CAST(REGEXP_SUBSTR(number, '^[0-9]+') AS UNSIGNED),  -- Order by numeric part
-      SUBSTRING(number FROM LENGTH(REGEXP_SUBSTR(number, '^[0-9]+')) + 1), 
-      LENGTH(REGEXP_SUBSTR(text_id, '^[0-9]+')),  -- Length of the numeric part
-      CAST(REGEXP_SUBSTR(text_id, '^[0-9]+') AS UNSIGNED),  -- Order by numeric part
-      SUBSTRING(text_id FROM LENGTH(REGEXP_SUBSTR(text_id, '^[0-9]+')) + 1),
-       CAST(text_id AS unsigned);  -- Order by non-numeric part
+                ORDER BY 
+                  LENGTH(REGEXP_SUBSTR(number, '^[0-9]+')),  -- Length of the numeric part
+                  CAST(REGEXP_SUBSTR(number, '^[0-9]+') AS UNSIGNED),  -- Order by numeric part
+                  SUBSTRING(number FROM LENGTH(REGEXP_SUBSTR(number, '^[0-9]+')) + 1), 
+                  LENGTH(REGEXP_SUBSTR(text_id, '^[0-9]+')),  -- Length of the numeric part
+                  CAST(REGEXP_SUBSTR(text_id, '^[0-9]+') AS UNSIGNED),  -- Order by numeric part
+                  SUBSTRING(text_id FROM LENGTH(REGEXP_SUBSTR(text_id, '^[0-9]+')) + 1),
+                   CAST(text_id AS unsigned);  -- Order by non-numeric part
 
 SQL;
         $sth = $dbh->prepare($sql);
