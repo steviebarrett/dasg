@@ -22,7 +22,7 @@ final class record extends ControllerBase
         switch ($action) {
 
             case "view":
-                $origin = (string)($_GET["o"] ?? '');
+                $origin = htmlentities(($_GET["o"] ?? ''));
                 $view = new RecordView($this->_model, $origin);
                 $view->show();
                 break;

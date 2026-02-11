@@ -385,7 +385,14 @@ HTML;
             }
 
             for ($i = 0; $i < 6; $i++) {
-                $paramsArr[$i] = (string)($_GET["params"][$i] ?? '0');
+                $v = $_GET['params'][$i] ?? '0';
+
+                // if duplicates happened, take the last value
+                if (is_array($v)) {
+                    $v = end($v);
+                }
+
+                $paramsArr[$i] = ($v === '1' || $v === 1 || $v === true) ? '1' : '0';
             }
 
             $searchStrings = addslashes(implode('|', $searchStringsArr));
@@ -434,7 +441,10 @@ HTML;
                 const ajaxAction    = {$jsAjaxAction};
 
                 let searchTerms = (searchStrings || '').split('|');
-
+                
+                const paramsBits = (paramsStr || '').split('|');
+                const regexMode = (paramsBits[3] === '1');
+                
                 params.data['searchStrings'] = searchStrings;
                 params.data['searchFields']  = searchFields;
                 params.data['booleans']      = booleans;
@@ -448,17 +458,24 @@ HTML;
                         return;
                       }
                       $.each(res.rows, function (i, v) {
-                        let ai = v["ai"];
-                        let link = '<a href="#" class="recordLink" data-toggle="modal" data-target="#recordModal" data-id="'+ai+'">'+ai+'</a>';
-
+                        let ai = (v && v["ai"] != null) ? String(v["ai"]) : '';
+                        let aiText = escHtml(ai);
+                        let aiAttr = escAttr(ai);
+                        
+                        let link =
+                          '<a href="#" class="recordLink" data-toggle="modal" data-target="#recordModal" data-id="' + aiAttr + '">' +
+                            aiText +
+                          '</a>';
+                        
                         if (v['text'] != null) {
-                          link += '&nbsp;<a title="transcription" target="_blank" href="transcription.php?ai='+ai+'"><i class="fa-solid fa-file"></i></a>';
+                          link += '&nbsp;<a title="transcription" target="_blank" rel="noopener noreferrer" href="transcription.php?ai=' + encodeURIComponent(ai) + '"><i class="fa-solid fa-file"></i></a>';
                         }
-
-                        if (v['original_format'] == 'Sound Recording' && v['online_access'] && v['online_access'].substring(0, 4) == 'http') {
-                          link += '&nbsp;&nbsp;<a title="sound recording" target="_blank" href="'+v['online_access']+'"><i class="fa-solid fa-headphones"></i></a>';
+                        
+                        const oa = (v && v['online_access'] != null) ? String(v['online_access']) : '';
+                        if (v['original_format'] === 'Sound Recording' && /^https?:\/\//i.test(oa)) {
+                          link += '&nbsp;&nbsp;<a title="sound recording" target="_blank" rel="noopener noreferrer" href="' + escAttr(oa) + '"><i class="fa-solid fa-headphones"></i></a>';
                         }
-
+                        
                         res.rows[i]["ai"] = link;
 
                         if (searchTerms[0] != '') {
@@ -466,21 +483,18 @@ HTML;
                             if (j == 'ai' || j == 'text') {
                               return;
                             }
+                            
+                            const rawCell = (res.rows[i][j] == null) ? '' : String(res.rows[i][j]);
+                            let safeCell = escHtml(rawCell);
+                            
                             $.each(searchTerms, function(k, searchTerm) {
-                              if (searchTerm == null) { return; }
-
-                              searchTerm = searchTerm.replace('[[:<:]]', String.raw`\\b`);
-                              searchTerm = searchTerm.replace('[[:>:]]', String.raw`\\b`);
-                              searchTerm = searchTerm.replace('[[:alpha:]]', '[a-z]');
-                              searchTerm = searchTerm.replace('[[:digit:]]', '[0-9]');
-                              searchTerm = searchTerm.replace('[[:space:]]', String.raw`\\s`);
-
-                              const re = new RegExp(searchTerm, 'giu');
-                              if (res.rows[i][j]) {
-                                res.rows[i][j] = res.rows[i][j].replace(re, '<span class="highlight">$&</span>');
-                              }
+                              const re = buildSearchRegex(searchTerm, regexMode);
+                              if (!re) return;
+                              safeCell = safeCell.replace(re, '<span class="highlight">$&</span>');
                             });
-                          });
+                            
+                            res.rows[i][j] = safeCell;
+                         });
                         }
                       });
                       params.success(res)
@@ -531,19 +545,18 @@ HTML;
         echo <<<HTML
             <script>
                 window.customSearchFormatter = function(value, searchText) {
-                  if (value.toString().substring(0, 1) == '<') {return value.toString();}
-                  return value.toString().replace(new RegExp('(' + searchText + ')', 'gim'), '<span class="highlight">$1</span>')
+                const raw = (value === null || value === undefined) ? '' : String(value);
+            
+                // Always treat incoming value as text
+                let safe = escHtml(raw);
+            
+                if (searchText) {
+                    const re = new RegExp('(' + escapeRegExp(String(searchText)) + ')', 'giu');
+                    safe = safe.replace(re, '<span class="highlight">$1</span>');
                 }
-
-                function escHtml(s){
-                  return String(s).replace(/[&<>"']/g, function(m){
-                    return ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]);
-                  });
-                }
-
-                function escAttr(s){
-                  return escHtml(s).replace(/`/g, '&#96;');
-                }
+            
+                return safe;
+            };
 
                 $(function () {
                   var myModal = new bootstrap.Modal(document.getElementById('recordModal'));
