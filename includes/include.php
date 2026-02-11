@@ -17,24 +17,6 @@ $expire = time() + 60 * 60 * 24 * 31;
 // initialize some variables
 $includeIrish = $languageLinksHtml = $devHighlightCss = "";
 
-$lang = empty($_COOKIE["lang"]) ? "" : $_COOKIE["lang"];
-if (!empty($_GET["lang"])) {
-	if ($_GET["lang"] == "en") {
-		setcookie("lang", "en", $expire, "/");
-		$lang = "en";
-	}
-	else {
-		setcookie("lang", "gd", $expire, "/");
-		$lang = "gd";
-	}
-} else {
-	if (empty($_COOKIE["lang"])) {
-		setcookie("lang", "gd", $expire, "/");
-		$lang = "gd";
-	}
-}
-
-
 $siteTitle = array("en"=>"Digital Archive of Scottish Gaelic", "gd"=>"Dachaigh airson Stòras na Gàidhlig");
 
 //load the classes
@@ -48,6 +30,23 @@ foreach ($classes as $class) {
 	});
 }
 
+$lang = empty($_COOKIE["lang"]) ? "" : Functions::e(["lang"]);
+$getLang = isset($_GET["lang"]) ? Functions::e($_GET["lang"]) : "";
+if (!empty($_GET["lang"])) {
+    if ($getLang == "en") {
+        setcookie("lang", "en", $expire, "/");
+        $lang = "en";
+    }
+    else {
+        setcookie("lang", "gd", $expire, "/");
+        $lang = "gd";
+    }
+} else {
+    if (empty($lang)) {
+        setcookie("lang", "gd", $expire, "/");
+        $lang = "gd";
+    }
+}
 
 //CONSTANTS
 require_once 'passwords.php';

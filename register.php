@@ -20,6 +20,12 @@ HTML;
 
 require_once 'includes/htmlHeader.php';
 
+$referer = (string)($_POST['referer'] ?? $_SERVER['HTTP_REFERER'] ?? '');
+$path = parse_url($referer, PHP_URL_PATH) ?: '/';
+if ($path === '' || $path[0] !== '/') $path = '/';
+$pathEsc = Functions::e($path);
+
+
 if ($_POST["submit"]) {
 	if (!isValid()) {
 		$errorMsg["en"] = "<h3>There was a problem. Please try again</h3><p><em><strong>Please make sure you use the Captcha to prove you are human</strong></em></p>";
@@ -76,17 +82,13 @@ HTML;
 				
 		<h3>Please use the link in this email to set your password.</h3>
 	
-		<p><a href="/blog">Return to page</a></p>
+		<p><a href="{$pathEsc}">Return to page</a></p>
 HTML;
 	
 	require_once 'includes/htmlFooter.php';
 	die();
 }
 
-$referer = (string)($_POST['referer'] ?? $_SERVER['HTTP_REFERER'] ?? '');
-$path = parse_url($referer, PHP_URL_PATH) ?: '/';
-if ($path === '' || $path[0] !== '/') $path = '/';
-$pathEsc = Functions::e($path);
 
 if ($_SESSION["user"]) {
 	$user = Users::getUser($_SESSION["user"]);
@@ -94,7 +96,7 @@ if ($_SESSION["user"]) {
     $lastNameEsc = Functions::e($user->getLastName());
 	echo "<p>You are already registered and logged-in as {$firstNameEsc} {$lastNameEsc}";
 	echo <<<HTML
-		<br/><br/><a href="{$referer}">Return to page</a>
+		<br/><br/><a href="{$pathEsc}">Return to page</a>
 HTML;
 	require_once 'includes/htmlFooter.php';
 	die();
