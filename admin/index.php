@@ -383,10 +383,7 @@ HTML;
 				</select>
 				<input type="submit" value="Go"/>
 			</form>
-			<br/>
-			<a href="slips.php" title="Slips Admin">Slips Admin</a>
-			<br/><br/>
-			<a href="gairm.php" title="Gairm Admin">Gairm Admin</a>
+			
 HTML;
 					
                         }
