@@ -13,14 +13,14 @@ HTML;
 require_once '../includes/include.php';
 require_once '../includes/htmlHeader.php';
 
-$ref 	= $_GET["ref"];
-$archive= $_GET["archive"];
+$ref 	= htmlentities($_GET["ref"]);
+$archive= htmlentities($_GET["archive"]);
 $item 	= AudioItems::getAudioItem($ref);
 if (empty($item)) {
     Functions::writeError("Sorry, the requested resource could not be found");
 }
 $mediaFormat = ($item->getIsVideo()) ? "mp4" : "mp3";
-$domain = $_GET["domain"];
+$domain = htmlentities($_GET["domain"]);
 
 /* Metadata and colour coding of results */
 $metadata = array("location" => $item->getLocation(), "fieldworker" => $item->getFieldworker(), "contributors" => $item->getContributors(),
@@ -29,6 +29,7 @@ $metadata = array("location" => $item->getLocation(), "fieldworker" => $item->ge
 
 //make search term accent insensitive
 $searchterm = isset($_GET["searchTerm"]) ? Functions::getAccentInsensitive($_GET["searchTerm"], false) : "";
+$searchterm = htmlentities($searchterm);
 
 
 foreach ($metadata as $key => $value) {

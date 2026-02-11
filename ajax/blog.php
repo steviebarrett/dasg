@@ -30,7 +30,7 @@ switch ($action) {
 
     case "getMonthEntries":
         // Read-only: GET is fine
-        $lang = (string)($_GET['lang'] ?? 'en');
+        $lang = isset($_GET['lang']) ? htmlentities($_GET["lang"]) : 'en';
         $lang = in_array($lang, ['en', 'gd'], true) ? $lang : 'en';
 
         $idsRaw = (string)($_GET['ids'] ?? '');

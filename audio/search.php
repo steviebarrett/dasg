@@ -96,18 +96,22 @@ require_once '../includes/include.php';
 require_once '../includes/htmlHeader.php';
 require_once 'includes/audioVars.php';
 $showFilters = true;
+$showSearchFilters = true;
 require_once 'includes/audioHeader.php';
 $searchDomain = "metadata";
 require_once 'includes/searchForm.php';
+
+$searchTerm = isset($_GET["searchTerm"]) ? htmlentities($_GET["searchTerm"]) : "";
+$archive = htmlentities($_GET["archive"]);
 
 $tableHtml = "";
 
 $_GET["completed"] = 1;     //force completed for the moment, to only show these items
 
-$audioItems = AudioItems::getAudioItemReferences($_GET["archive"], $_GET["searchTerm"], $_GET["completed"]);
+$audioItems = AudioItems::getAudioItemReferences($_GET["archive"], $searchTerm, $_GET["completed"]);
 
 if (empty($audioItems)) {
-    $tableHtml .= '<tr><td colspan="6">There were no results for ' . $_GET["searchTerm"] . '</td></tr>';
+    $tableHtml .= '<tr><td colspan="6">There were no results for ' . $searchTerm. '</td></tr>';
 } else {
     foreach ($audioItems as $ref) {
         $item = AudioItems::getAudioItem($ref);
@@ -122,8 +126,8 @@ if (empty($audioItems)) {
         $keywordHtml = implode(" ", $keywordsCol);
         $tableHtml .= <<<HTML
 				<tr {$rowClasses}>
-					<td><a href="/audio/view/s/{$_GET["archive"]}/{$_GET["searchTerm"]}/{$ref}" title="{$item->getTitle()}">{$item->getTitle()}</td>
-					<td><a href="/audio/search/s/{$_GET["archive"]}/{$item->getFieldworker()}">{$item->getFieldworker()}</a></td>
+					<td><a href="/audio/view/s/{$archive}/{$searchTerm}/{$ref}" title="{$item->getTitle()}">{$item->getTitle()}</td>
+					<td><a href="/audio/search/s/{$archive}/{$item->getFieldworker()}">{$item->getFieldworker()}</a></td>
                     <td>{$item->getContributors()}</td>
 					<td>{$item->getYear()}</td>
 					<td>{$item->getLocation()}</td>
