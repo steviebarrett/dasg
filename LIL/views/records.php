@@ -530,8 +530,8 @@ HTML;
 
         $searchString = implode(', ', (array)($_GET["s"] ?? []));
 
-        $searchStringEsc = models\functions::e((string)$searchString);
-        $searchFieldsEsc = models\functions::e((string)$searchFieldsHtml);
+        $searchStringEsc = htmlentities($searchString);
+        $searchFieldsEsc = htmlentities($searchFieldsHtml);
 
         $html = <<<HTML
             <div id="resultsHeader">
