@@ -54,7 +54,7 @@ if (!empty($_POST["submit"])) {
 	
 	Users::saveUser($user);
 
-    $url = "https://" . $_SERVER["HTTP_HOST"] . "/forgotPassword.php?action=reset&email=" . rawurlencode($user->getEmail()) . "&token=" . rawurlencode($token);
+    $url = "https://" . htmlentities($_SERVER["HTTP_HOST"]) . "/forgotPassword.php?action=reset&email=" . rawurlencode($user->getEmail()) . "&token=" . rawurlencode($token);
 	
 	//email the user
     $firstNameEsc = Functions::e($user->getFirstName());
