@@ -8,13 +8,6 @@ $cqpPage = true;
 $javascriptBlock = <<<HTML
 	<script src="/jwplayer-7.12.8/jwplayer.js"></script>
 	<script>jwplayer.key="lteoxtWdKAG/o2x8u8IxYTsucgnBzYdbiM/3lQ==";</script>
-    <script>
-        function fbshareCurrentPage() {
-            window.open("https://www.facebook.com/sharer/sharer.php?u="+escape(window.location.href)+"&t="+document.title, '',
-                'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');
-            return false;
-        }
-</script>
 HTML;
 
 require_once '../includes/include.php';
@@ -35,7 +28,8 @@ $metadata = array("location" => $item->getLocation(), "fieldworker" => $item->ge
 );
 
 //make search term accent insensitive
-$searchterm = Functions::getAccentInsensitive($_GET["searchTerm"], false);
+$searchterm = isset($_GET["searchTerm"]) ? Functions::getAccentInsensitive($_GET["searchTerm"], false) : "";
+
 
 foreach ($metadata as $key => $value) {
     if ($searchterm && preg_match("/{$searchterm}/i", $value, $matches)) {
@@ -94,7 +88,7 @@ HTML;
 HTML;
 }
 
-$searchString = urlencode($_GET["searchTerm"]);
+$searchString = isset($searchterm) ? Functions::e($searchterm) : "";
 $backLink = "/audio/browse/{$archive}"; //default to browse (index.php)
 $uri = $_SERVER["REQUEST_URI"];
 if (!empty($_GET["searchTerm"]) || substr($uri, (strlen($uri)-1), 1) == "/") {   //if there's a trailing slash then the referrer was search.php
@@ -173,10 +167,7 @@ echo <<<HTML
     </div>
     
 	<div class="socialMedia audioSocial">
-	
-		<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-        
+	        
 		<br/>
         <a id="fbshare" href="javascript:fbshareCurrentPage()" target="_blank" alt="Share on Facebook">Facebook</a>
         
@@ -277,4 +268,4 @@ echo <<<HTML
 </script>
 HTML;
                     		
-                    		require_once '../includes/htmlFooter.php';
+require_once '../includes/htmlFooter.php';

@@ -9,8 +9,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
 $page = Pages::getPage($_GET["slug"]);
 
-$pageSlug = $page->getSlug();
-$pageTitle = $page->getTitle($lang);
+$pageSlug = Functions::e($page->getSlug());
+$pageTitle = Functions::e($page->getTitle($lang));
 $pageContent = $page->getContent($lang);
 
 

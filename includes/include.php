@@ -30,23 +30,25 @@ foreach ($classes as $class) {
 	});
 }
 
-$lang = empty($_COOKIE["lang"]) ? "" : Functions::e(["lang"]);
-$getLang = isset($_GET["lang"]) ? Functions::e($_GET["lang"]) : "";
-if (!empty($_GET["lang"])) {
-    if ($getLang == "en") {
-        setcookie("lang", "en", $expire, "/");
-        $lang = "en";
-    }
-    else {
-        setcookie("lang", "gd", $expire, "/");
-        $lang = "gd";
-    }
-} else {
-    if (empty($lang)) {
-        setcookie("lang", "gd", $expire, "/");
-        $lang = "gd";
-    }
+$allowedLangs = ['gd', 'en', 'ga'];   // add 'ga' only if you genuinely support it everywhere
+$lang = $_COOKIE['lang'] ?? '';
+
+$getLang = $_GET['lang'] ?? '';
+if (is_string($getLang) && $getLang !== '') {
+    $lang = $getLang;
 }
+
+if (!in_array($lang, $allowedLangs, true)) {
+    $lang = 'gd';
+}
+
+setcookie('lang', $lang, [
+    'expires'  => $expire,
+    'path'     => '/',
+    'secure'   => !empty($_SERVER['HTTPS']),
+    'httponly' => true,
+    'samesite' => 'Lax',
+]);
 
 //CONSTANTS
 require_once 'passwords.php';

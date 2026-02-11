@@ -165,7 +165,7 @@ HTML;
     {
         $word = (string)$word;
         if (!self::canBeLenited($word)) return $word;
-        return substr_replace($word, "h=", 1, 0);
+        return self::e(substr_replace($word, "h=", 1, 0));
     }
 
     public static function getAccentInsensitive($text, $caseSens = true)
@@ -186,7 +186,7 @@ HTML;
             }
             if (!$replaced) $regExp .= preg_quote($char, '/');
         }
-        return $regExp;
+        return self::e($regExp);
     }
 
     public static function str_split_unicode($str, $l = 0)

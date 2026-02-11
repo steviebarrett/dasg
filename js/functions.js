@@ -23,6 +23,21 @@ $(document).ready(function() {
 	
 });
 
+document.addEventListener('DOMContentLoaded', function () {
+
+	document.querySelectorAll('.accent-char').forEach(function (el) {
+
+		el.addEventListener('click', function (e) {
+			e.preventDefault();
+
+			const char = this.dataset.char;
+			addCharacterToSearch(char, 'query');
+		});
+
+	});
+
+});
+
 function setSearchParams(searchField, regexFlag) 
 {
 	updateLenition(searchField, regexFlag);
@@ -195,3 +210,4 @@ function urldecode(str)
 {
 	return decodeURIComponent((str+'').replace(/\+/g, '%20'));
 }
+
