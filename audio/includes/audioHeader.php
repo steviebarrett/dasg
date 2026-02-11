@@ -9,7 +9,7 @@ foreach ($archives as $abbr => $name) {
     if (in_array($abbr, $hideArchives)) {   //hide links to any non-public archive(s)
         continue;
     }
-    if ($abbr == $_GET["archive"]) {
+    if ($abbr == $archive) {
         $navElems .= <<<HTML
             <div class="audioArchiveLink archiveMenuSelected">{$name}</div>
 HTML;

@@ -16,7 +16,7 @@ error_reporting(E_ALL);
 require_once 'includes/audioVars.php';
 require_once 'includes/audioHeader.php';
 
-$archive = $_GET["archive"] ? Functions::e($_GET["archive"]) : "crc";
+$archive = isset($_GET["archive"]) ? Functions::e($_GET["archive"]) : "crc";
 $audioItems = AudioItems::getAudioItemReferences($archive); //get all completed audio items
 
 echo <<<HTML

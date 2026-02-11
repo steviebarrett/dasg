@@ -76,7 +76,7 @@ HTML;
 				
 		<h3>Please use the link in this email to set your password.</h3>
 	
-		<p><a href="{$_POST["referer"]}">Return to page</a></p>
+		<p><a href="/blog">Return to page</a></p>
 HTML;
 	
 	require_once 'includes/htmlFooter.php';
