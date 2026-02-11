@@ -5,7 +5,7 @@ require_once '../includes/include.php';
 switch ($_GET["action"]) {
 	
 	case "getBiog":
-		$id = $_GET["id"];
+		$id = (int)htmlentities($_GET["id"]);
 		$person = FieldworkPersons::getPerson($id);
 		echo $person->getBiog();
 		break;

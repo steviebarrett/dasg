@@ -1,5 +1,4 @@
 <?php
-session_start();
 
 require_once '../includes/include.php';
 
@@ -38,16 +37,16 @@ switch ($action) {
         $ids = $idsRaw === '' ? [] : explode('|', $idsRaw);
 
         foreach ($ids as $id) {
-            $id = (int)$id;
+            $id = (int)htmlentities($id);
             if ($id <= 0) continue;
 
             $blogEntry = BlogEntries::getBlogEntry($id);
             if (!$blogEntry) continue;
 
             // Escape anything that can contain user/DB content
-            $blogTitle = Functions::e($blogEntry->getTitle());
-            $blogFirstLine = Functions::e($blogEntry->getFirstLine($lang));
-            $blogDate = Functions::e($blogEntry->getDate($lang));
+            $blogTitle = htmlentities($blogEntry->getTitle());
+            $blogFirstLine = htmlentities($blogEntry->getFirstLine($lang));
+            $blogDate = htmlentities($blogEntry->getDate($lang));
 
             echo <<<HTML
                 <div class="blogRecentPost">

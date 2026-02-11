@@ -35,7 +35,7 @@ foreach ($filenames as $filename) {
 HTML;
 }
 
-$ref = empty($_GET["ref"]) ? $filenames[0] : $_GET["ref"];
+$ref = empty($_GET["ref"]) ? $filenames[0] : htmlentities($_GET["ref"]);
 
 echo <<<HTML
     <div>   <!-- container -->
