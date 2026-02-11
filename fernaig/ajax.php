@@ -33,44 +33,79 @@ switch ($_REQUEST["action"]) {
         echo json_encode(array("id" => $id, "number" => $_REQUEST["number"]));
         break;
     case "search":
-        $searchFields = $_GET["f"];
-        $ignoreTags = $_GET["ignoreTags"];
-        //ignore tags
-        if ($ignoreTags === 'true') {
-            foreach ($searchFields as $k => $f) {
-                $searchFields[$k] = "REGEXP_REPLACE({$f}, '<[^>]+>', '') ";
+        // 1) allowlist searchable fields (keys are what the UI sends; values are safe SQL identifiers)
+        $allowedFields = [
+            'diplomatic'    => 'l.diplomatic',
+            'vernacular'    => 'l.vernacular',
+            'classical'     => 'l.classical',
+            'translation'   => 'l.translation',
+            'notes'         => 'l.notes',
+            'team_comments' => 'l.team_comments',
+        ];
+
+        // 2) normalise/validate inputs
+        $searchFieldsIn = $_GET['f'] ?? [];
+        if (!is_array($searchFieldsIn) || !$searchFieldsIn) {
+            http_response_code(400);
+            echo json_encode(['error' => 'No fields selected']);
+            exit;
+        }
+
+        $ignoreTags       = (($_GET['ignoreTags'] ?? '') === 'true');
+        $singleWord       = (($_GET['sw'] ?? '') === 'true');
+        $accentSensitive  = (($_GET['as'] ?? '') === 'true');
+
+        // 3) build safe expressions
+        $searchExprs = [];
+        foreach ($searchFieldsIn as $f) {
+            if (!is_string($f) || !isset($allowedFields[$f])) {
+                // hard-fail is usually better than silently ignoring:
+                http_response_code(400);
+                echo json_encode(['error' => 'Invalid field']);
+                exit;
             }
+
+            $col = $allowedFields[$f]; // safe
+            $searchExprs[] = $ignoreTags
+                ? "REGEXP_REPLACE($col, '<[^>]+>', '')"
+                : $col;
         }
 
-        $q = $_GET["q"];
-        //accent insensitive search
-        if ($_GET["as"] != 'true') {
-            $q = getAccentInsens($_GET["q"]);
+        // 4) query value
+        $q = $_GET['q'] ?? '';
+        if (!is_string($q)) $q = '';
+        if (mb_strlen($q, 'UTF-8') > 200) {
+            http_response_code(400);
+            echo json_encode(['error' => 'Query too long']);
+            exit;
         }
 
-        //check for single word search
-        $bound = $_GET["sw"] == 'true' ? "\b" : "";
+        if (!$accentSensitive) {
+            $q = getAccentInsens($q);
+        }
 
-        $fieldQuery = implode(" REGEXP :q OR ", $searchFields);
-        $whereClause = $fieldQuery . " REGEXP :q ";
+        $prebound  = $singleWord ? "(^|[^[:alpha:]])" : "";
+        $postbound = $singleWord ? "([^[:alpha:]]|$)" : "";
 
-        $sql = "SELECT l.id AS id, page_id, l.number AS number, p.number AS pageNum, text_id, 
-                    diplomatic,
-                    vernacular, 
-                    classical, 
-                    translation, 
-                    notes
-                FROM fernaig_line l JOIN fernaig_page p ON l.page_id = p.id 
-                WHERE {$whereClause}";
+        // 5) build WHERE with safe field expressions
+        $whereClause = '(' . implode(' REGEXP :q OR ', $searchExprs) . ' REGEXP :q)';
+
+        $sql = "SELECT l.id AS id, page_id, l.number AS number, p.number AS pageNum, text_id,
+                   diplomatic, vernacular, classical, translation, notes
+            FROM fernaig_line l
+            JOIN fernaig_page p ON l.page_id = p.id
+            WHERE {$whereClause}";
+
         $sth = $dbh->prepare($sql);
+        $sth->execute([":q" => "{$prebound}{$q}{$postbound}"]);
 
-        $sth->execute(array(":q" => "{$bound}{$q}{$bound}"));
         $text = $sth->fetchAll(PDO::FETCH_ASSOC);
-        $output = [];
 
+        $output = [];
         foreach ($text as $line) {
-            $output[] = removeTags($line, array("strike"));
+            $output[] = removeTags($line, ["strike"]);
         }
+
         echo json_encode($output);
         break;
     case "searchText":
