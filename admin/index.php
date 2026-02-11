@@ -15,6 +15,11 @@ $javascriptBlock = <<<HTML
 	</script>
 HTML;
 
+$reference_number = "";
+if (isset($_GET["reference_number"])) {
+    $reference_number = htmlentities(["reference_number"]);
+}
+
 require_once '../includes/htmlHeader.php';
 
 if (Functions::showLoginForm() == true) {
@@ -32,13 +37,13 @@ if (Functions::showLoginForm() == true) {
         unset($_POST);
     }
     
-    if ($_POST["reference_number"]) {
+    if ($reference_number) {
         
-        if ($_POST["reference_number"] == -1) {
-            $_POST["reference_number"] = "";
+        if ($reference_number == -1) {
+            $reference_number = "";
             $text = array();
         } else {
-            $text = Metadata::getAllMetadata($_POST["reference_number"]);
+            $text = Metadata::getAllMetadata($reference_number);
         }
         
         $addToCorpusYes = "";
@@ -107,7 +112,7 @@ HTML;
                 <option value="{$genre}" {$selected}>{$genre}</option>
 HTML;
         }
-        
+
         //the form
         $csrfField = Csrf::field();
         echo <<<HTML
@@ -121,7 +126,7 @@ HTML;
 			    
 				<div>
 					<label for="reference_number">Reference Number</label>
-					<input name="reference_number" id="reference_number" type="text" class="shortInput" value="{$_POST["reference_number"]}" required/>
+					<input name="reference_number" id="reference_number" type="text" class="shortInput" value="{$reference_number}" required/>
 				</div>
 				<div>
 					<label for="title">Title</label>
@@ -347,11 +352,6 @@ HTML;
 					y<input name="add_to_corpus" id="add_to_corpus_y" type="radio" value="y" {$addToCorpusYes}/>&nbsp;
 					n<input name="add_to_corpus" id="add_to_corpus_n" type="radio" value="n" {$addToCorpusNo}/>
 				</div>
-				
-				<!--div>
-					<label for="imported">Imported</label>
-					<input name="imported" id="imported" type="text" class="shortInput" value="{$text["imported"]}"/>
-				</div-->
 				
 				<div>
 					<input type="hidden" name="action" value="save"/>
