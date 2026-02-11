@@ -110,7 +110,7 @@ HTML;
 	
 	private function getCommentHtml($commentSubmitted) {
 		$html = "";
-		$user = Users::getUser($_SESSION["user"]);
+
 		$hideCommentsText["en"] = "Hide Comments";
 		$hideCommentsText["gd"] = "Falaich beachdan";
 		$showCommentsText["en"] = "Show Comments";
@@ -129,7 +129,7 @@ HTML;
 			<div id="commentsContainer">
 HTML;
 		
-		if ($user) {
+		if (isset($_SESSION["user"])) {
 			$placeholderText["en"] = "Add your comment here ...";
 			$placeholderText["gd"] = "Faodar beachd a chur a-staigh an seo";
  			$postCommentText["en"] = "Post Comment";

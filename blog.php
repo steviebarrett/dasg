@@ -10,11 +10,6 @@ require_once 'includes/include.php';
 // CSRF protection
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     Csrf::validateRequest();
-} else {
-    http_response_code(405);
-    header('Content-Type: application/json; charset=UTF-8');
-    echo json_encode(['ok' => false, 'error' => 'Method not allowed']);
-    exit;
 }
 
 $pageSlug = "blog";
