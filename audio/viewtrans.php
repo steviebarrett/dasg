@@ -64,8 +64,27 @@ echo <<<HTML
 	</div>
 HTML;
 
-$ref = Functions::e($_GET["ref"]);
-$transcription = file_get_contents('transcriptions/' . $ref . '.txt');
+$ref = $_GET['ref'] ?? '';
+if (!is_string($ref)) {
+    http_response_code(400);
+    exit('Bad ref');
+}
+
+// allow only letters, digits, underscore, hyphen; adjust as needed
+if (!preg_match('/\A[A-Za-z0-9_-]{1,80}\z/', $ref)) {
+    http_response_code(400);
+    exit('Invalid ref');
+}
+
+$baseDir = __DIR__ . '/transcriptions';
+$path = $baseDir . '/' . $ref . '.txt';
+
+if (!is_file($path) || !is_readable($path)) {
+    http_response_code(404);
+    exit('Not found');
+}
+
+$transcription = file_get_contents($path);
 
 //colour code the search term
 $q = Functions::getAccentInsensitive($q, false);
