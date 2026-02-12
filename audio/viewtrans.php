@@ -64,20 +64,6 @@ echo <<<HTML
 	</div>
 HTML;
 
-$ref = $_GET['ref'] ?? '';
-if (!is_string($ref)) {
-    http_response_code(400);
-    exit('Bad ref');
-}
-
-// allow only letters, digits, underscore, hyphen; adjust as needed
-if (!preg_match('/\A[A-Za-z0-9_-]{1,80}\z/', $ref)) {
-    http_response_code(400);
-    exit('Invalid ref');
-}
-
-
-// audio/viewtrans.php
 
 $ref = $_GET['ref'] ?? '';
 if (!is_string($ref)) {
@@ -86,15 +72,9 @@ if (!is_string($ref)) {
 }
 
 /**
- * Allowlist ref format:
- * - letters, digits, underscore, hyphen only
- * - 1..80 chars
- *
- * This blocks:
- * - ../   (path traversal)
- * - / or \ (paths)
- * - :     (URLs like http://, php://, file://)
- * - %2f etc. (won't match after decoding either way)
+ * STRICT allowlist:
+ * - No slashes, no dots, no colons => blocks traversal and URL schemes.
+ * - Adjust max length to your IDs.
  */
 if (!preg_match('/\A[A-Za-z0-9_-]{1,80}\z/', $ref)) {
     http_response_code(404);
@@ -107,34 +87,35 @@ if ($baseDir === false) {
     exit('Server misconfig');
 }
 
-$path = $baseDir . DIRECTORY_SEPARATOR . $ref . '.txt';
-
-// Ensure the file exists and is within the directory
-$realFile = realpath($path);
+// Build path and resolve it (realpath requires existence)
+$requested = $baseDir . DIRECTORY_SEPARATOR . $ref . '.txt';
+$realFile = realpath($requested);
 if ($realFile === false) {
     http_response_code(404);
     exit('Not found');
 }
 
+// Enforce: must stay inside transcriptions/
 $prefix = $baseDir . DIRECTORY_SEPARATOR;
 if (strncmp($realFile, $prefix, strlen($prefix)) !== 0) {
     http_response_code(404);
     exit('Not found');
 }
 
-// Optional: prevent URL wrappers even if php.ini allows them
-$ctx = stream_context_create([
-    'http' => ['timeout' => 2],
-    'https' => ['timeout' => 2],
-]);
-
-$transcription = file_get_contents($realFile, false, $ctx);
-if ($transcription === false) {
+// Local-file read (not URL-capable sink)
+$fh = @fopen($realFile, 'rb');
+if ($fh === false) {
     http_response_code(404);
     exit('Not found');
 }
 
-echo $transcription;
+$transcription = stream_get_contents($fh);
+fclose($fh);
+
+if ($transcription === false) {
+    http_response_code(404);
+    exit('Not found');
+}
 
 //colour code the search term
 $q = Functions::getAccentInsensitive($q, false);
