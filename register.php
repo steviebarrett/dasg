@@ -54,8 +54,19 @@ if (!empty($_POST["submit"])) {
 	
 	Users::saveUser($user);
 
-    $url = "https://" . htmlentities($_SERVER["HTTP_HOST"]) . "/forgotPassword.php?action=reset&email=" . rawurlencode($user->getEmail()) . "&token=" . rawurlencode($token);
-	
+    // Build reset URL using a trusted base (do NOT trust HTTP_HOST / Host header)
+    $baseUrl = defined('APP_BASE_URL') ? (string)APP_BASE_URL : 'https://dasg.ac.uk';
+    $baseUrl = rtrim($baseUrl, '/');
+
+    $url = $baseUrl . '/forgotPassword.php?' . http_build_query([
+        'action' => 'reset',
+        'email'  => $user->getEmail(),
+        'token'  => $token,
+    ], '', '&', PHP_QUERY_RFC3986);
+
+    // Escape for HTML attribute context in the email body
+    $urlEsc = htmlspecialchars($url, ENT_QUOTES | ENT_SUBSTITUTE, 'UTF-8');
+
 	//email the user
     $firstNameEsc = Functions::e($user->getFirstName());
 	$emailText = <<<HTML
@@ -63,7 +74,7 @@ if (!empty($_POST["submit"])) {
 
 		<p>A DASG user account has been set up for you using this email address.</p>
 
-		<p>Please reset your password by clicking <a href="{$url}">here</a>.</p>
+		<p>Please reset your password by clicking <a href="{$urlEsc}">here</a>.</p>
 				
 		<p>If you have received this email in error or have any other queries please contact <a title="Email DASG" href="mailto:mail@dasg.ac.uk">mail@dasg.ac.uk</a>.</p>
 	

@@ -13,11 +13,11 @@ $pageSlug  = "login";
 
 require_once 'includes/htmlHeader.php';
 
-// Build a safe internal redirect target (path + optional fragment only)
+// Build a safe internal redirect target
 $referer = (string)($_POST['referer'] ?? $_SERVER['HTTP_REFERER'] ?? '/');
 $section = isset($_GET['section']) ? (string)$_GET['section'] : '';
 
-// Parse as URL; only use the PATH component, never scheme/host
+// Parse as URL
 $parts = @parse_url($referer);
 $path  = is_array($parts) && isset($parts['path']) ? (string)$parts['path'] : '/';
 
@@ -29,26 +29,27 @@ if (strpos($path, "\\") !== false || strpbrk($path, "\r\n\0") !== false) {
     $path = '/';
 }
 
-// Optionally, restrict redirects to known on-site areas (tighten if desired)
-// Add/remove prefixes to match your deployment paths.
-$allowedPrefixes = ['/', '/LIL/', '/audio', '/blog', '/fieldwork', '/corpus'];
-$ok = false;
-foreach ($allowedPrefixes as $pfx) {
-    if ($pfx === '/' || strncmp($path, $pfx, strlen($pfx)) === 0) {
-        $ok = true;
-        break;
-    }
-}
-if (!$ok) {
-    $path = '/';
+// Map any allowed incoming path to a safe, server-chosen return location.
+$redirectTo = '/';
+
+if (strncmp($path, '/LIL/', 5) === 0) {
+    $redirectTo = '/LIL/index.php';
+} elseif (strncmp($path, '/audio', 6) === 0) {
+    $redirectTo = '/audio';
+} elseif (strncmp($path, '/blog', 5) === 0) {
+    $redirectTo = '/blog.php';
+} elseif (strncmp($path, '/fieldwork', 10) === 0) {
+    $redirectTo = '/fieldwork';
+} elseif (strncmp($path, '/corpus', 7) === 0) {
+    $redirectTo = '/corpus/';
 }
 
-// Allow only a safe fragment (no quotes/spaces etc.)
+// Allow only a safe fragment (no quotes/spaces etc.). Note: URL fragments are client-side.
 if ($section !== '' && preg_match('/\A[A-Za-z0-9_-]{1,80}\z/', $section)) {
-    $path .= '#' . $section;
+    $redirectTo .= '#' . $section;
 }
 
-$refererSafe = $path;
+$refererSafe = $redirectTo;
 
 // If login form returns true, redirect safely server-side
 if (Functions::showLoginForm($refererSafe, $lang) === true) {
