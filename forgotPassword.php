@@ -124,30 +124,47 @@ HTML;
         echo "<h3>If the email exists in our system, a reset link has been sent.</h3>";
 
         // user submitted email
-        $email = trim((string)($_POST['email'] ?? ''));
+        $emailIn = trim((string)($_POST['email'] ?? ''));
+        if ($emailIn === '') {
+            break;
+        }
 
-        if ($email === '') { break; }
-
-        $user = Users::getUser($email);
-
-        if (!$user) { break; }     //user not recognised
+        $user = Users::getUser($emailIn);
+        if (!$user) {
+            break; // user not recognised (do not reveal)
+        }
 
         // Create token
-        $token = bin2hex(random_bytes(32)); // raw token for email
+        $token = bin2hex(random_bytes(32));
         $tokenHash = hash('sha256', $token);
 
         $user->setPasswordAuth($tokenHash);
         $user->setPasswordAuthExpires(date('Y-m-d H:i:s', time() + 3600)); // 1 hour
         Users::saveUser($user);
 
-        $url = "https://" . $_SERVER["HTTP_HOST"] . "/forgotPassword.php?action=reset&email=" . rawurlencode($user->getEmail()) . "&token=" . rawurlencode($token);
+        // Build reset URL using a trusted base (do NOT trust HTTP_HOST / Host header)
+        $baseUrl = defined('APP_BASE_URL') ? (string)APP_BASE_URL : 'https://dasg.ac.uk';
+        $baseUrl = rtrim($baseUrl, '/');
 
-        $firstNameEsc = Functions::e($user->getFirstName());
-        // send email
+        $url = $baseUrl . '/forgotPassword.php?' . http_build_query([
+            'action' => 'reset',
+            'email'  => $user->getEmail(),
+            'token'  => $token,
+        ], '', '&', PHP_QUERY_RFC3986);
+
+        // Escape for HTML attribute context in the email body
+        $urlEsc = htmlspecialchars($url, ENT_QUOTES | ENT_SUBSTITUTE, 'UTF-8');
+
+        $firstNameEsc = Functions::e((string)$user->getFirstName());
+        if ($firstNameEsc === '') {
+            $firstNameEsc = 'there';
+        }
+
+        // Send email
         $emailText = <<<HTML
 			<p>Dear {$firstNameEsc},</p>
 			
-			<p>Please reset your password by clicking <a title="DASG password reset" href="{$url}">here</a>.</p>
+			<p>Please reset your password by clicking <a title="DASG password reset" href="{$urlEsc}">here</a>.</p>
 					
 			<p>If you have received this email in error or have any other queries please contact <a title="Email DASG" href="mailto:mail@dasg.ac.uk">mail@dasg.ac.uk</a>.</p>
 	
@@ -156,9 +173,10 @@ HTML;
 			<p>The DASG team</p>
 
 HTML;
-        $email = new Email($user->getEmail(), "DASG Admin Password Reset", $emailText, "mail@dasg.ac.uk");
-        $email->send();
-		break;
+
+        $emailObj = new Email($user->getEmail(), "DASG Admin Password Reset", $emailText, "mail@dasg.ac.uk");
+        $emailObj->send();
+        break;
 	default:
         $csrfField = Csrf::field();
 		echo <<<HTML
