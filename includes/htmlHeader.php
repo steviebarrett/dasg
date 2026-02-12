@@ -2,11 +2,8 @@
 
 header('X-Content-Type-Options: nosniff');
 header('Referrer-Policy: strict-origin-when-cross-origin');
-header('X-Frame-Options: SAMEORIGIN');
-
-/*
- *
- *
+header('X-Frame-Options: DENY');
+header("Content-Security-Policy: frame-ancestors 'self'; base-uri 'self';");
 header("Content-Security-Policy: "
     . "default-src 'self'; "
     . "base-uri 'self'; "
@@ -15,20 +12,14 @@ header("Content-Security-Policy: "
     . "img-src 'self' data: https://www.google-analytics.com; "
     . "style-src 'self' 'unsafe-inline'; "
 
-    // Inline scripts allowed for now (because still have some inline JS)
-    . "script-src 'self' 'unsafe-inline'; "
-
-    // External <script src="..."> allowed from these:
-    . "script-src-elem 'self' https://code.jquery.com https://www.googletagmanager.com https://www.google-analytics.com https://ssl.p.jwpcdn.com; "
+    . "script-src 'self' 'unsafe-inline' https://code.jquery.com https://www.googletagmanager.com https://www.google-analytics.com https://ssl.p.jwpcdn.com; "
+    . "script-src-elem 'self' 'unsafe-inline' https://code.jquery.com https://www.googletagmanager.com https://www.google-analytics.com https://ssl.p.jwpcdn.com; "
 
     . "connect-src 'self' https://www.google-analytics.com https://region1.google-analytics.com; "
 
     // Optional but often needed once you have audio/video:
     . "media-src 'self'; "
 );
-
-
-*/
 
 $metaTitleEsc = htmlspecialchars($metaTitle ?? '', ENT_QUOTES | ENT_SUBSTITUTE, 'UTF-8');
 $pageTitleEsc = htmlspecialchars($pageTitle ?? '', ENT_QUOTES | ENT_SUBSTITUTE, 'UTF-8');
