@@ -2,55 +2,69 @@
 declare(strict_types=1);
 
 $pageTitle = "Cluas ri Claisneachd";
-$pageSlug  = "audio";
-$cqpPage   = true;
+$pageSlug = "audio";
+
+$cqpPage = true;
 
 $javascriptBlock = <<<HTML
 <script>
-  var elem;
-  $(function() {
-    var elems = $('span.highlight').toArray();
-    var id = -1;
-    $('#findPrev').addClass('disabled');
+	var elem;
 
-    $('.findTerm').on('click', function() {
-      $('.highlight').removeClass('highlightStrong');
-      if ($(this).attr('id') == 'findPrev') {
-        id--;
-      } else {
-        id++;
-        $('#findPrev').removeClass('disabled');
-      }
-      if (id >= elems.length-1) {
-        id = elems.length-1;
-        $('#findNext').addClass('disabled');
-      } else if (id < 1) {
-        id = 0;
-        $('#findPrev').addClass('disabled');
-        $('#findNext').removeClass('disabled');
-      } else {
-        $('#findNext').removeClass('disabled');
-      }
-      elem = elems[id];
-      $(elem).addClass('highlightStrong');
-      var idPos = $(elem).offset().top;
-      $('html,body').animate({scrollTop: idPos-150},'fast');
-    });
+	$(function() {
 
-    $('#transTop').on('click', function() {
-      $('html,body').animate({scrollTop: 0},'fast');
-      id = -1;
-      $('#findPrev').addClass('disabled');
-      $('#findNext').removeClass('disabled');
-    });
-  });
+		var elems = $('span.highlight').toArray();
+		var id = -1;
+		$('#findPrev').addClass('disabled');
+
+		$('.findTerm').on('click', function() {
+			$('.highlight').removeClass('highlightStrong');
+			if ($(this).attr('id') == 'findPrev') {
+				id--;
+			} else {
+				id++;
+				$('#findPrev').removeClass('disabled');
+			}
+			if (id >= elems.length-1) {
+				id = elems.length-1;
+				$('#findNext').addClass('disabled');
+			} else if (id < 1) {
+				id = 0;	
+				$('#findPrev').addClass('disabled');
+				$('#findNext').removeClass('disabled');
+			} else {
+				$('#findNext').removeClass('disabled');
+			}
+			elem = elems[id];
+			$(elem).addClass('highlightStrong');
+			var idPos = $(elem).offset().top;
+            $('html,body').animate({scrollTop: idPos-150},'fast');
+		});
+
+		$('#transTop').on('click', function() {
+			$('html,body').animate({scrollTop: 0},'fast');
+			id = -1;
+			$('#findPrev').addClass('disabled');
+			$('#findNext').removeClass('disabled');
+		});
+	});
 </script>
 HTML;
 
 require_once '../includes/include.php';
 require_once '../includes/htmlHeader.php';
 
-// 1) Strict allowlist
+$q = isset($_GET["q"]) ? Functions::e($_GET["q"]) : "" ;
+echo <<<HTML
+	<div class="fixedNav">
+		<h4 class="transEx">{$q}</h4>
+		<div class="controlBar">
+			<input id="findPrev" class="findTerm" value="prev" type="button"/>
+			<input id="findNext" class="findTerm" value="next" type="button"/>
+		</div>
+		<input type="button" id="transTop" value="back to top" type="button"/>
+	</div>
+HTML;
+
 $ALLOWED_TRANSCRIPTIONS = [
     'ABB_Tape2' => true,
     'ABB_Tape5' => true,
@@ -89,59 +103,18 @@ $ALLOWED_TRANSCRIPTIONS = [
     'Stories_from_Sollas' => true,
 ];
 
-// 2) Validate ref
-$ref = $_GET['ref'] ?? '';
-if (!is_string($ref) || !isset($ALLOWED_TRANSCRIPTIONS[$ref])) {
-    http_response_code(404);
-    echo 'Not found';
-    require_once '../includes/htmlFooter.php';
-    exit;
+$ref = isset($_GET["ref"]) ? Functions::e($_GET["ref"]) : "" ;
+if (!isset($ALLOWED_TRANSCRIPTIONS[$ref])) {
+    Functions::writeError("Sorry, the requested resource could not be found");
+} else {
+    $arrayRef = $ALLOWED_TRANSCRIPTIONS[$ref];
+    $transcription = file_get_contents('transcriptions/' . $arrayRef . '.txt');
 }
 
-// 3) Read file
-$file = __DIR__ . '/transcriptions/' . $ref . '.txt';
-if (!is_file($file) || !is_readable($file)) {
-    http_response_code(404);
-    echo 'Not found';
-    require_once '../includes/htmlFooter.php';
-    exit;
-}
+//colour code the search term
+$q = Functions::getAccentInsensitive($q, false);
+$transcription = preg_replace("/{$q}/i", '<span class="highlight">$0</span>', $transcription);
 
-// Use local read
-$fh = fopen($file, 'rb');
-$transcription = $fh ? stream_get_contents($fh) : false;
-if ($fh) fclose($fh);
-
-if ($transcription === false) {
-    http_response_code(404);
-    echo 'Not found';
-    require_once '../includes/htmlFooter.php';
-    exit;
-}
-
-// 4) Render page
-$q = $_GET['q'] ?? '';
-$qEsc = htmlspecialchars(is_string($q) ? $q : '', ENT_QUOTES | ENT_SUBSTITUTE, 'UTF-8');
-
-echo <<<HTML
-  <div class="fixedNav">
-    <h4 class="transEx">{$qEsc}</h4>
-    <div class="controlBar">
-      <input id="findPrev" class="findTerm" value="prev" type="button"/>
-      <input id="findNext" class="findTerm" value="next" type="button"/>
-    </div>
-    <input type="button" id="transTop" value="back to top"/>
-  </div>
-
-  <div class="transcription">
-    <pre>
-HTML;
-
-echo htmlspecialchars($transcription, ENT_QUOTES | ENT_SUBSTITUTE, 'UTF-8');
-
-echo <<<HTML
-    </pre>
-  </div>
-HTML;
+echo nl2br($transcription);
 
 require_once '../includes/htmlFooter.php';
