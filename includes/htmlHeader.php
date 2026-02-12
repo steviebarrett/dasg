@@ -3,11 +3,10 @@
 header('X-Content-Type-Options: nosniff');
 header('Referrer-Policy: strict-origin-when-cross-origin');
 header('X-Frame-Options: DENY');
-header("Content-Security-Policy: frame-ancestors 'self'; base-uri 'self';");
 header("Content-Security-Policy: "
     . "default-src 'self'; "
     . "base-uri 'self'; "
-    . "frame-ancestors 'self'; "
+    . "frame-ancestors 'none'; "
 
     . "img-src 'self' data: https://www.google-analytics.com; "
     . "style-src 'self' 'unsafe-inline'; "
