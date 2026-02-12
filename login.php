@@ -15,22 +15,25 @@ $pageSlug = "login";
 
 require_once 'includes/htmlHeader.php';
 
-if (empty($_POST["referer"])) {
-	$referer = $_SERVER["HTTP_REFERER"];
-	if (isset($_GET["section"])) {
-		$referer .= "#{$_GET["section"]}";
-	}
-} else {
-	$referer = $_POST["referer"];
+$referer = (string)($_POST["referer"] ?? $_SERVER["HTTP_REFERER"] ?? '/');
+if (isset($_GET["section"])) {
+	$referer .= "#" . (string)$_GET["section"];
 }
 
-if (Functions::showLoginForm($referer, $lang) == true) {
+$refererUrl = filter_var($referer, FILTER_SANITIZE_URL);
+$path = parse_url($refererUrl, PHP_URL_PATH);
+if ($path === false || $path === null) {
+	$path = '/';
+}
+$refererSafe = $path;
+
+if (Functions::showLoginForm($refererSafe, $lang) == true) {
 
 	echo <<<HTML
 		<script>
-			window.location.replace('{$referer}');
+			window.location.replace('{$refererSafe}');
 		</script>
-		<a href="{$referer}">Return to page</a>
+		<a href="{$refererSafe}">Return to page</a>
 HTML;
 }
 
