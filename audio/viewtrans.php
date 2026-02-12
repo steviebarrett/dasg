@@ -66,41 +66,41 @@ echo <<<HTML
 HTML;
 
 $ALLOWED_TRANSCRIPTIONS = [
-    'ABB_Tape2' => true,
-    'ABB_Tape5' => true,
-    'Calum_MacNeil_2' => true,
-    'Calum_MacNeil_3' => true,
-    'Calum_MacNeil_4' => true,
-    'Calum_MacNeil_5' => true,
-    'Calum_MacNeil_6' => true,
-    'Courting_on_Scalpay' => true,
-    'GnE_Agallamh_Alasdair_MacEachainn' => true,
-    'GnE_Agallamh_Caitriona_NicCumhais' => true,
-    'GnE_Agallamh_Domhnall_Fearghasdan' => true,
-    'GnE_Agallamh_Floraidh_NicDhomhnaill' => true,
-    'GnE_Agallamh_Iseabail_Graham' => true,
-    'GnE_Agallamh_Mairi_NicAonghais' => true,
-    'GnE_Agallamh_Mary_Ellen_Stiubhart' => true,
-    'GnE_Agallamh_Niall_Domhnallach' => true,
-    'GnE_Agallamh_Ruairidh_MacIllEathain' => true,
-    'GnE_Agallamh_Seumas_Domhnallach' => true,
-    'GnE_Agallamh_Seumas_MacIllEidich' => true,
-    'GnE_Oran_Seumas_MacIllEidich' => true,
-    'GU_AJ_Smith_01or02' => true,
-    'GU_AJ_Smith_03' => true,
-    'GU_AJ_Smith_04' => true,
-    'GU_AJ_Smith_08' => true,
-    'GU_AJ_Smith_15' => true,
-    'GU_CIN_MacLeod_03' => true,
-    'GU_CIN_MacLeod_28' => true,
-    'GU_Mrs_Marion_Montgomery' => true,
-    'GU_North_Argyll' => true,
-    'GU_Sister_Beatons' => true,
-    'GU_William_Mackay' => true,
-    'Origins_and_Religion_from_Barra' => true,
-    'Stories_and_Songs_from_Berneray' => true,
-    'Stories_from_Gobhaig' => true,
-    'Stories_from_Sollas' => true,
+    'ABB_Tape2' => 'ABB_Tape2',
+    'ABB_Tape5' => 'ABB_Tape5',
+    'Calum_MacNeil_2' => 'Calum_MacNeil_2',
+    'Calum_MacNeil_3' => 'Calum_MacNeil_3',
+    'Calum_MacNeil_4' => 'Calum_MacNeil_4',
+    'Calum_MacNeil_5' => 'Calum_MacNeil_5',
+    'Calum_MacNeil_6' => 'Calum_MacNeil_6',
+    'Courting_on_Scalpay' => 'Courting_on_Scalpay',
+    'GnE_Agallamh_Alasdair_MacEachainn' => 'GnE_Agallamh_Alasdair_MacEachainn',
+    'GnE_Agallamh_Caitriona_NicCumhais' => 'GnE_Agallamh_Caitriona_NicCumhais',
+    'GnE_Agallamh_Domhnall_Fearghasdan' => 'GnE_Agallamh_Domhnall_Fearghasdan',
+    'GnE_Agallamh_Floraidh_NicDhomhnaill' => 'GnE_Agallamh_Floraidh_NicDhomhnaill',
+    'GnE_Agallamh_Iseabail_Graham' => 'GnE_Agallamh_Iseabail_Graham',
+    'GnE_Agallamh_Mairi_NicAonghais' => 'GnE_Agallamh_Mairi_NicAonghais',
+    'GnE_Agallamh_Mary_Ellen_Stiubhart' => 'GnE_Agallamh_Mary_Ellen_Stiubhart',
+    'GnE_Agallamh_Niall_Domhnallach' => 'GnE_Agallamh_Niall_Domhnallach',
+    'GnE_Agallamh_Ruairidh_MacIllEathain' => 'GnE_Agallamh_Ruairidh_MacIllEathain',
+    'GnE_Agallamh_Seumas_Domhnallach' => 'GnE_Agallamh_Seumas_Domhnallach',
+    'GnE_Agallamh_Seumas_MacIllEidich' => 'GnE_Agallamh_Seumas_MacIllEidich',
+    'GnE_Oran_Seumas_MacIllEidich' => 'GnE_Oran_Seumas_MacIllEidich',
+    'GU_AJ_Smith_01or02' => 'GU_AJ_Smith_01or02',
+    'GU_AJ_Smith_03' => 'GU_AJ_Smith_03',
+    'GU_AJ_Smith_04' => 'GU_AJ_Smith_04',
+    'GU_AJ_Smith_08' => 'GU_AJ_Smith_08',
+    'GU_AJ_Smith_15' => 'GU_AJ_Smith_15',
+    'GU_CIN_MacLeod_03' => 'GU_CIN_MacLeod_03',
+    'GU_CIN_MacLeod_28' => 'GU_CIN_MacLeod_28',
+    'GU_Mrs_Marion_Montgomery' => 'GU_Mrs_Marion_Montgomery',
+    'GU_North_Argyll' => 'GU_North_Argyll',
+    'GU_Sister_Beatons' => 'GU_Sister_Beatons',
+    'GU_William_Mackay' => 'GU_William_Mackay',
+    'Origins_and_Religion_from_Barra' => 'Origins_and_Religion_from_Barra',
+    'Stories_and_Songs_from_Berneray' => 'Stories_and_Songs_from_Berneray',
+    'Stories_from_Gobhaig' => 'Stories_from_Gobhaig',
+    'Stories_from_Sollas' => 'Stories_from_Sollas',
 ];
 
 $ref = isset($_GET["ref"]) ? Functions::e($_GET["ref"]) : "" ;
@@ -112,9 +112,17 @@ if (!isset($ALLOWED_TRANSCRIPTIONS[$ref])) {
 }
 
 //colour code the search term
+$q = (string)($q ?? '');
 $q = Functions::getAccentInsensitive($q, false);
-$transcription = preg_replace("/{$q}/i", '<span class="highlight">$0</span>', $transcription);
 
-echo nl2br($transcription);
+// treat as literal, not regex
+$pattern = '/' . preg_quote($q, '/') . '/iu';
+$transcription = preg_replace($pattern, '<span class="highlight">$0</span>', $transcription);
+
+$escaped = htmlspecialchars($transcription, ENT_QUOTES | ENT_SUBSTITUTE, 'UTF-8');
+// highlight on escaped text
+$escaped = preg_replace($pattern, '<span class="highlight">$0</span>', $escaped);
+
+echo nl2br($escaped);
 
 require_once '../includes/htmlFooter.php';
