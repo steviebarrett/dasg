@@ -26,7 +26,7 @@ class BlogEntries
 			return $blogEntry;
 	
 		} catch (PDOException $e) {
-			echo $e->getMessage();
+			echo "The item could not be loaded";
 		}
 	}
 	
@@ -49,7 +49,7 @@ class BlogEntries
 			));
 	
 		} catch (PDOException $e) {
-			echo $e->getMessage();
+			echo "The item could not be saved";
 		}
 	}
 	
@@ -70,7 +70,7 @@ class BlogEntries
 			return $blogEntryIds;
 	
 		} catch (PDOException $e) {
-			echo $e->getMessage();
+			echo "The items could not be loaded";
 		}
 	}
 	
@@ -90,7 +90,7 @@ class BlogEntries
 			return $blogEntryIds;
 	
 		} catch (PDOException $e) {
-			echo $e->getMessage();
+			echo "The items could not be loaded";
 		}	
 	}
 	
@@ -117,7 +117,7 @@ class BlogEntries
 			return $blogEntryIds;
 	
 		} catch (PDOException $e) {
-			echo $e->getMessage();
+			echo "The required items could not be loaded";
 		}	
 	}
 	
@@ -144,7 +144,7 @@ class BlogEntries
 			return array("next"=>$next, "prev"=>$prev);
 		
 		} catch (PDOException $e) {
-			echo $e->getMessage();
+			echo "The required items could not be loaded";
 		}
 	}
 }

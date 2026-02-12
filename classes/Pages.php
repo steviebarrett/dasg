@@ -23,7 +23,7 @@ class Pages
 			return $page;
 	
 		} catch (PDOException $e) {
-			echo $e->getMessage();
+			echo "The page could not be loaded";
 		}
 	}
 	
@@ -46,7 +46,7 @@ class Pages
 			return $pageTitles;
 	
 		} catch (PDOException $e) {
-			echo $e->getMessage();
+			echo "The page titles could not be loaded";
 		}
 	}
 }

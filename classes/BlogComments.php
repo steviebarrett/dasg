@@ -24,7 +24,7 @@ class BlogComments
 			return $blogComment;
 	
 		} catch (PDOException $e) {
-			echo $e->getMessage();
+			echo "The item could not be loaded";
 		}
 	}
 	
@@ -45,7 +45,7 @@ class BlogComments
 			));
 	
 		} catch (PDOException $e) {
-			echo $e->getMessage();
+			echo "The item could not be saved";
 		}
 	}
 
@@ -65,7 +65,7 @@ class BlogComments
 			return $blogCommentIds;
 	
 		} catch (PDOException $e) {
-			echo $e->getMessage();
+			echo "The items could not be loaded";
 		}	
 	}
 	
@@ -84,7 +84,7 @@ class BlogComments
 			return $blogCommentIds;
 		
 		} catch (PDOException $e) {
-			echo $e->getMessage();
+			echo "The items could not be loaded";
 		}
 	}
 	

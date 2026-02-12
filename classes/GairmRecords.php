@@ -33,7 +33,7 @@ class GairmRecords
 			return $gairmRecord;
 			
 		} catch (PDOException $e) {
-			echo $e->getMessage();
+			echo "The record could not be loaded";
 		}
 	}
 
@@ -67,7 +67,7 @@ class GairmRecords
 				$multipage = true;
 			}
 		} catch (PDOException $e) {
-			echo $e->getMessage();
+			echo "The record could not be loaded";
 		}
 
 		try {
@@ -100,7 +100,7 @@ class GairmRecords
 			return $gairmRecords;
 
 		} catch (PDOException $e) {
-			echo $e->getMessage();
+			echo "The record could not be loaded";
 		}
 	}
 	
@@ -189,7 +189,7 @@ class GairmRecords
 			}
 			return $gairmRecords;
 		} catch (PDOException $e) {
-			echo $e->getMessage();
+			echo "The records could not be loaded";
 		}
 	}
 	
@@ -224,7 +224,7 @@ class GairmRecords
 			}
 			return $gairmRecords;
 		} catch (PDOException $e) {
-			echo $e->getMessage();
+			echo "The records could not be loaded";
 		}
 	}
 	
@@ -240,7 +240,7 @@ class GairmRecords
 			}
 			return $results;
 		} catch (PDOException $e) {
-			echo $e->getMessage();
+			echo "The records could not be loaded";
 		}
 	}
 	
@@ -256,7 +256,7 @@ class GairmRecords
 			}
 			return $results;
 		} catch (PDOException $e) {
-			echo $e->getMessage();
+			echo "The records could not be loaded";
 		}
 	}
 	
@@ -272,7 +272,7 @@ class GairmRecords
 			}
 			return $filterValues;
 		}  catch (PDOException $e) {
-			echo $e->getMessage();
+			echo "The filters could not be loaded";
 		}
 	}
 	
@@ -288,7 +288,7 @@ class GairmRecords
 			}
 			return $years;
 		}  catch (PDOException $e) {
-			echo $e->getMessage();
+			echo "The year values could not be loaded";
 		}
 	}
 	
@@ -307,7 +307,7 @@ class GairmRecords
 			}
 			return $authors;
 		}  catch (PDOException $e) {
-			echo $e->getMessage();
+			echo "The authors could not be loaded";
 		}
 	}
 	
@@ -323,7 +323,7 @@ class GairmRecords
 			}
 			return $volumes;
 		}  catch (PDOException $e) {
-			echo $e->getMessage();
+			echo "The volumes could not be loaded";
 		}
 	}
 
@@ -336,7 +336,7 @@ class GairmRecords
 			$row = $sth->fetch(PDO::FETCH_ASSOC);
 			return $row["first"];
 		}  catch (PDOException $e) {
-			echo $e->getMessage();
+			echo "The first page number could not be loaded";
 		}
 	}
 }

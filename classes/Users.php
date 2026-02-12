@@ -29,7 +29,7 @@ class Users
 			return $user;
 	
 		} catch (PDOException $e) {
-			echo $e->getMessage();
+			echo "The user could not be loaded";
 		}
 	}
 	
@@ -78,7 +78,7 @@ class Users
             ]);
 	
 		} catch (PDOException $e) {
-			echo $e->getMessage();
+			echo "The user could not be saved";
 		}
 	}
 	
@@ -98,7 +98,7 @@ class Users
 			return $users;
 	
 		} catch (PDOException $e) {
-			echo $e->getMessage();
+			echo "The users could not be loaded";
 		}
 	}
 	
@@ -117,7 +117,7 @@ class Users
 			}
 				
 		} catch (PDOException $e) {
-			echo $e->getMessage();
+			echo "The username could not be checked";
 		}		
 	}
 

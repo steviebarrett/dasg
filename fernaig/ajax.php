@@ -198,7 +198,7 @@ SQL;
                 ":edition" => $_POST["edition"], ":notes" => $_POST["notes"],
                 ":id" => $_POST["id"]));
         } catch (Exception $e) {
-            echo json_encode(array("error" => $e->getMessage()));
+            echo json_encode(array("error" => "The text could not be saved"()));
             return;
         }
         echo json_encode(array("msg" => "Text saved"));
@@ -223,7 +223,7 @@ SQL;
                  ":notes" => $_POST["notes"], ":team_comments" => $_POST["team_comments"],
                 ":id" => $_POST["id"]));
         } catch (Exception $e) {
-            echo json_encode(array("error" => $e->getMessage()));
+            echo json_encode(array("error" => "The line could not be saved"));
             return;
         }
         echo json_encode(array("msg" => "Line saved"));
@@ -237,7 +237,7 @@ SQL;
             $sth->execute(array(
                 ":isos" => $_POST["isos"], ":id" => $_POST["id"]));
         } catch (Exception $e) {
-            echo json_encode(array("error" => $e->getMessage()));
+            echo json_encode(array("error" => "Isos could not be saved"()));
             return;
         }
         echo json_encode(array("msg" => "ISOS saved"));
