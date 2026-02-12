@@ -3,35 +3,62 @@ declare(strict_types=1);
 
 require_once '../includes/include.php'; // so Functions is available (adjust if needed)
 
-// Safe GET read
-$subRaw = (string)(Functions::e($_GET['sub']) ?? '');
+// Read and normalize input (do not HTML-escape for filesystem usage)
+$subRaw = (string)($_GET['sub'] ?? '');
+$subRaw = trim($subRaw);
 
-// Expecting "vol/NN" (based on your use elsewhere)
-$subParts = array_values(array_filter(explode('/', trim($subRaw, '/')), 'strlen'));
-$vol = $subParts[1] ?? '';  // for "vol/{vol}" => index 1
-
-// Validate volume: digits only (prevents traversal like ../../)
-if ($vol === '' || !preg_match('/^\d+$/', $vol)) {
-	http_response_code(400);
-	echo 'Bad request';
-	exit;
+// Accept either "vol/NN" or "NN"
+$vol = '';
+if (preg_match('~\A(?:vol/)?(\d+)\z~', trim($subRaw, '/'), $m)) {
+    $vol = $m[1];
 }
+
+// Validate volume: digits only
+if ($vol === '') {
+    http_response_code(400);
+    echo 'Bad request';
+    exit;
+}
+
+// Normalize via int to break taint and avoid weird leading zeros/overflows
+$volInt = (int)$vol;
+if ($volInt <= 0) {
+    http_response_code(400);
+    echo 'Bad request';
+    exit;
+}
+$vol = (string)$volInt;
 
 $sub = "vol/{$vol}";
-$dir = "vol/{$vol}/";
+$dirUrl = "vol/{$vol}/";
 
-// Directory must exist
-if (!is_dir($dir)) {
-	http_response_code(404);
-	echo 'Not found';
-	exit;
+// Build an absolute directory path from a constant base
+$baseDir = realpath(__DIR__);
+if ($baseDir === false) {
+    http_response_code(500);
+    echo 'Server error';
+    exit;
 }
+
+$dir = $baseDir . DIRECTORY_SEPARATOR . 'vol' . DIRECTORY_SEPARATOR . $vol;
+
+// Resolve and enforce containment before scandir
+$dirReal = realpath($dir);
+$expectedPrefix = $baseDir . DIRECTORY_SEPARATOR . 'vol' . DIRECTORY_SEPARATOR;
+
+if ($dirReal === false || strncmp($dirReal . DIRECTORY_SEPARATOR, $expectedPrefix, strlen($expectedPrefix)) !== 0 || !is_dir($dirReal)) {
+    http_response_code(404);
+    echo 'Not found';
+    exit;
+}
+
+$dir = rtrim($dirReal, DIRECTORY_SEPARATOR) . DIRECTORY_SEPARATOR;
 
 $files = scandir($dir);
 if ($files === false) {
-	http_response_code(500);
-	echo 'Server error';
-	exit;
+    http_response_code(500);
+    echo 'Server error';
+    exit;
 }
 
 sort($files, SORT_NATURAL);
@@ -43,15 +70,15 @@ $jsStr = static function (string $s): string {
 
 // Build special pages if present
 $coverJS = in_array("C_1.jpg", $files, true)
-	? "[{ width: 800, height: 1200, uri: " . $jsStr($dir . "C_1.jpg") . " }],"
+	? "[{ width: 800, height: 1200, uri: " . $jsStr($dirUrl . "C_1.jpg") . " }],"
 	: "";
 
 $rearCoverJS = in_array("C_2.jpg", $files, true)
-	? "[{ width: 800, height: 1200, uri: " . $jsStr($dir . "C_2.jpg") . " }]"
+	? "[{ width: 800, height: 1200, uri: " . $jsStr($dirUrl . "C_2.jpg") . " }]"
 	: "";
 
 $insideCoverJS = in_array("DA_1.jpg", $files, true)
-	? "[{ width: 800, height: 1200, uri: " . $jsStr($dir . "DA_1.jpg") . " },"
+	? "[{ width: 800, height: 1200, uri: " . $jsStr($dirUrl . "DA_1.jpg") . " },"
 	: "[{},"; // placeholder if missing
 
 $pageListJS = "";
@@ -67,7 +94,7 @@ foreach ($files as $file) {
 	if (!preg_match('/^TD_(\d+)\.jpg$/', $file, $m)) continue;
 	$page = (int)$m[1];
 
-	$uri = $jsStr($dir . $file);
+	$uri = $jsStr($dirUrl . $file);
 
 	if ($page % 2) {
 		// odd page closes a spread
