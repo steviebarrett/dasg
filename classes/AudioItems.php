@@ -55,7 +55,7 @@ class AudioItems
 			return $audioItem;
 	
 		} catch (PDOException $e) {
-			echo $e->getMessage();
+			echo "The item could not be loaded";
 		}
 	}
 	
@@ -86,7 +86,7 @@ class AudioItems
 			return $audioItemRefs;
 	
 		} catch (PDOException $e) {
-			echo $e->getMessage();
+			echo "The items could not be loaded";
 		}	
 	}
 	
@@ -115,7 +115,7 @@ SQL;
 			return $audioItemRefs;
 			
 		} catch (PDOException $e) {
-			echo $e->getMessage();
+			echo "The items could not be loaded";
 		}
 	}
 	
@@ -136,7 +136,7 @@ SQL;
 	        $row = $sth->fetch();   
 	        return $row["cnt"] > 0;
 	    } catch (PDOException $e) {
-	        echo $e->getMessage();
+	        echo "The information could not be loaded";
 	    }
 	}
 	
@@ -152,7 +152,7 @@ SQL;
 	        $sth = $dbh->prepare($query);
 	        $sth->execute($searchFields);
 	    } catch (PDOException $e) {
-	        echo $e->getMessage();
+	        echo "The play count could not be updated";
 	    }
 	}
 	
@@ -168,7 +168,7 @@ SQL;
 	        $row = $sth->fetch();
 	        return $row["play_count"];
 	    } catch (PDOException $e) {
-	        echo $e->getMessage();
+	        echo "The play count could not be loaded";
 	    }
 	}
 }
