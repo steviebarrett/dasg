@@ -112,30 +112,71 @@ class GairmRecords
 		
 		$placeholders = array();
 		$sql = "SELECT id FROM gairm_record ";
-		
-		if (!empty($filterFields)) {
-			foreach ($filterFields as $field => $value) {
-				$sql .= "INNER JOIN gairm_record_{$field} ON id = gairm_record_{$field}.record_id ";
-			}
-		}
-		
-		$sql .= "WHERE (";
-		foreach ($searchFields as $field) {
-			$queryString = trim($queryString);
-			$queryTerms = explode(' ', $queryString);
-			foreach ($queryTerms as $term) {
-				$sql .= "{$field} LIKE ? OR ";
-				$placeholders[] = "%{$term}%";
-			}
-		}
-		//trim the trailing OR
-		$sql = substr($sql, 0, strlen($sql)-3) . ") ";
-		
-		if (!empty($filterFields)) {
-			foreach ($filterFields as $field => $value) {
-				$sql .= "AND {$field}_name = '{$value}' ";
-			}
-		}
+
+        // Allowlist searchable columns (identifiers) to prevent SQL injection
+        $allowedSearchFields = [
+            'title'         => 'title',
+            'lastName'      => 'lastName',
+            'firstName'     => 'firstName',
+            'origin'        => 'origin',
+            'origin_gd'     => 'origin_gd',
+            'year'          => 'year',
+            'comments'      => 'comments',
+            'transcription' => 'transcription',
+        ];
+
+        $allowedFilterFields = [
+            'type'     => 'type',
+            'genre'    => 'genre',
+            'register' => 'register',
+            'language' => 'language',
+        ];
+
+        if (!empty($filterFields)) {
+            foreach ($filterFields as $field => $value) {
+                if (!is_string($field) || !isset($allowedFilterFields[$field])) {
+                    continue; // ignore unknown filters
+                }
+                $fieldSafe = $allowedFilterFields[$field];
+                $sql .= "INNER JOIN gairm_record_{$fieldSafe} ON id = gairm_record_{$fieldSafe}.record_id ";
+            }
+        }
+
+        $sql .= "WHERE (";
+        $queryString = trim((string)$queryString);
+        $queryTerms = $queryString === '' ? [] : preg_split('/\s+/', $queryString);
+
+        foreach ((array)$searchFields as $field) {
+            if (!is_string($field) || !isset($allowedSearchFields[$field])) {
+                continue;
+            }
+            $fieldSafe = $allowedSearchFields[$field];
+
+            foreach ($queryTerms as $term) {
+                $term = (string)$term;
+                if ($term === '') continue;
+                $sql .= "{$fieldSafe} LIKE ? OR ";
+                $placeholders[] = "%{$term}%";
+            }
+        }
+
+        // If no valid fields or no terms, avoid returning everything accidentally
+        if (substr($sql, -6) === 'WHERE (') {
+            return [];
+        }
+        //trim the trailing OR
+        $sql = substr($sql, 0, strlen($sql)-3) . ") ";
+
+        if (!empty($filterFields)) {
+            foreach ($filterFields as $field => $value) {
+                if (!is_string($field) || !isset($allowedFilterFields[$field])) {
+                    continue;
+                }
+                $fieldSafe = $allowedFilterFields[$field];
+                $sql .= "AND {$fieldSafe}_name = ? ";
+                $placeholders[] = (string)$value;
+            }
+        }
 
 		try {
 			$sth = $dbh->prepare($sql);
