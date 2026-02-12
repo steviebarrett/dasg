@@ -14,15 +14,32 @@ $pageSlug  = "login";
 require_once 'includes/htmlHeader.php';
 
 // Build a safe internal redirect target (path + optional fragment only)
-$referer = (string)($_POST["referer"] ?? $_SERVER["HTTP_REFERER"] ?? '/');
-$section = isset($_GET["section"]) ? (string)$_GET["section"] : '';
+$referer = (string)($_POST['referer'] ?? $_SERVER['HTTP_REFERER'] ?? '/');
+$section = isset($_GET['section']) ? (string)$_GET['section'] : '';
 
-// Parse as URL; accept only same-origin relative paths
-$parts = parse_url($referer);
-$path  = $parts['path'] ?? '/';
+// Parse as URL; only use the PATH component, never scheme/host
+$parts = @parse_url($referer);
+$path  = is_array($parts) && isset($parts['path']) ? (string)$parts['path'] : '/';
 
-// Normalise path
-if (!is_string($path) || $path === '' || $path[0] !== '/') {
+// Reject anything that could become an external redirect or header injection
+if ($path === '' || $path[0] !== '/' || strncmp($path, '//', 2) === 0) {
+    $path = '/';
+}
+if (strpos($path, "\\") !== false || strpbrk($path, "\r\n\0") !== false) {
+    $path = '/';
+}
+
+// Optionally, restrict redirects to known on-site areas (tighten if desired)
+// Add/remove prefixes to match your deployment paths.
+$allowedPrefixes = ['/', '/LIL/', '/audio', '/blog', '/fieldwork', '/corpus'];
+$ok = false;
+foreach ($allowedPrefixes as $pfx) {
+    if ($pfx === '/' || strncmp($path, $pfx, strlen($pfx)) === 0) {
+        $ok = true;
+        break;
+    }
+}
+if (!$ok) {
     $path = '/';
 }
 
