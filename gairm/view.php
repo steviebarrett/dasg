@@ -15,7 +15,8 @@ HTML;
 
 require_once '../includes/htmlHeader.php';
 
-$id = $_GET["id"];
+$id = isset($_GET["id"]) ? Functions::e($_GET["id"]) : "";
+$query = isset($_GET["query"]) ? Functions::e($_GET["query"]) : "";
 
 $gairmRecord = GairmRecords::getGairmRecord($id);
 
@@ -23,7 +24,7 @@ if (empty($gairmRecord)) {
 	echo "<h3 class='error'>No record found</h2>";
 } else {
 	
-	$queryString = urldecode($_GET["query"]);
+	$queryString = urldecode($query);
 	$backHtml = <<<HTML
 		<a href="index.php?{$queryString}" title="Back to search">< Back to search results</a>
 HTML;
