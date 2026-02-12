@@ -64,7 +64,8 @@ echo <<<HTML
 	</div>
 HTML;
 
-$transcription = file_get_contents('transcriptions/' . $_GET["ref"] . '.txt');
+$ref = Functions::e($_GET["ref"]);
+$transcription = file_get_contents('transcriptions/' . $ref . '.txt');
 
 //colour code the search term
 $q = Functions::getAccentInsensitive($q, false);
