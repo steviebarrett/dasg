@@ -12,7 +12,7 @@ class DB
 				"mysql:host=" . DB_HOST . ";dbname=" . $dbName . ";charset=utf8;", $user, $pass
 			);
 		} catch (PDOException $e){
-			echo $e->getMessage();
+			echo "A connection could not be established.";
 		}
 	}
 	

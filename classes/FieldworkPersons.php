@@ -23,7 +23,7 @@ class FieldworkPersons
 			return $person;
 		
 		} catch (PDOException $e) {
-			echo $e->getMessage();
+			echo "The person could not be retrieved";
 		}
 	}	
 }

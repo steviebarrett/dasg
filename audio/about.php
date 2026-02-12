@@ -29,7 +29,7 @@ try {
     $row = $sth->fetch();
     $pageText = $row["text"];
 } catch (PDOException $e) {
-    echo $e->getMessage();
+    echo "The text could not be retrieved";
 }
 
 $languageChoiceHtml = <<<HTML
