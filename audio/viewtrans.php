@@ -76,21 +76,72 @@ if (!preg_match('/\A[A-Za-z0-9_-]{1,80}\z/', $ref)) {
     exit('Invalid ref');
 }
 
-$baseDir = __DIR__ . '/transcriptions';
-$path = $baseDir . '/' . $ref . '.txt';
 
-if (!is_file($path) || !is_readable($path)) {
+// audio/viewtrans.php
+
+$ref = $_GET['ref'] ?? '';
+if (!is_string($ref)) {
+    http_response_code(400);
+    exit('Bad request');
+}
+
+/**
+ * Allowlist ref format:
+ * - letters, digits, underscore, hyphen only
+ * - 1..80 chars
+ *
+ * This blocks:
+ * - ../   (path traversal)
+ * - / or \ (paths)
+ * - :     (URLs like http://, php://, file://)
+ * - %2f etc. (won't match after decoding either way)
+ */
+if (!preg_match('/\A[A-Za-z0-9_-]{1,80}\z/', $ref)) {
     http_response_code(404);
     exit('Not found');
 }
 
-$transcription = file_get_contents($path);
+$baseDir = realpath(__DIR__ . '/transcriptions');
+if ($baseDir === false) {
+    http_response_code(500);
+    exit('Server misconfig');
+}
+
+$path = $baseDir . DIRECTORY_SEPARATOR . $ref . '.txt';
+
+// Ensure the file exists and is within the directory
+$realFile = realpath($path);
+if ($realFile === false) {
+    http_response_code(404);
+    exit('Not found');
+}
+
+$prefix = $baseDir . DIRECTORY_SEPARATOR;
+if (strncmp($realFile, $prefix, strlen($prefix)) !== 0) {
+    http_response_code(404);
+    exit('Not found');
+}
+
+// Optional: prevent URL wrappers even if php.ini allows them
+$ctx = stream_context_create([
+    'http' => ['timeout' => 2],
+    'https' => ['timeout' => 2],
+]);
+
+$transcription = file_get_contents($realFile, false, $ctx);
+if ($transcription === false) {
+    http_response_code(404);
+    exit('Not found');
+}
+
+echo $transcription;
 
 //colour code the search term
 $q = Functions::getAccentInsensitive($q, false);
 $q = preg_quote($q, '/');
 $transcription = preg_replace("/({$q})/iu", '<span class="highlight">$0</span>', $transcription);
 
+header('Content-Type: text/plain; charset=UTF-8');
 echo nl2br($transcription);
 
 require_once '../includes/htmlFooter.php';
