@@ -2,7 +2,6 @@
 
 header('X-Content-Type-Options: nosniff');
 header('Referrer-Policy: strict-origin-when-cross-origin');
-header('X-Frame-Options: DENY', true);
 header("Content-Security-Policy: "
     . "default-src 'self'; "
     . "base-uri 'self'; "
