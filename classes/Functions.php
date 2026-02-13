@@ -203,4 +203,51 @@ HTML;
         return preg_split("//u", $str, -1, PREG_SPLIT_NO_EMPTY) ?: [];
     }
 
+    public static function buildFieldworkWildcardRegex(string $raw): string
+    {
+        // Limit raw input length
+        $raw = trim($raw);
+        if ($raw === '') return '';
+
+        if (mb_strlen($raw, 'UTF-8') > 80) {
+            throw new RuntimeException('Query too long');
+        }
+
+        // Limit wildcard counts (prevents regex blowups)
+        $wcCount = substr_count($raw, '*') + substr_count($raw, '?') + substr_count($raw, '~');
+        if ($wcCount > 10) {
+            throw new RuntimeException('Query too complex');
+        }
+
+        // Replace straight apostrophe with your XML apostrophe
+        $raw = str_replace("'", "’", $raw);
+
+        // Build regex by walking characters:
+        // - normal chars are preg_quoted
+        // - wildcards expand to your charclasses
+        $out = '';
+        $chars = preg_split('//u', $raw, -1, PREG_SPLIT_NO_EMPTY);
+
+        foreach ($chars as $ch) {
+            if ($ch === '*') {
+                $out .= '[' . ACCENT_CHARSET . ']*';
+            } elseif ($ch === '?') {
+                $out .= '[' . ACCENT_CHARSET . ']';
+            } elseif ($ch === '~') {
+                $out .= '[' . ACCENT_VOWELS . ']+';
+            } else {
+                $out .= preg_quote($ch, '/');
+            }
+        }
+
+        // Optional extra tweak you had:
+        $out = str_replace('h=', 'h?', $out);
+
+        // Final size cap (belt-and-braces)
+        if (strlen($out) > 5000) {
+            throw new RuntimeException('Query too complex');
+        }
+
+        return $out;
+    }
 }

@@ -10,7 +10,7 @@ $archive = isset($_GET["archive"]) ? htmlentities($_GET["archive"]) : "crc";
 $tableStructureHtml = "";
 
 $javascriptBlock = <<<HTML
-<script src="/js/jquery.tablesorter.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.32.0/js/jquery.tablesorter.min.js" integrity="sha512-O/JP2r8BG27p5NOtVhwqsSokAwEP5RwYgvEzU9G6AfNjLYqyt2QT8jqU1XrXCiezS50Qp1i3ZtCQWkHZIRulGA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script>
 	$(document).ready(function() {
 		

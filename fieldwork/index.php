@@ -324,6 +324,9 @@ if (!empty($enteredQuery)) {
         
         $itemNodes = $xml->xpath($itemQ);
         $hitNodes = array();
+
+
+        /*
         foreach ($itemNodes as $node) {
             $queryRegExp = preg_quote($queryRegExp, '/');
 
@@ -337,6 +340,36 @@ if (!empty($enteredQuery)) {
                 }
             } else {
                 if (preg_match("/({$queryRegExp})/iu", (string)$node->description) || preg_match("/({$queryRegExp})/iu", (string)$node->headword)) {
+                    $hitNodes[] = $node;
+                }
+            }
+        }
+        */
+        try {
+            $queryRegExp = Functions::buildFieldworkWildcardRegex($query);
+        } catch (RuntimeException $e) {
+            Functions::writeError("Regex query too large");
+            require_once '../includes/htmlFooter.php';
+            exit;
+        }
+
+        $pattern = "/({$queryRegExp})/iu";
+
+        foreach ($itemNodes as $node) {
+
+            if ($_GET["searchScope"] === "headOnly") {
+                if (preg_match($pattern, (string)$node->headword)) {
+                    $hitNodes[] = $node;
+                }
+            } elseif ($_GET["searchScope"] === "defOnly") {
+                if (preg_match($pattern, (string)$node->description)) {
+                    $hitNodes[] = $node;
+                }
+            } else {
+                if (
+                    preg_match($pattern, (string)$node->description) ||
+                    preg_match($pattern, (string)$node->headword)
+                ) {
                     $hitNodes[] = $node;
                 }
             }

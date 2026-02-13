@@ -8,14 +8,13 @@ header("Content-Security-Policy: "
     . "frame-ancestors 'none'; "
 
     . "img-src 'self' data: https://www.google-analytics.com; "
-    . "style-src 'self' 'unsafe-inline'; "
+    . "style-src 'self' 'unsafe-inline' https://cdnjs.cloudflare.com; "
 
-    . "script-src 'self' 'unsafe-inline' https://code.jquery.com https://www.googletagmanager.com https://www.google-analytics.com https://ssl.p.jwpcdn.com; "
-    . "script-src-elem 'self' 'unsafe-inline' https://code.jquery.com https://www.googletagmanager.com https://www.google-analytics.com https://ssl.p.jwpcdn.com; "
+    . "script-src 'self' 'unsafe-inline' https://code.jquery.com https://cdnjs.cloudflare.com https://www.googletagmanager.com https://www.google-analytics.com https://ssl.p.jwpcdn.com; "
+    . "script-src-elem 'self' 'unsafe-inline' https://code.jquery.com https://cdnjs.cloudflare.com https://www.googletagmanager.com https://www.google-analytics.com https://ssl.p.jwpcdn.com; "
 
     . "connect-src 'self' https://www.google-analytics.com https://region1.google-analytics.com; "
 
-    // Optional but often needed once you have audio/video:
     . "media-src 'self'; "
 );
 
@@ -25,28 +24,13 @@ $pageTitleEsc = htmlspecialchars($pageTitle ?? '', ENT_QUOTES | ENT_SUBSTITUTE, 
 $pageSlugSafe = isset($pageSlug) ? preg_replace('/[^a-z0-9_-]/i', '', (string)$pageSlug) : "";
 $pageSlugAttr = htmlspecialchars($pageSlugSafe, ENT_QUOTES | ENT_SUBSTITUTE, 'UTF-8');
 
+$javascriptBlock = isset($javascriptBlock) ? $javascriptBlock : "";
+
 if (empty($pageSlugSafe) && stristr($_SERVER["REQUEST_URI"], "corpus")) {
     $pageSlugSafe = "corpus";
 }
 
 $languageChoiceBlock = "";
-
-
-/*
- *
- *
-if (!empty($javascriptBlock)) {
-    // allow only <script ...></script> blocks with src from this domain, no inline JS
-    if (!preg_match('~^\s*<script\s+[^>]*src="/js/[a-z0-9._/-]+\.js"[^>]*>\s*</script>\s*$~i', $javascriptBlock)) {
-        $javascriptBlock = '';
-    }
-} else {
-    $javascriptBlock = '';
-}
-
-
-*/
-
 
 $languages = array("gd"=>"Gàidhlig", "en"=>"English");	//perhaps better to make this a CONSTANT and move to includes?
 
@@ -182,7 +166,8 @@ echo <<<HTML
   		<script async src="https://www.googletagmanager.com/gtag/js?id={$gaIdAttr}"></script>
   		<script defer src="/js/google.js"></script>
   			
-  		<script src="https://code.jquery.com/jquery-3.7.1.slim.min.js" integrity="sha256-kmHvs0B+OpCW5GVHUNjv9rOmY0IvSIRcf7zGUDTDQM8=" crossorigin="anonymous"></script>
+  			
+  	    <script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
   		<script type="text/javascript" src="/js/jquery.caret.js"></script> 
   		<script type="text/javascript" src="/js/jquery.validate.min.js"></script> 
   		<script type="text/javascript" src="/js/bpopup.min.js"></script>
