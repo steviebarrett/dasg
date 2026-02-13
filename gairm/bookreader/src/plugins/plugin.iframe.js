@@ -37,23 +37,32 @@ export function _attachEventListeners(br, parent = window.parent) {
     );
   });
 
-  const ALLOWED_MESSAGE_ORIGINS = new Set([
-    'https://dasg.ac.uk',
-    'https://dev.dasg.ac.uk',
-    'http://dasg.localhost',
-  ]);
+  window.addEventListener('message', function (event) {
 
-  const allowedSourceWindow = window;
+    // explicit origin allowlist
+    if (
+        event.origin !== 'https://dasg.ac.uk' &&
+        event.origin !== 'https://dev.dasg.ac.uk' &&
+        event.origin !== 'http://dasg.localhost'
+    ) {
+      return;
+    }
 
-  window.addEventListener('message', (event) => {
-    if (!ALLOWED_MESSAGE_ORIGINS.has(event.origin)) return;
-    if (event.source !== allowedSourceWindow) return;
+    // Optional: accept only messages from the same window (no iframe here)
+    if (event.source !== window) {
+      return;
+    }
 
-    const data = event.data;
-    if (!data || typeof data !== 'object') return;
-    if (data.type !== MESSAGE_TYPE_FRAGMENT_CHANGE) return;
-    if (typeof data.fragment !== 'string') return;
+    // Not a recognized message type, abort
+    if (!event.data || event.data.type !== MESSAGE_TYPE_FRAGMENT_CHANGE) {
+      return;
+    }
 
-    br.updateFromParams(br.paramsFromFragment(data.fragment));
+    // Ensure fragment is a string before using
+    if (typeof event.data.fragment !== 'string') {
+      return;
+    }
+
+    br.updateFromParams(br.paramsFromFragment(event.data.fragment));
   });
 }
