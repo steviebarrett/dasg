@@ -2,7 +2,7 @@
 
 require_once '../includes/include.php';
 
-$item = $_GET["item"];
+$item = isset($_GET["item"]) ? Functions::e($_GET["item"]) : null;
 
 $fieldworkDoc = FieldworkItems::getHtml($item);
 
