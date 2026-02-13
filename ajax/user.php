@@ -45,7 +45,6 @@ switch ($action) {
         exit;
 
     default:
-        // For validate.js, safest is "true" so it doesn't break the form
         echo json_encode(true);
         exit;
 }

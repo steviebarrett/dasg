@@ -203,6 +203,20 @@ HTML;
         return preg_split("//u", $str, -1, PREG_SPLIT_NO_EMPTY) ?: [];
     }
 
+    public static function requireAdmin()
+    {
+        if (!isset($_SESSION["user"])) {
+            echo "<h2>not logged in</h2>";
+            exit();
+        } else {
+            $user = Users::getUser($_SESSION["user"]);
+            if (!$user->getIsBlogAdmin()) {
+                echo "<h2>not authorised</h2>";
+                exit();
+            }
+        }
+    }
+
     public static function buildFieldworkWildcardRegex(string $raw): string
     {
         // Limit raw input length

@@ -5,6 +5,9 @@
  */
 require_once '../includes/include.php';
 
+// require a logged in user with admin privileges for all access
+Functions::requireAdmin();
+
 //require Composer
 require_once '../vendor/autoload.php';
 $phpWord = new \PhpOffice\PhpWord\PhpWord();

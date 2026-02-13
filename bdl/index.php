@@ -2,9 +2,8 @@
 
 require_once '../includes/include.php';
 
-//require Composer
-//require_once '../vendor/autoload.php';
-//$phpWord = new \PhpOffice\PhpWord\PhpWord();
+// require a logged in user with admin privileges for all access
+Functions::requireAdmin();
 
 $dbh = DB::getDatabaseHandle();
 

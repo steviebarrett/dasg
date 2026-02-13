@@ -2,14 +2,11 @@
 
 require_once '../includes/include.php';
 
+// require a logged in user with admin privileges for all access
+Functions::requireAdmin();
+
 $dbh = DB::getDatabaseHandle();
 
-/*
-$sql = <<<SQL
-    SELECT p.number as pagenum, text_id, l.number as linenum, l.id AS id, diplomatic FROM bdl_line l JOIN bdl_page p ON p.id = page_id WHERE diplomatic LIKE '%*%';
-
-SQL;
-*/
 $sql = <<<SQL
     SELECT p.number as pagenum, text_id, l.number as linenum, l.id AS id, diplomatic FROM bdl_line l JOIN bdl_page p ON p.id = page_id
 SQL;

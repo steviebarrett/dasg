@@ -3,6 +3,9 @@
 
 require_once '../includes/include.php';
 
+// require a logged in user with admin privileges for all access
+Functions::requireAdmin();
+
 $dbh = DB::getDatabaseHandle();
 
 function getAccentInsens($string)

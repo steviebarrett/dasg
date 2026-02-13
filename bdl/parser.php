@@ -2,6 +2,9 @@
 
 require_once '../includes/include.php';
 
+// require a logged in user with admin privileges for all access
+Functions::requireAdmin();
+
 echo <<<HTML
 <html>
 
