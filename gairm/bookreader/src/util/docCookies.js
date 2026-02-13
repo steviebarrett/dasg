@@ -1,70 +1,65 @@
 /**
- * Cookie helper module: get, set, remove
- * - Adds SameSite=Lax by default
- * - Adds Secure automatically on HTTPS (or when bSecure=true)
- * - Fixes removeItem (no dependency on missing hasItem)
+ * Helper module use to get, set and remove item from cookie
+ *
+ * See more:
+ *  https://developer.mozilla.org/en-US/docs/Web/API/document.cookie
+ *  https://developer.mozilla.org/User:fusionchess
+ *  https://github.com/madmurphy/cookies.js
+ *  This framework is released under the GNU Public License, version 3 or later.
+ *  http://www.gnu.org/licenses/gpl-3.0-standalone.html
  */
 
+/**
+ * Get specific key's value stored in cookie
+ *
+ * @param {string} sKey
+ *
+ * @returns {string|null}
+ */
 export function getItem(sKey) {
   if (!sKey) return null;
 
-  const key = encodeURIComponent(sKey).replace(/[\-\.\+\*]/g, '\\$&');
-  const re = new RegExp('(?:(?:^|.*;)\\s*' + key + '\\s*\\=\\s*([^;]*).*$)|^.*$');
-  const val = document.cookie.replace(re, '$1');
-  return val ? decodeURIComponent(val) : null;
+  return decodeURIComponent(
+    // eslint-disable-next-line no-useless-escape
+    document.cookie.replace(new RegExp('(?:(?:^|.*;)\\s*' + encodeURIComponent(sKey).replace(/[\-\.\+\*]/g, '\\$&') + '\\s*\\=\\s*([^;]*).*$)|^.*$'), '$1')) || null;
 }
 
+/**
+ * Set specific key's value in cookie
+ *
+ * @param {string} sKey cookie name
+ * @param {string} sValue cookie value
+ * @param {string} [vEnd] expire|max-age
+ * @param {string} [sPath] path of current item
+ * @param {string} [sDomain] domain name
+ * @param {boolean} [bSecure]
+ *
+ * @returns {true}
+ */
 export function setItem(sKey, sValue, vEnd, sPath, sDomain, bSecure) {
-  if (!sKey) return false;
+  document.cookie = encodeURIComponent(sKey) + '=' + encodeURIComponent(sValue)
+      + (vEnd ? `; expires=${vEnd.toUTCString()}` : '')
+      + (sDomain ? `; domain=${sDomain}` : '')
+      + (sPath ? `; path=${sPath}` : '')
+      + '; secure';
 
-  // Defaults
-  const path = sPath || '/';
-  const sameSite = 'Lax';
-
-  // Secure if explicitly requested OR if we are on HTTPS
-  const secure = (bSecure === true) || (typeof location !== 'undefined' && location.protocol === 'https:');
-
-  let cookie =
-      encodeURIComponent(sKey) + '=' + encodeURIComponent(String(sValue)) +
-      `; path=${path}` +
-      `; SameSite=${sameSite}`;
-
-  if (vEnd instanceof Date) {
-    cookie += `; expires=${vEnd.toUTCString()}`;
-  }
-
-  if (sDomain) {
-    cookie += `; domain=${sDomain}`;
-  }
-
-  if (secure) {
-    cookie += '; Secure';
-  }
-
-  document.cookie = cookie;
   return true;
 }
 
-export function removeItem(sKey, sPath, sDomain, bSecure) {
-  if (!sKey) return false;
+/**
+ * BROKEN Remove specific key's value from cookie
+ * @fixme hasItem isn't even implemented! This will always error.
+ * @param {string} sKey cookie name
+ * @param {string} [sPath] path of current item
+ * @param {string} [sDomain]
+ *
+ * @returns {boolean}
+ */
+export function removeItem(sKey, sPath, sDomain) {
+  document.cookie = encodeURIComponent(sKey) + `=; expires=Thu, 01 Jan 1970 00:00:00 GMT`
+      + (sDomain ? `; domain=${sDomain}` : '')
+      + (sPath ? `; path=${sPath}` : '')
+      + '; secure';
 
-  const path = sPath || '/';
-  const sameSite = 'Lax';
-  const secure = (bSecure === true) || (typeof location !== 'undefined' && location.protocol === 'https:');
-
-  let cookie =
-      encodeURIComponent(sKey) + '=; expires=Thu, 01 Jan 1970 00:00:00 GMT' +
-      `; path=${path}` +
-      `; SameSite=${sameSite}`;
-
-  if (sDomain) {
-    cookie += `; domain=${sDomain}`;
-  }
-
-  if (secure) {
-    cookie += '; Secure';
-  }
-
-  document.cookie = cookie;
   return true;
 }

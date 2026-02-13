@@ -184,40 +184,29 @@ function stripslashes(str)
 	return str;
 }
 
-function setCookie(c_name, value, exdays) {
-	var exdate = new Date();
-	if (exdays != null) {
-		exdate.setDate(exdate.getDate() + exdays);
-	}
+function setCookie(c_name,value,exdays)
+{
+	var exdate=new Date();
+	exdate.setDate(exdate.getDate() + exdays);
+	var c_value = escape(value)
+		+ ((exdays==null) ? '' : '; expires=' + exdate.toUTCString())
+		+ '; path=/; Secure';
 
-	// Build cookie attributes
-	var attrs = '; path=/; SameSite=Lax';
-	if (location && location.protocol === 'https:') {
-		attrs += '; Secure';
-	}
-
-	// Delete old cookie (match attributes so deletion works reliably)
-	document.cookie = encodeURIComponent(c_name) + '=; expires=Thu, 01 Jan 1970 00:00:00 GMT' + attrs;
-
-	// Set new cookie
-	var c_value = encodeURIComponent(String(value)) +
-		(exdays == null ? '' : '; expires=' + exdate.toUTCString()) +
-		attrs;
-
-	document.cookie = encodeURIComponent(c_name) + '=' + c_value;
+	document.cookie = c_name + '=; expires=Thu, 01-Jan-70 00:00:01 GMT; path=/; Secure';
+	document.cookie = c_name + '=' + c_value;
 }
 
-function getCookie(c_name) {
-	var name = encodeURIComponent(c_name) + '=';
-	var parts = document.cookie.split(';');
-
-	for (var i = 0; i < parts.length; i++) {
-		var p = parts[i].replace(/^\s+/, '');
-		if (p.indexOf(name) === 0) {
-			return decodeURIComponent(p.substring(name.length));
+function getCookie(c_name)
+{
+	var i,x,y,ARRcookies=document.cookie.split(';');
+	for (i=0;i<ARRcookies.length;i++) {
+		x=ARRcookies[i].substr(0,ARRcookies[i].indexOf('='));
+		y=ARRcookies[i].substr(ARRcookies[i].indexOf('=')+1);
+		x=x.replace(/^\s+|\s+$/g, '');
+		if (x==c_name) {
+			return unescape(y);
 		}
 	}
-	return null;
 }
 
 function urldecode(str) 
