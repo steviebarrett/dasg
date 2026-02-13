@@ -37,25 +37,22 @@ export function _attachEventListeners(br, parent = window.parent) {
     );
   });
 
-  window.addEventListener('message', event => {
+  const ALLOWED_MESSAGE_ORIGINS = new Set([
+    'https://dasg.ac.uk',
+    'https://dev.dasg.ac.uk',
+    'http://dasg.localhost',   // dev
+  ]);
 
-    // 1️⃣ Validate origin
-    if (event.origin !== window.location.origin) {
-      return;
-    }
+  window.addEventListener('message', (event) => {
+    // 1) Origin allowlist (explicit constants)
+    if (!ALLOWED_MESSAGE_ORIGINS.has(event.origin)) return;
 
-    // 2️⃣ Validate structure
-    if (
-        !event.data ||
-        typeof event.data !== 'object' ||
-        event.data.type !== MESSAGE_TYPE_FRAGMENT_CHANGE ||
-        typeof event.data.fragment !== 'string'
-    ) {
-      return;
-    }
+    // 2) Validate data shape BEFORE using it
+    const data = event.data;
+    if (!data || typeof data !== 'object') return;
+    if (data.type !== MESSAGE_TYPE_FRAGMENT_CHANGE) return;
+    if (typeof data.fragment !== 'string') return;
 
-    br.updateFromParams(
-        br.paramsFromFragment(event.data.fragment)
-    );
+    br.updateFromParams(br.paramsFromFragment(data.fragment));
   });
 }
