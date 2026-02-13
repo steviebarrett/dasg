@@ -38,11 +38,24 @@ export function _attachEventListeners(br, parent = window.parent) {
   });
 
   window.addEventListener('message', event => {
-    // Not a recognized message type, abort
-    if (!event.data || event.data.type !== MESSAGE_TYPE_FRAGMENT_CHANGE) {
+
+    // 1️⃣ Validate origin
+    if (event.origin !== window.location.origin) {
       return;
     }
 
-    br.updateFromParams(br.paramsFromFragment(event.data.fragment));
+    // 2️⃣ Validate structure
+    if (
+        !event.data ||
+        typeof event.data !== 'object' ||
+        event.data.type !== MESSAGE_TYPE_FRAGMENT_CHANGE ||
+        typeof event.data.fragment !== 'string'
+    ) {
+      return;
+    }
+
+    br.updateFromParams(
+        br.paramsFromFragment(event.data.fragment)
+    );
   });
 }
