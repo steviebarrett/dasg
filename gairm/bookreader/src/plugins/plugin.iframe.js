@@ -40,14 +40,15 @@ export function _attachEventListeners(br, parent = window.parent) {
   const ALLOWED_MESSAGE_ORIGINS = new Set([
     'https://dasg.ac.uk',
     'https://dev.dasg.ac.uk',
-    'http://dasg.localhost',   // dev
+    'http://dasg.localhost',
   ]);
 
-  window.addEventListener('message', (event) => {
-    // 1) Origin allowlist (explicit constants)
-    if (!ALLOWED_MESSAGE_ORIGINS.has(event.origin)) return;
+  const allowedSourceWindow = window;
 
-    // 2) Validate data shape BEFORE using it
+  window.addEventListener('message', (event) => {
+    if (!ALLOWED_MESSAGE_ORIGINS.has(event.origin)) return;
+    if (event.source !== allowedSourceWindow) return;
+
     const data = event.data;
     if (!data || typeof data !== 'object') return;
     if (data.type !== MESSAGE_TYPE_FRAGMENT_CHANGE) return;
