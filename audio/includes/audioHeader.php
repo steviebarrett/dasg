@@ -1,5 +1,11 @@
 <?php
 
+
+if (!defined('DASG_BOOTSTRAPPED')) {
+    http_response_code(403);
+    exit('Forbidden');
+}
+
 $archive = isset($_GET["archive"]) ? Functions::e($_GET["archive"]) : "crc";
 $domain = isset($_GET["domain"]) ? Functions::e($_GET["domain"]) : "s";
 

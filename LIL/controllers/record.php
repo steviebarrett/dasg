@@ -5,6 +5,10 @@ namespace controllers;
 use models\record as RecordModel;
 use views\record as RecordView;
 
+if (!defined('DASG_BOOTSTRAPPED')) {
+    http_response_code(403);
+    exit('Forbidden');
+}
 final class record extends ControllerBase
 {
     private RecordModel $_model;

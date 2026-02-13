@@ -1,5 +1,10 @@
 <?php
 
+if (!defined('DASG_BOOTSTRAPPED')) {
+    http_response_code(403);
+    exit('Forbidden');
+}
+
 $lenited = $_GET["lenited"] ?? '';
 $accInsens = $_GET["accInsens"] ?? '';
 

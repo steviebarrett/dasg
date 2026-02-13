@@ -6,6 +6,11 @@ namespace controllers;
 use views\admin as AdminView;
 use models\records as RecordsModel;
 
+if (!defined('DASG_BOOTSTRAPPED')) {
+    http_response_code(403);
+    exit('Forbidden');
+}
+
 final class admin extends ControllerBase
 {
     public function run($action = null): void

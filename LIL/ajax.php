@@ -7,6 +7,12 @@ header('X-Content-Type-Options: nosniff');
 
 require_once __DIR__ . '/includes/include.php';
 
+
+if (!defined('DASG_BOOTSTRAPPED')) {
+    http_response_code(403);
+    exit('Forbidden');
+}
+
 // -------------------------
 // JSON responder (consistent)
 // -------------------------

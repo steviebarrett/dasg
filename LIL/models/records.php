@@ -4,6 +4,10 @@
 namespace models;
 
 
+if (!defined('DASG_BOOTSTRAPPED')) {
+    http_response_code(403);
+    exit('Forbidden');
+}
 class records
 {
 	private $_db; //an instance of models\database

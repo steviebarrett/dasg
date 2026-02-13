@@ -1,4 +1,7 @@
 <?php
+declare(strict_types=1);
+
+define('DASG_BOOTSTRAPPED', true);      //used to prevent the direct loading of non-user viewable files
 
 ini_set("display_errors", 1);
 

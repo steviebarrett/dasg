@@ -3,6 +3,10 @@ declare(strict_types=1);
 
 namespace models;
 
+if (!defined('DASG_BOOTSTRAPPED')) {
+    http_response_code(403);
+    exit('Forbidden');
+}
 final class record
 {
     private string $ai;

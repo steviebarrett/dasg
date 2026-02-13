@@ -1,5 +1,12 @@
 <?php
 
+
+if (!defined('DASG_BOOTSTRAPPED')) {
+    http_response_code(403);
+    exit('Forbidden');
+}
+
+
 class BlogEntry
 {
 	private $id, $title, $author, $lexicopiaEntry, $publishDate, $updated;

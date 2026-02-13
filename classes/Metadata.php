@@ -1,5 +1,10 @@
 <?php
 
+if (!defined('DASG_BOOTSTRAPPED')) {
+    http_response_code(403);
+    exit('Forbidden');
+}
+
 class Metadata
 {
 	public static function getMetadata($textId, $all=true) {

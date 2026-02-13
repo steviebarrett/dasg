@@ -3,7 +3,10 @@
 
 namespace views;
 
-
+if (!defined('DASG_BOOTSTRAPPED')) {
+    http_response_code(403);
+    exit('Forbidden');
+}
 class team
 {
 	public function show() {

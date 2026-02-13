@@ -4,6 +4,10 @@ namespace views;
 
 use models;
 
+if (!defined('DASG_BOOTSTRAPPED')) {
+    http_response_code(403);
+    exit('Forbidden');
+}
 class record
 {
     private $_record;

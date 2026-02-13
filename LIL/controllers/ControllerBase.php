@@ -3,6 +3,11 @@ declare(strict_types=1);
 
 namespace controllers;
 
+if (!defined('DASG_BOOTSTRAPPED')) {
+    http_response_code(403);
+    exit('Forbidden');
+}
+
 abstract class ControllerBase
 {
     protected function requirePost(): void

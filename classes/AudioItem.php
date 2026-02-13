@@ -1,5 +1,11 @@
 <?php
 
+
+if (!defined('DASG_BOOTSTRAPPED')) {
+    http_response_code(403);
+    exit('Forbidden');
+}
+
 class AudioItem {
 	
 	private $isVideo, $title, $original_tape_name, $completed, $physical_location, $digital_location, $digital_reference,

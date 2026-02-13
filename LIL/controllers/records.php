@@ -5,6 +5,10 @@ namespace controllers;
 use models;
 use views;
 
+if (!defined('DASG_BOOTSTRAPPED')) {
+    http_response_code(403);
+    exit('Forbidden');
+}
 final class records extends ControllerBase
 {
     public function run(string $action): void

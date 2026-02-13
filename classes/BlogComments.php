@@ -1,5 +1,11 @@
 <?php
 
+
+if (!defined('DASG_BOOTSTRAPPED')) {
+    http_response_code(403);
+    exit('Forbidden');
+}
+
 class BlogComments
 {	
 	public static function getBlogComment($id) 

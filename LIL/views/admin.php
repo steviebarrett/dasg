@@ -7,6 +7,10 @@ namespace views;
 use models\functions;
 use models\records;
 
+if (!defined('DASG_BOOTSTRAPPED')) {
+    http_response_code(403);
+    exit('Forbidden');
+}
 class admin
 {
     private records $_model;                 // an instance of models\records

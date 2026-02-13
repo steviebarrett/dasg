@@ -1,6 +1,8 @@
 <?php
 declare(strict_types=1);
 
+define('DASG_BOOTSTRAPPED', true);      //used to prevent the direct loading of non-user viewable files
+
 /**
  * include.php
  * - sets session config

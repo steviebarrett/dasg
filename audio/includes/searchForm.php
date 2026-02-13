@@ -1,5 +1,11 @@
 <?php
 
+
+if (!defined('DASG_BOOTSTRAPPED')) {
+    http_response_code(403);
+    exit('Forbidden');
+}
+
 $hasTranscriptions = AudioItems::archiveHasTranscriptions($_GET["archive"]);
 
 $searchTypes = array(
