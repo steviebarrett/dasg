@@ -2,6 +2,11 @@
 
 require_once '../includes/include.php';
 
+if (!defined('DASG_BOOTSTRAPPED')) {
+    http_response_code(403);
+    exit('Forbidden');
+}
+
 $method = $_SERVER['REQUEST_METHOD'] ?? 'GET';
 $action = (string)($_REQUEST['action'] ?? ''); // allows GET for read-only, POST for writes
 

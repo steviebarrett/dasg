@@ -3,6 +3,11 @@ declare(strict_types=1);
 
 require_once '../includes/include.php';
 
+if (!defined('DASG_BOOTSTRAPPED')) {
+    http_response_code(403);
+    exit('Forbidden');
+}
+
 header('Content-Type: application/json; charset=UTF-8');
 
 $action = (string)($_GET['action'] ?? '');

@@ -36,9 +36,16 @@ class DB
 	
 	public static function getLastId($dbName, $tableName) 
 	{
+        // allowlist
+        $tableNames = ['blogComment', 'bdl_page', 'meek_transcription'];
+        if ($dbName != DB_NAME || !in_array($tableName, $tableNames)) {
+            echo json_encode(["error" => "DB/table allowlist error"]);
+            return null;
+        }
+
 		$dbh = self::getDatabaseHandle($dbName);
-		$stmt = $dbh->prepare("SELECT `AUTO_INCREMENT` FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_SCHEMA = '{$dbName}' AND TABLE_NAME   = '{$tableName}'");
-		$stmt->execute();
+		$stmt = $dbh->prepare("SELECT `AUTO_INCREMENT` FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_SCHEMA = :db AND TABLE_NAME = :table");
+		$stmt->execute([":db" => $dbName, ":table" => $tableName]);
 		$lastId = $stmt->fetch(PDO::FETCH_NUM);
 		$lastId = $lastId[0];
 		return $lastId;
