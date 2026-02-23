@@ -171,8 +171,7 @@ echo <<<HTML
   		<script async src="https://www.googletagmanager.com/gtag/js?id={$gaIdAttr}"></script>
   		<script defer src="/js/google.js"></script>
   			
-  			
-  	    <script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+  	    <script src="https://code.jquery.com/jquery-3.7.1.slim.min.js" integrity="sha256-kmHvs0B+OpCW5GVHUNjv9rOmY0IvSIRcf7zGUDTDQM8=" crossorigin="anonymous"></script>
   		<script type="text/javascript" src="/js/jquery.caret.js"></script> 
   		<script type="text/javascript" src="/js/jquery.validate.min.js"></script> 
   		<script type="text/javascript" src="/js/bpopup.min.js"></script>
