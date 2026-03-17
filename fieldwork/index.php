@@ -24,7 +24,7 @@ $searchScope = isset($_GET["searchScope"]) ? Functions::e($_GET["searchScope"]) 
 
 $javascriptBlock = <<<HTML
 
-    <script type="text/javascript" src="/js/jquery.slides.min.js"/></script>
+    <script type="text/javascript" src="/js/jquery.slides.min.js"></script>
 	<script type="text/javascript">
 	
 		var id = "{$id}";
@@ -58,9 +58,9 @@ $javascriptBlock = <<<HTML
             $('#reset').on('click', function() {
                $('#q').val("");
                $('#q').focus();
-               $('#lenited').attr('checked', false);
-               $('#accInsens').attr('checked', false);
-               $('#searchScopeAll').attr('checked', true);
+               $('#lenited').prop('checked', false);
+               $('#accInsens').prop('checked', false);
+               $('#searchScopeAll').prop('checked', true);
             });
             
             //Check to see if the window is top if not then display button
@@ -85,7 +85,7 @@ $javascriptBlock = <<<HTML
         
         function updateFieldworkDoc(url,id,headword,query,resultId)
         {
-            $.ajax({url:url, datatype:"html"})
+            $.ajax({url:url, dataType:"html"})
             .done(function(data) {
                 //colour code the headword
                 data = data.replace('<a id="'+id+'"/>'+headword, '<a id="'+id+'"/><span class="hi">'+headword+'</span>');
@@ -96,8 +96,8 @@ $javascriptBlock = <<<HTML
 				$('#documentContainer').show();
                 goToByScroll(id);
             });
-			$('.backLink').attr("href", "#");
-            $('.backLink').attr("onclick", "$('#documentContainer').hide();$('#contentContainer').show();goToByScroll('"+resultId+"');");
+			$('.backLink').prop("href", "#");
+            $('.backLink').prop("onclick", "$('#documentContainer').hide();$('#contentContainer').show();goToByScroll('"+resultId+"');");
             $('.backToResults').show();
         }
         
@@ -478,7 +478,7 @@ HTML;
     </div>
     
     <script>
-    	$(window).load(function() {
+    	$(window).on('load', function () {
      		$('#loading').hide();
   		});
     </script>
