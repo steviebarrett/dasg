@@ -16,7 +16,7 @@ $lenitedHtml = $accentSelectedHtml = $searchAllHtml = $searchHeadHtml = $searchD
 $pageTitle = "Search the Fieldwork Archive";
 $pageSlug = "fieldwork";
 
-$id = isset($_GET["id"]) ? Functions::e(["id"]) : "";
+$id = isset($_GET["id"]) ? Functions::e($_GET["id"]) : "";
 $q = isset($_GET["q"]) ? Functions::e($_GET["q"]) : "";
 $l = isset($_GET["l"]) ? Functions::e($_GET["l"]) : "";
 $as = isset($_GET["as"]) ? Functions::e($_GET["as"]) : "";
