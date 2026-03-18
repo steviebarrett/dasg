@@ -171,7 +171,7 @@ HTML;
     {
         $word = (string)$word;
         if (!self::canBeLenited($word)) return $word;
-        return self::e(substr_replace($word, "h=", 1, 0));
+        return substr_replace($word, "h=", 1, 0);
     }
 
     public static function getAccentInsensitive($text, $caseSens = true)
@@ -184,15 +184,116 @@ HTML;
         foreach (self::str_split_unicode((string)$text) as $char) {
             $replaced = false;
             foreach ($accentMappedChars as $accentMap) {
-                if (stristr($accentMap, $char)) {
-                    $regExp .= "[{$accentMap}]+";
+                if (mb_strpos($accentMap, $char) !== false) {
+                    $regExp .= "[{$accentMap}]";
                     $replaced = true;
                     break;
                 }
             }
-            if (!$replaced) $regExp .= preg_quote($char, '/');
+            if (!$replaced) {
+                $regExp .= preg_quote($char, '/');
+            }
         }
-        return self::e($regExp);
+
+        return $regExp;
+    }
+
+    public static function getAccentInsensitiveRegex($regex, $caseSens = true)
+    {
+        $regex = (string)$regex;
+
+        $map = $caseSens
+            ? [
+                'a' => '[aàá]',
+                'e' => '[eèé]',
+                'i' => '[iìí]',
+                'o' => '[oòó]',
+                'u' => '[uùú]',
+                'à' => '[aàá]',
+                'á' => '[aàá]',
+                'è' => '[eèé]',
+                'é' => '[eèé]',
+                'ì' => '[iìí]',
+                'í' => '[iìí]',
+                'ò' => '[oòó]',
+                'ó' => '[oòó]',
+                'ù' => '[uùú]',
+                'ú' => '[uùú]',
+            ]
+            : [
+                'a' => '[aàáAÀÁ]',
+                'e' => '[eèéEÈÉ]',
+                'i' => '[iìíIÌÍ]',
+                'o' => '[oòóOÒÓ]',
+                'u' => '[uùúUÙÚ]',
+                'A' => '[aàáAÀÁ]',
+                'E' => '[eèéEÈÉ]',
+                'I' => '[iìíIÌÍ]',
+                'O' => '[oòóOÒÓ]',
+                'U' => '[uùúUÙÚ]',
+                'à' => '[aàáAÀÁ]',
+                'á' => '[aàáAÀÁ]',
+                'À' => '[aàáAÀÁ]',
+                'Á' => '[aàáAÀÁ]',
+                'è' => '[eèéEÈÉ]',
+                'é' => '[eèéEÈÉ]',
+                'È' => '[eèéEÈÉ]',
+                'É' => '[eèéEÈÉ]',
+                'ì' => '[iìíIÌÍ]',
+                'í' => '[iìíIÌÍ]',
+                'Ì' => '[iìíIÌÍ]',
+                'Í' => '[iìíIÌÍ]',
+                'ò' => '[oòóOÒÓ]',
+                'ó' => '[oòóOÒÓ]',
+                'Ò' => '[oòóOÒÓ]',
+                'Ó' => '[oòóOÒÓ]',
+                'ù' => '[uùúUÙÚ]',
+                'ú' => '[uùúUÙÚ]',
+                'Ù' => '[uùúUÙÚ]',
+                'Ú' => '[uùúUÙÚ]',
+            ];
+
+        $out = '';
+        $chars = preg_split('//u', $regex, -1, PREG_SPLIT_NO_EMPTY);
+        $inClass = false;
+        $escaped = false;
+
+        foreach ($chars as $ch) {
+            if ($escaped) {
+                $out .= '\\' . $ch;
+                $escaped = false;
+                continue;
+            }
+
+            if ($ch === '\\') {
+                $escaped = true;
+                continue;
+            }
+
+            if ($ch === '[') {
+                $inClass = true;
+                $out .= $ch;
+                continue;
+            }
+
+            if ($ch === ']') {
+                $inClass = false;
+                $out .= $ch;
+                continue;
+            }
+
+            if (!$inClass && isset($map[$ch])) {
+                $out .= $map[$ch];
+            } else {
+                $out .= $ch;
+            }
+        }
+
+        if ($escaped) {
+            $out .= '\\';
+        }
+
+        return $out;
     }
 
     public static function str_split_unicode($str, $l = 0)
@@ -225,7 +326,6 @@ HTML;
 
     public static function buildFieldworkWildcardRegex(string $raw): string
     {
-        // Limit raw input length
         $raw = trim($raw);
         if ($raw === '') return '';
 
@@ -233,18 +333,13 @@ HTML;
             throw new RuntimeException('Query too long');
         }
 
-        // Limit wildcard counts (prevents regex blowups)
         $wcCount = substr_count($raw, '*') + substr_count($raw, '?') + substr_count($raw, '~');
         if ($wcCount > 10) {
             throw new RuntimeException('Query too complex');
         }
 
-        // Replace straight apostrophe with your XML apostrophe
         $raw = str_replace("'", "’", $raw);
 
-        // Build regex by walking characters:
-        // - normal chars are preg_quoted
-        // - wildcards expand to your charclasses
         $out = '';
         $chars = preg_split('//u', $raw, -1, PREG_SPLIT_NO_EMPTY);
 
@@ -260,14 +355,50 @@ HTML;
             }
         }
 
-        // Optional extra tweak you had:
-        $out = str_replace('h=', 'h?', $out);
+        // Turn lenition marker h= into optional h
+        $out = str_replace('h\=', 'h?', $out);
 
-        // Final size cap (belt-and-braces)
         if (strlen($out) > 5000) {
             throw new RuntimeException('Query too complex');
         }
 
         return $out;
     }
+
+    public static function highlightFieldworkText(string $text, string $pattern, bool $convertNewlines = false): string
+    {
+        if ($text === '') {
+            return '';
+        }
+
+        if (@preg_match($pattern, '') === false) {
+            $escaped = Functions::e($text);
+            return $convertNewlines ? nl2br($escaped) : $escaped;
+        }
+
+        if (!preg_match_all($pattern, $text, $matches, PREG_OFFSET_CAPTURE)) {
+            $escaped = Functions::e($text);
+            return $convertNewlines ? nl2br($escaped) : $escaped;
+        }
+
+        $out = '';
+        $lastPos = 0;
+
+        foreach ($matches[0] as $match) {
+            $matchText = $match[0];
+            $matchPos  = $match[1];
+            $matchLen  = strlen($matchText);
+
+            $before = substr($text, $lastPos, $matchPos - $lastPos);
+            $out .= Functions::e($before);
+            $out .= '<span class="hi">' . Functions::e($matchText) . '</span>';
+
+            $lastPos = $matchPos + $matchLen;
+        }
+
+        $out .= Functions::e(substr($text, $lastPos));
+
+        return $convertNewlines ? nl2br($out) : $out;
+    }
+
 }
