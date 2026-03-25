@@ -92,15 +92,15 @@ if (!headers_sent()) {
 require_once '.env';
 
 // ========= Autoload =========
-// ========= Autoload =========
 spl_autoload_extensions('.php');
 
 spl_autoload_register(function ($class) {
+    $base = dirname(__DIR__);   // /.../LIL
     $relative = str_replace('\\', DIRECTORY_SEPARATOR, $class) . '.php';
 
     $candidates = [
-        __DIR__ . DIRECTORY_SEPARATOR . $relative,
-        __DIR__ . DIRECTORY_SEPARATOR . strtolower($relative),
+        $base . DIRECTORY_SEPARATOR . $relative,
+        $base . DIRECTORY_SEPARATOR . strtolower($relative),
     ];
 
     foreach ($candidates as $file) {
@@ -110,7 +110,5 @@ spl_autoload_register(function ($class) {
         }
     }
 
-    // fallback to include_path behaviour
-    @spl_autoload($class);
-    return class_exists($class, false) || interface_exists($class, false) || trait_exists($class, false);
+    return false;
 });
