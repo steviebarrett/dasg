@@ -92,5 +92,25 @@ if (!headers_sent()) {
 require_once '.env';
 
 // ========= Autoload =========
-spl_autoload_extensions(".php");
-spl_autoload_register();
+// ========= Autoload =========
+spl_autoload_extensions('.php');
+
+spl_autoload_register(function ($class) {
+    $relative = str_replace('\\', DIRECTORY_SEPARATOR, $class) . '.php';
+
+    $candidates = [
+        __DIR__ . DIRECTORY_SEPARATOR . $relative,
+        __DIR__ . DIRECTORY_SEPARATOR . strtolower($relative),
+    ];
+
+    foreach ($candidates as $file) {
+        if (is_file($file)) {
+            require_once $file;
+            return true;
+        }
+    }
+
+    // fallback to include_path behaviour
+    @spl_autoload($class);
+    return class_exists($class, false) || interface_exists($class, false) || trait_exists($class, false);
+});
