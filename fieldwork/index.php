@@ -36,42 +36,30 @@ $qHtml = Functions::e($q);
 $jsonId = json_encode($id);
 $backLink = '/fieldwork/search?q=' . rawurlencode($q);
 
-$javascriptBlock = <<<HTML
-<script type="text/javascript" src="/js/jquery.slides.min.js"></script>
+$javascriptBlock = <<<'HTML'
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
+
 <script type="text/javascript">
-    var id = {$jsonId};
+    var id = __ID__;
 
     $(document).ready(function () {
         
         $('#fieldworkSearchBox form').on('submit', function () {
             $('#loading').show();
         });
-
-        if ($('#slideshowSlides').length && $.fn.slidesjs) {
-            $('#slideshowSlides').slidesjs({
-                width: 450,
-                height: 450,
-                navigation: {
-                    active: false
-                },
-                pagination: {
-                    active: false
-                },
-                play: {
-                    active: false,
-                    auto: true,
-                    interval: 4000,
-                    swap: true,
-                    effect: "fade"
-                },
-                effect: {
-                    fade: {
-                        speed: 1500,
-                        crossfade: true
-                    }
-                }
+    
+        if ($('#slideshowSlides').length) {
+            $('#slideshowSlides').slick({
+                autoplay: true,
+                autoplaySpeed: 4000,
+                arrows: false,
+                dots: false,
+                fade: true,
+                speed: 1500
             });
         }
+
 
         $('#reset').on('click', function () {
             $('#q').val('').focus();
@@ -128,13 +116,13 @@ $javascriptBlock = <<<HTML
 
     function goToByScroll(id)
     {
-        var \$target = $('#' + id);
+        var $target = $('#' + id);
 
-        if (!\$target.length) {
+        if (!$target.length) {
             return;
         }
 
-        var idPos = \$target.offset().top;
+        var idPos = $target.offset().top;
         $('html, body').animate({scrollTop: idPos - 30}, 'slow');
     }
 
@@ -142,7 +130,7 @@ $javascriptBlock = <<<HTML
     {
         if (!word) return line;
 
-        var escaped = word.replace(/[.*+?^\${}()|[\]\\]/g, '\\\\$&');
+        var escaped = word.replace(/[.*+?^${}()|[\]\\]/g, '\\\\$&');
         var regex = new RegExp('(' + escaped + ')', 'gi');
 
         return line.replace(regex, '<span class="hi">$1</span>');
@@ -151,6 +139,8 @@ $javascriptBlock = <<<HTML
    
 </script>
 HTML;
+
+$javascriptBlock = str_replace('__ID__', $jsonId, $javascriptBlock);
 
 $cqpPage = true;
 

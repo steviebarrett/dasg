@@ -34,16 +34,16 @@ switch($_POST['action'])
         $stmt = $dbh->prepare("SELECT short_title, reference_editor as ed, reference_author as au, reference_volume AS vol FROM corpus_text WHERE reference_number = :id");
         $stmt->execute(array(':id' => $_POST["text"]));
         $text = $stmt->fetch(PDO::FETCH_ASSOC);
-        $title = $text["short_title"];
-        $vol = $text["vol"] ? ' ' . $text["vol"] : '';
-        $issue = $_POST["issue"] ? " {$_POST["issue"]}" : '';
+        $title = isset($text["short_title"]) ? $text["short_title"] : '' ;
+        $vol = isset($text["vol"]) ? ' ' . $text["vol"] : '';
+        $issue = isset($_POST["issue"]) ? " {$_POST["issue"]}" : '';
 
         $break = $_POST['type'] == 'sense' ? '<br>' : '';
         $citation = trim($_POST["citation"]);
         $mark = trim($_POST["mark"]);
         $citation = $mark !== '' ? str_replace($mark, "<mark>{$mark}</mark>", $citation) : $citation;
         $preText = "";
-        if ($text['ed'] || $text['au']) {
+        if (isset($text['ed']) || isset($text['au'])) {
             $preText = ($text['au'])
                 ? '<span class="small-caps">' . ucfirst(strtolower($text["au"])) . '</span>'
                 : $text["ed"];

@@ -6,6 +6,8 @@ $pageTitle = "Faclair Entry Generator";
 
 require_once '../includes/htmlHeader.php';
 
+$pageSlug = "faclairEntry";
+
 echo <<<HTML
      
         <dl>

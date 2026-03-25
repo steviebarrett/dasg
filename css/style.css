@@ -737,17 +737,20 @@ div.queryMeta {
 }
 
 #slideshowContainer {
-	margin-left:200px;
-	width:450px;
-	height:450px;
-	align:center;
-	vertical-align:middle;
+	width: 50%;
+	max-width: 75%;
+	margin: 0 0 0 40%;
 }
 
 #slideshowSlides {
-	display:none;
-	margin-top:-70px;
-}	
+	width: 100%;
+}
+
+#slideshowSlides .slick-slide img {
+	width: 100%;
+	aspect-ratio: 1 / 1;
+	object-fit: contain;
+}
 
 #fieldworkResults dd {
 	margin-bottom:15px;	

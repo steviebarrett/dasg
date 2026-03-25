@@ -1,10 +1,11 @@
 <?php
 
 //classes
+/*
 require_once 'classes/User.php';
 require_once 'classes/Users.php';
 require_once 'classes/Email.php';
-
+*/
 $cqpPage = true;
 
 require_once 'includes/include.php';
@@ -106,7 +107,7 @@ switch ($action)
 			<label for="pass1">Password:</label>
 			<input type="password" id="pass1" name="pass1"/>
 			
-			<label for="pass1">Re-enter password:</label>
+			<label for="pass2">Re-enter password:</label>
 			<input type="password" id="pass2" name="pass2"/>
 			
 			<input type="hidden" name="email" value="{$emailEsc}"/>

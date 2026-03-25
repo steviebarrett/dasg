@@ -3,6 +3,10 @@ declare(strict_types=1);
 
 define('DASG_BOOTSTRAPPED', true);      //used to prevent the direct loading of non-user viewable files
 
+if (session_status() !== PHP_SESSION_ACTIVE) {
+    session_start();
+}
+
 ini_set("display_errors", 1);
 
 date_default_timezone_set('Europe/London');

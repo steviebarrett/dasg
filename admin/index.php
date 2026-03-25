@@ -23,49 +23,50 @@ if (isset($_GET["reference_number"])) {
 require_once '../includes/htmlHeader.php';
 
 if (Functions::showLoginForm() == true) {
-    
-    $user = Users::getUser($_SESSION["user"]);
-    
-    //check for blog admin status
-    if ($user->getIsBlogAdmin() != 1) {
-        Functions::writeError("You are not authorised to view this page");
-    }
-    
-    if ($_POST["action"] == "save") {
-        Metadata::saveMetadata($_POST);
-        echo "<h2 class=\"error\">Text Saved</h2>";
-        unset($_POST);
-    }
-    
-    if ($reference_number) {
-        
-        if ($reference_number == -1) {
-            $reference_number = "";
-            $text = array();
-        } else {
-            $text = Metadata::getAllMetadata($reference_number);
-        }
-        
-        $addToCorpusYes = "";
-        $addToCorpusNo = "checked";
-        if ($text["add_to_corpus"] == "y") {
-            $addToCorpusYes = "checked";
-            $addToCorpusNo = "";
-        }
-        
-        //dateMacro options HTML
-        $dateMacroHtml = "<option value=\"\">---select---</option>";
-        $dateMacroOptions = array("12th c.", "16th c.", "17th c.", "Early 18th c.", "Mid 18th c.", "Late 18th c.",
-            "Early 19th c.", "Mid 19th c.", "Late 19th c.", "Early 20th c.", "Mid 20th c.", "Late 20th c.",
-            "Early 21st c.", "Various", "Unknown"
-        );
-        foreach ($dateMacroOptions as $date) {
-            $selected = "";
-            if ($date == $text["dateMacro"]) {
-                $selected = "selected";
+
+    if (isset($_SESSION["user"])) {
+            $user = Users::getUser($_SESSION["user"]);
+
+            //check for blog admin status
+            if ($user->getIsBlogAdmin() != 1) {
+                Functions::writeError("You are not authorised to view this page");
             }
-            $dateMacroHtml .= <<<HTML
-                <option value="{$date}" {$selected}>{$date}</option>
+
+            if (isset($_POST["action"]) && $_POST["action"] == "save") {
+                Metadata::saveMetadata($_POST);
+                echo "<h2 class=\"error\">Text Saved</h2>";
+                unset($_POST);
+            }
+
+            if ($reference_number) {
+
+                if ($reference_number == -1) {
+                    $reference_number = "";
+                    $text = array();
+                } else {
+                    $text = Metadata::getAllMetadata($reference_number);
+                }
+
+                $addToCorpusYes = "";
+                $addToCorpusNo = "checked";
+                if ($text["add_to_corpus"] == "y") {
+                    $addToCorpusYes = "checked";
+                    $addToCorpusNo = "";
+                }
+
+                //dateMacro options HTML
+                $dateMacroHtml = "<option value=\"\">---select---</option>";
+                $dateMacroOptions = array("12th c.", "16th c.", "17th c.", "Early 18th c.", "Mid 18th c.", "Late 18th c.",
+                    "Early 19th c.", "Mid 19th c.", "Late 19th c.", "Early 20th c.", "Mid 20th c.", "Late 20th c.",
+                    "Early 21st c.", "Various", "Unknown"
+                );
+                foreach ($dateMacroOptions as $date) {
+                    $selected = "";
+                    if ($date == $text["dateMacro"]) {
+                        $selected = "selected";
+                    }
+                    $dateMacroHtml .= <<<HTML
+                        <option value="{$date}" {$selected}>{$date}</option>
 HTML;
         }
         
@@ -363,11 +364,11 @@ HTML;
 			<a href="index.php" title="Back to Admin Home">< Back to Admin Home</a>
 HTML;
                         
-    } else {								//no text selected, show the list
-        
+    } else {                                //no text selected, show the list
+
         $texts = Metadata::getAllTextShortTitles();
         $formHtml = "<option selected=\"selected\" value=\"-1\">-- Add a new text --</option>";
-        foreach ($texts as $reference_number=>$short_title) {
+        foreach ($texts as $reference_number => $short_title) {
             $formHtml .= <<<HTML
 				<option value="{$reference_number}">{$reference_number} - {$short_title}</option>
 HTML;
@@ -385,7 +386,7 @@ HTML;
 			</form>
 			
 HTML;
-					
+    }
                         }
 }
 
