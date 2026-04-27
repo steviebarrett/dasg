@@ -63,6 +63,36 @@ var JOT_siteRelTimeStrs = ["a minute ago","__duration__ minutes ago","an hour ag
                 window.jstiming.load.tick('scl');
               </script>
 <style type="text/css">
+    .variant {
+        display: grid;
+        grid-template-columns: 1.5em 1em 1em auto;
+        align-items: center;
+        column-gap: 0em;
+        margin: 1.5em 0;
+        font-family: "Times New Roman", Times, serif;
+        font-size: 1.1rem;
+    }
+
+    .num {
+        align-self: start;
+        margin-right: 0;
+    }
+
+    .letter {
+        align-self: center;
+        text-align: right;
+    }
+
+    .brace {
+        font-size: 2.6em;
+        line-height: 0.55;
+        transform: scaleX(0.7);
+    }
+
+    .lines {
+        padding-left: 0.4em;
+        line-height: 1.45;
+    }
 </style>
 <link rel="stylesheet" type="text/css" href="../../../../ssl.gstatic.com/sites/p/aefd9e/system/app/themes/solitudecherry/standard-css-solitudecherry-ltr-ltr.css" />
 <link rel="stylesheet" type="text/css" href="../_/rsrc/1306176408000/system/app/css/overlayddde.css?cb=solitudecherry25a90%25300goog-ws-leftnonethemedefaultstandard" />
@@ -256,14 +286,14 @@ var JOT_siteRelTimeStrs = ["a minute ago","__duration__ minutes ago","an hour ag
 <h1 style="font-family:times new roman,serif;font-weight:normal"><a name="TOC-Gillcallu-mcynnollecg-in-turskail-s"></a><font size="4">Gillcallu’ m<span><sup>c</sup></span><span>ynnollecg
 in turskail so seis</span></font></h1>
 <p style="font-family:times new roman,serif"><font size="4">[1.]<span>   </span>Di ċoala ma
-fad o hen / skail (is coslow rair gow) [di vonis re cowe]<br /><span>    </span><span>    </span>Is traa ȝa hay<span><sup>t</sup></span><span>ris
-gow trome gata (na) [mir] a’neis orrinn<br />
+fad o hen / skail (is coslow rair gow) ⎡di vonis re cowe⎤<br /><span>    </span><span>    </span>Is traa ȝa hay<span><sup>t</sup></span><span>ris
+gow trome gata (na) ⎡mir⎤ a’neis orrinn<br />
 </span></font></p>
 <p style="font-family:times new roman,serif"><font size="4"><span>[2.]<span>   </span>Clanni
-rowre ni braa mawle fa chonchir is fa chonnil<br /><span>    </span><span><span>    </span></span>(Er orle) [Di
-burlow] oyg // [err] (n)si wyġ (gow) [er] hurlair chogew vllycht</span></font></p>
-<p style="font-family:times new roman,serif"><font size="4"><span>[3.]<span>   </span>Ga hyġ ne hanik na
-genn fa vlli</span><span><sup>t</sup></span><span> (olsa eirrinn) leichre &lt;<span>     </span>&gt;<br /><span>    </span><span>    </span>(Eachtre ard) [Cath er waall] Innoyr elly</span><span><sup>t</sup></span><span> dar ȝy’mone clanny</span><span><sup>t</sup></span></font></p>
+rowre ni braa mawle fa chonchir is fa chonnil<br /><span>    </span><span><span>    </span></span>(Er orle) ⎡Di
+burlow⎤ oyg // ⎡err⎤ (n)si wyġ (gow) ⎡er⎤ hurlair chogew vllycht</span></font></p>
+<!-- p style="font-family:times new roman,serif"><font size="4"><span>[3.]<span>   </span>Ga hyġ ne hanik na
+genn fa vlli</span><span><sup>t</sup></span><span> (olsa eirrinn) leichre &lt;<span>     </span>&gt;<br /><span>    </span><span>    </span>(Eachtre ard) ⎡Cath er waall⎤ Innoyr elly</span><span><sup>t</sup></span><span> dar ȝy’mone clanny</span><span><sup>t</sup></span></font></p>
 <p style="margin-left:0mm;text-indent:0mm;font-family:times new roman,serif"><font size="4">[4.]<span><span>   </span></span>hanik hukki<span><sup>t</sup></span><span> borbe a rei</span><span><sup>t</sup></span><span> ir gvrre croich connleich<br /><span>    </span><span><span>    </span></span>a ȝis ni mvr
 glarri</span><span><sup>t</sup></span><span>
 grinn oo ȝown skay</span><span><sup>t</sup></span><span> gow errinn</span></font></p>
@@ -271,27 +301,65 @@ grinn oo ȝown skay</span><span><sup>t</sup></span><span> gow errinn</span></fon
 coŋchovir (ȝ) re ca</span><span><sup>a</sup></span><span>ch Ca </span><span><span>Z</span>ovemy’
 chon (a wakcaive) [in noigl&lt;e&gt;y</span><span><sup>t</sup><br /><span>    </span><span>    </span></span>Di
 w<span><sup>r</sup></span><span>ea beacht ny’
-skailich ȝaa gy’ teachta la hairrei</span><span><sup>t</sup></span><span> woa&lt;<span>   </span>&gt;</span></font></p>
+skailich ȝaa gy’ teachta la hairrei</span><span><sup>t</sup></span><span> woa&lt;<span>   </span>&gt;</span></font></p-->
+
+
+
+    <div class="variant">
+        <div class="num">[3.]</div>
+        <div class="letter">b</div>
+        <div class="brace">⎧<br>⎩</div>
+        <div class="lines">
+            <div>Ga hyġ ne hanik na genn fa vlli</span><span><sup>t</sup></span><span> (olsa eirrinn) leichre &lt;<span>     </span>&gt;</div>
+            <div>(Eachtre ard) ⎡Cath er waall⎤ Innoyr elly<sup>t</sup> dar ȝy’mone clanny<sup>t</sup></div>
+        </div>
+    </div>
+
+
+    <div class="variant">
+        <div class="num">[4.]</div>
+        <div class="letter">a</div>
+        <div class="brace">⎧<br>⎩</div>
+        <div class="lines">
+            <div>hanik hukki<span><sup>t</sup></span><span> borbe a rei</span><span><sup>t</sup></span> ir gvrre croich connleich</div>
+            <div>a ȝis ni mvr
+                glarri</span><span><sup>t</sup></span><span>
+grinn oo ȝown skay</span><span><sup>t</sup></span><span> gow errinn</span></font></div>
+        </div>
+    </div>
+
+
+    <div class="variant">
+        <div class="num">[5.]</div>
+        <div class="letter">&lt;C&gt;</div>
+        <div class="brace">⎧<br>⎩</div>
+        <div class="lines">
+            <div>Di law<u>ir</u> con̄chovir (ȝ) re ca<sup>a</sup>ch Ca ȝovemy’ chon (a wakcaive) ⎡in noigl&lt;e&gt;y<sup>t</sup>⎤</div>
+            <div>Di w<sup>r</sup>ea beacht ny’ skailich ȝaa gy’ teachta la hairrei<sup>t</sup> woa&lt;   &gt;</div>
+        </div>
+    </div>
+
+
 <p style="font-family:times new roman,serif"><font size="4">[6.]<span>   </span>Glossis
-Connil nar lag laive di wrea skaillei<span><sup>t</sup></span><span> din vakcaive<br /><span>    </span><span>    </span>Er darve torrin di’ leich Cayvelir coŋil (&lt;c&gt;) laa coŋl&lt;eicht&gt;</span></font></p>
+Connil nar lag laive di wrea skaillei<span><sup>t</sup></span><span> din vakcaive<br /><span>    </span><span>    </span>Er darve torrin di’ leich Cayvelir con̄il (&lt;c&gt;) laa con̄l&lt;eicht&gt;</span></font></p>
 <p style="font-family:times new roman,serif"><font size="4"><span>[7.]<span>   </span>Neir
-ȝoive in leich ra lawycht Coŋil frei&lt;cy&gt;ch forrany</span><span><sup>t</sup></span></font></p>
+ȝoive in leich ra lawycht Con̄il frei&lt;cy&gt;ch forrany</span><span><sup>t</sup></span></font></p>
 <h4><a name="TOC-MS-p.-237"></a>MS p. 237</h4><p style="font-family:times new roman,serif"><font size="4"><span><span>    </span><span>    </span>Cayd dar sloyġ di cawlei</span><span><sup>t</sup></span><span> les ayngny</span><span><sup>t</sup></span><span> is bone ra hay</span><span><sup>t</sup></span><span>ris</span></font></p>
 <p style="font-family:times new roman,serif"><font size="4"><span>[8.]<span>   </span>Currei</span><span><sup>t</sup></span><span> teachtir canni ni conni
-(gow) [woo] hardre ayngnei</span><span><sup>t</sup></span><span> vllei</span><span><sup>t</sup></span><span><br /><span>    </span><span>    </span>Gow down dalgin ȝrany</span><span><sup>t</sup></span><span> ȝlyin sen downe gayli</span><span><sup>t</sup></span><span> ni geill</span></font></p>
+(gow) ⎡woo⎤ hardre ayngnei</span><span><sup>t</sup></span><span> vllei</span><span><sup>t</sup></span><span><br /><span>    </span><span>    </span>Gow down dalgin ȝrany</span><span><sup>t</sup></span><span> ȝlyin sen downe gayli</span><span><sup>t</sup></span><span> ni geill</span></font></p>
 <p style="font-family:times new roman,serif"><font size="4"><span>[9.]<span>   </span>Woyn down sen
-di loyir linni di ȝangnowne neyŋ orginn<br /><span>    </span><span>    </span>Teggows gneive ny’ seir (acha) [ri</span><span><sup>t</sup></span><span>] sange gow rei</span><span><sup>t</sup></span><span> feilty</span><span><sup>t</sup></span><span> ny (f) warrin</span></font></p>
+di loyir linni di ȝangnowne neyn̄ orginn<br /><span>    </span><span>    </span>Teggows gneive ny’ seir (acha) ⎡ri</span><span><sup>t</sup></span><span>⎤ sange gow rei</span><span><sup>t</sup></span><span> feilty</span><span><sup>t</sup></span><span> ny (f) warrin</span></font></p>
 <p style="font-family:times new roman,serif"><font size="4"><span>[10.]<span><span>    </span></span>Disry</span><span><sup>t</sup></span><span> sloyg vlli</span><span><sup>t</sup></span><span> oynnych teiggows kow ni
 creive roye<br /><span>    </span><span>    </span><span>   </span>mak de&lt;ct&gt;in a ȝoyg mir howe nar ettee teacht dar gowir</span></font></p><h4><a name="TOC-MS-p.-2361"></a>MS p. 236</h4>
 <p style="font-family:times new roman,serif"><font size="4"><span>[11.]<span>    </span>Faddi</span><span><sup>t</sup></span><span> er chōchowir ris in gon
 wayġis gin tea&lt;ch&gt; dar gowir<br /><span>    </span><span>    </span><span>   </span>Is Conil surry</span><span><sup>t</sup></span><span> ny’ staid ma&lt;rr&gt;y</span><span><sup>t</sup></span><span> in gwry</span><span><sup>t</sup></span><span> is keada dar sloyġe&lt;w&gt;</span></font></p>
 <p style="font-family:times new roman,serif"><font size="4"><span>[12.]<span><span>    </span></span>Deakir
 ȝois wee y’ bred a ir chwre er charrit<br /><span>    </span><span>    </span><span>   </span>Ne in rai</span><span><sup>t</sup></span><span>
-dole in ayngny</span><span><sup>t</sup></span><span>(w) a lanni si taa lar ċawelei</span><span><sup>t</sup></span><span> coŋil</span></font></p>
+dole in ayngny</span><span><sup>t</sup></span><span>(w) a lanni si taa lar ċawelei</span><span><sup>t</sup></span><span> con̄il</span></font></p>
 <p style="font-family:times new roman,serif"><font size="4"><span>[13.]<span><span>    </span></span>Na
 smein gin dole na ȝye a re ni gormlaŋ granole<br /><span>    </span><span>    </span><span>   </span>a laive croy gin lagga re nacht smoyn er heddy</span><span><sup>t</sup></span><span> is a gwri</span><span><sup>t</sup></span></font></p>
 <p style="font-family:times new roman,serif"><font size="4"><span>[14.]<span><span>    </span></span>Cowchullin
-ny’ san(g&lt;i&gt;)[n] lanni sleim noair a choala Cury</span><span><sup>t</sup></span><span> Connil<br /><span>    </span><span>    </span><span>   </span>di ȝlossa la trane a laive di wraa skailli dy’ wakcaive</span></font></p>
+ny’ san(g&lt;i&gt;)⎡n⎤ lanni sleim noair a choala Cury</span><span><sup>t</sup></span><span> Connil<br /><span>    </span><span>    </span><span>   </span>di ȝlossa la trane a laive di wraa skailli dy’ wakcaive</span></font></p>
 <p style="font-family:times new roman,serif"><font size="4"><span>[15.]<span>    </span>Innis
 downi er tocht id ȝailli a raiġ in Cow nar ob tegwail&lt;<span>   </span>&gt;<br /><span>    </span><span>    </span><span>   </span>a lis raa in nawry</span><span><sup>t</sup></span><span> ȝoe fis tarm ka di ȝowchis</span></font></p><h4><a name="TOC-MS-p.-2371"></a>MS p. 237</h4>
 <p style="font-family:times new roman,serif"><font size="4"><span>[16.]<span>    </span>Dym
@@ -299,29 +367,29 @@ downi er tocht id ȝailli a raiġ in Cow nar ob tegwail&lt;<span>   </span>&gt
 <p style="font-family:times new roman,serif"><font size="4"><span>[17.]<span>    </span>Coirrik
 ry’sich (s) is Egin dud na skail dinsycht mir charrit<br /><span>    </span><span>    </span><span>   </span>Gawsich ȝi royg a &lt;k&gt;eyv lag ne gail tyigil vin chorrik</span></font></p>
 <p style="font-family:times new roman,serif"><font size="4"><span>[18.]<span>    </span>Achna
-(Tagfow er a kenn Inċow aw ni herrin) [wea goe dighow nar genn a honchow aw ne
-herrin]<br /><span>    </span><span>    </span><span>   </span>A laive ȝasga in dows trot mo ċlow wea in naske aggit</span></font></p>
+(Tagfow er a kenn Inċow aw ni herrin) ⎡wea goe dighow nar genn a honchow aw ne
+herrin⎤<br /><span>    </span><span>    </span><span>   </span>A laive ȝasga in dows trot mo ċlow wea in naske aggit</span></font></p>
 <p style="font-family:times new roman,serif"><font size="4"><span>[19.]<span><span>    </span></span>(heymon i’
-gonnew) [&lt;hernid&gt; &lt;dyr&gt; chona] chaill (ne royġ) [ca] corrik (a
-bantrane) [a banvaill]</span></font></p>
-<h4><a name="TOC-MS-p.-238"></a>MS p. 238</h4><p style="font-family:times new roman,serif"><font size="4"><span><span>    </span><span>    </span><span>    </span>(A vakcaŋ gow dor a ȝwŋ ag<u>is</u> daltaŋ) / [&lt;n&gt;a ma&lt;lc&gt;aŋ ga tor
-a ȝwn &amp; daltan] croye Cay</span><span><sup>t</sup></span><span>ve</span></font></p>
+gonnew) ⎡&lt;hernid&gt; &lt;dyr&gt; chona⎤ chaill (ne royġ) ⎡ca⎤ corrik (a
+bantrane) ⎡a banvaill⎤</span></font></p>
+<h4><a name="TOC-MS-p.-238"></a>MS p. 238</h4><p style="font-family:times new roman,serif"><font size="4"><span><span>    </span><span>    </span><span>    </span>(A vakcan̄ gow dor a ȝwn̄ ag<u>is</u> daltan̄) / ⎡&lt;n&gt;a ma&lt;lc&gt;an̄ ga tor
+a ȝwn &amp; daltan⎤ croye Cay</span><span><sup>t</sup></span><span>ve</span></font></p>
 <p style="font-family:times new roman,serif"><font size="4"><span>[20.]<span>    </span>Cowchullin
-ni g&lt;o&gt;rik croye di we i’ layseŋ fa ȝi’moye<br /><span>    </span><span>    </span><span>   </span>A Invak di m<u>ar</u>we les in teir lat chalɱ Coive &lt;ȝ&gt;has</span></font></p>
+ni g&lt;o&gt;rik croye di we i’ laysen̄ fa ȝi’moye<br /><span>    </span><span>    </span><span>   </span>A Invak di m<u>ar</u>we les in teir lat chalm̄ Coive &lt;ȝ&gt;has</span></font></p>
 <p style="font-family:times new roman,serif"><font size="4"><span>[21.]<span><span>    </span></span>Innis
-downni ir ċow ni glas o tei</span><span><sup>t</sup></span><span> fest far naildas<br /><span>    </span><span>    </span><span>   </span>&lt;T&gt;arɱ is di lonni gi loɱ na terg a ȝulchin orrin</span></font></p>
+downni ir ċow ni glas o tei</span><span><sup>t</sup></span><span> fest far naildas<br /><span>    </span><span>    </span><span>   </span>&lt;T&gt;arm̄ is di lonni gi lom̄ na terg a ȝulchin orrin</span></font></p>
 <p style="font-family:times new roman,serif"><font size="4"><span>[22.]<span><span>    </span></span>Is
-me coŋleich m</span><span><sup>c</sup></span><span>no con Iir ȝlei</span><span><sup>t</sup></span><span> ȝown dalgin<br /><span>    </span><span>    </span><span>   </span>Is me rown dakg<u>is</u> y’ bron is tow ag skay</span><span><sup>t</sup></span><span> di tollwɱ</span></font></p>
+me con̄leich m</span><span><sup>c</sup></span><span>no con Iir ȝlei</span><span><sup>t</sup></span><span> ȝown dalgin<br /><span>    </span><span>    </span><span>   </span>Is me rown dakg<u>is</u> y’ bron is tow ag skay</span><span><sup>t</sup></span><span> di tollwm̄</span></font></p>
 <p style="font-family:times new roman,serif"><font size="4"><span>[23.]<span><span>    </span></span>Vii
-bleyn di waa ma horri fylwm ȝasga woɱ wair<br /><span>    </span><span>    </span><span>   </span>Ni classi lar horchir maa waa ȝesse&lt;n&gt; a vylwɱ ornn&lt;a&gt;</span></font></p>
+bleyn di waa ma horri fylwm ȝasga wom̄ wair<br /><span>    </span><span>    </span><span>   </span>Ni classi lar horchir maa waa ȝesse&lt;n&gt; a vylwm̄ ornn&lt;a&gt;</span></font></p>
 <p style="font-family:times new roman,serif"><font size="4"><span>[24.]<span>    </span>Smonis
-Cowchulloŋ vow &lt;n&gt;aik a v</span><span><sup>c</sup></span><span>ne i’ draich ȝa chow&lt;<span>  
+Cowchullon̄ vow &lt;n&gt;aik a v</span><span><sup>c</sup></span><span>ne i’ draich ȝa chow&lt;<span>  
 </span>&gt;<br /><span>    </span><span>    </span><span>   </span>gvr smoine nar wraik feilty</span><span><sup>t</sup></span><span> i’ ir a reyk a chwni</span><span><sup>t</sup></span><span> si chat&lt;eave&gt;</span></font></p>
 <p style="font-family:times new roman,serif"><font size="4"><span>[25.]<span>    </span>A
-arrwm re corp in coŋ di chow is beg nar skarri<br /><span>    </span><span>    </span><span>   </span>Re fagsin a c</span><span><sup>o</sup></span><span>wlwoe a ȝlyŋ gasgei</span><span><sup>t</sup></span><span> ȝ&lt;o&gt;wny</span><span><sup>t</sup></span><span> dalgin</span></font></p>
+arrwm re corp in con̄ di chow is beg nar skarri<br /><span>    </span><span>    </span><span>   </span>Re fagsin a c</span><span><sup>o</sup></span><span>wlwoe a ȝlyn̄ gasgei</span><span><sup>t</sup></span><span> ȝ&lt;o&gt;wny</span><span><sup>t</sup></span><span> dalgin</span></font></p>
 <p style="font-family:times new roman,serif"><font size="4"><span><span>    </span><span>    </span><span>   </span>Mak swalti</span></font></p>
 <p style="font-family:times new roman,serif"><font size="4"><span>[26.]<span>    </span>A
-chow gai // [mor] a foyima ne low y’ broin it ta orrin<span>  </span>Di &lt;cho<span> 
+chow gai // ⎡mor⎤ a foyima ne low y’ broin it ta orrin<span>  </span>Di &lt;cho<span> 
 </span>&gt;</span></font></p>
 <p style="font-family:times new roman,serif"><font size="4"><span><br /></span></font></p><h4 style="font-family:times new roman,serif"><a name="TOC-Restored-text:"></a><font size="3"><span style="font-family:arial,sans-serif">Restored text: </span></font><font size="4"><span><br /></span></font></h4>
 <h1 align="left" style="text-align:left;font-family:times new roman,serif;font-weight:normal"><a name="TOC-Gill-e-Caluim-mac-an-Ollaimh-an-t-u"></a><font size="4">Gill[e] Caluim mac an Ollaimh an
@@ -419,7 +487,7 @@ the daughter of Foirgeann.</font></p>
 meet&gt; the army of the green land of Ulster, there came the Hound of the
 Craobhruadh, the son of Deichtine, whose cheek was [red] like a berry, and who
 had never refused to come to our aid.</font></p>
-<p style="font-family:times new roman,serif"><font size="4">11.<span>    </span>“Your have
+<p style="font-family:times new roman,serif"><font size="4">11.<span>    </span>“You have
 been a long time without coming to our assistance,” said Conchobhar to the
 Hound, “when pleasant Conall of the spirited steeds is in fetters, along with a
 hundred of our host.”</font></p>
@@ -427,7 +495,7 @@ hundred of our host.”</font></p>
 difficult for me [to contemplate] being in captivity, you &lt;who would
 accuse&gt; a friend; it is no easy matter to cross swords with the one by whom
 Conall was tied up.”</font></p>
-<p style="font-family:times new roman,serif"><font size="4">13.<span>    </span>“go to fetch
+<p style="font-family:times new roman,serif"><font size="4">13.<span>    </span>“Go to fetch
 him, and do not think otherwise, you king with the terrible blue blades and the
 arm that shows no weakness to anyone; think about your foster-father in fetters.”</font></p>
 <p style="font-family:times new roman,serif"><font size="4">14.<span>    </span>When he heard
