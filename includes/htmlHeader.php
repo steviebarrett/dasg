@@ -12,13 +12,17 @@ header("Content-Security-Policy: "
     . "base-uri 'self'; "
     . "frame-ancestors 'none'; "
 
-    . "img-src 'self' data: https://www.google-analytics.com; "
+    . "img-src 'self' data: https://www.google-analytics.com https://cdnjs.cloudflare.com; "
+
     . "style-src 'self' 'unsafe-inline' https://cdnjs.cloudflare.com; "
 
     . "script-src 'self' 'unsafe-inline' https://code.jquery.com https://cdnjs.cloudflare.com https://www.googletagmanager.com https://www.google-analytics.com https://ssl.p.jwpcdn.com; "
+
     . "script-src-elem 'self' 'unsafe-inline' https://code.jquery.com https://cdnjs.cloudflare.com https://www.googletagmanager.com https://www.google-analytics.com https://ssl.p.jwpcdn.com; "
 
     . "connect-src 'self' https://www.google-analytics.com https://region1.google-analytics.com; "
+
+    . "font-src 'self' data: https://cdnjs.cloudflare.com; "
 
     . "media-src 'self'; "
 );
