@@ -26,6 +26,18 @@ foreach ($records as $record) {
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.ckeditor.com/ckeditor5/41.1.0/super-build/ckeditor.js"></script>
+
+    <style>
+        .form-label {
+            font-weight: 600;
+            color: #495057;
+            margin-bottom: 0.35rem;
+            text-transform: uppercase;
+            font-size: 0.8rem;
+            letter-spacing: 0.04em;
+        }
+    </style>
 </head>
 
 <body class="bg-light">
@@ -46,7 +58,7 @@ foreach ($records as $record) {
                     <input type="text" class="form-control" id="location" placeholder="Location">
                 </div>
                 <div class="col-md-2">
-                    <input type="text" class="form-control" id="box_number" placeholder="Box number">
+                    <input type="text" class="form-control" id="box_number_search" placeholder="Box number">
                 </div>
                 <div class="col-md-2 d-grid">
                     <button class="btn btn-dark" type="submit">Search</button>
@@ -140,6 +152,18 @@ foreach ($records as $record) {
 
 
 <script>
+    // Create the editors for main record fields
+    const editorFields = [
+        'context',
+        'meaning',
+        'translation_given',
+        'additional_information'
+    ];
+
+    editorFields.forEach(function(field) {
+        createEditor(field);
+    });
+
     const ajaxUrl = 'ajax.php';
 
     function showAlert(message, type = 'success') {
@@ -166,6 +190,12 @@ foreach ($records as $record) {
     function clearForm() {
         document.getElementById('recordForm').reset();
         document.getElementById('id').value = '';
+
+        editorFields.forEach(function(field) {
+            if (window[field]) {
+                window[field].setData('');
+            }
+        });
     }
 
     async function loadRecords() {
@@ -173,7 +203,7 @@ foreach ($records as $record) {
             action: 'search',
             q: document.getElementById('q').value,
             location: document.getElementById('location').value,
-            box_number: document.getElementById('box_number').value
+            box_number: document.getElementById('box_number_search').value
         });
 
         const response = await fetch(ajaxUrl + '?' + params.toString());
@@ -228,6 +258,11 @@ foreach ($records as $record) {
         }
 
         Object.keys(record).forEach(function(key) {
+            if (editorFields.includes(key) && window[key]) {
+                window[key].setData(record[key] || '');
+                return;
+            }
+
             const field = document.getElementById(key);
             if (field) {
                 field.value = record[key] || '';
@@ -239,6 +274,13 @@ foreach ($records as $record) {
 
     async function saveRecord(event) {
         event.preventDefault();
+
+        editorFields.forEach(function(field) {
+            const textarea = document.getElementById(field);
+            if (textarea && window[field]) {
+                textarea.value = window[field].getData();
+            }
+        });
 
         const formData = new FormData(document.getElementById('recordForm'));
         formData.append('action', 'save');
@@ -310,6 +352,219 @@ foreach ($records as $record) {
     document.getElementById('deleteBtn').addEventListener('click', deleteRecord);
 
     loadRecords();
+
+    function SpecialCharactersSimple( editor ) {
+        editor.plugins.get('SpecialCharacters').addItems('Simple', [
+
+            {title: 'Close front unrounded vowel', character: 'i'},
+            {title: 'Close front rounded vowel', character: 'y'},
+            {title: 'Close central unrounded vowel', character: 'ɨ'},
+            {title: 'Close central rounded vowel', character: 'ʉ'},
+            {title: 'Close back unrounded vowel', character: 'ɯ'},
+            {title: 'Close back rounded vowel', character: 'u'},
+
+            {title: 'Near-close near-front unrounded vowel', character: 'ɪ'},
+            {title: 'Near-close near-front rounded vowel', character: 'ʏ'},
+            {title: 'Near-close near-back rounded vowel', character: 'ʊ'},
+
+            {title: 'Close-mid front unrounded vowel', character: 'e'},
+            {title: 'Close-mid front rounded vowel', character: 'ø'},
+            {title: 'Close-mid central unrounded vowel', character: 'ɘ'},
+            {title: 'Close-mid central rounded vowel', character: 'ɵ'},
+            {title: 'Close-mid back unrounded vowel', character: 'ɤ'},
+            {title: 'Close-mid back rounded vowel', character: 'o'},
+
+            {title: 'Mid central vowel', character: 'ə'},
+
+            {title: 'Open-mid front unrounded vowel', character: 'ɛ'},
+            {title: 'Open-mid front rounded vowel', character: 'œ'},
+            {title: 'Open-mid central unrounded vowel', character: 'ɜ'},
+            {title: 'Open-mid central rounded vowel', character: 'ɞ'},
+            {title: 'Open-mid back unrounded vowel', character: 'ʌ'},
+            {title: 'Open-mid back rounded vowel', character: 'ɔ'},
+
+            {title: 'Near-open front unrounded vowel', character: 'æ'},
+            {title: 'Near-open central vowel', character: 'ɐ'},
+
+            {title: 'Open front unrounded vowel', character: 'a'},
+            {title: 'Open front rounded vowel', character: 'ɶ'},
+            {title: 'Open back unrounded vowel', character: 'ɑ'},
+            {title: 'Open back rounded vowel', character: 'ɒ'},
+
+            {title: 'Voiceless bilabial plosive', character: 'p'},
+            {title: 'Voiced bilabial plosive', character: 'b'},
+            {title: 'Voiceless alveolar plosive', character: 't'},
+            {title: 'Voiced alveolar plosive', character: 'd'},
+            {title: 'Voiceless retroflex plosive', character: 'ʈ'},
+            {title: 'Voiced retroflex plosive', character: 'ɖ'},
+            {title: 'Voiceless palatal plosive', character: 'c'},
+            {title: 'Voiced palatal plosive', character: 'ɟ'},
+            {title: 'Voiceless velar plosive', character: 'k'},
+            {title: 'Voiced velar plosive', character: 'ɡ'},
+            {title: 'Voiceless uvular plosive', character: 'q'},
+            {title: 'Voiced uvular plosive', character: 'ɢ'},
+            {title: 'Glottal stop', character: 'ʔ'},
+
+            {title: 'Voiceless labiodental fricative', character: 'f'},
+            {title: 'Voiced labiodental fricative', character: 'v'},
+            {title: 'Voiceless dental fricative', character: 'θ'},
+            {title: 'Voiced dental fricative', character: 'ð'},
+            {title: 'Voiceless alveolar fricative', character: 's'},
+            {title: 'Voiced alveolar fricative', character: 'z'},
+            {title: 'Voiceless postalveolar fricative', character: 'ʃ'},
+            {title: 'Voiced postalveolar fricative', character: 'ʒ'},
+            {title: 'Voiceless retroflex fricative', character: 'ʂ'},
+            {title: 'Voiced retroflex fricative', character: 'ʐ'},
+            {title: 'Voiceless palatal fricative', character: 'ç'},
+            {title: 'Voiced palatal fricative', character: 'ʝ'},
+            {title: 'Voiceless velar fricative', character: 'x'},
+            {title: 'Voiced velar fricative', character: 'ɣ'},
+            {title: 'Voiceless uvular fricative', character: 'χ'},
+            {title: 'Voiced uvular fricative', character: 'ʁ'},
+            {title: 'Voiceless pharyngeal fricative', character: 'ħ'},
+            {title: 'Voiced pharyngeal fricative', character: 'ʕ'},
+            {title: 'Voiceless glottal fricative', character: 'h'},
+            {title: 'Voiced glottal fricative', character: 'ɦ'},
+
+            {title: 'Bilabial nasal', character: 'm'},
+            {title: 'Labiodental nasal', character: 'ɱ'},
+            {title: 'Alveolar nasal', character: 'n'},
+            {title: 'Retroflex nasal', character: 'ɳ'},
+            {title: 'Palatal nasal', character: 'ɲ'},
+            {title: 'Velar nasal', character: 'ŋ'},
+            {title: 'Uvular nasal', character: 'ɴ'},
+
+            {title: 'Alveolar lateral approximant', character: 'l'},
+            {title: 'Retroflex lateral approximant', character: 'ɭ'},
+            {title: 'Palatal lateral approximant', character: 'ʎ'},
+            {title: 'Velar lateral approximant', character: 'ʟ'},
+
+            {title: 'Alveolar approximant', character: 'ɹ'},
+            {title: 'Retroflex approximant', character: 'ɻ'},
+            {title: 'Palatal approximant', character: 'j'},
+            {title: 'Labial-velar approximant', character: 'w'},
+
+            {title: 'Bilabial trill', character: 'ʙ'},
+            {title: 'Alveolar trill', character: 'r'},
+            {title: 'Uvular trill', character: 'ʀ'},
+
+            {title: 'Alveolar tap', character: 'ɾ'},
+            {title: 'Retroflex flap', character: 'ɽ'},
+
+            {title: 'Primary stress', character: 'ˈ'},
+            {title: 'Secondary stress', character: 'ˌ'},
+            {title: 'Long', character: 'ː'},
+            {title: 'Half long', character: 'ˑ'},
+            {title: 'Extra short', character: '̆'},
+            {title: 'Syllabic', character: '̩'},
+            {title: 'Non-syllabic', character: '̯'},
+            {title: 'Aspirated', character: 'ʰ'},
+            {title: 'Palatalized', character: 'ʲ'},
+            {title: 'Velarized', character: 'ˠ'},
+            {title: 'Pharyngealized', character: 'ˤ'},
+            {title: 'Nasalized', character: '̃'},
+            {title: 'Rhoticity', character: '˞'},
+
+            {title: 'Rising tone', character: '↗'},
+            {title: 'Falling tone', character: '↘'},
+
+            {title: 'Click dental', character: 'ǀ'},
+            {title: 'Click lateral', character: 'ǁ'},
+            {title: 'Click alveolar', character: 'ǃ'},
+            {title: 'Click palatal', character: 'ǂ'},
+            {title: 'Click bilabial', character: 'ʘ'}
+
+
+        ]);
+    }
+
+    /*
+        Creates and stores an instance of CKEditor
+     */
+    function createEditor(id) {
+        // Visit https://ckeditor.com/docs/ckeditor5/latest/features/index.html to browse all the features.
+        CKEDITOR.ClassicEditor.create(document.getElementById(id), {
+            extraPlugins: [SpecialCharactersSimple],
+            // https://ckeditor.com/docs/ckeditor5/latest/features/toolbar/toolbar.html#extended-toolbar-configuration-format
+            toolbar: {
+                items: [
+                    '|',
+                    'bold', 'italic', 'strikethrough', 'underline', 'subscript', 'superscript', 'removeFormat', '|',
+                    'fontColor','|',
+                    'undo', 'redo',
+                    'specialCharacters',  'sourceEditing'
+                ],
+                shouldNotGroupWhenFull: true
+            },
+            // Changing the language of the interface requires loading the language file using the <script> tag.
+            // language: 'es',
+            list: {
+                properties: {
+                    styles: true,
+                    startIndex: true,
+                    reversed: true
+                }
+            },
+
+            // Be careful with the setting below. It instructs CKEditor to accept ALL HTML markup.
+            // https://ckeditor.com/docs/ckeditor5/latest/features/general-html-support.html#enabling-all-html-features
+            htmlSupport: {
+                allow: [
+                    {
+                        name: /.*/,
+                        attributes: false,
+                        classes: true,
+                        styles: false
+                    }
+                ]
+            },
+            // Be careful with enabling previews
+            // https://ckeditor.com/docs/ckeditor5/latest/features/html-embed.html#content-previews
+            htmlEmbed: {
+                showPreviews: true
+            },
+
+            // The "superbuild" contains more premium features that require additional configuration, disable them below.
+            // Do not turn them on unless you read the documentation and know how to configure them and setup the editor.
+            removePlugins: [
+                // These two are commercial, but you can try them out without registering to a trial.
+                'ExportPdf',
+                'ExportWord',
+                'AIAssistant',
+                'CKBox',
+                'CKFinder',
+                'EasyImage',
+                'Base64UploadAdapter',
+                'RealTimeCollaborativeComments',
+                'RealTimeCollaborativeTrackChanges',
+                'RealTimeCollaborativeRevisionHistory',
+                'PresenceList',
+                'Comments',
+                'TrackChanges',
+                'TrackChangesData',
+                'RevisionHistory',
+                'Pagination',
+                'WProofreader',
+                // Careful, with the Mathtype plugin CKEditor will not load when loading this sample
+                // from a local file system (file://) - load this site via HTTP server if you enable MathType.
+                'MathType',
+                // The following features are part of the Productivity Pack and require additional license.
+                'SlashCommand',
+                'Template',
+                'DocumentOutline',
+                'FormatPainter',
+                'TableOfContents',
+                'PasteFromOfficeEnhanced',
+                'CaseChange'
+            ]
+        })
+            .then(editor => {
+                window[id] = editor;    // save the instance to the window for reuse
+            })
+            .catch(error => {
+                console.error('CKEditor failed to initialise for #' + id, error);
+            });
+    }
 </script>
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
