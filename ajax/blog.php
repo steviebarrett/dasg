@@ -50,7 +50,12 @@ switch ($action) {
 
             // Escape anything that can contain user/DB content
             $blogTitle = htmlentities($blogEntry->getTitle());
-            $blogFirstLine = htmlentities($blogEntry->getFirstLine($lang));
+
+            $blogFirstLine = $blogEntry->getFirstLine($lang);
+            //trim the first line if needed
+            $blogFirstLine = strlen($blogFirstLine) > 200 ? substr($blogFirstLine, 0, 200) . '...' : $blogFirstLine;
+
+
             $blogDate = htmlentities($blogEntry->getDate($lang));
 
             echo <<<HTML

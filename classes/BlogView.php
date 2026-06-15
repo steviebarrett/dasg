@@ -51,21 +51,7 @@ class BlogView {
 			"en"=>"Posted by {$author->getFirstName()} on {$blogEntry->getDate("en")}",
 			"gd"=>"Air a sgrìobhadh le {$author->getFirstName()} air {$blogEntry->getDate("gd")}"
 		);
-		
-		/*
-		 * Lexicopia code
-		 */
-		$lexHtml = "";
-		/*
-		if ($lexEntry = $blogEntry->getLexicopiaEntry()) {
-			
-			$lexLine = array(
-				"en"=>'<a href="javascript:getLexEntry(\'' . $lexEntry . '\');">View lexicopia entry</a>',
-				"gd"=>'<a href="javascript:getLexEntry(\'' . $lexEntry . '\');">View lexicopia entry</a>'
-			);
-			$lexHtml = "<br/><br/>{$lexLine[$lang]}<br/>";
-		}
-		*/
+
 		//get next and prev HTML
 		$nextAndPrevIds = BlogEntries::getNextAndPrevIds($this->blogEntryId);
 		$prevText = array("en"=>"Previous", "gd"=>"Air ais");
@@ -231,7 +217,8 @@ HTML;
 		foreach ($mostRecentIds as $id) {
 			$blogEntry = BlogEntries::getBlogEntry($id);
 			$blogTitle = $blogEntry->getTitle();
-			$blogFirstLine = $blogEntry->getFirstLine($this->lang);
+            $blogFirstLine = $blogEntry->getFirstLine($this->lang);
+            $blogFirstLine = strlen($blogFirstLine) > 200 ? substr($blogFirstLine, 200) . "..." : $blogFirstLine;
 			$html .= <<<HTML
 				<div class="blogRecentPost">
 					<a href="/blog/{$id}/{$this->lang}" title="{$blogTitle}">
