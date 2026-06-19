@@ -1169,6 +1169,43 @@ but this does not appear to have any connection with the preceding item.</span><
 <script>
           window.jstiming.load.tick('render');
         </script>
+<script type="module">
+    await import('../pagefind/pagefind-highlight.js');
+
+    new PagefindHighlight({
+        highlightParam: "highlight",
+        markContext: "[data-pagefind-body]"
+    });
+
+    function scrollToFirstHighlight() {
+        const firstHighlight = document.querySelector('.pagefind-highlight');
+
+        if (firstHighlight) {
+            firstHighlight.scrollIntoView({
+                behavior: 'smooth',
+                block: 'center'
+            });
+            return true;
+        }
+
+        return false;
+    }
+
+    if (!scrollToFirstHighlight()) {
+        const observer = new MutationObserver(() => {
+            if (scrollToFirstHighlight()) {
+                observer.disconnect();
+            }
+        });
+
+        observer.observe(document.body, {
+            childList: true,
+            subtree: true
+        });
+
+        setTimeout(() => observer.disconnect(), 3000);
+    }
+</script>
 </body>
 
 <!-- Mirrored from sites.google.com/site/deansbook/the-standards/notes-to-poem-xxiii by HTTrack Website Copier/3.x [XR&CO'2010], Thu, 02 Jun 2011 15:15:24 GMT -->

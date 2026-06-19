@@ -700,6 +700,43 @@ although I am sorrowful tonight, I grieve [specially] for the Hill of the Fian.<
 <script>
           window.jstiming.load.tick('render');
         </script>
+<script type="module">
+    await import('../pagefind/pagefind-highlight.js');
+
+    new PagefindHighlight({
+        highlightParam: "highlight",
+        markContext: "[data-pagefind-body]"
+    });
+
+    function scrollToFirstHighlight() {
+        const firstHighlight = document.querySelector('.pagefind-highlight');
+
+        if (firstHighlight) {
+            firstHighlight.scrollIntoView({
+                behavior: 'smooth',
+                block: 'center'
+            });
+            return true;
+        }
+
+        return false;
+    }
+
+    if (!scrollToFirstHighlight()) {
+        const observer = new MutationObserver(() => {
+            if (scrollToFirstHighlight()) {
+                observer.disconnect();
+            }
+        });
+
+        observer.observe(document.body, {
+            childList: true,
+            subtree: true
+        });
+
+        setTimeout(() => observer.disconnect(), 3000);
+    }
+</script>
 </body>
 
 <!-- Mirrored from sites.google.com/site/deansbook/ballads/x-truagh-liom-tulach-na-feine by HTTrack Website Copier/3.x [XR&CO'2010], Thu, 02 Jun 2011 15:11:58 GMT -->
