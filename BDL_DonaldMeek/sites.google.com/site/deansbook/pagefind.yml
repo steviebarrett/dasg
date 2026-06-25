@@ -1,0 +1,4 @@
+# pagefind.yml
+site: .
+output_path: pagefind
+include_characters: "<>"
