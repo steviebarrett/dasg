@@ -110,7 +110,7 @@
 
                                 .logo-item {
                                     text-align: center;
-                                    background: #fff1ca;
+                                    /*background: #fff1ca;*/
                                     padding: 5px;
                                 }
 
@@ -372,43 +372,6 @@
     });
 </script>
 
-<script type="module">
-    await import('../pagefind/pagefind-highlight.js');
-
-    new PagefindHighlight({
-        highlightParam: "highlight",
-        markContext: "[data-pagefind-body]"
-    });
-
-    function scrollToFirstHighlight() {
-        const firstHighlight = document.querySelector('.pagefind-highlight');
-
-        if (firstHighlight) {
-            firstHighlight.scrollIntoView({
-                behavior: 'smooth',
-                block: 'center'
-            });
-            return true;
-        }
-
-        return false;
-    }
-
-    if (!scrollToFirstHighlight()) {
-        const observer = new MutationObserver(() => {
-            if (scrollToFirstHighlight()) {
-                observer.disconnect();
-            }
-        });
-
-        observer.observe(document.body, {
-            childList: true,
-            subtree: true
-        });
-
-        setTimeout(() => observer.disconnect(), 3000);
-    }
-</script>
 </body>
 
 <!-- Mirrored from sites.google.com/site/deansbook/ballads by HTTrack Website Copier/3.x [XR&CO'2010], Thu, 02 Jun 2011 15:14:26 GMT -->
