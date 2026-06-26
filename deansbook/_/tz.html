@@ -1,0 +1,46 @@
+<HTML>
+<HEAD>
+<TITLE>Bad Request</TITLE>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
+<H1>Bad Request</H1>
+<H2>Error 400</H2>
+<script type="module">
+    await import('../pagefind/pagefind-highlight.js');
+
+    new PagefindHighlight({
+        highlightParam: "highlight",
+        markContext: "[data-pagefind-body]"
+    });
+
+    function scrollToFirstHighlight() {
+        const firstHighlight = document.querySelector('.pagefind-highlight');
+
+        if (firstHighlight) {
+            firstHighlight.scrollIntoView({
+                behavior: 'smooth',
+                block: 'center'
+            });
+            return true;
+        }
+
+        return false;
+    }
+
+    if (!scrollToFirstHighlight()) {
+        const observer = new MutationObserver(() => {
+            if (scrollToFirstHighlight()) {
+                observer.disconnect();
+            }
+        });
+
+        observer.observe(document.body, {
+            childList: true,
+            subtree: true
+        });
+
+        setTimeout(() => observer.disconnect(), 3000);
+    }
+</script>
+</body>
+</HTML>
