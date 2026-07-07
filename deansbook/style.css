@@ -347,3 +347,44 @@ body.side-by-side-active .poem-columns .column {
     background: #ffffff;
     color: var(--brand);
 }
+
+/* Variant quatrain bracket layout used in Poem XXIII.
+   This preserves the original grouped-brace display after conversion. */
+.variant {
+    display: grid;
+    grid-template-columns: 1.5em 1em 1em minmax(0, auto);
+    align-items: center;
+    column-gap: 0;
+    margin: 1.5em 0;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 1.1rem;
+    line-height: 1.45;
+}
+
+.variant .num {
+    align-self: start;
+    margin-right: 0;
+}
+
+.variant .letter {
+    align-self: center;
+    text-align: right;
+}
+
+.variant .brace {
+    font-size: 2.6em;
+    line-height: 0.55;
+    transform: scaleX(0.7);
+    white-space: nowrap;
+}
+
+.variant .lines {
+    padding-left: 0.4em;
+    line-height: 1.45;
+    min-width: 0;
+}
+
+.variant .lines div {
+    margin: 0;
+}
+
