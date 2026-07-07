@@ -4,6 +4,44 @@
 
 require_once '../includes/include.php';
 
+// Cloudflare Turnstile CAPTCHA configuration.
+
+$turnstileSiteKey = '0x4AAAAAADweEmyZF-TjK4Wl';
+$turnstileSecretKey = getenv('TURNSTILE_SECRET_KEY');
+
+function verifyTurnstile(string $token): bool
+{
+    global $turnstileSecretKey;
+
+    if ($token === '' || $turnstileSecretKey === '') {
+        return false;
+    }
+
+    $ch = curl_init('https://challenges.cloudflare.com/turnstile/v0/siteverify');
+
+    curl_setopt_array($ch, [
+        CURLOPT_POST => true,
+        CURLOPT_POSTFIELDS => http_build_query([
+            'secret'   => $turnstileSecretKey,
+            'response' => $token,
+            'remoteip' => $_SERVER['REMOTE_ADDR'] ?? '',
+        ]),
+        CURLOPT_RETURNTRANSFER => true,
+        CURLOPT_TIMEOUT => 5,
+    ]);
+
+    $response = curl_exec($ch);
+    curl_close($ch);
+
+    if ($response === false) {
+        return false;
+    }
+
+    $data = json_decode($response, true);
+
+    return !empty($data['success']);
+}
+
 // CSRF protection
 $method = $_SERVER['REQUEST_METHOD'] ?? 'GET';
 if ($method === 'POST') {
@@ -39,6 +77,7 @@ $backLink = '/fieldwork/search?q=' . rawurlencode($q);
 $javascriptBlock = <<<'HTML'
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.css">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
+<script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
 
 <script type="text/javascript">
     var id = __ID__;
@@ -237,7 +276,7 @@ echo <<<HTML
 
         <div class="searchColumn">
             <div id="fieldworkSearchBox">
-                <form action="">
+                <form action="" method="get">
                     <input type="text" name="q" id="q" value="{$qHtml}"/>
                     <br/>
 
@@ -293,6 +332,14 @@ echo <<<HTML
                     </fieldset>
 
                     <br/>
+
+                    <div class="cf-turnstile"
+                         data-sitekey="{$turnstileSiteKey}"
+                         data-response-field="true"
+                         data-response-field-name="cf-turnstile-response">
+                    </div>
+                    <br/>
+
                     <input id="search" class="dasg_medButton" type="submit" value="search"/>&#160;&#160;
                     <input id="reset" class="dasg_smlButton" type="button" value="reset"/>
                 </form>
@@ -303,144 +350,151 @@ HTML;
 
 if (!empty($enteredQuery)) {
 
-    $query = mb_strtolower(trim($enteredQuery), 'UTF-8');
-    $query = str_replace("'", "’", $query);
+    $turnstileToken = $_GET['cf-turnstile-response'] ?? '';
 
-    if ($l) {
-        $query = Functions::getLenited($query);
-    }
-
-    try {
-        $queryRegExp = Functions::buildFieldworkWildcardRegex($query);
-    } catch (RuntimeException $e) {
-        Functions::writeError("Regex query too large");
-        require_once '../includes/htmlFooter.php';
-        exit;
-    }
-
-    if ($as) {
-        $queryRegExp = Functions::getAccentInsensitiveRegex($queryRegExp);
-    }
-
-    $pattern = '/(?<![' . ACCENT_CHARSET . '])(' . $queryRegExp . ')(?![' . ACCENT_CHARSET . '])/iu';
-
-    $itemQ = '*//item';
-    $results = array();
-
-    foreach (glob($_SERVER['DOCUMENT_ROOT'] . '/xml/archive/*.xml') as $filepath) {
-        $xml = simplexml_load_file($filepath);
-
-        if ($xml === false) {
-            continue;
-        }
-
-        $itemNodes = $xml->xpath($itemQ);
-        $hitNodes = array();
-
-        foreach ($itemNodes as $node) {
-            $headwordText = (string)$node->headword;
-            $descriptionText = (string)$node->description;
-
-            if ($searchScope === 'headOnly') {
-                if (preg_match($pattern, $headwordText)) {
-                    $hitNodes[] = $node;
-                }
-            } elseif ($searchScope === 'defOnly') {
-                if (preg_match($pattern, $descriptionText)) {
-                    $hitNodes[] = $node;
-                }
-            } else {
-                if (
-                    preg_match($pattern, $descriptionText) ||
-                    preg_match($pattern, $headwordText)
-                ) {
-                    $hitNodes[] = $node;
-                }
-            }
-        }
-
-        foreach ($hitNodes as $node) {
-            $headword = (string)$node->headword;
-            $origins = array();
-
-            foreach ($xml->informant as $informant) {
-                if (!empty($informant->origin)) {
-                    $origins[] = (string)$informant->origin;
-                }
-            }
-
-            $originText = implode(' or ', $origins);
-            $nodeId = (string)$node->headword['id'];
-            $description = (string)$node->description;
-            $filename = basename($filepath);
-            $item = str_replace('.xml', '', $filename);
-            $url = '/ajax/fieldworkItem.php?item=' . $item;
-
-            $results[] = array(
-                'headword' => $headword,
-                'origins' => $originText,
-                'location' => (string)$xml->location,
-                'title' => (string)$xml->title,
-                'url' => $url,
-                'id' => $nodeId,
-                'description' => $description,
-                'filename' => $filename
-            );
-        }
-    }
-
-    $numHits = count($results);
-
-    if ($numHits === 0) {
-        $resultsHtml = '<h3>There were no results for ' . Functions::e($enteredQuery) . '</h3>';
+    if (!verifyTurnstile($turnstileToken)) {
+        $resultsHtml = '<h3>Please complete the verification before searching.</h3>';
+        $enteredQuery = '';
     } else {
-        $resultsHtml = $numHits === 1
-            ? '<h3>There was 1 hit for ' . Functions::e($enteredQuery) . '</h3>'
-            : '<h3>There were ' . $numHits . ' hits for ' . Functions::e($enteredQuery) . '</h3>';
 
-        usort($results, function ($a, $b) {
-            return strcasecmp($a['headword'], $b['headword']);
-        });
+        $query = mb_strtolower(trim($enteredQuery), 'UTF-8');
+        $query = str_replace("'", "’", $query);
 
-        $resultsHtml .= '<dl id="fieldworkResults">';
+        if ($l) {
+            $query = Functions::getLenited($query);
+        }
 
-        $i = 0;
+        try {
+            $queryRegExp = Functions::buildFieldworkWildcardRegex($query);
+        } catch (RuntimeException $e) {
+            Functions::writeError("Regex query too large");
+            require_once '../includes/htmlFooter.php';
+            exit;
+        }
 
-        foreach ($results as $result) {
-            $i++;
+        if ($as) {
+            $queryRegExp = Functions::getAccentInsensitiveRegex($queryRegExp);
+        }
 
-            $headword = $result['headword'];
+        $pattern = '/(?<![' . ACCENT_CHARSET . '])(' . $queryRegExp . ')(?![' . ACCENT_CHARSET . '])/iu';
 
-            if ($headword === '') {
-                $headwordHtml = '--blank--';
-            } else {
-                $headwordHtml = Functions::highlightFieldworkText($headword, $pattern, false);
+        $itemQ = '*//item';
+        $results = array();
+
+        foreach (glob($_SERVER['DOCUMENT_ROOT'] . '/xml/archive/*.xml') as $filepath) {
+            $xml = simplexml_load_file($filepath);
+
+            if ($xml === false) {
+                continue;
             }
 
-            $descriptionHtml = '';
-            if ($searchScope !== 'headOnly') {
-                $descriptionHtml = Functions::highlightFieldworkText($result['description'], $pattern, true);
+            $itemNodes = $xml->xpath($itemQ);
+            $hitNodes = array();
+
+            foreach ($itemNodes as $node) {
+                $headwordText = (string)$node->headword;
+                $descriptionText = (string)$node->description;
+
+                if ($searchScope === 'headOnly') {
+                    if (preg_match($pattern, $headwordText)) {
+                        $hitNodes[] = $node;
+                    }
+                } elseif ($searchScope === 'defOnly') {
+                    if (preg_match($pattern, $descriptionText)) {
+                        $hitNodes[] = $node;
+                    }
+                } else {
+                    if (
+                        preg_match($pattern, $descriptionText) ||
+                        preg_match($pattern, $headwordText)
+                    ) {
+                        $hitNodes[] = $node;
+                    }
+                }
             }
 
-            $filename = str_replace('.xml', '', $result['filename']);
-            $encodedItem = base64_encode(
-                $filename . '|' .
-                $headword . '|' .
-                $result['id'] . '||' .
-                $enteredQuery . '|r' . $i . '|' .
-                $l . '|' . $as . '|' . $searchScope
-            );
+            foreach ($hitNodes as $node) {
+                $headword = (string)$node->headword;
+                $origins = array();
 
-            $geogHtml = '';
-            if (!empty($result['origins'])) {
-                $geogHtml = '<strong>Origin:</strong> <em>' . Functions::e($result['origins']) . '</em> <br/>';
-            } elseif (!empty($result['location'])) {
-                $geogHtml = '<strong>Location:</strong> <em>' . Functions::e($result['location']) . '</em> <br/>';
+                foreach ($xml->informant as $informant) {
+                    if (!empty($informant->origin)) {
+                        $origins[] = (string)$informant->origin;
+                    }
+                }
+
+                $originText = implode(' or ', $origins);
+                $nodeId = (string)$node->headword['id'];
+                $description = (string)$node->description;
+                $filename = basename($filepath);
+                $item = str_replace('.xml', '', $filename);
+                $url = '/ajax/fieldworkItem.php?item=' . $item;
+
+                $results[] = array(
+                    'headword' => $headword,
+                    'origins' => $originText,
+                    'location' => (string)$xml->location,
+                    'title' => (string)$xml->title,
+                    'url' => $url,
+                    'id' => $nodeId,
+                    'description' => $description,
+                    'filename' => $filename
+                );
             }
+        }
 
-            $titleHtml = Functions::e($result['title']);
+        $numHits = count($results);
 
-            $resultsHtml .= <<<HTML
+        if ($numHits === 0) {
+            $resultsHtml = '<h3>There were no results for ' . Functions::e($enteredQuery) . '</h3>';
+        } else {
+            $resultsHtml = $numHits === 1
+                ? '<h3>There was 1 hit for ' . Functions::e($enteredQuery) . '</h3>'
+                : '<h3>There were ' . $numHits . ' hits for ' . Functions::e($enteredQuery) . '</h3>';
+
+            usort($results, function ($a, $b) {
+                return strcasecmp($a['headword'], $b['headword']);
+            });
+
+            $resultsHtml .= '<dl id="fieldworkResults">';
+
+            $i = 0;
+
+            foreach ($results as $result) {
+                $i++;
+
+                $headword = $result['headword'];
+
+                if ($headword === '') {
+                    $headwordHtml = '--blank--';
+                } else {
+                    $headwordHtml = Functions::highlightFieldworkText($headword, $pattern, false);
+                }
+
+                $descriptionHtml = '';
+                if ($searchScope !== 'headOnly') {
+                    $descriptionHtml = Functions::highlightFieldworkText($result['description'], $pattern, true);
+                }
+
+                $filename = str_replace('.xml', '', $result['filename']);
+                $encodedItem = base64_encode(
+                    $filename . '|' .
+                    $headword . '|' .
+                    $result['id'] . '||' .
+                    $enteredQuery . '|r' . $i . '|' .
+                    $l . '|' . $as . '|' . $searchScope
+                );
+
+                $geogHtml = '';
+                if (!empty($result['origins'])) {
+                    $geogHtml = '<strong>Origin:</strong> <em>' . Functions::e($result['origins']) . '</em> <br/>';
+                } elseif (!empty($result['location'])) {
+                    $geogHtml = '<strong>Location:</strong> <em>' . Functions::e($result['location']) . '</em> <br/>';
+                }
+
+                $titleHtml = Functions::e($result['title']);
+
+                $resultsHtml .= <<<HTML
 <dt>
     <a id="r{$i}" href="/fieldwork/view/{$encodedItem}" class="fieldwork_result">
         {$headwordHtml}
@@ -454,9 +508,10 @@ if (!empty($enteredQuery)) {
     </div>
 </dd>
 HTML;
-        }
+            }
 
-        $resultsHtml .= '</dl>';
+            $resultsHtml .= '</dl>';
+        }
     }
 }
 

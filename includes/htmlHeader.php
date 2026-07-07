@@ -14,17 +14,19 @@ header("Content-Security-Policy: "
 
     . "img-src 'self' data: https://www.google-analytics.com https://cdnjs.cloudflare.com; "
 
-    . "style-src 'self' 'unsafe-inline' https://cdnjs.cloudflare.com; "
+    . "style-src 'self' 'unsafe-inline' https://cdnjs.cloudflare.com https://challenges.cloudflare.com; "
 
-    . "script-src 'self' 'unsafe-inline' https://code.jquery.com https://cdnjs.cloudflare.com https://www.googletagmanager.com https://www.google-analytics.com https://ssl.p.jwpcdn.com; "
+    . "script-src 'self' 'unsafe-inline' https://challenges.cloudflare.com https://code.jquery.com https://cdnjs.cloudflare.com https://www.googletagmanager.com https://www.google-analytics.com https://ssl.p.jwpcdn.com; "
 
-    . "script-src-elem 'self' 'unsafe-inline' https://code.jquery.com https://cdnjs.cloudflare.com https://www.googletagmanager.com https://www.google-analytics.com https://ssl.p.jwpcdn.com; "
+    . "script-src-elem 'self' 'unsafe-inline' https://challenges.cloudflare.com https://code.jquery.com https://cdnjs.cloudflare.com https://www.googletagmanager.com https://www.google-analytics.com https://ssl.p.jwpcdn.com; "
 
     . "connect-src 'self' https://www.google-analytics.com https://region1.google-analytics.com; "
 
     . "font-src 'self' data: https://cdnjs.cloudflare.com; "
 
     . "media-src 'self'; "
+
+    . "frame-src https://challenges.cloudflare.com; "
 );
 
 $metaTitleEsc = htmlspecialchars($metaTitle ?? '', ENT_QUOTES | ENT_SUBSTITUTE, 'UTF-8');
