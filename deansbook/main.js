@@ -42,6 +42,120 @@ function waitForHighlightAndScroll() {
     }, 4000);
 }
 
+
+function columnLabelForId(id) {
+    if (id === 'ms') return 'MS';
+    if (id === 'restored-text') return 'Restored text';
+    if (id === 'translation') return 'Translation';
+    return '';
+}
+
+function splitColumnIntoStanzas(column, type) {
+    const html = column.innerHTML;
+    const starts = [];
+    let match;
+
+    const markerPattern = type === 'ms'
+        ? /(\[\s*(\d{1,3})\.\s*\])/g
+        : /(^|[\s>]|&nbsp;)(\d{1,3})\.(?=(?:\s|&nbsp;|<span|<br|<\/|$))/g;
+
+    while ((match = markerPattern.exec(html)) !== null) {
+        const number = parseInt(type === 'ms' ? match[2] : match[2], 10);
+        const markerStart = type === 'ms'
+            ? match.index
+            : match.index + match[1].length;
+
+        starts.push({ number, index: markerStart });
+    }
+
+    if (!starts.length) {
+        return {
+            prelude: html.trim(),
+            stanzas: new Map()
+        };
+    }
+
+    const prelude = html.slice(0, starts[0].index).trim();
+    const stanzas = new Map();
+
+    starts.forEach(function (start, i) {
+        const end = i + 1 < starts.length ? starts[i + 1].index : html.length;
+        const stanzaHtml = html.slice(start.index, end).trim();
+
+        if (stanzaHtml) {
+            stanzas.set(start.number, stanzaHtml);
+        }
+    });
+
+    return { prelude, stanzas };
+}
+
+function buildAlignedStanzaView(ms, restored, translation, wrapper) {
+    if (wrapper.querySelector('.poem-aligned')) {
+        return;
+    }
+
+    const columns = [
+        { id: 'ms', type: 'ms', element: ms, parts: splitColumnIntoStanzas(ms, 'ms') },
+        { id: 'restored-text', type: 'numbered', element: restored, parts: splitColumnIntoStanzas(restored, 'numbered') },
+        { id: 'translation', type: 'numbered', element: translation, parts: splitColumnIntoStanzas(translation, 'numbered') }
+    ];
+
+    const stanzaNumbers = Array.from(new Set(
+        columns.flatMap(function (column) {
+            return Array.from(column.parts.stanzas.keys());
+        })
+    )).sort(function (a, b) {
+        return a - b;
+    });
+
+    // If there is nothing useful to align, keep the original column layout.
+    if (!stanzaNumbers.length) {
+        return;
+    }
+
+    const aligned = document.createElement('div');
+    aligned.className = 'poem-aligned';
+
+    const hasPrelude = columns.some(function (column) {
+        return column.parts.prelude && column.parts.prelude.replace(/<[^>]*>/g, '').trim();
+    });
+
+    if (hasPrelude) {
+        const row = document.createElement('div');
+        row.className = 'stanza-row stanza-row--prelude';
+
+        columns.forEach(function (column) {
+            const cell = document.createElement('div');
+            cell.className = 'stanza-cell stanza-cell--' + column.id;
+            cell.setAttribute('data-column-label', columnLabelForId(column.id));
+            cell.innerHTML = column.parts.prelude || '';
+            row.appendChild(cell);
+        });
+
+        aligned.appendChild(row);
+    }
+
+    stanzaNumbers.forEach(function (number) {
+        const row = document.createElement('div');
+        row.className = 'stanza-row';
+        row.setAttribute('data-stanza', String(number));
+
+        columns.forEach(function (column) {
+            const cell = document.createElement('div');
+            cell.className = 'stanza-cell stanza-cell--' + column.id;
+            cell.setAttribute('data-column-label', columnLabelForId(column.id));
+            cell.innerHTML = column.parts.stanzas.get(number) || '';
+            row.appendChild(cell);
+        });
+
+        aligned.appendChild(row);
+    });
+
+    wrapper.insertBefore(aligned, wrapper.firstChild);
+    wrapper.classList.add('has-aligned-stanzas');
+}
+
 ready(async function () {
     try {
         await import('./pagefind/pagefind-highlight.js');
@@ -82,6 +196,8 @@ ready(async function () {
             wrapper.appendChild(restored);
             wrapper.appendChild(translation);
         }
+
+        buildAlignedStanzaView(ms, restored, translation, wrapper);
 
         const params = new URLSearchParams(window.location.search);
         const sideBySideActive = params.get('view') === 'side-by-side';
