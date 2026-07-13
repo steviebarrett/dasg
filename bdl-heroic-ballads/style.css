@@ -219,6 +219,19 @@ a {
     line-height: 1.15;
 }
 
+.home-page-title,
+.home-page-subtitle,
+.home-page-content .home-centred {
+    text-align: center;
+}
+
+.home-page-subtitle {
+    margin-top: -0.4rem;
+    margin-bottom: 2rem;
+    color: var(--brand);
+    font-weight: 500;
+}
+
 .view-toggle {
     margin: 0 0 1.25rem;
     padding: 0.75rem 1rem;
