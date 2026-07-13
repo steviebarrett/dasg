@@ -67,15 +67,17 @@ foreach ($pageTitles as $slug=>$item) {
 HTML;
 }
 
+
 /*
- * Language in Lyrics
+ *     ---- Project Sites and DASG Blog -----
  */
-$LILSlug = array("en"=>"Language in Lyrics", "gd"=>"Cainnt anns na Ceathramhan"); 
+
 echo <<<HTML
-						<li class="sideMenuItem">
-							<a href="/LIL/" target="_blank" title="{$LILSlug[$lang]}">{$LILSlug[$lang]}</a>
-						</li>
+    <li class="sideMenuItem">
+        <hr>
+    </li>
 HTML;
+
 
 /*
  * Briathradan
@@ -86,26 +88,29 @@ echo <<<HTML
 						</li>
 HTML;
 
-/*
- * Grammar
- */
-$grammarSelected = ($pageSlug == "grammar") ? " menuSelected" : "";
 
-$grammarSlug = array("en"=>"LEACAN", "gd"=>"LEACAN");
-echo <<<HTML
-						<li class="sideMenuItem {$grammarSelected}">
-							<a href="https://leacan.gla.ac.uk/leacan/" target="_blank" title="LEACAN"">{$grammarSlug[$lang]}</a>
-						</li>
-HTML;
+
 
 /*
- * Launch
+ * BDL Heroic Ballads
  */
 echo <<<HTML
 						<li class="sideMenuItem">
-							<a href="/launch/" title="DASG Launch">DASG Launch</a>
+							<a href="/bdl-heroic-ballads" target="_blank" title="BDL Heroic Ballads">BDL Heroic Ballads</a> <span class="error">*new*</></span>
 						</li>
 HTML;
+
+
+
+/*
+ * Gaelstream
+ */
+echo <<<HTML
+						<li class="sideMenuItem">
+							<a href="/gaelstream" target="_blank" title="Gaelstream">Gaelstream</a> <span class="error">*new*</></span>
+						</li>
+HTML;
+
 
 /*
  * Gairm Index
@@ -119,6 +124,35 @@ echo <<<HTML
 							<a href="/gairm/" title="{$gairmSlug[$lang]}">{$gairmSlug[$lang]}</a>
 						</li>
 HTML;
+
+
+/*
+ * Language in Lyrics
+ */
+$LILSlug = array("en"=>"Language in Lyrics", "gd"=>"Cainnt anns na Ceathramhan"); 
+echo <<<HTML
+						<li class="sideMenuItem">
+							<a href="/LIL/" target="_blank" title="{$LILSlug[$lang]}">{$LILSlug[$lang]}</a>
+						</li>
+HTML;
+
+
+
+/*
+ * Grammar
+ */
+$grammarSelected = ($pageSlug == "grammar") ? " menuSelected" : "";
+
+$grammarSlug = array("en"=>"LEACAN", "gd"=>"LEACAN");
+echo <<<HTML
+						<li class="sideMenuItem {$grammarSelected}">
+							<a href="https://leacan.gla.ac.uk/leacan/" target="_blank" title="LEACAN"">{$grammarSlug[$lang]}</a>
+						</li>
+HTML;
+
+
+
+
 	
 /*
  * Seanchas
@@ -130,6 +164,23 @@ echo <<<HTML
 						<a href="/seanchas?lang={$lang}" title="Seanchas">Seanchas</a>
 					</li-->
 HTML;
+
+echo <<<HTML
+    <li class="sideMenuItem">
+        <hr>
+    </li>
+HTML;
+
+
+/*
+ * Launch
+ */
+echo <<<HTML
+						<li class="sideMenuItem">
+							<a href="/launch/" title="DASG Launch">DASG Launch</a>
+						</li>
+HTML;
+
 
 	/*
 	 * Blog

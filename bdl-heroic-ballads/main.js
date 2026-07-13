@@ -141,13 +141,55 @@ function splitColumnIntoStanzas(column, type) {
     const stanzas = new Map();
 
     starts.forEach(function (start, i) {
-        const end = i + 1 < starts.length ? starts[i + 1].index : html.length;
-        const stanzaHtml = html.slice(start.index, end).trim();
+    const end = i + 1 < starts.length ? starts[i + 1].index : html.length;
+    let stanzaHtml = html.slice(start.index, end);
 
-        if (stanzaHtml) {
-            stanzas.set(start.number, stanzaHtml);
+    /*
+     * Remove leading separator markup that Google Sites often leaves
+     * before stanzas 2, 3, 4... Otherwise the stanza starts lower than
+     * the corresponding stanza in the other columns.
+     */
+    const holder = document.createElement('div');
+    holder.innerHTML = stanzaHtml;
+
+    while (holder.firstChild) {
+        const first = holder.firstChild;
+
+        if (
+            first.nodeType === Node.TEXT_NODE &&
+            !first.textContent.trim()
+        ) {
+            holder.removeChild(first);
+            continue;
         }
-    });
+
+        if (
+            first.nodeType === Node.ELEMENT_NODE &&
+            first.tagName === 'BR'
+        ) {
+            holder.removeChild(first);
+            continue;
+        }
+
+        if (
+            first.nodeType === Node.ELEMENT_NODE &&
+            first.tagName === 'SPAN' &&
+            !first.textContent.trim() &&
+            !first.querySelector('img,svg,br')
+        ) {
+            holder.removeChild(first);
+            continue;
+        }
+
+        break;
+    }
+
+    stanzaHtml = holder.innerHTML.trim();
+
+    if (stanzaHtml) {
+        stanzas.set(start.number, stanzaHtml);
+    }
+});
 
     return { prelude, stanzas };
 }
