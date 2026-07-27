@@ -25,8 +25,8 @@ $firstLineHtml = '<option>-- select a first line --</option>';
 
 foreach ($firstlines as $firstline) {
     $id = htmlspecialchars((string) $firstline["id"], ENT_QUOTES, 'UTF-8');
-    $firstLine = htmlspecialchars((string) $firstline["firstline_c"], ENT_QUOTES, 'UTF-8');
-    $firstLineHtml .= '<option value="' . $id . '">' . $firstLine . '</option>';
+   // $firstLine = htmlspecialchars((string) $firstline["firstline_c"], ENT_QUOTES, 'UTF-8');
+    $firstLineHtml .= '<option value="' . $id . '">' . $firstline["firstline_c"] . '</option>';
 }
 
 
