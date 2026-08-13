@@ -126,17 +126,6 @@ echo <<<HTML
 HTML;
 
 
-/*
- * Language in Lyrics
- */
-$LILSlug = array("en"=>"Language in Lyrics", "gd"=>"Cainnt anns na Ceathramhan"); 
-echo <<<HTML
-						<li class="sideMenuItem">
-							<a href="/LIL/" target="_blank" title="{$LILSlug[$lang]}">{$LILSlug[$lang]}</a>
-						</li>
-HTML;
-
-
 
 /*
  * Grammar
@@ -151,9 +140,19 @@ echo <<<HTML
 HTML;
 
 
+/*
+ * Language in Lyrics
+ */
+$LILSlug = array("en"=>"Nova Scotia Song Index", "gd"=>"Clàr-amais Òrain Ghàidhlig na h-Albann Nuaidh");
+echo <<<HTML
+						<li class="sideMenuItem">
+							<a href="/LIL/" target="_blank" title="{$LILSlug[$lang]}">{$LILSlug[$lang]}</a>
+						</li>
+HTML;
 
 
-	
+
+
 /*
  * Seanchas
  */

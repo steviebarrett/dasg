@@ -42,7 +42,12 @@ $mainText["en"] = <<<HTML
 
 <hr>
 
-<p>The <a href="/LIL/" title="Language in Lyrics" target="_blank"><strong>Nova Scotia Gaelic Song Index</strong></a> is a searchable list of more than 6,000 Gaelic songs made, sung, or published by Gaels in Nova Scotia.</p>
+<p><a href="/gaelstream" title="Gaelstream"><strong>Gaelstream</strong></a> is a digital archive of over 2,000 recordings of Cape Breton Gaelic songs, stories, beliefs, proverbs, and customs collected from 161 tradition bearers in the 1970s and 1980s.
+</p>
+
+<hr> 
+
+<p>The <a href="/LIL/" title="Nova Scotia Gaelic Song Index" target="_blank"><strong>Nova Scotia Gaelic Song Index</strong></a> is a searchable list of more than 6,000 records of Gaelic songs made, sung, or published by Gaels in Nova Scotia.</p>
 
 <!--p><span class="error">New project</span> – <a href="/gairm/" title="Gairm Online"><strong>Gairm Online</strong></a>. We are working to put all of Gairm online. The first ten issues went live on our website on 20 September 2022, marking the 70th anniversary of the periodical. 
 </p>
@@ -68,6 +73,10 @@ $mainText["gd"] = <<<HTML
 <p>Ma chleachdas tu goireasan DASG nad chuid rannsachaidh, dh’iarramaid gum biodh aithne iomchaidh air a toirt. Gus molaidhean air mar a bheirear iomradh air DASG, brùth <a href="/about/cite/gd" title="Mar a bheirear iomradh">an seo</a>.</p>
 
 <p>Tha ùidh mhòr againn ann a bhith a’ faighinn iomraidhean agus leth-bhreacan de dh’fhoillseachaidhean a bhios a’ cleachdadh goireasan DASG. Thèid iomradh a thoirt orra ann an earrann nam <a href="/about/publications/gd" title="Foillseachaidhean">foillseachaidhean</a> air làrach-lìn DASG.</p>
+
+<hr>
+
+<p>'Se tasglann digiteach de barrachd air 2,000 chlaraidhean de dh'òrain, naidheachdan, chreideamhan, seanfhaclan, agus cleachdaidhean Ghàidhlig Cheap Bretainn a th' ann an <a href="/gaelstream" title="Sruth nan Gàidheal"><strong>Sruth nan Gàidheal</strong></a>, air a chruinneachadh bho 161 beulaichean sna 1970an agus 1980an.</p>
 
 <hr>
 
