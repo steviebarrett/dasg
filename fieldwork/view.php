@@ -5,6 +5,21 @@ ini_set( 'pcre.backtrack_limit', '2M' );
 
 require_once '../includes/include.php';
 
+function highlightHtmlText($html, $pattern)
+{
+    return preg_replace_callback(
+        '/(^|>)([^<]+)/u',
+        function ($matches) use ($pattern) {
+            return $matches[1] . preg_replace(
+                    $pattern,
+                    '<span class="hi">$1</span>',
+                    $matches[2]
+                );
+        },
+        $html
+    );
+}
+
 $search = Functions::e($_GET["search"]);
 
 $params = explode('|', base64_decode($search));
@@ -47,9 +62,12 @@ if (!empty($enteredQuery)) {
     
     //only add highlighting to text not in a tag (fix for illustration paths)
     $query = preg_quote($query, '/');
-    $html = preg_replace("/(<.+?>[^<>]*?)({$query})([^<>]*?<.+?>)/iu", "$1" . '<span class="hi">' . "$2" . '</span>' . "$3", $html);
-    //	$html = preg_replace("/({$query})/iu", '<span class="hi">' . "$1" . '</span>', $html);
-    
+$html = highlightHtmlText(
+    $html,
+    "/({$query})/iu"
+);
+    /*$html = preg_replace("/(<.+?>[^<>]*?)({$query})([^<>]*?<.+?>)/iu", "$1" . '<span class="hi">' . "$2" . '</span>' . "$3", $html);*/
+
 }
 
 $pageTitle = "View Item";
