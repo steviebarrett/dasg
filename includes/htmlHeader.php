@@ -16,11 +16,11 @@ header("Content-Security-Policy: "
 
     . "style-src 'self' 'unsafe-inline' https://cdnjs.cloudflare.com https://challenges.cloudflare.com; "
 
-    . "script-src 'self' 'unsafe-inline' https://challenges.cloudflare.com https://code.jquery.com https://cdnjs.cloudflare.com https://www.googletagmanager.com https://www.google-analytics.com https://ssl.p.jwpcdn.com; "
+    . "script-src 'self' 'unsafe-inline' https://challenges.cloudflare.com https://code.jquery.com https://cdnjs.cloudflare.com https://www.googletagmanager.com https://www.google-analytics.com https://ssl.p.jwpcdn.com https://plausible.io; "
 
-    . "script-src-elem 'self' 'unsafe-inline' https://challenges.cloudflare.com https://code.jquery.com https://cdnjs.cloudflare.com https://www.googletagmanager.com https://www.google-analytics.com https://ssl.p.jwpcdn.com; "
+    . "script-src-elem 'self' 'unsafe-inline' https://challenges.cloudflare.com https://code.jquery.com https://cdnjs.cloudflare.com https://www.googletagmanager.com https://www.google-analytics.com https://ssl.p.jwpcdn.com https://plausible.io; "
 
-    . "connect-src 'self' https://www.google-analytics.com https://region1.google-analytics.com; "
+    . "connect-src 'self' https://www.google-analytics.com https://region1.google-analytics.com https://plausible.io; "
 
     . "font-src 'self' data: https://cdnjs.cloudflare.com; "
 
@@ -180,6 +180,14 @@ echo <<<HTML
   		<script type="text/javascript" src="/js/jquery.validate.min.js"></script> 
   		<script type="text/javascript" src="/js/bpopup.min.js"></script>
   		<script type="text/javascript" src="/js/functions.js"></script>
+  		
+  		<!-- Privacy-friendly analytics by Plausible -->
+        <script async src="https://plausible.io/js/pa-WjeGK_NYjJGO5EYXeiHJv.js"></script>
+        <script>
+          window.plausible=window.plausible||function(){(plausible.q=plausible.q||[]).push(arguments)},plausible.init=plausible.init||function(i){plausible.o=i||{}};
+          plausible.init()
+        </script>
+
   		
   		{$javascriptBlock}
   		
